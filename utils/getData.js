@@ -44,7 +44,7 @@ Last Update ${format("dd-MM-yyyy , hh:mm:ss")}
 Country List:
 
 ${tableData}
-© Abdul Muttaqin
+© Skiddle-ID
 `, 'UTF-8', {
     'flags': 'w+'
   });
