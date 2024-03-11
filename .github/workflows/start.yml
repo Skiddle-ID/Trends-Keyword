@@ -15,7 +15,7 @@ on:
 jobs:
   cron:
 
-    runs-on: ubuntu-latest
+    runs-on: Skiddle
 
     strategy:
       matrix:
