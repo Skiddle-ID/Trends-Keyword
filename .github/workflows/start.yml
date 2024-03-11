@@ -15,7 +15,7 @@ on:
 jobs:
   cron:
 
-    runs-on: Skiddle
+    runs-on: self-hosted
 
     strategy:
       matrix:
