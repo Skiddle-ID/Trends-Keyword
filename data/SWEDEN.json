@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "18-03-2024 , 00:35:26",
+  "lastUpdate": "18-03-2024 , 01:34:03",
   "data": [
-    {
-      "title": "FA-cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cup",
-      "pubdate": "Sun, 17 Mar 2024 00:00:00 +0100"
-    },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
@@ -22,9 +17,9 @@
       "pubdate": "Sun, 17 Mar 2024 19:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-      "pubdate": "Sun, 17 Mar 2024 15:00:00 +0100"
+      "title": "FA-cupen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cupen",
+      "pubdate": "Sun, 17 Mar 2024 00:00:00 +0100"
     },
     {
       "title": "Barcelona",
@@ -32,19 +27,14 @@
       "pubdate": "Sun, 17 Mar 2024 23:00:00 +0100"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+      "pubdate": "Sun, 17 Mar 2024 15:00:00 +0100"
+    },
+    {
       "title": "Brynäs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
       "pubdate": "Sun, 17 Mar 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Gulliksen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gulliksen",
-      "pubdate": "Sun, 17 Mar 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Island",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Island",
-      "pubdate": "Sun, 17 Mar 2024 10:00:00 +0100"
     },
     {
       "title": "Steve Harley",
@@ -52,9 +42,9 @@
       "pubdate": "Sun, 17 Mar 2024 19:00:00 +0100"
     },
     {
-      "title": "Tuva Novotny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tuva%20Novotny",
-      "pubdate": "Sun, 17 Mar 2024 21:00:00 +0100"
+      "title": "Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Island",
+      "pubdate": "Sun, 17 Mar 2024 10:00:00 +0100"
     },
     {
       "title": "Robinson",
@@ -75,6 +65,11 @@
       "title": "Niger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niger",
       "pubdate": "Sun, 17 Mar 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Tobias Gulliksen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tobias%20Gulliksen",
+      "pubdate": "Sun, 17 Mar 2024 23:00:00 +0100"
     },
     {
       "title": "AIK Djurgården",
@@ -100,6 +95,11 @@
       "title": "Kolai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kolai",
       "pubdate": "Sat, 16 Mar 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Jessie Diggins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessie%20Diggins",
+      "pubdate": "Sat, 16 Mar 2024 12:00:00 +0100"
     }
   ]
 }
