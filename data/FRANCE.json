@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 11:35:51",
+  "lastUpdate": "01-04-2024 , 12:48:07",
   "data": [
     {
       "title": "Brigitte Macron",
@@ -37,14 +37,9 @@
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
     },
     {
-      "title": "Heure",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Heure",
-      "pubdate": "Sun, 31 Mar 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Francois Sureau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Sureau",
-      "pubdate": "Sun, 31 Mar 2024 01:00:00 +0100"
+      "title": "Paques 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paques%202024",
+      "pubdate": "Sun, 31 Mar 2024 11:00:00 +0200"
     },
     {
       "title": "Poisson d'avril",
@@ -52,14 +47,29 @@
       "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
     },
     {
-      "title": "FC Nantes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
-      "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
+      "title": "Francois Sureau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Sureau",
+      "pubdate": "Sun, 31 Mar 2024 01:00:00 +0100"
     },
     {
       "title": "Zendaya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zendaya",
+      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Benjamin Biolay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benjamin%20Biolay",
+      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sinner",
       "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
+    },
+    {
+      "title": "FC Nantes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Nantes",
+      "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
     },
     {
       "title": "Lundi de paques",
@@ -77,19 +87,9 @@
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
     },
     {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sinner",
-      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
-    },
-    {
       "title": "Oeuf mimosa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oeuf%20mimosa",
       "pubdate": "Sun, 31 Mar 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Pâques 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#P%C3%A2ques%202024",
-      "pubdate": "Sun, 31 Mar 2024 11:00:00 +0200"
     },
     {
       "title": "Bob Dylan",
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
     },
     {
-      "title": "Russie Ukraine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie%20Ukraine",
-      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
+      "title": "Elie Semoun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elie%20Semoun",
+      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
     }
   ]
 }
