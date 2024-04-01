@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "01-04-2024 , 07:35:43",
+  "lastUpdate": "01-04-2024 , 08:37:16",
   "data": [
+    {
+      "title": "April Fool's Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#April%20Fool's%20Day",
+      "pubdate": "Mon, 01 Apr 2024 08:00:00 +1100"
+    },
     {
       "title": "Liverpool vs Brighton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Brighton",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +1100"
     },
     {
-      "title": "April fools day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#April%20fools%20day",
-      "pubdate": "Mon, 01 Apr 2024 08:00:00 +1100"
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+      "pubdate": "Mon, 01 Apr 2024 03:00:00 +1100"
+    },
+    {
+      "title": "Hawthorn vs Geelong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawthorn%20vs%20Geelong",
+      "pubdate": "Mon, 01 Apr 2024 16:00:00 +1100"
     },
     {
       "title": "Real Madrid",
@@ -22,13 +32,13 @@
       "pubdate": "Mon, 01 Apr 2024 03:00:00 +1100"
     },
     {
-      "title": "Hawthorn vs Geelong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawthorn%20vs%20Geelong",
-      "pubdate": "Mon, 01 Apr 2024 16:00:00 +1100"
+      "title": "Eels vs Tigers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eels%20vs%20Tigers",
+      "pubdate": "Mon, 01 Apr 2024 17:00:00 +1100"
     },
     {
-      "title": "April fools pranks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#April%20fools%20pranks",
+      "title": "APRIL FOOL'S pranks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#APRIL%20FOOL'S%20pranks",
       "pubdate": "Mon, 01 Apr 2024 09:00:00 +1100"
     },
     {
@@ -45,11 +55,6 @@
       "title": "DC vs CSK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DC%20vs%20CSK",
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +1100"
-    },
-    {
-      "title": "Radar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-      "pubdate": "Mon, 01 Apr 2024 13:00:00 +1100"
     },
     {
       "title": "Jannik Sinner",
@@ -77,6 +82,11 @@
       "pubdate": "Mon, 01 Apr 2024 16:00:00 +1100"
     },
     {
+      "title": "Rashee Rice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rashee%20Rice",
+      "pubdate": "Mon, 01 Apr 2024 18:00:00 +1100"
+    },
+    {
       "title": "Measles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Measles",
       "pubdate": "Mon, 01 Apr 2024 16:00:00 +1100"
@@ -90,16 +100,6 @@
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premier%20League",
       "pubdate": "Sun, 31 Mar 2024 07:00:00 +1100"
-    },
-    {
-      "title": "Chance Perdomo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chance%20Perdomo",
-      "pubdate": "Sun, 31 Mar 2024 10:00:00 +1100"
-    },
-    {
-      "title": "JackJumpers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#JackJumpers",
-      "pubdate": "Sun, 31 Mar 2024 17:00:00 +1100"
     }
   ]
 }

@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "01-04-2024 , 07:35:47",
+  "lastUpdate": "01-04-2024 , 08:37:19",
   "data": [
+    {
+      "title": "Godzilla x Kong: Az új birodalom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Godzilla%20x%20Kong:%20Az%20%C3%BAj%20birodalom",
+      "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Bolondok napja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bolondok%20napja",
+      "pubdate": "Mon, 01 Apr 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Mága Zoltán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A1ga%20Zolt%C3%A1n",
+      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
+    },
     {
       "title": "Ronja, a rabló lánya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ronja,%20a%20rabl%C3%B3%20l%C3%A1nya",
@@ -10,6 +25,11 @@
       "title": "Liverpool–brighton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93brighton",
       "pubdate": "Sun, 31 Mar 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Locsolóversek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Locsol%C3%B3versek",
+      "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
     },
     {
       "title": "Chance Perdomo",
@@ -25,11 +45,6 @@
       "title": "Real madrid–bilbao",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93bilbao",
       "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
-      "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
     },
     {
       "title": "Paks–újpest",
@@ -52,19 +67,14 @@
       "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
     },
     {
+      "title": "Locsoloversek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Locsoloversek",
+      "pubdate": "Sun, 31 Mar 2024 09:00:00 +0200"
+    },
+    {
       "title": "FTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
       "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Moszkva tér",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moszkva%20t%C3%A9r",
-      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Pottyondy Edina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pottyondy%20Edina",
-      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
     },
     {
       "title": "Mezőkövesd",
@@ -72,34 +82,24 @@
       "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
     },
     {
-      "title": "Psg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psg",
-      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
+      "title": "Jennifer Aniston",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Aniston",
+      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
     },
     {
-      "title": "Baranyi Krisztina Varga Judit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Baranyi%20Krisztina%20Varga%20Judit",
-      "pubdate": "Sun, 31 Mar 2024 03:00:00 +0200"
+      "title": "Pottyondy Edina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pottyondy%20Edina",
+      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
     },
     {
-      "title": "Ferencváros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-      "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Jack Nicholson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jack%20Nicholson",
+      "title": "Moszkva tér",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moszkva%20t%C3%A9r",
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
     },
     {
-      "title": "Christopher Nolan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Christopher%20Nolan",
-      "pubdate": "Sun, 31 Mar 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Bayer Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayer%20Leverkusen",
-      "pubdate": "Sun, 31 Mar 2024 01:00:00 +0100"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
     }
   ]
 }
