@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 21:35:14",
+  "lastUpdate": "01-04-2024 , 22:35:34",
   "data": [
     {
       "title": "Zermatt",
@@ -17,14 +17,19 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Gotthard stau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard%20stau",
-      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
-    },
-    {
       "title": "Avalanche Zermatt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Avalanche%20Zermatt",
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Grasshoppers gegen Lausanne-Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20gegen%20Lausanne-Sport",
+      "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Gotthard stau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard%20stau",
+      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "YB",
@@ -47,6 +52,16 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
+      "title": "Jasna Fritzi Bauer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jasna%20Fritzi%20Bauer",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Familie Klemmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Familie%20Klemmer",
+      "pubdate": "Mon, 01 Apr 2024 23:00:00 +0200"
+    },
+    {
       "title": "FC Thun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
       "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
@@ -62,6 +77,11 @@
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
     },
     {
+      "title": "Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+      "pubdate": "Mon, 01 Apr 2024 23:00:00 +0200"
+    },
+    {
       "title": "Lena Meyer-Landrut",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lena%20Meyer-Landrut",
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
@@ -72,34 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
+      "title": "Dirty Dancing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dirty%20Dancing",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+    },
+    {
       "title": "Yverdon Sport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yverdon%20Sport",
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Lausanne-Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lausanne-Sport",
-      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Aprilscherze",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aprilscherze",
-      "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Frida Maanum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frida%20Maanum",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Aprilscherz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aprilscherz",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Leclerc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leclerc",
-      "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     }
   ]
 }
