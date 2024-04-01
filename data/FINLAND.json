@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 05:35:24",
+  "lastUpdate": "01-04-2024 , 06:35:43",
   "data": [
     {
       "title": "Jennifer Lawrence",
@@ -12,13 +12,13 @@
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
     },
     {
-      "title": "Bradley Cooper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bradley%20Cooper",
+      "title": "LaLiga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
     },
     {
-      "title": "LaLiga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
+      "title": "Bradley Cooper",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bradley%20Cooper",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
     },
     {
@@ -42,14 +42,14 @@
       "pubdate": "Sun, 31 Mar 2024 02:00:00 +0200"
     },
     {
-      "title": "Sonata Arctica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sonata%20Arctica",
-      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
-    },
-    {
       "title": "NAVI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NAVI",
       "pubdate": "Sun, 31 Mar 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Sonata Arctica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sonata%20Arctica",
+      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
     },
     {
       "title": "Kalle Rovanperä",
@@ -77,9 +77,9 @@
       "pubdate": "Sun, 31 Mar 2024 02:00:00 +0200"
     },
     {
-      "title": "Jamie Lee Curtis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jamie%20Lee%20Curtis",
-      "pubdate": "Sun, 31 Mar 2024 01:00:00 +0200"
+      "title": "Alzheimer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alzheimer",
+      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
     },
     {
       "title": "Arnold Schwarzenegger",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 31 Mar 2024 20:00:00 +0300"
     },
     {
-      "title": "Alzheimer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alzheimer",
-      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0300"
-    },
-    {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
       "pubdate": "Sun, 31 Mar 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Urbi et Orbi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Urbi%20et%20Orbi",
+      "pubdate": "Sun, 31 Mar 2024 23:00:00 +0300"
     }
   ]
 }

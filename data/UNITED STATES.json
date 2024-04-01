@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-04-2024 , 05:35:21",
+  "lastUpdate": "01-04-2024 , 06:35:41",
   "data": [
+    {
+      "title": "Zach Edey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zach%20Edey",
+      "pubdate": "Sun, 31 Mar 2024 13:00:00 -0700"
+    },
     {
       "title": "Easter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Easter",
-      "pubdate": "Sun, 31 Mar 2024 07:00:00 -0700"
+      "pubdate": "Sun, 31 Mar 2024 00:00:00 -0700"
     },
     {
       "title": "Rashee Rice",
@@ -22,9 +27,9 @@
       "pubdate": "Sun, 31 Mar 2024 17:00:00 -0700"
     },
     {
-      "title": "Liverpool vs Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool%20vs%20Brighton",
-      "pubdate": "Sun, 31 Mar 2024 08:00:00 -0700"
+      "title": "Bank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bank",
+      "pubdate": "Sun, 31 Mar 2024 02:00:00 -0700"
     },
     {
       "title": "Orioles",
@@ -37,6 +42,21 @@
       "pubdate": "Sun, 31 Mar 2024 06:00:00 -0700"
     },
     {
+      "title": "In-N-Out",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#In-N-Out",
+      "pubdate": "Sun, 31 Mar 2024 19:00:00 -0700"
+    },
+    {
+      "title": "Warriors vs Spurs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Spurs",
+      "pubdate": "Sun, 31 Mar 2024 19:00:00 -0700"
+    },
+    {
+      "title": "Michigan hockey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20hockey",
+      "pubdate": "Sun, 31 Mar 2024 20:00:00 -0700"
+    },
+    {
       "title": "Cubs vs Rangers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cubs%20vs%20Rangers",
       "pubdate": "Sun, 31 Mar 2024 04:00:00 -0700"
@@ -47,9 +67,19 @@
       "pubdate": "Sun, 31 Mar 2024 04:00:00 -0700"
     },
     {
+      "title": "Mike Johnson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Johnson",
+      "pubdate": "Sun, 31 Mar 2024 20:00:00 -0700"
+    },
+    {
       "title": "Resurrection",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Resurrection",
       "pubdate": "Sun, 31 Mar 2024 07:00:00 -0700"
+    },
+    {
+      "title": "Havana Syndrome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Havana%20Syndrome",
+      "pubdate": "Sun, 31 Mar 2024 19:00:00 -0700"
     },
     {
       "title": "Juan Soto",
@@ -67,39 +97,9 @@
       "pubdate": "Sun, 31 Mar 2024 09:00:00 -0700"
     },
     {
-      "title": "Havana Syndrome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Havana%20Syndrome",
-      "pubdate": "Sun, 31 Mar 2024 19:00:00 -0700"
-    },
-    {
-      "title": "Mike Johnson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Johnson",
-      "pubdate": "Sun, 31 Mar 2024 20:00:00 -0700"
-    },
-    {
       "title": "Benjamin Netanyahu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Benjamin%20Netanyahu",
       "pubdate": "Sun, 31 Mar 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rangers",
-      "pubdate": "Sun, 31 Mar 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Michael Douglas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michael%20Douglas",
-      "pubdate": "Sun, 31 Mar 2024 12:00:00 -0700"
-    },
-    {
-      "title": "Rebel Wilson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rebel%20Wilson",
-      "pubdate": "Sun, 31 Mar 2024 18:00:00 -0700"
-    },
-    {
-      "title": "Cavaliers vs Nuggets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavaliers%20vs%20Nuggets",
-      "pubdate": "Sun, 31 Mar 2024 17:00:00 -0700"
     }
   ]
 }

@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "01-04-2024 , 05:35:26",
+  "lastUpdate": "01-04-2024 , 06:35:46",
   "data": [
-    {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Djokovic",
-      "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
-    },
     {
       "title": "Elezioni Turchia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elezioni%20Turchia",
@@ -30,6 +25,11 @@
       "title": "The eagle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20eagle",
       "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Buona Pasquetta 2024!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Buona%20Pasquetta%202024!",
+      "pubdate": "Mon, 01 Apr 2024 02:00:00 +0200"
     },
     {
       "title": "Lunedi dell'Angelo",
@@ -67,11 +67,6 @@
       "pubdate": "Sun, 31 Mar 2024 11:00:00 +0200"
     },
     {
-      "title": "Raiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raiz",
-      "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
-    },
-    {
       "title": "Fatima",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fatima",
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
@@ -80,6 +75,11 @@
       "title": "Bundesliga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bundesliga",
       "pubdate": "Sun, 31 Mar 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Raiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raiz",
+      "pubdate": "Sun, 31 Mar 2024 17:00:00 +0200"
     },
     {
       "title": "Peccioli",
