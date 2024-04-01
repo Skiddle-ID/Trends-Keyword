@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-04-2024 , 15:35:01",
+  "lastUpdate": "01-04-2024 , 16:38:55",
   "data": [
     {
       "title": "Erdogan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Erdogan",
       "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Connections",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Connections",
+      "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Derby",
@@ -15,11 +20,6 @@
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
-      "pubdate": "Sun, 31 Mar 2024 16:00:00 +0200"
     },
     {
       "title": "Chance Perdomo",
@@ -57,6 +57,11 @@
       "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
     },
     {
+      "title": "Club awards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Club%20awards",
+      "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
+    },
+    {
       "title": "Ur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ur",
       "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
@@ -90,11 +95,6 @@
       "title": "Navi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Navi",
       "pubdate": "Sun, 31 Mar 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Harry Potter film",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Harry%20Potter%20film",
-      "pubdate": "Sun, 31 Mar 2024 00:00:00 +0100"
     },
     {
       "title": "Caroline Wozniacki",
