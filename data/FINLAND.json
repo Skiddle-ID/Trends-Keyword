@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 19:35:13",
+  "lastUpdate": "02-04-2024 , 20:35:14",
   "data": [
     {
       "title": "Vantaa",
@@ -7,18 +7,13 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0300"
     },
     {
+      "title": "HS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HS",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
+    },
+    {
       "title": "CNN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
-    },
-    {
-      "title": "SSAB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SSAB",
-      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Ticketmaster",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ticketmaster",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
     },
     {
@@ -27,9 +22,9 @@
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
     },
     {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Haaland",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
+      "title": "Ticketmaster",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ticketmaster",
+      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
     },
     {
       "title": "Jokela",
@@ -37,14 +32,24 @@
       "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
     },
     {
-      "title": "Guardian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guardian",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+      "title": "Haaland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Haaland",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
     },
     {
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20Times",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Guardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guardian",
+      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Reuters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Reuters",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
     },
     {
       "title": "King Kong",
@@ -62,14 +67,14 @@
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0300"
     },
     {
-      "title": "Tatarstan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tatarstan",
-      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
-    },
-    {
       "title": "From",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#From",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Salwan Momika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Salwan%20Momika",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
     },
     {
       "title": "Harry Potter",
@@ -95,11 +100,6 @@
       "title": "April Fools",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#April%20Fools",
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0300"
-    },
-    {
-      "title": "Ridley Scott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ridley%20Scott",
-      "pubdate": "Mon, 01 Apr 2024 00:00:00 +0300"
     }
   ]
 }

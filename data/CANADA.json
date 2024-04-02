@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "02-04-2024 , 19:35:12",
+  "lastUpdate": "02-04-2024 , 20:35:13",
   "data": [
-    {
-      "title": "Adder",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adder",
-      "pubdate": "Tue, 02 Apr 2024 01:00:00 -0400"
-    },
     {
       "title": "Joe Flaherty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Flaherty",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
+    },
+    {
+      "title": "Adder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adder",
+      "pubdate": "Tue, 02 Apr 2024 01:00:00 -0400"
     },
     {
       "title": "Sidney Crosby",
@@ -32,8 +32,23 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
     },
     {
+      "title": "Autism Awareness Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Day",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
+    },
+    {
       "title": "Angie Harmon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Angie%20Harmon",
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 -0400"
+    },
+    {
+      "title": "JoJo Siwa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JoJo%20Siwa",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
+    },
+    {
+      "title": "J.K. Rowling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#J.K.%20Rowling",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 -0400"
     },
     {
@@ -42,29 +57,14 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 -0400"
     },
     {
-      "title": "JoJo Siwa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JoJo%20Siwa",
-      "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
-    },
-    {
-      "title": "Ronel Blanco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ronel%20Blanco",
-      "pubdate": "Tue, 02 Apr 2024 03:00:00 -0400"
-    },
-    {
       "title": "Cher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cher",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 -0400"
     },
     {
-      "title": "Autism Awareness Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Day",
-      "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
-    },
-    {
-      "title": "JK Rowling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JK%20Rowling",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 -0400"
+      "title": "Ronel Blanco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ronel%20Blanco",
+      "pubdate": "Tue, 02 Apr 2024 03:00:00 -0400"
     },
     {
       "title": "Jennifer Garner",
@@ -77,9 +77,9 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
     },
     {
-      "title": "Jason Sudeikis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jason%20Sudeikis",
-      "pubdate": "Tue, 02 Apr 2024 00:00:00 -0400"
+      "title": "Valerie Bertinelli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Valerie%20Bertinelli",
+      "pubdate": "Tue, 02 Apr 2024 03:00:00 -0400"
     },
     {
       "title": "Hope Hicks",
@@ -87,18 +87,18 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 -0400"
     },
     {
-      "title": "Valerie Bertinelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Valerie%20Bertinelli",
-      "pubdate": "Tue, 02 Apr 2024 03:00:00 -0400"
+      "title": "Jason Sudeikis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jason%20Sudeikis",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Mayank Yadav",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mayank%20Yadav",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 -0400"
     },
     {
       "title": "Autism Awareness Month",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Autism%20Awareness%20Month",
-      "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
-    },
-    {
-      "title": "UConn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UConn",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 -0400"
     }
   ]
