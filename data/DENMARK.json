@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-04-2024 , 23:34:59",
+  "lastUpdate": "02-04-2024 , 01:35:31",
   "data": [
+    {
+      "title": "Jane Eyre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jane%20Eyre",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
+    },
     {
       "title": "Connections",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Connections",
@@ -17,24 +22,19 @@
       "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Rebel Wilson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rebel%20Wilson",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Vontae Davis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vontae%20Davis",
       "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
     },
     {
+      "title": "Rebel Wilson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rebel%20Wilson",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Charleston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charleston",
       "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "FC nordsjælland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20nordsj%C3%A6lland",
-      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "Championship",
@@ -50,6 +50,11 @@
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "April Fools",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#April%20Fools",
+      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Chance Perdomo",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
     },
     {
-      "title": "Ur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ur",
+      "title": "Club awards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Club%20awards",
       "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Marvin Gaye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marvin%20Gaye",
-      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
     }
   ]
 }

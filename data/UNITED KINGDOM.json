@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-04-2024 , 23:35:08",
+  "lastUpdate": "02-04-2024 , 01:35:40",
   "data": [
+    {
+      "title": "Leeds United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
+      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0100"
+    },
     {
       "title": "April Fools pranks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#April%20Fools%20pranks",
@@ -10,11 +15,6 @@
       "title": "Roger Daltrey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roger%20Daltrey",
       "pubdate": "Mon, 01 Apr 2024 05:00:00 +0100"
-    },
-    {
-      "title": "Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leicester%20City",
-      "pubdate": "Mon, 01 Apr 2024 13:00:00 +0100"
     },
     {
       "title": "Championship",
@@ -27,24 +27,29 @@
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0100"
     },
     {
-      "title": "Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0100"
-    },
-    {
       "title": "Anton Du Beke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Anton%20Du%20Beke",
       "pubdate": "Mon, 01 Apr 2024 21:00:00 +0100"
     },
     {
-      "title": "Leeds United vs Hull City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United%20vs%20Hull%20City",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0100"
+      "title": "Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leicester%20City",
+      "pubdate": "Mon, 01 Apr 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Leicester City vs Norwich City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leicester%20City%20vs%20Norwich%20City",
+      "pubdate": "Mon, 01 Apr 2024 13:00:00 +0100"
     },
     {
       "title": "Irish Grand National 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Irish%20Grand%20National%202024",
       "pubdate": "Mon, 01 Apr 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Russia Havana syndrome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Russia%20Havana%20syndrome",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0100"
     },
     {
       "title": "Paul O'Grady",
@@ -57,9 +62,9 @@
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0100"
     },
     {
-      "title": "Russia Havana syndrome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Russia%20Havana%20syndrome",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0100"
+      "title": "JK Rowling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#JK%20Rowling",
+      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0100"
     },
     {
       "title": "League 1",
@@ -67,19 +72,24 @@
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0100"
     },
     {
-      "title": "West Brom vs Watford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Brom%20vs%20Watford",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0100"
-    },
-    {
       "title": "Plymouth Argyle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Plymouth%20Argyle",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0100"
     },
     {
-      "title": "JK Rowling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#JK%20Rowling",
+      "title": "West Brom vs Watford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Brom%20vs%20Watford",
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Vontae Davis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Vontae%20Davis",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Giovanni Pernice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Giovanni%20Pernice",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0100"
     },
     {
       "title": "Easter Monday",
@@ -90,16 +100,6 @@
       "title": "Rishi Sunak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rishi%20Sunak",
       "pubdate": "Mon, 01 Apr 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Giovanni Pernice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Giovanni%20Pernice",
-      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Stoke City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Stoke%20City",
-      "pubdate": "Mon, 01 Apr 2024 17:00:00 +0100"
     }
   ]
 }

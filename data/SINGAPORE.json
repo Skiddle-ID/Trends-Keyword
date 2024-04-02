@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-04-2024 , 23:35:06",
+  "lastUpdate": "02-04-2024 , 01:35:38",
   "data": [
     {
       "title": "Schizophrenia",
@@ -22,19 +22,14 @@
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +0800"
     },
     {
-      "title": "Loh Kean Yew",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Loh%20Kean%20Yew",
-      "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
-    },
-    {
       "title": "April Fools' Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#April%20Fools'%20Day",
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +0800"
     },
     {
-      "title": "April Fools",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#April%20Fools",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 +0800"
+      "title": "Loh Kean Yew",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Loh%20Kean%20Yew",
+      "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
     },
     {
       "title": "MI vs RR",
@@ -44,11 +39,6 @@
     {
       "title": "Hernia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hernia",
-      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0800"
-    },
-    {
-      "title": "Hari Raya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hari%20Raya",
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +0800"
     },
     {
@@ -82,9 +72,14 @@
       "pubdate": "Mon, 01 Apr 2024 10:00:00 +0800"
     },
     {
-      "title": "Katchatheevu Island",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Katchatheevu%20Island",
+      "title": "Katchatheevu island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Katchatheevu%20island",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0800"
+    },
+    {
+      "title": "April Fools pranks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#April%20Fools%20pranks",
+      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0800"
     },
     {
       "title": "Leicester City",
@@ -100,6 +95,11 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Happy Easter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Easter",
+      "pubdate": "Sun, 31 Mar 2024 09:00:00 +0800"
     }
   ]
 }
