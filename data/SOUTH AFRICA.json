@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "02-04-2024 , 15:35:24",
+  "lastUpdate": "02-04-2024 , 16:37:45",
   "data": [
     {
       "title": "Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
       "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
+    },
+    {
+      "title": "West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Ham",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Amsterdam",
@@ -27,6 +32,11 @@
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
+      "title": "Petrol price April 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price%20April%202024",
+      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
+    },
+    {
       "title": "Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
@@ -37,19 +47,14 @@
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
-      "pubdate": "Mon, 01 Apr 2024 13:00:00 +0200"
-    },
-    {
-      "title": "April Fools pranks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#April%20Fools%20pranks",
+      "title": "April Fools' Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#April%20Fools'%20Day",
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Petrol price April 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price%20April%202024",
-      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
+      "title": "Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City",
+      "pubdate": "Mon, 01 Apr 2024 13:00:00 +0200"
     },
     {
       "title": "Atletico Madrid",
@@ -67,19 +72,14 @@
       "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "April Fools' Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#April%20Fools'%20Day",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
       "title": "Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Championship",
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
-      "title": "Ipswich Town",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
+      "title": "April Fools pranks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#April%20Fools%20pranks",
+      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Israeli protests against Netanyahu",
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Marvin Gaye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marvin%20Gaye",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
+      "title": "Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town",
+      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
     }
   ]
 }

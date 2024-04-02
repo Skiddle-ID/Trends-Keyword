@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 15:35:22",
+  "lastUpdate": "02-04-2024 , 16:37:43",
   "data": [
     {
       "title": "Pelicans vs Suns",
@@ -37,6 +37,11 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0800"
     },
     {
+      "title": "Content Warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Content%20Warning",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0800"
+    },
+    {
       "title": "Bulls vs Hawks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bulls%20vs%20Hawks",
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0800"
@@ -45,6 +50,11 @@
       "title": "Adder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Adder",
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0800"
+    },
+    {
+      "title": "Genocide",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Genocide",
+      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0800"
     },
     {
       "title": "Mayank Yadav",
@@ -72,8 +82,8 @@
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0800"
     },
     {
-      "title": "Genocide",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Genocide",
+      "title": "Jungkook",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jungkook",
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0800"
     },
     {
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 02 Apr 2024 08:00:00 +0800"
     },
     {
-      "title": "Jungkook",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jungkook",
-      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0800"
+      "title": "Speed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Speed",
+      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0800"
     },
     {
       "title": "Heat wave",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heat%20wave",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Magic vs Trail Blazers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Magic%20vs%20Trail%20Blazers",
-      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Acceleration",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Acceleration",
-      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0800"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "02-04-2024 , 15:35:14",
+  "lastUpdate": "02-04-2024 , 16:37:37",
   "data": [
     {
-      "title": "Zermatt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt",
+      "title": "Zermatt Lawine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt%20Lawine",
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Eventim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eventim",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "DFB-Pokal",
@@ -27,6 +32,11 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
+      "title": "Shannen Doherty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
+      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+    },
+    {
       "title": "Helene Fischer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
@@ -42,9 +52,14 @@
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "Shannen Doherty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
-      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+      "title": "Unfall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Cessna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cessna",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Inter Mailand",
@@ -57,9 +72,14 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Eventim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eventim",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
+      "title": "Marvin Gaye",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marvin%20Gaye",
+      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "ORF Philipp Jelinek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20Philipp%20Jelinek",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Bremen",
@@ -67,39 +87,19 @@
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "Marvin Gaye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marvin%20Gaye",
-      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+      "title": "Inflation Österreich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inflation%20%C3%96sterreich",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
     },
     {
-      "title": "Dominic Thiem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dominic%20Thiem",
-      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
+      "title": "Filip Misolic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Filip%20Misolic",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Robert Kratky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20Kratky",
-      "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Besten Aprilscherze",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besten%20Aprilscherze",
-      "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Familie Putz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Familie%20Putz",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Adidas 44",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adidas%2044",
-      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Regina Halmich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regina%20Halmich",
-      "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
+      "title": "Bianca Heinicke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bianca%20Heinicke",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     }
   ]
 }

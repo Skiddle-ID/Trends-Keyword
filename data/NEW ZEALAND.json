@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 15:35:21",
+  "lastUpdate": "02-04-2024 , 16:37:43",
   "data": [
     {
       "title": "Iowa vs LSU",
@@ -27,6 +27,11 @@
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +1300"
     },
     {
+      "title": "BOA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BOA",
+      "pubdate": "Tue, 02 Apr 2024 13:00:00 +1300"
+    },
+    {
       "title": "Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Championship",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +1300"
@@ -35,6 +40,11 @@
       "title": "Synlait",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Synlait",
       "pubdate": "Tue, 02 Apr 2024 19:00:00 +1300"
+    },
+    {
+      "title": "Women's March Madness",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Women's%20March%20Madness",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +1300"
     },
     {
       "title": "Rashee Rice",
@@ -90,16 +100,6 @@
       "title": "Luke Metcalf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luke%20Metcalf",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 +1300"
-    },
-    {
-      "title": "Ronna McDaniel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ronna%20McDaniel",
-      "pubdate": "Mon, 01 Apr 2024 17:00:00 +1300"
-    },
-    {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-      "pubdate": "Sun, 31 Mar 2024 09:00:00 +1300"
     }
   ]
 }
