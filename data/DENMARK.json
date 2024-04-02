@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 05:34:39",
+  "lastUpdate": "02-04-2024 , 06:36:33",
   "data": [
     {
       "title": "Jane Eyre",
@@ -47,6 +47,11 @@
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
     },
     {
+      "title": "Hoi an",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hoi%20an",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
@@ -90,11 +95,6 @@
       "title": "Dolly Parton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dolly%20Parton",
       "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Club awards",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Club%20awards",
-      "pubdate": "Sun, 31 Mar 2024 12:00:00 +0200"
     },
     {
       "title": "Ur",

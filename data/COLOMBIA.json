@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "02-04-2024 , 05:34:39",
+  "lastUpdate": "02-04-2024 , 06:36:32",
   "data": [
     {
       "title": "Gmail",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Gmail",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 -0500"
+      "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
     },
     {
       "title": "WhatsApp",
@@ -27,9 +27,9 @@
       "pubdate": "Mon, 01 Apr 2024 14:00:00 -0500"
     },
     {
-      "title": "Maps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Maps",
-      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0500"
+      "title": "ADRES",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#ADRES",
+      "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
     },
     {
       "title": "Sura",
@@ -37,9 +37,14 @@
       "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
     },
     {
-      "title": "Sanitas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sanitas",
-      "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
+      "title": "Maps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Maps",
+      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Nequi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nequi",
+      "pubdate": "Mon, 01 Apr 2024 14:00:00 -0500"
     },
     {
       "title": "Banco de bogota",
@@ -57,6 +62,11 @@
       "pubdate": "Mon, 01 Apr 2024 16:00:00 -0500"
     },
     {
+      "title": "Copa Libertadores",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Libertadores",
+      "pubdate": "Mon, 01 Apr 2024 14:00:00 -0500"
+    },
+    {
       "title": "Teams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Teams",
       "pubdate": "Mon, 01 Apr 2024 09:00:00 -0500"
@@ -67,19 +77,14 @@
       "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
     },
     {
-      "title": "Renta Ciudadana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Renta%20Ciudadana",
-      "pubdate": "Mon, 01 Apr 2024 14:00:00 -0500"
-    },
-    {
       "title": "Sena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sena",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 -0500"
     },
     {
-      "title": "BBVA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#BBVA",
-      "pubdate": "Mon, 01 Apr 2024 12:00:00 -0500"
+      "title": "Caracol TV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol%20TV",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 -0500"
     },
     {
       "title": "Yahoo",
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 -0500"
     },
     {
+      "title": "Renta Ciudadana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Renta%20Ciudadana",
+      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0500"
+    },
+    {
       "title": "Camara de comercio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Camara%20de%20comercio",
       "pubdate": "Mon, 01 Apr 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Inter  Empoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20%20Empoli",
-      "pubdate": "Mon, 01 Apr 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Caracol TV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol%20TV",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 -0500"
     }
   ]
 }

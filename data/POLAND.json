@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "02-04-2024 , 05:34:44",
+  "lastUpdate": "02-04-2024 , 06:36:37",
   "data": [
     {
       "title": "1 Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1%20Liga",
       "pubdate": "Tue, 02 Apr 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Puchar Polski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Polski",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Wrotycz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wrotycz",
+      "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Najlepszy",
@@ -67,14 +77,9 @@
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Żarty na prima aprilis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBarty%20na%20prima%20aprilis",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Austin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Austin",
-      "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
+      "title": "Inter – Empoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20%E2%80%93%20Empoli",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
     },
     {
       "title": "Somalia",
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Śmigus-dyngus 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Amigus-dyngus%202024",
-      "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
-    },
-    {
       "title": "Czy w poniedzialek Wielkanocny trzeba isc do kosciola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czy%20w%20poniedzialek%20Wielkanocny%20trzeba%20isc%20do%20kosciola",
       "pubdate": "Mon, 01 Apr 2024 07:00:00 +0200"
     },
     {
-      "title": "Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter",
-      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+      "title": "Sara james",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sara%20james",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     }
   ]
 }

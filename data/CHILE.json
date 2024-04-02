@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-04-2024 , 05:34:38",
+  "lastUpdate": "02-04-2024 , 06:36:32",
   "data": [
+    {
+      "title": "Colo Colo vs Cerro Porteño",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Cerro%20Porte%C3%B1o",
+      "pubdate": "Tue, 02 Apr 2024 01:00:00 -0300"
+    },
     {
       "title": "Inter  Empoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Empoli",
@@ -67,11 +72,6 @@
       "pubdate": "Mon, 01 Apr 2024 20:00:00 -0300"
     },
     {
-      "title": "April Fools",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#April%20Fools",
-      "pubdate": "Mon, 01 Apr 2024 13:00:00 -0300"
-    },
-    {
       "title": "Marcianeke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marcianeke",
       "pubdate": "Mon, 01 Apr 2024 16:00:00 -0300"
@@ -80,6 +80,11 @@
       "title": "Platense  Godoy Cruz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Platense%20%20Godoy%20Cruz",
       "pubdate": "Mon, 01 Apr 2024 21:00:00 -0300"
+    },
+    {
+      "title": "April Fools",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#April%20Fools",
+      "pubdate": "Mon, 01 Apr 2024 13:00:00 -0300"
     },
     {
       "title": "Tesoreria",
@@ -95,11 +100,6 @@
       "title": "Autismo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Autismo",
       "pubdate": "Mon, 01 Apr 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Declaracion Renta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Declaracion%20Renta",
-      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0300"
     }
   ]
 }
