@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "02-04-2024 , 11:34:42",
+  "lastUpdate": "02-04-2024 , 12:47:28",
   "data": [
+    {
+      "title": "Docs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
+      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+    },
     {
       "title": "Snapchat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+    },
+    {
+      "title": "TikTok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok",
+      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
+      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
     },
     {
       "title": "Word",
@@ -17,9 +32,29 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
+      "title": "Chat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chat",
+      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
+    },
+    {
       "title": "Amy Winehouse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Amy%20Winehouse",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Snake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snake",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Salwan Momika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Salwan%20Momika",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+    },
+    {
+      "title": "ABC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Jane Eyre",
@@ -32,14 +67,19 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "Salwan Momika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Salwan%20Momika",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
-    },
-    {
       "title": "Min",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Min",
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Eid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eid",
+      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
+    },
+    {
+      "title": "CFU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CFU",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Connections",
@@ -60,46 +100,6 @@
       "title": "Derby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Derby",
       "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Rebel Wilson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rebel%20Wilson",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Charleston",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charleston",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Havana Syndrome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Havana%20Syndrome",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Championship",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Championship",
-      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Hoi an",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hoi%20an",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSG",
-      "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "April Fools",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#April%20Fools",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Chance Perdomo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chance%20Perdomo",
-      "pubdate": "Sun, 31 Mar 2024 00:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 11:34:47",
+  "lastUpdate": "02-04-2024 , 12:47:34",
   "data": [
     {
       "title": "1 Liga",
@@ -12,14 +12,14 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Fortuna 1 Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fortuna%201%20Liga",
-      "pubdate": "Tue, 02 Apr 2024 02:00:00 +0200"
+      "title": "Windy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Puchar Polski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Polski",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+      "title": "I Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#I%20Liga",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
       "title": "World Central Kitchen",
@@ -27,18 +27,18 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     },
     {
+      "title": "1 liga tabela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1%20liga%20tabela",
+      "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Puchar Polski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Polski",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+    },
+    {
       "title": "Rammstein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rammstein",
-      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Najlepszy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Najlepszy",
-      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Światowy Dzień Autyzmu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Awiatowy%20Dzie%C5%84%20Autyzmu",
       "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
     },
     {
@@ -57,18 +57,18 @@
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Tychy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tychy",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
       "title": "Radomiak Radom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radomiak%20Radom",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Zakopane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakopane",
+      "title": "Tychy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tychy",
+      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Zakopane drzewo spadlo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakopane%20drzewo%20spadlo",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
@@ -77,19 +77,14 @@
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
-      "title": "Najlepsze żarty! na Prima aprilis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Najlepsze%20%C5%BCarty!%20na%20Prima%20aprilis",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
       "title": "Motor Lublin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Motor%20Lublin",
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Benjamin Netanjahu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Benjamin%20Netanjahu",
-      "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
+      "title": "Prima aprilis żarty!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prima%20aprilis%20%C5%BCarty!",
+      "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Mieczysław Grąbka",
@@ -97,9 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Żarty na prima aprilis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBarty%20na%20prima%20aprilis",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
+      "title": "1 kwietnia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1%20kwietnia",
+      "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Inter – Empoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Inter%20%E2%80%93%20Empoli",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
     }
   ]
 }
