@@ -1,1 +1,1 @@
-Helene Fischer,Deutsche Telekom,DFB-Pokal,Zermatt,ORF-Gehälter Kratky,Besten Aprilscherze,Estoril Open,Regina Halmich,Dirty Dancing,Aprilscherze,Sinner,Jasna Fritzi Bauer,Adidas 44 Trikot,Judas Priest,Inter gegen Empoli,Wiener Stadthalle,Oliver Pocher,Aprilscherz,Vontae Davis,Lena Meyer-Landrut
+DFB-Pokal,Helene Fischer,Deutsche Telekom,LMS,Zermatt,Anton,ORF-Gehälter Kratky,Besten Aprilscherze,Familie Putz,Estoril Open,Regina Halmich,Dirty Dancing,Sinner,Aprilscherze,Adidas 44 Trikot,Jasna Fritzi Bauer,Inter gegen Empoli,Judas Priest,Wiener Stadthalle,Oliver Pocher

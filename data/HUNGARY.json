@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 07:35:56",
+  "lastUpdate": "02-04-2024 , 08:35:51",
   "data": [
     {
       "title": "Atletico Madrid",
@@ -7,8 +7,8 @@
       "pubdate": "Tue, 02 Apr 2024 05:00:00 +0200"
     },
     {
-      "title": "Mere",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mere",
+      "title": "MERE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MERE",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
     },
     {
@@ -27,19 +27,14 @@
       "pubdate": "Mon, 01 Apr 2024 13:00:00 +0200"
     },
     {
+      "title": "Bolondok napja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bolondok%20napja",
+      "pubdate": "Mon, 01 Apr 2024 05:00:00 +0200"
+    },
+    {
       "title": "Godzilla x Kong: Az új birodalom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Godzilla%20x%20Kong:%20Az%20%C3%BAj%20birodalom",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Oscar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Oscar",
-      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jakupcsek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek",
-      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Varga Mihály",
@@ -47,19 +42,9 @@
       "pubdate": "Mon, 01 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Marco Rossi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
+      "title": "Jakupcsek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek",
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Pesuth Rita",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pesuth%20Rita",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Mága Zoltán",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A1ga%20Zolt%C3%A1n",
-      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Ursula",
@@ -67,19 +52,34 @@
       "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
     },
     {
+      "title": "Marco Rossi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
+      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Mága Zoltán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A1ga%20Zolt%C3%A1n",
+      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
+    },
+    {
       "title": "Ronja, a rabló lánya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ronja,%20a%20rabl%C3%B3%20l%C3%A1nya",
       "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Milák Kristóf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
-      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
+      "title": "Vasúttörténeti Park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vas%C3%BAtt%C3%B6rt%C3%A9neti%20Park",
+      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Vontae Davis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vontae%20Davis",
       "pubdate": "Mon, 01 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Milák Kristóf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
+      "pubdate": "Mon, 01 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Sinner",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Szaharai por",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szaharai%20por",
-      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
-    },
-    {
       "title": "Mihalik Enikő",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mihalik%20Enik%C5%91",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Szaharai por a levegőben",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szaharai%20por%20a%20leveg%C5%91ben",
+      "pubdate": "Mon, 01 Apr 2024 23:00:00 +0200"
     }
   ]
 }

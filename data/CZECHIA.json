@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 07:35:53",
+  "lastUpdate": "02-04-2024 , 08:35:49",
   "data": [
     {
       "title": "Michaela kuklová",
@@ -10,6 +10,11 @@
       "title": "Kouzla králů",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kouzla%20kr%C3%A1l%C5%AF",
       "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Specialisté",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Specialist%C3%A9",
+      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Belmondo",
@@ -40,6 +45,11 @@
       "title": "Zlatovlaska",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlatovlaska",
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Bára Poláková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C3%A1ra%20Pol%C3%A1kov%C3%A1",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Erdogan",
@@ -87,18 +97,8 @@
       "pubdate": "Sun, 31 Mar 2024 10:00:00 +0200"
     },
     {
-      "title": "Velikonoční pondělí",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velikono%C4%8Dn%C3%AD%20pond%C4%9Bl%C3%AD",
-      "pubdate": "Sun, 31 Mar 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Medvecká",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Medveck%C3%A1",
-      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Tajemství staré bambitky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tajemstv%C3%AD%20star%C3%A9%20bambitky",
+      "title": "Libuše Šafránková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Libu%C5%A1e%20%C5%A0afr%C3%A1nkov%C3%A1",
       "pubdate": "Sun, 31 Mar 2024 18:00:00 +0200"
     }
   ]
