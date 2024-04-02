@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 09:35:24",
+  "lastUpdate": "02-04-2024 , 10:35:14",
   "data": [
     {
       "title": "Classifica Serie A",
@@ -32,6 +32,11 @@
       "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
     },
     {
+      "title": "Seria a",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Seria%20a",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
+    },
+    {
       "title": "Nuoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuoro",
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
@@ -42,9 +47,9 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Vettel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vettel",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
+      "title": "Lello' Capriati",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lello'%20Capriati",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Simona Ventura",
@@ -52,9 +57,14 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Como Sudtirol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Como%20Sudtirol",
-      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
+      "title": "Guenda Goria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Guenda%20Goria",
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Virtus Bologna  Pistoia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna%20%20Pistoia",
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
       "title": "Primavera 1",
@@ -67,16 +77,6 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Conte Juve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Conte%20Juve",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Virtus Bologna  Pistoia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna%20%20Pistoia",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
-    },
-    {
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A",
       "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
@@ -87,19 +87,19 @@
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
+      "title": "Serie B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
+      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+    },
+    {
       "title": "Cagliari Calcio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cagliari%20Calcio",
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Pesce d'aprile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pesce%20d'aprile",
-      "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Sampdoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sampdoria",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
     }
   ]
 }

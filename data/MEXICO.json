@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 09:35:25",
+  "lastUpdate": "02-04-2024 , 10:35:15",
   "data": [
     {
       "title": "Carlos Vela",
@@ -27,6 +27,11 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 -0600"
     },
     {
+      "title": "Concachampions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Concachampions",
+      "pubdate": "Mon, 01 Apr 2024 16:00:00 -0600"
+    },
+    {
       "title": "Luis Miguel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luis%20Miguel",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 -0600"
@@ -37,9 +42,9 @@
       "pubdate": "Mon, 01 Apr 2024 07:00:00 -0600"
     },
     {
-      "title": "Dia de los Inocentes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20de%20los%20Inocentes",
-      "pubdate": "Mon, 01 Apr 2024 10:00:00 -0600"
+      "title": "April Fools",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#April%20Fools",
+      "pubdate": "Mon, 01 Apr 2024 09:00:00 -0600"
     },
     {
       "title": "Real Madrid vs",
@@ -52,9 +57,19 @@
       "pubdate": "Mon, 01 Apr 2024 13:00:00 -0600"
     },
     {
-      "title": "April Fools",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#April%20Fools",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 -0600"
+      "title": "Declaracion de impuestos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Declaracion%20de%20impuestos",
+      "pubdate": "Mon, 01 Apr 2024 01:00:00 -0600"
+    },
+    {
+      "title": "Gisela gaytan Celaya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gisela%20gaytan%20Celaya",
+      "pubdate": "Mon, 01 Apr 2024 20:00:00 -0600"
+    },
+    {
+      "title": "Dia de los Inocentes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20de%20los%20Inocentes",
+      "pubdate": "Mon, 01 Apr 2024 10:00:00 -0600"
     },
     {
       "title": "Interpol",
@@ -85,21 +100,6 @@
       "title": "Maze Runner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maze%20Runner",
       "pubdate": "Mon, 01 Apr 2024 14:00:00 -0600"
-    },
-    {
-      "title": "Lecce - Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lecce%20-%20Roma",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 -0600"
-    },
-    {
-      "title": "Chivas Femenil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20Femenil",
-      "pubdate": "Mon, 01 Apr 2024 01:00:00 -0600"
-    },
-    {
-      "title": "Integra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Integra",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 -0600"
     }
   ]
 }

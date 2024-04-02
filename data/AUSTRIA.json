@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 09:35:17",
+  "lastUpdate": "02-04-2024 , 10:35:10",
   "data": [
     {
       "title": "DFB-Pokal",
@@ -22,14 +22,14 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Zermatt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
-    },
-    {
       "title": "Anton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Zermatt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "ORF-Gehälter Kratky",
@@ -47,24 +47,19 @@
       "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Estoril Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Estoril%20Open",
-      "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
-    },
-    {
       "title": "Regina Halmich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regina%20Halmich",
       "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "Dirty Dancing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dirty%20Dancing",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sinner",
       "pubdate": "Mon, 01 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Familie Klemmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Familie%20Klemmer",
+      "pubdate": "Mon, 01 Apr 2024 23:00:00 +0200"
     },
     {
       "title": "Aprilscherze",
@@ -82,11 +77,6 @@
       "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Inter gegen Empoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20Empoli",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Judas Priest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Judas%20Priest",
       "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
@@ -97,9 +87,19 @@
       "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     },
     {
+      "title": "Vontae Davis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vontae%20Davis",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+    },
+    {
       "title": "Oliver Pocher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oliver%20Pocher",
       "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Inter gegen Empoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20gegen%20Empoli",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     }
   ]
 }
