@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 17:34:34",
+  "lastUpdate": "02-04-2024 , 18:35:56",
   "data": [
     {
       "title": "Alex Kroes",
@@ -7,9 +7,14 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "SBS9",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SBS9",
+      "title": "Viaplay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Viaplay",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Vitesse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Babboe",
@@ -17,14 +22,14 @@
       "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
+      "title": "Gijzeling Heerhugowaard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gijzeling%20Heerhugowaard",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
+    },
+    {
       "title": "FC Groningen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
       "pubdate": "Mon, 01 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Emmen  Groningen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen%20%20Groningen",
-      "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "1 april",
@@ -64,11 +69,6 @@
     {
       "title": "Erdogan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Erdogan",
-      "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Gilamonster",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gilamonster",
       "pubdate": "Sun, 31 Mar 2024 22:00:00 +0200"
     },
     {

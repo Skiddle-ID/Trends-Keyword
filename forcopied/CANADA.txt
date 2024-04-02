@@ -1,1 +1,1 @@
-Adder,Joe Flaherty,Sidney Crosby,Ed Piskor,Kim Mulkey,Ronel Blanco,Angie Harmon,Cher,World Central Kitchen,Ben Affleck,Jennifer Garner,Jason Sudeikis,Autism Awareness Month,J.K. Rowling,UConn,Queens of the Stone Age,Hope Hicks,Tampa Bay Lightning,Valerie Bertinelli,Autism Awareness Day
+Adder,Joe Flaherty,Sidney Crosby,Ed Piskor,Kim Mulkey,World Central Kitchen,Angie Harmon,Jennifer Polak,JoJo Siwa,Ronel Blanco,Cher,Autism Awareness Day,JK Rowling,Jennifer Garner,Ben Affleck,Jason Sudeikis,Hope Hicks,Valerie Bertinelli,Autism Awareness Month,UConn

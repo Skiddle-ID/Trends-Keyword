@@ -1,1 +1,1 @@
-SMHI,Frölunda,Vanda,Sara Skyttedal,Vontae Davis,Hanna Friberg,NOTD,Maryse Condé,Trafiken.nu,Star FM,AIK,IFK Göteborg mot Djurgården,IFK Göteborg,Aprilskämt,Brynäs Karlskoga,Djurgården,Brynäs,Agnes Hirdwall,Elfsborg Värnamo,Ben Mitkus
+SMHI,Vanda,Sara Skyttedal,Vädret,Vontae Davis,Maryse Condé,Hanna Friberg,NOTD,Trafiken.nu,SSAB,IFK Värnamo,Frölunda,AIK,IFK Göteborg mot Djurgården,IFK Göteborg,Aprilskämt,Djurgården,Brynäs Karlskoga,Brynäs,Agnes Hirdwall
