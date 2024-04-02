@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 21:34:47",
+  "lastUpdate": "02-04-2024 , 22:35:04",
   "data": [
     {
       "title": "Philipp Jelinek",
@@ -27,14 +27,24 @@
       "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
+      "title": "Shannen Doherty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
+      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Unfall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+    },
+    {
       "title": "Zermatt Lawine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt%20Lawine",
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
     },
     {
-      "title": "Shannen Doherty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
-      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+      "title": "Süper Lig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCper%20Lig",
+      "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "Verbund",
@@ -57,19 +67,14 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Bayer Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer%20Leverkusen",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Unfall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "Anton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Bayer Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer%20Leverkusen",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Helene Fischer",
@@ -95,11 +100,6 @@
       "title": "Vorsorgekasse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vorsorgekasse",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-      "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
     }
   ]
 }

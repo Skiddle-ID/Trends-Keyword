@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "02-04-2024 , 21:34:57",
+  "lastUpdate": "02-04-2024 , 22:35:15",
   "data": [
     {
       "title": "Galatasaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray",
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Fenerbahçe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0300"
     },
     {
       "title": "Masquerade",
@@ -17,9 +22,9 @@
       "pubdate": "Tue, 02 Apr 2024 19:00:00 +0300"
     },
     {
-      "title": "Fenerbahçe kongre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20kongre",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0300"
+      "title": "Antalyaspor - Ankaragücü",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor%20-%20Ankarag%C3%BCc%C3%BC",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0300"
     },
     {
       "title": "Kadir Gecesi 2024",
@@ -27,24 +32,9 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "Rizespor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
-    },
-    {
-      "title": "Antalyaspor - Ankaragücü",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor%20-%20Ankarag%C3%BCc%C3%BC",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Şanlıurfaspor - Sakaryaspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor%20-%20Sakaryaspor",
+      "title": "Şanlıurfaspor,  Sakaryaspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor,%20%20Sakaryaspor",
       "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Gaziantep FK - Alanyaspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gaziantep%20FK%20-%20Alanyaspor",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0300"
     },
     {
       "title": "Salwan Momika",
@@ -52,19 +42,24 @@
       "pubdate": "Tue, 02 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "Çorum FK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
-    },
-    {
       "title": "Sağlık Bakanlığı kura",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sa%C4%9Fl%C4%B1k%20Bakanl%C4%B1%C4%9F%C4%B1%20kura",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0300"
     },
     {
-      "title": "1.lig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#1.lig",
+      "title": "Çorum FK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87orum%20FK",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Rizespor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Alanyaspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
     },
     {
       "title": "Otizm Farkındalık Günü",
@@ -77,19 +72,24 @@
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +0300"
     },
     {
+      "title": "Boluspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Boluspor",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0300"
+    },
+    {
       "title": "UÇUŞ PLANI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#U%C3%87U%C5%9E%20PLANI",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0300"
     },
     {
-      "title": "Filiz Akın",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Filiz%20Ak%C4%B1n",
-      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
+      "title": "Memnu hakların iadesi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Memnu%20haklar%C4%B1n%20iadesi",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0300"
     },
     {
-      "title": "Doviz Kuru",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Doviz%20Kuru",
-      "pubdate": "Tue, 02 Apr 2024 05:00:00 +0300"
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
+      "pubdate": "Tue, 02 Apr 2024 23:00:00 +0300"
     },
     {
       "title": "Togay Bayatlı",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0300"
     },
     {
-      "title": "İbrahim Tatlıses",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0brahim%20Tatl%C4%B1ses",
-      "pubdate": "Tue, 02 Apr 2024 04:00:00 +0300"
+      "title": "Muslera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Muslera",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
     }
   ]
 }

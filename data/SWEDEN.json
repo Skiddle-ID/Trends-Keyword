@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-04-2024 , 21:34:56",
+  "lastUpdate": "02-04-2024 , 22:35:14",
   "data": [
     {
       "title": "SMHI",
@@ -42,14 +42,24 @@
       "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "IFK Värnamo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
+      "title": "SSAB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SSAB",
+      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Matrix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matrix",
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "Degerfors IF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
+      "title": "Alexander Isak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Isak",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "IFK Värnamo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
       "title": "AIK",
@@ -62,19 +72,19 @@
       "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "IFK Göteborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
-      "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
-    },
-    {
       "title": "Bachelorette 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bachelorette%202024",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Frölunda Leksand",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Leksand",
+      "title": "Frölunda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
       "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "IFK Göteborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+      "pubdate": "Mon, 01 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Aprilskämt",
@@ -82,24 +92,14 @@
       "pubdate": "Mon, 01 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Djurgården",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+      "title": "Elfsborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "AIK mot Västerås SK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20mot%20V%C3%A4ster%C3%A5s%20SK",
-      "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Brynäs Karlskoga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20Karlskoga",
       "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Brynäs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     }
   ]
 }
