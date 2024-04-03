@@ -1,1 +1,1 @@
-Vodafone,Chris Cross,Horányi Juli,Joker 2,J.K. Rowling,Magyar Kupa,Shannen Doherty,Autizmus világnapja,Dead Kennedys,Bódi Guszti,Rúzsa Magdi,Juventus,Miklósa Erika,BL,Newcastle,Atletico Madrid,SS,Tóth Andi,Cipoe,Mere
+Vodafone,Semmelweis,Chris Cross,Kisvárda FC,Horányi Juli,Joker 2,J.K. Rowling,Magyar Kupa,Hatala Anna dandártábornok,Shannen Doherty,Autizmus világnapja,West ham–tottenham,Bódi Guszti,Dead Kennedys,Rúzsa Magdi,Miklósa Erika,Juventus,BL,Newcastle,Atletico Madrid
