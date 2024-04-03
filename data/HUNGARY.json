@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 11:35:02",
+  "lastUpdate": "03-04-2024 , 12:46:02",
   "data": [
     {
       "title": "Vodafone",
@@ -17,14 +17,19 @@
       "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
     },
     {
+      "title": "Joker 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joker%202",
+      "pubdate": "Wed, 03 Apr 2024 13:00:00 +0200"
+    },
+    {
+      "title": "J.K. Rowling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J.K.%20Rowling",
+      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
+    },
+    {
       "title": "Magyar Kupa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Kupa",
       "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "JK Rowling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#JK%20Rowling",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "Shannen Doherty",
@@ -42,8 +47,8 @@
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "Bódi guszti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3di%20guszti",
+      "title": "Bódi Guszti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3di%20Guszti",
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Miklósa Erika",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mikl%C3%B3sa%20Erika",
       "pubdate": "Tue, 02 Apr 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Jeszenszky Zsolt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jeszenszky%20Zsolt",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "BL",
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Április 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81prilis%202",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Cipoe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cipoe",
       "pubdate": "Mon, 01 Apr 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Mere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mere",
+      "pubdate": "Mon, 01 Apr 2024 12:00:00 +0200"
     }
   ]
 }
