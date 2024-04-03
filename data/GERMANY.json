@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 01:32:04",
+  "lastUpdate": "03-04-2024 , 02:35:29",
   "data": [
     {
       "title": "Gerhard Schröder",
@@ -9,7 +9,7 @@
     {
       "title": "DFB-Pokal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-      "pubdate": "Tue, 02 Apr 2024 03:00:00 +0200"
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
       "title": "Botswana Elefanten",
@@ -27,18 +27,13 @@
       "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Bianca Heinicke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bianca%20Heinicke",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+      "title": "Ionos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ionos",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Das erste",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Ionos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ionos",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
@@ -55,11 +50,6 @@
       "title": "Stefan Raab",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Raab",
       "pubdate": "Mon, 01 Apr 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Havanna-Syndrom russland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Havanna-Syndrom%20russland",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Cannabis",
@@ -100,6 +90,16 @@
       "title": "Zermatt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zermatt",
       "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "HSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+      "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Schalke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+      "pubdate": "Sun, 31 Mar 2024 14:00:00 +0200"
     }
   ]
 }

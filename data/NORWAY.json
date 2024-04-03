@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 01:32:08",
+  "lastUpdate": "03-04-2024 , 02:35:33",
   "data": [
     {
       "title": "Ida Elise Broch",
@@ -17,11 +17,6 @@
       "pubdate": "Tue, 02 Apr 2024 13:00:00 +0200"
     },
     {
-      "title": "Jon Peters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jon%20Peters",
-      "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
-    },
-    {
       "title": "Campus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
@@ -35,6 +30,11 @@
       "title": "Francesca Farago",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Francesca%20Farago",
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Subjekt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subjekt",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Tuva Moflag",

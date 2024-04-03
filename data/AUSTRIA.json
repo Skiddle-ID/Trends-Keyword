@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 01:32:00",
+  "lastUpdate": "03-04-2024 , 02:35:26",
   "data": [
     {
       "title": "Philipp Jelinek",
@@ -10,11 +10,6 @@
       "title": "DFB-Pokal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DFB-Pokal",
       "pubdate": "Tue, 02 Apr 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Maddie McCann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maddie%20McCann",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "Howard Carpendale",
@@ -37,16 +32,6 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Unfall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Bibi Heinicke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bibi%20Heinicke",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "Süper Lig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCper%20Lig",
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
@@ -62,19 +47,19 @@
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
     },
     {
-      "title": "Cessna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cessna",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Iran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iran",
-      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
-    },
-    {
       "title": "LMS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LMS",
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Lkw-Unfall A1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lkw-Unfall%20A1",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Unfall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Anton",
@@ -85,6 +70,11 @@
       "title": "Bayer Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer%20Leverkusen",
       "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Cessna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cessna",
+      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Helene Fischer",
@@ -100,6 +90,16 @@
       "title": "Vorsorgekasse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vorsorgekasse",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "AK Wahl 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AK%20Wahl%202024",
+      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Iran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iran",
+      "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     }
   ]
 }

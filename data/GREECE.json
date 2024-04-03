@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-04-2024 , 01:32:04",
+  "lastUpdate": "03-04-2024 , 02:35:29",
   "data": [
     {
       "title": "The Goldfinch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#The%20Goldfinch",
       "pubdate": "Wed, 03 Apr 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Tottenham",
+      "pubdate": "Wed, 03 Apr 2024 02:00:00 +0300"
     },
     {
       "title": "Γιουβεντουσ",
@@ -27,8 +32,8 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0300"
     },
     {
-      "title": "Μαγισσα",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B1%CE%B3%CE%B9%CF%83%CF%83%CE%B1",
+      "title": "ΜΑΓΙΣΣΑ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%91%CE%93%CE%99%CE%A3%CE%A3%CE%91",
       "pubdate": "Tue, 02 Apr 2024 02:00:00 +0300"
     },
     {
@@ -47,11 +52,6 @@
       "pubdate": "Tue, 02 Apr 2024 02:00:00 +0300"
     },
     {
-      "title": "Φωτια ΤΩΡΑ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A6%CF%89%CF%84%CE%B9%CE%B1%20%CE%A4%CE%A9%CE%A1%CE%91",
-      "pubdate": "Tue, 02 Apr 2024 13:00:00 +0300"
-    },
-    {
       "title": "Alpha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Alpha",
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0300"
@@ -65,11 +65,6 @@
       "title": "Eurojackpot κληρωση",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Eurojackpot%20%CE%BA%CE%BB%CE%B7%CF%81%CF%89%CF%83%CE%B7",
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Χανς Κρίστιαν Άντερσεν",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A7%CE%B1%CE%BD%CF%82%20%CE%9A%CF%81%CE%AF%CF%83%CF%84%CE%B9%CE%B1%CE%BD%20%CE%86%CE%BD%CF%84%CE%B5%CF%81%CF%83%CE%B5%CE%BD",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0300"
     },
     {
       "title": "Σάνεν Ντόχερτι",
@@ -87,11 +82,6 @@
       "pubdate": "Tue, 02 Apr 2024 09:00:00 +0300"
     },
     {
-      "title": "Σουδαν",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CE%BF%CF%85%CE%B4%CE%B1%CE%BD",
-      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
-    },
-    {
       "title": "Μιχοσ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B9%CF%87%CE%BF%CF%83",
       "pubdate": "Tue, 02 Apr 2024 02:00:00 +0300"
@@ -100,6 +90,16 @@
       "title": "Μαρια παπαγεωργιου",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9C%CE%B1%CF%81%CE%B9%CE%B1%20%CF%80%CE%B1%CF%80%CE%B1%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%B9%CE%BF%CF%85",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Βασιλησ μαγγοσ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%B1%CF%83%CE%B9%CE%BB%CE%B7%CF%83%20%CE%BC%CE%B1%CE%B3%CE%B3%CE%BF%CF%83",
+      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Φεστιβαλ αθηνων επιδαυρου 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A6%CE%B5%CF%83%CF%84%CE%B9%CE%B2%CE%B1%CE%BB%20%CE%B1%CE%B8%CE%B7%CE%BD%CF%89%CE%BD%20%CE%B5%CF%80%CE%B9%CE%B4%CE%B1%CF%85%CF%81%CE%BF%CF%85%202024",
+      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0300"
     }
   ]
 }
