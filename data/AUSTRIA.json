@@ -1,10 +1,40 @@
 {
-  "lastUpdate": "03-04-2024 , 07:35:44",
+  "lastUpdate": "03-04-2024 , 08:34:53",
   "data": [
     {
       "title": "Taiwan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taiwan",
       "pubdate": "Wed, 03 Apr 2024 07:00:00 +0200"
+    },
+    {
+      "title": "FSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FSG",
+      "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Botswana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Botswana",
+      "pubdate": "Wed, 03 Apr 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Christian Stocker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20Stocker",
+      "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Xiaomi Auto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Xiaomi%20Auto",
+      "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Helsinki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helsinki",
+      "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Prominent getrennt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Prominent%20getrennt",
+      "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
     },
     {
       "title": "Philipp Jelinek",
@@ -32,14 +62,14 @@
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Teams",
+      "pubdate": "Tue, 02 Apr 2024 11:00:00 +0200"
+    },
+    {
       "title": "Shannen Doherty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Eventim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eventim",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Bibi Heinicke",
@@ -52,6 +82,11 @@
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
     },
     {
+      "title": "Juventus gegen Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus%20gegen%20Lazio",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
+    },
+    {
       "title": "Verbund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verbund",
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
@@ -62,44 +97,9 @@
       "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Juventus gegen Lazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus%20gegen%20Lazio",
-      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Zermatt Lawine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt%20Lawine",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
-    },
-    {
       "title": "Lkw-Unfall A1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lkw-Unfall%20A1",
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "LMS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LMS",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Unfall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Anton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Bayer Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayer%20Leverkusen",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Cessna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cessna",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
     }
   ]
 }

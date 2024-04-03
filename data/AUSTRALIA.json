@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 07:35:44",
+  "lastUpdate": "03-04-2024 , 08:34:52",
   "data": [
     {
       "title": "Taiwan",
@@ -12,18 +12,13 @@
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +1100"
     },
     {
-      "title": "West Ham vs Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham%20vs%20Tottenham",
-      "pubdate": "Wed, 03 Apr 2024 07:00:00 +1100"
-    },
-    {
       "title": "Chris Stapleton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Stapleton",
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +1100"
     },
     {
-      "title": "Bruce Lehrmann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Lehrmann",
+      "title": "West Ham vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Ham%20vs%20Tottenham",
       "pubdate": "Wed, 03 Apr 2024 07:00:00 +1100"
     },
     {
@@ -32,14 +27,24 @@
       "pubdate": "Wed, 03 Apr 2024 07:00:00 +1100"
     },
     {
+      "title": "Bruce Lehrmann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Lehrmann",
+      "pubdate": "Wed, 03 Apr 2024 07:00:00 +1100"
+    },
+    {
       "title": "Joe Flaherty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Flaherty",
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +1100"
     },
     {
-      "title": "Japan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Japan",
-      "pubdate": "Wed, 03 Apr 2024 15:00:00 +1100"
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+      "pubdate": "Wed, 03 Apr 2024 09:00:00 +1100"
+    },
+    {
+      "title": "Gauge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gauge",
+      "pubdate": "Wed, 03 Apr 2024 11:00:00 +1100"
     },
     {
       "title": "Newcastle vs Everton",
@@ -50,11 +55,6 @@
       "title": "Nick Riewoldt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Riewoldt",
       "pubdate": "Wed, 03 Apr 2024 08:00:00 +1100"
-    },
-    {
-      "title": "Gauge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gauge",
-      "pubdate": "Wed, 03 Apr 2024 11:00:00 +1100"
     },
     {
       "title": "Marcia Hines",
@@ -87,6 +87,11 @@
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +1100"
     },
     {
+      "title": "Mary",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mary",
+      "pubdate": "Wed, 03 Apr 2024 17:00:00 +1100"
+    },
+    {
       "title": "Adder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adder",
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +1100"
@@ -95,11 +100,6 @@
       "title": "Iowa vs LSU",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iowa%20vs%20LSU",
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +1100"
-    },
-    {
-      "title": "Havana Syndrome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Havana%20Syndrome",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +1100"
     }
   ]
 }
