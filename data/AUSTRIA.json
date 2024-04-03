@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-04-2024 , 05:35:01",
+  "lastUpdate": "03-04-2024 , 06:35:14",
   "data": [
+    {
+      "title": "Taiwan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taiwan",
+      "pubdate": "Wed, 03 Apr 2024 07:00:00 +0200"
+    },
     {
       "title": "Philipp Jelinek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philipp%20Jelinek",
@@ -27,19 +32,14 @@
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Eventim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eventim",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
-    },
-    {
       "title": "Shannen Doherty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shannen%20Doherty",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Speckup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Speckup",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
+      "title": "Eventim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eventim",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Bibi Heinicke",
@@ -52,24 +52,34 @@
       "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Zermatt Lawine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt%20Lawine",
-      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
-    },
-    {
       "title": "Verbund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verbund",
       "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
     },
     {
-      "title": "LMS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LMS",
-      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
+      "title": "Elton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elton",
+      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Juventus gegen Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus%20gegen%20Lazio",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Zermatt Lawine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zermatt%20Lawine",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "Lkw-Unfall A1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lkw-Unfall%20A1",
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "LMS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LMS",
+      "pubdate": "Tue, 02 Apr 2024 09:00:00 +0200"
     },
     {
       "title": "Unfall",
@@ -90,16 +100,6 @@
       "title": "Cessna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cessna",
       "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Deutsche Telekom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutsche%20Telekom",
-      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Vorsorgekasse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vorsorgekasse",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     }
   ]
 }
