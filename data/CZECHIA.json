@@ -1,19 +1,14 @@
 {
-  "lastUpdate": "02-04-2024 , 23:35:18",
+  "lastUpdate": "03-04-2024 , 01:32:02",
   "data": [
     {
       "title": "Warner TV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Warner%20TV",
-      "pubdate": "Tue, 02 Apr 2024 12:00:00 +0200"
+      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     },
     {
       "title": "Jablonec – Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jablonec%20%E2%80%93%20Plze%C5%88",
-      "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "MasterChef",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MasterChef",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
     },
     {
@@ -27,6 +22,11 @@
       "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
     },
     {
+      "title": "West Ham – Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Tottenham",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "HCSPARTA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HCSPARTA",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
@@ -35,6 +35,11 @@
       "title": "Ondřej Kania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Kania",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "MasterChef",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MasterChef",
+      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
     },
     {
       "title": "Sparta trinec",
@@ -67,6 +72,16 @@
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
     },
     {
+      "title": "Vesele Velikonoce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesele%20Velikonoce",
+      "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "ČT sport Plus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport%20Plus",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Belmondo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Belmondo",
       "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Marek Lambora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Lambora",
       "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sul nad zlato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sul%20nad%20zlato",
-      "pubdate": "Mon, 01 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Kuklova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kuklova",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Bára Poláková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C3%A1ra%20Pol%C3%A1kov%C3%A1",
-      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     }
   ]
 }
