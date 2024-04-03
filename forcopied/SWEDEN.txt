@@ -1,1 +1,1 @@
-SMHI,Skyttedal,Vanda,Öster mot Degerfors,Vontae Davis,Maryse Condé,Autism,Trafiken.nu,E20,SSAB,NOTD,IFK Värnamo,AIK,IFK Göteborg mot Djurgården,Bachelorette 2024,Frölunda,IFK Göteborg,Aprilskämt,Elfsborg,Djurgården
+Frölunda,Skyttedal,Vanda,Öster mot Degerfors,Vontae Davis,Maryse Condé,Trafiken.nu,Autism,E20,SSAB,NOTD,Matrix,AIK,IFK Göteborg mot Djurgården,Bachelorette 2024,IFK Göteborg,Aprilskämt,Elfsborg,Djurgården,Brynäs Karlskoga

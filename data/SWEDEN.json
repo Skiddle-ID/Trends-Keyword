@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "03-04-2024 , 03:35:13",
+  "lastUpdate": "03-04-2024 , 04:35:26",
   "data": [
     {
-      "title": "SMHI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SMHI",
-      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
+      "title": "Frölunda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
       "title": "Skyttedal",
@@ -32,14 +32,14 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Autism",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Autism",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Trafiken.nu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken.nu",
       "pubdate": "Tue, 02 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Autism",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Autism",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "E20",
@@ -57,8 +57,8 @@
       "pubdate": "Tue, 02 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "IFK Värnamo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
+      "title": "Matrix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matrix",
       "pubdate": "Tue, 02 Apr 2024 00:00:00 +0200"
     },
     {
@@ -75,11 +75,6 @@
       "title": "Bachelorette 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bachelorette%202024",
       "pubdate": "Mon, 01 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Frölunda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
-      "pubdate": "Mon, 01 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "IFK Göteborg",
@@ -100,6 +95,11 @@
       "title": "Djurgården",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
       "pubdate": "Mon, 01 Apr 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Brynäs Karlskoga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s%20Karlskoga",
+      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
     }
   ]
 }

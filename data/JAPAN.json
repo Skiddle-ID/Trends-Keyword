@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "03-04-2024 , 03:35:09",
+  "lastUpdate": "03-04-2024 , 04:35:21",
   "data": [
-    {
-      "title": "台湾",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E6%B9%BE",
-      "pubdate": "Wed, 03 Apr 2024 10:00:00 +0900"
-    },
     {
       "title": "台湾 地震",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E6%B9%BE%20%E5%9C%B0%E9%9C%87",
@@ -15,6 +10,16 @@
       "title": "川勝知事",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B7%9D%E5%8B%9D%E7%9F%A5%E4%BA%8B",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0900"
+    },
+    {
+      "title": "ドジャース 対 ジャイアンツ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9%20%E5%AF%BE%20%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "pubdate": "Tue, 02 Apr 2024 12:00:00 +0900"
+    },
+    {
+      "title": "プロ野球",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83",
+      "pubdate": "Tue, 02 Apr 2024 22:00:00 +0900"
     },
     {
       "title": "楽しんご",
@@ -57,11 +62,6 @@
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0900"
     },
     {
-      "title": "タンタン",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BF%E3%83%B3%E3%82%BF%E3%83%B3",
-      "pubdate": "Tue, 02 Apr 2024 00:00:00 +0900"
-    },
-    {
       "title": "ソフトバンクホークス",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0900"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 01 Apr 2024 11:00:00 +0900"
     },
     {
-      "title": "真田広之",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9C%9F%E7%94%B0%E5%BA%83%E4%B9%8B",
-      "pubdate": "Mon, 01 Apr 2024 19:00:00 +0900"
+      "title": "西野七瀬",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A5%BF%E9%87%8E%E4%B8%83%E7%80%AC",
+      "pubdate": "Sun, 31 Mar 2024 17:00:00 +0900"
     }
   ]
 }
