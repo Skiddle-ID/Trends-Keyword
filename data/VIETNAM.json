@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 09:35:14",
+  "lastUpdate": "03-04-2024 , 10:35:24",
   "data": [
     {
       "title": "Abha đấu với Al-Nassr",
@@ -12,11 +12,6 @@
       "pubdate": "Wed, 03 Apr 2024 11:00:00 +0700"
     },
     {
-      "title": "Nhà báo Trần Mai Hạnh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%C3%A0%20b%C3%A1o%20Tr%E1%BA%A7n%20Mai%20H%E1%BA%A1nh",
-      "pubdate": "Wed, 03 Apr 2024 10:00:00 +0700"
-    },
-    {
       "title": "Lich thi dau ngoai hang Anh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lich%20thi%20dau%20ngoai%20hang%20Anh",
       "pubdate": "Wed, 03 Apr 2024 11:00:00 +0700"
@@ -25,11 +20,6 @@
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
       "pubdate": "Wed, 03 Apr 2024 04:00:00 +0700"
-    },
-    {
-      "title": "Kazuha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kazuha",
-      "pubdate": "Wed, 03 Apr 2024 11:00:00 +0700"
     },
     {
       "title": "Bùi Quỳnh Hoa",
@@ -62,8 +52,8 @@
       "pubdate": "Tue, 02 Apr 2024 22:00:00 +0700"
     },
     {
-      "title": "Newcastle đấu Với Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20%C4%91%E1%BA%A5u%20V%E1%BB%9Bi%20Everton",
+      "title": "Newcastle đấu với Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Everton",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 +0700"
     },
     {
@@ -97,9 +87,19 @@
       "pubdate": "Tue, 02 Apr 2024 07:00:00 +0700"
     },
     {
+      "title": "Vô địch Anh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%B4%20%C4%91%E1%BB%8Bch%20Anh",
+      "pubdate": "Tue, 02 Apr 2024 02:00:00 +0700"
+    },
+    {
       "title": "Lý Gia Thành",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%C3%BD%20Gia%20Th%C3%A0nh",
       "pubdate": "Tue, 02 Apr 2024 16:00:00 +0700"
+    },
+    {
+      "title": "Armenia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Armenia",
+      "pubdate": "Tue, 02 Apr 2024 07:00:00 +0700"
     }
   ]
 }

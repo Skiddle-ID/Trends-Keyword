@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 09:35:05",
+  "lastUpdate": "03-04-2024 , 10:35:15",
   "data": [
     {
       "title": "Dominique Alagia",
@@ -17,6 +17,11 @@
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
     },
     {
+      "title": "Petra Faltýnová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Falt%C3%BDnov%C3%A1",
+      "pubdate": "Wed, 03 Apr 2024 06:00:00 +0200"
+    },
+    {
       "title": "Warner TV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Warner%20TV",
       "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
@@ -32,19 +37,14 @@
       "pubdate": "Tue, 02 Apr 2024 15:00:00 +0200"
     },
     {
-      "title": "West Ham – Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Tottenham",
-      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Kateřina Marie Fialová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Marie%20Fialov%C3%A1",
-      "pubdate": "Tue, 02 Apr 2024 19:00:00 +0200"
-    },
-    {
       "title": "MasterChef",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MasterChef",
       "pubdate": "Tue, 02 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "West Ham – Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Tottenham",
+      "pubdate": "Tue, 02 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Ondřej Kania",
@@ -52,19 +52,24 @@
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "LVMH",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LVMH",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
+      "title": "Jordan Haj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jordan%20Haj",
+      "pubdate": "Tue, 02 Apr 2024 23:00:00 +0200"
     },
     {
-      "title": "Sparta trinec",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20trinec",
-      "pubdate": "Tue, 02 Apr 2024 20:00:00 +0200"
+      "title": "Content Warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Content%20Warning",
+      "pubdate": "Tue, 02 Apr 2024 16:00:00 +0200"
     },
     {
       "title": "Comic-Con",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Comic-Con",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Petr Fiala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Fiala",
+      "pubdate": "Tue, 02 Apr 2024 23:00:00 +0200"
     },
     {
       "title": "Autismus",
@@ -87,18 +92,13 @@
       "pubdate": "Mon, 01 Apr 2024 22:00:00 +0200"
     },
     {
-      "title": "Jorga Kotrbová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jorga%20Kotrbov%C3%A1",
-      "pubdate": "Mon, 01 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Lez na plazi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lez%20na%20plazi",
-      "pubdate": "Mon, 01 Apr 2024 20:00:00 +0200"
-    },
-    {
       "title": "Belmondo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Belmondo",
+      "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Peče celá země",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pe%C4%8De%20cel%C3%A1%20zem%C4%9B",
       "pubdate": "Mon, 01 Apr 2024 21:00:00 +0200"
     }
   ]

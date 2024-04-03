@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-04-2024 , 09:35:04",
+  "lastUpdate": "03-04-2024 , 10:35:14",
   "data": [
+    {
+      "title": "Sport Club Internacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Club%20Internacional",
+      "pubdate": "Wed, 03 Apr 2024 00:00:00 -0500"
+    },
     {
       "title": "Filho de Lula",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filho%20de%20Lula",
@@ -14,11 +19,16 @@
     {
       "title": "Belgrano x Internacional",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Belgrano%20x%20Internacional",
-      "pubdate": "Tue, 02 Apr 2024 17:00:00 -0500"
+      "pubdate": "Tue, 02 Apr 2024 02:00:00 -0500"
     },
     {
       "title": "Abha x Al-Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Abha%20x%20Al-Nassr",
+      "pubdate": "Tue, 02 Apr 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Sportivo Ameliano x Athletico-PR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sportivo%20Ameliano%20x%20Athletico-PR",
       "pubdate": "Tue, 02 Apr 2024 14:00:00 -0500"
     },
     {
@@ -35,11 +45,6 @@
       "title": "Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
       "pubdate": "Tue, 02 Apr 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Athletico-PR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR",
-      "pubdate": "Tue, 02 Apr 2024 14:00:00 -0500"
     },
     {
       "title": "Taiwan",
@@ -62,14 +67,14 @@
       "pubdate": "Tue, 02 Apr 2024 12:00:00 -0500"
     },
     {
-      "title": "Al-Hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
-      "pubdate": "Tue, 02 Apr 2024 15:00:00 -0500"
-    },
-    {
       "title": "Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
       "pubdate": "Tue, 02 Apr 2024 21:00:00 -0500"
+    },
+    {
+      "title": "Al Hilal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
+      "pubdate": "Tue, 02 Apr 2024 15:00:00 -0500"
     },
     {
       "title": "Juventus",
@@ -80,11 +85,6 @@
       "title": "Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham",
       "pubdate": "Tue, 02 Apr 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Atlético Paranaense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico%20Paranaense",
-      "pubdate": "Tue, 02 Apr 2024 16:00:00 -0500"
     },
     {
       "title": "SBT",
