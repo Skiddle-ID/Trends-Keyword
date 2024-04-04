@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2024 , 23:35:34",
+  "lastUpdate": "04-04-2024 , 01:32:54",
   "data": [
     {
       "title": "Reto Berra",
@@ -10,6 +10,11 @@
       "title": "Gotteron Lausanne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotteron%20Lausanne",
       "pubdate": "Thu, 04 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Kurt Cobain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kurt%20Cobain",
+      "pubdate": "Thu, 04 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Whatsapp",
@@ -27,9 +32,9 @@
       "pubdate": "Wed, 03 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Curling-WM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Curling-WM",
-      "pubdate": "Wed, 03 Apr 2024 16:00:00 +0200"
+      "title": "Servette FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
+      "pubdate": "Wed, 03 Apr 2024 20:00:00 +0200"
     },
     {
       "title": "Lohnbuch 2024",
@@ -47,14 +52,19 @@
       "pubdate": "Wed, 03 Apr 2024 23:00:00 +0200"
     },
     {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
+      "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+    },
+    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG",
       "pubdate": "Wed, 03 Apr 2024 07:00:00 +0200"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-      "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
+      "title": "Curling-WM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Curling-WM",
+      "pubdate": "Wed, 03 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "Panne WhatsApp",
@@ -77,29 +87,19 @@
       "pubdate": "Wed, 03 Apr 2024 12:00:00 +0200"
     },
     {
+      "title": "Swiss Re",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Re",
+      "pubdate": "Wed, 03 Apr 2024 10:00:00 +0200"
+    },
+    {
       "title": "Fenerbahce",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fenerbahce",
       "pubdate": "Wed, 03 Apr 2024 09:00:00 +0200"
     },
     {
-      "title": "Bernard Arnault",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernard%20Arnault",
-      "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
-    },
-    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
       "pubdate": "Wed, 03 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Ursula von der Leyen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ursula%20von%20der%20Leyen",
-      "pubdate": "Wed, 03 Apr 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Servette – Stade Lausanne-Ouchy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20Stade%20Lausanne-Ouchy",
-      "pubdate": "Wed, 03 Apr 2024 21:00:00 +0200"
     }
   ]
 }
