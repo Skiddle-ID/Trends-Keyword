@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "05-04-2024 , 23:37:06",
+  "lastUpdate": "06-04-2024 , 01:29:58",
   "data": [
     {
-      "title": "Isla Fisher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Isla%20Fisher",
+      "title": "Sacha Baron Cohen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sacha%20Baron%20Cohen",
       "pubdate": "Sat, 06 Apr 2024 10:00:00 +1300"
+    },
+    {
+      "title": "New York earthquake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20earthquake",
+      "pubdate": "Sat, 06 Apr 2024 11:00:00 +1300"
     },
     {
       "title": "CSK vs SRH",
@@ -12,9 +17,9 @@
       "pubdate": "Sat, 06 Apr 2024 10:00:00 +1300"
     },
     {
-      "title": "New York earthquake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20earthquake",
-      "pubdate": "Sat, 06 Apr 2024 11:00:00 +1300"
+      "title": "Radish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Radish",
+      "pubdate": "Sat, 06 Apr 2024 13:00:00 +1300"
     },
     {
       "title": "Chelsea vs Man United",
@@ -72,19 +77,9 @@
       "pubdate": "Fri, 05 Apr 2024 11:00:00 +1300"
     },
     {
-      "title": "Hong Kong Sevens 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hong%20Kong%20Sevens%202024",
-      "pubdate": "Fri, 05 Apr 2024 22:00:00 +1300"
-    },
-    {
       "title": "Shashank Singh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shashank%20Singh",
       "pubdate": "Fri, 05 Apr 2024 10:00:00 +1300"
-    },
-    {
-      "title": "Goldilocks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Goldilocks",
-      "pubdate": "Fri, 05 Apr 2024 14:00:00 +1300"
     },
     {
       "title": "Judy Bailey",
@@ -100,6 +95,11 @@
       "title": "Adam Sandler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Adam%20Sandler",
       "pubdate": "Fri, 05 Apr 2024 01:00:00 +1300"
+    },
+    {
+      "title": "Tom Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tom%20Jones",
+      "pubdate": "Fri, 05 Apr 2024 22:00:00 +1300"
     }
   ]
 }
