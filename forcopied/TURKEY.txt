@@ -1,1 +1,1 @@
-OGM,Mehmet Günsür,Şeyma Döğücü,Süper Kupa,Crystal Palace - Manchester City,Heidenheim  Bayern Münih,Arsenal,Hull City,Sakaryaspor,Togg,Aston Villa, Brentford,PSG,Nuri Alço,Beşiktaş - İstanbulspor,Ümraniyespor  Şanlıurfaspor,Felak Suresi,Selin Türkmen,Roma,Milan,Meryem Uzerli
+OGM,Şeyma Döğücü,Mehmet Günsür,GÜNÜNÜ GÖRECEKSİN,Bakırköy sosyete pazarı,Braga,Süper Kupa,Crystal Palace - Manchester City,Arsenal,Heidenheim  Bayern Münih,Togg,Sakaryaspor,Nuri Alço,Aston Villa, Brentford,Hull City,Beşiktaş - İstanbulspor,Ümraniyespor  Şanlıurfaspor,Felak Suresi,Roma,Milan

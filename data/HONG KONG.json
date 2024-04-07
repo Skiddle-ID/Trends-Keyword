@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-04-2024 , 23:35:39",
+  "lastUpdate": "07-04-2024 , 01:37:13",
   "data": [
+    {
+      "title": "阿仙奴",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E4%BB%99%E5%A5%B4",
+      "pubdate": "Sun, 07 Apr 2024 01:00:00 +0800"
+    },
     {
       "title": "黃子佼",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%AD%90%E4%BD%BC",
@@ -15,6 +20,11 @@
       "title": "Blue Coast",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Blue%20Coast",
       "pubdate": "Sat, 06 Apr 2024 20:00:00 +0800"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#F1",
+      "pubdate": "Sat, 06 Apr 2024 08:00:00 +0800"
     },
     {
       "title": "紐約地震",
@@ -67,6 +77,11 @@
       "pubdate": "Fri, 05 Apr 2024 19:00:00 +0800"
     },
     {
+      "title": "運輸署",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%81%8B%E8%BC%B8%E7%BD%B2",
+      "pubdate": "Fri, 05 Apr 2024 21:00:00 +0800"
+    },
+    {
       "title": "超意神探",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B6%85%E6%84%8F%E7%A5%9E%E6%8E%A2",
       "pubdate": "Fri, 05 Apr 2024 01:00:00 +0800"
@@ -85,21 +100,6 @@
       "title": "追龍",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%BF%BD%E9%BE%8D",
       "pubdate": "Fri, 05 Apr 2024 18:00:00 +0800"
-    },
-    {
-      "title": "美股",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%8E%E8%82%A1",
-      "pubdate": "Fri, 05 Apr 2024 17:00:00 +0800"
-    },
-    {
-      "title": "媽媽咪呀",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AA%BD%E5%AA%BD%E5%92%AA%E5%91%80",
-      "pubdate": "Fri, 05 Apr 2024 00:00:00 +0800"
-    },
-    {
-      "title": "圭賢",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%9C%AD%E8%B3%A2",
-      "pubdate": "Fri, 05 Apr 2024 19:00:00 +0800"
     }
   ]
 }

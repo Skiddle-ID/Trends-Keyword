@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-04-2024 , 23:35:41",
+  "lastUpdate": "07-04-2024 , 01:37:15",
   "data": [
     {
       "title": "Francis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Francis",
       "pubdate": "Sat, 06 Apr 2024 01:00:00 -0600"
+    },
+    {
+      "title": "Eclipse solar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20solar",
+      "pubdate": "Sat, 06 Apr 2024 16:00:00 -0600"
     },
     {
       "title": "Crystal Palace  Manchester City",
@@ -17,9 +22,9 @@
       "pubdate": "Sat, 06 Apr 2024 12:00:00 -0600"
     },
     {
-      "title": "Brighton - Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20-%20Arsenal",
-      "pubdate": "Sat, 06 Apr 2024 10:00:00 -0600"
+      "title": "León  Querétaro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Le%C3%B3n%20%20Quer%C3%A9taro",
+      "pubdate": "Sat, 06 Apr 2024 08:00:00 -0600"
     },
     {
       "title": "PSV  AZ",
@@ -27,8 +32,13 @@
       "pubdate": "Sat, 06 Apr 2024 11:00:00 -0600"
     },
     {
-      "title": "Wolves - West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Wolves%20-%20West%20Ham",
+      "title": "Brighton - Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20-%20Arsenal",
+      "pubdate": "Sat, 06 Apr 2024 10:00:00 -0600"
+    },
+    {
+      "title": "Wolves  West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Wolves%20%20West%20Ham",
       "pubdate": "Sat, 06 Apr 2024 09:00:00 -0600"
     },
     {
@@ -37,18 +47,23 @@
       "pubdate": "Sat, 06 Apr 2024 09:00:00 -0600"
     },
     {
+      "title": "Inter Miami  Colorado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20Miami%20%20Colorado",
+      "pubdate": "Sat, 06 Apr 2024 17:00:00 -0600"
+    },
+    {
       "title": "Dortmund - Stuttgart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dortmund%20-%20Stuttgart",
       "pubdate": "Sat, 06 Apr 2024 11:00:00 -0600"
     },
     {
-      "title": "Fulham - Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fulham%20-%20Newcastle",
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Milan",
       "pubdate": "Sat, 06 Apr 2024 09:00:00 -0600"
     },
     {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Milan",
+      "title": "Fulham - Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fulham%20-%20Newcastle",
       "pubdate": "Sat, 06 Apr 2024 09:00:00 -0600"
     },
     {
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 06 Apr 2024 02:00:00 -0600"
     },
     {
-      "title": "Tigres vs Pachuca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs%20Pachuca",
-      "pubdate": "Sat, 06 Apr 2024 08:00:00 -0600"
-    },
-    {
-      "title": "Leon vs queretaro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leon%20vs%20queretaro",
-      "pubdate": "Sat, 06 Apr 2024 08:00:00 -0600"
-    },
-    {
-      "title": "Friburgo , RB Leipzig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Friburgo%20,%20RB%20Leipzig",
-      "pubdate": "Sat, 06 Apr 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Julian Assange",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Julian%20Assange",
-      "pubdate": "Sat, 06 Apr 2024 15:00:00 -0600"
+      "title": "Newell's  Boca Juniors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Newell's%20%20Boca%20Juniors",
+      "pubdate": "Sat, 06 Apr 2024 16:00:00 -0600"
     }
   ]
 }

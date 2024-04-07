@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2024 , 23:35:42",
+  "lastUpdate": "07-04-2024 , 01:37:15",
   "data": [
     {
       "title": "Uneken",
@@ -7,8 +7,8 @@
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "PSV-AZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-AZ",
+      "title": "PSV  AZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20%20AZ",
       "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
     },
     {
@@ -24,7 +24,7 @@
     {
       "title": "Marianne Vos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marianne%20Vos",
-      "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
+      "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Sparta",
@@ -50,16 +50,6 @@
       "title": "De jongen die van de wereld hield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20jongen%20die%20van%20de%20wereld%20hield",
       "pubdate": "Sat, 06 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Spinvis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spinvis",
-      "pubdate": "Sat, 06 Apr 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Patty Brard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Patty%20Brard",
-      "pubdate": "Sat, 06 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Cole Brings Plenty",
@@ -100,6 +90,16 @@
       "title": "Lee Towers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lee%20Towers",
       "pubdate": "Wed, 03 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "FC Utrecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+      "pubdate": "Wed, 03 Apr 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Alex Kroes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alex%20Kroes",
+      "pubdate": "Tue, 02 Apr 2024 10:00:00 +0200"
     }
   ]
 }

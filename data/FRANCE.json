@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-04-2024 , 23:35:38",
+  "lastUpdate": "07-04-2024 , 01:37:12",
   "data": [
     {
       "title": "Philippe de Villiers",
@@ -7,13 +7,13 @@
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "Angers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angers",
+      "title": "Taxe lapin Gabriel Attal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taxe%20lapin%20Gabriel%20Attal",
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
     },
     {
-      "title": "Taxe lapin Gabriel Attal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taxe%20lapin%20Gabriel%20Attal",
+      "title": "Angers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angers",
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
     },
     {
@@ -25,6 +25,11 @@
       "title": "ABBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ABBA",
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Marquinhos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marquinhos",
+      "pubdate": "Sun, 07 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "PSG",
@@ -62,6 +67,11 @@
       "pubdate": "Sat, 06 Apr 2024 12:00:00 +0200"
     },
     {
+      "title": "Salahdine Parnasse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salahdine%20Parnasse",
+      "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
+    },
+    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arsenal",
       "pubdate": "Sat, 06 Apr 2024 20:00:00 +0200"
@@ -70,11 +80,6 @@
       "title": "Saint-Étienne – Concarneau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint-%C3%89tienne%20%E2%80%93%20Concarneau",
       "pubdate": "Sat, 06 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Salahdine Parnasse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salahdine%20Parnasse",
-      "pubdate": "Sat, 06 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Stephane Blancafort",
@@ -90,11 +95,6 @@
       "title": "Philippe Etchebest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Philippe%20Etchebest",
       "pubdate": "Sat, 06 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-      "pubdate": "Sat, 06 Apr 2024 18:00:00 +0200"
     },
     {
       "title": "Lens",
