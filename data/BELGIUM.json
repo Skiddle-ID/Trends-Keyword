@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "07-04-2024 , 23:35:08",
+  "lastUpdate": "08-04-2024 , 01:33:32",
   "data": [
-    {
-      "title": "Anderlecht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-      "pubdate": "Mon, 08 Apr 2024 00:00:00 +0200"
-    },
     {
       "title": "Club Brugge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
@@ -19,6 +14,16 @@
     {
       "title": "Union Saint-Gilloise – Cercle Bruges",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise%20%E2%80%93%20Cercle%20Bruges",
+      "pubdate": "Sun, 07 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Anderlecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
+      "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Union - Cercle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20-%20Cercle",
       "pubdate": "Sun, 07 Apr 2024 14:00:00 +0200"
     },
     {
@@ -42,9 +47,14 @@
       "pubdate": "Sun, 07 Apr 2024 06:00:00 +0200"
     },
     {
-      "title": "Cercle Brugge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
-      "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
+      "title": "Grand Prix F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grand%20Prix%20F1",
+      "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Ex on the beach",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ex%20on%20the%20beach",
+      "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Marathon de Paris 2024",
@@ -52,8 +62,8 @@
       "pubdate": "Sun, 07 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Aid el-Fitr 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aid%20el-Fitr%202024",
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
       "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
     },
     {
@@ -67,9 +77,9 @@
       "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
     },
     {
-      "title": "Gp F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gp%20F1",
-      "pubdate": "Sun, 07 Apr 2024 09:00:00 +0200"
+      "title": "Aid El Fitr 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aid%20El%20Fitr%202024",
+      "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
     },
     {
       "title": "AA Gent",
@@ -90,16 +100,6 @@
       "title": "Max Verstappen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
       "pubdate": "Sun, 07 Apr 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-      "pubdate": "Sun, 07 Apr 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Arles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arles",
-      "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
     }
   ]
 }

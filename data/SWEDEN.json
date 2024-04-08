@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2024 , 23:35:18",
+  "lastUpdate": "08-04-2024 , 01:33:44",
   "data": [
     {
       "title": "Bik Karlskoga",
@@ -42,19 +42,29 @@
       "pubdate": "Sun, 07 Apr 2024 16:00:00 +0200"
     },
     {
+      "title": "Västerås SK mot Elfsborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4ster%C3%A5s%20SK%20mot%20Elfsborg",
+      "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
+    },
+    {
       "title": "Halmstad mot IFK Göteborg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Halmstad%20mot%20IFK%20G%C3%B6teborg",
       "pubdate": "Sun, 07 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "Elfsborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-      "pubdate": "Sun, 07 Apr 2024 18:00:00 +0200"
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
+      "pubdate": "Sun, 07 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Championship",
       "pubdate": "Sun, 07 Apr 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Victory Tilly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Victory%20Tilly",
+      "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Max Novak",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 07 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Molly sanden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Molly%20sanden",
-      "pubdate": "Sat, 06 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Ola Bini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ola%20Bini",
-      "pubdate": "Sat, 06 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
-      "pubdate": "Sat, 06 Apr 2024 08:00:00 +0200"
+      "title": "Luleå Hockey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lule%C3%A5%20Hockey",
+      "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
     }
   ]
 }

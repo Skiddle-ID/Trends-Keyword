@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "07-04-2024 , 23:35:14",
+  "lastUpdate": "08-04-2024 , 01:33:37",
   "data": [
     {
-      "title": "Avellino calcio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Avellino%20calcio",
-      "pubdate": "Mon, 08 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Thiago Motta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Thiago%20Motta",
-      "pubdate": "Mon, 08 Apr 2024 00:00:00 +0200"
+      "title": "Classifica Serie C",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Serie%20C",
+      "pubdate": "Mon, 08 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Cavese",
@@ -54,22 +49,12 @@
     {
       "title": "Musetti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Musetti",
-      "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
+      "pubdate": "Sun, 07 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Incidente carabinieri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Incidente%20carabinieri",
       "pubdate": "Sun, 07 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Serena Bortone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serena%20Bortone",
-      "pubdate": "Sun, 07 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Simona Ventura",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Simona%20Ventura",
-      "pubdate": "Sun, 07 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "Amedeo Minghi",
@@ -82,9 +67,14 @@
       "pubdate": "Sun, 07 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "Galatasaray Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Galatasaray%20Fenerbahce",
+      "title": "Fenerbahce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fenerbahce",
       "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Arnaldi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arnaldi",
+      "pubdate": "Sun, 07 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Che Tempo Che Fa",
@@ -100,6 +90,16 @@
       "title": "Russell Crowe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Russell%20Crowe",
       "pubdate": "Sun, 07 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "LBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#LBA",
+      "pubdate": "Sun, 07 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Makari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Makari",
+      "pubdate": "Sun, 07 Apr 2024 22:00:00 +0200"
     }
   ]
 }
