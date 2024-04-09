@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 23:35:35",
+  "lastUpdate": "09-04-2024 , 01:32:10",
   "data": [
     {
       "title": "Udinese  Inter",
@@ -12,14 +12,9 @@
       "pubdate": "Mon, 08 Apr 2024 12:00:00 -0400"
     },
     {
-      "title": "Al Hilal  al-nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Hilal%20%20al-nassr",
+      "title": "Al Hilal  Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Hilal%20%20Al-Nassr",
       "pubdate": "Mon, 08 Apr 2024 15:00:00 -0400"
-    },
-    {
-      "title": "IPC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
-      "pubdate": "Mon, 08 Apr 2024 10:00:00 -0400"
     },
     {
       "title": "Colo Colo vs Fluminense",
@@ -32,14 +27,24 @@
       "pubdate": "Mon, 08 Apr 2024 13:00:00 -0400"
     },
     {
-      "title": "Alina Lozano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alina%20Lozano",
-      "pubdate": "Mon, 08 Apr 2024 00:00:00 -0400"
+      "title": "IPC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
+      "pubdate": "Mon, 08 Apr 2024 10:00:00 -0400"
+    },
+    {
+      "title": "Glup!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Glup!",
+      "pubdate": "Mon, 08 Apr 2024 19:00:00 -0400"
     },
     {
       "title": "Real Madrid vs Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20vs%20Manchester%20City",
       "pubdate": "Mon, 08 Apr 2024 12:00:00 -0400"
+    },
+    {
+      "title": "Alina Lozano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alina%20Lozano",
+      "pubdate": "Mon, 08 Apr 2024 00:00:00 -0400"
     },
     {
       "title": "Palmeiras",
@@ -55,6 +60,21 @@
       "title": "Al Hilal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Hilal",
       "pubdate": "Mon, 08 Apr 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Crepusculo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Crepusculo",
+      "pubdate": "Mon, 08 Apr 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Feid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feid",
+      "pubdate": "Mon, 08 Apr 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Eclipse 8 de abril 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%208%20de%20abril%202024",
+      "pubdate": "Sun, 07 Apr 2024 02:00:00 -0400"
     },
     {
       "title": "Manchester United  Liverpool",
@@ -80,26 +100,6 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
       "pubdate": "Sun, 07 Apr 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Paulina Padilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paulina%20Padilla",
-      "pubdate": "Sun, 07 Apr 2024 02:00:00 -0400"
-    },
-    {
-      "title": "U Española vs U de Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20Espa%C3%B1ola%20vs%20U%20de%20Chile",
-      "pubdate": "Sun, 07 Apr 2024 21:00:00 -0400"
-    },
-    {
-      "title": "Oppenheimer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Oppenheimer",
-      "pubdate": "Sun, 07 Apr 2024 19:00:00 -0400"
-    },
-    {
-      "title": "Montecarlo ATP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Montecarlo%20ATP",
-      "pubdate": "Sun, 07 Apr 2024 12:00:00 -0400"
     }
   ]
 }

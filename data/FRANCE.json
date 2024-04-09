@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 23:35:36",
+  "lastUpdate": "09-04-2024 , 01:32:12",
   "data": [
     {
       "title": "Arthur Fils",
@@ -47,11 +47,6 @@
       "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Valerie Hayer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valerie%20Hayer",
-      "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
-    },
-    {
       "title": "CAC 40",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CAC%2040",
       "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
@@ -77,6 +72,16 @@
       "pubdate": "Mon, 08 Apr 2024 19:00:00 +0200"
     },
     {
+      "title": "André Boniface",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andr%C3%A9%20Boniface",
+      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Test",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Test",
+      "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
+    },
+    {
       "title": "Ushuaia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ushuaia",
       "pubdate": "Mon, 08 Apr 2024 21:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Udinese – Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Udinese%20%E2%80%93%20Inter",
       "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Veolia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Veolia",
-      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
     }
   ]
 }

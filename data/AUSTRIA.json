@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2024 , 23:35:34",
+  "lastUpdate": "09-04-2024 , 01:32:09",
   "data": [
     {
       "title": "Helen Fares",
@@ -19,6 +19,11 @@
     {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Champions%20League",
+      "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Dietrich Mateschitz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dietrich%20Mateschitz",
       "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
     },
     {
@@ -62,11 +67,6 @@
       "pubdate": "Mon, 08 Apr 2024 13:00:00 +0200"
     },
     {
-      "title": "Gmx.at",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gmx.at",
-      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
-    },
-    {
       "title": "Gerald Grosz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gerald%20Grosz",
       "pubdate": "Mon, 08 Apr 2024 16:00:00 +0200"
@@ -75,11 +75,6 @@
       "title": "Michael Boder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Boder",
       "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Erste Bank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erste%20Bank",
-      "pubdate": "Mon, 08 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "SK Rapid",
@@ -100,6 +95,11 @@
       "title": "Russ Cook",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Russ%20Cook",
       "pubdate": "Mon, 08 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Tennis Monte Carlo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tennis%20Monte%20Carlo",
+      "pubdate": "Mon, 08 Apr 2024 15:00:00 +0200"
     }
   ]
 }

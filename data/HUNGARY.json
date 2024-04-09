@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "08-04-2024 , 23:35:37",
+  "lastUpdate": "09-04-2024 , 01:32:14",
   "data": [
-    {
-      "title": "Rákosrendező",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1kosrendez%C5%91",
-      "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
-    },
     {
       "title": "Gmail",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gmail",
@@ -37,9 +32,9 @@
       "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
     },
     {
-      "title": "OTP Bank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank",
-      "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
+      "title": "Üzemanyagárak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Czemanyag%C3%A1rak",
+      "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "NASA",
@@ -57,11 +52,6 @@
       "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Üzemanyagárak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Czemanyag%C3%A1rak",
-      "pubdate": "Mon, 08 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "Udinese–Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Udinese%E2%80%93Inter",
       "pubdate": "Mon, 08 Apr 2024 21:00:00 +0200"
@@ -70,6 +60,11 @@
       "title": "Mészáros Lőrinc",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20L%C5%91rinc",
       "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Csőtörés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C5%91t%C3%B6r%C3%A9s",
+      "pubdate": "Mon, 08 Apr 2024 13:00:00 +0200"
     },
     {
       "title": "Deutsch Tamás",
@@ -95,6 +90,11 @@
       "title": "Construma 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Construma%202024",
       "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Polt Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polt%20P%C3%A9ter",
+      "pubdate": "Mon, 08 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Posta",
