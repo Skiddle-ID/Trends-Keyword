@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 23:35:49",
+  "lastUpdate": "10-04-2024 , 01:31:17",
   "data": [
     {
       "title": "Real Madrid",
@@ -27,14 +27,14 @@
       "pubdate": "Tue, 09 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "DFB-Frauen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-      "pubdate": "Tue, 09 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "FCB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCB",
       "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "DFB-Frauen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
+      "pubdate": "Tue, 09 Apr 2024 17:00:00 +0200"
     },
     {
       "title": "Carlo von Tiedemann",
@@ -60,6 +60,11 @@
       "title": "Eric Dier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eric%20Dier",
       "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Star Wars Outlaws",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Star%20Wars%20Outlaws",
+      "pubdate": "Tue, 09 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Thorsten Schorn",
@@ -95,11 +100,6 @@
       "title": "Dax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
       "pubdate": "Mon, 08 Apr 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Nicaragua",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nicaragua",
-      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
     }
   ]
 }

@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "09-04-2024 , 23:35:52",
+  "lastUpdate": "10-04-2024 , 01:31:21",
   "data": [
+    {
+      "title": "Real Madrid mot Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20mot%20Man%20City",
+      "pubdate": "Tue, 09 Apr 2024 18:00:00 +0200"
+    },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
       "pubdate": "Tue, 09 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Real Madrid - Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20-%20Manchester%20City",
-      "pubdate": "Tue, 09 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-      "pubdate": "Tue, 09 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Manchester City",
@@ -37,9 +32,9 @@
       "pubdate": "Tue, 09 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Forsvaret",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvaret",
-      "pubdate": "Tue, 09 Apr 2024 14:00:00 +0200"
+      "title": "Nederland Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20Norge",
+      "pubdate": "Tue, 09 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "James Bond",
@@ -52,14 +47,14 @@
       "pubdate": "Tue, 09 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Sepsis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sepsis",
-      "pubdate": "Tue, 09 Apr 2024 01:00:00 +0200"
-    },
-    {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Billie%20Eilish",
       "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Camilla Pihl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Camilla%20Pihl",
+      "pubdate": "Tue, 09 Apr 2024 23:00:00 +0200"
     },
     {
       "title": "Unni Askeland",
@@ -72,19 +67,14 @@
       "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
     },
     {
-      "title": "Camilla Pihl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Camilla%20Pihl",
-      "pubdate": "Tue, 09 Apr 2024 23:00:00 +0200"
-    },
-    {
       "title": "Hitler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hitler",
       "pubdate": "Tue, 09 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "Norge Nederland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge%20Nederland",
-      "pubdate": "Tue, 09 Apr 2024 23:00:00 +0200"
+      "title": "Visjon Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Visjon%20Norge",
+      "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
     },
     {
       "title": "Nidarosdomen",
@@ -97,9 +87,19 @@
       "pubdate": "Tue, 09 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Visjon Norge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Visjon%20Norge",
-      "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
+      "title": "Over",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Over",
+      "pubdate": "Tue, 09 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Nav",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nav",
+      "pubdate": "Mon, 08 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League",
+      "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
     }
   ]
 }

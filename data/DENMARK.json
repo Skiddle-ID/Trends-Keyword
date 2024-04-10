@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 23:35:48",
+  "lastUpdate": "10-04-2024 , 01:31:16",
   "data": [
     {
       "title": "Real Madrid",
@@ -37,19 +37,14 @@
       "pubdate": "Tue, 09 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "Crest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Crest",
-      "pubdate": "Tue, 09 Apr 2024 14:00:00 +0200"
-    },
-    {
       "title": "Tudor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tudor",
       "pubdate": "Tue, 09 Apr 2024 15:00:00 +0200"
     },
     {
-      "title": "Carlo Ancelotti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carlo%20Ancelotti",
-      "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
+      "title": "Crest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Crest",
+      "pubdate": "Tue, 09 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Meta",
@@ -100,6 +95,11 @@
       "title": "ChatGPT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ChatGPT",
       "pubdate": "Mon, 08 Apr 2024 12:00:00 +0200"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LinkedIn",
+      "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
     }
   ]
 }

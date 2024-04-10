@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 23:35:49",
+  "lastUpdate": "10-04-2024 , 01:31:18",
   "data": [
     {
       "title": "PSG",
@@ -42,14 +42,14 @@
       "pubdate": "Tue, 09 Apr 2024 12:00:00 +0200"
     },
     {
+      "title": "Csire Zsuzsi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csire%20Zsuzsi",
+      "pubdate": "Tue, 09 Apr 2024 15:00:00 +0200"
+    },
+    {
       "title": "M4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
       "pubdate": "Tue, 09 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "MaXXXine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MaXXXine",
-      "pubdate": "Tue, 09 Apr 2024 05:00:00 +0200"
     },
     {
       "title": "Menczer Tamás",
@@ -69,11 +69,6 @@
     {
       "title": "Carlo Ancelotti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carlo%20Ancelotti",
-      "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20City",
       "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Fallout",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fallout",
       "pubdate": "Tue, 09 Apr 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Nagy Márton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20M%C3%A1rton",
+      "pubdate": "Tue, 09 Apr 2024 01:00:00 +0200"
     }
   ]
 }

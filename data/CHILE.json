@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2024 , 23:35:47",
+  "lastUpdate": "10-04-2024 , 01:31:15",
   "data": [
     {
       "title": "Arsenal",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 09 Apr 2024 15:00:00 -0400"
     },
     {
-      "title": "Grêmio  Huachipato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gr%C3%AAmio%20%20Huachipato",
+      "title": "Huachipato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
       "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
     },
     {
-      "title": "UEFA Champions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UEFA%20Champions",
-      "pubdate": "Tue, 09 Apr 2024 15:00:00 -0400"
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+      "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
     },
     {
       "title": "Doctora Cordero",
@@ -27,14 +27,9 @@
       "pubdate": "Tue, 09 Apr 2024 12:00:00 -0400"
     },
     {
-      "title": "Censo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Censo",
-      "pubdate": "Tue, 09 Apr 2024 01:00:00 -0400"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
-      "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
+      "title": "Estudiantes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estudiantes",
+      "pubdate": "Tue, 09 Apr 2024 20:00:00 -0400"
     },
     {
       "title": "Mon Laferte",
@@ -47,14 +42,34 @@
       "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
     },
     {
+      "title": "Tareck El Aissami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tareck%20El%20Aissami",
+      "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
+    },
+    {
+      "title": "UEFA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UEFA",
+      "pubdate": "Tue, 09 Apr 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Censo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Censo",
+      "pubdate": "Tue, 09 Apr 2024 09:00:00 -0400"
+    },
+    {
       "title": "ESPN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ESPN",
       "pubdate": "Tue, 09 Apr 2024 16:00:00 -0400"
     },
     {
-      "title": "Tareck El Aissami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tareck%20El%20Aissami",
-      "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
+      "title": "Boca Juniors  Sportivo Trinidense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Sportivo%20Trinidense",
+      "pubdate": "Tue, 09 Apr 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Championship",
+      "pubdate": "Tue, 09 Apr 2024 19:00:00 -0400"
     },
     {
       "title": "Fernando Gómez-Acebo",
@@ -62,44 +77,29 @@
       "pubdate": "Tue, 09 Apr 2024 12:00:00 -0400"
     },
     {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
-      "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
-    },
-    {
       "title": "Real Madrid Club de Fútbol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20Club%20de%20F%C3%BAtbol",
       "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
     },
     {
+      "title": "Marca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marca",
+      "pubdate": "Tue, 09 Apr 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Diego Costa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Diego%20Costa",
+      "pubdate": "Tue, 09 Apr 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Incendio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio",
+      "pubdate": "Tue, 09 Apr 2024 20:00:00 -0400"
+    },
+    {
       "title": "Ortega Moreno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ortega%20Moreno",
       "pubdate": "Tue, 09 Apr 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Apagón analógico televisión",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Apag%C3%B3n%20anal%C3%B3gico%20televisi%C3%B3n",
-      "pubdate": "Tue, 09 Apr 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Gary Medel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gary%20Medel",
-      "pubdate": "Tue, 09 Apr 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid",
-      "pubdate": "Mon, 08 Apr 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Eclipse 8 de abril 2024 hora Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%208%20de%20abril%202024%20hora%20Chile",
-      "pubdate": "Mon, 08 Apr 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Udinese - Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20-%20Inter",
-      "pubdate": "Mon, 08 Apr 2024 15:00:00 -0400"
     }
   ]
 }
