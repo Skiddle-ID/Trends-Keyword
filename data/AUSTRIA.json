@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "10-04-2024 , 17:34:59",
+  "lastUpdate": "10-04-2024 , 18:57:43",
   "data": [
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Champions%20League",
-      "pubdate": "Wed, 10 Apr 2024 17:00:00 +0200"
-    },
     {
       "title": "Stefan Maierhofer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Maierhofer",
@@ -17,9 +12,9 @@
       "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "LASK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
-      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
+      "title": "Alexander Steinlechner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Steinlechner",
+      "pubdate": "Wed, 10 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Tanja Tischewitsch",
@@ -27,24 +22,29 @@
       "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
     },
     {
+      "title": "LASK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
+      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
+    },
+    {
       "title": "Joker 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joker%202",
       "pubdate": "Wed, 10 Apr 2024 10:00:00 +0200"
     },
     {
+      "title": "Alfa Romeo Milano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alfa%20Romeo%20Milano",
+      "pubdate": "Wed, 10 Apr 2024 19:00:00 +0200"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
+      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
+    },
+    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa%20League",
       "pubdate": "Wed, 10 Apr 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Star Wars Outlaws",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Star%20Wars%20Outlaws",
-      "pubdate": "Wed, 10 Apr 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bologna",
-      "pubdate": "Wed, 10 Apr 2024 06:00:00 +0200"
     },
     {
       "title": "Amanda Knox",
@@ -57,6 +57,26 @@
       "pubdate": "Wed, 10 Apr 2024 10:00:00 +0200"
     },
     {
+      "title": "Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bologna",
+      "pubdate": "Wed, 10 Apr 2024 06:00:00 +0200"
+    },
+    {
+      "title": "Star Wars Outlaws",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Star%20Wars%20Outlaws",
+      "pubdate": "Wed, 10 Apr 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Christina Stürmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christina%20St%C3%BCrmer",
+      "pubdate": "Wed, 10 Apr 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Elton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elton",
+      "pubdate": "Wed, 10 Apr 2024 19:00:00 +0200"
+    },
+    {
       "title": "Gerhard Karner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gerhard%20Karner",
       "pubdate": "Wed, 10 Apr 2024 11:00:00 +0200"
@@ -67,39 +87,19 @@
       "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
     },
     {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
-      "pubdate": "Wed, 10 Apr 2024 01:00:00 +0200"
-    },
-    {
       "title": "Karner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karner",
       "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
-      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
+      "pubdate": "Wed, 10 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Bärenkopf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%A4renkopf",
-      "pubdate": "Wed, 10 Apr 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haaland",
-      "pubdate": "Wed, 10 Apr 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Hartinger-Klein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hartinger-Klein",
-      "pubdate": "Wed, 10 Apr 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Balenciaga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Balenciaga",
-      "pubdate": "Wed, 10 Apr 2024 17:00:00 +0200"
+      "title": "Joko und Klaas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joko%20und%20Klaas",
+      "pubdate": "Wed, 10 Apr 2024 15:00:00 +0200"
     }
   ]
 }

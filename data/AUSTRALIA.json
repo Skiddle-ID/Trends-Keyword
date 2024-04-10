@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 17:34:59",
+  "lastUpdate": "10-04-2024 , 18:57:43",
   "data": [
     {
       "title": "Champions League",
@@ -10,6 +10,11 @@
       "title": "UCL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
       "pubdate": "Thu, 11 Apr 2024 00:00:00 +1000"
+    },
+    {
+      "title": "Fallout",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fallout",
+      "pubdate": "Thu, 11 Apr 2024 03:00:00 +1000"
     },
     {
       "title": "Jennifer Pan",
@@ -24,6 +29,11 @@
     {
       "title": "Matildas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+      "pubdate": "Wed, 10 Apr 2024 07:00:00 +1000"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
       "pubdate": "Wed, 10 Apr 2024 07:00:00 +1000"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Bring Me The Horizon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bring%20Me%20The%20Horizon",
       "pubdate": "Wed, 10 Apr 2024 23:00:00 +1000"
-    },
-    {
-      "title": "Peter Higgs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Higgs",
-      "pubdate": "Wed, 10 Apr 2024 22:00:00 +1000"
-    },
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
-      "pubdate": "Tue, 09 Apr 2024 01:00:00 +1000"
     }
   ]
 }

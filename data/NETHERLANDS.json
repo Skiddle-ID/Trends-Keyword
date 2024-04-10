@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 17:35:05",
+  "lastUpdate": "10-04-2024 , 18:57:51",
   "data": [
     {
       "title": "Johan Derksen",
@@ -12,11 +12,6 @@
       "pubdate": "Wed, 10 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Wegenbelasting elektrische auto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wegenbelasting%20elektrische%20auto",
-      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0200"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSG",
       "pubdate": "Wed, 10 Apr 2024 09:00:00 +0200"
@@ -27,9 +22,19 @@
       "pubdate": "Wed, 10 Apr 2024 09:00:00 +0200"
     },
     {
+      "title": "Alfa Romeo Milano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alfa%20Romeo%20Milano",
+      "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
+    },
+    {
       "title": "Edo de Waart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Edo%20de%20Waart",
       "pubdate": "Wed, 10 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Brabantse Pijl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brabantse%20Pijl",
+      "pubdate": "Wed, 10 Apr 2024 20:00:00 +0200"
     },
     {
       "title": "Real Madrid",
@@ -45,6 +50,11 @@
       "title": "Freek Vonk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Freek%20Vonk",
       "pubdate": "Tue, 09 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bayern",
+      "pubdate": "Tue, 09 Apr 2024 22:00:00 +0200"
     },
     {
       "title": "Frits van Eerd",
@@ -90,16 +100,6 @@
       "title": "Middel X",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Middel%20X",
       "pubdate": "Mon, 08 Apr 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Draadstaal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Draadstaal",
-      "pubdate": "Mon, 08 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Gordon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gordon",
-      "pubdate": "Mon, 08 Apr 2024 22:00:00 +0200"
     }
   ]
 }
