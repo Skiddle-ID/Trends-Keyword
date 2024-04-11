@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2024 , 23:35:06",
+  "lastUpdate": "11-04-2024 , 01:33:19",
   "data": [
     {
       "title": "Paris",
@@ -35,11 +35,6 @@
       "title": "Devlet Bahçeli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli",
       "pubdate": "Wed, 10 Apr 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Fatih Altaylı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20Altayl%C4%B1",
-      "pubdate": "Wed, 10 Apr 2024 11:00:00 +0300"
     },
     {
       "title": "Arda Güler",
@@ -82,14 +77,14 @@
       "pubdate": "Wed, 10 Apr 2024 09:00:00 +0300"
     },
     {
-      "title": "Peter Higgs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Peter%20Higgs",
-      "pubdate": "Wed, 10 Apr 2024 14:00:00 +0300"
-    },
-    {
       "title": "Ajda Pekkan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ajda%20Pekkan",
       "pubdate": "Wed, 10 Apr 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Peter Higgs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Peter%20Higgs",
+      "pubdate": "Wed, 10 Apr 2024 14:00:00 +0300"
     },
     {
       "title": "Sinan Ateş",
@@ -100,6 +95,11 @@
       "title": "Hikmet Aslan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hikmet%20Aslan",
       "pubdate": "Wed, 10 Apr 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Bayramlık filmi oyuncuları",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayraml%C4%B1k%20filmi%20oyuncular%C4%B1",
+      "pubdate": "Wed, 10 Apr 2024 23:00:00 +0300"
     }
   ]
 }

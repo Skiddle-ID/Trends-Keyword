@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-04-2024 , 23:35:04",
+  "lastUpdate": "11-04-2024 , 01:33:17",
   "data": [
+    {
+      "title": "Borussia Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Borussia%20Dortmund",
+      "pubdate": "Thu, 11 Apr 2024 00:00:00 +0300"
+    },
     {
       "title": "Clotilde Armand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Clotilde%20Armand",
@@ -22,24 +27,19 @@
       "pubdate": "Thu, 11 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+      "title": "PSG  Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG%20%20Barcelona",
       "pubdate": "Wed, 10 Apr 2024 13:00:00 +0300"
     },
     {
       "title": "Atlético Madrid  Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atl%C3%A9tico%20Madrid%20%20Dortmund",
-      "pubdate": "Wed, 10 Apr 2024 18:00:00 +0300"
+      "pubdate": "Wed, 10 Apr 2024 22:00:00 +0300"
     },
     {
       "title": "Electric Castle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Electric%20Castle",
       "pubdate": "Wed, 10 Apr 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Sarbatoare 11 aprilie 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sarbatoare%2011%20aprilie%202024",
-      "pubdate": "Wed, 10 Apr 2024 18:00:00 +0300"
     },
     {
       "title": "Phil Foden",
@@ -67,11 +67,6 @@
       "pubdate": "Wed, 10 Apr 2024 06:00:00 +0300"
     },
     {
-      "title": "PPC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
-      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0300"
-    },
-    {
       "title": "Carlos Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Carlos%20Alcaraz",
       "pubdate": "Wed, 10 Apr 2024 10:00:00 +0300"
@@ -87,19 +82,24 @@
       "pubdate": "Wed, 10 Apr 2024 16:00:00 +0300"
     },
     {
-      "title": "Florinel Coman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
-      "pubdate": "Wed, 10 Apr 2024 21:00:00 +0300"
+      "title": "Sarbatoare 11 aprilie 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sarbatoare%2011%20aprilie%202024",
+      "pubdate": "Wed, 10 Apr 2024 18:00:00 +0300"
     },
     {
-      "title": "UEFA!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA!",
-      "pubdate": "Wed, 10 Apr 2024 00:00:00 +0300"
+      "title": "PPC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
+      "pubdate": "Wed, 10 Apr 2024 13:00:00 +0300"
     },
     {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20League",
       "pubdate": "Wed, 10 Apr 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Florinel Coman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
+      "pubdate": "Wed, 10 Apr 2024 21:00:00 +0300"
     }
   ]
 }
