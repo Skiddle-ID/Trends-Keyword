@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "11-04-2024 , 23:36:13",
+  "lastUpdate": "12-04-2024 , 01:32:25",
   "data": [
+    {
+      "title": "O.J. Simpson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#O.J.%20Simpson",
+      "pubdate": "Fri, 12 Apr 2024 00:00:00 +0800"
+    },
+    {
+      "title": "歐霸盃",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AD%90%E9%9C%B8%E7%9B%83",
+      "pubdate": "Fri, 12 Apr 2024 04:00:00 +0800"
+    },
+    {
+      "title": "上水站",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%8A%E6%B0%B4%E7%AB%99",
+      "pubdate": "Fri, 12 Apr 2024 02:00:00 +0800"
+    },
     {
       "title": "全運會",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%A8%E9%81%8B%E6%9C%83",
@@ -62,9 +77,9 @@
       "pubdate": "Thu, 11 Apr 2024 00:00:00 +0800"
     },
     {
-      "title": "趙璧渝",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B6%99%E7%92%A7%E6%B8%9D",
-      "pubdate": "Thu, 11 Apr 2024 14:00:00 +0800"
+      "title": "苗博雅",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%8B%97%E5%8D%9A%E9%9B%85",
+      "pubdate": "Thu, 11 Apr 2024 19:00:00 +0800"
     },
     {
       "title": "慕光英文書院",
@@ -85,21 +100,6 @@
       "title": "Cityline",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Cityline",
       "pubdate": "Wed, 10 Apr 2024 13:00:00 +0800"
-    },
-    {
-      "title": "曼城",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9B%BC%E5%9F%8E",
-      "pubdate": "Wed, 10 Apr 2024 02:00:00 +0800"
-    },
-    {
-      "title": "阿仙奴",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E4%BB%99%E5%A5%B4",
-      "pubdate": "Wed, 10 Apr 2024 06:00:00 +0800"
-    },
-    {
-      "title": "CPI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CPI",
-      "pubdate": "Wed, 10 Apr 2024 02:00:00 +0800"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-04-2024 , 23:36:26",
+  "lastUpdate": "12-04-2024 , 01:32:31",
   "data": [
     {
       "title": "Kilian Kerner",
@@ -15,6 +15,11 @@
       "title": "Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa",
       "pubdate": "Fri, 12 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Kafka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kafka",
+      "pubdate": "Fri, 12 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Mademoiselle Holmes",
@@ -72,19 +77,14 @@
       "pubdate": "Thu, 11 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fenerbahce",
-      "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Liverpool gegen Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20gegen%20Atalanta",
       "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Til Schweiger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Til%20Schweiger",
-      "pubdate": "Thu, 11 Apr 2024 18:00:00 +0200"
+      "title": "Fenerbahce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fenerbahce",
+      "pubdate": "Thu, 11 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Julian Assange",
