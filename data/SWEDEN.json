@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "12-04-2024 , 23:34:35",
+  "lastUpdate": "13-04-2024 , 01:13:31",
   "data": [
+    {
+      "title": "Mora IK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mora%20IK",
+      "pubdate": "Sat, 13 Apr 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Andreas Johnson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Johnson",
+      "pubdate": "Sat, 13 Apr 2024 01:00:00 +0200"
+    },
     {
       "title": "Frölunda Skellefteå",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
@@ -20,11 +30,6 @@
       "title": "Jimmie Åkesson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
       "pubdate": "Fri, 12 Apr 2024 03:00:00 +0200"
-    },
-    {
-      "title": "Anna-Greta Leijon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna-Greta%20Leijon",
-      "pubdate": "Fri, 12 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "Magdalena Andersson",
@@ -47,24 +52,19 @@
       "pubdate": "Fri, 12 Apr 2024 07:00:00 +0200"
     },
     {
-      "title": "Miss Li",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miss%20Li",
-      "pubdate": "Fri, 12 Apr 2024 16:00:00 +0200"
-    },
-    {
       "title": "Scottie Scheffler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Scottie%20Scheffler",
       "pubdate": "Fri, 12 Apr 2024 17:00:00 +0200"
     },
     {
+      "title": "Miss Li",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miss%20Li",
+      "pubdate": "Fri, 12 Apr 2024 16:00:00 +0200"
+    },
+    {
       "title": "Inflation",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inflation",
       "pubdate": "Fri, 12 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leverkusen",
-      "pubdate": "Fri, 12 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Bayer Leverkusen",
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 11 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Skärholmen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sk%C3%A4rholmen",
-      "pubdate": "Thu, 11 Apr 2024 00:00:00 +0200"
+      "title": "Sara Dahlström död",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Dahlstr%C3%B6m%20d%C3%B6d",
+      "pubdate": "Thu, 11 Apr 2024 18:00:00 +0200"
     }
   ]
 }

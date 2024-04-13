@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2024 , 23:34:33",
+  "lastUpdate": "13-04-2024 , 01:13:29",
   "data": [
     {
       "title": "Broncos vs Dolphins",
@@ -17,6 +17,16 @@
       "pubdate": "Fri, 12 Apr 2024 04:00:00 +1200"
     },
     {
+      "title": "Masters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters",
+      "pubdate": "Fri, 12 Apr 2024 02:00:00 +1200"
+    },
+    {
+      "title": "Masters leaderboard 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters%20leaderboard%202024",
+      "pubdate": "Fri, 12 Apr 2024 08:00:00 +1200"
+    },
+    {
       "title": "Wellington Phoenix vs Melbourne Victory",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Melbourne%20Victory",
       "pubdate": "Fri, 12 Apr 2024 17:00:00 +1200"
@@ -27,9 +37,9 @@
       "pubdate": "Fri, 12 Apr 2024 08:00:00 +1200"
     },
     {
-      "title": "Masters Leaderboard 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters%20Leaderboard%202024",
-      "pubdate": "Fri, 12 Apr 2024 09:00:00 +1200"
+      "title": "Crusaders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crusaders",
+      "pubdate": "Fri, 12 Apr 2024 22:00:00 +1200"
     },
     {
       "title": "A League",
@@ -37,23 +47,8 @@
       "pubdate": "Fri, 12 Apr 2024 21:00:00 +1200"
     },
     {
-      "title": "Crusaders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crusaders",
-      "pubdate": "Fri, 12 Apr 2024 22:00:00 +1200"
-    },
-    {
-      "title": "Masters leaderboard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters%20leaderboard",
-      "pubdate": "Fri, 12 Apr 2024 08:00:00 +1200"
-    },
-    {
-      "title": "Tiger Woods",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tiger%20Woods",
-      "pubdate": "Fri, 12 Apr 2024 09:00:00 +1200"
-    },
-    {
-      "title": "Truong My Lan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Truong%20My%20Lan",
+      "title": "Vietnamese death sentence",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vietnamese%20death%20sentence",
       "pubdate": "Fri, 12 Apr 2024 14:00:00 +1200"
     },
     {
@@ -70,6 +65,11 @@
       "title": "Heartbreak High",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Heartbreak%20High",
       "pubdate": "Fri, 12 Apr 2024 01:00:00 +1200"
+    },
+    {
+      "title": "Masters golf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters%20golf",
+      "pubdate": "Fri, 12 Apr 2024 08:00:00 +1200"
     },
     {
       "title": "Spring Creek",
