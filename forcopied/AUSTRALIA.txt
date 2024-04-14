@@ -1,1 +1,1 @@
-UFC,ABC,Man City vs Luton Town,Wrexham,Bournemouth vs Man United,Daily Telegraph,Port Adelaide,New York Times,Real Madrid,PBKS vs RR,Grand National 2024,Barcelona,Lori and George Schappell,Bondi Junction,Iran,Carlton vs Adelaide,Newcastle vs Tottenham,Roberto Cavalli,Sam Taylor,Arizona
+UFC,News,ABC News,Bournemouth vs Man United,Wrexham,Man City vs Luton Town,Bluey The Sign,Daily Telegraph,Port Adelaide,World news,New York Times,Turkey cable car accident,Real Madrid,PBKS vs RR,Fox news,Barcelona,Lori and George Schappell,Grand National,Collin Morikawa,Bondi Junction

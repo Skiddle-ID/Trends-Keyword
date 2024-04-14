@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2024 , 23:38:40",
+  "lastUpdate": "14-04-2024 , 01:57:31",
   "data": [
     {
       "title": "Real Madrid",
@@ -7,9 +7,19 @@
       "pubdate": "Sat, 13 Apr 2024 12:00:00 -0400"
     },
     {
-      "title": "Manchester City  Luton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Luton",
+      "title": "Manchester City - Luton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20-%20Luton",
       "pubdate": "Sat, 13 Apr 2024 10:00:00 -0400"
+    },
+    {
+      "title": "U. Española  Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20Espa%C3%B1ola%20%20Everton",
+      "pubdate": "Sat, 13 Apr 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Iquique u Católica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iquique%20u%20Cat%C3%B3lica",
+      "pubdate": "Sat, 13 Apr 2024 20:00:00 -0400"
     },
     {
       "title": "Bournemouth  Manchester United",
@@ -17,13 +27,13 @@
       "pubdate": "Sat, 13 Apr 2024 13:00:00 -0400"
     },
     {
-      "title": "Newcastle  Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Tottenham",
+      "title": "Atlético Madrid  Girona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20%20Girona",
       "pubdate": "Sat, 13 Apr 2024 09:00:00 -0400"
     },
     {
-      "title": "Atlético Madrid  Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20%20Girona",
+      "title": "Newcastle  Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Tottenham",
       "pubdate": "Sat, 13 Apr 2024 09:00:00 -0400"
     },
     {
@@ -37,14 +47,24 @@
       "pubdate": "Sat, 13 Apr 2024 01:00:00 -0400"
     },
     {
-      "title": "Union Española",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-      "pubdate": "Sat, 13 Apr 2024 18:00:00 -0400"
+      "title": "Temblor hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+      "pubdate": "Sat, 13 Apr 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Santiago Wanderers  Barnechea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago%20Wanderers%20%20Barnechea",
+      "pubdate": "Sat, 13 Apr 2024 19:00:00 -0400"
     },
     {
       "title": "Carla Ochoa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carla%20Ochoa",
       "pubdate": "Sat, 13 Apr 2024 00:00:00 -0400"
+    },
+    {
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CNN",
+      "pubdate": "Sat, 13 Apr 2024 19:00:00 -0400"
     },
     {
       "title": "Elon Musk",
@@ -57,49 +77,29 @@
       "pubdate": "Sat, 13 Apr 2024 08:00:00 -0400"
     },
     {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
-      "pubdate": "Sat, 13 Apr 2024 00:00:00 -0400"
-    },
-    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
       "pubdate": "Sat, 13 Apr 2024 14:00:00 -0400"
     },
     {
-      "title": "Roberto Carlos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roberto%20Carlos",
-      "pubdate": "Sat, 13 Apr 2024 03:00:00 -0400"
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers",
+      "pubdate": "Sat, 13 Apr 2024 00:00:00 -0400"
     },
     {
-      "title": "Coachella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coachella",
-      "pubdate": "Sat, 13 Apr 2024 01:00:00 -0400"
-    },
-    {
-      "title": "Wrexham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wrexham",
-      "pubdate": "Sat, 13 Apr 2024 16:00:00 -0400"
-    },
-    {
-      "title": "Mönchengladbach  Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#M%C3%B6nchengladbach%20%20Dortmund",
-      "pubdate": "Sat, 13 Apr 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Lana del Rey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lana%20del%20Rey",
+      "title": "Rennes  Toulouse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rennes%20%20Toulouse",
       "pubdate": "Sat, 13 Apr 2024 17:00:00 -0400"
     },
     {
-      "title": "Miller's Girl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miller's%20Girl",
-      "pubdate": "Sat, 13 Apr 2024 16:00:00 -0400"
+      "title": "Temblor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+      "pubdate": "Sat, 13 Apr 2024 20:00:00 -0400"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
-      "pubdate": "Fri, 12 Apr 2024 23:00:00 -0400"
+      "title": "Roberto Carlos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roberto%20Carlos",
+      "pubdate": "Sat, 13 Apr 2024 03:00:00 -0400"
     }
   ]
 }

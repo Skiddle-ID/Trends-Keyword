@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-04-2024 , 23:38:45",
+  "lastUpdate": "14-04-2024 , 01:57:36",
   "data": [
+    {
+      "title": "Iron Dome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iron%20Dome",
+      "pubdate": "Sun, 14 Apr 2024 02:00:00 +0200"
+    },
     {
       "title": "PSV-Vitesse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-Vitesse",
@@ -20,11 +25,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
       "pubdate": "Sat, 13 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Sydney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sydney",
-      "pubdate": "Sat, 13 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Almere City",
@@ -50,6 +50,11 @@
       "title": "Excelsior  Volendam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior%20%20Volendam",
       "pubdate": "Fri, 12 Apr 2024 20:00:00 +0200"
+    },
+    {
+      "title": "UFC 300",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UFC%20300",
+      "pubdate": "Fri, 12 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Joost Klein",
@@ -95,11 +100,6 @@
       "title": "Fietshelm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietshelm",
       "pubdate": "Wed, 10 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Freek Vonk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Freek%20Vonk",
-      "pubdate": "Tue, 09 Apr 2024 17:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-04-2024 , 23:38:39",
+  "lastUpdate": "14-04-2024 , 01:57:30",
   "data": [
     {
       "title": "UFC",
@@ -7,8 +7,23 @@
       "pubdate": "Sun, 14 Apr 2024 08:00:00 +1000"
     },
     {
-      "title": "ABC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC",
+      "title": "News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#News",
+      "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
+    },
+    {
+      "title": "ABC News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20News",
+      "pubdate": "Sun, 14 Apr 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Bournemouth vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Man%20United",
+      "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
+    },
+    {
+      "title": "Wrexham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wrexham",
       "pubdate": "Sun, 14 Apr 2024 08:00:00 +1000"
     },
     {
@@ -17,14 +32,9 @@
       "pubdate": "Sun, 14 Apr 2024 01:00:00 +1000"
     },
     {
-      "title": "Wrexham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wrexham",
-      "pubdate": "Sun, 14 Apr 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Bournemouth vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Man%20United",
-      "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
+      "title": "Bluey The Sign",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bluey%20The%20Sign",
+      "pubdate": "Sun, 14 Apr 2024 02:00:00 +1000"
     },
     {
       "title": "Daily Telegraph",
@@ -37,9 +47,19 @@
       "pubdate": "Sun, 14 Apr 2024 01:00:00 +1000"
     },
     {
+      "title": "World news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#World%20news",
+      "pubdate": "Sun, 14 Apr 2024 09:00:00 +1000"
+    },
+    {
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Times",
       "pubdate": "Sun, 14 Apr 2024 01:00:00 +1000"
+    },
+    {
+      "title": "Turkey cable car accident",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Turkey%20cable%20car%20accident",
+      "pubdate": "Sun, 14 Apr 2024 09:00:00 +1000"
     },
     {
       "title": "Real Madrid",
@@ -52,9 +72,9 @@
       "pubdate": "Sun, 14 Apr 2024 07:00:00 +1000"
     },
     {
-      "title": "Grand National 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grand%20National%202024",
-      "pubdate": "Sun, 14 Apr 2024 04:00:00 +1000"
+      "title": "Fox news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fox%20news",
+      "pubdate": "Sun, 14 Apr 2024 07:00:00 +1000"
     },
     {
       "title": "Barcelona",
@@ -67,39 +87,19 @@
       "pubdate": "Sun, 14 Apr 2024 08:00:00 +1000"
     },
     {
+      "title": "Grand National",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grand%20National",
+      "pubdate": "Sun, 14 Apr 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Collin Morikawa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collin%20Morikawa",
+      "pubdate": "Sun, 14 Apr 2024 11:00:00 +1000"
+    },
+    {
       "title": "Bondi Junction",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bondi%20Junction",
       "pubdate": "Sat, 13 Apr 2024 17:00:00 +1000"
-    },
-    {
-      "title": "Iran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iran",
-      "pubdate": "Sat, 13 Apr 2024 10:00:00 +1000"
-    },
-    {
-      "title": "Carlton vs Adelaide",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton%20vs%20Adelaide",
-      "pubdate": "Sat, 13 Apr 2024 17:00:00 +1000"
-    },
-    {
-      "title": "Newcastle vs Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20Tottenham",
-      "pubdate": "Sat, 13 Apr 2024 21:00:00 +1000"
-    },
-    {
-      "title": "Roberto Cavalli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Roberto%20Cavalli",
-      "pubdate": "Sat, 13 Apr 2024 09:00:00 +1000"
-    },
-    {
-      "title": "Sam Taylor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Taylor",
-      "pubdate": "Sat, 13 Apr 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Arizona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arizona",
-      "pubdate": "Sat, 13 Apr 2024 18:00:00 +1000"
     }
   ]
 }
