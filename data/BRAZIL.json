@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-04-2024 , 03:43:49",
+  "lastUpdate": "14-04-2024 , 04:59:04",
   "data": [
+    {
+      "title": "Internacional x Bahia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Bahia",
+      "pubdate": "Sat, 13 Apr 2024 00:00:00 -0500"
+    },
     {
       "title": "Sao Paulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
@@ -32,11 +37,6 @@
       "pubdate": "Sat, 13 Apr 2024 11:00:00 -0500"
     },
     {
-      "title": "Brasileirão série a",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o%20s%C3%A9rie%20a",
-      "pubdate": "Sat, 13 Apr 2024 07:00:00 -0500"
-    },
-    {
       "title": "Criciuma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Criciuma",
       "pubdate": "Sat, 13 Apr 2024 16:00:00 -0500"
@@ -52,6 +52,21 @@
       "pubdate": "Sat, 13 Apr 2024 10:00:00 -0500"
     },
     {
+      "title": "Gshow votação",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gshow%20vota%C3%A7%C3%A3o",
+      "pubdate": "Sat, 13 Apr 2024 00:00:00 -0500"
+    },
+    {
+      "title": "São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo",
+      "pubdate": "Sat, 13 Apr 2024 18:00:00 -0500"
+    },
+    {
+      "title": "UFC Hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20Hoje",
+      "pubdate": "Sat, 13 Apr 2024 07:00:00 -0500"
+    },
+    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
       "pubdate": "Sat, 13 Apr 2024 02:00:00 -0500"
@@ -62,14 +77,14 @@
       "pubdate": "Sat, 13 Apr 2024 09:00:00 -0500"
     },
     {
-      "title": "Enquete BBB último paredão",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20BBB%20%C3%BAltimo%20pared%C3%A3o",
-      "pubdate": "Sat, 13 Apr 2024 00:00:00 -0500"
-    },
-    {
       "title": "SPFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
       "pubdate": "Sat, 13 Apr 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Bayern x Colônia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Col%C3%B4nia",
+      "pubdate": "Sat, 13 Apr 2024 08:00:00 -0500"
     },
     {
       "title": "Botafogo-PB",
@@ -82,23 +97,8 @@
       "pubdate": "Sat, 13 Apr 2024 12:00:00 -0500"
     },
     {
-      "title": "Velo Clube x Noroeste",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velo%20Clube%20x%20Noroeste",
-      "pubdate": "Sat, 13 Apr 2024 15:00:00 -0500"
-    },
-    {
       "title": "Guerra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guerra",
-      "pubdate": "Sat, 13 Apr 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Nottingham Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nottingham%20Forest",
-      "pubdate": "Sat, 13 Apr 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Esporte Clube Bahia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
       "pubdate": "Sat, 13 Apr 2024 17:00:00 -0500"
     }
   ]
