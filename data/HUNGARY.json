@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "14-04-2024 , 08:07:56",
+  "lastUpdate": "14-04-2024 , 11:08:13",
   "data": [
-    {
-      "title": "BBC news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BBC%20news",
-      "pubdate": "Sun, 14 Apr 2024 07:00:00 +0200"
-    },
     {
       "title": "Katalin hercegné",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Katalin%20hercegn%C3%A9",
@@ -20,6 +15,11 @@
       "title": "Katona Klári",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Katona%20Kl%C3%A1ri",
       "pubdate": "Sun, 14 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Háború",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%A1bor%C3%BA",
+      "pubdate": "Sun, 14 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "Scarlett Johansson",
@@ -42,19 +42,9 @@
       "pubdate": "Sat, 13 Apr 2024 20:00:00 +0200"
     },
     {
-      "title": "Karsai Dániel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Karsai%20D%C3%A1niel",
-      "pubdate": "Sat, 13 Apr 2024 16:00:00 +0200"
-    },
-    {
       "title": "Lezuhant repülő Ráckeresztúr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lezuhant%20rep%C3%BCl%C5%91%20R%C3%A1ckereszt%C3%BAr",
       "pubdate": "Sat, 13 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Newcastle–tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93tottenham",
-      "pubdate": "Sat, 13 Apr 2024 13:00:00 +0200"
     },
     {
       "title": "Barcelona",
@@ -67,14 +57,14 @@
       "pubdate": "Sat, 13 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Beton.Hofi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beton.Hofi",
-      "pubdate": "Sat, 13 Apr 2024 13:00:00 +0200"
-    },
-    {
       "title": "Sydney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sydney",
       "pubdate": "Sat, 13 Apr 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Beton.Hofi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beton.Hofi",
+      "pubdate": "Sat, 13 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Manchester United",
@@ -87,19 +77,29 @@
       "pubdate": "Sat, 13 Apr 2024 23:00:00 +0200"
     },
     {
-      "title": "Újpest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest",
-      "pubdate": "Sat, 13 Apr 2024 18:00:00 +0200"
-    },
-    {
       "title": "Paksi FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paksi%20FC",
       "pubdate": "Sat, 13 Apr 2024 22:00:00 +0200"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
-      "pubdate": "Sat, 13 Apr 2024 20:00:00 +0200"
+      "title": "Újpest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest",
+      "pubdate": "Sat, 13 Apr 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Komádi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kom%C3%A1di",
+      "pubdate": "Sat, 13 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Anna Karenina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anna%20Karenina",
+      "pubdate": "Sat, 13 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "A pusztító",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20puszt%C3%ADt%C3%B3",
+      "pubdate": "Sat, 13 Apr 2024 23:00:00 +0200"
     }
   ]
 }

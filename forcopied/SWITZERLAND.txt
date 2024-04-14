@@ -1,1 +1,1 @@
-BBC,Jessica Gismondi,Uschi Glas,Kurt Krömer,Brand Hafen Lachen,Lenny Kravitz,News heute,Eddy Merckx,Nadal,Real Madrid,MotoGP,Sydney,Krieg Israel Iran,Bayern gegen Köln,FC Porto,Juventus,Polo Hofer,Barca,FC St.Gallen,Tsitsipas
+BBC,Jessica Gismondi,Uschi Glas,Lenny Kravitz,Kurt Krömer,News heute,Nadal,Nachrichten,Eddy Merckx,MotoGP,Real Madrid,Drohnen Iran Israel,FC Porto,Sydney,Bayern gegen Köln,Polo Hofer,Juventus,Unfall Rüti ZH,FC St.Gallen,Capital Bra

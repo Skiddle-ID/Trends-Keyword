@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-04-2024 , 08:07:58",
+  "lastUpdate": "14-04-2024 , 11:08:15",
   "data": [
     {
       "title": "Queen",
@@ -20,6 +20,11 @@
       "title": "El infierno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20infierno",
       "pubdate": "Sun, 14 Apr 2024 01:00:00 -0600"
+    },
+    {
+      "title": "Nahuel Guzmán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nahuel%20Guzm%C3%A1n",
+      "pubdate": "Sun, 14 Apr 2024 04:00:00 -0600"
     },
     {
       "title": "DR. MARTHA Bernal",
@@ -95,11 +100,6 @@
       "title": "Mönchengladbach  Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#M%C3%B6nchengladbach%20%20Dortmund",
       "pubdate": "Sat, 13 Apr 2024 09:00:00 -0600"
-    },
-    {
-      "title": "Evan peters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Evan%20peters",
-      "pubdate": "Sat, 13 Apr 2024 21:00:00 -0600"
     }
   ]
 }
