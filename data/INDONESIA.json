@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 23:35:00",
+  "lastUpdate": "16-04-2024 , 01:32:35",
   "data": [
     {
       "title": "Barca vs PSG",
@@ -10,6 +10,11 @@
       "title": "Persija",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persija",
       "pubdate": "Tue, 16 Apr 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atalanta",
+      "pubdate": "Tue, 16 Apr 2024 01:00:00 +0700"
     },
     {
       "title": "Pendeta Gilbert",
@@ -67,11 +72,6 @@
       "pubdate": "Mon, 15 Apr 2024 22:00:00 +0700"
     },
     {
-      "title": "Situ Cileunca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Situ%20Cileunca",
-      "pubdate": "Mon, 15 Apr 2024 12:00:00 +0700"
-    },
-    {
       "title": "Osasuna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Osasuna",
       "pubdate": "Mon, 15 Apr 2024 22:00:00 +0700"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 15 Apr 2024 00:00:00 +0700"
     },
     {
-      "title": "Nikita Mirzani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nikita%20Mirzani",
-      "pubdate": "Mon, 15 Apr 2024 21:00:00 +0700"
+      "title": "Hellboy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hellboy",
+      "pubdate": "Mon, 15 Apr 2024 00:00:00 +0700"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-04-2024 , 23:35:04",
+  "lastUpdate": "16-04-2024 , 01:32:38",
   "data": [
     {
       "title": "Osasuna – Valencia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Osasuna%20%E2%80%93%20Valencia",
       "pubdate": "Tue, 16 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Proceder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Proceder",
+      "pubdate": "Tue, 16 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "ONR",
@@ -27,14 +32,14 @@
       "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Trump",
-      "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
-    },
-    {
       "title": "Chelsea – Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea%20%E2%80%93%20Everton",
       "pubdate": "Mon, 15 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Trump",
+      "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Jagatowo",
@@ -47,11 +52,6 @@
       "pubdate": "Mon, 15 Apr 2024 16:00:00 +0200"
     },
     {
-      "title": "PGE Ekstraliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20Ekstraliga",
-      "pubdate": "Mon, 15 Apr 2024 00:00:00 +0200"
-    },
-    {
       "title": "Lancome",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lancome",
       "pubdate": "Mon, 15 Apr 2024 13:00:00 +0200"
@@ -60,11 +60,6 @@
       "title": "Filip Lato",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Filip%20Lato",
       "pubdate": "Mon, 15 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Rumak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rumak",
-      "pubdate": "Mon, 15 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "Incydent przed Pałacem Prezydenckim",
@@ -77,14 +72,24 @@
       "pubdate": "Mon, 15 Apr 2024 11:00:00 +0200"
     },
     {
-      "title": "Henry Cavill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
-      "pubdate": "Mon, 15 Apr 2024 17:00:00 +0200"
+      "title": "PGE Ekstraliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20Ekstraliga",
+      "pubdate": "Mon, 15 Apr 2024 01:00:00 +0200"
     },
     {
       "title": "Barcelona - PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Barcelona%20-%20PSG",
       "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Henry Cavill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
+      "pubdate": "Mon, 15 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Jacek Gaworski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20Gaworski",
+      "pubdate": "Mon, 15 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Unia Oświęcim",
@@ -95,11 +100,6 @@
       "title": "Tiramisu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tiramisu",
       "pubdate": "Mon, 15 Apr 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Czarzasty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czarzasty",
-      "pubdate": "Mon, 15 Apr 2024 23:00:00 +0200"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-04-2024 , 23:35:02",
+  "lastUpdate": "16-04-2024 , 01:32:36",
   "data": [
     {
       "title": "Chelsea vs Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20vs%20Everton",
       "pubdate": "Tue, 16 Apr 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Teams",
+      "pubdate": "Tue, 16 Apr 2024 07:00:00 +0800"
     },
     {
       "title": "Bundesliga",
@@ -27,13 +32,13 @@
       "pubdate": "Mon, 15 Apr 2024 22:00:00 +0800"
     },
     {
-      "title": "Time",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Time",
+      "title": "AFC U23",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AFC%20U23",
       "pubdate": "Mon, 15 Apr 2024 19:00:00 +0800"
     },
     {
-      "title": "AFC U23",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AFC%20U23",
+      "title": "Time",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Time",
       "pubdate": "Mon, 15 Apr 2024 19:00:00 +0800"
     },
     {
@@ -42,9 +47,19 @@
       "pubdate": "Mon, 15 Apr 2024 21:00:00 +0800"
     },
     {
+      "title": "LE SSERAFIM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LE%20SSERAFIM",
+      "pubdate": "Mon, 15 Apr 2024 01:00:00 +0800"
+    },
+    {
       "title": "Classroom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Classroom",
       "pubdate": "Mon, 15 Apr 2024 11:00:00 +0800"
+    },
+    {
+      "title": "Arsenal FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20FC",
+      "pubdate": "Mon, 15 Apr 2024 06:00:00 +0800"
     },
     {
       "title": "Leverkusen FC",
@@ -52,19 +67,9 @@
       "pubdate": "Mon, 15 Apr 2024 02:00:00 +0800"
     },
     {
-      "title": "LE SSERAFIM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LE%20SSERAFIM",
-      "pubdate": "Mon, 15 Apr 2024 01:00:00 +0800"
-    },
-    {
-      "title": "Grimes Coachella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Grimes%20Coachella",
+      "title": "Grimes' Coachella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Grimes'%20Coachella",
       "pubdate": "Mon, 15 Apr 2024 09:00:00 +0800"
-    },
-    {
-      "title": "GC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#GC",
-      "pubdate": "Mon, 15 Apr 2024 08:00:00 +0800"
     },
     {
       "title": "Inter Milan",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 14 Apr 2024 22:00:00 +0800"
     },
     {
-      "title": "KLIA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#KLIA",
-      "pubdate": "Sun, 14 Apr 2024 08:00:00 +0800"
-    },
-    {
-      "title": "CSK vs MI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CSK%20vs%20MI",
-      "pubdate": "Sun, 14 Apr 2024 22:00:00 +0800"
+      "title": "KLIA shooting case",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#KLIA%20shooting%20case",
+      "pubdate": "Sun, 14 Apr 2024 10:00:00 +0800"
     },
     {
       "title": "UFC 300",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UFC%20300",
-      "pubdate": "Sun, 14 Apr 2024 14:00:00 +0800"
+      "pubdate": "Sun, 14 Apr 2024 07:00:00 +0800"
     }
   ]
 }

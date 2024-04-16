@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2024 , 23:34:55",
+  "lastUpdate": "16-04-2024 , 01:32:30",
   "data": [
     {
       "title": "Chelsea vs Everton",
@@ -7,9 +7,34 @@
       "pubdate": "Tue, 16 Apr 2024 06:00:00 +1000"
     },
     {
+      "title": "Epic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Epic",
+      "pubdate": "Tue, 16 Apr 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Nathan Murphy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nathan%20Murphy",
+      "pubdate": "Tue, 16 Apr 2024 10:00:00 +1000"
+    },
+    {
       "title": "Hannah Waddingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hannah%20Waddingham",
       "pubdate": "Tue, 16 Apr 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Hannah Gutierrez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hannah%20Gutierrez",
+      "pubdate": "Tue, 16 Apr 2024 09:00:00 +1000"
+    },
+    {
+      "title": "WNBA draft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WNBA%20draft",
+      "pubdate": "Tue, 16 Apr 2024 10:00:00 +1000"
+    },
+    {
+      "title": "RCB vs SRH",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RCB%20vs%20SRH",
+      "pubdate": "Tue, 16 Apr 2024 09:00:00 +1000"
     },
     {
       "title": "Boston Marathon 2024",
@@ -22,13 +47,8 @@
       "pubdate": "Tue, 16 Apr 2024 00:00:00 +1000"
     },
     {
-      "title": "Cole Palmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cole%20Palmer",
-      "pubdate": "Tue, 16 Apr 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Sydney church stabbing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20church%20stabbing",
+      "title": "Wakeley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wakeley",
       "pubdate": "Mon, 15 Apr 2024 21:00:00 +1000"
     },
     {
@@ -67,39 +87,19 @@
       "pubdate": "Mon, 15 Apr 2024 19:00:00 +1000"
     },
     {
-      "title": "Peter Daicos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Daicos",
-      "pubdate": "Mon, 15 Apr 2024 12:00:00 +1000"
-    },
-    {
       "title": "Fairfield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fairfield",
       "pubdate": "Mon, 15 Apr 2024 22:00:00 +1000"
     },
     {
-      "title": "Ian Parmenter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ian%20Parmenter",
-      "pubdate": "Mon, 15 Apr 2024 18:00:00 +1000"
+      "title": "Peter Daicos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Peter%20Daicos",
+      "pubdate": "Mon, 15 Apr 2024 12:00:00 +1000"
     },
     {
       "title": "Ludvig åberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ludvig%20%C3%A5berg",
       "pubdate": "Mon, 15 Apr 2024 07:00:00 +1000"
-    },
-    {
-      "title": "Iran nuclear weapons",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iran%20nuclear%20weapons",
-      "pubdate": "Mon, 15 Apr 2024 06:00:00 +1000"
-    },
-    {
-      "title": "Connect",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Connect",
-      "pubdate": "Mon, 15 Apr 2024 12:00:00 +1000"
-    },
-    {
-      "title": "Geelong Cats",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20Cats",
-      "pubdate": "Mon, 15 Apr 2024 05:00:00 +1000"
     }
   ]
 }
