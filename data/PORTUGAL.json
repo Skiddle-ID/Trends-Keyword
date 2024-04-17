@@ -1,14 +1,24 @@
 {
-  "lastUpdate": "16-04-2024 , 23:35:18",
+  "lastUpdate": "17-04-2024 , 01:32:34",
   "data": [
+    {
+      "title": "Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport",
+      "pubdate": "Wed, 17 Apr 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Johnny Depp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Johnny%20Depp",
+      "pubdate": "Wed, 17 Apr 2024 00:00:00 +0100"
+    },
     {
       "title": "Barcelona  PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20PSG",
       "pubdate": "Tue, 16 Apr 2024 20:00:00 +0100"
     },
     {
-      "title": "Borussia  Atlético Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Borussia%20%20Atl%C3%A9tico%20Madrid",
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dortmund",
       "pubdate": "Tue, 16 Apr 2024 20:00:00 +0100"
     },
     {
@@ -22,14 +32,14 @@
       "pubdate": "Tue, 16 Apr 2024 21:00:00 +0100"
     },
     {
-      "title": "Zubizarreta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zubizarreta",
-      "pubdate": "Tue, 16 Apr 2024 00:00:00 +0100"
-    },
-    {
       "title": "Morreram os gemeos siameses",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Morreram%20os%20gemeos%20siameses",
       "pubdate": "Tue, 16 Apr 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Joana Amaral Dias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Amaral%20Dias",
+      "pubdate": "Tue, 16 Apr 2024 21:00:00 +0100"
     },
     {
       "title": "MB Way",
@@ -47,24 +57,9 @@
       "pubdate": "Tue, 16 Apr 2024 20:00:00 +0100"
     },
     {
-      "title": "Joana Amaral Dias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Amaral%20Dias",
-      "pubdate": "Tue, 16 Apr 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Taca de Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taca%20de%20Portugal",
-      "pubdate": "Tue, 16 Apr 2024 22:00:00 +0100"
-    },
-    {
       "title": "Clint Eastwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Clint%20Eastwood",
       "pubdate": "Tue, 16 Apr 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Felipe Anderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Anderson",
-      "pubdate": "Tue, 16 Apr 2024 00:00:00 +0100"
     },
     {
       "title": "Dubai",
@@ -72,14 +67,19 @@
       "pubdate": "Tue, 16 Apr 2024 22:00:00 +0100"
     },
     {
+      "title": "Felipe Anderson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Anderson",
+      "pubdate": "Tue, 16 Apr 2024 00:00:00 +0100"
+    },
+    {
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nadal",
       "pubdate": "Tue, 16 Apr 2024 18:00:00 +0100"
     },
     {
-      "title": "Copenhaga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Copenhaga",
-      "pubdate": "Tue, 16 Apr 2024 19:00:00 +0100"
+      "title": "Resultado Sporting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Resultado%20Sporting",
+      "pubdate": "Tue, 16 Apr 2024 22:00:00 +0100"
     },
     {
       "title": "Dele Alli",
@@ -87,8 +87,8 @@
       "pubdate": "Tue, 16 Apr 2024 11:00:00 +0100"
     },
     {
-      "title": "Resultado Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Resultado%20Sporting",
+      "title": "Taça de Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ta%C3%A7a%20de%20Portugal",
       "pubdate": "Tue, 16 Apr 2024 22:00:00 +0100"
     },
     {

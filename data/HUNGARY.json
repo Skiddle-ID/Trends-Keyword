@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "16-04-2024 , 23:35:14",
+  "lastUpdate": "17-04-2024 , 01:32:31",
   "data": [
     {
       "title": "Kocsis Máté",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsis%20M%C3%A1t%C3%A9",
+      "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "MCC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MCC",
       "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
     },
     {
@@ -27,14 +32,14 @@
       "pubdate": "Tue, 16 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "Delta műsorvezető",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Delta%20m%C5%B1sorvezet%C5%91",
-      "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
-    },
-    {
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
       "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Delta műsorvezető",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Delta%20m%C5%B1sorvezet%C5%91",
+      "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Jákob Zoltán",
@@ -55,11 +60,6 @@
       "title": "Sulyok Tamás",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sulyok%20Tam%C3%A1s",
       "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Brüsszel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Br%C3%BCsszel",
-      "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
     },
     {
       "title": "Neymar",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Április 16",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81prilis%2016",
-      "pubdate": "Tue, 16 Apr 2024 13:00:00 +0200"
+      "title": "Kaká",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kak%C3%A1",
+      "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
     }
   ]
 }

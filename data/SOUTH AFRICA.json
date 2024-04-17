@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2024 , 23:35:19",
+  "lastUpdate": "17-04-2024 , 01:32:35",
   "data": [
     {
       "title": "Linfield fc",
@@ -17,14 +17,14 @@
       "pubdate": "Tue, 16 Apr 2024 15:00:00 +0200"
     },
     {
+      "title": "PSG vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Barcelona",
+      "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
+    },
+    {
       "title": "PSL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
       "pubdate": "Tue, 16 Apr 2024 08:00:00 +0200"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
-      "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Clint Eastwood",
@@ -42,6 +42,16 @@
       "pubdate": "Tue, 16 Apr 2024 18:00:00 +0200"
     },
     {
+      "title": "Natalie Viscuso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Natalie%20Viscuso",
+      "pubdate": "Tue, 16 Apr 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Dubai weather",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dubai%20weather",
+      "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
+    },
+    {
       "title": "Estadi Olímpic Lluís Companys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Estadi%20Ol%C3%ADmpic%20Llu%C3%ADs%20Companys",
       "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
@@ -52,8 +62,23 @@
       "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
     },
     {
+      "title": "Klaus Schwab",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Klaus%20Schwab",
+      "pubdate": "Tue, 16 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "PORTSMOUTH fc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PORTSMOUTH%20fc",
+      "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Oxford United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Oxford%20United",
+      "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Bolton WANDERERS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bolton%20WANDERERS",
       "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
     },
     {
@@ -62,18 +87,8 @@
       "pubdate": "Tue, 16 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Bolton WANDERERS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bolton%20WANDERERS",
-      "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Henry Cavill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Henry%20Cavill",
-      "pubdate": "Tue, 16 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Dubai weather",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dubai%20weather",
+      "title": "Bristol Rovers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bristol%20Rovers",
       "pubdate": "Tue, 16 Apr 2024 23:00:00 +0200"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Chelsea vs Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Everton",
       "pubdate": "Mon, 15 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Sundowns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
-      "pubdate": "Mon, 15 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Margate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Margate",
-      "pubdate": "Mon, 15 Apr 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Chelsea FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
-      "pubdate": "Mon, 15 Apr 2024 22:00:00 +0200"
     }
   ]
 }
