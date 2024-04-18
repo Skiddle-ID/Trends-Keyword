@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 23:36:00",
+  "lastUpdate": "18-04-2024 , 01:32:10",
   "data": [
     {
       "title": "Phil foden",
@@ -52,6 +52,11 @@
       "pubdate": "Wed, 17 Apr 2024 19:00:00 +0200"
     },
     {
+      "title": "Katja Kühne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Katja%20K%C3%BChne",
+      "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Bregenz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bregenz",
       "pubdate": "Wed, 17 Apr 2024 19:00:00 +0200"
@@ -62,14 +67,14 @@
       "pubdate": "Wed, 17 Apr 2024 09:00:00 +0200"
     },
     {
+      "title": "Haaland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haaland",
+      "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
+    },
+    {
       "title": "Leerstandsabgabe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leerstandsabgabe",
       "pubdate": "Wed, 17 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Katja Kühne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Katja%20K%C3%BChne",
-      "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Kirsten Dunst",
@@ -95,11 +100,6 @@
       "title": "Pablo Escobar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pablo%20Escobar",
       "pubdate": "Wed, 17 Apr 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Dennis Novak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dennis%20Novak",
-      "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
     }
   ]
 }

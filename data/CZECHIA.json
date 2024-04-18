@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2024 , 23:36:01",
+  "lastUpdate": "18-04-2024 , 01:32:11",
   "data": [
     {
       "title": "StarDance",
@@ -12,9 +12,9 @@
       "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Dubaj záplavy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dubaj%20z%C3%A1plavy",
-      "pubdate": "Wed, 17 Apr 2024 16:00:00 +0200"
+      "title": "Dubaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dubaj",
+      "pubdate": "Wed, 17 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "Rozálie Havelková",
@@ -32,13 +32,28 @@
       "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
     },
     {
+      "title": "Sicilie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sicilie",
+      "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Victoria Beckham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20Beckham",
       "pubdate": "Wed, 17 Apr 2024 14:00:00 +0200"
     },
     {
+      "title": "Rafael Nadal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rafael%20Nadal",
+      "pubdate": "Wed, 17 Apr 2024 07:00:00 +0200"
+    },
+    {
       "title": "Divadlo Járy Cimrmana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Divadlo%20J%C3%A1ry%20Cimrmana",
+      "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Charlotte stikova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Charlotte%20stikova",
       "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
     },
     {
@@ -52,14 +67,19 @@
       "pubdate": "Wed, 17 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Katy Perry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katy%20Perry",
-      "pubdate": "Wed, 17 Apr 2024 15:00:00 +0200"
+      "title": "Kovosvit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kovosvit",
+      "pubdate": "Wed, 17 Apr 2024 20:00:00 +0200"
     },
     {
       "title": "Motorola Edge 50",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Motorola%20Edge%2050",
       "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Katy Perry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katy%20Perry",
+      "pubdate": "Wed, 17 Apr 2024 15:00:00 +0200"
     },
     {
       "title": "Borussia Dortmund",
@@ -72,34 +92,14 @@
       "pubdate": "Wed, 17 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "Kellnerová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kellnerov%C3%A1",
-      "pubdate": "Wed, 17 Apr 2024 07:00:00 +0200"
-    },
-    {
       "title": "Trinec Pardubice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trinec%20Pardubice",
       "pubdate": "Tue, 16 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Barcelona – PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20PSG",
-      "pubdate": "Tue, 16 Apr 2024 21:00:00 +0200"
-    },
-    {
       "title": "Krucipusk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krucipusk",
       "pubdate": "Tue, 16 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Josef Somr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Somr",
-      "pubdate": "Tue, 16 Apr 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-      "pubdate": "Tue, 16 Apr 2024 22:00:00 +0200"
     }
   ]
 }
