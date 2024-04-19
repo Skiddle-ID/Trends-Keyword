@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "18-04-2024 , 23:42:48",
+  "lastUpdate": "19-04-2024 , 01:33:31",
   "data": [
+    {
+      "title": "Skellefteå AIK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
+      "pubdate": "Fri, 19 Apr 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Julia Rausing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julia%20Rausing",
+      "pubdate": "Fri, 19 Apr 2024 00:00:00 +0200"
+    },
     {
       "title": "Champions League 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League%202024",
@@ -10,6 +20,11 @@
       "title": "Glenn Strömberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glenn%20Str%C3%B6mberg",
       "pubdate": "Thu, 18 Apr 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Taylor Swift Stockholm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift%20Stockholm",
+      "pubdate": "Thu, 18 Apr 2024 08:00:00 +0200"
     },
     {
       "title": "Tove Styrke",
@@ -62,19 +77,9 @@
       "pubdate": "Wed, 17 Apr 2024 18:00:00 +0200"
     },
     {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
-      "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
-    },
-    {
       "title": "Frölunda Skellefteå",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda%20Skellefte%C3%A5",
       "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
-      "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
     },
     {
       "title": "Dubai",
@@ -82,24 +87,19 @@
       "pubdate": "Wed, 17 Apr 2024 00:00:00 +0200"
     },
     {
+      "title": "Domanski Lyfors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Domanski%20Lyfors",
+      "pubdate": "Wed, 17 Apr 2024 14:00:00 +0200"
+    },
+    {
       "title": "Skellefteå AIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
       "pubdate": "Wed, 17 Apr 2024 02:00:00 +0200"
     },
     {
-      "title": "Sveriges mästerkock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20m%C3%A4sterkock",
-      "pubdate": "Wed, 17 Apr 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Emma Berglund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Berglund",
-      "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Johan Floderus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
-      "pubdate": "Wed, 17 Apr 2024 17:00:00 +0200"
+      "title": "Taylor Swift",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Taylor%20Swift",
+      "pubdate": "Wed, 17 Apr 2024 23:00:00 +0200"
     }
   ]
 }

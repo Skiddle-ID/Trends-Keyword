@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "18-04-2024 , 23:42:39",
+  "lastUpdate": "19-04-2024 , 01:33:22",
   "data": [
     {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
-      "pubdate": "Thu, 18 Apr 2024 09:00:00 -0500"
+      "title": "Flamengo x São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20S%C3%A3o%20Paulo",
+      "pubdate": "Thu, 18 Apr 2024 19:00:00 -0500"
     },
     {
       "title": "Belo",
@@ -12,9 +12,19 @@
       "pubdate": "Thu, 18 Apr 2024 15:00:00 -0500"
     },
     {
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
+      "pubdate": "Thu, 18 Apr 2024 09:00:00 -0500"
+    },
+    {
       "title": "Roma x Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma%20x%20Milan",
       "pubdate": "Thu, 18 Apr 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Dia do Livro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Livro",
+      "pubdate": "Thu, 18 Apr 2024 08:00:00 -0500"
     },
     {
       "title": "Fiorentina",
@@ -27,16 +37,6 @@
       "pubdate": "Thu, 18 Apr 2024 06:00:00 -0500"
     },
     {
-      "title": "Monteiro Lobato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monteiro%20Lobato",
-      "pubdate": "Thu, 18 Apr 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Dia do Livro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Livro",
-      "pubdate": "Thu, 18 Apr 2024 08:00:00 -0500"
-    },
-    {
       "title": "Wladimir Costa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wladimir%20Costa",
       "pubdate": "Thu, 18 Apr 2024 09:00:00 -0500"
@@ -47,14 +47,14 @@
       "pubdate": "Thu, 18 Apr 2024 07:00:00 -0500"
     },
     {
-      "title": "Gabriel Grando",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Grando",
-      "pubdate": "Thu, 18 Apr 2024 14:00:00 -0500"
+      "title": "Vacina dengue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
+      "pubdate": "Thu, 18 Apr 2024 12:00:00 -0500"
     },
     {
-      "title": "Olympique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique",
-      "pubdate": "Thu, 18 Apr 2024 15:00:00 -0500"
+      "title": "Mega-Sena 2714",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202714",
+      "pubdate": "Thu, 18 Apr 2024 10:00:00 -0500"
     },
     {
       "title": "Adauto Lourenço",
@@ -62,14 +62,34 @@
       "pubdate": "Thu, 18 Apr 2024 13:00:00 -0500"
     },
     {
-      "title": "Porchat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porchat",
+      "title": "Fabio Porchat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabio%20Porchat",
       "pubdate": "Thu, 18 Apr 2024 15:00:00 -0500"
     },
     {
-      "title": "Vacina dengue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
-      "pubdate": "Thu, 18 Apr 2024 12:00:00 -0500"
+      "title": "Olympique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique",
+      "pubdate": "Thu, 18 Apr 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Roseana Murray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roseana%20Murray",
+      "pubdate": "Thu, 18 Apr 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Matheus Mazzafera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Matheus%20Mazzafera",
+      "pubdate": "Thu, 18 Apr 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Gabriel Grando",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Grando",
+      "pubdate": "Thu, 18 Apr 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Edital TRF3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20TRF3",
+      "pubdate": "Thu, 18 Apr 2024 09:00:00 -0500"
     },
     {
       "title": "Chuvas em Dubai",
@@ -80,26 +100,6 @@
       "title": "Comitê dos EUA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Comit%C3%AA%20dos%20EUA",
       "pubdate": "Thu, 18 Apr 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Bulls",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bulls",
-      "pubdate": "Thu, 18 Apr 2024 05:00:00 -0500"
-    },
-    {
-      "title": "Joel Jota",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joel%20Jota",
-      "pubdate": "Thu, 18 Apr 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Jayme Monjardim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jayme%20Monjardim",
-      "pubdate": "Thu, 18 Apr 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Breno Lopes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Breno%20Lopes",
-      "pubdate": "Thu, 18 Apr 2024 17:00:00 -0500"
     }
   ]
 }
