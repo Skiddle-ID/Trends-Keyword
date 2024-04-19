@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2024 , 11:35:11",
+  "lastUpdate": "19-04-2024 , 12:46:41",
   "data": [
     {
       "title": "Tesla",
@@ -10,11 +10,6 @@
       "title": "İzmir deprem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20deprem",
       "pubdate": "Fri, 19 Apr 2024 12:00:00 +0300"
-    },
-    {
-      "title": "Paribu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Paribu",
-      "pubdate": "Fri, 19 Apr 2024 03:00:00 +0300"
     },
     {
       "title": "Livakovic",
@@ -37,11 +32,6 @@
       "pubdate": "Fri, 19 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "Star TV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Star%20TV",
-      "pubdate": "Fri, 19 Apr 2024 01:00:00 +0300"
-    },
-    {
       "title": "Bahadır Yenişehirlioğlu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bahad%C4%B1r%20Yeni%C5%9Fehirlio%C4%9Flu",
       "pubdate": "Fri, 19 Apr 2024 12:00:00 +0300"
@@ -52,14 +42,14 @@
       "pubdate": "Fri, 19 Apr 2024 11:00:00 +0300"
     },
     {
-      "title": "Ülke puanı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%9Clke%20puan%C4%B1",
-      "pubdate": "Fri, 19 Apr 2024 12:00:00 +0300"
-    },
-    {
       "title": "Dilan Polat tahliye",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dilan%20Polat%20tahliye",
       "pubdate": "Fri, 19 Apr 2024 13:00:00 +0300"
+    },
+    {
+      "title": "Ülke puanı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%9Clke%20puan%C4%B1",
+      "pubdate": "Fri, 19 Apr 2024 12:00:00 +0300"
     },
     {
       "title": "Son dakika deprem",
@@ -82,6 +72,11 @@
       "pubdate": "Thu, 18 Apr 2024 09:00:00 +0300"
     },
     {
+      "title": "BİLSEM sonuçları 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#B%C4%B0LSEM%20sonu%C3%A7lar%C4%B1%202024",
+      "pubdate": "Thu, 18 Apr 2024 03:00:00 +0300"
+    },
+    {
       "title": "Cuma mesajları",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cuma%20mesajlar%C4%B1",
       "pubdate": "Thu, 18 Apr 2024 22:00:00 +0300"
@@ -97,9 +92,14 @@
       "pubdate": "Thu, 18 Apr 2024 22:00:00 +0300"
     },
     {
-      "title": "MEB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MEB",
-      "pubdate": "Thu, 18 Apr 2024 16:00:00 +0300"
+      "title": "İran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran",
+      "pubdate": "Thu, 18 Apr 2024 23:00:00 +0300"
+    },
+    {
+      "title": "İnci Taneleri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0nci%20Taneleri",
+      "pubdate": "Thu, 18 Apr 2024 22:00:00 +0300"
     }
   ]
 }
