@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "19-04-2024 , 23:35:54",
+  "lastUpdate": "20-04-2024 , 01:32:31",
   "data": [
-    {
-      "title": "Late Night With the Devil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Late%20Night%20With%20the%20Devil",
-      "pubdate": "Sat, 20 Apr 2024 00:00:00 +0800"
-    },
     {
       "title": "Anthology",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Anthology",
@@ -30,6 +25,11 @@
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
       "pubdate": "Fri, 19 Apr 2024 14:00:00 +0800"
+    },
+    {
+      "title": "Israel attack Iran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Israel%20attack%20Iran",
+      "pubdate": "Fri, 19 Apr 2024 12:00:00 +0800"
     },
     {
       "title": "Meta AI",
@@ -72,16 +72,6 @@
       "pubdate": "Fri, 19 Apr 2024 16:00:00 +0800"
     },
     {
-      "title": "Isfahan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Isfahan",
-      "pubdate": "Fri, 19 Apr 2024 12:00:00 +0800"
-    },
-    {
-      "title": "West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham",
-      "pubdate": "Fri, 19 Apr 2024 06:00:00 +0800"
-    },
-    {
       "title": "LSG vs CSK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#LSG%20vs%20CSK",
       "pubdate": "Fri, 19 Apr 2024 22:00:00 +0800"
@@ -97,8 +87,18 @@
       "pubdate": "Fri, 19 Apr 2024 00:00:00 +0800"
     },
     {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Formula%201",
+      "pubdate": "Fri, 19 Apr 2024 23:00:00 +0800"
+    },
+    {
       "title": "Al Jazeera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al%20Jazeera",
+      "pubdate": "Fri, 19 Apr 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Arvind Kejriwal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arvind%20Kejriwal",
       "pubdate": "Fri, 19 Apr 2024 21:00:00 +0800"
     }
   ]
