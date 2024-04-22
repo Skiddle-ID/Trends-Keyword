@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2024 , 23:35:32",
+  "lastUpdate": "22-04-2024 , 01:36:22",
   "data": [
     {
       "title": "Real Madrid vs Barcelona",
@@ -9,11 +9,6 @@
     {
       "title": "Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Everton",
-      "pubdate": "Mon, 22 Apr 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Yvonne Lim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yvonne%20Lim",
       "pubdate": "Mon, 22 Apr 2024 00:00:00 +0800"
     },
     {
@@ -37,19 +32,14 @@
       "pubdate": "Sun, 21 Apr 2024 18:00:00 +0800"
     },
     {
-      "title": "Benjamin Tan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benjamin%20Tan",
-      "pubdate": "Sun, 21 Apr 2024 22:00:00 +0800"
-    },
-    {
       "title": "PBKS vs GT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PBKS%20vs%20GT",
       "pubdate": "Sun, 21 Apr 2024 22:00:00 +0800"
     },
     {
-      "title": "Mediacorp Star Awards",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mediacorp%20Star%20Awards",
-      "pubdate": "Sun, 21 Apr 2024 20:00:00 +0800"
+      "title": "Benjamin Tan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benjamin%20Tan",
+      "pubdate": "Sun, 21 Apr 2024 22:00:00 +0800"
     },
     {
       "title": "Lakers",
@@ -65,6 +55,11 @@
       "title": "Chantalle Ng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chantalle%20Ng",
       "pubdate": "Sun, 21 Apr 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Zoe Tay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zoe%20Tay",
+      "pubdate": "Sun, 21 Apr 2024 20:00:00 +0800"
     },
     {
       "title": "London Marathon 2024",
@@ -100,6 +95,11 @@
       "title": "Turtle Museum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Turtle%20Museum",
       "pubdate": "Sat, 20 Apr 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Shu Qi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shu%20Qi",
+      "pubdate": "Sat, 20 Apr 2024 14:00:00 +0800"
     }
   ]
 }

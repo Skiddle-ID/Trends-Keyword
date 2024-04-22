@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "21-04-2024 , 23:35:24",
+  "lastUpdate": "22-04-2024 , 01:36:14",
   "data": [
     {
       "title": "Palestino  U. de Chile",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino%20%20U.%20de%20Chile",
       "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
-      "pubdate": "Sun, 21 Apr 2024 11:00:00 -0400"
     },
     {
       "title": "PSG  Lyon",
@@ -22,6 +17,11 @@
       "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
     },
     {
+      "title": "Cobreloa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+      "pubdate": "Sun, 21 Apr 2024 18:00:00 -0400"
+    },
+    {
       "title": "Dortmund  Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20%20Leverkusen",
       "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
@@ -30,6 +30,16 @@
       "title": "Fulham - Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20-%20Liverpool",
       "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
+    },
+    {
+      "title": "Liga española",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20espa%C3%B1ola",
+      "pubdate": "Sun, 21 Apr 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Union Española",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
+      "pubdate": "Sun, 21 Apr 2024 20:00:00 -0400"
     },
     {
       "title": "Alavés  Atlético Madrid",
@@ -42,9 +52,9 @@
       "pubdate": "Sun, 21 Apr 2024 00:00:00 -0400"
     },
     {
-      "title": "Accidente Quintero",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Accidente%20Quintero",
-      "pubdate": "Sun, 21 Apr 2024 01:00:00 -0400"
+      "title": "Titanic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Titanic",
+      "pubdate": "Sun, 21 Apr 2024 16:00:00 -0400"
     },
     {
       "title": "Aston Villa  Bournemouth",
@@ -52,19 +62,24 @@
       "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
     },
     {
-      "title": "Titanic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Titanic",
-      "pubdate": "Sun, 21 Apr 2024 16:00:00 -0400"
-    },
-    {
       "title": "Alfredo Castro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alfredo%20Castro",
       "pubdate": "Sun, 21 Apr 2024 01:00:00 -0400"
     },
     {
-      "title": "Primera División",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20Divisi%C3%B3n",
-      "pubdate": "Sun, 21 Apr 2024 15:00:00 -0400"
+      "title": "GP China",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#GP%20China",
+      "pubdate": "Sun, 21 Apr 2024 09:00:00 -0400"
+    },
+    {
+      "title": "Carolina Leitao renuncia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carolina%20Leitao%20renuncia",
+      "pubdate": "Sun, 21 Apr 2024 17:00:00 -0400"
+    },
+    {
+      "title": "Virginia Reginato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Virginia%20Reginato",
+      "pubdate": "Sun, 21 Apr 2024 12:00:00 -0400"
     },
     {
       "title": "Crystal Palace  West Ham",
@@ -85,21 +100,6 @@
       "title": "Premios Platino 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premios%20Platino%202024",
       "pubdate": "Sun, 21 Apr 2024 09:00:00 -0400"
-    },
-    {
-      "title": "Carolina Leitao renuncia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carolina%20Leitao%20renuncia",
-      "pubdate": "Sun, 21 Apr 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Leonardo DiCaprio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leonardo%20DiCaprio",
-      "pubdate": "Sun, 21 Apr 2024 18:00:00 -0400"
-    },
-    {
-      "title": "San Luis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
-      "pubdate": "Sun, 21 Apr 2024 00:00:00 -0400"
     }
   ]
 }
