@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "24-04-2024 , 11:35:19",
+  "lastUpdate": "24-04-2024 , 12:54:44",
   "data": [
     {
       "title": "Arne Slot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arne%20Slot",
       "pubdate": "Wed, 24 Apr 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Ryan Gosling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryan%20Gosling",
+      "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
     },
     {
       "title": "24 april",
@@ -27,14 +32,14 @@
       "pubdate": "Tue, 23 Apr 2024 23:00:00 +0200"
     },
     {
+      "title": "Maikel Zijlaard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maikel%20Zijlaard",
+      "pubdate": "Tue, 23 Apr 2024 18:00:00 +0200"
+    },
+    {
       "title": "Rwanda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rwanda",
       "pubdate": "Tue, 23 Apr 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Jan Jaap van der Wal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20Jaap%20van%20der%20Wal",
-      "pubdate": "Tue, 23 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "Brienenoordbrug",
@@ -55,11 +60,6 @@
       "title": "ASML",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
       "pubdate": "Mon, 22 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Rookworst",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rookworst",
-      "pubdate": "Mon, 22 Apr 2024 23:00:00 +0200"
     },
     {
       "title": "MS",

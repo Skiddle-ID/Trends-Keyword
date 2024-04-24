@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "24-04-2024 , 11:35:18",
+  "lastUpdate": "24-04-2024 , 12:54:43",
   "data": [
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Premier%20League",
+      "pubdate": "Wed, 24 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Fassino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fassino",
+      "pubdate": "Wed, 24 Apr 2024 11:00:00 +0200"
+    },
     {
       "title": "Chiara Ferragni Balocco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiara%20Ferragni%20Balocco",
@@ -22,11 +32,6 @@
       "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
     },
     {
-      "title": "Fassino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fassino",
-      "pubdate": "Wed, 24 Apr 2024 11:00:00 +0200"
-    },
-    {
       "title": "25 aprile Liberazione",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#25%20aprile%20Liberazione",
       "pubdate": "Wed, 24 Apr 2024 10:00:00 +0200"
@@ -35,6 +40,21 @@
       "title": "Decreto percorsi abilitanti 60 CFU",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Decreto%20percorsi%20abilitanti%2060%20CFU",
       "pubdate": "Wed, 24 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Festa della Liberazione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Festa%20della%20Liberazione",
+      "pubdate": "Wed, 24 Apr 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Igor Tudor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Igor%20Tudor",
+      "pubdate": "Wed, 24 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Tevez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tevez",
+      "pubdate": "Wed, 24 Apr 2024 13:00:00 +0200"
     },
     {
       "title": "Cristiano Iovino",
@@ -52,9 +72,24 @@
       "pubdate": "Wed, 24 Apr 2024 00:00:00 +0200"
     },
     {
+      "title": "Ermal Meta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ermal%20Meta",
+      "pubdate": "Wed, 24 Apr 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Giorgio Zanchini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgio%20Zanchini",
+      "pubdate": "Wed, 24 Apr 2024 14:00:00 +0200"
+    },
+    {
       "title": "Fondazione Crt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fondazione%20Crt",
       "pubdate": "Wed, 24 Apr 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Alessandro Barbero",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessandro%20Barbero",
+      "pubdate": "Wed, 24 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Max Mariola",
@@ -65,41 +100,6 @@
       "title": "Sulle ali della musica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sulle%20ali%20della%20musica",
       "pubdate": "Tue, 23 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Arsenal-Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Arsenal-Chelsea",
-      "pubdate": "Tue, 23 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Margherita Buy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Margherita%20Buy",
-      "pubdate": "Tue, 23 Apr 2024 23:00:00 +0200"
-    },
-    {
-      "title": "San Giorgio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#San%20Giorgio",
-      "pubdate": "Tue, 23 Apr 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Ramzan Kadyrov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ramzan%20Kadyrov",
-      "pubdate": "Tue, 23 Apr 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Tre piani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tre%20piani",
-      "pubdate": "Tue, 23 Apr 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Rai Serena Bortone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai%20Serena%20Bortone",
-      "pubdate": "Tue, 23 Apr 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Francesco Paolantoni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Paolantoni",
-      "pubdate": "Tue, 23 Apr 2024 08:00:00 +0200"
     }
   ]
 }
