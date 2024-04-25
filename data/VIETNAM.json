@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "24-04-2024 , 23:34:54",
+  "lastUpdate": "25-04-2024 , 01:35:52",
   "data": [
-    {
-      "title": "Everton đấu với Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
-      "pubdate": "Thu, 25 Apr 2024 02:00:00 +0700"
-    },
     {
       "title": "MU",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU",
       "pubdate": "Thu, 25 Apr 2024 05:00:00 +0700"
+    },
+    {
+      "title": "Lorient đấu với PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lorient%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20PSG",
+      "pubdate": "Thu, 25 Apr 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Giải vô địch Pháp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%E1%BA%A3i%20v%C3%B4%20%C4%91%E1%BB%8Bch%20Ph%C3%A1p",
+      "pubdate": "Thu, 25 Apr 2024 07:00:00 +0700"
+    },
+    {
+      "title": "Man Utd đấu với Sheff Utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20Utd%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Sheff%20Utd",
+      "pubdate": "Wed, 24 Apr 2024 08:00:00 +0700"
+    },
+    {
+      "title": "Everton đấu với Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Everton%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
+      "pubdate": "Wed, 24 Apr 2024 11:00:00 +0700"
     },
     {
       "title": "Bảng xếp hạng ngoại hạng anh",
@@ -22,9 +37,9 @@
       "pubdate": "Wed, 24 Apr 2024 17:00:00 +0700"
     },
     {
-      "title": "MU vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs",
-      "pubdate": "Wed, 24 Apr 2024 22:00:00 +0700"
+      "title": "Bóng đá hôm nay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20h%C3%B4m%20nay",
+      "pubdate": "Wed, 24 Apr 2024 00:00:00 +0700"
     },
     {
       "title": "XSMN hôm xổ số miền Nam",
@@ -47,8 +62,8 @@
       "pubdate": "Wed, 24 Apr 2024 08:00:00 +0700"
     },
     {
-      "title": "Liên Quân",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Li%C3%AAn%20Qu%C3%A2n",
+      "title": "Liên quân",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Li%C3%AAn%20qu%C3%A2n",
       "pubdate": "Wed, 24 Apr 2024 22:00:00 +0700"
     },
     {
@@ -82,24 +97,9 @@
       "pubdate": "Wed, 24 Apr 2024 15:00:00 +0700"
     },
     {
-      "title": "Bong da hom nay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bong%20da%20hom%20nay",
-      "pubdate": "Wed, 24 Apr 2024 01:00:00 +0700"
-    },
-    {
       "title": "Malaysia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Malaysia",
       "pubdate": "Wed, 24 Apr 2024 07:00:00 +0700"
-    },
-    {
-      "title": "Phim Quật mộ trùng ma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Phim%20Qu%E1%BA%ADt%20m%E1%BB%99%20tr%C3%B9ng%20ma",
-      "pubdate": "Wed, 24 Apr 2024 09:00:00 +0700"
-    },
-    {
-      "title": "Đội tuyển bóng đá U23 quốc gia Việt Nam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%99i%20tuy%E1%BB%83n%20b%C3%B3ng%20%C4%91%C3%A1%20U23%20qu%E1%BB%91c%20gia%20Vi%E1%BB%87t%20Nam",
-      "pubdate": "Wed, 24 Apr 2024 06:00:00 +0700"
     }
   ]
 }

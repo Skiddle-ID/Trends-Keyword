@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-04-2024 , 23:34:51",
+  "lastUpdate": "25-04-2024 , 01:35:49",
   "data": [
     {
       "title": "Manchester United",
@@ -17,14 +17,9 @@
       "pubdate": "Wed, 24 Apr 2024 21:00:00 +0300"
     },
     {
-      "title": "„U” Cluj - Poli Iași",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%E2%80%9EU%E2%80%9D%20Cluj%20-%20Poli%20Ia%C8%99i",
+      "title": "„U” Cluj  Poli Iași",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%E2%80%9EU%E2%80%9D%20Cluj%20%20Poli%20Ia%C8%99i",
       "pubdate": "Wed, 24 Apr 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Praf saharian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Praf%20saharian",
-      "pubdate": "Wed, 24 Apr 2024 09:00:00 +0300"
     },
     {
       "title": "Premier League",
@@ -32,9 +27,9 @@
       "pubdate": "Wed, 24 Apr 2024 09:00:00 +0300"
     },
     {
-      "title": "Everton - Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Everton%20-%20Liverpool",
-      "pubdate": "Wed, 24 Apr 2024 22:00:00 +0300"
+      "title": "Praf saharian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Praf%20saharian",
+      "pubdate": "Wed, 24 Apr 2024 09:00:00 +0300"
     },
     {
       "title": "Liverpool",
@@ -60,11 +55,6 @@
       "title": "Accident A1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20A1",
       "pubdate": "Wed, 24 Apr 2024 09:00:00 +0300"
-    },
-    {
-      "title": "Olimpiu Moruțan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Olimpiu%20Moru%C8%9Ban",
-      "pubdate": "Wed, 24 Apr 2024 20:00:00 +0300"
     },
     {
       "title": "Romario Benzar",
@@ -100,6 +90,16 @@
       "title": "Sebastian Burduja",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sebastian%20Burduja",
       "pubdate": "Tue, 23 Apr 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Ana Bogdan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
+      "pubdate": "Tue, 23 Apr 2024 19:00:00 +0300"
+    },
+    {
+      "title": "Traian Berbeceanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Traian%20Berbeceanu",
+      "pubdate": "Tue, 23 Apr 2024 08:00:00 +0300"
     }
   ]
 }

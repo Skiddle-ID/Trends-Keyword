@@ -1,1 +1,1 @@
-Movistar,Manchester United  Sheffield United,Iker Muniain,EPEC,Lorient  PSG,Coquimbo Unido  Racing,Tevez,Crystal Palace  Newcastle,Atalanta,Fermin nuñez,Jack Nicholson,Mariano Navone,Maria Remedios del Valle,Palmeiras,24 de abril,Junior,Nacional  Deportivo Táchira,Luck Ra,FUA,Flamengo
+Movistar,Manchester United  Sheffield United,Iker Muniain,Lorient  PSG,EPEC,Tevez,Fermin nuñez,Atalanta  Fiorentina,Crystal Palace  Newcastle,Nacional  Deportivo Táchira,Jack Nicholson,Mariano Navone,Palmeiras,Botafogo,Maria Remedios del Valle,Huachipato,Flamengo,24 de abril,Junior,Luck Ra
