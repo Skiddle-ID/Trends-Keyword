@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2024 , 11:34:42",
+  "lastUpdate": "26-04-2024 , 12:47:08",
   "data": [
     {
       "title": "Alphabet stock",
@@ -7,9 +7,19 @@
       "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
     },
     {
+      "title": "Caleb Williams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Caleb%20Williams",
+      "pubdate": "Fri, 26 Apr 2024 12:00:00 +0200"
+    },
+    {
       "title": "Adrian Newey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adrian%20Newey",
       "pubdate": "Fri, 26 Apr 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Gisele Bündchen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gisele%20B%C3%BCndchen",
+      "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "Store Bededag",
@@ -27,8 +37,8 @@
       "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "NFL Draft 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL%20Draft%202024",
+      "title": "NFL draft 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL%20draft%202024",
       "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Man Utd  Sheffield Utd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20Utd%20%20Sheffield%20Utd",
       "pubdate": "Wed, 24 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Everton  Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Everton%20%20Liverpool",
-      "pubdate": "Wed, 24 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Tesla stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
-      "pubdate": "Wed, 24 Apr 2024 12:00:00 +0200"
     }
   ]
 }

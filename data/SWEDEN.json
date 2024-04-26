@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2024 , 11:34:48",
+  "lastUpdate": "26-04-2024 , 12:47:16",
   "data": [
     {
       "title": "Gärahovs Bygg",
@@ -22,14 +22,24 @@
       "pubdate": "Fri, 26 Apr 2024 06:00:00 +0200"
     },
     {
-      "title": "Belarus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Belarus",
-      "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
+      "title": "Bryan Adams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryan%20Adams",
+      "pubdate": "Fri, 26 Apr 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Alien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alien",
+      "pubdate": "Fri, 26 Apr 2024 11:00:00 +0200"
     },
     {
       "title": "Oscar Properties",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscar%20Properties",
       "pubdate": "Fri, 26 Apr 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Belarus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Belarus",
+      "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
     },
     {
       "title": "Djurgården mot Malmö FF",
@@ -47,6 +57,11 @@
       "pubdate": "Thu, 25 Apr 2024 06:00:00 +0200"
     },
     {
+      "title": "GAIS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
+      "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
+    },
+    {
       "title": "Bäckström",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%A4ckstr%C3%B6m",
       "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
@@ -57,11 +72,6 @@
       "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "GAIS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
-      "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
-    },
-    {
       "title": "Svea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svea",
       "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
@@ -70,11 +80,6 @@
       "title": "Harvey Weinstein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harvey%20Weinstein",
       "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Norrköping mot Elfsborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping%20mot%20Elfsborg",
-      "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Dominic West",
@@ -95,11 +100,6 @@
       "title": "DIF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
       "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Adrian Newey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Adrian%20Newey",
-      "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
     }
   ]
 }

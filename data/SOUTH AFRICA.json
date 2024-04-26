@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2024 , 11:34:48",
+  "lastUpdate": "26-04-2024 , 12:47:16",
   "data": [
     {
       "title": "Lakers",
@@ -10,6 +10,11 @@
       "title": "Thabo Mbeki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thabo%20Mbeki",
       "pubdate": "Fri, 26 Apr 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Love lies bleeding",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Love%20lies%20bleeding",
+      "pubdate": "Fri, 26 Apr 2024 14:00:00 +0200"
     },
     {
       "title": "Brighton vs Man City",
@@ -57,14 +62,19 @@
       "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
     },
     {
+      "title": "Rafael Nadal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rafael%20Nadal",
+      "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
+    },
+    {
       "title": "Pedro Sánchez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pedro%20S%C3%A1nchez",
       "pubdate": "Thu, 25 Apr 2024 12:00:00 +0200"
     },
     {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rafael%20Nadal",
-      "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
+      "title": "Bruno fernandes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bruno%20fernandes",
+      "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Everton vs Liverpool",
@@ -89,16 +99,6 @@
     {
       "title": "Liverpool FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
-      "pubdate": "Wed, 24 Apr 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Crystal Palace vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace%20vs%20Newcastle",
-      "pubdate": "Wed, 24 Apr 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
       "pubdate": "Wed, 24 Apr 2024 21:00:00 +0200"
     }
   ]
