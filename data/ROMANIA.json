@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 23:36:36",
+  "lastUpdate": "26-04-2024 , 01:33:58",
   "data": [
     {
       "title": "Nadal",
@@ -32,8 +32,8 @@
       "pubdate": "Thu, 25 Apr 2024 16:00:00 +0300"
     },
     {
-      "title": "Brighton - Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brighton%20-%20Man%20City",
+      "title": "Brighton,  Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Brighton,%20%20Man%20City",
       "pubdate": "Thu, 25 Apr 2024 22:00:00 +0300"
     },
     {
@@ -82,11 +82,6 @@
       "pubdate": "Thu, 25 Apr 2024 17:00:00 +0300"
     },
     {
-      "title": "Udinese  Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Udinese%20%20Roma",
-      "pubdate": "Thu, 25 Apr 2024 22:00:00 +0300"
-    },
-    {
       "title": "Laura Nureldin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laura%20Nureldin",
       "pubdate": "Thu, 25 Apr 2024 16:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "George Simion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#George%20Simion",
       "pubdate": "Thu, 25 Apr 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Geoana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Geoana",
+      "pubdate": "Thu, 25 Apr 2024 17:00:00 +0300"
     }
   ]
 }

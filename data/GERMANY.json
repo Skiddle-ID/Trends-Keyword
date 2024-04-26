@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 23:36:31",
+  "lastUpdate": "26-04-2024 , 01:33:53",
   "data": [
     {
       "title": "Harvey Weinstein",
@@ -22,8 +22,8 @@
       "pubdate": "Thu, 25 Apr 2024 14:00:00 +0200"
     },
     {
-      "title": "NFL Draft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL%20Draft",
+      "title": "NFL-Draft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL-Draft",
       "pubdate": "Thu, 25 Apr 2024 15:00:00 +0200"
     },
     {
@@ -35,6 +35,11 @@
       "title": "Steinmeier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steinmeier",
       "pubdate": "Thu, 25 Apr 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Adrian Newey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adrian%20Newey",
+      "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
     },
     {
       "title": "Klaus Otto Nagorsnik",
@@ -95,11 +100,6 @@
       "title": "Voyager 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Voyager%201",
       "pubdate": "Tue, 23 Apr 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Maximilian Krah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maximilian%20Krah",
-      "pubdate": "Mon, 22 Apr 2024 10:00:00 +0200"
     }
   ]
 }

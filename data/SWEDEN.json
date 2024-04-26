@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-04-2024 , 23:36:38",
+  "lastUpdate": "26-04-2024 , 01:34:00",
   "data": [
     {
       "title": "Djurgården mot Malmö FF",
@@ -9,17 +9,12 @@
     {
       "title": "Vårdförbundet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A5rdf%C3%B6rbundet",
-      "pubdate": "Thu, 25 Apr 2024 07:00:00 +0200"
+      "pubdate": "Thu, 25 Apr 2024 09:00:00 +0200"
     },
     {
       "title": "Rögle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
       "pubdate": "Thu, 25 Apr 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Malmö FF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-      "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
     },
     {
       "title": "Bäckström",
@@ -32,8 +27,8 @@
       "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
     },
     {
-      "title": "GAIS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
+      "title": "Gais",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
       "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
     },
     {
@@ -52,11 +47,6 @@
       "pubdate": "Thu, 25 Apr 2024 01:00:00 +0200"
     },
     {
-      "title": "Harvey Weinstein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harvey%20Weinstein",
-      "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "IFK Norrköping",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
       "pubdate": "Thu, 25 Apr 2024 18:00:00 +0200"
@@ -70,6 +60,11 @@
       "title": "Fallout 4 next-gen update",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fallout%204%20next-gen%20update",
       "pubdate": "Thu, 25 Apr 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Christina Hendricks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christina%20Hendricks",
+      "pubdate": "Thu, 25 Apr 2024 00:00:00 +0200"
     },
     {
       "title": "Escape From Tarkov",
@@ -87,18 +82,23 @@
       "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Värnamo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
-      "pubdate": "Thu, 25 Apr 2024 15:00:00 +0200"
-    },
-    {
       "title": "Mjällby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
       "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
     },
     {
+      "title": "Värnamo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
+      "pubdate": "Thu, 25 Apr 2024 15:00:00 +0200"
+    },
+    {
       "title": "AIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+      "pubdate": "Wed, 24 Apr 2024 19:00:00 +0200"
+    },
+    {
+      "title": "IFK Göteborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
       "pubdate": "Wed, 24 Apr 2024 19:00:00 +0200"
     }
   ]
