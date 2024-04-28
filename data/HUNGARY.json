@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 23:35:13",
+  "lastUpdate": "28-04-2024 , 01:38:39",
   "data": [
     {
       "title": "West ham–liverpool",
@@ -37,14 +37,14 @@
       "pubdate": "Sat, 27 Apr 2024 19:00:00 +0200"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
-      "pubdate": "Sat, 27 Apr 2024 19:00:00 +0200"
-    },
-    {
       "title": "Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen",
       "pubdate": "Sat, 27 Apr 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
+      "pubdate": "Sat, 27 Apr 2024 19:00:00 +0200"
     },
     {
       "title": "Stellar Blade",
@@ -77,11 +77,6 @@
       "pubdate": "Sat, 27 Apr 2024 17:00:00 +0200"
     },
     {
-      "title": "Szandi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szandi",
-      "pubdate": "Sat, 27 Apr 2024 17:00:00 +0200"
-    },
-    {
       "title": "Bochum–hoffenheim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bochum%E2%80%93hoffenheim",
       "pubdate": "Sat, 27 Apr 2024 08:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Robotfűnyíró",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robotf%C5%B1ny%C3%ADr%C3%B3",
       "pubdate": "Sat, 27 Apr 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Magyar Péter tüntetés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter%20t%C3%BCntet%C3%A9s",
+      "pubdate": "Fri, 26 Apr 2024 16:00:00 +0200"
     }
   ]
 }

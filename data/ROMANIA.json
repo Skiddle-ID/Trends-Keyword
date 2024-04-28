@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 23:35:17",
+  "lastUpdate": "28-04-2024 , 01:38:42",
   "data": [
     {
       "title": "Nadal",
@@ -12,8 +12,13 @@
       "pubdate": "Sun, 28 Apr 2024 01:00:00 +0300"
     },
     {
-      "title": "U Craiova 1948  „U” Cluj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Craiova%201948%20%20%E2%80%9EU%E2%80%9D%20Cluj",
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
+      "pubdate": "Sun, 28 Apr 2024 03:00:00 +0300"
+    },
+    {
+      "title": "U Craiova 1948  „u” Cluj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Craiova%201948%20%20%E2%80%9Eu%E2%80%9D%20Cluj",
       "pubdate": "Sat, 27 Apr 2024 17:00:00 +0300"
     },
     {
@@ -22,8 +27,8 @@
       "pubdate": "Sat, 27 Apr 2024 00:00:00 +0300"
     },
     {
-      "title": "La Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20Liga",
+      "title": "La liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20liga",
       "pubdate": "Sat, 27 Apr 2024 06:00:00 +0300"
     },
     {
@@ -35,6 +40,11 @@
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Michael%20Schumacher",
       "pubdate": "Sat, 27 Apr 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leverkusen",
+      "pubdate": "Sat, 27 Apr 2024 22:00:00 +0300"
     },
     {
       "title": "Sebastian Burduja",
@@ -52,13 +62,18 @@
       "pubdate": "Sat, 27 Apr 2024 20:00:00 +0300"
     },
     {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
+      "pubdate": "Sat, 27 Apr 2024 23:00:00 +0300"
+    },
+    {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
       "pubdate": "Sat, 27 Apr 2024 20:00:00 +0300"
     },
     {
-      "title": "Pedro sánchez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pedro%20s%C3%A1nchez",
+      "title": "Pedro Sánchez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pedro%20S%C3%A1nchez",
       "pubdate": "Sat, 27 Apr 2024 22:00:00 +0300"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Charles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Charles",
       "pubdate": "Sat, 27 Apr 2024 09:00:00 +0300"
-    },
-    {
-      "title": "Dustin Moskovitz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dustin%20Moskovitz",
-      "pubdate": "Sat, 27 Apr 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Moldova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Moldova",
-      "pubdate": "Sat, 27 Apr 2024 16:00:00 +0300"
-    },
-    {
-      "title": "FCSB - Farul Constanța",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Farul%20Constan%C8%9Ba",
-      "pubdate": "Fri, 26 Apr 2024 15:00:00 +0300"
     }
   ]
 }
