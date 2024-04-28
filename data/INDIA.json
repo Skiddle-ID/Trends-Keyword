@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2024 , 06:35:19",
+  "lastUpdate": "28-04-2024 , 07:34:37",
   "data": [
     {
       "title": "Leverkusen",
@@ -10,6 +10,16 @@
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nadal",
       "pubdate": "Sun, 28 Apr 2024 06:30:00 +0530"
+    },
+    {
+      "title": "Sahil Khan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sahil%20Khan",
+      "pubdate": "Sun, 28 Apr 2024 10:30:00 +0530"
+    },
+    {
+      "title": "Rahul Gandhi Congress",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rahul%20Gandhi%20Congress",
+      "pubdate": "Sun, 28 Apr 2024 11:30:00 +0530"
     },
     {
       "title": "LSG vs RR",
@@ -89,16 +99,6 @@
     {
       "title": "Aamir Khan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aamir%20Khan",
-      "pubdate": "Sat, 27 Apr 2024 23:30:00 +0530"
-    },
-    {
-      "title": "GT vs RCB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#GT%20vs%20RCB",
-      "pubdate": "Sat, 27 Apr 2024 21:30:00 +0530"
-    },
-    {
-      "title": "Poonam Mahajan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Poonam%20Mahajan",
       "pubdate": "Sat, 27 Apr 2024 23:30:00 +0530"
     }
   ]
