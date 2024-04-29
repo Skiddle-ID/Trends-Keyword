@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2024 , 23:35:14",
+  "lastUpdate": "29-04-2024 , 01:35:38",
   "data": [
     {
       "title": "مصطفى شلبي",
@@ -22,19 +22,14 @@
       "pubdate": "Sun, 28 Apr 2024 16:00:00 +0300"
     },
     {
-      "title": "سيتي",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%B3%D9%8A%D8%AA%D9%8A",
+      "title": "مانشستر سيتي",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1%20%D8%B3%D9%8A%D8%AA%D9%8A",
       "pubdate": "Sun, 28 Apr 2024 18:00:00 +0300"
     },
     {
       "title": "النصر",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
       "pubdate": "Sun, 28 Apr 2024 01:00:00 +0300"
-    },
-    {
-      "title": "اتحاد العاصمة",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
-      "pubdate": "Sun, 28 Apr 2024 20:00:00 +0300"
     },
     {
       "title": "رجوة الحسين",
@@ -97,9 +92,14 @@
       "pubdate": "Sat, 27 Apr 2024 14:00:00 +0300"
     },
     {
-      "title": "نهضة بركان",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%86%D9%87%D8%B6%D8%A9%20%D8%A8%D8%B1%D9%83%D8%A7%D9%86",
+      "title": "الزمالك اليوم",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83%20%D8%A7%D9%84%D9%8A%D9%88%D9%85",
       "pubdate": "Sat, 27 Apr 2024 18:00:00 +0300"
+    },
+    {
+      "title": "مباراة الزمالك",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=EG#%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9%20%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83",
+      "pubdate": "Sat, 27 Apr 2024 00:00:00 +0300"
     }
   ]
 }

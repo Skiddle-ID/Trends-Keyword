@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2024 , 23:35:11",
+  "lastUpdate": "29-04-2024 , 01:35:35",
   "data": [
     {
       "title": "Nottingham Forest  Manchester City",
@@ -7,8 +7,8 @@
       "pubdate": "Sun, 28 Apr 2024 12:00:00 -0300"
     },
     {
-      "title": "Bournemouth - Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bournemouth%20-%20Brighton",
+      "title": "Bournemouth  Brighton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bournemouth%20%20Brighton",
       "pubdate": "Sun, 28 Apr 2024 11:00:00 -0300"
     },
     {
@@ -27,23 +27,28 @@
       "pubdate": "Sun, 28 Apr 2024 09:00:00 -0300"
     },
     {
+      "title": "David Lebon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#David%20Lebon",
+      "pubdate": "Sun, 28 Apr 2024 14:00:00 -0300"
+    },
+    {
       "title": "Boca Estudiantes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Estudiantes",
       "pubdate": "Sun, 28 Apr 2024 19:00:00 -0300"
     },
     {
-      "title": "Juventud Antoniana  Central Norte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventud%20Antoniana%20%20Central%20Norte",
+      "title": "Central Norte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20Norte",
       "pubdate": "Sun, 28 Apr 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Temperley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Temperley",
+      "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
     },
     {
       "title": "Fiorentina - Sassuolo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fiorentina%20-%20Sassuolo",
-      "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Villa Mitre  Olimpo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villa%20Mitre%20%20Olimpo",
       "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
     },
     {
@@ -52,18 +57,13 @@
       "pubdate": "Sun, 28 Apr 2024 16:00:00 -0300"
     },
     {
-      "title": "Turismo Carretera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Turismo%20Carretera",
-      "pubdate": "Sun, 28 Apr 2024 14:00:00 -0300"
-    },
-    {
       "title": "Sevilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla",
       "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
     },
     {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Alcaraz",
+      "title": "Turismo Carretera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Turismo%20Carretera",
       "pubdate": "Sun, 28 Apr 2024 14:00:00 -0300"
     },
     {
@@ -72,9 +72,19 @@
       "pubdate": "Sun, 28 Apr 2024 19:00:00 -0300"
     },
     {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Alcaraz",
+      "pubdate": "Sun, 28 Apr 2024 14:00:00 -0300"
+    },
+    {
       "title": "Lakers  Nuggets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers%20%20Nuggets",
       "pubdate": "Sun, 28 Apr 2024 07:00:00 -0300"
+    },
+    {
+      "title": "All Boys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#All%20Boys",
+      "pubdate": "Sun, 28 Apr 2024 20:00:00 -0300"
     },
     {
       "title": "Flamengo",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
     },
     {
-      "title": "Gimnasia Jujuy  Deportivo Maipú",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20Jujuy%20%20Deportivo%20Maip%C3%BA",
-      "pubdate": "Sun, 28 Apr 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Gremio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gremio",
-      "pubdate": "Sun, 28 Apr 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atalanta",
-      "pubdate": "Sun, 28 Apr 2024 15:00:00 -0300"
+      "title": "Ferro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ferro",
+      "pubdate": "Sun, 28 Apr 2024 21:00:00 -0300"
     }
   ]
 }
