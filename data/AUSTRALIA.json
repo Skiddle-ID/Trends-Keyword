@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "29-04-2024 , 23:35:57",
+  "lastUpdate": "30-04-2024 , 01:34:04",
   "data": [
+    {
+      "title": "Bonza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bonza",
+      "pubdate": "Tue, 30 Apr 2024 09:00:00 +1000"
+    },
     {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billie%20Eilish",
       "pubdate": "Tue, 30 Apr 2024 00:00:00 +1000"
+    },
+    {
+      "title": "UCL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
+      "pubdate": "Tue, 30 Apr 2024 10:00:00 +1000"
     },
     {
       "title": "Francis Ngannou",
@@ -12,14 +22,34 @@
       "pubdate": "Tue, 30 Apr 2024 08:00:00 +1000"
     },
     {
+      "title": "Classroom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Classroom",
+      "pubdate": "Tue, 30 Apr 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Boolaroo stabbing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boolaroo%20stabbing",
+      "pubdate": "Tue, 30 Apr 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Darren Cheeseman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Darren%20Cheeseman",
+      "pubdate": "Tue, 30 Apr 2024 10:00:00 +1000"
+    },
+    {
       "title": "Thiago Silva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thiago%20Silva",
       "pubdate": "Tue, 30 Apr 2024 07:00:00 +1000"
     },
     {
-      "title": "Leila McDougall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leila%20McDougall",
-      "pubdate": "Tue, 30 Apr 2024 01:00:00 +1000"
+      "title": "AstraZeneca Covid vaccine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AstraZeneca%20Covid%20vaccine",
+      "pubdate": "Tue, 30 Apr 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Four Corners",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Four%20Corners",
+      "pubdate": "Tue, 30 Apr 2024 09:00:00 +1000"
     },
     {
       "title": "Luke Keary",
@@ -42,19 +72,9 @@
       "pubdate": "Mon, 29 Apr 2024 13:00:00 +1000"
     },
     {
-      "title": "Interest rates Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
-      "pubdate": "Mon, 29 Apr 2024 15:00:00 +1000"
-    },
-    {
       "title": "Anthony Albanese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Albanese",
       "pubdate": "Mon, 29 Apr 2024 13:00:00 +1000"
-    },
-    {
-      "title": "Boolaroo stabbing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boolaroo%20stabbing",
-      "pubdate": "Mon, 29 Apr 2024 21:00:00 +1000"
     },
     {
       "title": "Humza Yousaf",
@@ -77,29 +97,9 @@
       "pubdate": "Mon, 29 Apr 2024 14:00:00 +1000"
     },
     {
-      "title": "Bradley Beal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradley%20Beal",
+      "title": "Interest rates Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
       "pubdate": "Mon, 29 Apr 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Vietnam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vietnam",
-      "pubdate": "Mon, 29 Apr 2024 18:00:00 +1000"
-    },
-    {
-      "title": "Jim Jefferies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jim%20Jefferies",
-      "pubdate": "Mon, 29 Apr 2024 17:00:00 +1000"
-    },
-    {
-      "title": "Kevin Durant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kevin%20Durant",
-      "pubdate": "Mon, 29 Apr 2024 16:00:00 +1000"
-    },
-    {
-      "title": "Jalen Brunson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jalen%20Brunson",
-      "pubdate": "Mon, 29 Apr 2024 16:00:00 +1000"
     }
   ]
 }
