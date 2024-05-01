@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 22:37:06",
+  "lastUpdate": "01-05-2024 , 23:35:08",
   "data": [
     {
       "title": "CSK vs PBKS",
@@ -30,11 +30,6 @@
       "title": "Jennifer Aniston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jennifer%20Aniston",
       "pubdate": "Wed, 01 May 2024 03:00:00 +1000"
-    },
-    {
-      "title": "A-League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#A-League",
-      "pubdate": "Wed, 01 May 2024 23:00:00 +1000"
     },
     {
       "title": "Kink",
@@ -100,6 +95,11 @@
       "title": "Tarryn Thomas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tarryn%20Thomas",
       "pubdate": "Wed, 01 May 2024 23:00:00 +1000"
+    },
+    {
+      "title": "Columbia University",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Columbia%20University",
+      "pubdate": "Wed, 01 May 2024 21:00:00 +1000"
     }
   ]
 }
