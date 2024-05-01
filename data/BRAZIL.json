@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 06:36:55",
+  "lastUpdate": "01-05-2024 , 07:36:03",
   "data": [
     {
       "title": "Eloy Casagrande",
@@ -17,13 +17,13 @@
       "pubdate": "Wed, 01 May 2024 00:00:00 -0500"
     },
     {
-      "title": "Garfield: Fora de Casa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Garfield:%20Fora%20de%20Casa",
+      "title": "Santa Maria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Maria",
       "pubdate": "Wed, 01 May 2024 00:00:00 -0500"
     },
     {
-      "title": "Santa Maria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Maria",
+      "title": "Garfield: Fora de Casa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Garfield:%20Fora%20de%20Casa",
       "pubdate": "Wed, 01 May 2024 00:00:00 -0500"
     },
     {
@@ -62,6 +62,11 @@
       "pubdate": "Tue, 30 Apr 2024 15:00:00 -0500"
     },
     {
+      "title": "Ayrton Senna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ayrton%20Senna",
+      "pubdate": "Tue, 30 Apr 2024 21:00:00 -0500"
+    },
+    {
       "title": "HBO Max",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#HBO%20Max",
       "pubdate": "Tue, 30 Apr 2024 15:00:00 -0500"
@@ -95,11 +100,6 @@
       "title": "Senna Netflix",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Senna%20Netflix",
       "pubdate": "Tue, 30 Apr 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Knicks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Knicks",
-      "pubdate": "Tue, 30 Apr 2024 22:00:00 -0500"
     }
   ]
 }
