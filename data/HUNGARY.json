@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 23:35:13",
+  "lastUpdate": "02-05-2024 , 01:34:35",
   "data": [
     {
       "title": "Dortmund–psg",
@@ -67,6 +67,11 @@
       "pubdate": "Wed, 01 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Don MacAdam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Don%20MacAdam",
+      "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
+    },
+    {
       "title": "Jennifer Aniston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Aniston",
       "pubdate": "Wed, 01 May 2024 16:00:00 +0200"
@@ -77,19 +82,14 @@
       "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Channing Tatum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Channing%20Tatum",
-      "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Don MacAdam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Don%20MacAdam",
-      "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
-    },
-    {
       "title": "Eurowag",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eurowag",
       "pubdate": "Wed, 01 May 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Szél",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A9l",
+      "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
     },
     {
       "title": "Szandi",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Szél",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A9l",
-      "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
+      "title": "Hont András",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hont%20Andr%C3%A1s",
+      "pubdate": "Wed, 01 May 2024 23:00:00 +0200"
     }
   ]
 }
