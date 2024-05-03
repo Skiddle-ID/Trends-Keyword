@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2024 , 23:35:54",
+  "lastUpdate": "03-05-2024 , 01:37:14",
   "data": [
     {
       "title": "Anne Hathaway",
@@ -17,6 +17,11 @@
       "pubdate": "Fri, 03 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Nicholas Galitzine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicholas%20Galitzine",
+      "pubdate": "Fri, 03 May 2024 01:00:00 +0200"
+    },
+    {
       "title": "Dag van de Arbeid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dag%20van%20de%20Arbeid",
       "pubdate": "Thu, 02 May 2024 09:00:00 +0200"
@@ -32,8 +37,8 @@
       "pubdate": "Thu, 02 May 2024 14:00:00 +0200"
     },
     {
-      "title": "OM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OM",
+      "title": "Om",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Om",
       "pubdate": "Thu, 02 May 2024 21:00:00 +0200"
     },
     {
@@ -42,8 +47,8 @@
       "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
     },
     {
-      "title": "Chelsea – Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Tottenham",
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
       "pubdate": "Thu, 02 May 2024 20:00:00 +0200"
     },
     {
@@ -52,18 +57,13 @@
       "pubdate": "Thu, 02 May 2024 08:00:00 +0200"
     },
     {
-      "title": "FC Bruges",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Bruges",
+      "title": "Fc Bruges",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fc%20Bruges",
       "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
     },
     {
       "title": "Sancho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sancho",
-      "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Umicore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umicore",
       "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
     },
     {
@@ -82,9 +82,14 @@
       "pubdate": "Thu, 02 May 2024 12:00:00 +0200"
     },
     {
-      "title": "Raphaël Glucksmann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rapha%C3%ABl%20Glucksmann",
-      "pubdate": "Thu, 02 May 2024 17:00:00 +0200"
+      "title": "Nassira El Moaddem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nassira%20El%20Moaddem",
+      "pubdate": "Thu, 02 May 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Umicore Olen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umicore%20Olen",
+      "pubdate": "Thu, 02 May 2024 07:00:00 +0200"
     },
     {
       "title": "Guillaume Meurice",
@@ -92,14 +97,9 @@
       "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
     },
     {
-      "title": "20km de Bruxelles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#20km%20de%20Bruxelles",
-      "pubdate": "Thu, 02 May 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Adriana Karembeu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adriana%20Karembeu",
-      "pubdate": "Thu, 02 May 2024 12:00:00 +0200"
+      "title": "Raphaël Glucksmann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rapha%C3%ABl%20Glucksmann",
+      "pubdate": "Thu, 02 May 2024 17:00:00 +0200"
     }
   ]
 }
