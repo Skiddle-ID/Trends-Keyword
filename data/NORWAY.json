@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2024 , 23:36:25",
+  "lastUpdate": "04-05-2024 , 01:33:24",
   "data": [
     {
       "title": "Amrit Kaur",
@@ -7,9 +7,19 @@
       "pubdate": "Sat, 04 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Formel 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
+      "pubdate": "Sat, 04 May 2024 02:00:00 +0200"
+    },
+    {
       "title": "Unfrosted",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Unfrosted",
       "pubdate": "Sat, 04 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Andreas Schjelderup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andreas%20Schjelderup",
+      "pubdate": "Sat, 04 May 2024 02:00:00 +0200"
     },
     {
       "title": "Arfan Bhatti",
@@ -47,11 +57,6 @@
       "pubdate": "Fri, 03 May 2024 07:00:00 +0200"
     },
     {
-      "title": "Bjørkelangen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rkelangen",
-      "pubdate": "Fri, 03 May 2024 00:00:00 +0200"
-    },
-    {
       "title": "Norges Bank",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norges%20Bank",
       "pubdate": "Fri, 03 May 2024 10:00:00 +0200"
@@ -62,14 +67,14 @@
       "pubdate": "Fri, 03 May 2024 23:00:00 +0200"
     },
     {
-      "title": "Britney Spears",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Britney%20Spears",
-      "pubdate": "Fri, 03 May 2024 06:00:00 +0200"
-    },
-    {
       "title": "Nissan Ariya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nissan%20Ariya",
       "pubdate": "Fri, 03 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Britney Spears",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Britney%20Spears",
+      "pubdate": "Fri, 03 May 2024 06:00:00 +0200"
     },
     {
       "title": "Maren Mjelde",
@@ -95,11 +100,6 @@
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
       "pubdate": "Thu, 02 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Eliteserien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
-      "pubdate": "Thu, 02 May 2024 09:00:00 +0200"
     }
   ]
 }

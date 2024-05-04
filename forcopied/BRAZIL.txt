@@ -1,1 +1,1 @@
-Everton,Bruno Mars,RB Leipzig,Torino,Getafe,Marco Reus,Jogo do Vitória,Pastor Lucinho Barreto filha,Coritiba,Agamia,Paysandu x Avaí,Camisa Corinthians,Russia,Níger,Besiktas,Sociedade Esportiva Palmeiras,Lotofácil 3093,Professora Terezinha Rêgo,Band,Aeroporto Salgado Filho
+Paysandu,Everton,Jogo do Palmeiras,RB Leipzig,Torino,Getafe,Marco Reus,Coritiba,F1,Formula 1,Jogo do Vitória,Pastor Lucinho Barreto filha,Agamia,Níger,Thiago Silva,Camisa corinthians,Aeroporto Salgado Filho,Idade da Madonna,Besiktas,Professora Terezinha Rêgo

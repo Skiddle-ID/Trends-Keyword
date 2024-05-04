@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "03-05-2024 , 23:36:16",
+  "lastUpdate": "04-05-2024 , 01:33:15",
   "data": [
     {
       "title": "Independiente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente",
+      "pubdate": "Fri, 03 May 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Colon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colon",
+      "pubdate": "Fri, 03 May 2024 17:00:00 -0300"
+    },
+    {
+      "title": "La Toretto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Toretto",
       "pubdate": "Fri, 03 May 2024 00:00:00 -0300"
     },
     {
@@ -17,9 +27,14 @@
       "pubdate": "Fri, 03 May 2024 01:00:00 -0300"
     },
     {
-      "title": "Colon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colon",
-      "pubdate": "Fri, 03 May 2024 17:00:00 -0300"
+      "title": "Madonna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Madonna",
+      "pubdate": "Fri, 03 May 2024 21:00:00 -0300"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#F1",
+      "pubdate": "Fri, 03 May 2024 21:00:00 -0300"
     },
     {
       "title": "Luton  Everton",
@@ -42,19 +57,14 @@
       "pubdate": "Fri, 03 May 2024 16:00:00 -0300"
     },
     {
-      "title": "Getafe - Athletic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Getafe%20-%20Athletic",
-      "pubdate": "Fri, 03 May 2024 19:00:00 -0300"
-    },
-    {
-      "title": "La Toretto de La Plata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Toretto%20de%20La%20Plata",
-      "pubdate": "Fri, 03 May 2024 11:00:00 -0300"
-    },
-    {
       "title": "Nicolas Marquez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nicolas%20Marquez",
       "pubdate": "Fri, 03 May 2024 10:00:00 -0300"
+    },
+    {
+      "title": "Getafe  Athletic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Getafe%20%20Athletic",
+      "pubdate": "Fri, 03 May 2024 19:00:00 -0300"
     },
     {
       "title": "Dia del Acompañante terapeutico",
@@ -62,14 +72,19 @@
       "pubdate": "Fri, 03 May 2024 12:00:00 -0300"
     },
     {
-      "title": "Alejandro Fabbri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alejandro%20Fabbri",
-      "pubdate": "Fri, 03 May 2024 01:00:00 -0300"
+      "title": "Tan bionica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tan%20bionica",
+      "pubdate": "Fri, 03 May 2024 21:00:00 -0300"
     },
     {
       "title": "Leipzig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leipzig",
       "pubdate": "Fri, 03 May 2024 17:00:00 -0300"
+    },
+    {
+      "title": "Alejandro Fabbri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alejandro%20Fabbri",
+      "pubdate": "Fri, 03 May 2024 01:00:00 -0300"
     },
     {
       "title": "Madeleine McCann",
@@ -82,24 +97,9 @@
       "pubdate": "Fri, 03 May 2024 15:00:00 -0300"
     },
     {
-      "title": "Rublev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rublev",
-      "pubdate": "Fri, 03 May 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Coates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Coates",
-      "pubdate": "Fri, 03 May 2024 01:00:00 -0300"
-    },
-    {
-      "title": "Pachuca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachuca",
-      "pubdate": "Fri, 03 May 2024 09:00:00 -0300"
-    },
-    {
-      "title": "Salario minimo Vital y movil mayo 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Salario%20minimo%20Vital%20y%20movil%20mayo%202024",
-      "pubdate": "Fri, 03 May 2024 14:00:00 -0300"
+      "title": "Wanda Nara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wanda%20Nara",
+      "pubdate": "Fri, 03 May 2024 00:00:00 -0300"
     }
   ]
 }
