@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2024 , 23:36:13",
+  "lastUpdate": "05-05-2024 , 01:39:07",
   "data": [
     {
       "title": "Cobresal  colo-colo",
@@ -14,7 +14,7 @@
     {
       "title": "Manchester City - Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20-%20Wolves",
-      "pubdate": "Sat, 04 May 2024 12:00:00 -0400"
+      "pubdate": "Sat, 04 May 2024 09:00:00 -0400"
     },
     {
       "title": "Sassuolo  Inter",
@@ -22,8 +22,8 @@
       "pubdate": "Sat, 04 May 2024 15:00:00 -0400"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
+      "title": "Arsenal  Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20%20Bournemouth",
       "pubdate": "Sat, 04 May 2024 08:00:00 -0400"
     },
     {
@@ -52,13 +52,18 @@
       "pubdate": "Sat, 04 May 2024 13:00:00 -0400"
     },
     {
-      "title": "May the 4th be with you",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#May%20the%204th%20be%20with%20you",
-      "pubdate": "Sat, 04 May 2024 12:00:00 -0400"
+      "title": "Fluminense  Atlético Mineiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20%20Atl%C3%A9tico%20Mineiro",
+      "pubdate": "Sat, 04 May 2024 17:00:00 -0400"
     },
     {
-      "title": "Backlash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Backlash",
+      "title": "Deportes Temuco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
+      "pubdate": "Sat, 04 May 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Magallanes  Barnechea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20%20Barnechea",
       "pubdate": "Sat, 04 May 2024 14:00:00 -0400"
     },
     {
@@ -67,14 +72,24 @@
       "pubdate": "Sat, 04 May 2024 15:00:00 -0400"
     },
     {
+      "title": "Backlash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Backlash",
+      "pubdate": "Sat, 04 May 2024 14:00:00 -0400"
+    },
+    {
+      "title": "Drake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Drake",
+      "pubdate": "Sat, 04 May 2024 14:00:00 -0400"
+    },
+    {
       "title": "RCD Mallorca  Atlético Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#RCD%20Mallorca%20%20Atl%C3%A9tico%20Madrid",
       "pubdate": "Sat, 04 May 2024 16:00:00 -0400"
     },
     {
-      "title": "Magallanes  Barnechea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20%20Barnechea",
-      "pubdate": "Sat, 04 May 2024 14:00:00 -0400"
+      "title": "May the 4th be with you!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#May%20the%204th%20be%20with%20you!",
+      "pubdate": "Sat, 04 May 2024 12:00:00 -0400"
     },
     {
       "title": "Juan Pablo Jaramillo",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 04 May 2024 02:00:00 -0400"
     },
     {
-      "title": "Deportes Temuco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
-      "pubdate": "Sat, 04 May 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Roberto Carlos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roberto%20Carlos",
-      "pubdate": "Sat, 04 May 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Burnley  Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Burnley%20%20Newcastle",
-      "pubdate": "Sat, 04 May 2024 13:00:00 -0400"
-    },
-    {
-      "title": "Alianza Lima",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-      "pubdate": "Sat, 04 May 2024 00:00:00 -0400"
+      "title": "Inter de milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20de%20milan",
+      "pubdate": "Sat, 04 May 2024 16:00:00 -0400"
     }
   ]
 }
