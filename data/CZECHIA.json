@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "06-05-2024 , 14:35:27",
+  "lastUpdate": "06-05-2024 , 15:35:04",
   "data": [
     {
       "title": "Ines de Ramon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ines%20de%20Ramon",
-      "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen",
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     },
     {
@@ -17,9 +12,19 @@
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Jakub Vrána",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Vr%C3%A1na",
-      "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
+      "title": "Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen",
+      "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Bouřky",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ky",
+      "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Monika Bagárová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monika%20Bag%C3%A1rov%C3%A1",
+      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
       "title": "Video unavailable",
@@ -27,9 +32,9 @@
       "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
     },
     {
-      "title": "Bouřky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ky",
-      "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
+      "title": "Simona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simona",
+      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
       "title": "Bernard Hill",
@@ -40,6 +45,11 @@
       "title": "Slovácko – Sparta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Sparta",
       "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Miroslav Imrich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Miroslav%20Imrich",
+      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
     },
     {
       "title": "Simona Postlerová nemoc",
@@ -55,11 +65,6 @@
       "title": "Boston Bruins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boston%20Bruins",
       "pubdate": "Sun, 05 May 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Abraxas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Abraxas",
-      "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
     },
     {
       "title": "Plzeň – Boleslav",
@@ -82,11 +87,6 @@
       "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
     },
     {
-      "title": "ČT sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
-      "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
-    },
-    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
       "pubdate": "Sun, 05 May 2024 00:00:00 +0200"
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 05 May 2024 11:00:00 +0200"
     },
     {
-      "title": "OKTAGON",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON",
-      "pubdate": "Sun, 05 May 2024 13:00:00 +0200"
+      "title": "Met Gala 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Met%20Gala%202024",
+      "pubdate": "Sun, 05 May 2024 10:00:00 +0200"
     }
   ]
 }
