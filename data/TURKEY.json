@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 12:49:03",
+  "lastUpdate": "06-05-2024 , 13:35:52",
   "data": [
     {
       "title": "Mercedes",
@@ -7,8 +7,8 @@
       "pubdate": "Mon, 06 May 2024 01:00:00 +0300"
     },
     {
-      "title": "Konyaspor - Fenerbahçe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor%20-%20Fenerbah%C3%A7e",
+      "title": "Konyaspor-Fenerbahçe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor-Fenerbah%C3%A7e",
       "pubdate": "Mon, 06 May 2024 08:00:00 +0300"
     },
     {
@@ -27,19 +27,14 @@
       "pubdate": "Mon, 06 May 2024 09:00:00 +0300"
     },
     {
-      "title": "Beinsports",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Beinsports",
-      "pubdate": "Mon, 06 May 2024 08:00:00 +0300"
+      "title": "Lando Norris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Lando%20Norris",
+      "pubdate": "Mon, 06 May 2024 07:00:00 +0300"
     },
     {
       "title": "Madonna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Madonna",
       "pubdate": "Mon, 06 May 2024 00:00:00 +0300"
-    },
-    {
-      "title": "Lando Norris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Lando%20Norris",
-      "pubdate": "Mon, 06 May 2024 07:00:00 +0300"
     },
     {
       "title": "Brooke Shields",
@@ -100,6 +95,11 @@
       "title": "Hakim Ziyech",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hakim%20Ziyech",
       "pubdate": "Sun, 05 May 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Koton halka arz sonuçları",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Koton%20halka%20arz%20sonu%C3%A7lar%C4%B1",
+      "pubdate": "Sun, 05 May 2024 22:00:00 +0300"
     }
   ]
 }

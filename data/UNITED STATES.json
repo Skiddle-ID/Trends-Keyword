@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-05-2024 , 12:48:53",
+  "lastUpdate": "06-05-2024 , 13:35:39",
   "data": [
     {
-      "title": "Orlando Magic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orlando%20Magic",
-      "pubdate": "Sun, 05 May 2024 19:00:00 -0700"
+      "title": "Cinco de Mayo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cinco%20de%20Mayo",
+      "pubdate": "Sun, 05 May 2024 07:00:00 -0700"
+    },
+    {
+      "title": "Cavs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavs",
+      "pubdate": "Sun, 05 May 2024 18:00:00 -0700"
     },
     {
       "title": "Tom Brady roast",
@@ -17,11 +22,6 @@
       "pubdate": "Sun, 05 May 2024 05:00:00 -0700"
     },
     {
-      "title": "Dua Lipa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dua%20Lipa",
-      "pubdate": "Sun, 05 May 2024 16:00:00 -0700"
-    },
-    {
       "title": "Met Gala 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Met%20Gala%202024",
       "pubdate": "Sun, 05 May 2024 16:00:00 -0700"
@@ -32,6 +32,11 @@
       "pubdate": "Sun, 05 May 2024 07:00:00 -0700"
     },
     {
+      "title": "Dua Lipa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dua%20Lipa",
+      "pubdate": "Sun, 05 May 2024 16:00:00 -0700"
+    },
+    {
       "title": "Liverpool vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool%20vs%20Tottenham",
       "pubdate": "Sun, 05 May 2024 10:00:00 -0700"
@@ -40,16 +45,6 @@
       "title": "Car crashes White House",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Car%20crashes%20White%20House",
       "pubdate": "Sun, 05 May 2024 09:00:00 -0700"
-    },
-    {
-      "title": "What is Cinco de Mayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20is%20Cinco%20de%20Mayo",
-      "pubdate": "Sun, 05 May 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Chelsea vs West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea%20vs%20West%20Ham",
-      "pubdate": "Sun, 05 May 2024 08:00:00 -0700"
     },
     {
       "title": "Paolo Banchero",
@@ -67,9 +62,19 @@
       "pubdate": "Sun, 05 May 2024 20:00:00 -0700"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
+      "pubdate": "Sun, 05 May 2024 15:00:00 -0700"
+    },
+    {
       "title": "5 de Mayo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#5%20de%20Mayo",
       "pubdate": "Sun, 05 May 2024 11:00:00 -0700"
+    },
+    {
+      "title": "Meghan Trainor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meghan%20Trainor",
+      "pubdate": "Sun, 05 May 2024 19:00:00 -0700"
     },
     {
       "title": "Carolina Hurricanes",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 05 May 2024 15:00:00 -0700"
     },
     {
-      "title": "Miami GP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20GP",
-      "pubdate": "Sun, 05 May 2024 15:00:00 -0700"
+      "title": "Jarrett Allen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jarrett%20Allen",
+      "pubdate": "Sun, 05 May 2024 20:00:00 -0700"
     },
     {
       "title": "Al Jazeera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Al%20Jazeera",
       "pubdate": "Sun, 05 May 2024 21:00:00 -0700"
-    },
-    {
-      "title": "Shohei Ohtani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
-      "pubdate": "Sun, 05 May 2024 17:00:00 -0700"
     }
   ]
 }
