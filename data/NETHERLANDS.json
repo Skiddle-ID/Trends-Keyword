@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:38:51",
+  "lastUpdate": "06-05-2024 , 17:35:53",
   "data": [
     {
       "title": "Ajax",
@@ -32,14 +32,9 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Eindhoven",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eindhoven",
-      "pubdate": "Mon, 06 May 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Noodweer curacao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noodweer%20curacao",
-      "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
+      "title": "Monica Geuze",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Monica%20Geuze",
+      "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
     },
     {
       "title": "Nduja",
@@ -47,19 +42,29 @@
       "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
     },
     {
+      "title": "Noodweer curacao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noodweer%20curacao",
+      "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
+    },
+    {
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
       "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Feyenoord",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Dodenherdenking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dodenherdenking",
+      "pubdate": "Sun, 05 May 2024 12:00:00 +0200"
+    },
+    {
       "title": "Volendam  Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Volendam%20%20Ajax",
       "pubdate": "Sun, 05 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Feyenoord  PEC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20%20PEC",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
     },
     {
       "title": "Bernard Hill",
@@ -95,11 +100,6 @@
       "title": "Demi Vollering",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Demi%20Vollering",
       "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Excelsior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:38:51",
+  "lastUpdate": "06-05-2024 , 17:35:53",
   "data": [
     {
       "title": "Hedvig Glestad",
@@ -12,13 +12,13 @@
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Moldova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Moldova",
-      "pubdate": "Mon, 06 May 2024 12:00:00 +0200"
-    },
-    {
       "title": "Stamsund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stamsund",
+      "pubdate": "Mon, 06 May 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Gåte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#G%C3%A5te",
       "pubdate": "Mon, 06 May 2024 10:00:00 +0200"
     },
     {
@@ -27,14 +27,24 @@
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Jenna Dewan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenna%20Dewan",
-      "pubdate": "Mon, 06 May 2024 07:00:00 +0200"
+      "title": "Kate Beckinsale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kate%20Beckinsale",
+      "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Carl I. Hagen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carl%20I.%20Hagen",
+      "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
     },
     {
       "title": "Miriam Rivera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Miriam%20Rivera",
       "pubdate": "Mon, 06 May 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Jenna Dewan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenna%20Dewan",
+      "pubdate": "Mon, 06 May 2024 07:00:00 +0200"
     },
     {
       "title": "Kongsberg",
@@ -47,9 +57,14 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Kate Beckinsale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kate%20Beckinsale",
-      "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
+      "title": "Eiendom Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eiendom%20Norge",
+      "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Rafah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rafah",
+      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
     },
     {
       "title": "Alexander Reichenberg",
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 05 May 2024 01:00:00 +0200"
     },
     {
-      "title": "Bodø/Glimt mot Strømsgodset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20Str%C3%B8msgodset",
-      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
+      "title": "Bodø/Glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "pubdate": "Sun, 05 May 2024 22:00:00 +0200"
     },
     {
       "title": "La Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#La%20Liga",
       "pubdate": "Sun, 05 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Mona Osman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mona%20Osman",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Al Jazeera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Al%20Jazeera",
-      "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Gauteshow!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gauteshow!",
-      "pubdate": "Sun, 05 May 2024 13:00:00 +0200"
     }
   ]
 }

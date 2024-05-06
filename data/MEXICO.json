@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:38:50",
+  "lastUpdate": "06-05-2024 , 17:35:52",
   "data": [
     {
       "title": "Liguilla 2024",
@@ -15,6 +15,11 @@
       "title": "Dia de las Madres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20de%20las%20Madres",
       "pubdate": "Mon, 06 May 2024 00:00:00 -0600"
+    },
+    {
+      "title": "Ariel Camacho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ariel%20Camacho",
+      "pubdate": "Mon, 06 May 2024 08:00:00 -0600"
     },
     {
       "title": "José Raúl Mulino",
@@ -42,6 +47,11 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 -0600"
     },
     {
+      "title": "Alejandro Sanz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alejandro%20Sanz",
+      "pubdate": "Mon, 06 May 2024 10:00:00 -0600"
+    },
+    {
       "title": "Pachuca  Necaxa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pachuca%20%20Necaxa",
       "pubdate": "Sun, 05 May 2024 12:00:00 -0600"
@@ -62,11 +72,6 @@
       "pubdate": "Sun, 05 May 2024 10:00:00 -0600"
     },
     {
-      "title": "F1 Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Miami",
-      "pubdate": "Sun, 05 May 2024 00:00:00 -0600"
-    },
-    {
       "title": "Eredivisie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eredivisie",
       "pubdate": "Sun, 05 May 2024 06:00:00 -0600"
@@ -82,24 +87,19 @@
       "pubdate": "Sun, 05 May 2024 10:00:00 -0600"
     },
     {
-      "title": "Bernard Hill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bernard%20Hill",
-      "pubdate": "Sun, 05 May 2024 10:00:00 -0600"
-    },
-    {
       "title": "Menotti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Menotti",
       "pubdate": "Sun, 05 May 2024 14:00:00 -0600"
     },
     {
+      "title": "Bernard Hill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bernard%20Hill",
+      "pubdate": "Sun, 05 May 2024 10:00:00 -0600"
+    },
+    {
       "title": "Liverpool  Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liverpool%20%20Tottenham",
       "pubdate": "Sun, 05 May 2024 09:00:00 -0600"
-    },
-    {
-      "title": "Inoue vs Nery",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inoue%20vs%20Nery",
-      "pubdate": "Sun, 05 May 2024 00:00:00 -0600"
     }
   ]
 }

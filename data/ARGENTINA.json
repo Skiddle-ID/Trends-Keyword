@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:38:44",
+  "lastUpdate": "06-05-2024 , 17:35:47",
   "data": [
     {
       "title": "Sindrome Cri Du Chat",
@@ -12,19 +12,14 @@
       "pubdate": "Mon, 06 May 2024 01:00:00 -0300"
     },
     {
-      "title": "Furia Gran Hermano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Furia%20Gran%20Hermano",
-      "pubdate": "Mon, 06 May 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Pachuca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachuca",
-      "pubdate": "Mon, 06 May 2024 01:00:00 -0300"
-    },
-    {
       "title": "Iker Muniain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Iker%20Muniain",
       "pubdate": "Mon, 06 May 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Furia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Furia",
+      "pubdate": "Mon, 06 May 2024 10:00:00 -0300"
     },
     {
       "title": "Municipalidad de cordoba",
@@ -32,14 +27,14 @@
       "pubdate": "Mon, 06 May 2024 11:00:00 -0300"
     },
     {
+      "title": "Pachuca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachuca",
+      "pubdate": "Mon, 06 May 2024 01:00:00 -0300"
+    },
+    {
       "title": "Roma Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roma%20Open",
       "pubdate": "Mon, 06 May 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Orlando Magic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Orlando%20Magic",
-      "pubdate": "Mon, 06 May 2024 00:00:00 -0300"
     },
     {
       "title": "Inoue",
@@ -47,9 +42,9 @@
       "pubdate": "Mon, 06 May 2024 11:00:00 -0300"
     },
     {
-      "title": "Zuqui",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zuqui",
-      "pubdate": "Mon, 06 May 2024 10:00:00 -0300"
+      "title": "Orlando Magic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Orlando%20Magic",
+      "pubdate": "Mon, 06 May 2024 00:00:00 -0300"
     },
     {
       "title": "Menotti",
@@ -69,12 +64,17 @@
     {
       "title": "Formula 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Formula%201",
-      "pubdate": "Sun, 05 May 2024 15:00:00 -0300"
+      "pubdate": "Sun, 05 May 2024 12:00:00 -0300"
     },
     {
-      "title": "Chelsea  West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20%20West%20Ham",
+      "title": "Chelsea - West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20-%20West%20Ham",
       "pubdate": "Sun, 05 May 2024 10:00:00 -0300"
+    },
+    {
+      "title": "Paro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro",
+      "pubdate": "Sun, 05 May 2024 16:00:00 -0300"
     },
     {
       "title": "Brighton  Aston Villa",
@@ -87,19 +87,19 @@
       "pubdate": "Sun, 05 May 2024 13:00:00 -0300"
     },
     {
-      "title": "Paro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro",
-      "pubdate": "Sun, 05 May 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Joaquin Levinton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Joaquin%20Levinton",
-      "pubdate": "Sun, 05 May 2024 15:00:00 -0300"
-    },
-    {
       "title": "Diego Schwartzman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Diego%20Schwartzman",
       "pubdate": "Sun, 05 May 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Bernard Hill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bernard%20Hill",
+      "pubdate": "Sun, 05 May 2024 13:00:00 -0300"
+    },
+    {
+      "title": "Roma  Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roma%20%20Juventus",
+      "pubdate": "Sun, 05 May 2024 16:00:00 -0300"
     }
   ]
 }

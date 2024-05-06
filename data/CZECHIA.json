@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:38:46",
+  "lastUpdate": "06-05-2024 , 17:35:49",
   "data": [
     {
       "title": "Ines de Ramon",
@@ -15,6 +15,11 @@
       "title": "Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen",
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Max Verstappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
+      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
     },
     {
       "title": "Bouřky",
@@ -37,6 +42,11 @@
       "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
+      "title": "Postlerová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Postlerov%C3%A1",
+      "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
+    },
+    {
       "title": "Bernard Hill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bernard%20Hill",
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
@@ -50,11 +60,6 @@
       "title": "Miroslav Imrich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Miroslav%20Imrich",
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Simona Postlerová nemoc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simona%20Postlerov%C3%A1%20nemoc",
-      "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
     },
     {
       "title": "Maraton praha 2024",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-      "pubdate": "Sun, 05 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Madonna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madonna",
-      "pubdate": "Sun, 05 May 2024 11:00:00 +0200"
-    },
-    {
       "title": "Met Gala 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Met%20Gala%202024",
       "pubdate": "Sun, 05 May 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+      "pubdate": "Sun, 05 May 2024 00:00:00 +0200"
     }
   ]
 }
