@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-05-2024 , 18:35:58",
+  "lastUpdate": "06-05-2024 , 19:35:49",
   "data": [
+    {
+      "title": "Gais",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+      "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
+    },
     {
       "title": "Explosion Göteborg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Explosion%20G%C3%B6teborg",
@@ -27,14 +32,9 @@
       "pubdate": "Mon, 06 May 2024 11:00:00 +0200"
     },
     {
-      "title": "Gais IFK Göteborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais%20IFK%20G%C3%B6teborg",
-      "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Jimmie Åkesson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
-      "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
+      "title": "Tom Brady",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Brady",
+      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
     },
     {
       "title": "Copperstone",
@@ -42,9 +42,9 @@
       "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Tom Brady",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Brady",
-      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
+      "title": "Jimmie Åkesson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jimmie%20%C3%85kesson",
+      "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
     },
     {
       "title": "Helldivers",
@@ -60,6 +60,11 @@
       "title": "Värnamo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
       "pubdate": "Mon, 06 May 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Rafah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rafah",
+      "pubdate": "Mon, 06 May 2024 20:00:00 +0200"
     },
     {
       "title": "Alexander Reichenberg",
@@ -95,11 +100,6 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
       "pubdate": "Sun, 05 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
     }
   ]
 }

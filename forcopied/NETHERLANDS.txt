@@ -1,1 +1,1 @@
-Ajax,Max Verstappen,Lando Norris,Hemelvaartsdag,Pim Fortuyn,Chelsea,Monica Geuze,Nduja,Noodweer curacao,PSV,Feyenoord,Dodenherdenking,Volendam  Ajax,Bernard Hill,FC Twente,Curacao,Irene Schouten,Heracles,Guus Meeuwis,Demi Vollering
+Ajax,Lando Norris,Pim Fortuyn,Hemelvaartsdag,Norris,Chelsea,Camila Cabello,Monica Geuze,Fenerbahce,Nduja,Noodweer curacao,PSV,Feyenoord,Dodenherdenking,Volendam  Ajax,Bernard Hill,FC Twente,Luuk de Jong,Curacao,Irene Schouten

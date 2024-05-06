@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "06-05-2024 , 18:35:52",
+  "lastUpdate": "06-05-2024 , 19:35:45",
   "data": [
+    {
+      "title": "Cerezo Osaka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cerezo%20Osaka",
+      "pubdate": "Tue, 07 May 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Nomor Induk Kependudukan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nomor%20Induk%20Kependudukan",
+      "pubdate": "Tue, 07 May 2024 00:00:00 +0700"
+    },
     {
       "title": "Roma vs Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Roma%20vs%20Juventus",
-      "pubdate": "Mon, 06 May 2024 01:00:00 +0700"
-    },
-    {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AC%20Milan",
       "pubdate": "Mon, 06 May 2024 01:00:00 +0700"
     },
     {
@@ -17,9 +22,9 @@
       "pubdate": "Mon, 06 May 2024 19:00:00 +0700"
     },
     {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Aston%20Villa",
-      "pubdate": "Mon, 06 May 2024 03:00:00 +0700"
+      "title": "Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crystal%20Palace",
+      "pubdate": "Mon, 06 May 2024 19:00:00 +0700"
     },
     {
       "title": "Merdeka Belajar",
@@ -40,11 +45,6 @@
       "title": "Baekhyun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Baekhyun",
       "pubdate": "Mon, 06 May 2024 00:00:00 +0700"
-    },
-    {
-      "title": "Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crystal%20Palace",
-      "pubdate": "Mon, 06 May 2024 19:00:00 +0700"
     },
     {
       "title": "Tanggal 9 Mei 2024 hari apa",
@@ -72,13 +72,18 @@
       "pubdate": "Mon, 06 May 2024 18:00:00 +0700"
     },
     {
+      "title": "Darwin Nunez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Darwin%20Nunez",
+      "pubdate": "Mon, 06 May 2024 22:00:00 +0700"
+    },
+    {
       "title": "Haerul Amri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Haerul%20Amri",
       "pubdate": "Mon, 06 May 2024 22:00:00 +0700"
     },
     {
-      "title": "Darwin Nunez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Darwin%20Nunez",
+      "title": "Pengumuman kelulusan SMA 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pengumuman%20kelulusan%20SMA%202024",
       "pubdate": "Mon, 06 May 2024 22:00:00 +0700"
     },
     {
@@ -94,12 +99,7 @@
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Real%20Madrid",
-      "pubdate": "Sun, 05 May 2024 03:00:00 +0700"
-    },
-    {
-      "title": "Inter Miami vs New York RB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Miami%20vs%20New%20York%20RB",
-      "pubdate": "Sun, 05 May 2024 07:00:00 +0700"
+      "pubdate": "Sun, 05 May 2024 04:00:00 +0700"
     }
   ]
 }

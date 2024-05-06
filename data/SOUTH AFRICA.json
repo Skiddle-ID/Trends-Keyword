@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 18:35:58",
+  "lastUpdate": "06-05-2024 , 19:35:49",
   "data": [
     {
       "title": "F1 Miami",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
     },
     {
+      "title": "George building collapse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20building%20collapse",
+      "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
+    },
+    {
       "title": "ANC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#ANC",
       "pubdate": "Mon, 06 May 2024 04:00:00 +0200"
@@ -40,6 +45,16 @@
       "title": "Kate Middleton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kate%20Middleton",
       "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Tom Brady",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Brady",
+      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Ascension Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ascension%20Day",
+      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     },
     {
       "title": "Chelsea vs Bristol City",
@@ -52,19 +67,14 @@
       "pubdate": "Mon, 06 May 2024 02:00:00 +0200"
     },
     {
-      "title": "Ascension Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ascension%20Day",
-      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "Gen V",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gen%20V",
       "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Tom Brady",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Brady",
-      "pubdate": "Mon, 06 May 2024 18:00:00 +0200"
+      "title": "Rome Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rome%20Open",
+      "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
     },
     {
       "title": "Mpho Sebeng passed away",
@@ -90,16 +100,6 @@
       "title": "Brighton vs Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Aston%20Villa",
       "pubdate": "Sun, 05 May 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Inter Miami vs ny Red Bulls",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami%20vs%20ny%20Red%20Bulls",
-      "pubdate": "Sun, 05 May 2024 03:00:00 +0200"
-    },
-    {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-      "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
     }
   ]
 }

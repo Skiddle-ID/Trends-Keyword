@@ -1,1 +1,1 @@
-Lando Norris,Tunyogi Bernadett,Berlusconi,Országos Mentőszolgálat Magyar Péter,MOL,Kecskés Enikő,Leverkusen,Tour de Hongrie,ValóVilág,Majka,A nemzet aranyai,Valóvilág 2024,NER,Szabó Magda,Liverpool–tottenham,Anyák napja,Bernard Hill,Magyar Péter,Valovilag,Rost Andrea
+Tunyogi Bernadett,Lando Norris,Berlusconi,Országos Mentőszolgálat Magyar Péter,Kecskés Enikő,MOL,Leverkusen,Tour de Hongrie,ValóVilág,Madarak és fák napja,A nemzet aranyai,Met gala,NER,Szabó Magda,Jokai mor,Petőfi,Polgármester jelöltek 2024,Niedermüller Péter,Választás 2024 jelöltek,Liverpool–tottenham
