@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 10:36:16",
+  "lastUpdate": "06-05-2024 , 11:34:59",
   "data": [
     {
       "title": "Lando Norris",
@@ -7,8 +7,28 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Pogoda krosno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogoda%20krosno",
+      "title": "Tomasz Szmydt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Szmydt",
+      "pubdate": "Mon, 06 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Falubaz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Falubaz",
+      "pubdate": "Mon, 06 May 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Deszcz meteorów Eta Akwarydy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Deszcz%20meteor%C3%B3w%20Eta%20Akwarydy",
+      "pubdate": "Mon, 06 May 2024 06:00:00 +0200"
+    },
+    {
+      "title": "Gloria Victis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gloria%20Victis",
+      "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Georgios Frangulis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Georgios%20Frangulis",
       "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     },
     {
@@ -27,9 +47,9 @@
       "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
     },
     {
-      "title": "Gdzie jest burza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gdzie%20jest%20burza",
-      "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
+      "title": "Matura 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Matura%202024",
+      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
     },
     {
       "title": "Warta – Widzew Łódź",
@@ -37,9 +57,9 @@
       "pubdate": "Sun, 05 May 2024 12:00:00 +0200"
     },
     {
-      "title": "Matura 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Matura%202024",
-      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
+      "title": "Ted Bundy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ted%20Bundy",
+      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
     },
     {
       "title": "Korona Kielce – Piast",
@@ -55,11 +75,6 @@
       "title": "Liverpool – Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liverpool%20%E2%80%93%20Tottenham",
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Maffashion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maffashion",
-      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
     },
     {
       "title": "Maryla Rodowicz",
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
     },
     {
-      "title": "Windy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
-      "pubdate": "Sun, 05 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Dominika stelmach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dominika%20stelmach",
-      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Boze cialo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Boze%20cialo",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Joanna Kryńska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joanna%20Kry%C5%84ska",
-      "pubdate": "Sun, 05 May 2024 10:00:00 +0200"
+      "title": "Maffashion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maffashion",
+      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
     }
   ]
 }

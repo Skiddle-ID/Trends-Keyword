@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 10:36:08",
+  "lastUpdate": "06-05-2024 , 11:34:51",
   "data": [
     {
       "title": "Lando Norris",
@@ -7,9 +7,19 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Max Verstappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Max%20Verstappen",
+      "pubdate": "Mon, 06 May 2024 01:00:00 +0200"
+    },
+    {
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Guillaume Meurice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guillaume%20Meurice",
+      "pubdate": "Mon, 06 May 2024 12:00:00 +0200"
     },
     {
       "title": "Benfica",
@@ -22,19 +32,29 @@
       "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Ascension",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ascension",
+      "pubdate": "Mon, 06 May 2024 11:00:00 +0200"
+    },
+    {
       "title": "Union  Anderlecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Anderlecht",
       "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Antwerp  Club Brugge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%20Club%20Brugge",
+      "title": "Antwerp-Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp-Club%20Brugge",
       "pubdate": "Sun, 05 May 2024 14:00:00 +0200"
     },
     {
       "title": "Bernard Hill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Hill",
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "F1 Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1%20Miami",
+      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
     },
     {
       "title": "Liverpool",
@@ -62,11 +82,6 @@
       "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liga",
-      "pubdate": "Sun, 05 May 2024 13:00:00 +0200"
-    },
-    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
       "pubdate": "Sun, 05 May 2024 22:00:00 +0200"
@@ -77,11 +92,6 @@
       "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
     },
     {
-      "title": "Elfstedenronde Brugge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elfstedenronde%20Brugge",
-      "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "KV Kortrijk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Kortrijk",
       "pubdate": "Sun, 05 May 2024 10:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "505",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#505",
       "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Lommel SK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lommel%20SK",
-      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Eric Zemmour Corse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eric%20Zemmour%20Corse",
-      "pubdate": "Sun, 05 May 2024 08:00:00 +0200"
     }
   ]
 }
