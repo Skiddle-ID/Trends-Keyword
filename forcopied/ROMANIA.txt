@@ -1,1 +1,1 @@
-Dana Budeanu,CFR Cluj - Rapid Bucureşti,Real Madrid,Petrolul  Oțelul,Liverpool - Tottenham,Bernard Hill,Inter Miami  New York rb,Liverpool,Madonna,Cutremur romania,AC Milan,Furdui Iancu,Sabrina Voinea,Slanic prahova,Roma  Juventus,Rublev,Parma - Cremonese,Valencia  alavés,Xi Jinping,Cuba
+Dana Budeanu,CFR Cluj - Rapid Bucureşti,Petrolul  Oțelul,Liverpool - Tottenham,Real Madrid,La liga,Bernard Hill,Inter Miami  New York rb,Liverpool,Lando Norris,Cutremur romania,Madonna,AC Milan,Furdui Iancu,Sabrina Voinea,Slanic prahova,Roma  Juventus,Rublev,Xi Jinping,Parma - Cremonese

@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "05-05-2024 , 23:35:27",
+  "lastUpdate": "06-05-2024 , 01:36:40",
   "data": [
+    {
+      "title": "Palmeiras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras",
+      "pubdate": "Sun, 05 May 2024 16:00:00 -0500"
+    },
     {
       "title": "Sao Paulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
       "pubdate": "Sun, 05 May 2024 14:00:00 -0500"
     },
     {
-      "title": "Athletico-PR x Vasco da Gama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Vasco%20da%20Gama",
+      "title": "Vasco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
       "pubdate": "Sun, 05 May 2024 14:00:00 -0500"
     },
     {
@@ -17,24 +22,19 @@
       "pubdate": "Sun, 05 May 2024 10:00:00 -0500"
     },
     {
-      "title": "Cuiabá x Palmeiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Palmeiras",
-      "pubdate": "Sun, 05 May 2024 16:00:00 -0500"
-    },
-    {
       "title": "Chelsea x West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chelsea%20x%20West%20Ham",
       "pubdate": "Sun, 05 May 2024 08:00:00 -0500"
     },
     {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
-      "pubdate": "Sun, 05 May 2024 12:00:00 -0500"
-    },
-    {
       "title": "Bayer Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
       "pubdate": "Sun, 05 May 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+      "pubdate": "Sun, 05 May 2024 12:00:00 -0500"
     },
     {
       "title": "Larissa Manoela",
@@ -57,14 +57,9 @@
       "pubdate": "Sun, 05 May 2024 14:00:00 -0500"
     },
     {
-      "title": "Roma x Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma%20x%20Juventus",
-      "pubdate": "Sun, 05 May 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Mega-Sena 2720",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202720",
-      "pubdate": "Sun, 05 May 2024 12:00:00 -0500"
+      "title": "Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla",
+      "pubdate": "Sun, 05 May 2024 10:00:00 -0500"
     },
     {
       "title": "Botafogo-PB x Remo",
@@ -72,9 +67,24 @@
       "pubdate": "Sun, 05 May 2024 15:00:00 -0500"
     },
     {
-      "title": "Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla",
-      "pubdate": "Sun, 05 May 2024 10:00:00 -0500"
+      "title": "Carolina Dieckmann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carolina%20Dieckmann",
+      "pubdate": "Sun, 05 May 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Mega-Sena 2720",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202720",
+      "pubdate": "Sun, 05 May 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Lando Norris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lando%20Norris",
+      "pubdate": "Sun, 05 May 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Vasco da Gama",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20da%20Gama",
+      "pubdate": "Sun, 05 May 2024 19:00:00 -0500"
     },
     {
       "title": "Juventus",
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 05 May 2024 16:00:00 -0500"
     },
     {
-      "title": "The Calling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Calling",
-      "pubdate": "Sun, 05 May 2024 00:00:00 -0500"
-    },
-    {
       "title": "Figueirense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Figueirense",
       "pubdate": "Sun, 05 May 2024 17:00:00 -0500"
     },
     {
-      "title": "Rayo Vallecano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rayo%20Vallecano",
-      "pubdate": "Sun, 05 May 2024 13:00:00 -0500"
-    },
-    {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV",
-      "pubdate": "Sun, 05 May 2024 05:00:00 -0500"
+      "title": "The Calling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Calling",
+      "pubdate": "Sun, 05 May 2024 00:00:00 -0500"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2024 , 23:35:32",
+  "lastUpdate": "06-05-2024 , 01:36:45",
   "data": [
     {
       "title": "Chelsea",
@@ -14,12 +14,12 @@
     {
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-      "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
+      "pubdate": "Sun, 05 May 2024 11:00:00 +0200"
     },
     {
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-      "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
+      "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
     },
     {
       "title": "Volendam  Ajax",
@@ -30,6 +30,11 @@
       "title": "AZ  Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20%20Twente",
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "PSV-Sparta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-Sparta",
+      "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
     },
     {
       "title": "Bernard Hill",
@@ -67,24 +72,9 @@
       "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Wageningen Bevrijdingsfestival",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wageningen%20Bevrijdingsfestival",
-      "pubdate": "Sun, 05 May 2024 14:00:00 +0200"
-    },
-    {
       "title": "Bevrijdingspop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bevrijdingspop",
       "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Bevrijdingsfestival",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bevrijdingsfestival",
-      "pubdate": "Sat, 04 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-      "pubdate": "Sat, 04 May 2024 15:00:00 +0200"
     },
     {
       "title": "Giro 2024",
@@ -100,6 +90,16 @@
       "title": "Michael de Leeuw",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20de%20Leeuw",
       "pubdate": "Sat, 04 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Giro d'Italia 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Giro%20d'Italia%202024",
+      "pubdate": "Sat, 04 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Giro d'Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Giro%20d'Italia",
+      "pubdate": "Sat, 04 May 2024 18:00:00 +0200"
     }
   ]
 }

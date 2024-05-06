@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2024 , 23:35:30",
+  "lastUpdate": "06-05-2024 , 01:36:43",
   "data": [
     {
       "title": "Liverpool–tottenham",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Anyák napja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Any%C3%A1k%20napja",
-      "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
-    },
-    {
       "title": "Bernard Hill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bernard%20Hill",
       "pubdate": "Sun, 05 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Megyeri Csilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megyeri%20Csilla",
+      "pubdate": "Sun, 05 May 2024 22:00:00 +0200"
     },
     {
       "title": "Rost Andrea",
@@ -62,6 +62,11 @@
       "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
     },
     {
+      "title": "Keleti pályaudvar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20p%C3%A1lyaudvar",
+      "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
+    },
+    {
       "title": "Ben Affleck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ben%20Affleck",
       "pubdate": "Sun, 05 May 2024 06:00:00 +0200"
@@ -77,19 +82,9 @@
       "pubdate": "Sun, 05 May 2024 23:00:00 +0200"
     },
     {
-      "title": "Partizán",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Partiz%C3%A1n",
-      "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "Emily Blunt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Emily%20Blunt",
       "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Keleti pályaudvar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20p%C3%A1lyaudvar",
-      "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
     },
     {
       "title": "Madonna",
@@ -100,6 +95,11 @@
       "title": "Richter Flórián Cirkusz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richter%20Fl%C3%B3ri%C3%A1n%20Cirkusz",
       "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Alonso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alonso",
+      "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
     }
   ]
 }
