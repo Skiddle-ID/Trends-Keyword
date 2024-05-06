@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "06-05-2024 , 20:35:16",
+  "lastUpdate": "06-05-2024 , 21:35:30",
   "data": [
     {
       "title": "Hail Amir",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hail%20Amir",
       "pubdate": "Mon, 06 May 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Crystal Palace vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Crystal%20Palace%20vs%20Man%20United",
+      "pubdate": "Mon, 06 May 2024 21:00:00 +0800"
     },
     {
       "title": "Liverpool FC",
@@ -95,11 +100,6 @@
       "title": "La Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
       "pubdate": "Sun, 05 May 2024 02:00:00 +0800"
-    },
-    {
-      "title": "Faisal Halim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Faisal%20Halim",
-      "pubdate": "Sun, 05 May 2024 19:00:00 +0800"
     }
   ]
 }
