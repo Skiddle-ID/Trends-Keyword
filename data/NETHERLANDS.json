@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "06-05-2024 , 23:35:35",
+  "lastUpdate": "07-05-2024 , 01:36:13",
   "data": [
     {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-      "pubdate": "Mon, 06 May 2024 12:00:00 +0200"
+      "title": "UvA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UvA",
+      "pubdate": "Tue, 07 May 2024 01:00:00 +0200"
     },
     {
       "title": "Max Verstappen",
@@ -27,19 +27,24 @@
       "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Hemelvaartsdag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
+      "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
+    },
+    {
       "title": "Jutta Leerdam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
       "pubdate": "Mon, 06 May 2024 22:00:00 +0200"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chelsea",
-      "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
-    },
-    {
       "title": "Camila Cabello",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Camila%20Cabello",
       "pubdate": "Mon, 06 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Joy Beune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joy%20Beune",
+      "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
     },
     {
       "title": "Kate Middleton",
@@ -69,7 +74,7 @@
     {
       "title": "FC Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-      "pubdate": "Sun, 05 May 2024 18:00:00 +0200"
+      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
     },
     {
       "title": "Luuk de Jong",
@@ -80,11 +85,6 @@
       "title": "Curacao",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Curacao",
       "pubdate": "Sun, 05 May 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Twente",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-      "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
     },
     {
       "title": "Irene Schouten",
