@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2024 , 23:34:43",
+  "lastUpdate": "08-05-2024 , 01:20:00",
   "data": [
     {
       "title": "Serie C",
@@ -12,14 +12,19 @@
       "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Incontinenza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Incontinenza",
+      "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
+    },
+    {
       "title": "Picerno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Picerno",
       "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Incontinenza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Incontinenza",
-      "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
+      "title": "Lina Sastri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lina%20Sastri",
+      "pubdate": "Wed, 08 May 2024 01:00:00 +0200"
     },
     {
       "title": "Toti",
@@ -37,6 +42,11 @@
       "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
     },
     {
+      "title": "Met Gala 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Met%20Gala%202024",
+      "pubdate": "Tue, 07 May 2024 01:00:00 +0200"
+    },
+    {
       "title": "Mentana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mentana",
       "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
@@ -52,14 +62,14 @@
       "pubdate": "Tue, 07 May 2024 23:00:00 +0200"
     },
     {
+      "title": "Jonathan Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jonathan%20Milan",
+      "pubdate": "Tue, 07 May 2024 13:00:00 +0200"
+    },
+    {
       "title": "Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
       "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Jonathan Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jonathan%20Milan",
-      "pubdate": "Tue, 07 May 2024 14:00:00 +0200"
     },
     {
       "title": "Apple",
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Il SecoloXIX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20SecoloXIX",
-      "pubdate": "Tue, 07 May 2024 12:00:00 +0200"
-    },
-    {
       "title": "Antonello Venditti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonello%20Venditti",
       "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Roberto Vannacci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Vannacci",
-      "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Daniele Scardina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina",
-      "pubdate": "Tue, 07 May 2024 16:00:00 +0200"
+      "title": "Paola Ferrari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20Ferrari",
+      "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
     }
   ]
 }

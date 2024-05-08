@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2024 , 23:34:40",
+  "lastUpdate": "08-05-2024 , 01:19:57",
   "data": [
     {
       "title": "Travis Scott",
@@ -22,19 +22,29 @@
       "pubdate": "Tue, 07 May 2024 13:00:00 +0200"
     },
     {
-      "title": "Milan Kňažko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20K%C5%88a%C5%BEko",
-      "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
-    },
-    {
       "title": "Tereza Kerndlová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
       "pubdate": "Tue, 07 May 2024 16:00:00 +0200"
     },
     {
+      "title": "Milan Kňažko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milan%20K%C5%88a%C5%BEko",
+      "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Hades 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hades%202",
+      "pubdate": "Tue, 07 May 2024 01:00:00 +0200"
+    },
+    {
       "title": "Volby do Evropského parlamentu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20do%20Evropsk%C3%A9ho%20parlamentu",
       "pubdate": "Tue, 07 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Stormy Daniels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stormy%20Daniels",
+      "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
     },
     {
       "title": "Putin",
@@ -77,6 +87,11 @@
       "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
     },
     {
+      "title": "Danuše Nerudová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Danu%C5%A1e%20Nerudov%C3%A1",
+      "pubdate": "Tue, 07 May 2024 10:00:00 +0200"
+    },
+    {
       "title": "Victorinox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victorinox",
       "pubdate": "Tue, 07 May 2024 16:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Met Gala 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Met%20Gala%202024",
       "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Martin Kocián",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Koci%C3%A1n",
-      "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Lando Norris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lando%20Norris",
-      "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Monika Bagárová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monika%20Bag%C3%A1rov%C3%A1",
-      "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
     }
   ]
 }

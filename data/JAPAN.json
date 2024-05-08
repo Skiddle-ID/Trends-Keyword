@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "07-05-2024 , 23:34:44",
+  "lastUpdate": "08-05-2024 , 01:20:00",
   "data": [
+    {
+      "title": "肺気胸",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%82%BA%E6%B0%97%E8%83%B8",
+      "pubdate": "Wed, 08 May 2024 09:00:00 +0900"
+    },
+    {
+      "title": "ドルトムント",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%89%E3%83%AB%E3%83%88%E3%83%A0%E3%83%B3%E3%83%88",
+      "pubdate": "Wed, 08 May 2024 09:00:00 +0900"
+    },
     {
       "title": "Apple",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Apple",
@@ -17,8 +27,8 @@
       "pubdate": "Tue, 07 May 2024 09:00:00 +0900"
     },
     {
-      "title": "Nintendo Switch 後継機",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Nintendo%20Switch%20%E5%BE%8C%E7%B6%99%E6%A9%9F",
+      "title": "Nintendo switch 後継機",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Nintendo%20switch%20%E5%BE%8C%E7%B6%99%E6%A9%9F",
       "pubdate": "Tue, 07 May 2024 21:00:00 +0900"
     },
     {
@@ -30,6 +40,11 @@
       "title": "ベイスターズ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
       "pubdate": "Tue, 07 May 2024 06:00:00 +0900"
+    },
+    {
+      "title": "メットガラ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%A1%E3%83%83%E3%83%88%E3%82%AC%E3%83%A9",
+      "pubdate": "Tue, 07 May 2024 20:00:00 +0900"
     },
     {
       "title": "ファンタジースプリングス",
@@ -47,24 +62,14 @@
       "pubdate": "Mon, 06 May 2024 05:00:00 +0900"
     },
     {
-      "title": "Jリーグ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#J%E3%83%AA%E3%83%BC%E3%82%B0",
-      "pubdate": "Mon, 06 May 2024 19:00:00 +0900"
-    },
-    {
-      "title": "ゼレンスキー大統領",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC%E5%A4%A7%E7%B5%B1%E9%A0%98",
-      "pubdate": "Mon, 06 May 2024 23:00:00 +0900"
+      "title": "J1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#J1",
+      "pubdate": "Mon, 06 May 2024 18:00:00 +0900"
     },
     {
       "title": "浦和レッズ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B5%A6%E5%92%8C%E3%83%AC%E3%83%83%E3%82%BA",
       "pubdate": "Mon, 06 May 2024 20:00:00 +0900"
-    },
-    {
-      "title": "石田匠",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%9F%B3%E7%94%B0%E5%8C%A0",
-      "pubdate": "Mon, 06 May 2024 19:00:00 +0900"
     },
     {
       "title": "サンフレッチェ広島",
@@ -95,11 +100,6 @@
       "title": "NHKマイルカップ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NHK%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%AB%E3%83%83%E3%83%97",
       "pubdate": "Sun, 05 May 2024 12:00:00 +0900"
-    },
-    {
-      "title": "井上芳雄",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%BA%95%E4%B8%8A%E8%8A%B3%E9%9B%84",
-      "pubdate": "Sun, 05 May 2024 23:00:00 +0900"
     }
   ]
 }
