@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 03:34:52",
+  "lastUpdate": "08-05-2024 , 04:35:40",
   "data": [
     {
       "title": "Melodi grand prix",
@@ -17,14 +17,14 @@
       "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-      "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
-    },
-    {
       "title": "Eurovision",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision",
       "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
+      "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
     },
     {
       "title": "Ashwagandha",
