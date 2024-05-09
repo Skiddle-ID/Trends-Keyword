@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "08-05-2024 , 23:36:21",
+  "lastUpdate": "09-05-2024 , 01:37:46",
   "data": [
+    {
+      "title": "Ascension",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ascension",
+      "pubdate": "Thu, 09 May 2024 02:00:00 +0200"
+    },
     {
       "title": "Vinicius Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vinicius%20Jr",
-      "pubdate": "Thu, 09 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Rüdiger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#R%C3%BCdiger",
       "pubdate": "Thu, 09 May 2024 00:00:00 +0200"
     },
     {
@@ -17,14 +17,24 @@
       "pubdate": "Thu, 09 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Baschi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baschi",
+      "title": "Rüdiger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#R%C3%BCdiger",
       "pubdate": "Thu, 09 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Isabella Schmid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isabella%20Schmid",
+      "pubdate": "Thu, 09 May 2024 01:00:00 +0200"
     },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
       "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Swiss Music Awards 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Music%20Awards%202024",
+      "pubdate": "Wed, 08 May 2024 11:00:00 +0200"
     },
     {
       "title": "Stau Gotthard",
@@ -42,8 +52,8 @@
       "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Esc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Esc",
+      "title": "ESC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ESC",
       "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
     },
     {
@@ -90,16 +100,6 @@
       "title": "DAZN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DAZN",
       "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Hilary Duff",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hilary%20Duff",
-      "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
-    },
-    {
-      "title": "L'équipe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#L'%C3%A9quipe",
-      "pubdate": "Wed, 08 May 2024 07:00:00 +0200"
     }
   ]
 }

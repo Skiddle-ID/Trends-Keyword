@@ -1,1 +1,1 @@
-Real Madrid,Sportivo Luqueño  Coquimbo Unido,Cobresal,IPC,Noticias,Conference League,Dallas Mavericks,Steve Albini,Jeremy Renner,Lluvia de peces en Irán,Meganoticias,Stormy Daniels,Noticias de Hoy,Alianza Lima,Harry Kane,Solo Leveling: ARISE,Bayer,Thiago Silva,Defensa y Justicia,Emeterio Ureta
+Real Madrid,Sportivo Luqueño  Coquimbo Unido,Cobresal,Alianza Lima  Cerro,IPC,Noticias,Coquimbo vs,TVN,Conference League,Steve Albini,Talleres,Dallas Mavericks,Jeremy Renner,Lluvia de peces en Irán,Stormy Daniels,Harry Kane,Noticias de Hoy,Emeterio Ureta,Solo Leveling: ARISE,Bayer

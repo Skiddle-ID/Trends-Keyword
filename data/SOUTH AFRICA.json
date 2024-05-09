@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "08-05-2024 , 23:36:20",
+  "lastUpdate": "09-05-2024 , 01:37:46",
   "data": [
     {
       "title": "Ascension Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ascension%20Day",
       "pubdate": "Thu, 09 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Italian Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Italian%20Open",
+      "pubdate": "Thu, 09 May 2024 01:00:00 +0200"
     },
     {
       "title": "Oxford United",
@@ -27,11 +32,6 @@
       "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
     },
     {
-      "title": "Mamelodi Sundowns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns",
-      "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
-    },
-    {
       "title": "LSG vs SRH",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LSG%20vs%20SRH",
       "pubdate": "Wed, 08 May 2024 17:00:00 +0200"
@@ -52,9 +52,9 @@
       "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Ranga Chivaviro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ranga%20Chivaviro",
-      "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
+      "title": "BVB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BVB",
+      "pubdate": "Wed, 08 May 2024 01:00:00 +0200"
     },
     {
       "title": "Zanele Mbokazi",
@@ -62,19 +62,14 @@
       "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
     },
     {
+      "title": "Ranga Chivaviro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ranga%20Chivaviro",
+      "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
+    },
+    {
       "title": "Ian Gelder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ian%20Gelder",
       "pubdate": "Wed, 08 May 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Bolton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bolton",
-      "pubdate": "Wed, 08 May 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Abigail",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Abigail",
-      "pubdate": "Wed, 08 May 2024 06:00:00 +0200"
     },
     {
       "title": "Makhadzi",
@@ -82,19 +77,24 @@
       "pubdate": "Wed, 08 May 2024 23:00:00 +0200"
     },
     {
+      "title": "Bolton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bolton",
+      "pubdate": "Wed, 08 May 2024 07:00:00 +0200"
+    },
+    {
       "title": "Marco Reus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marco%20Reus",
       "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
     },
     {
+      "title": "Fly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fly",
+      "pubdate": "Wed, 08 May 2024 23:00:00 +0200"
+    },
+    {
       "title": "FlySafair",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FlySafair",
       "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "PSG vs Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG%20vs%20Dortmund",
-      "pubdate": "Tue, 07 May 2024 07:00:00 +0200"
     },
     {
       "title": "Amazon South Africa",

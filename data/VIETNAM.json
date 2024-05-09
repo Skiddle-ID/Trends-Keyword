@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "08-05-2024 , 23:36:22",
+  "lastUpdate": "09-05-2024 , 01:37:48",
   "data": [
     {
-      "title": "Real Madrid – Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%E2%80%93%20Bayern",
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
       "pubdate": "Thu, 09 May 2024 02:00:00 +0700"
     },
     {
@@ -22,14 +22,14 @@
       "pubdate": "Thu, 09 May 2024 05:00:00 +0700"
     },
     {
-      "title": "PSG đấu với Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Dortmund",
-      "pubdate": "Wed, 08 May 2024 02:00:00 +0700"
-    },
-    {
       "title": "Real Madrid đấu với Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Bayern",
       "pubdate": "Wed, 08 May 2024 07:00:00 +0700"
+    },
+    {
+      "title": "PSG đấu với Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Dortmund",
+      "pubdate": "Wed, 08 May 2024 02:00:00 +0700"
     },
     {
       "title": "Văn khấn mùng 1",
@@ -72,11 +72,6 @@
       "pubdate": "Wed, 08 May 2024 20:00:00 +0700"
     },
     {
-      "title": "Chung kết C1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chung%20k%E1%BA%BFt%20C1",
-      "pubdate": "Wed, 08 May 2024 18:00:00 +0700"
-    },
-    {
       "title": "Khánh Hòa đấu với Hải Phòng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kh%C3%A1nh%20H%C3%B2a%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20H%E1%BA%A3i%20Ph%C3%B2ng",
       "pubdate": "Wed, 08 May 2024 19:00:00 +0700"
@@ -100,6 +95,11 @@
       "title": "Giá vàng hôm nay vàng SJC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay%20v%C3%A0ng%20SJC",
       "pubdate": "Wed, 08 May 2024 11:00:00 +0700"
+    },
+    {
+      "title": "Mình yêu nhau bình yên thôi Tập 47",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#M%C3%ACnh%20y%C3%AAu%20nhau%20b%C3%ACnh%20y%C3%AAn%20th%C3%B4i%20T%E1%BA%ADp%2047",
+      "pubdate": "Wed, 08 May 2024 12:00:00 +0700"
     }
   ]
 }
