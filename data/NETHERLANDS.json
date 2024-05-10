@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-05-2024 , 01:37:25",
+  "lastUpdate": "10-05-2024 , 02:42:45",
   "data": [
+    {
+      "title": "NPO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NPO",
+      "pubdate": "Fri, 10 May 2024 00:00:00 +0200"
+    },
     {
       "title": "Olympiakos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olympiakos",
@@ -9,11 +14,6 @@
     {
       "title": "Justin Bieber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Justin%20Bieber",
-      "pubdate": "Thu, 09 May 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Eurovisie songfestival 2024 Nederland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eurovisie%20songfestival%202024%20Nederland",
       "pubdate": "Thu, 09 May 2024 23:00:00 +0200"
     },
     {
@@ -27,14 +27,14 @@
       "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
     },
     {
+      "title": "Eurovisie songfestival 2024 Nederland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eurovisie%20songfestival%202024%20Nederland",
+      "pubdate": "Thu, 09 May 2024 23:00:00 +0200"
+    },
+    {
       "title": "Jutta Leerdam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
       "pubdate": "Thu, 09 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "De Ligt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Ligt",
-      "pubdate": "Thu, 09 May 2024 11:00:00 +0200"
     },
     {
       "title": "Songfestival 2024",
@@ -42,14 +42,14 @@
       "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Hemelvaartsdag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
-      "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
-    },
-    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
       "pubdate": "Wed, 08 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Hemelvaartsdag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
+      "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
     },
     {
       "title": "Sepsis",
@@ -57,8 +57,18 @@
       "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
     },
     {
+      "title": "Hemelvaart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaart",
+      "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "Steve Albini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steve%20Albini",
+      "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Dauwtrappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dauwtrappen",
       "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Lando Norris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lando%20Norris",
       "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Met Gala",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20Gala",
-      "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Hemelvaartsdag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
-      "pubdate": "Mon, 06 May 2024 08:00:00 +0200"
     }
   ]
 }
