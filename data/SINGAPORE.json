@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "09-05-2024 , 23:36:14",
+  "lastUpdate": "10-05-2024 , 01:37:27",
   "data": [
     {
       "title": "Rafael Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rafael%20Nadal",
       "pubdate": "Fri, 10 May 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Bayer Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayer%20Leverkusen",
+      "pubdate": "Fri, 10 May 2024 07:00:00 +0800"
     },
     {
       "title": "Europa Conference League",
@@ -52,29 +57,14 @@
       "pubdate": "Thu, 09 May 2024 21:00:00 +0800"
     },
     {
-      "title": "Sam Pitroda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sam%20Pitroda",
-      "pubdate": "Thu, 09 May 2024 07:00:00 +0800"
-    },
-    {
       "title": "Iris Koh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iris%20Koh",
       "pubdate": "Thu, 09 May 2024 22:00:00 +0800"
     },
     {
-      "title": "Ascension Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ascension%20Day",
+      "title": "Ascension day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ascension%20day",
       "pubdate": "Thu, 09 May 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Harry Kane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Harry%20Kane",
-      "pubdate": "Thu, 09 May 2024 19:00:00 +0800"
-    },
-    {
-      "title": "Teresa Teng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Teresa%20Teng",
-      "pubdate": "Thu, 09 May 2024 10:00:00 +0800"
     },
     {
       "title": "iPad Pro",
@@ -100,6 +90,16 @@
       "title": "AstraZeneca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AstraZeneca",
       "pubdate": "Wed, 08 May 2024 16:00:00 +0800"
+    },
+    {
+      "title": "RSAF F-16 crash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RSAF%20F-16%20crash",
+      "pubdate": "Wed, 08 May 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Serbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Serbia",
+      "pubdate": "Wed, 08 May 2024 23:00:00 +0800"
     }
   ]
 }
