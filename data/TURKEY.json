@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "10-05-2024 , 23:35:29",
+  "lastUpdate": "11-05-2024 , 01:34:51",
   "data": [
     {
-      "title": "Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Stuttgart",
+      "title": "Brest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Brest",
       "pubdate": "Sat, 11 May 2024 00:00:00 +0300"
     },
     {
       "title": "Albert Gronbaek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Albert%20Gronbaek",
+      "pubdate": "Sat, 11 May 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Stuttgart",
       "pubdate": "Sat, 11 May 2024 00:00:00 +0300"
     },
     {
@@ -27,9 +32,14 @@
       "pubdate": "Sat, 11 May 2024 00:00:00 +0300"
     },
     {
-      "title": "ANNELER GÜNÜ SÖZLERİ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ANNELER%20G%C3%9CN%C3%9C%20S%C3%96ZLER%C4%B0",
+      "title": "Anneler Günü sözleri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anneler%20G%C3%BCn%C3%BC%20s%C3%B6zleri",
       "pubdate": "Sat, 11 May 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Mehmet Şimşek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mehmet%20%C5%9Eim%C5%9Fek",
+      "pubdate": "Sat, 11 May 2024 02:00:00 +0300"
     },
     {
       "title": "Eurovision 2024",
@@ -47,9 +57,9 @@
       "pubdate": "Fri, 10 May 2024 22:00:00 +0300"
     },
     {
-      "title": "DGS başvuru",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#DGS%20ba%C5%9Fvuru",
-      "pubdate": "Fri, 10 May 2024 11:00:00 +0300"
+      "title": "Güneş patlaması",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCne%C5%9F%20patlamas%C4%B1",
+      "pubdate": "Fri, 10 May 2024 22:00:00 +0300"
     },
     {
       "title": "Proje okulları atama sonuçları",
@@ -57,19 +67,14 @@
       "pubdate": "Fri, 10 May 2024 12:00:00 +0300"
     },
     {
-      "title": "İpek Kıraç",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0pek%20K%C4%B1ra%C3%A7",
-      "pubdate": "Fri, 10 May 2024 18:00:00 +0300"
+      "title": "DGS başvuru",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#DGS%20ba%C5%9Fvuru",
+      "pubdate": "Fri, 10 May 2024 11:00:00 +0300"
     },
     {
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Nassr",
       "pubdate": "Fri, 10 May 2024 08:00:00 +0300"
-    },
-    {
-      "title": "Güneş patlaması",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCne%C5%9F%20patlamas%C4%B1",
-      "pubdate": "Fri, 10 May 2024 22:00:00 +0300"
     },
     {
       "title": "Hailey Bieber",
@@ -87,19 +92,14 @@
       "pubdate": "Fri, 10 May 2024 23:00:00 +0300"
     },
     {
-      "title": "Edinburgh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Edinburgh",
-      "pubdate": "Fri, 10 May 2024 14:00:00 +0300"
-    },
-    {
       "title": "Girona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Girona",
       "pubdate": "Fri, 10 May 2024 23:00:00 +0300"
     },
     {
-      "title": "Parke taşı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Parke%20ta%C5%9F%C4%B1",
-      "pubdate": "Fri, 10 May 2024 18:00:00 +0300"
+      "title": "Edinburgh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Edinburgh",
+      "pubdate": "Fri, 10 May 2024 14:00:00 +0300"
     }
   ]
 }

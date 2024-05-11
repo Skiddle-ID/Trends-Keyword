@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2024 , 23:35:27",
+  "lastUpdate": "11-05-2024 , 01:34:48",
   "data": [
     {
       "title": "Chaves  Famalicão",
@@ -9,7 +9,12 @@
     {
       "title": "Eurovision",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurovision",
-      "pubdate": "Fri, 10 May 2024 11:00:00 +0100"
+      "pubdate": "Fri, 10 May 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Tempestade geomagnética",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempestade%20geomagn%C3%A9tica",
+      "pubdate": "Fri, 10 May 2024 21:00:00 +0100"
     },
     {
       "title": "Belenenses  Benfica B",
@@ -22,14 +27,19 @@
       "pubdate": "Fri, 10 May 2024 10:00:00 +0100"
     },
     {
-      "title": "Joost Klein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joost%20Klein",
-      "pubdate": "Fri, 10 May 2024 13:00:00 +0100"
+      "title": "Eurovision 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurovision%202024",
+      "pubdate": "Fri, 10 May 2024 15:00:00 +0100"
     },
     {
       "title": "Preços dos combustíveis próxima semana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20dos%20combust%C3%ADveis%20pr%C3%B3xima%20semana",
       "pubdate": "Fri, 10 May 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Joost Klein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joost%20Klein",
+      "pubdate": "Fri, 10 May 2024 13:00:00 +0100"
     },
     {
       "title": "Mbappe",
@@ -52,19 +62,14 @@
       "pubdate": "Fri, 10 May 2024 21:00:00 +0100"
     },
     {
-      "title": "Tempestade geomagnética",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempestade%20geomagn%C3%A9tica",
-      "pubdate": "Fri, 10 May 2024 21:00:00 +0100"
-    },
-    {
       "title": "Girona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
       "pubdate": "Fri, 10 May 2024 22:00:00 +0100"
     },
     {
-      "title": "Svilar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Svilar",
-      "pubdate": "Fri, 10 May 2024 21:00:00 +0100"
+      "title": "Espaço Schengen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Espa%C3%A7o%20Schengen",
+      "pubdate": "Fri, 10 May 2024 19:00:00 +0100"
     },
     {
       "title": "Sandra Felgueiras",
@@ -72,8 +77,13 @@
       "pubdate": "Fri, 10 May 2024 13:00:00 +0100"
     },
     {
-      "title": "Arganil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arganil",
+      "title": "Svilar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Svilar",
+      "pubdate": "Fri, 10 May 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Maya Mazzafera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maya%20Mazzafera",
       "pubdate": "Fri, 10 May 2024 11:00:00 +0100"
     },
     {
@@ -82,24 +92,14 @@
       "pubdate": "Fri, 10 May 2024 03:00:00 +0100"
     },
     {
-      "title": "Espaço Schengen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Espa%C3%A7o%20Schengen",
-      "pubdate": "Fri, 10 May 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Acidente em Mértola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20em%20M%C3%A9rtola",
+      "title": "Frosinone  Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frosinone%20%20Inter",
       "pubdate": "Fri, 10 May 2024 22:00:00 +0100"
     },
     {
       "title": "Lupus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lupus",
       "pubdate": "Fri, 10 May 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Nuno Borges",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Borges",
-      "pubdate": "Fri, 10 May 2024 17:00:00 +0100"
     }
   ]
 }
