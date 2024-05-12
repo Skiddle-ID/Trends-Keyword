@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "11-05-2024 , 23:36:07",
+  "lastUpdate": "12-05-2024 , 01:41:44",
   "data": [
-    {
-      "title": "Loreen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loreen",
-      "pubdate": "Sun, 12 May 2024 01:00:00 +0300"
-    },
     {
       "title": "Olly Alexander",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olly%20Alexander",
@@ -17,18 +12,28 @@
       "pubdate": "Sun, 12 May 2024 00:00:00 +0300"
     },
     {
-      "title": "Slimane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slimane",
-      "pubdate": "Sun, 12 May 2024 01:00:00 +0300"
-    },
-    {
       "title": "Mother's Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mother's%20Day",
       "pubdate": "Sun, 12 May 2024 01:00:00 +0300"
     },
     {
-      "title": "Mad max",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mad%20max",
+      "title": "Slimane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slimane",
+      "pubdate": "Sun, 12 May 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Eurovision 2023",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eurovision%202023",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Azerbaijan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Azerbaijan",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Serbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serbia",
       "pubdate": "Sun, 12 May 2024 00:00:00 +0300"
     },
     {
@@ -37,13 +42,33 @@
       "pubdate": "Sun, 12 May 2024 00:00:00 +0300"
     },
     {
+      "title": "Mad Max",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mad%20Max",
+      "pubdate": "Sun, 12 May 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Austria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Austria",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Marvel Rivals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marvel%20Rivals",
+      "pubdate": "Sun, 12 May 2024 03:00:00 +0300"
+    },
+    {
       "title": "Abba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Abba",
       "pubdate": "Sat, 11 May 2024 21:00:00 +0300"
     },
     {
-      "title": "Bambie Thug",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bambie%20Thug",
+      "title": "Nemo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nemo",
+      "pubdate": "Sat, 11 May 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Ireland Eurovision 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ireland%20Eurovision%202024",
       "pubdate": "Sat, 11 May 2024 23:00:00 +0300"
     },
     {
@@ -75,31 +100,6 @@
       "title": "Avicii",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Avicii",
       "pubdate": "Sat, 11 May 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Granada – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Granada%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Sat, 11 May 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Ozzy Osbourne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ozzy%20Osbourne",
-      "pubdate": "Sat, 11 May 2024 06:00:00 +0300"
-    },
-    {
-      "title": "Serie B",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20B",
-      "pubdate": "Sat, 11 May 2024 02:00:00 +0300"
-    },
-    {
-      "title": "GTA 6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GTA%206",
-      "pubdate": "Sat, 11 May 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Nottingham Forest – Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nottingham%20Forest%20%E2%80%93%20Chelsea",
-      "pubdate": "Sat, 11 May 2024 22:00:00 +0300"
     }
   ]
 }

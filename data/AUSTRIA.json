@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "11-05-2024 , 23:36:05",
+  "lastUpdate": "12-05-2024 , 01:41:41",
   "data": [
     {
       "title": "ABBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ABBA",
+      "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Georgien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georgien",
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
     },
     {
@@ -25,6 +30,11 @@
       "title": "Stefanos Tsitsipas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefanos%20Tsitsipas",
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Estland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Estland",
+      "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
     },
     {
       "title": "Mark Forster",
@@ -52,14 +62,14 @@
       "pubdate": "Sat, 11 May 2024 02:00:00 +0200"
     },
     {
+      "title": "Bambie Thug",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bambie%20Thug",
+      "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "Austria Lustenau gegen Blau-Weiß Linz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Lustenau%20gegen%20Blau-Wei%C3%9F%20Linz",
       "pubdate": "Sat, 11 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
-      "pubdate": "Sat, 11 May 2024 00:00:00 +0200"
     },
     {
       "title": "FM4",
@@ -67,9 +77,9 @@
       "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Bambie Thug",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bambie%20Thug",
-      "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
+      "pubdate": "Sat, 11 May 2024 00:00:00 +0200"
     },
     {
       "title": "Köln gegen Union Berlin",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 11 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Polarlichter Vorarlberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Polarlichter%20Vorarlberg",
-      "pubdate": "Sat, 11 May 2024 10:00:00 +0200"
-    },
-    {
       "title": "Kreuzotter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kreuzotter",
       "pubdate": "Sat, 11 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "GAK gegen Horn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK%20gegen%20Horn",
-      "pubdate": "Sat, 11 May 2024 15:00:00 +0200"
     }
   ]
 }

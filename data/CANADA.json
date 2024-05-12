@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "11-05-2024 , 23:36:05",
+  "lastUpdate": "12-05-2024 , 01:41:42",
   "data": [
     {
       "title": "Oilers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-      "pubdate": "Sat, 11 May 2024 01:00:00 -0400"
+      "pubdate": "Sat, 11 May 2024 02:00:00 -0400"
     },
     {
       "title": "Edmonton Oilers",
@@ -12,14 +12,19 @@
       "pubdate": "Sat, 11 May 2024 01:00:00 -0400"
     },
     {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
+      "pubdate": "Sat, 11 May 2024 09:00:00 -0400"
+    },
+    {
       "title": "Boston Bruins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
       "pubdate": "Sat, 11 May 2024 06:00:00 -0400"
     },
     {
-      "title": "Canucks vs Oilers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Oilers",
-      "pubdate": "Sat, 11 May 2024 02:00:00 -0400"
+      "title": "Oilers Game",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20Game",
+      "pubdate": "Sat, 11 May 2024 01:00:00 -0400"
     },
     {
       "title": "Fort Nelson",
@@ -52,24 +57,19 @@
       "pubdate": "Sat, 11 May 2024 00:00:00 -0400"
     },
     {
-      "title": "Knicks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Knicks",
-      "pubdate": "Sat, 11 May 2024 07:00:00 -0400"
-    },
-    {
-      "title": "CF Montreal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CF%20Montreal",
-      "pubdate": "Sat, 11 May 2024 09:00:00 -0400"
-    },
-    {
-      "title": "Lionel Messi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lionel%20Messi",
-      "pubdate": "Sat, 11 May 2024 09:00:00 -0400"
+      "title": "Severe Thunderstorm watch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20Thunderstorm%20watch",
+      "pubdate": "Sat, 11 May 2024 17:00:00 -0400"
     },
     {
       "title": "Ron Ellis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ron%20Ellis",
       "pubdate": "Sat, 11 May 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Knicks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Knicks",
+      "pubdate": "Sat, 11 May 2024 07:00:00 -0400"
     },
     {
       "title": "Surjit Patar",
@@ -87,19 +87,19 @@
       "pubdate": "Sat, 11 May 2024 12:00:00 -0400"
     },
     {
-      "title": "Severe thunderstorm watch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20thunderstorm%20watch",
-      "pubdate": "Sat, 11 May 2024 17:00:00 -0400"
-    },
-    {
       "title": "Quinn Hughes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Quinn%20Hughes",
       "pubdate": "Sat, 11 May 2024 02:00:00 -0400"
     },
     {
-      "title": "Ian Cole",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ian%20Cole",
-      "pubdate": "Sat, 11 May 2024 03:00:00 -0400"
+      "title": "Nikita Zadorov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nikita%20Zadorov",
+      "pubdate": "Sat, 11 May 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Thunder vs Mavericks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Thunder%20vs%20Mavericks",
+      "pubdate": "Sat, 11 May 2024 18:00:00 -0400"
     }
   ]
 }
