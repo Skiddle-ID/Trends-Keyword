@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "12-05-2024 , 23:34:59",
+  "lastUpdate": "13-05-2024 , 01:38:44",
   "data": [
     {
       "title": "Moederdag",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Moederdag",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Songfestival",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Songfestival",
       "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
     },
     {
@@ -27,14 +32,19 @@
       "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-      "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
+      "title": "Rick Brink",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rick%20Brink",
+      "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
     },
     {
       "title": "FC Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
       "pubdate": "Sun, 12 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+      "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
     },
     {
       "title": "Heerenveen",
@@ -50,11 +60,6 @@
       "title": "Winnaar Songfestival",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Winnaar%20Songfestival",
       "pubdate": "Sun, 12 May 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Cameravrouw Joost Klein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cameravrouw%20Joost%20Klein",
-      "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
     },
     {
       "title": "PEC Zwolle",
@@ -77,14 +82,14 @@
       "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Collin Veijer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Collin%20Veijer",
-      "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
-    },
-    {
       "title": "Marathon Leiden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20Leiden",
       "pubdate": "Sat, 11 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "FC Twente Vrouwen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente%20Vrouwen",
+      "pubdate": "Sat, 11 May 2024 18:00:00 +0200"
     },
     {
       "title": "Joost Klein Nieuws",
@@ -95,11 +100,6 @@
       "title": "Joost",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost",
       "pubdate": "Fri, 10 May 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Noorderlicht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
-      "pubdate": "Fri, 10 May 2024 20:00:00 +0200"
     }
   ]
 }

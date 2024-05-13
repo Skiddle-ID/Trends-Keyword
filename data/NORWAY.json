@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "12-05-2024 , 23:35:00",
+  "lastUpdate": "13-05-2024 , 01:38:45",
   "data": [
+    {
+      "title": "NRK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NRK",
+      "pubdate": "Sun, 12 May 2024 11:00:00 +0200"
+    },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
@@ -22,6 +27,11 @@
       "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
     },
     {
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Israel",
+      "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+    },
+    {
       "title": "Nemo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nemo",
       "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
@@ -37,9 +47,9 @@
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
     },
     {
-      "title": "17. mai frokost",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#17.%20mai%20frokost",
-      "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
+      "title": "Lillestrøm-Brann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m-Brann",
+      "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
     },
     {
       "title": "Mayhem",
@@ -57,9 +67,9 @@
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Jens Stoltenberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
-      "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
+      "title": "Sandefjord mot Sarpsborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandefjord%20mot%20Sarpsborg",
+      "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
     },
     {
       "title": "Morten Bjørlo",
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Joachim Soltvedt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joachim%20Soltvedt",
-      "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
-    },
-    {
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Portugal",
       "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
     },
     {
-      "title": "The shack",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20shack",
+      "title": "The Shack",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Shack",
       "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Florence Nightingale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Florence%20Nightingale",
-      "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
     }
   ]
 }

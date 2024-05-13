@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2024 , 23:35:02",
+  "lastUpdate": "13-05-2024 , 01:38:47",
   "data": [
     {
       "title": "Adrian Kempe",
@@ -17,14 +17,14 @@
       "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-      "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
-    },
-    {
       "title": "Erik Karlsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erik%20Karlsson",
       "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+      "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
     },
     {
       "title": "Israel",
