@@ -1,1 +1,1 @@
-HOKEJ,Ceska televize,Boston Bruins,Petr Pavel,Fiala,Ondrej Pavelec,Cesko svycarsko,Ondrej krivka,Kevin Fiala,ČT sport,Slovensko USA,Pastrnak,Roman cervenka,Jaromír Jágr,Antos,Cordyceps,OpenAI,Ona Dnes 2024,Pavel Novotný,Emma Smetana
+Boston Bruins,Petr Pavel,Fiala,Ondrej Pavelec,Hokej,Ondřej Křivka,ČT sport,Slovensko USA,Pastrnak,Roman cervenka,Jaromír Jágr,Aston Villa – Liverpool,Sergej Šojgu,Antos,OpenAI,Cordyceps,Pavel Novotný,Emma Smetana,Fiala Hokej,Sigma Olomouc

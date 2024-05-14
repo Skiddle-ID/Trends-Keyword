@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "13-05-2024 , 23:36:14",
+  "lastUpdate": "14-05-2024 , 01:36:18",
   "data": [
-    {
-      "title": "Adidas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Adidas",
-      "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
-    },
     {
       "title": "Aston Villa  Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20Liverpool",
       "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
+    },
+    {
+      "title": "Adidas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Adidas",
+      "pubdate": "Mon, 13 May 2024 09:00:00 -0300"
     },
     {
       "title": "Nike",
@@ -27,6 +27,11 @@
       "pubdate": "Mon, 13 May 2024 07:00:00 -0300"
     },
     {
+      "title": "Gimnasia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia",
+      "pubdate": "Mon, 13 May 2024 18:00:00 -0300"
+    },
+    {
       "title": "Samsung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Samsung",
       "pubdate": "Mon, 13 May 2024 08:00:00 -0300"
@@ -35,6 +40,11 @@
       "title": "Sporting",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sporting",
       "pubdate": "Mon, 13 May 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Arredo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arredo",
+      "pubdate": "Mon, 13 May 2024 02:00:00 -0300"
     },
     {
       "title": "Leverkusen",
@@ -47,6 +57,11 @@
       "pubdate": "Mon, 13 May 2024 12:00:00 -0300"
     },
     {
+      "title": "Fila",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fila",
+      "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
+    },
+    {
       "title": "Zara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zara",
       "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
@@ -55,11 +70,6 @@
       "title": "Denver Nuggets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Denver%20Nuggets",
       "pubdate": "Mon, 13 May 2024 02:00:00 -0300"
-    },
-    {
-      "title": "Fila",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fila",
-      "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
     },
     {
       "title": "Levi's",
@@ -72,34 +82,24 @@
       "pubdate": "Mon, 13 May 2024 10:00:00 -0300"
     },
     {
+      "title": "Union",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Union",
+      "pubdate": "Mon, 13 May 2024 19:00:00 -0300"
+    },
+    {
       "title": "Fiorentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fiorentina",
       "pubdate": "Mon, 13 May 2024 16:00:00 -0300"
     },
     {
-      "title": "Virgen de fatima",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Virgen%20de%20fatima",
-      "pubdate": "Mon, 13 May 2024 09:00:00 -0300"
+      "title": "Lacoste",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lacoste",
+      "pubdate": "Mon, 13 May 2024 03:00:00 -0300"
     },
     {
       "title": "Himno Nacional Argentino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Himno%20Nacional%20Argentino",
       "pubdate": "Mon, 13 May 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Baez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Baez",
-      "pubdate": "Mon, 13 May 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Reebok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Reebok",
-      "pubdate": "Mon, 13 May 2024 08:00:00 -0300"
-    },
-    {
-      "title": "Modo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Modo",
-      "pubdate": "Mon, 13 May 2024 09:00:00 -0300"
     }
   ]
 }

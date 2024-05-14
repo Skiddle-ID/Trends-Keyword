@@ -1,1 +1,1 @@
-GME,Bruins,Barcelona,Liverpool,Boston Bruins,Jerry Seinfeld,Severe thunderstorm warning,OpenAI,Childish Gambino,PGA Championship,David Sanborn,Olivia Munn,Michael Cohen,Senator Menendez,Gigi Hadid,Greece,Bronny James,Bradley Cooper,American Idol Top 3,Shop Laptop
+GME,Bruins,Liverpool,Boston Bruins,Jerry Seinfeld,OpenAI,Childish Gambino,Barcelona,David Sanborn,Michael Cohen,Senator Menendez,PGA Championship,Jared Goff,Red Lobster restaurants closing,Greece,Lisa Bluder,Gigi Hadid,Bronny James,American Idol Top 3,Bradley Cooper
