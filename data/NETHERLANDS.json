@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 10:36:35",
+  "lastUpdate": "14-05-2024 , 11:35:44",
   "data": [
     {
       "title": "David Sanborn",
@@ -30,11 +30,6 @@
       "title": "UvA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UvA",
       "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Susan Backlinie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Susan%20Backlinie",
-      "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
     },
     {
       "title": "Word",
@@ -100,6 +95,11 @@
       "title": "Joost Klein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
       "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Hemelvaartsdag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
+      "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
     }
   ]
 }
