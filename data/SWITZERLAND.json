@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2024 , 11:35:51",
+  "lastUpdate": "15-05-2024 , 12:50:36",
   "data": [
     {
       "title": "Super League",
@@ -12,9 +12,9 @@
       "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
     },
     {
-      "title": "Accident tram Genève",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Accident%20tram%20Gen%C3%A8ve",
-      "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
+      "title": "Challenge League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challenge%20League",
+      "pubdate": "Wed, 15 May 2024 12:00:00 +0200"
     },
     {
       "title": "Tom Cruise",
@@ -27,6 +27,11 @@
       "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Tram accident geneve",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tram%20accident%20geneve",
+      "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
+    },
+    {
       "title": "HPI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HPI",
       "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
@@ -37,19 +42,29 @@
       "pubdate": "Wed, 15 May 2024 12:00:00 +0200"
     },
     {
-      "title": "Varane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Varane",
-      "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
-    },
-    {
       "title": "Superleague",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Superleague",
       "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
     },
     {
-      "title": "BFMTV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BFMTV",
-      "pubdate": "Wed, 15 May 2024 12:00:00 +0200"
+      "title": "Esprit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Esprit",
+      "pubdate": "Wed, 15 May 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Varane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Varane",
+      "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Zaho de Sagazan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zaho%20de%20Sagazan",
+      "pubdate": "Wed, 15 May 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Quentin Dupieux",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Quentin%20Dupieux",
+      "pubdate": "Wed, 15 May 2024 14:00:00 +0200"
     },
     {
       "title": "Furiosa",
@@ -62,8 +77,8 @@
       "pubdate": "Tue, 14 May 2024 16:00:00 +0200"
     },
     {
-      "title": "FC Basel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+      "title": "FCB gegen Stade-Lausanne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB%20gegen%20Stade-Lausanne",
       "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
     },
     {
@@ -84,21 +99,6 @@
     {
       "title": "Real Madrid – Deportivo Alavés",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20%E2%80%93%20Deportivo%20Alav%C3%A9s",
-      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Peter Maffay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Maffay",
-      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Arbeitsunfall Lachen SZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arbeitsunfall%20Lachen%20SZ",
-      "pubdate": "Tue, 14 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jane Fonda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jane%20Fonda",
       "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
     }
   ]

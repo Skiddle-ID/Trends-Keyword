@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "15-05-2024 , 11:35:48",
+  "lastUpdate": "15-05-2024 , 12:50:33",
   "data": [
+    {
+      "title": "Tottenham vs Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Man%20City",
+      "pubdate": "Wed, 15 May 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Man City vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Tottenham",
+      "pubdate": "Wed, 15 May 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Portable",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portable",
+      "pubdate": "Wed, 15 May 2024 03:00:00 +0100"
+    },
     {
       "title": "IAS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#IAS",
       "pubdate": "Wed, 15 May 2024 03:00:00 +0100"
     },
     {
-      "title": "Portable",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portable",
-      "pubdate": "Wed, 15 May 2024 03:00:00 +0100"
+      "title": "Liz Benson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liz%20Benson",
+      "pubdate": "Wed, 15 May 2024 09:00:00 +0100"
     },
     {
       "title": "Brighton vs Chelsea",
@@ -22,9 +37,19 @@
       "pubdate": "Wed, 15 May 2024 09:00:00 +0100"
     },
     {
+      "title": "Burna Boy Tshwala Bam remix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burna%20Boy%20Tshwala%20Bam%20remix",
+      "pubdate": "Wed, 15 May 2024 11:00:00 +0100"
+    },
+    {
       "title": "West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Ham",
       "pubdate": "Wed, 15 May 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
+      "pubdate": "Tue, 14 May 2024 20:00:00 +0100"
     },
     {
       "title": "Real Madrid vs alavés",
@@ -32,9 +57,9 @@
       "pubdate": "Tue, 14 May 2024 19:00:00 +0100"
     },
     {
-      "title": "Manchester City FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manchester%20City%20FC",
-      "pubdate": "Tue, 14 May 2024 21:00:00 +0100"
+      "title": "Mancity",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mancity",
+      "pubdate": "Tue, 14 May 2024 20:00:00 +0100"
     },
     {
       "title": "Tottenham",
@@ -50,11 +75,6 @@
       "title": "Wigwe University",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wigwe%20University",
       "pubdate": "Tue, 14 May 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Hadi Sirika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Hadi%20Sirika",
-      "pubdate": "Tue, 14 May 2024 16:00:00 +0100"
     },
     {
       "title": "Rangers",
@@ -77,29 +97,9 @@
       "pubdate": "Tue, 14 May 2024 20:00:00 +0100"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
-      "pubdate": "Mon, 13 May 2024 12:00:00 +0100"
-    },
-    {
       "title": "Aston Villa vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20Liverpool",
       "pubdate": "Mon, 13 May 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Tottenham vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Man%20City",
-      "pubdate": "Mon, 13 May 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Barcelona Vs Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20Vs%20Real%20Sociedad",
-      "pubdate": "Mon, 13 May 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Barca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barca",
-      "pubdate": "Mon, 13 May 2024 23:00:00 +0100"
     }
   ]
 }

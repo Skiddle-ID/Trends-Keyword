@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2024 , 11:35:48",
+  "lastUpdate": "15-05-2024 , 12:50:33",
   "data": [
     {
       "title": "Farioli",
@@ -32,11 +32,6 @@
       "pubdate": "Tue, 14 May 2024 22:00:00 +0200"
     },
     {
-      "title": "David Sanborn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#David%20Sanborn",
-      "pubdate": "Tue, 14 May 2024 06:00:00 +0200"
-    },
-    {
       "title": "Ozempic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ozempic",
       "pubdate": "Tue, 14 May 2024 12:00:00 +0200"
@@ -60,11 +55,6 @@
       "title": "UvA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UvA",
       "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Roda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda",
-      "pubdate": "Mon, 13 May 2024 22:00:00 +0200"
     },
     {
       "title": "Moederdag",
@@ -100,6 +90,16 @@
       "title": "Noorderlicht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
       "pubdate": "Fri, 10 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Israel",
+      "pubdate": "Fri, 10 May 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Europa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa",
+      "pubdate": "Fri, 10 May 2024 12:00:00 +0200"
     }
   ]
 }
