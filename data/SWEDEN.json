@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-05-2024 , 23:36:15",
+  "lastUpdate": "15-05-2024 , 01:40:01",
   "data": [
+    {
+      "title": "SD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SD",
+      "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
+    },
     {
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
@@ -17,14 +22,14 @@
       "pubdate": "Tue, 14 May 2024 18:00:00 +0200"
     },
     {
+      "title": "Real Madrid mot Alavés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid%20mot%20Alav%C3%A9s",
+      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "Örebro mot Degerfors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96rebro%20mot%20Degerfors",
       "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Real madrid mot alavés",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20madrid%20mot%20alav%C3%A9s",
-      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
     },
     {
       "title": "Alice Munro",
@@ -75,11 +80,6 @@
       "title": "OpenAI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OpenAI",
       "pubdate": "Mon, 13 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Barcelona mot Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona%20mot%20Real%20Sociedad",
-      "pubdate": "Mon, 13 May 2024 21:00:00 +0200"
     },
     {
       "title": "Gamestop",

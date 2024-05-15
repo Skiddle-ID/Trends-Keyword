@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "14-05-2024 , 23:36:09",
+  "lastUpdate": "15-05-2024 , 01:39:52",
   "data": [
     {
       "title": "Calin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Calin",
       "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Vysledky prijimacek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vysledky%20prijimacek",
+      "pubdate": "Wed, 15 May 2024 01:00:00 +0200"
     },
     {
       "title": "Ct",
@@ -17,8 +22,13 @@
       "pubdate": "Tue, 14 May 2024 11:00:00 +0200"
     },
     {
-      "title": "Nálepková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C3%A1lepkov%C3%A1",
+      "title": "Patricie pagacova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patricie%20pagacova",
+      "pubdate": "Tue, 14 May 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Světlana Nálepková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sv%C4%9Btlana%20N%C3%A1lepkov%C3%A1",
       "pubdate": "Tue, 14 May 2024 23:00:00 +0200"
     },
     {
@@ -32,9 +42,9 @@
       "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Tankový prapor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tankov%C3%BD%20prapor",
-      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
+      "title": "Ceskatelevize",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ceskatelevize",
+      "pubdate": "Tue, 14 May 2024 14:00:00 +0200"
     },
     {
       "title": "Petr Pavel",
@@ -72,33 +82,23 @@
       "pubdate": "Tue, 14 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Zuzana Majerová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zuzana%20Majerov%C3%A1",
-      "pubdate": "Tue, 14 May 2024 18:00:00 +0200"
-    },
-    {
       "title": "Steve irwin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steve%20irwin",
       "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
     },
     {
+      "title": "MS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MS",
+      "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Zuzana Majerová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zuzana%20Majerov%C3%A1",
+      "pubdate": "Tue, 14 May 2024 18:00:00 +0200"
+    },
+    {
       "title": "Francouz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Francouz",
-      "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Česká vlajka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20vlajka",
-      "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Patricie Pagáčová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patricie%20Pag%C3%A1%C4%8Dov%C3%A1",
-      "pubdate": "Tue, 14 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Ondrej Pavelec",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ondrej%20Pavelec",
       "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
     }
   ]
