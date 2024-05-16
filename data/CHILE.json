@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "16-05-2024 , 11:36:06",
+  "lastUpdate": "16-05-2024 , 12:50:10",
   "data": [
+    {
+      "title": "Alejandro Tabilo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alejandro%20Tabilo",
+      "pubdate": "Thu, 16 May 2024 08:00:00 -0400"
+    },
     {
       "title": "Bridgerton temporada 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bridgerton%20temporada%203",
@@ -22,14 +27,14 @@
       "pubdate": "Wed, 15 May 2024 09:00:00 -0400"
     },
     {
+      "title": "Colocolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colocolo",
+      "pubdate": "Wed, 15 May 2024 19:00:00 -0400"
+    },
+    {
       "title": "Manchester United  Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20%20Newcastle",
       "pubdate": "Wed, 15 May 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Tabla de posiciones Copa Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tabla%20de%20posiciones%20Copa%20Libertadores",
-      "pubdate": "Wed, 15 May 2024 21:00:00 -0400"
     },
     {
       "title": "Zverev",
@@ -37,9 +42,9 @@
       "pubdate": "Wed, 15 May 2024 07:00:00 -0400"
     },
     {
-      "title": "Brighton  Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Chelsea",
-      "pubdate": "Wed, 15 May 2024 11:00:00 -0400"
+      "title": "Fluminense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense",
+      "pubdate": "Wed, 15 May 2024 21:00:00 -0400"
     },
     {
       "title": "Juventus",
@@ -47,8 +52,13 @@
       "pubdate": "Wed, 15 May 2024 16:00:00 -0400"
     },
     {
-      "title": "Flamengo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo",
+      "title": "Brighton  Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Chelsea",
+      "pubdate": "Wed, 15 May 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Flamengo  Bolívar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo%20%20Bol%C3%ADvar",
       "pubdate": "Wed, 15 May 2024 21:00:00 -0400"
     },
     {
@@ -60,11 +70,6 @@
       "title": "Orlando City  Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Orlando%20City%20%20Inter%20Miami",
       "pubdate": "Wed, 15 May 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Fluminense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense",
-      "pubdate": "Wed, 15 May 2024 22:00:00 -0400"
     },
     {
       "title": "Boca Juniors  Fortaleza",
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 15 May 2024 18:00:00 -0400"
     },
     {
-      "title": "Incendio Santiago",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio%20Santiago",
-      "pubdate": "Wed, 15 May 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Palmeiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras",
-      "pubdate": "Wed, 15 May 2024 21:00:00 -0400"
+      "title": "Mauricio Isla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mauricio%20Isla",
+      "pubdate": "Wed, 15 May 2024 00:00:00 -0400"
     }
   ]
 }

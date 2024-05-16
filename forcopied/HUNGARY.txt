@@ -1,1 +1,1 @@
-John Travolta,Névnap,Bellidimamma,Medulin,Kerekes Vica,OTP Bank Liga,Ben Affleck,Robert Fico,FTC,BBC news,Puskás Aréna,Sebestyén Balázs,Assassin's Creed Shadows,Szupernagyi,Török Gábor Magyar Péter,Manchester United,Gálvölgyi János,Juventus,Meghalt Barok István,Chelsea
+Bridgerton,John Travolta,100 leggazdagabb magyar,Medulin,OTP Bank Liga,Ben Affleck,Színész,Tarjányi Péter,Robert Fico,Verebes István,FTC,BBC news,Puskás Aréna,Assassin's Creed Shadows,Sebestyén Balázs,Török Gábor Magyar Péter,Manchester United,Gálvölgyi János,Meghalt Barok István,Juventus

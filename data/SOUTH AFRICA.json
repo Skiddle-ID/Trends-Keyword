@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 11:36:13",
+  "lastUpdate": "16-05-2024 , 12:50:18",
   "data": [
     {
       "title": "Inter Miami",
@@ -10,6 +10,16 @@
       "title": "Bridgerton Season 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bridgerton%20Season%203",
       "pubdate": "Thu, 16 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "MLS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
+      "pubdate": "Thu, 16 May 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Amad Diallo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Amad%20Diallo",
+      "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
     },
     {
       "title": "Geert Wilders",
@@ -39,7 +49,7 @@
     {
       "title": "What is NHI Bill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#What%20is%20NHI%20Bill",
-      "pubdate": "Wed, 15 May 2024 11:00:00 +0200"
+      "pubdate": "Wed, 15 May 2024 08:00:00 +0200"
     },
     {
       "title": "Arsenal",
@@ -50,6 +60,11 @@
       "title": "Chelsea FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
       "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevilla",
+      "pubdate": "Wed, 15 May 2024 16:00:00 +0200"
     },
     {
       "title": "Atletico Madrid",
@@ -72,6 +87,11 @@
       "pubdate": "Wed, 15 May 2024 17:00:00 +0200"
     },
     {
+      "title": "Letby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Letby",
+      "pubdate": "Wed, 15 May 2024 06:00:00 +0200"
+    },
+    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
       "pubdate": "Wed, 15 May 2024 22:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Mike Tyson vs Jake Paul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mike%20Tyson%20vs%20Jake%20Paul",
       "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "David McBride",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#David%20McBride",
-      "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
-    },
-    {
-      "title": "City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#City",
-      "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nuggets vs Timberwolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nuggets%20vs%20Timberwolves",
-      "pubdate": "Wed, 15 May 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Bafana Bafana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-      "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
     }
   ]
 }
