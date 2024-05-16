@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 05:35:42",
+  "lastUpdate": "16-05-2024 , 06:34:44",
   "data": [
     {
       "title": "Juventus",
@@ -17,14 +17,19 @@
       "pubdate": "Wed, 15 May 2024 16:00:00 +0200"
     },
     {
-      "title": "George Groot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#George%20Groot",
-      "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
+      "title": "Delta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Delta",
+      "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
     },
     {
       "title": "Caiway",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Caiway",
       "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Nieuw caledonie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuw%20caledonie",
+      "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
     },
     {
       "title": "Pieter Duisenberg",
@@ -95,11 +100,6 @@
       "title": "Europa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa",
       "pubdate": "Fri, 10 May 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Joost Klein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
-      "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
     }
   ]
 }
