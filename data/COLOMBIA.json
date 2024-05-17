@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "16-05-2024 , 23:35:13",
+  "lastUpdate": "17-05-2024 , 01:37:03",
   "data": [
     {
-      "title": "Almería  Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Almer%C3%ADa%20%20Barcelona",
+      "title": "Almería - Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Almer%C3%ADa%20-%20Barcelona",
       "pubdate": "Thu, 16 May 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Jaguares  Tigres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jaguares%20%20Tigres",
+      "pubdate": "Thu, 16 May 2024 16:00:00 -0500"
     },
     {
       "title": "Bridgerton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bridgerton",
       "pubdate": "Thu, 16 May 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Fluminense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense",
+      "pubdate": "Thu, 16 May 2024 18:00:00 -0500"
     },
     {
       "title": "Real Sociedad  Valencia CF",
@@ -27,9 +37,9 @@
       "pubdate": "Thu, 16 May 2024 14:00:00 -0500"
     },
     {
-      "title": "Jaguares  Tigres",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jaguares%20%20Tigres",
-      "pubdate": "Thu, 16 May 2024 16:00:00 -0500"
+      "title": "Racing  Coquimbo Unido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Racing%20%20Coquimbo%20Unido",
+      "pubdate": "Thu, 16 May 2024 18:00:00 -0500"
     },
     {
       "title": "Ronaldinho",
@@ -42,6 +52,11 @@
       "pubdate": "Thu, 16 May 2024 10:00:00 -0500"
     },
     {
+      "title": "São Paulo  Barcelona SC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#S%C3%A3o%20Paulo%20%20Barcelona%20SC",
+      "pubdate": "Thu, 16 May 2024 19:00:00 -0500"
+    },
+    {
       "title": "Cali",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cali",
       "pubdate": "Thu, 16 May 2024 16:00:00 -0500"
@@ -52,14 +67,19 @@
       "pubdate": "Thu, 16 May 2024 01:00:00 -0500"
     },
     {
-      "title": "Jaguares",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jaguares",
-      "pubdate": "Thu, 16 May 2024 17:00:00 -0500"
+      "title": "Rosario Central",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rosario%20Central",
+      "pubdate": "Thu, 16 May 2024 18:00:00 -0500"
     },
     {
       "title": "César Vallejo  Always Ready",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#C%C3%A9sar%20Vallejo%20%20Always%20Ready",
       "pubdate": "Thu, 16 May 2024 02:00:00 -0500"
+    },
+    {
+      "title": "Elmer fernandez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Elmer%20fernandez",
+      "pubdate": "Thu, 16 May 2024 19:00:00 -0500"
     },
     {
       "title": "Funcion publica",
@@ -80,26 +100,6 @@
       "title": "Atalanta - Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atalanta%20-%20Juventus",
       "pubdate": "Wed, 15 May 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Manchester United  Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20United%20%20Newcastle",
-      "pubdate": "Wed, 15 May 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Orlando City  Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Orlando%20City%20%20Inter%20Miami",
-      "pubdate": "Wed, 15 May 2024 18:00:00 -0500"
-    },
-    {
-      "title": "Niza  PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Niza%20%20PSG",
-      "pubdate": "Wed, 15 May 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Flamengo  Bolívar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Flamengo%20%20Bol%C3%ADvar",
-      "pubdate": "Wed, 15 May 2024 19:00:00 -0500"
     }
   ]
 }

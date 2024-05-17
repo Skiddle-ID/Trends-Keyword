@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "16-05-2024 , 23:35:19",
+  "lastUpdate": "17-05-2024 , 01:37:08",
   "data": [
     {
       "title": "PGA Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA%20Championship",
       "pubdate": "Fri, 17 May 2024 03:00:00 +1200"
+    },
+    {
+      "title": "PGA Tour",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA%20Tour",
+      "pubdate": "Fri, 17 May 2024 08:00:00 +1200"
     },
     {
       "title": "Ryan Fox",
@@ -22,14 +27,24 @@
       "pubdate": "Fri, 17 May 2024 09:00:00 +1200"
     },
     {
+      "title": "It Ends With Us",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#It%20Ends%20With%20Us",
+      "pubdate": "Fri, 17 May 2024 12:00:00 +1200"
+    },
+    {
+      "title": "Tiger Woods",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tiger%20Woods",
+      "pubdate": "Fri, 17 May 2024 12:00:00 +1200"
+    },
+    {
+      "title": "Billie Eilish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Billie%20Eilish",
+      "pubdate": "Fri, 17 May 2024 12:00:00 +1200"
+    },
+    {
       "title": "Slovakia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slovakia",
       "pubdate": "Thu, 16 May 2024 08:00:00 +1200"
-    },
-    {
-      "title": "Mark Cameron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mark%20Cameron",
-      "pubdate": "Thu, 16 May 2024 18:00:00 +1200"
     },
     {
       "title": "Man United vs Newcastle",
@@ -72,6 +87,11 @@
       "pubdate": "Thu, 16 May 2024 21:00:00 +1200"
     },
     {
+      "title": "Mark Cameron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mark%20Cameron",
+      "pubdate": "Thu, 16 May 2024 21:00:00 +1200"
+    },
+    {
       "title": "RR vs PBKS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#RR%20vs%20PBKS",
       "pubdate": "Thu, 16 May 2024 08:00:00 +1200"
@@ -80,26 +100,6 @@
       "title": "Ashley Madison",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashley%20Madison",
       "pubdate": "Thu, 16 May 2024 13:00:00 +1200"
-    },
-    {
-      "title": "Chicago airport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chicago%20airport",
-      "pubdate": "Thu, 16 May 2024 08:00:00 +1200"
-    },
-    {
-      "title": "Furiosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Furiosa",
-      "pubdate": "Thu, 16 May 2024 17:00:00 +1200"
-    },
-    {
-      "title": "Thunder vs Mavericks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Thunder%20vs%20Mavericks",
-      "pubdate": "Thu, 16 May 2024 17:00:00 +1200"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Manchester%20United",
-      "pubdate": "Thu, 16 May 2024 10:00:00 +1200"
     }
   ]
 }

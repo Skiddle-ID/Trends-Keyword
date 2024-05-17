@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "16-05-2024 , 23:35:12",
+  "lastUpdate": "17-05-2024 , 01:37:01",
   "data": [
+    {
+      "title": "Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
+      "pubdate": "Fri, 17 May 2024 09:00:00 +1000"
+    },
+    {
+      "title": "It Ends With Us",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#It%20Ends%20With%20Us",
+      "pubdate": "Fri, 17 May 2024 05:00:00 +1000"
+    },
+    {
+      "title": "Billie Eilish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billie%20Eilish",
+      "pubdate": "Fri, 17 May 2024 10:00:00 +1000"
+    },
     {
       "title": "Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United",
@@ -17,11 +32,6 @@
       "pubdate": "Fri, 17 May 2024 08:00:00 +1000"
     },
     {
-      "title": "It Ends With Us",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#It%20Ends%20With%20Us",
-      "pubdate": "Fri, 17 May 2024 05:00:00 +1000"
-    },
-    {
       "title": "Tiger Woods",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tiger%20Woods",
       "pubdate": "Fri, 17 May 2024 08:00:00 +1000"
@@ -30,6 +40,21 @@
       "title": "Outer Range",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Outer%20Range",
       "pubdate": "Fri, 17 May 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Luke Newton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Newton",
+      "pubdate": "Fri, 17 May 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ghost%20of%20Tsushima",
+      "pubdate": "Fri, 17 May 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Sir Doug Nicholls",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sir%20Doug%20Nicholls",
+      "pubdate": "Fri, 17 May 2024 10:00:00 +1000"
     },
     {
       "title": "Powerball",
@@ -47,14 +72,14 @@
       "pubdate": "Thu, 16 May 2024 03:00:00 +1000"
     },
     {
-      "title": "Man United vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Newcastle",
-      "pubdate": "Thu, 16 May 2024 06:00:00 +1000"
-    },
-    {
       "title": "PGA Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Championship",
       "pubdate": "Thu, 16 May 2024 21:00:00 +1000"
+    },
+    {
+      "title": "Man United vs Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Newcastle",
+      "pubdate": "Thu, 16 May 2024 06:00:00 +1000"
     },
     {
       "title": "New Caledonia",
@@ -75,31 +100,6 @@
       "title": "Furiosa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Furiosa",
       "pubdate": "Thu, 16 May 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Wicked trailer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wicked%20trailer",
-      "pubdate": "Thu, 16 May 2024 12:00:00 +1000"
-    },
-    {
-      "title": "Sam Fisher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Fisher",
-      "pubdate": "Thu, 16 May 2024 13:00:00 +1000"
-    },
-    {
-      "title": "Reece Walsh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reece%20Walsh",
-      "pubdate": "Thu, 16 May 2024 11:00:00 +1000"
-    },
-    {
-      "title": "Jamie chapman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20chapman",
-      "pubdate": "Thu, 16 May 2024 21:00:00 +1000"
-    },
-    {
-      "title": "Francesca Bridgerton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Francesca%20Bridgerton",
-      "pubdate": "Thu, 16 May 2024 20:00:00 +1000"
     }
   ]
 }
