@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 11:35:48",
+  "lastUpdate": "17-05-2024 , 12:49:03",
   "data": [
     {
       "title": "Ulu Tiram",
@@ -12,19 +12,19 @@
       "pubdate": "Fri, 17 May 2024 03:00:00 +0800"
     },
     {
-      "title": "Minecraft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Minecraft",
-      "pubdate": "Fri, 17 May 2024 00:00:00 +0800"
-    },
-    {
       "title": "PGA Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PGA%20Championship",
       "pubdate": "Fri, 17 May 2024 09:00:00 +0800"
     },
     {
-      "title": "Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leeds%20United",
-      "pubdate": "Fri, 17 May 2024 09:00:00 +0800"
+      "title": "Minecraft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Minecraft",
+      "pubdate": "Fri, 17 May 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Championship",
+      "pubdate": "Fri, 17 May 2024 07:00:00 +0800"
     },
     {
       "title": "Gaza",
@@ -42,14 +42,9 @@
       "pubdate": "Fri, 17 May 2024 08:00:00 +0800"
     },
     {
-      "title": "Pong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pong",
-      "pubdate": "Fri, 17 May 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Man United vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Newcastle",
-      "pubdate": "Thu, 16 May 2024 03:00:00 +0800"
+      "title": "Billie Eilish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Billie%20Eilish",
+      "pubdate": "Fri, 17 May 2024 19:00:00 +0800"
     },
     {
       "title": "Slovakia",
@@ -72,6 +67,11 @@
       "pubdate": "Thu, 16 May 2024 19:00:00 +0800"
     },
     {
+      "title": "SCDF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SCDF",
+      "pubdate": "Thu, 16 May 2024 17:00:00 +0800"
+    },
+    {
       "title": "Swati Maliwal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Swati%20Maliwal",
       "pubdate": "Thu, 16 May 2024 09:00:00 +0800"
@@ -80,11 +80,6 @@
       "title": "Ho Ching",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ho%20Ching",
       "pubdate": "Thu, 16 May 2024 08:00:00 +0800"
-    },
-    {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MLS",
-      "pubdate": "Thu, 16 May 2024 10:00:00 +0800"
     },
     {
       "title": "Furiosa",
@@ -100,6 +95,11 @@
       "title": "David Copperfield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Copperfield",
       "pubdate": "Thu, 16 May 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Chubb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chubb",
+      "pubdate": "Thu, 16 May 2024 20:00:00 +0800"
     }
   ]
 }

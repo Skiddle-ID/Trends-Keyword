@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 11:35:43",
+  "lastUpdate": "17-05-2024 , 12:48:58",
   "data": [
     {
       "title": "Almería vs Barcelona",
@@ -17,14 +17,14 @@
       "pubdate": "Fri, 17 May 2024 05:00:00 +0700"
     },
     {
-      "title": "Nomor Induk Kependudukan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nomor%20Induk%20Kependudukan",
-      "pubdate": "Fri, 17 May 2024 00:00:00 +0700"
-    },
-    {
       "title": "Song Da Eun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Song%20Da%20Eun",
       "pubdate": "Fri, 17 May 2024 11:00:00 +0700"
+    },
+    {
+      "title": "Nomor Induk Kependudukan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nomor%20Induk%20Kependudukan",
+      "pubdate": "Fri, 17 May 2024 00:00:00 +0700"
     },
     {
       "title": "Irwan Mussry",
@@ -35,6 +35,11 @@
       "title": "Las Palmas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Las%20Palmas",
       "pubdate": "Fri, 17 May 2024 03:00:00 +0700"
+    },
+    {
+      "title": "Prakerja gelombang 68",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Prakerja%20gelombang%2068",
+      "pubdate": "Fri, 17 May 2024 19:00:00 +0700"
     },
     {
       "title": "Orlando City vs Inter Miami",
@@ -50,6 +55,11 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
       "pubdate": "Thu, 16 May 2024 03:00:00 +0700"
+    },
+    {
+      "title": "Fuji",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fuji",
+      "pubdate": "Thu, 16 May 2024 05:00:00 +0700"
     },
     {
       "title": "Kevin Sanjaya",
@@ -82,11 +92,6 @@
       "pubdate": "Thu, 16 May 2024 20:00:00 +0700"
     },
     {
-      "title": "Tanzania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tanzania",
-      "pubdate": "Thu, 16 May 2024 23:00:00 +0700"
-    },
-    {
       "title": "Do You See What I See",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Do%20You%20See%20What%20I%20See",
       "pubdate": "Thu, 16 May 2024 12:00:00 +0700"
@@ -95,11 +100,6 @@
       "title": "Atletico Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atletico%20Madrid",
       "pubdate": "Thu, 16 May 2024 05:00:00 +0700"
-    },
-    {
-      "title": "Cerezo Osaka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cerezo%20Osaka",
-      "pubdate": "Thu, 16 May 2024 00:00:00 +0700"
     }
   ]
 }

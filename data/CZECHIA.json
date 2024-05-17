@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 11:35:40",
+  "lastUpdate": "17-05-2024 , 12:48:56",
   "data": [
     {
       "title": "Martin Nečas",
@@ -17,9 +17,19 @@
       "pubdate": "Fri, 17 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Zámek Štiřín",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1mek%20%C5%A0ti%C5%99%C3%ADn",
+      "pubdate": "Fri, 17 May 2024 12:00:00 +0200"
+    },
+    {
       "title": "Kladno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kladno",
       "pubdate": "Fri, 17 May 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Haiti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Haiti",
+      "pubdate": "Fri, 17 May 2024 14:00:00 +0200"
     },
     {
       "title": "Požár Kladno",
@@ -27,19 +37,14 @@
       "pubdate": "Fri, 17 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Zámek Štiřín",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1mek%20%C5%A0ti%C5%99%C3%ADn",
-      "pubdate": "Fri, 17 May 2024 12:00:00 +0200"
-    },
-    {
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Barcelona",
       "pubdate": "Fri, 17 May 2024 09:00:00 +0200"
     },
     {
-      "title": "Bohemians – Karviná",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Karvin%C3%A1",
-      "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
+      "title": "Hokej",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej",
+      "pubdate": "Thu, 16 May 2024 08:00:00 +0200"
     },
     {
       "title": "Radar",
@@ -47,14 +52,19 @@
       "pubdate": "Thu, 16 May 2024 13:00:00 +0200"
     },
     {
+      "title": "Bohemians – Karviná",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Karvin%C3%A1",
+      "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Epic Games",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Epic%20Games",
+      "pubdate": "Thu, 16 May 2024 20:00:00 +0200"
+    },
+    {
       "title": "Amy Winehouse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amy%20Winehouse",
       "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Rozhlas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rozhlas",
-      "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
     },
     {
       "title": "Jablonec – Pardubice",
@@ -62,24 +72,24 @@
       "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
     },
     {
-      "title": "Novinky.cz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Novinky.cz",
-      "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
-    },
-    {
       "title": "Lukáš Dostál",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Luk%C3%A1%C5%A1%20Dost%C3%A1l",
       "pubdate": "Thu, 16 May 2024 09:00:00 +0200"
     },
     {
-      "title": "Akon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Akon",
-      "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
+      "title": "Ivana Korolová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20Korolov%C3%A1",
+      "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
     },
     {
       "title": "Dragon Age: Inquisition",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dragon%20Age:%20Inquisition",
       "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Akon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Akon",
+      "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
     },
     {
       "title": "David Pospíšil",
@@ -90,16 +100,6 @@
       "title": "Krvavá nevěsta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krvav%C3%A1%20nev%C4%9Bsta",
       "pubdate": "Thu, 16 May 2024 23:00:00 +0200"
-    },
-    {
-      "title": "David Copperfield",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Copperfield",
-      "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Salak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Salak",
-      "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
     }
   ]
 }

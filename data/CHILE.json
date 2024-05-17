@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "17-05-2024 , 11:35:40",
+  "lastUpdate": "17-05-2024 , 12:48:55",
   "data": [
-    {
-      "title": "Lluvias Santiago",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvias%20Santiago",
-      "pubdate": "Fri, 17 May 2024 00:00:00 -0400"
-    },
     {
       "title": "Veronica Toussaint",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Veronica%20Toussaint",
@@ -52,13 +47,18 @@
       "pubdate": "Thu, 16 May 2024 19:00:00 -0400"
     },
     {
-      "title": "Midtjylland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Midtjylland",
-      "pubdate": "Thu, 16 May 2024 15:00:00 -0400"
+      "title": "Timberwolves - Nuggets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Timberwolves%20-%20Nuggets",
+      "pubdate": "Thu, 16 May 2024 22:00:00 -0400"
     },
     {
       "title": "Carmen Berenguer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carmen%20Berenguer",
+      "pubdate": "Thu, 16 May 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Midtjylland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Midtjylland",
       "pubdate": "Thu, 16 May 2024 15:00:00 -0400"
     },
     {
@@ -70,6 +70,11 @@
       "title": "Ayahuasca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ayahuasca",
       "pubdate": "Thu, 16 May 2024 09:00:00 -0400"
+    },
+    {
+      "title": "Tabilo vs Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tabilo%20vs%20Zverev",
+      "pubdate": "Thu, 16 May 2024 17:00:00 -0400"
     },
     {
       "title": "David Copperfield",
@@ -95,11 +100,6 @@
       "title": "Championship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Championship",
       "pubdate": "Thu, 16 May 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Sociedad",
-      "pubdate": "Thu, 16 May 2024 18:00:00 -0400"
     }
   ]
 }

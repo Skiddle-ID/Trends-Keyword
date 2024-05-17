@@ -1,6 +1,26 @@
 {
-  "lastUpdate": "17-05-2024 , 11:35:39",
+  "lastUpdate": "17-05-2024 , 12:48:55",
   "data": [
+    {
+      "title": "Billie Eilish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Billie%20Eilish",
+      "pubdate": "Fri, 17 May 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
+      "pubdate": "Fri, 17 May 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+      "pubdate": "Fri, 17 May 2024 07:00:00 -0500"
+    },
+    {
+      "title": "Gabriel Barbosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Barbosa",
+      "pubdate": "Fri, 17 May 2024 07:00:00 -0500"
+    },
     {
       "title": "Sao Paulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
@@ -37,14 +57,14 @@
       "pubdate": "Thu, 16 May 2024 06:00:00 -0500"
     },
     {
-      "title": "Epic Games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Epic%20Games",
-      "pubdate": "Thu, 16 May 2024 11:00:00 -0500"
-    },
-    {
       "title": "Sportivo Luqueño x Bragantino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sportivo%20Luque%C3%B1o%20x%20Bragantino",
       "pubdate": "Thu, 16 May 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Epic Games",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Epic%20Games",
+      "pubdate": "Thu, 16 May 2024 11:00:00 -0500"
     },
     {
       "title": "Athletico-PR",
@@ -52,14 +72,19 @@
       "pubdate": "Thu, 16 May 2024 17:00:00 -0500"
     },
     {
-      "title": "Caca Werneck",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caca%20Werneck",
+      "title": "Cacá Werneck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cac%C3%A1%20Werneck",
       "pubdate": "Thu, 16 May 2024 16:00:00 -0500"
     },
     {
       "title": "Real Sociedad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad",
       "pubdate": "Thu, 16 May 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Timberwolves x Nuggets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Timberwolves%20x%20Nuggets",
+      "pubdate": "Thu, 16 May 2024 20:00:00 -0500"
     },
     {
       "title": "Racing",
@@ -75,31 +100,6 @@
       "title": "AURE3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#AURE3",
       "pubdate": "Thu, 16 May 2024 07:00:00 -0500"
-    },
-    {
-      "title": "Paulo Soares",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulo%20Soares",
-      "pubdate": "Thu, 16 May 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Jogo do Cruzeiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Cruzeiro",
-      "pubdate": "Thu, 16 May 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Betis",
-      "pubdate": "Thu, 16 May 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Sindrome de Patau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sindrome%20de%20Patau",
-      "pubdate": "Thu, 16 May 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Nova Caledônia França",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20Caled%C3%B4nia%20Fran%C3%A7a",
-      "pubdate": "Thu, 16 May 2024 10:00:00 -0500"
     }
   ]
 }
