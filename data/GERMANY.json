@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-05-2024 , 11:34:33",
+  "lastUpdate": "18-05-2024 , 12:47:39",
   "data": [
     {
       "title": "Flughafen München",
@@ -7,14 +7,14 @@
       "pubdate": "Sat, 18 May 2024 08:00:00 +0200"
     },
     {
-      "title": "Voice Kids",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Voice%20Kids",
-      "pubdate": "Sat, 18 May 2024 00:00:00 +0200"
-    },
-    {
       "title": "Formel 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
       "pubdate": "Sat, 18 May 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Hochwasser Aktuell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser%20Aktuell",
+      "pubdate": "Sat, 18 May 2024 08:00:00 +0200"
     },
     {
       "title": "Saarland",
@@ -32,9 +32,9 @@
       "pubdate": "Fri, 17 May 2024 18:00:00 +0200"
     },
     {
-      "title": "Fury vs Usyk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fury%20vs%20Usyk",
-      "pubdate": "Fri, 17 May 2024 19:00:00 +0200"
+      "title": "Bundes-Klinik-Atlas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundes-Klinik-Atlas",
+      "pubdate": "Fri, 17 May 2024 16:00:00 +0200"
     },
     {
       "title": "Ann-Kathrin Bendixen",
@@ -42,9 +42,14 @@
       "pubdate": "Fri, 17 May 2024 21:00:00 +0200"
     },
     {
-      "title": "GTA 6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GTA%206",
-      "pubdate": "Fri, 17 May 2024 09:00:00 +0200"
+      "title": "Magnus Carlsen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Magnus%20Carlsen",
+      "pubdate": "Fri, 17 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Fury vs Usyk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fury%20vs%20Usyk",
+      "pubdate": "Fri, 17 May 2024 19:00:00 +0200"
     },
     {
       "title": "Let’s Dance",
@@ -55,6 +60,11 @@
       "title": "Haftbefehl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haftbefehl",
       "pubdate": "Fri, 17 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Xavi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xavi",
+      "pubdate": "Fri, 17 May 2024 16:00:00 +0200"
     },
     {
       "title": "Bridgerton",
@@ -72,6 +82,11 @@
       "pubdate": "Thu, 16 May 2024 19:00:00 +0200"
     },
     {
+      "title": "Bystron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bystron",
+      "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
+    },
+    {
       "title": "Hund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hund",
       "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
@@ -82,24 +97,9 @@
       "pubdate": "Thu, 16 May 2024 05:00:00 +0200"
     },
     {
-      "title": "Nagelsmann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
-      "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
-    },
-    {
       "title": "Robert Fico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Fico",
       "pubdate": "Wed, 15 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Esprit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Esprit",
-      "pubdate": "Wed, 15 May 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Unwetter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-      "pubdate": "Wed, 15 May 2024 18:00:00 +0200"
     }
   ]
 }
