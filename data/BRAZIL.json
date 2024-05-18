@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 23:36:12",
+  "lastUpdate": "18-05-2024 , 01:35:42",
   "data": [
     {
       "title": "Al-Nassr",
@@ -17,11 +17,6 @@
       "pubdate": "Fri, 17 May 2024 13:00:00 -0500"
     },
     {
-      "title": "Napoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
-      "pubdate": "Fri, 17 May 2024 06:00:00 -0500"
-    },
-    {
       "title": "Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
       "pubdate": "Fri, 17 May 2024 07:00:00 -0500"
@@ -32,9 +27,14 @@
       "pubdate": "Fri, 17 May 2024 05:00:00 -0500"
     },
     {
-      "title": "Rio Ave x Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rio%20Ave%20x%20Benfica",
-      "pubdate": "Fri, 17 May 2024 15:00:00 -0500"
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
+      "pubdate": "Fri, 17 May 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Vila Nova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
+      "pubdate": "Fri, 17 May 2024 17:00:00 -0500"
     },
     {
       "title": "Copa do Mundo Feminina",
@@ -47,28 +47,18 @@
       "pubdate": "Fri, 17 May 2024 16:00:00 -0500"
     },
     {
-      "title": "Vila Nova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-      "pubdate": "Fri, 17 May 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Mega-Sena 2725 resultado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202725%20resultado",
-      "pubdate": "Fri, 17 May 2024 11:00:00 -0500"
-    },
-    {
       "title": "Famalicão",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Famalic%C3%A3o",
       "pubdate": "Fri, 17 May 2024 13:00:00 -0500"
     },
     {
-      "title": "Angers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Angers",
+      "title": "Polishop pede recuperação judicial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Polishop%20pede%20recupera%C3%A7%C3%A3o%20judicial",
       "pubdate": "Fri, 17 May 2024 15:00:00 -0500"
     },
     {
-      "title": "Polishop pede recuperação judicial",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Polishop%20pede%20recupera%C3%A7%C3%A3o%20judicial",
+      "title": "Angers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Angers",
       "pubdate": "Fri, 17 May 2024 15:00:00 -0500"
     },
     {
@@ -77,9 +67,9 @@
       "pubdate": "Fri, 17 May 2024 13:00:00 -0500"
     },
     {
-      "title": "GTA 6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GTA%206",
-      "pubdate": "Fri, 17 May 2024 16:00:00 -0500"
+      "title": "Novorizontino x Coritiba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino%20x%20Coritiba",
+      "pubdate": "Fri, 17 May 2024 19:00:00 -0500"
     },
     {
       "title": "Diddy",
@@ -87,14 +77,24 @@
       "pubdate": "Fri, 17 May 2024 16:00:00 -0500"
     },
     {
-      "title": "West Brom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Brom",
+      "title": "Brasileiro sub-20",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileiro%20sub-20",
+      "pubdate": "Fri, 17 May 2024 07:00:00 -0500"
+    },
+    {
+      "title": "Benfica B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica%20B",
       "pubdate": "Fri, 17 May 2024 16:00:00 -0500"
     },
     {
-      "title": "Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Schumacher",
-      "pubdate": "Fri, 17 May 2024 13:00:00 -0500"
+      "title": "GTA 6",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GTA%206",
+      "pubdate": "Fri, 17 May 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Abel Ferreira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Abel%20Ferreira",
+      "pubdate": "Fri, 17 May 2024 18:00:00 -0500"
     },
     {
       "title": "Xavi",

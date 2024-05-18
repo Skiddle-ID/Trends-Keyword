@@ -1,25 +1,20 @@
 {
-  "lastUpdate": "17-05-2024 , 23:36:19",
+  "lastUpdate": "18-05-2024 , 01:35:48",
   "data": [
-    {
-      "title": "Anne Curtis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Anne%20Curtis",
-      "pubdate": "Sat, 18 May 2024 01:00:00 +0800"
-    },
     {
       "title": "Paqui One Chip Challenge death",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Paqui%20One%20Chip%20Challenge%20death",
       "pubdate": "Sat, 18 May 2024 00:00:00 +0800"
     },
     {
-      "title": "F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1",
-      "pubdate": "Sat, 18 May 2024 02:00:00 +0800"
-    },
-    {
       "title": "Challengers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Challengers",
       "pubdate": "Sat, 18 May 2024 00:00:00 +0800"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1",
+      "pubdate": "Sat, 18 May 2024 02:00:00 +0800"
     },
     {
       "title": "Return to Silent Hill",
@@ -72,24 +67,24 @@
       "pubdate": "Fri, 17 May 2024 08:00:00 +0800"
     },
     {
-      "title": "Kyrie Irving",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kyrie%20Irving",
-      "pubdate": "Fri, 17 May 2024 07:00:00 +0800"
-    },
-    {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Billie%20Eilish",
       "pubdate": "Fri, 17 May 2024 20:00:00 +0800"
     },
     {
-      "title": "Jamal Murray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jamal%20Murray",
-      "pubdate": "Fri, 17 May 2024 15:00:00 +0800"
+      "title": "Kyrie Irving",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kyrie%20Irving",
+      "pubdate": "Fri, 17 May 2024 07:00:00 +0800"
     },
     {
       "title": "Heat waves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Heat%20waves",
       "pubdate": "Fri, 17 May 2024 16:00:00 +0800"
+    },
+    {
+      "title": "Jamal Murray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jamal%20Murray",
+      "pubdate": "Fri, 17 May 2024 15:00:00 +0800"
     },
     {
       "title": "Gina Rinehart",
@@ -100,6 +95,11 @@
       "title": "Nuclear bomb",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nuclear%20bomb",
       "pubdate": "Fri, 17 May 2024 17:00:00 +0800"
+    },
+    {
+      "title": "The 8 Show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%208%20Show",
+      "pubdate": "Fri, 17 May 2024 23:00:00 +0800"
     }
   ]
 }
