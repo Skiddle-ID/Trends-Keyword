@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-05-2024 , 23:36:33",
+  "lastUpdate": "19-05-2024 , 01:41:55",
   "data": [
     {
       "title": "Bayern München",
@@ -42,19 +42,29 @@
       "pubdate": "Sat, 18 May 2024 03:00:00 +0200"
     },
     {
-      "title": "Flughafen München",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20M%C3%BCnchen",
-      "pubdate": "Sat, 18 May 2024 08:00:00 +0200"
-    },
-    {
       "title": "VfL Bochum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
       "pubdate": "Sat, 18 May 2024 17:00:00 +0200"
     },
     {
+      "title": "Flughafen München",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20M%C3%BCnchen",
+      "pubdate": "Sat, 18 May 2024 08:00:00 +0200"
+    },
+    {
       "title": "Agit Kabayel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Agit%20Kabayel",
       "pubdate": "Sat, 18 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Masked Singer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masked%20Singer",
+      "pubdate": "Sat, 18 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "The Masked Singer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Masked%20Singer",
+      "pubdate": "Sat, 18 May 2024 22:00:00 +0200"
     },
     {
       "title": "Bayern Hoffenheim",
@@ -67,11 +77,6 @@
       "pubdate": "Sat, 18 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Masked Singer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Masked%20Singer",
-      "pubdate": "Sat, 18 May 2024 23:00:00 +0200"
-    },
-    {
       "title": "Stuttgarter Kickers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgarter%20Kickers",
       "pubdate": "Sat, 18 May 2024 17:00:00 +0200"
@@ -80,11 +85,6 @@
       "title": "Vermögen Deutsche Bank Russland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verm%C3%B6gen%20Deutsche%20Bank%20Russland",
       "pubdate": "Sat, 18 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Hochwasser aktuell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser%20aktuell",
-      "pubdate": "Sat, 18 May 2024 08:00:00 +0200"
     },
     {
       "title": "Ulrich Noethen",
