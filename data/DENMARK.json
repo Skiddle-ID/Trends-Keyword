@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-05-2024 , 23:35:13",
+  "lastUpdate": "20-05-2024 , 01:37:59",
   "data": [
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+      "pubdate": "Mon, 20 May 2024 01:00:00 +0200"
+    },
     {
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
@@ -10,11 +15,6 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
       "pubdate": "Sun, 19 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "365",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#365",
-      "pubdate": "Sun, 19 May 2024 13:00:00 +0200"
     },
     {
       "title": "Ebrahim Raisi",
@@ -27,8 +27,13 @@
       "pubdate": "Sun, 19 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Brighton  Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Man%20Utd",
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+      "pubdate": "Sun, 19 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Brighton  Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Man%20utd",
       "pubdate": "Sun, 19 May 2024 17:00:00 +0200"
     },
     {
@@ -40,11 +45,6 @@
       "title": "James Bond",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#James%20Bond",
       "pubdate": "Sun, 19 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Alice Stewart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alice%20Stewart",
-      "pubdate": "Sun, 19 May 2024 20:00:00 +0200"
     },
     {
       "title": "Barcelona  Rayo",
@@ -82,6 +82,11 @@
       "pubdate": "Sun, 19 May 2024 22:00:00 +0200"
     },
     {
+      "title": "Ghost movie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ghost%20movie",
+      "pubdate": "Sun, 19 May 2024 00:00:00 +0200"
+    },
+    {
       "title": "Pool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pool",
       "pubdate": "Sun, 19 May 2024 09:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Brentford  Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Newcastle",
       "pubdate": "Sun, 19 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Rasmus højlund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
-      "pubdate": "Sun, 19 May 2024 20:00:00 +0200"
     }
   ]
 }
