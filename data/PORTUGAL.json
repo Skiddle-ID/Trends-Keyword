@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-05-2024 , 23:35:06",
+  "lastUpdate": "21-05-2024 , 01:37:05",
   "data": [
+    {
+      "title": "Ethereum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ethereum",
+      "pubdate": "Tue, 21 May 2024 01:00:00 +0100"
+    },
     {
       "title": "Transferências bancárias",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Transfer%C3%AAncias%20banc%C3%A1rias",
@@ -12,24 +17,24 @@
       "pubdate": "Mon, 20 May 2024 19:00:00 +0100"
     },
     {
-      "title": "Santa Clara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santa%20Clara",
-      "pubdate": "Mon, 20 May 2024 15:00:00 +0100"
-    },
-    {
       "title": "Manuel Fernandes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Fernandes",
       "pubdate": "Mon, 20 May 2024 18:00:00 +0100"
     },
     {
-      "title": "Netanyahu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Netanyahu",
-      "pubdate": "Mon, 20 May 2024 14:00:00 +0100"
+      "title": "Santa Clara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santa%20Clara",
+      "pubdate": "Mon, 20 May 2024 15:00:00 +0100"
     },
     {
       "title": "Bologna  Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bologna%20%20Juventus",
       "pubdate": "Mon, 20 May 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Netanyahu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Netanyahu",
+      "pubdate": "Mon, 20 May 2024 14:00:00 +0100"
     },
     {
       "title": "Javier Milei Espanha",
@@ -47,23 +52,13 @@
       "pubdate": "Mon, 20 May 2024 10:00:00 +0100"
     },
     {
-      "title": "Roland Garros 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roland%20Garros%202024",
+      "title": "Roland garros 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roland%20garros%202024",
       "pubdate": "Mon, 20 May 2024 18:00:00 +0100"
     },
     {
       "title": "Roland Garros",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roland%20Garros",
-      "pubdate": "Mon, 20 May 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Deadpool 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Deadpool%203",
-      "pubdate": "Mon, 20 May 2024 01:00:00 +0100"
-    },
-    {
-      "title": "St. Pauli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#St.%20Pauli",
       "pubdate": "Mon, 20 May 2024 16:00:00 +0100"
     },
     {
@@ -77,14 +72,19 @@
       "pubdate": "Mon, 20 May 2024 15:00:00 +0100"
     },
     {
+      "title": "Deadpool 3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Deadpool%203",
+      "pubdate": "Mon, 20 May 2024 01:00:00 +0100"
+    },
+    {
+      "title": "St. Pauli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#St.%20Pauli",
+      "pubdate": "Mon, 20 May 2024 16:00:00 +0100"
+    },
+    {
       "title": "Atletico Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atletico%20Madrid",
       "pubdate": "Mon, 20 May 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Expulsão Big Brother",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Expuls%C3%A3o%20Big%20Brother",
-      "pubdate": "Mon, 20 May 2024 00:00:00 +0100"
     },
     {
       "title": "Convocados Euro 2024",

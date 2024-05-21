@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-05-2024 , 23:35:01",
+  "lastUpdate": "21-05-2024 , 01:37:01",
   "data": [
+    {
+      "title": "Cate Blanchett",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cate%20Blanchett",
+      "pubdate": "Tue, 21 May 2024 01:00:00 +0200"
+    },
     {
       "title": "Jean-Claude Gaudin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Claude%20Gaudin",
@@ -22,11 +27,6 @@
       "pubdate": "Mon, 20 May 2024 02:00:00 +0200"
     },
     {
-      "title": "Greve 21 mai 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Greve%2021%20mai%202024",
-      "pubdate": "Mon, 20 May 2024 10:00:00 +0200"
-    },
-    {
       "title": "Stade Brestois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20Brestois",
       "pubdate": "Mon, 20 May 2024 00:00:00 +0200"
@@ -40,6 +40,11 @@
       "title": "Crise diplomatique Espagne - Argentine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crise%20diplomatique%20Espagne%20-%20Argentine",
       "pubdate": "Mon, 20 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Greve SNCF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Greve%20SNCF",
+      "pubdate": "Mon, 20 May 2024 13:00:00 +0200"
     },
     {
       "title": "A Star Is Born",
@@ -95,11 +100,6 @@
       "title": "Bella Hadid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bella%20Hadid",
       "pubdate": "Mon, 20 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Shrek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Shrek",
-      "pubdate": "Mon, 20 May 2024 16:00:00 +0200"
     }
   ]
 }

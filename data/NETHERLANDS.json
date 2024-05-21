@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "20-05-2024 , 23:35:04",
+  "lastUpdate": "21-05-2024 , 01:37:04",
   "data": [
     {
       "title": "Youp van 't Hek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Youp%20van%20't%20Hek",
       "pubdate": "Mon, 20 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Marktplaats-storing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marktplaats-storing",
-      "pubdate": "Mon, 20 May 2024 12:00:00 +0200"
     },
     {
       "title": "ICC",
@@ -20,11 +15,6 @@
       "title": "Ajax Vrouwen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Vrouwen",
       "pubdate": "Mon, 20 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Fietselfstedentocht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fietselfstedentocht",
-      "pubdate": "Mon, 20 May 2024 18:00:00 +0200"
     },
     {
       "title": "Roland Garros",
@@ -52,19 +42,9 @@
       "pubdate": "Sun, 19 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City",
-      "pubdate": "Sun, 19 May 2024 17:00:00 +0200"
-    },
-    {
       "title": "Tweede Pinksterdag",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tweede%20Pinksterdag",
       "pubdate": "Sun, 19 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Indy 500",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Indy%20500",
-      "pubdate": "Sun, 19 May 2024 13:00:00 +0200"
     },
     {
       "title": "Diddy",
@@ -100,6 +80,26 @@
       "title": "ADO Den Haag",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
       "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "NAC Breda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20Breda",
+      "pubdate": "Mon, 13 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "UvA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UvA",
+      "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Moederdag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Moederdag",
+      "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Excelsior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
+      "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-05-2024 , 23:35:04",
+  "lastUpdate": "21-05-2024 , 01:37:04",
   "data": [
     {
       "title": "Bologna vs Juventus",
@@ -19,7 +19,7 @@
     {
       "title": "Wesak Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wesak%20Day",
-      "pubdate": "Mon, 20 May 2024 09:00:00 +0800"
+      "pubdate": "Mon, 20 May 2024 10:00:00 +0800"
     },
     {
       "title": "Chelsea",
@@ -27,14 +27,14 @@
       "pubdate": "Mon, 20 May 2024 07:00:00 +0800"
     },
     {
-      "title": "La Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
-      "pubdate": "Mon, 20 May 2024 12:00:00 +0800"
-    },
-    {
       "title": "520",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#520",
       "pubdate": "Mon, 20 May 2024 00:00:00 +0800"
+    },
+    {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
+      "pubdate": "Mon, 20 May 2024 12:00:00 +0800"
     },
     {
       "title": "Real Madrid",
@@ -42,14 +42,14 @@
       "pubdate": "Mon, 20 May 2024 15:00:00 +0800"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
-      "pubdate": "Mon, 20 May 2024 08:00:00 +0800"
-    },
-    {
       "title": "Seungri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Seungri",
       "pubdate": "Mon, 20 May 2024 02:00:00 +0800"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
+      "pubdate": "Mon, 20 May 2024 08:00:00 +0800"
     },
     {
       "title": "Liverpool FC",
@@ -57,9 +57,14 @@
       "pubdate": "Mon, 20 May 2024 02:00:00 +0800"
     },
     {
-      "title": "King Salman Bin Abdulaziz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#King%20Salman%20Bin%20Abdulaziz",
-      "pubdate": "Mon, 20 May 2024 11:00:00 +0800"
+      "title": "Wesak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wesak",
+      "pubdate": "Mon, 20 May 2024 09:00:00 +0800"
+    },
+    {
+      "title": "King Salman bin Abdulaziz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#King%20Salman%20bin%20Abdulaziz",
+      "pubdate": "Mon, 20 May 2024 17:00:00 +0800"
     },
     {
       "title": "Nuggets vs Timberwolves",
@@ -94,11 +99,6 @@
     {
       "title": "Thiago Silva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thiago%20Silva",
-      "pubdate": "Mon, 20 May 2024 09:00:00 +0800"
-    },
-    {
-      "title": "Singapore Covid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Singapore%20Covid",
       "pubdate": "Mon, 20 May 2024 09:00:00 +0800"
     }
   ]

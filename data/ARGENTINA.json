@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "20-05-2024 , 23:34:58",
+  "lastUpdate": "21-05-2024 , 01:36:59",
   "data": [
+    {
+      "title": "San Lorenzo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
+      "pubdate": "Mon, 20 May 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Estudiantes  Deportivo Riestra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Deportivo%20Riestra",
+      "pubdate": "Mon, 20 May 2024 19:00:00 -0300"
+    },
     {
       "title": "Accidente en Panamericana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Accidente%20en%20Panamericana",
       "pubdate": "Mon, 20 May 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Estudiantes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
+      "pubdate": "Mon, 20 May 2024 20:00:00 -0300"
     },
     {
       "title": "Juventus",
@@ -17,24 +32,24 @@
       "pubdate": "Mon, 20 May 2024 08:00:00 -0300"
     },
     {
-      "title": "Escarapela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Escarapela",
-      "pubdate": "Mon, 20 May 2024 12:00:00 -0300"
-    },
-    {
       "title": "Seleccion Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20Argentina",
       "pubdate": "Mon, 20 May 2024 13:00:00 -0300"
     },
     {
-      "title": "Estudiantes  Deportivo Riestra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20%20Deportivo%20Riestra",
-      "pubdate": "Mon, 20 May 2024 19:00:00 -0300"
+      "title": "Rosario Central",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario%20Central",
+      "pubdate": "Mon, 20 May 2024 20:00:00 -0300"
     },
     {
-      "title": "Griselda Siciliani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Griselda%20Siciliani",
-      "pubdate": "Mon, 20 May 2024 15:00:00 -0300"
+      "title": "Escarapela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Escarapela",
+      "pubdate": "Mon, 20 May 2024 12:00:00 -0300"
+    },
+    {
+      "title": "Racing  Argentinos jrs.",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20%20Argentinos%20jrs.",
+      "pubdate": "Mon, 20 May 2024 21:00:00 -0300"
     },
     {
       "title": "IPS",
@@ -42,19 +57,9 @@
       "pubdate": "Mon, 20 May 2024 11:00:00 -0300"
     },
     {
-      "title": "La Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Liga",
-      "pubdate": "Mon, 20 May 2024 14:00:00 -0300"
-    },
-    {
-      "title": "Dólar blue hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%B3lar%20blue%20hoy",
+      "title": "Griselda Siciliani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Griselda%20Siciliani",
       "pubdate": "Mon, 20 May 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Gobernador de misiones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gobernador%20de%20misiones",
-      "pubdate": "Mon, 20 May 2024 08:00:00 -0300"
     },
     {
       "title": "Central",
@@ -62,8 +67,13 @@
       "pubdate": "Mon, 20 May 2024 09:00:00 -0300"
     },
     {
-      "title": "Cabildo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cabildo",
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Liga",
+      "pubdate": "Mon, 20 May 2024 14:00:00 -0300"
+    },
+    {
+      "title": "Gobernador de misiones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gobernador%20de%20misiones",
       "pubdate": "Mon, 20 May 2024 08:00:00 -0300"
     },
     {
@@ -72,34 +82,24 @@
       "pubdate": "Mon, 20 May 2024 08:00:00 -0300"
     },
     {
-      "title": "Semana de Mayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Semana%20de%20Mayo",
-      "pubdate": "Mon, 20 May 2024 07:00:00 -0300"
+      "title": "Dólar blue hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%B3lar%20blue%20hoy",
+      "pubdate": "Mon, 20 May 2024 15:00:00 -0300"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Galatasaray",
-      "pubdate": "Mon, 20 May 2024 00:00:00 -0300"
+      "title": "Cabildo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cabildo",
+      "pubdate": "Mon, 20 May 2024 08:00:00 -0300"
     },
     {
-      "title": "25 de Mayo de 1810",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#25%20de%20Mayo%20de%201810",
-      "pubdate": "Mon, 20 May 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Benedetto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Benedetto",
+      "title": "Almirante Brown  San Telmo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almirante%20Brown%20%20San%20Telmo",
       "pubdate": "Mon, 20 May 2024 17:00:00 -0300"
     },
     {
-      "title": "Wuthering Waves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wuthering%20Waves",
-      "pubdate": "Mon, 20 May 2024 03:00:00 -0300"
-    },
-    {
-      "title": "Netanyahu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Netanyahu",
-      "pubdate": "Mon, 20 May 2024 15:00:00 -0300"
+      "title": "Paro docente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20docente",
+      "pubdate": "Mon, 20 May 2024 19:00:00 -0300"
     }
   ]
 }
