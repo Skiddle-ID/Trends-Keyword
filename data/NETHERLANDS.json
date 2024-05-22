@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2024 , 23:35:29",
+  "lastUpdate": "22-05-2024 , 01:38:08",
   "data": [
     {
       "title": "Joanne van Lieshout",
@@ -22,24 +22,14 @@
       "pubdate": "Tue, 21 May 2024 14:00:00 +0200"
     },
     {
-      "title": "Singapore Airlines",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Singapore%20Airlines",
-      "pubdate": "Tue, 21 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "Lieke Martens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20Martens",
       "pubdate": "Tue, 21 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Code geel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Code%20geel",
-      "pubdate": "Tue, 21 May 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Scarlett Johansson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Scarlett%20Johansson",
-      "pubdate": "Tue, 21 May 2024 10:00:00 +0200"
+      "title": "Singapore Airlines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Singapore%20Airlines",
+      "pubdate": "Tue, 21 May 2024 15:00:00 +0200"
     },
     {
       "title": "Frank Schaafsma",
@@ -47,19 +37,14 @@
       "pubdate": "Mon, 20 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Youp van 't Hek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Youp%20van%20't%20Hek",
+      "title": "Buitenpost",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Buitenpost",
       "pubdate": "Mon, 20 May 2024 20:00:00 +0200"
     },
     {
       "title": "Kim Putters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kim%20Putters",
       "pubdate": "Mon, 20 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Omrop fryslan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omrop%20fryslan",
-      "pubdate": "Mon, 20 May 2024 18:00:00 +0200"
     },
     {
       "title": "Netanyahu",
@@ -100,6 +85,21 @@
       "title": "Goldband",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goldband",
       "pubdate": "Sat, 18 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Geert Wilders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
+      "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Ronald Plasterk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronald%20Plasterk",
+      "pubdate": "Tue, 14 May 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Graafschap",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+      "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
     }
   ]
 }

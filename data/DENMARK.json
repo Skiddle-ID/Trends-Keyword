@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2024 , 23:35:24",
+  "lastUpdate": "22-05-2024 , 01:38:03",
   "data": [
     {
       "title": "Giro d'Italia 2024",
@@ -10,6 +10,11 @@
       "title": "Max",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Max",
       "pubdate": "Tue, 21 May 2024 06:00:00 +0200"
+    },
+    {
+      "title": "Ivana Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ivana%20Trump",
+      "pubdate": "Tue, 21 May 2024 11:00:00 +0200"
     },
     {
       "title": "AGF",
@@ -27,9 +32,9 @@
       "pubdate": "Tue, 21 May 2024 14:00:00 +0200"
     },
     {
-      "title": "The Apprentice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Apprentice",
-      "pubdate": "Tue, 21 May 2024 11:00:00 +0200"
+      "title": "Coop Bank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coop%20Bank",
+      "pubdate": "Tue, 21 May 2024 12:00:00 +0200"
     },
     {
       "title": "Singapore Airlines",
@@ -42,14 +47,14 @@
       "pubdate": "Tue, 21 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Scarlett Johansson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scarlett%20Johansson",
-      "pubdate": "Tue, 21 May 2024 09:00:00 +0200"
-    },
-    {
       "title": "XDefiant",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#XDefiant",
       "pubdate": "Tue, 21 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Scarlett Johansson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scarlett%20Johansson",
+      "pubdate": "Tue, 21 May 2024 09:00:00 +0200"
     },
     {
       "title": "Wuthering Waves",
@@ -72,8 +77,8 @@
       "pubdate": "Tue, 21 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Dune 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dune%202",
+      "title": "Dune-2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dune-2",
       "pubdate": "Tue, 21 May 2024 21:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Donald Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
       "pubdate": "Tue, 21 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "ICC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ICC",
-      "pubdate": "Mon, 20 May 2024 15:00:00 +0200"
     }
   ]
 }

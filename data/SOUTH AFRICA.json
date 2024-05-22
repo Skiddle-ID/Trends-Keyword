@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2024 , 23:35:31",
+  "lastUpdate": "22-05-2024 , 01:38:10",
   "data": [
     {
       "title": "Toni Kroos",
@@ -37,6 +37,11 @@
       "pubdate": "Tue, 21 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Singapore Airlines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Singapore%20Airlines",
+      "pubdate": "Tue, 21 May 2024 19:00:00 +0200"
+    },
+    {
       "title": "Pochettino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pochettino",
       "pubdate": "Tue, 21 May 2024 21:00:00 +0200"
@@ -49,11 +54,6 @@
     {
       "title": "The Fall Guy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Fall%20Guy",
-      "pubdate": "Tue, 21 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Singapore Airlines",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Singapore%20Airlines",
       "pubdate": "Tue, 21 May 2024 19:00:00 +0200"
     },
     {
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 20 May 2024 12:00:00 +0200"
     },
     {
+      "title": "Emo Adams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emo%20Adams",
+      "pubdate": "Mon, 20 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
       "pubdate": "Mon, 20 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Infected blood scandal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Infected%20blood%20scandal",
-      "pubdate": "Mon, 20 May 2024 16:00:00 +0200"
     }
   ]
 }
