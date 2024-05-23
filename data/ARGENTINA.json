@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2024 , 11:36:02",
+  "lastUpdate": "23-05-2024 , 12:49:11",
   "data": [
     {
       "title": "Prime Video",
@@ -9,6 +9,11 @@
     {
       "title": "Emilia Mernes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Emilia%20Mernes",
+      "pubdate": "Thu, 23 May 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Amazon Prime",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Amazon%20Prime",
       "pubdate": "Thu, 23 May 2024 00:00:00 -0300"
     },
     {
@@ -22,14 +27,9 @@
       "pubdate": "Thu, 23 May 2024 00:00:00 -0300"
     },
     {
-      "title": "Gimnasia hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20hoy",
-      "pubdate": "Thu, 23 May 2024 00:00:00 -0300"
-    },
-    {
-      "title": "Anthony Edwards",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Anthony%20Edwards",
-      "pubdate": "Thu, 23 May 2024 00:00:00 -0300"
+      "title": "Marco Ruben",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marco%20Ruben",
+      "pubdate": "Thu, 23 May 2024 07:00:00 -0300"
     },
     {
       "title": "Lismar",
@@ -57,6 +57,11 @@
       "pubdate": "Wed, 22 May 2024 22:00:00 -0300"
     },
     {
+      "title": "Paro docente 23 de mayo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20docente%2023%20de%20mayo",
+      "pubdate": "Wed, 22 May 2024 15:00:00 -0300"
+    },
+    {
       "title": "Demichelis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Demichelis",
       "pubdate": "Wed, 22 May 2024 01:00:00 -0300"
@@ -65,11 +70,6 @@
       "title": "Spinetta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Spinetta",
       "pubdate": "Wed, 22 May 2024 12:00:00 -0300"
-    },
-    {
-      "title": "Paro docente 23 de mayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20docente%2023%20de%20mayo",
-      "pubdate": "Wed, 22 May 2024 15:00:00 -0300"
     },
     {
       "title": "Boca Copa Argentina",
@@ -82,11 +82,6 @@
       "pubdate": "Wed, 22 May 2024 21:00:00 -0300"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Novak%20Djokovic",
-      "pubdate": "Wed, 22 May 2024 14:00:00 -0300"
-    },
-    {
       "title": "Wuthering Waves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wuthering%20Waves",
       "pubdate": "Wed, 22 May 2024 03:00:00 -0300"
@@ -95,6 +90,11 @@
       "title": "Nelly Furtado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nelly%20Furtado",
       "pubdate": "Wed, 22 May 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Novak%20Djokovic",
+      "pubdate": "Wed, 22 May 2024 14:00:00 -0300"
     },
     {
       "title": "David lebon",

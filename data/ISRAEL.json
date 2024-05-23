@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2024 , 11:36:07",
+  "lastUpdate": "23-05-2024 , 12:49:17",
   "data": [
     {
       "title": "Nvidia stock",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 23 May 2024 00:00:00 +0300"
     },
     {
-      "title": "CNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#CNN",
-      "pubdate": "Thu, 23 May 2024 01:00:00 +0300"
-    },
-    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Europa%20League",
       "pubdate": "Thu, 23 May 2024 00:00:00 +0300"
+    },
+    {
+      "title": "המוסד לביטוח לאומי",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%9E%D7%95%D7%A1%D7%93%20%D7%9C%D7%91%D7%99%D7%98%D7%95%D7%97%20%D7%9C%D7%90%D7%95%D7%9E%D7%99",
+      "pubdate": "Thu, 23 May 2024 14:00:00 +0300"
     },
     {
       "title": "יהורם גאון",
@@ -27,11 +27,6 @@
       "pubdate": "Thu, 23 May 2024 10:00:00 +0300"
     },
     {
-      "title": "מניית אנבידיה",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%A0%D7%91%D7%99%D7%93%D7%99%D7%94",
-      "pubdate": "Thu, 23 May 2024 13:00:00 +0300"
-    },
-    {
       "title": "מיטרוניקס",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%99%D7%98%D7%A8%D7%95%D7%A0%D7%99%D7%A7%D7%A1",
       "pubdate": "Thu, 23 May 2024 07:00:00 +0300"
@@ -40,11 +35,6 @@
       "title": "ניר ברקת",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%99%D7%A8%20%D7%91%D7%A8%D7%A7%D7%AA",
       "pubdate": "Thu, 23 May 2024 09:00:00 +0300"
-    },
-    {
-      "title": "התצפיתניות",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%AA%D7%A6%D7%A4%D7%99%D7%AA%D7%A0%D7%99%D7%95%D7%AA",
-      "pubdate": "Thu, 23 May 2024 13:00:00 +0300"
     },
     {
       "title": "סרטון חטיפת התצפיתניות",
@@ -82,6 +72,11 @@
       "pubdate": "Wed, 22 May 2024 07:00:00 +0300"
     },
     {
+      "title": "חוק ההתנתקות",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%95%D7%A7%20%D7%94%D7%94%D7%AA%D7%A0%D7%AA%D7%A7%D7%95%D7%AA",
+      "pubdate": "Wed, 22 May 2024 19:00:00 +0300"
+    },
+    {
       "title": "Singapore Airlines",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Singapore%20Airlines",
       "pubdate": "Wed, 22 May 2024 10:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "רבי מאיר בעל הנס",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A8%D7%91%D7%99%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%91%D7%A2%D7%9C%20%D7%94%D7%A0%D7%A1",
       "pubdate": "Tue, 21 May 2024 09:00:00 +0300"
+    },
+    {
+      "title": "פסח שני",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%A1%D7%97%20%D7%A9%D7%A0%D7%99",
+      "pubdate": "Tue, 21 May 2024 10:00:00 +0300"
     }
   ]
 }

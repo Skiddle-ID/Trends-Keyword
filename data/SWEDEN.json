@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2024 , 11:36:12",
+  "lastUpdate": "23-05-2024 , 12:49:21",
   "data": [
     {
       "title": "Serie a",
@@ -12,14 +12,14 @@
       "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Danny Saucedo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Danny%20Saucedo",
-      "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
-    },
-    {
       "title": "Lenny Kravitz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lenny%20Kravitz",
       "pubdate": "Thu, 23 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Danny Saucedo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Danny%20Saucedo",
+      "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
     },
     {
       "title": "Niclas Eliasson",
@@ -52,6 +52,11 @@
       "pubdate": "Wed, 22 May 2024 18:00:00 +0200"
     },
     {
+      "title": "Hans Wahlgren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hans%20Wahlgren",
+      "pubdate": "Wed, 22 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "Erik Karlsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Erik%20Karlsson",
       "pubdate": "Wed, 22 May 2024 00:00:00 +0200"
@@ -62,14 +67,14 @@
       "pubdate": "Wed, 22 May 2024 16:00:00 +0200"
     },
     {
+      "title": "Eric Smith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eric%20Smith",
+      "pubdate": "Wed, 22 May 2024 16:00:00 +0200"
+    },
+    {
       "title": "Alice Bah Kuhnke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Bah%20Kuhnke",
       "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Furiosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Furiosa",
-      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
       "title": "Invasiva växter",
@@ -77,9 +82,9 @@
       "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Alla utom vi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alla%20utom%20vi",
-      "pubdate": "Wed, 22 May 2024 16:00:00 +0200"
+      "title": "Furiosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Furiosa",
+      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
       "title": "HIF",
@@ -95,11 +100,6 @@
       "title": "Novo Nordisk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novo%20Nordisk",
       "pubdate": "Wed, 22 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Janni deler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Janni%20deler",
-      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     }
   ]
 }
