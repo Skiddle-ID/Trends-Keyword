@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-05-2024 , 19:35:22",
+  "lastUpdate": "23-05-2024 , 20:35:19",
   "data": [
+    {
+      "title": "Sverige Finland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland",
+      "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
+    },
     {
       "title": "Serie a",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20a",
@@ -22,9 +27,9 @@
       "pubdate": "Thu, 23 May 2024 12:00:00 +0200"
     },
     {
-      "title": "Sverige Finland kvartsfinal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland%20kvartsfinal",
-      "pubdate": "Thu, 23 May 2024 18:00:00 +0200"
+      "title": "Kia EV3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kia%20EV3",
+      "pubdate": "Thu, 23 May 2024 19:00:00 +0200"
     },
     {
       "title": "Danny Saucedo",
@@ -32,14 +37,14 @@
       "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
     },
     {
-      "title": "Kia EV3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kia%20EV3",
-      "pubdate": "Thu, 23 May 2024 19:00:00 +0200"
-    },
-    {
       "title": "Niclas Eliasson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niclas%20Eliasson",
       "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Europe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europe",
+      "pubdate": "Thu, 23 May 2024 21:00:00 +0200"
     },
     {
       "title": "Atalanta",
@@ -50,11 +55,6 @@
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
       "pubdate": "Wed, 22 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Sverige Finland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland",
-      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
       "title": "Förtidsrösta EU-valet",
@@ -70,6 +70,16 @@
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
       "pubdate": "Wed, 22 May 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Hans Wahlgren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hans%20Wahlgren",
+      "pubdate": "Wed, 22 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Sverige Finland hockey-VM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland%20hockey-VM",
+      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
       "title": "Erik Karlsson",
@@ -90,16 +100,6 @@
       "title": "Alice Bah Kuhnke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Bah%20Kuhnke",
       "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Invasiva växter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Invasiva%20v%C3%A4xter",
-      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Furiosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Furiosa",
-      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     }
   ]
 }
