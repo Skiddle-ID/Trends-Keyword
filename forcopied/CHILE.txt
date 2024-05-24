@@ -1,1 +1,1 @@
-Claudio Iturra,Lluvia en Santiago,Al Nassr,Serie A,Cohecho,Diego Navarrete,Nadal,Beetlejuice,Fiorentina,Guillermo nuñez,Noticias de hoy,Carlo Acutis,Hansi Flick,Bayern,Leverkusen,Dia del Completo,Pubalgia,Suspensión de clases,Influenza,Novak Djokovic
+Claudio Iturra murio,Serie A,Lluvia en Santiago,Al-Nassr,Nadal,Cohecho,Diego Navarrete,Beetlejuice,Guillermo nuñez,Carlo Acutis,Noticias de hoy,Hansi Flick,Patricia Benavides,T13,Bayern,Leverkusen,Dia del Completo,Pubalgia,Suspensión de clases,Influenza

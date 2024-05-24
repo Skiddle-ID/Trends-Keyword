@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 01:37:55",
+  "lastUpdate": "24-05-2024 , 02:42:03",
   "data": [
     {
       "title": "Chilaquiles",
@@ -10,6 +10,11 @@
       "title": "Dia del Estudiante",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20Estudiante",
       "pubdate": "Thu, 23 May 2024 09:00:00 -0600"
+    },
+    {
+      "title": "Al-Riyadh  Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Riyadh%20%20Al-Nassr",
+      "pubdate": "Thu, 23 May 2024 12:00:00 -0600"
     },
     {
       "title": "Christian Nodal",
@@ -27,14 +32,9 @@
       "pubdate": "Thu, 23 May 2024 13:00:00 -0600"
     },
     {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Nassr",
-      "pubdate": "Thu, 23 May 2024 14:00:00 -0600"
-    },
-    {
-      "title": "Emiliano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Emiliano",
-      "pubdate": "Thu, 23 May 2024 08:00:00 -0600"
+      "title": "Estadio ciudad de los Deportes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estadio%20ciudad%20de%20los%20Deportes",
+      "pubdate": "Thu, 23 May 2024 19:00:00 -0600"
     },
     {
       "title": "POCO F6",
@@ -47,9 +47,9 @@
       "pubdate": "Thu, 23 May 2024 15:00:00 -0600"
     },
     {
-      "title": "Que se celebra hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20hoy",
-      "pubdate": "Thu, 23 May 2024 13:00:00 -0600"
+      "title": "Emiliano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Emiliano",
+      "pubdate": "Thu, 23 May 2024 08:00:00 -0600"
     },
     {
       "title": "Horacio Villalobos",
@@ -57,14 +57,24 @@
       "pubdate": "Thu, 23 May 2024 10:00:00 -0600"
     },
     {
-      "title": "Rishi Sunak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rishi%20Sunak",
-      "pubdate": "Thu, 23 May 2024 16:00:00 -0600"
+      "title": "Yankees  Mariners",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Yankees%20%20Mariners",
+      "pubdate": "Thu, 23 May 2024 18:00:00 -0600"
+    },
+    {
+      "title": "Lake Mungo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lake%20Mungo",
+      "pubdate": "Thu, 23 May 2024 18:00:00 -0600"
     },
     {
       "title": "Tlaloc",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tlaloc",
       "pubdate": "Thu, 23 May 2024 15:00:00 -0600"
+    },
+    {
+      "title": "Monos aulladores",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monos%20aulladores",
+      "pubdate": "Thu, 23 May 2024 18:00:00 -0600"
     },
     {
       "title": "Nvidia",
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 22 May 2024 11:00:00 -0600"
     },
     {
-      "title": "Google Fotos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Google%20Fotos",
-      "pubdate": "Wed, 22 May 2024 10:00:00 -0600"
-    },
-    {
       "title": "Timberwolves  Mavericks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Timberwolves%20%20Mavericks",
       "pubdate": "Wed, 22 May 2024 19:00:00 -0600"
-    },
-    {
-      "title": "Nelly Furtado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nelly%20Furtado",
-      "pubdate": "Wed, 22 May 2024 11:00:00 -0600"
     }
   ]
 }

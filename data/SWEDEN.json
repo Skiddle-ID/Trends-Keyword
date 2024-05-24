@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 01:37:59",
+  "lastUpdate": "24-05-2024 , 02:42:06",
   "data": [
     {
       "title": "Taiwan",
@@ -32,11 +32,6 @@
       "pubdate": "Thu, 23 May 2024 18:00:00 +0200"
     },
     {
-      "title": "Europe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europe",
-      "pubdate": "Thu, 23 May 2024 21:00:00 +0200"
-    },
-    {
       "title": "Danny Saucedo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Danny%20Saucedo",
       "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
@@ -47,8 +42,8 @@
       "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
     },
     {
-      "title": "hockey-VM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#hockey-VM",
+      "title": "Sverige Finland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland",
       "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Alice Bah Kuhnke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Bah%20Kuhnke",
       "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Furiosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Furiosa",
+      "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
     }
   ]
 }
