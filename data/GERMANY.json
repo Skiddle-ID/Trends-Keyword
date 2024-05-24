@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "23-05-2024 , 23:35:35",
+  "lastUpdate": "24-05-2024 , 01:37:52",
   "data": [
-    {
-      "title": "Medusa Beach Club",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Medusa%20Beach%20Club",
-      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
-    },
     {
       "title": "Bochum gegen Düsseldorf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20gegen%20D%C3%BCsseldorf",
@@ -20,6 +15,11 @@
       "title": "Sammelklage gegen Amazon Prime",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sammelklage%20gegen%20Amazon%20Prime",
       "pubdate": "Thu, 23 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Ethereum ETFs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ethereum%20ETFs",
+      "pubdate": "Thu, 23 May 2024 15:00:00 +0200"
     },
     {
       "title": "Rolf Breuer",
@@ -52,14 +52,14 @@
       "pubdate": "Thu, 23 May 2024 16:00:00 +0200"
     },
     {
-      "title": "Ethereum ETFs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ethereum%20ETFs",
-      "pubdate": "Thu, 23 May 2024 19:00:00 +0200"
-    },
-    {
       "title": "Marcel Hartel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marcel%20Hartel",
       "pubdate": "Thu, 23 May 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Gasperini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gasperini",
+      "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
     },
     {
       "title": "Riemann Bochum",

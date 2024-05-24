@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "23-05-2024 , 23:35:36",
+  "lastUpdate": "24-05-2024 , 01:37:53",
   "data": [
     {
       "title": "Mad Max",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mad%20Max",
-      "pubdate": "Fri, 24 May 2024 01:30:00 +0530"
-    },
-    {
-      "title": "WI vs SA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WI%20vs%20SA",
       "pubdate": "Fri, 24 May 2024 01:30:00 +0530"
     },
     {
@@ -42,11 +37,6 @@
       "pubdate": "Thu, 23 May 2024 11:30:00 +0530"
     },
     {
-      "title": "Tushar Deshpande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tushar%20Deshpande",
-      "pubdate": "Thu, 23 May 2024 10:30:00 +0530"
-    },
-    {
       "title": "Adani Group",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani%20Group",
       "pubdate": "Thu, 23 May 2024 08:30:00 +0530"
@@ -77,8 +67,8 @@
       "pubdate": "Thu, 23 May 2024 14:30:00 +0530"
     },
     {
-      "title": "Adani Enterprises Share Price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani%20Enterprises%20Share%20Price",
+      "title": "Ambati Rayudu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ambati%20Rayudu",
       "pubdate": "Thu, 23 May 2024 16:30:00 +0530"
     },
     {
@@ -100,6 +90,16 @@
       "title": "RCB vs RR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#RCB%20vs%20RR",
       "pubdate": "Wed, 22 May 2024 08:30:00 +0530"
+    },
+    {
+      "title": "England vs Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20Pakistan",
+      "pubdate": "Wed, 22 May 2024 18:30:00 +0530"
+    },
+    {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Europa%20League",
+      "pubdate": "Wed, 22 May 2024 10:30:00 +0530"
     }
   ]
 }
