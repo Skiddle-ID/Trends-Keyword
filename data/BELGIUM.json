@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "24-05-2024 , 11:35:52",
+  "lastUpdate": "24-05-2024 , 12:49:34",
   "data": [
-    {
-      "title": "Medusa Beach Club Mallorca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Medusa%20Beach%20Club%20Mallorca",
-      "pubdate": "Fri, 24 May 2024 09:00:00 +0200"
-    },
     {
       "title": "Carlo Acutis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlo%20Acutis",
       "pubdate": "Fri, 24 May 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Mallorca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
+      "pubdate": "Fri, 24 May 2024 10:00:00 +0200"
     },
     {
       "title": "DuckDuckGo",
@@ -19,6 +19,11 @@
     {
       "title": "Paul Magnette",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Magnette",
+      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Sammy Mahdi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sammy%20Mahdi",
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
@@ -37,14 +42,19 @@
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Raoul Hedebouw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Raoul%20Hedebouw",
-      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
+      "title": "Goedele Liekens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
+      "pubdate": "Fri, 24 May 2024 14:00:00 +0200"
     },
     {
       "title": "Ronde van Noorwegen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronde%20van%20Noorwegen",
       "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Pommelien Thijs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pommelien%20Thijs",
+      "pubdate": "Thu, 23 May 2024 21:00:00 +0200"
     },
     {
       "title": "Kompany",
@@ -62,6 +72,11 @@
       "pubdate": "Thu, 23 May 2024 17:00:00 +0200"
     },
     {
+      "title": "Jordan Bardella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jordan%20Bardella",
+      "pubdate": "Thu, 23 May 2024 22:00:00 +0200"
+    },
+    {
       "title": "Luca Brecel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luca%20Brecel",
       "pubdate": "Thu, 23 May 2024 16:00:00 +0200"
@@ -69,11 +84,6 @@
     {
       "title": "ETF Ethereum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ETF%20Ethereum",
-      "pubdate": "Thu, 23 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jordan Bardella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jordan%20Bardella",
       "pubdate": "Thu, 23 May 2024 22:00:00 +0200"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Schumacher",
       "pubdate": "Thu, 23 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Taiwan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Taiwan",
-      "pubdate": "Thu, 23 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Adele Exarchopoulos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adele%20Exarchopoulos",
-      "pubdate": "Thu, 23 May 2024 20:00:00 +0200"
     }
   ]
 }
