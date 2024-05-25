@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 23:36:22",
+  "lastUpdate": "25-05-2024 , 01:36:50",
   "data": [
     {
       "title": "Girona",
@@ -22,11 +22,6 @@
       "pubdate": "Fri, 24 May 2024 16:00:00 +0300"
     },
     {
-      "title": "Alanyaspor - Antalyaspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor%20-%20Antalyaspor",
-      "pubdate": "Fri, 24 May 2024 19:00:00 +0300"
-    },
-    {
       "title": "VAKIFBANK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#VAKIFBANK",
       "pubdate": "Fri, 24 May 2024 16:00:00 +0300"
@@ -37,9 +32,9 @@
       "pubdate": "Fri, 24 May 2024 02:00:00 +0300"
     },
     {
-      "title": "TRT Spor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Spor",
-      "pubdate": "Fri, 24 May 2024 20:00:00 +0300"
+      "title": "Alanyaspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alanyaspor",
+      "pubdate": "Fri, 24 May 2024 19:00:00 +0300"
     },
     {
       "title": "Benzine indirim",
@@ -92,14 +87,19 @@
       "pubdate": "Fri, 24 May 2024 11:00:00 +0300"
     },
     {
+      "title": "Esra Okumuş",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Esra%20Okumu%C5%9F",
+      "pubdate": "Fri, 24 May 2024 22:00:00 +0300"
+    },
+    {
       "title": "Zeynep Sönmez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zeynep%20S%C3%B6nmez",
       "pubdate": "Fri, 24 May 2024 00:00:00 +0300"
     },
     {
-      "title": "Esra Okumuş",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Esra%20Okumu%C5%9F",
-      "pubdate": "Fri, 24 May 2024 22:00:00 +0300"
+      "title": "Sen Büyümeye Bak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sen%20B%C3%BCy%C3%BCmeye%20Bak",
+      "pubdate": "Fri, 24 May 2024 02:00:00 +0300"
     }
   ]
 }

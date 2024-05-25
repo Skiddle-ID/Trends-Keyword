@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 23:36:13",
+  "lastUpdate": "25-05-2024 , 01:36:40",
   "data": [
     {
       "title": "Serge Lama",
@@ -22,6 +22,16 @@
       "pubdate": "Sat, 25 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Zellik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zellik",
+      "pubdate": "Sat, 25 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "EuroLeague",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EuroLeague",
+      "pubdate": "Sat, 25 May 2024 01:00:00 +0200"
+    },
+    {
       "title": "Carlo Acutis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlo%20Acutis",
       "pubdate": "Fri, 24 May 2024 04:00:00 +0200"
@@ -32,24 +42,24 @@
       "pubdate": "Fri, 24 May 2024 18:00:00 +0200"
     },
     {
-      "title": "The Bay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Bay",
-      "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
-    },
-    {
       "title": "Morgan Spurlock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Morgan%20Spurlock",
       "pubdate": "Fri, 24 May 2024 20:00:00 +0200"
     },
     {
-      "title": "Mallorca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
-      "pubdate": "Fri, 24 May 2024 10:00:00 +0200"
+      "title": "The Bay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Bay",
+      "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
     },
     {
       "title": "Effondrement restaurant Majorque",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Effondrement%20restaurant%20Majorque",
       "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Mallorca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
+      "pubdate": "Fri, 24 May 2024 10:00:00 +0200"
     },
     {
       "title": "Alexander De Croo",
@@ -90,16 +100,6 @@
       "title": "Goedele Liekens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
       "pubdate": "Fri, 24 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "MotoGP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MotoGP",
-      "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Tina Turner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tina%20Turner",
-      "pubdate": "Fri, 24 May 2024 20:00:00 +0200"
     }
   ]
 }

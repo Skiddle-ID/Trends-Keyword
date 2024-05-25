@@ -1,10 +1,30 @@
 {
-  "lastUpdate": "24-05-2024 , 23:36:19",
+  "lastUpdate": "25-05-2024 , 01:36:47",
   "data": [
+    {
+      "title": "Bronx",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bronx",
+      "pubdate": "Sat, 25 May 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Morgan Spurlock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Morgan%20Spurlock",
+      "pubdate": "Sat, 25 May 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Stiff person syndrome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Stiff%20person%20syndrome",
+      "pubdate": "Sat, 25 May 2024 08:00:00 +0800"
+    },
     {
       "title": "Celtics vs Pacers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Celtics%20vs%20Pacers",
       "pubdate": "Fri, 24 May 2024 10:00:00 +0800"
+    },
+    {
+      "title": "PRC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PRC",
+      "pubdate": "Fri, 24 May 2024 12:00:00 +0800"
     },
     {
       "title": "Genshin redeem code",
@@ -12,19 +32,9 @@
       "pubdate": "Fri, 24 May 2024 21:00:00 +0800"
     },
     {
-      "title": "AVC Challenge Cup 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#AVC%20Challenge%20Cup%202024",
-      "pubdate": "Fri, 24 May 2024 14:00:00 +0800"
-    },
-    {
       "title": "Weather forecast",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Weather%20forecast",
       "pubdate": "Fri, 24 May 2024 09:00:00 +0800"
-    },
-    {
-      "title": "Kabosu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kabosu",
-      "pubdate": "Fri, 24 May 2024 18:00:00 +0800"
     },
     {
       "title": "Aghon typhoon",
@@ -32,14 +42,24 @@
       "pubdate": "Fri, 24 May 2024 18:00:00 +0800"
     },
     {
-      "title": "Chelsea Manalo Miss Universe Philippines",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Chelsea%20Manalo%20Miss%20Universe%20Philippines",
-      "pubdate": "Fri, 24 May 2024 02:00:00 +0800"
+      "title": "Windy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Windy",
+      "pubdate": "Fri, 24 May 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Kabosu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kabosu",
+      "pubdate": "Fri, 24 May 2024 18:00:00 +0800"
     },
     {
       "title": "Atlas movie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Atlas%20movie",
       "pubdate": "Fri, 24 May 2024 19:00:00 +0800"
+    },
+    {
+      "title": "Chelsea Manalo Miss Universe Philippines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Chelsea%20Manalo%20Miss%20Universe%20Philippines",
+      "pubdate": "Fri, 24 May 2024 02:00:00 +0800"
     },
     {
       "title": "Pagasa",
@@ -55,6 +75,11 @@
       "title": "Let",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Let",
       "pubdate": "Fri, 24 May 2024 13:00:00 +0800"
+    },
+    {
+      "title": "Dallas vs wolves Game 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dallas%20vs%20wolves%20Game%202",
+      "pubdate": "Fri, 24 May 2024 23:00:00 +0800"
     },
     {
       "title": "Tyrese Haliburton",
@@ -75,31 +100,6 @@
       "title": "Ebrahim Raisi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ebrahim%20Raisi",
       "pubdate": "Fri, 24 May 2024 12:00:00 +0800"
-    },
-    {
-      "title": "Poco Pad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Poco%20Pad",
-      "pubdate": "Fri, 24 May 2024 10:00:00 +0800"
-    },
-    {
-      "title": "Modern Family",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Modern%20Family",
-      "pubdate": "Fri, 24 May 2024 18:00:00 +0800"
-    },
-    {
-      "title": "Kevin Hart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kevin%20Hart",
-      "pubdate": "Fri, 24 May 2024 21:00:00 +0800"
-    },
-    {
-      "title": "Memorial Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Memorial%20Day",
-      "pubdate": "Fri, 24 May 2024 23:00:00 +0800"
-    },
-    {
-      "title": "Takeru Kobayashi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Takeru%20Kobayashi",
-      "pubdate": "Fri, 24 May 2024 22:00:00 +0800"
     }
   ]
 }

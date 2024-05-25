@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "24-05-2024 , 23:36:14",
+  "lastUpdate": "25-05-2024 , 01:36:42",
   "data": [
+    {
+      "title": "Iveta bartosova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Iveta%20bartosova",
+      "pubdate": "Sat, 25 May 2024 01:00:00 +0200"
+    },
     {
       "title": "Jan Kačer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Ka%C4%8Der",
       "pubdate": "Fri, 24 May 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Cesko USA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cesko%20USA",
-      "pubdate": "Fri, 24 May 2024 18:00:00 +0200"
     },
     {
       "title": "Mistrovství světa v hokeji",
@@ -17,9 +17,19 @@
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Cesko USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cesko%20USA",
+      "pubdate": "Fri, 24 May 2024 18:00:00 +0200"
+    },
+    {
       "title": "IIHF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#IIHF",
       "pubdate": "Fri, 24 May 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Sport.cz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
+      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
       "title": "Jaromír Jágr",
@@ -29,7 +39,7 @@
     {
       "title": "Jakub voracek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20voracek",
-      "pubdate": "Fri, 24 May 2024 16:00:00 +0200"
+      "pubdate": "Fri, 24 May 2024 08:00:00 +0200"
     },
     {
       "title": "Putin",
@@ -47,29 +57,14 @@
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Hokej mistrovství světa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20mistrovstv%C3%AD%20sv%C4%9Bta",
-      "pubdate": "Fri, 24 May 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Emma Smetana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Smetana",
-      "pubdate": "Fri, 24 May 2024 23:00:00 +0200"
-    },
-    {
-      "title": "POCO F6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#POCO%20F6",
+      "title": "Poco F6",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poco%20F6",
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
       "title": "Jana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana",
       "pubdate": "Fri, 24 May 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Sport.cz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
-      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
       "title": "Svet knihy 2024",
@@ -87,6 +82,16 @@
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     },
     {
+      "title": "Švýcarsko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0v%C3%BDcarsko",
+      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Veronika Khek Kubařová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika%20Khek%20Kuba%C5%99ov%C3%A1",
+      "pubdate": "Fri, 24 May 2024 16:00:00 +0200"
+    },
+    {
       "title": "Jiří Kajínek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Kaj%C3%ADnek",
       "pubdate": "Fri, 24 May 2024 10:00:00 +0200"
@@ -94,11 +99,6 @@
     {
       "title": "Špaček",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pa%C4%8Dek",
-      "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Hokej.cz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej.cz",
       "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
     }
   ]

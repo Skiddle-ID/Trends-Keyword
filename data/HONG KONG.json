@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 23:36:16",
+  "lastUpdate": "25-05-2024 , 01:36:43",
   "data": [
     {
       "title": "五月天",
@@ -37,14 +37,14 @@
       "pubdate": "Fri, 24 May 2024 19:00:00 +0800"
     },
     {
-      "title": "Bing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Bing",
-      "pubdate": "Fri, 24 May 2024 00:00:00 +0800"
-    },
-    {
       "title": "Lauren Tsai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Lauren%20Tsai",
       "pubdate": "Fri, 24 May 2024 07:00:00 +0800"
+    },
+    {
+      "title": "Bing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Bing",
+      "pubdate": "Fri, 24 May 2024 00:00:00 +0800"
     },
     {
       "title": "Segantii",
@@ -52,14 +52,19 @@
       "pubdate": "Fri, 24 May 2024 10:00:00 +0800"
     },
     {
-      "title": "赖清德",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B5%96%E6%B8%85%E5%BE%B7",
-      "pubdate": "Fri, 24 May 2024 01:00:00 +0800"
-    },
-    {
       "title": "陳沂",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B3%E6%B2%82",
       "pubdate": "Fri, 24 May 2024 21:00:00 +0800"
+    },
+    {
+      "title": "陳靜",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B3%E9%9D%9C",
+      "pubdate": "Fri, 24 May 2024 00:00:00 +0800"
+    },
+    {
+      "title": "赖清德",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B5%96%E6%B8%85%E5%BE%B7",
+      "pubdate": "Fri, 24 May 2024 01:00:00 +0800"
     },
     {
       "title": "許光漢",
@@ -95,11 +100,6 @@
       "title": "華晨宇",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%8F%AF%E6%99%A8%E5%AE%87",
       "pubdate": "Thu, 23 May 2024 12:00:00 +0800"
-    },
-    {
-      "title": "森星",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A3%AE%E6%98%9F",
-      "pubdate": "Thu, 23 May 2024 19:00:00 +0800"
     }
   ]
 }
