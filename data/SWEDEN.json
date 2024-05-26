@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "25-05-2024 , 23:35:14",
+  "lastUpdate": "26-05-2024 , 01:43:17",
   "data": [
+    {
+      "title": "DIF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
+      "pubdate": "Sun, 26 May 2024 01:00:00 +0200"
+    },
     {
       "title": "FA-cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cup",
@@ -12,14 +17,14 @@
       "pubdate": "Sat, 25 May 2024 10:00:00 +0200"
     },
     {
-      "title": "Gais",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
-      "pubdate": "Sat, 25 May 2024 15:00:00 +0200"
-    },
-    {
       "title": "Grayson Murray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grayson%20Murray",
       "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Gais",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+      "pubdate": "Sat, 25 May 2024 15:00:00 +0200"
     },
     {
       "title": "Mjällby mot Djurgården",
@@ -35,6 +40,11 @@
       "title": "Kanada Schweiz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanada%20Schweiz",
       "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Systembolaget problem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Systembolaget%20problem",
+      "pubdate": "Sat, 25 May 2024 18:00:00 +0200"
     },
     {
       "title": "Nevs avbryter affären",
@@ -67,14 +77,14 @@
       "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Vetlanda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vetlanda",
-      "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
       "pubdate": "Sat, 25 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Vetlanda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vetlanda",
+      "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
     },
     {
       "title": "Kabosu",
@@ -90,16 +100,6 @@
       "title": "Morgan Spurlock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Morgan%20Spurlock",
       "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Malmö FF mot Kalmar FF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Kalmar%20FF",
-      "pubdate": "Fri, 24 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Mff",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mff",
-      "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
     }
   ]
 }

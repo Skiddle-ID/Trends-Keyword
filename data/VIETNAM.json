@@ -1,20 +1,35 @@
 {
-  "lastUpdate": "25-05-2024 , 23:35:15",
+  "lastUpdate": "26-05-2024 , 01:43:18",
   "data": [
+    {
+      "title": "Real Madrid đấu với Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Betis",
+      "pubdate": "Sun, 26 May 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Kaiserslautern đấu với Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kaiserslautern%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Leverkusen",
+      "pubdate": "Sun, 26 May 2024 01:00:00 +0700"
+    },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid",
+      "pubdate": "Sun, 26 May 2024 02:00:00 +0700"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG",
       "pubdate": "Sun, 26 May 2024 00:00:00 +0700"
     },
     {
-      "title": "Real",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real",
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
       "pubdate": "Sun, 26 May 2024 00:00:00 +0700"
     },
     {
-      "title": "Cúp Đức",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAp%20%C4%90%E1%BB%A9c",
-      "pubdate": "Sun, 26 May 2024 04:00:00 +0700"
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
+      "pubdate": "Sun, 26 May 2024 00:00:00 +0700"
     },
     {
       "title": "Lê Thanh Hải",
@@ -24,6 +39,11 @@
     {
       "title": "FPT PLAY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#FPT%20PLAY",
+      "pubdate": "Sat, 25 May 2024 22:00:00 +0700"
+    },
+    {
+      "title": "Bóng đá hôm nay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20h%C3%B4m%20nay",
       "pubdate": "Sat, 25 May 2024 22:00:00 +0700"
     },
     {
@@ -80,26 +100,6 @@
       "title": "Xoi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xoi",
       "pubdate": "Sat, 25 May 2024 22:00:00 +0700"
-    },
-    {
-      "title": "Kobbie Mainoo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kobbie%20Mainoo",
-      "pubdate": "Sat, 25 May 2024 23:00:00 +0700"
-    },
-    {
-      "title": "Tuyensinhdaucap",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tuyensinhdaucap",
-      "pubdate": "Sat, 25 May 2024 12:00:00 +0700"
-    },
-    {
-      "title": "Man City đấu với Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
-      "pubdate": "Fri, 24 May 2024 09:00:00 +0700"
-    },
-    {
-      "title": "Cháy Trung Kính",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%A1y%20Trung%20K%C3%ADnh",
-      "pubdate": "Fri, 24 May 2024 07:00:00 +0700"
     }
   ]
 }

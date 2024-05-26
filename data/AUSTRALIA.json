@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "25-05-2024 , 23:35:04",
+  "lastUpdate": "26-05-2024 , 01:43:08",
   "data": [
-    {
-      "title": "Scottish Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scottish%20Cup",
-      "pubdate": "Sun, 26 May 2024 01:00:00 +1000"
-    },
     {
       "title": "Grayson Murray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grayson%20Murray",
       "pubdate": "Sun, 26 May 2024 07:00:00 +1000"
     },
     {
-      "title": "Mad Max: Fury Road",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mad%20Max:%20Fury%20Road",
-      "pubdate": "Sun, 26 May 2024 00:00:00 +1000"
+      "title": "Scottish Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scottish%20Cup",
+      "pubdate": "Sun, 26 May 2024 01:00:00 +1000"
     },
     {
       "title": "England vs Pakistan",
@@ -22,8 +17,18 @@
       "pubdate": "Sun, 26 May 2024 00:00:00 +1000"
     },
     {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
+      "pubdate": "Sun, 26 May 2024 10:00:00 +1000"
+    },
+    {
       "title": "Nicki Minaj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nicki%20Minaj",
+      "pubdate": "Sun, 26 May 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Canberra Raiders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canberra%20Raiders",
       "pubdate": "Sun, 26 May 2024 08:00:00 +1000"
     },
     {
@@ -42,9 +47,9 @@
       "pubdate": "Sat, 25 May 2024 01:00:00 +1000"
     },
     {
-      "title": "Rabbitohs vs Eels",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rabbitohs%20vs%20Eels",
-      "pubdate": "Sat, 25 May 2024 20:00:00 +1000"
+      "title": "Carlton vs Gold Coast",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton%20vs%20Gold%20Coast",
+      "pubdate": "Sat, 25 May 2024 14:00:00 +1000"
     },
     {
       "title": "Luka Doncic",
@@ -60,16 +65,6 @@
       "title": "Essendon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Essendon",
       "pubdate": "Sat, 25 May 2024 19:00:00 +1000"
-    },
-    {
-      "title": "Raiders vs Roosters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raiders%20vs%20Roosters",
-      "pubdate": "Sat, 25 May 2024 16:00:00 +1000"
-    },
-    {
-      "title": "Mariners vs Melbourne Victory",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mariners%20vs%20Melbourne%20Victory",
-      "pubdate": "Sat, 25 May 2024 23:00:00 +1000"
     },
     {
       "title": "WAFL",
@@ -92,14 +87,19 @@
       "pubdate": "Sat, 25 May 2024 17:00:00 +1000"
     },
     {
+      "title": "Mariners vs Melbourne Victory",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mariners%20vs%20Melbourne%20Victory",
+      "pubdate": "Sat, 25 May 2024 23:00:00 +1000"
+    },
+    {
       "title": "Alex Pearce",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alex%20Pearce",
       "pubdate": "Sat, 25 May 2024 00:00:00 +1000"
     },
     {
-      "title": "John Wick",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Wick",
-      "pubdate": "Sat, 25 May 2024 23:00:00 +1000"
+      "title": "Panthers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panthers",
+      "pubdate": "Sat, 25 May 2024 21:00:00 +1000"
     }
   ]
 }
