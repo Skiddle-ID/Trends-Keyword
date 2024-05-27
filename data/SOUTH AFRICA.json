@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "26-05-2024 , 23:35:04",
+  "lastUpdate": "27-05-2024 , 01:39:54",
   "data": [
-    {
-      "title": "West Indies vs South Africa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Indies%20vs%20South%20Africa",
-      "pubdate": "Sun, 26 May 2024 08:00:00 +0200"
-    },
     {
       "title": "Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
       "pubdate": "Sun, 26 May 2024 08:00:00 +0200"
     },
     {
+      "title": "West Indies vs South Africa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Indies%20vs%20South%20Africa",
+      "pubdate": "Sun, 26 May 2024 08:00:00 +0200"
+    },
+    {
       "title": "Sevilla vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevilla%20vs%20Barcelona",
       "pubdate": "Sun, 26 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Makro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Makro",
+      "pubdate": "Sun, 26 May 2024 09:00:00 +0200"
     },
     {
       "title": "Vancouver vs Inter Miami",
@@ -32,9 +37,19 @@
       "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
     },
     {
+      "title": "Cyril Ramaphosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cyril%20Ramaphosa",
+      "pubdate": "Sun, 26 May 2024 18:00:00 +0200"
+    },
+    {
       "title": "French Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#French%20Open",
       "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Ross Ulbricht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ross%20Ulbricht",
+      "pubdate": "Sun, 26 May 2024 16:00:00 +0200"
     },
     {
       "title": "Proteas",
@@ -47,14 +62,19 @@
       "pubdate": "Sun, 26 May 2024 16:00:00 +0200"
     },
     {
+      "title": "RAF pilot dies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RAF%20pilot%20dies",
+      "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
+    },
+    {
       "title": "Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli",
       "pubdate": "Sun, 26 May 2024 20:00:00 +0200"
     },
     {
-      "title": "RAF pilot dies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RAF%20pilot%20dies",
-      "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
+      "title": "Celine Dion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celine%20Dion",
+      "pubdate": "Sun, 26 May 2024 11:00:00 +0200"
     },
     {
       "title": "DFB-Pokal",
@@ -80,26 +100,6 @@
       "title": "Grayson Murray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Grayson%20Murray",
       "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Ramaphosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ramaphosa",
-      "pubdate": "Sat, 25 May 2024 02:00:00 +0200"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
-      "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Champions Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20Cup",
-      "pubdate": "Sat, 25 May 2024 18:00:00 +0200"
-    },
-    {
-      "title": "England vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Pakistan",
-      "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
     }
   ]
 }

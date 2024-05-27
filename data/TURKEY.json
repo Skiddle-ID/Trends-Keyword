@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "26-05-2024 , 23:35:05",
+  "lastUpdate": "27-05-2024 , 01:39:55",
   "data": [
     {
-      "title": "Deprem Son dakika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deprem%20Son%20dakika",
+      "title": "Son dakika deprem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
       "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
     },
     {
       "title": "Porto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Porto",
+      "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Gaziantep",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gaziantep",
       "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
     },
     {
@@ -19,16 +24,6 @@
     {
       "title": "Süper Kupa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCper%20Kupa",
-      "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Empoli  Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Empoli%20%20Roma",
-      "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Gençlerbirliği",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gen%C3%A7lerbirli%C4%9Fi",
       "pubdate": "Mon, 27 May 2024 01:00:00 +0300"
     },
     {
@@ -57,14 +52,14 @@
       "pubdate": "Sun, 26 May 2024 19:00:00 +0300"
     },
     {
-      "title": "Gaziantep FK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gaziantep%20FK",
-      "pubdate": "Sun, 26 May 2024 19:00:00 +0300"
-    },
-    {
       "title": "Süperlig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCperlig",
       "pubdate": "Sun, 26 May 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Gaziantep FK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gaziantep%20FK",
+      "pubdate": "Sun, 26 May 2024 19:00:00 +0300"
     },
     {
       "title": "Erbaaspor - Muş 1984",
@@ -99,6 +94,11 @@
     {
       "title": "Mersin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mersin",
+      "pubdate": "Sun, 26 May 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Yargı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yarg%C4%B1",
       "pubdate": "Sun, 26 May 2024 22:00:00 +0300"
     }
   ]
