@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 23:36:07",
+  "lastUpdate": "28-05-2024 , 01:39:36",
   "data": [
     {
       "title": "AIK",
@@ -15,11 +15,6 @@
       "title": "Gift vid första ögonkastet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gift%20vid%20f%C3%B6rsta%20%C3%B6gonkastet",
       "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
-    },
-    {
-      "title": "IFK Norrköping",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
-      "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
     },
     {
       "title": "David Pastrnak",
@@ -42,6 +37,11 @@
       "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
     },
     {
+      "title": "Johnny Wactor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johnny%20Wactor",
+      "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
+    },
+    {
       "title": "Georgie Campbell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Georgie%20Campbell",
       "pubdate": "Mon, 27 May 2024 04:00:00 +0200"
@@ -49,6 +49,11 @@
     {
       "title": "Jan Emanuel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jan%20Emanuel",
+      "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
+    },
+    {
+      "title": "IFK Norrköping",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
       "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
     },
     {
@@ -72,14 +77,14 @@
       "pubdate": "Mon, 27 May 2024 01:00:00 +0200"
     },
     {
-      "title": "Skyfall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skyfall",
-      "pubdate": "Mon, 27 May 2024 18:00:00 +0200"
-    },
-    {
       "title": "Restaurang Vyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Restaurang%20Vyn",
       "pubdate": "Mon, 27 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Skyfall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skyfall",
+      "pubdate": "Mon, 27 May 2024 18:00:00 +0200"
     },
     {
       "title": "Marcus Johansson",
@@ -95,11 +100,6 @@
       "title": "Kristoffer Olsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristoffer%20Olsson",
       "pubdate": "Sun, 26 May 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Sverige Kanada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Kanada",
-      "pubdate": "Sun, 26 May 2024 16:00:00 +0200"
     }
   ]
 }

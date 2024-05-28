@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 23:36:05",
+  "lastUpdate": "28-05-2024 , 01:39:33",
   "data": [
     {
       "title": "Rafah",
@@ -17,14 +17,9 @@
       "pubdate": "Sun, 26 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Roland Garros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roland%20Garros",
-      "pubdate": "Sun, 26 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Go Ahead Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-      "pubdate": "Sun, 26 May 2024 18:00:00 +0200"
+      "title": "Nieuwegein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwegein",
+      "pubdate": "Sun, 26 May 2024 23:00:00 +0200"
     },
     {
       "title": "Indy 500",
@@ -32,9 +27,14 @@
       "pubdate": "Sun, 26 May 2024 19:00:00 +0200"
     },
     {
-      "title": "Nieuwegein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwegein",
-      "pubdate": "Sun, 26 May 2024 23:00:00 +0200"
+      "title": "Go Ahead Eagles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+      "pubdate": "Sun, 26 May 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Roland Garros",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roland%20Garros",
+      "pubdate": "Sun, 26 May 2024 15:00:00 +0200"
     },
     {
       "title": "Irene Schouten",
