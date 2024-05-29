@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-05-2024 , 23:34:53",
+  "lastUpdate": "29-05-2024 , 01:42:00",
   "data": [
     {
       "title": "Trade Republic",
@@ -47,11 +47,6 @@
       "pubdate": "Mon, 27 May 2024 22:00:00 +0200"
     },
     {
-      "title": "1&1 Störung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1%261%20St%C3%B6rung",
-      "pubdate": "Mon, 27 May 2024 09:00:00 +0200"
-    },
-    {
       "title": "Dax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
       "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
@@ -62,6 +57,11 @@
       "pubdate": "Mon, 27 May 2024 21:00:00 +0200"
     },
     {
+      "title": "Störung 1&1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St%C3%B6rung%201%261",
+      "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
+    },
+    {
       "title": "Apotheke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apotheke",
       "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
@@ -70,6 +70,11 @@
       "title": "Gaza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gaza",
       "pubdate": "Mon, 27 May 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Teams",
+      "pubdate": "Mon, 27 May 2024 10:00:00 +0200"
     },
     {
       "title": "Zverev",
@@ -95,11 +100,6 @@
       "title": "Papua-Neuguinea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papua-Neuguinea",
       "pubdate": "Sun, 26 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "DFB-Pokal finale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20finale",
-      "pubdate": "Sat, 25 May 2024 01:00:00 +0200"
     }
   ]
 }
