@@ -1,1 +1,1 @@
-IEC,DA,Namibia vs Australia,Voting results,MK,Krispy kreme,Rafah,EFF,Pope Francis,Ballot paper,England vs Pakistan,What time does voting start,Novak Djokovic,Political parties,How to register to vote,Pacers vs Celtics,Richard Dreyfuss,Voting times,Saudi Pro League,Johnny Wactor
+IEC,DA,Election results,Voting results,Namibia vs Australia,MK,Mpox,Voting registration,Rafah,EFF,Pope Francis,England vs Pakistan,Malmo FF,Novak Djokovic,What time does voting start,ACDP,Pacers vs Celtics,Election registration,Richard Dreyfuss,Voting times

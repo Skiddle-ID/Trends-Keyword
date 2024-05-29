@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "29-05-2024 , 11:35:19",
+  "lastUpdate": "29-05-2024 , 12:50:22",
   "data": [
     {
-      "title": "Mavs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mavs",
+      "title": "Rangers vs Panthers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers%20vs%20Panthers",
       "pubdate": "Wed, 29 May 2024 00:00:00 -0400"
     },
     {
-      "title": "Panthers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panthers",
+      "title": "Timberwolves vs Mavericks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timberwolves%20vs%20Mavericks",
+      "pubdate": "Wed, 29 May 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Mavs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mavs",
       "pubdate": "Wed, 29 May 2024 00:00:00 -0400"
     },
     {
@@ -82,24 +87,19 @@
       "pubdate": "Tue, 28 May 2024 00:00:00 -0400"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
-      "pubdate": "Tue, 28 May 2024 16:00:00 -0400"
-    },
-    {
       "title": "Lexi Thompson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lexi%20Thompson",
       "pubdate": "Tue, 28 May 2024 17:00:00 -0400"
     },
     {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
+      "pubdate": "Tue, 28 May 2024 16:00:00 -0400"
+    },
+    {
       "title": "Jaylen Brown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jaylen%20Brown",
       "pubdate": "Tue, 28 May 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Games",
-      "pubdate": "Tue, 28 May 2024 01:00:00 -0400"
     }
   ]
 }

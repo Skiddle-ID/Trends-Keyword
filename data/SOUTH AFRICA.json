@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2024 , 11:35:27",
+  "lastUpdate": "29-05-2024 , 12:50:30",
   "data": [
     {
       "title": "IEC",
@@ -12,9 +12,9 @@
       "pubdate": "Wed, 29 May 2024 06:00:00 +0200"
     },
     {
-      "title": "Namibia vs Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Namibia%20vs%20Australia",
-      "pubdate": "Wed, 29 May 2024 07:00:00 +0200"
+      "title": "Election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Election%20results",
+      "pubdate": "Wed, 29 May 2024 10:00:00 +0200"
     },
     {
       "title": "Voting results",
@@ -22,14 +22,24 @@
       "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
     },
     {
+      "title": "Namibia vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Namibia%20vs%20Australia",
+      "pubdate": "Wed, 29 May 2024 07:00:00 +0200"
+    },
+    {
       "title": "MK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MK",
       "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
     },
     {
-      "title": "Krispy kreme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Krispy%20kreme",
+      "title": "Mpox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mpox",
       "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Voting registration",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Voting%20registration",
+      "pubdate": "Tue, 28 May 2024 06:00:00 +0200"
     },
     {
       "title": "Rafah",
@@ -47,19 +57,14 @@
       "pubdate": "Tue, 28 May 2024 16:00:00 +0200"
     },
     {
-      "title": "Ballot paper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ballot%20paper",
-      "pubdate": "Tue, 28 May 2024 23:00:00 +0200"
-    },
-    {
       "title": "England vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Pakistan",
       "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
     },
     {
-      "title": "What time does voting start",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#What%20time%20does%20voting%20start",
-      "pubdate": "Tue, 28 May 2024 19:00:00 +0200"
+      "title": "Malmo FF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Malmo%20FF",
+      "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
     },
     {
       "title": "Novak Djokovic",
@@ -67,19 +72,24 @@
       "pubdate": "Tue, 28 May 2024 22:00:00 +0200"
     },
     {
-      "title": "Political parties",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Political%20parties",
-      "pubdate": "Tue, 28 May 2024 22:00:00 +0200"
+      "title": "What time does voting start",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#What%20time%20does%20voting%20start",
+      "pubdate": "Tue, 28 May 2024 19:00:00 +0200"
     },
     {
-      "title": "How to register to vote",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#How%20to%20register%20to%20vote",
-      "pubdate": "Tue, 28 May 2024 06:00:00 +0200"
+      "title": "ACDP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#ACDP",
+      "pubdate": "Tue, 28 May 2024 23:00:00 +0200"
     },
     {
       "title": "Pacers vs Celtics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pacers%20vs%20Celtics",
       "pubdate": "Tue, 28 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Election registration",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Election%20registration",
+      "pubdate": "Tue, 28 May 2024 23:00:00 +0200"
     },
     {
       "title": "Richard Dreyfuss",
@@ -90,16 +100,6 @@
       "title": "Voting times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Voting%20times",
       "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Saudi Pro League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Saudi%20Pro%20League",
-      "pubdate": "Mon, 27 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Johnny Wactor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Johnny%20Wactor",
-      "pubdate": "Mon, 27 May 2024 09:00:00 +0200"
     }
   ]
 }

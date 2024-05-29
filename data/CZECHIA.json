@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2024 , 11:35:20",
+  "lastUpdate": "29-05-2024 , 12:50:23",
   "data": [
     {
       "title": "Helena Vondráčková",
@@ -15,6 +15,11 @@
       "title": "Radka Třeštíková",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radka%20T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
       "pubdate": "Wed, 29 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Robert Fico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Fico",
+      "pubdate": "Tue, 28 May 2024 15:00:00 +0200"
     },
     {
       "title": "Ivan Hlas",
@@ -84,7 +89,7 @@
     {
       "title": "Sedlak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sedlak",
-      "pubdate": "Mon, 27 May 2024 18:00:00 +0200"
+      "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
     },
     {
       "title": "Sparta",
@@ -95,11 +100,6 @@
       "title": "Necas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Necas",
       "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
-    },
-    {
-      "title": "David Tomášek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Tom%C3%A1%C5%A1ek",
-      "pubdate": "Mon, 27 May 2024 00:00:00 +0200"
     }
   ]
 }
