@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2024 , 22:35:48",
+  "lastUpdate": "29-05-2024 , 23:35:35",
   "data": [
     {
       "title": "Mjällby mot Häcken",
@@ -20,6 +20,11 @@
       "title": "Kongo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kongo",
       "pubdate": "Wed, 29 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Hayden Hopkins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hayden%20Hopkins",
+      "pubdate": "Wed, 29 May 2024 08:00:00 +0200"
     },
     {
       "title": "Fiorentina",
@@ -95,11 +100,6 @@
       "title": "Calliditas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Calliditas",
       "pubdate": "Tue, 28 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Degerfors IF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
-      "pubdate": "Tue, 28 May 2024 22:00:00 +0200"
     }
   ]
 }

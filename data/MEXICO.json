@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "29-05-2024 , 22:35:44",
+  "lastUpdate": "29-05-2024 , 23:35:31",
   "data": [
     {
       "title": "Clima CDMX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20CDMX",
       "pubdate": "Wed, 29 May 2024 14:00:00 -0600"
-    },
-    {
-      "title": "Olympiacos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Olympiacos",
-      "pubdate": "Wed, 29 May 2024 12:00:00 -0600"
     },
     {
       "title": "Hansi Flick",
@@ -37,14 +32,14 @@
       "pubdate": "Wed, 29 May 2024 14:00:00 -0600"
     },
     {
-      "title": "Lluvia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lluvia",
-      "pubdate": "Wed, 29 May 2024 06:00:00 -0600"
-    },
-    {
       "title": "El papa Francisco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20papa%20Francisco",
       "pubdate": "Wed, 29 May 2024 12:00:00 -0600"
+    },
+    {
+      "title": "Lluvia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lluvia",
+      "pubdate": "Wed, 29 May 2024 06:00:00 -0600"
     },
     {
       "title": "Vincent Kompany",
@@ -100,6 +95,11 @@
       "title": "Clima Guadalajara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Guadalajara",
       "pubdate": "Tue, 28 May 2024 21:00:00 -0600"
+    },
+    {
+      "title": "Cierre de campaña Claudia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cierre%20de%20campa%C3%B1a%20Claudia",
+      "pubdate": "Tue, 28 May 2024 17:00:00 -0600"
     }
   ]
 }
