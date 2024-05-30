@@ -1,1 +1,1 @@
-Rafah,Feira do Livro,Margarida Corceiro,30 seconds to mars,Corinthians,Éder Militão,Copa Libertadores,Corpo de Deus,Hansi Flick,Cláudio Ramos,Chave Euromilhões,Comboios,Vincent Kompany,Troye Sivan,Dayanne Bezerra,Porsche,Olivia Ortiz,Russia,Santana Castilho,Squad Busters
+WSL,Sao Paulo,Rafah,Feira do Livro,30 seconds to mars,Margarida Corceiro,30 de maio feriado,Flamengo,Santana Castilho,Corinthians,Éder Militão,Cláudio Ramos,Hansi Flick,Chave Euromilhões,Troye Sivan,Ponte de Lima,Naomi Osaka,Vincent Kompany,Plano emergência saude,Porsche

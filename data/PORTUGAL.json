@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "29-05-2024 , 23:35:33",
+  "lastUpdate": "30-05-2024 , 01:38:55",
   "data": [
+    {
+      "title": "WSL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
+      "pubdate": "Thu, 30 May 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Sao Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
+      "pubdate": "Thu, 30 May 2024 01:00:00 +0100"
+    },
     {
       "title": "Rafah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafah",
@@ -12,14 +22,29 @@
       "pubdate": "Wed, 29 May 2024 21:00:00 +0100"
     },
     {
+      "title": "30 seconds to mars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#30%20seconds%20to%20mars",
+      "pubdate": "Wed, 29 May 2024 15:00:00 +0100"
+    },
+    {
       "title": "Margarida Corceiro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Corceiro",
       "pubdate": "Wed, 29 May 2024 10:00:00 +0100"
     },
     {
-      "title": "30 seconds to mars",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#30%20seconds%20to%20mars",
-      "pubdate": "Wed, 29 May 2024 15:00:00 +0100"
+      "title": "30 de maio feriado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#30%20de%20maio%20feriado",
+      "pubdate": "Wed, 29 May 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Flamengo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+      "pubdate": "Wed, 29 May 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Santana Castilho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santana%20Castilho",
+      "pubdate": "Wed, 29 May 2024 22:00:00 +0100"
     },
     {
       "title": "Corinthians",
@@ -32,14 +57,9 @@
       "pubdate": "Wed, 29 May 2024 17:00:00 +0100"
     },
     {
-      "title": "Copa Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Copa%20Libertadores",
-      "pubdate": "Wed, 29 May 2024 02:00:00 +0100"
-    },
-    {
-      "title": "Corpo de Deus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corpo%20de%20Deus",
-      "pubdate": "Wed, 29 May 2024 17:00:00 +0100"
+      "title": "Cláudio Ramos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udio%20Ramos",
+      "pubdate": "Wed, 29 May 2024 15:00:00 +0100"
     },
     {
       "title": "Hansi Flick",
@@ -47,24 +67,9 @@
       "pubdate": "Wed, 29 May 2024 17:00:00 +0100"
     },
     {
-      "title": "Cláudio Ramos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udio%20Ramos",
-      "pubdate": "Wed, 29 May 2024 15:00:00 +0100"
-    },
-    {
       "title": "Chave Euromilhões",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chave%20Euromilh%C3%B5es",
       "pubdate": "Wed, 29 May 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Comboios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Comboios",
-      "pubdate": "Wed, 29 May 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Vincent Kompany",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vincent%20Kompany",
-      "pubdate": "Wed, 29 May 2024 18:00:00 +0100"
     },
     {
       "title": "Troye Sivan",
@@ -72,34 +77,29 @@
       "pubdate": "Wed, 29 May 2024 10:00:00 +0100"
     },
     {
-      "title": "Dayanne Bezerra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dayanne%20Bezerra",
-      "pubdate": "Wed, 29 May 2024 02:00:00 +0100"
+      "title": "Ponte de Lima",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ponte%20de%20Lima",
+      "pubdate": "Wed, 29 May 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Naomi Osaka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Naomi%20Osaka",
+      "pubdate": "Wed, 29 May 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Vincent Kompany",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vincent%20Kompany",
+      "pubdate": "Wed, 29 May 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Plano emergência saude",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Plano%20emerg%C3%AAncia%20saude",
+      "pubdate": "Wed, 29 May 2024 20:00:00 +0100"
     },
     {
       "title": "Porsche",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porsche",
       "pubdate": "Wed, 29 May 2024 02:00:00 +0100"
-    },
-    {
-      "title": "Olivia Ortiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Olivia%20Ortiz",
-      "pubdate": "Wed, 29 May 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Russia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Russia",
-      "pubdate": "Wed, 29 May 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Santana Castilho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santana%20Castilho",
-      "pubdate": "Wed, 29 May 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Squad Busters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Squad%20Busters",
-      "pubdate": "Wed, 29 May 2024 14:00:00 +0100"
     }
   ]
 }
