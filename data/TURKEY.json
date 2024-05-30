@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2024 , 11:36:03",
+  "lastUpdate": "30-05-2024 , 12:50:17",
   "data": [
     {
       "title": "Arda Güler",
@@ -12,14 +12,34 @@
       "pubdate": "Thu, 30 May 2024 06:00:00 +0300"
     },
     {
+      "title": "Ahmet Uğurlu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ahmet%20U%C4%9Furlu",
+      "pubdate": "Thu, 30 May 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Milli Takım",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Milli%20Tak%C4%B1m",
+      "pubdate": "Thu, 30 May 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Sakaryaspor - Bodrumspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sakaryaspor%20-%20Bodrumspor",
+      "pubdate": "Thu, 30 May 2024 11:00:00 +0300"
+    },
+    {
+      "title": "FMF atağı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#FMF%20ata%C4%9F%C4%B1",
+      "pubdate": "Thu, 30 May 2024 13:00:00 +0300"
+    },
+    {
       "title": "TRT1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT1",
       "pubdate": "Thu, 30 May 2024 00:00:00 +0300"
     },
     {
-      "title": "Sakaryaspor Bodrumspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sakaryaspor%20Bodrumspor",
-      "pubdate": "Thu, 30 May 2024 11:00:00 +0300"
+      "title": "Şebnem Kısaparmak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eebnem%20K%C4%B1saparmak",
+      "pubdate": "Thu, 30 May 2024 14:00:00 +0300"
     },
     {
       "title": "Maarif Vakfı",
@@ -35,6 +55,11 @@
       "title": "Olympiakos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Olympiakos",
       "pubdate": "Wed, 29 May 2024 03:00:00 +0300"
+    },
+    {
+      "title": "Emlak Konut",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emlak%20Konut",
+      "pubdate": "Wed, 29 May 2024 12:00:00 +0300"
     },
     {
       "title": "Atatürk",
@@ -57,11 +82,6 @@
       "pubdate": "Wed, 29 May 2024 23:00:00 +0300"
     },
     {
-      "title": "Emlak Konut kredisi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emlak%20Konut%20kredisi",
-      "pubdate": "Wed, 29 May 2024 18:00:00 +0300"
-    },
-    {
       "title": "Kadir İnanır",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kadir%20%C4%B0nan%C4%B1r",
       "pubdate": "Wed, 29 May 2024 19:00:00 +0300"
@@ -80,26 +100,6 @@
       "title": "Hansi Flick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hansi%20Flick",
       "pubdate": "Wed, 29 May 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Anadolu Efes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Efes",
-      "pubdate": "Wed, 29 May 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Altınkılıç halka arz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alt%C4%B1nk%C4%B1l%C4%B1%C3%A7%20halka%20arz",
-      "pubdate": "Wed, 29 May 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Nikki Haley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nikki%20Haley",
-      "pubdate": "Wed, 29 May 2024 00:00:00 +0300"
-    },
-    {
-      "title": "İlkay Gündoğan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0lkay%20G%C3%BCndo%C4%9Fan",
-      "pubdate": "Wed, 29 May 2024 15:00:00 +0300"
     }
   ]
 }

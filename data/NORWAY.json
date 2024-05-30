@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2024 , 11:35:58",
+  "lastUpdate": "30-05-2024 , 12:50:14",
   "data": [
     {
       "title": "Terje Formoe",
@@ -10,6 +10,16 @@
       "title": "Hassie Harrison",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hassie%20Harrison",
       "pubdate": "Thu, 30 May 2024 09:00:00 +0200"
+    },
+    {
+      "title": "India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#India",
+      "pubdate": "Thu, 30 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Arild Linneberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arild%20Linneberg",
+      "pubdate": "Thu, 30 May 2024 14:00:00 +0200"
     },
     {
       "title": "Eliteserien",
@@ -37,19 +47,19 @@
       "pubdate": "Wed, 29 May 2024 22:00:00 +0200"
     },
     {
-      "title": "Island",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
-      "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
-    },
-    {
       "title": "Vera Wang",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vera%20Wang",
       "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
     },
     {
-      "title": "FFK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FFK",
+      "title": "Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Island",
       "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Kaape",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaape",
+      "pubdate": "Wed, 29 May 2024 00:00:00 +0200"
     },
     {
       "title": "Brann Kristiansund",
@@ -67,9 +77,9 @@
       "pubdate": "Wed, 29 May 2024 14:00:00 +0200"
     },
     {
-      "title": "Til",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Til",
-      "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+      "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
     },
     {
       "title": "Vincent Kompany",
@@ -77,14 +87,9 @@
       "pubdate": "Wed, 29 May 2024 22:00:00 +0200"
     },
     {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
-      "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Enova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Enova",
-      "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
+      "title": "Til",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Til",
+      "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
     },
     {
       "title": "Magnus Carlsen",
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
     },
     {
-      "title": "Randaberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Randaberg",
-      "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Tromsø il",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Troms%C3%B8%20il",
-      "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
+      "title": "Enova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Enova",
+      "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
     }
   ]
 }
