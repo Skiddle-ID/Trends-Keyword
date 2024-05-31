@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "30-05-2024 , 23:36:03",
+  "lastUpdate": "31-05-2024 , 01:40:17",
   "data": [
     {
       "title": "Donald Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
       "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
-    },
-    {
-      "title": "News24",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News24",
-      "pubdate": "Thu, 30 May 2024 09:00:00 +0200"
     },
     {
       "title": "Weather Cape Town",
@@ -27,14 +22,14 @@
       "pubdate": "Thu, 30 May 2024 08:00:00 +0200"
     },
     {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
-      "pubdate": "Thu, 30 May 2024 05:00:00 +0200"
-    },
-    {
       "title": "Pakistan vs England",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pakistan%20vs%20England",
       "pubdate": "Thu, 30 May 2024 20:00:00 +0200"
+    },
+    {
+      "title": "MLS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
+      "pubdate": "Thu, 30 May 2024 05:00:00 +0200"
     },
     {
       "title": "Latest news",
@@ -45,6 +40,11 @@
       "title": "PA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PA",
       "pubdate": "Thu, 30 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Nando's",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nando's",
+      "pubdate": "Thu, 30 May 2024 05:00:00 +0200"
     },
     {
       "title": "Western Cape",

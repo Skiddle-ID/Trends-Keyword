@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "30-05-2024 , 23:35:56",
+  "lastUpdate": "31-05-2024 , 01:40:09",
   "data": [
     {
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
       "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
+    },
+    {
+      "title": "State of Play",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#State%20of%20Play",
+      "pubdate": "Fri, 31 May 2024 01:00:00 +0200"
     },
     {
       "title": "Róbert Fico",
@@ -32,14 +37,24 @@
       "pubdate": "Thu, 30 May 2024 17:00:00 +0200"
     },
     {
-      "title": "Alexandr Vondra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alexandr%20Vondra",
-      "pubdate": "Thu, 30 May 2024 22:00:00 +0200"
+      "title": "Volby do Evropského parlamentu 2024 kandidáti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20do%20Evropsk%C3%A9ho%20parlamentu%202024%20kandid%C3%A1ti",
+      "pubdate": "Thu, 30 May 2024 17:00:00 +0200"
     },
     {
       "title": "Jonathan Brandis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jonathan%20Brandis",
       "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Alexandr Vondra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alexandr%20Vondra",
+      "pubdate": "Thu, 30 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Petr Fiala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Fiala",
+      "pubdate": "Thu, 30 May 2024 08:00:00 +0200"
     },
     {
       "title": "Zac Efron",
@@ -85,21 +100,6 @@
       "title": "Hansi Flick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hansi%20Flick",
       "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Šárka Krausová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0%C3%A1rka%20Krausov%C3%A1",
-      "pubdate": "Wed, 29 May 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Vera Wang",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vera%20Wang",
-      "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Stávka soudů",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#St%C3%A1vka%20soud%C5%AF",
-      "pubdate": "Wed, 29 May 2024 16:00:00 +0200"
     }
   ]
 }

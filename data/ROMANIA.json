@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2024 , 23:36:02",
+  "lastUpdate": "31-05-2024 , 01:40:16",
   "data": [
     {
       "title": "Trump",
@@ -7,14 +7,14 @@
       "pubdate": "Fri, 31 May 2024 01:00:00 +0300"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Donald%20Trump",
-      "pubdate": "Fri, 31 May 2024 01:00:00 +0300"
-    },
-    {
       "title": "Svitolina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Svitolina",
       "pubdate": "Fri, 31 May 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Ana Bogdan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
+      "pubdate": "Thu, 30 May 2024 07:00:00 +0300"
     },
     {
       "title": "Adela",
@@ -32,16 +32,6 @@
       "pubdate": "Thu, 30 May 2024 09:00:00 +0300"
     },
     {
-      "title": "Irina Begu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irina%20Begu",
-      "pubdate": "Thu, 30 May 2024 07:00:00 +0300"
-    },
-    {
-      "title": "Razvan Lucescu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Razvan%20Lucescu",
-      "pubdate": "Thu, 30 May 2024 10:00:00 +0300"
-    },
-    {
       "title": "Mitrita",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mitrita",
       "pubdate": "Thu, 30 May 2024 12:00:00 +0300"
@@ -55,6 +45,11 @@
       "title": "India",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#India",
       "pubdate": "Thu, 30 May 2024 18:00:00 +0300"
+    },
+    {
+      "title": "30 mai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#30%20mai",
+      "pubdate": "Thu, 30 May 2024 12:00:00 +0300"
     },
     {
       "title": "Damian draghici",
@@ -87,11 +82,6 @@
       "pubdate": "Wed, 29 May 2024 21:00:00 +0300"
     },
     {
-      "title": "RXF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#RXF",
-      "pubdate": "Wed, 29 May 2024 22:00:00 +0300"
-    },
-    {
       "title": "Naomi Osaka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Naomi%20Osaka",
       "pubdate": "Wed, 29 May 2024 20:00:00 +0300"
@@ -100,6 +90,16 @@
       "title": "Survivor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Survivor",
       "pubdate": "Wed, 29 May 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Zilele Clujului 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zilele%20Clujului%202024",
+      "pubdate": "Wed, 29 May 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Ozempic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ozempic",
+      "pubdate": "Wed, 29 May 2024 14:00:00 +0300"
     }
   ]
 }
