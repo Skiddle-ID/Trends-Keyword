@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 23:35:06",
+  "lastUpdate": "01-06-2024 , 01:43:17",
   "data": [
     {
       "title": "Western Bulldogs",
@@ -12,19 +12,14 @@
       "pubdate": "Sat, 01 Jun 2024 01:00:00 +1000"
     },
     {
-      "title": "Al Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al%20Nassr",
+      "title": "Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al-Nassr",
       "pubdate": "Sat, 01 Jun 2024 08:00:00 +1000"
     },
     {
       "title": "Brad Pitt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brad%20Pitt",
       "pubdate": "Sat, 01 Jun 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Waratahs vs Reds",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Waratahs%20vs%20Reds",
-      "pubdate": "Sat, 01 Jun 2024 07:00:00 +1000"
     },
     {
       "title": "Glossier",
@@ -37,6 +32,11 @@
       "pubdate": "Sat, 01 Jun 2024 01:00:00 +1000"
     },
     {
+      "title": "Pride Month",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pride%20Month",
+      "pubdate": "Sat, 01 Jun 2024 10:00:00 +1000"
+    },
+    {
       "title": "Monster Hunter Wilds",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Monster%20Hunter%20Wilds",
       "pubdate": "Sat, 01 Jun 2024 02:00:00 +1000"
@@ -45,11 +45,6 @@
       "title": "Matildas vs China",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas%20vs%20China",
       "pubdate": "Fri, 31 May 2024 12:00:00 +1000"
-    },
-    {
-      "title": "West Indies vs Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies%20vs%20Australia",
-      "pubdate": "Fri, 31 May 2024 09:00:00 +1000"
     },
     {
       "title": "Luka Doncic",
@@ -92,14 +87,19 @@
       "pubdate": "Fri, 31 May 2024 10:00:00 +1000"
     },
     {
+      "title": "Sam Darcy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Darcy",
+      "pubdate": "Fri, 31 May 2024 22:00:00 +1000"
+    },
+    {
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Times",
       "pubdate": "Fri, 31 May 2024 19:00:00 +1000"
     },
     {
-      "title": "Sam Darcy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Darcy",
-      "pubdate": "Fri, 31 May 2024 22:00:00 +1000"
+      "title": "Perth Airport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Airport",
+      "pubdate": "Fri, 31 May 2024 17:00:00 +1000"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Eminem,Kyrie Irving,Whitney,CORPUS,Financial institution,Joe Biden,NBC News,Joe Manchin,Aaron Gordon,New York Rangers,Melania Trump,Shoes,Karl-Anthony Towns,Monster Hunter Wilds,Mandy Moore,Trump,Dallas Mavericks,CNN,Nick Pasqual,Dollar Tree 99 Cents Only stores
+Eminem,Kyrie Irving,Whitney,CORPUS,News Today,Champions League final,Michelle Obama,Joe Manchin,Joe Biden,NBC News,Mexico vs Bolivia,New York Rangers,Monster Hunter Wilds,Mandy Moore,JLo,Michelle Troconis,Trump,Dallas Mavericks,CNN,Nick Pasqual

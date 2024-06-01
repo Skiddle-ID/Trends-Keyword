@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 23:35:14",
+  "lastUpdate": "01-06-2024 , 01:43:25",
   "data": [
     {
       "title": "Sława Przybylska",
@@ -7,8 +7,13 @@
       "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Dzień Dziecka 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Dziecka%202024",
+      "title": "Industriada 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Industriada%202024",
+      "pubdate": "Sat, 01 Jun 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Elżbieta Zapendowska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#El%C5%BCbieta%20Zapendowska",
       "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
     },
     {
@@ -25,6 +30,11 @@
       "title": "GROMDA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GROMDA",
       "pubdate": "Fri, 31 May 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Iga swiatek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iga%20swiatek",
+      "pubdate": "Fri, 31 May 2024 19:00:00 +0200"
     },
     {
       "title": "Tatiana Okupnik",
@@ -57,34 +67,14 @@
       "pubdate": "Fri, 31 May 2024 11:00:00 +0200"
     },
     {
-      "title": "Jens Stoltenberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jens%20Stoltenberg",
-      "pubdate": "Fri, 31 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Finał Ligi Mistrzów 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fina%C5%82%20Ligi%20Mistrz%C3%B3w%202024",
-      "pubdate": "Fri, 31 May 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Skaldowie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skaldowie",
+      "title": "Monika Lewczuk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monika%20Lewczuk",
       "pubdate": "Fri, 31 May 2024 21:00:00 +0200"
     },
     {
-      "title": "Życzenia na Dzień Dziecka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BByczenia%20na%20Dzie%C5%84%20Dziecka",
-      "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alcaraz",
-      "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Marcin Sójka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20S%C3%B3jka",
-      "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
+      "title": "Jens Stoltenberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jens%20Stoltenberg",
+      "pubdate": "Fri, 31 May 2024 15:00:00 +0200"
     },
     {
       "title": "Dzien Dziecka 2024",
@@ -92,14 +82,24 @@
       "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
     },
     {
-      "title": "UFC 302",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC%20302",
-      "pubdate": "Fri, 31 May 2024 08:00:00 +0200"
+      "title": "Finał Ligi Mistrzów 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fina%C5%82%20Ligi%20Mistrz%C3%B3w%202024",
+      "pubdate": "Fri, 31 May 2024 15:00:00 +0200"
     },
     {
-      "title": "Przylasek Rusiecki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przylasek%20Rusiecki",
-      "pubdate": "Fri, 31 May 2024 07:00:00 +0200"
+      "title": "Życzenia na Dzień Dziecka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BByczenia%20na%20Dzie%C5%84%20Dziecka",
+      "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Skaldowie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skaldowie",
+      "pubdate": "Fri, 31 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alcaraz",
+      "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 23:35:09",
+  "lastUpdate": "01-06-2024 , 01:43:20",
   "data": [
     {
       "title": "Champions League",
@@ -40,6 +40,11 @@
       "title": "Steven Seagal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Steven%20Seagal",
       "pubdate": "Fri, 31 May 2024 06:00:00 +0300"
+    },
+    {
+      "title": "Fox News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fox%20News",
+      "pubdate": "Fri, 31 May 2024 17:00:00 +0300"
     },
     {
       "title": "Ticketmaster",
@@ -95,11 +100,6 @@
       "title": "Rafah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rafah",
       "pubdate": "Tue, 28 May 2024 09:00:00 +0300"
-    },
-    {
-      "title": "George Lucas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Lucas",
-      "pubdate": "Tue, 28 May 2024 01:00:00 +0300"
     }
   ]
 }

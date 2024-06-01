@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 23:35:08",
+  "lastUpdate": "01-06-2024 , 01:43:19",
   "data": [
     {
       "title": "Dara Rolins",
@@ -22,9 +22,19 @@
       "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
     },
     {
-      "title": "Boleslav – Hradec Králové",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Hradec%20Kr%C3%A1lov%C3%A9",
-      "pubdate": "Fri, 31 May 2024 18:00:00 +0200"
+      "title": "Ruza pre nevestu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ruza%20pre%20nevestu",
+      "pubdate": "Fri, 31 May 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Klejicha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Klejicha",
+      "pubdate": "Fri, 31 May 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Zlin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlin",
+      "pubdate": "Fri, 31 May 2024 20:00:00 +0200"
     },
     {
       "title": "Vlasta Zahrádka",
@@ -32,19 +42,9 @@
       "pubdate": "Fri, 31 May 2024 09:00:00 +0200"
     },
     {
-      "title": "Ruza pre nevestu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ruza%20pre%20nevestu",
-      "pubdate": "Fri, 31 May 2024 02:00:00 +0200"
-    },
-    {
       "title": "Steven Seagal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steven%20Seagal",
       "pubdate": "Fri, 31 May 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Aviatická pouť",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aviatick%C3%A1%20pou%C5%A5",
-      "pubdate": "Fri, 31 May 2024 19:00:00 +0200"
     },
     {
       "title": "Clint Eastwood",
@@ -57,6 +57,11 @@
       "pubdate": "Fri, 31 May 2024 17:00:00 +0200"
     },
     {
+      "title": "Den dětí 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Den%20d%C4%9Bt%C3%AD%202024",
+      "pubdate": "Fri, 31 May 2024 21:00:00 +0200"
+    },
+    {
       "title": "ABBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ABBA",
       "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
@@ -65,11 +70,6 @@
       "title": "Charles Dance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Charles%20Dance",
       "pubdate": "Fri, 31 May 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Zlin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlin",
-      "pubdate": "Fri, 31 May 2024 20:00:00 +0200"
     },
     {
       "title": "Vladimír Šmeral",
@@ -87,14 +87,14 @@
       "pubdate": "Fri, 31 May 2024 10:00:00 +0200"
     },
     {
-      "title": "Elvis Presley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elvis%20Presley",
-      "pubdate": "Fri, 31 May 2024 02:00:00 +0200"
-    },
-    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
       "pubdate": "Fri, 31 May 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Elvis Presley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elvis%20Presley",
+      "pubdate": "Fri, 31 May 2024 02:00:00 +0200"
     },
     {
       "title": "Důchodová reforma",
