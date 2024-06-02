@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 16:36:53",
+  "lastUpdate": "02-06-2024 , 17:34:49",
   "data": [
     {
       "title": "Inter Miami vs St. Louis",
@@ -22,9 +22,19 @@
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mbappe",
+      "pubdate": "Sun, 02 Jun 2024 10:00:00 +0200"
+    },
+    {
       "title": "Toni Kroos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Toni%20Kroos",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "T20 World Cup 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#T20%20World%20Cup%202024",
+      "pubdate": "Sun, 02 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Wembley Stadium",
@@ -37,24 +47,9 @@
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Vinicius Junior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vinicius%20Junior",
-      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mbappe",
-      "pubdate": "Sun, 02 Jun 2024 15:00:00 +0200"
-    },
-    {
       "title": "Cricket World Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
       "pubdate": "Sun, 02 Jun 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Jose Mourinho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jose%20Mourinho",
-      "pubdate": "Sun, 02 Jun 2024 01:00:00 +0200"
     },
     {
       "title": "Deontay Wilder",
@@ -62,9 +57,9 @@
       "pubdate": "Sun, 02 Jun 2024 10:00:00 +0200"
     },
     {
-      "title": "Papua New Guinea vs West Indies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Papua%20New%20Guinea%20vs%20West%20Indies",
-      "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
+      "title": "Jose Mourinho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jose%20Mourinho",
+      "pubdate": "Sun, 02 Jun 2024 01:00:00 +0200"
     },
     {
       "title": "Indonesia vs Tanzania",
@@ -92,14 +87,19 @@
       "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
     },
     {
+      "title": "Solar eclipse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Solar%20eclipse",
+      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+    },
+    {
       "title": "Jude Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jude%20Bellingham",
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Solar eclipse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Solar%20eclipse",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+      "title": "Francis Petersen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Francis%20Petersen",
+      "pubdate": "Sat, 01 Jun 2024 09:00:00 +0200"
     }
   ]
 }

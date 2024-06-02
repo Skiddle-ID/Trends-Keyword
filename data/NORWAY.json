@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 16:36:51",
+  "lastUpdate": "02-06-2024 , 17:34:47",
   "data": [
     {
       "title": "Casper Ruud",
@@ -7,13 +7,18 @@
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Andebu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andebu",
-      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+      "title": "Bodø/Glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "Ingrid Vik Lysne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Vik%20Lysne",
+      "title": "TENNIS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TENNIS",
+      "pubdate": "Sun, 02 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Gokart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gokart",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
@@ -22,19 +27,19 @@
       "pubdate": "Sun, 02 Jun 2024 14:00:00 +0200"
     },
     {
-      "title": "Vinicius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vinicius",
-      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+      "title": "Nøklevann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#N%C3%B8klevann",
+      "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Molde Viking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20Viking",
+      "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "TBE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TBE",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nøklevann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#N%C3%B8klevann",
-      "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "Real Madrid",
@@ -67,6 +72,11 @@
       "pubdate": "Sat, 01 Jun 2024 23:00:00 +0200"
     },
     {
+      "title": "Champions League-finale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League-finale",
+      "pubdate": "Sat, 01 Jun 2024 12:00:00 +0200"
+    },
+    {
       "title": "Lyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
       "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 01 Jun 2024 01:00:00 +0200"
     },
     {
-      "title": "Wembley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wembley",
-      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0200"
-    },
-    {
       "title": "Stockholm Marathon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stockholm%20Marathon",
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "HamKam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-      "pubdate": "Sat, 01 Jun 2024 19:00:00 +0200"
     }
   ]
 }

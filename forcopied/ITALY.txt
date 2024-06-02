@@ -1,1 +1,1 @@
-Gigi D'Alessio,Patrizia Caselli,Atalanta-Fiorentina,Rosignano,Venezia-Cremonese,Nino D'Angelo,Claudio Baglioni,Amadeus,Zidane,UFC,Nacho,Vicenza-Avellino,Portofino,Valeria Golino,Maria Grazia Cucinotta,Giorgia,Paolo Bonolis,Panucci,Joe Roberts,Frecce Tricolori
+Gigi D'Alessio,Atalanta-Fiorentina,Rosignano,Patrizia Caselli,Ornella Muti,Mbappe,Corpus Domini,Venezia-Cremonese,Claudio Baglioni,Nino D'Angelo,Mariann Barrena McClay,Amadeus,Roby Facchinetti,Zidane,Terence Hill,UFC,Vicenza-Avellino,Nacho,Maria Grazia Cucinotta,Valeria Golino
