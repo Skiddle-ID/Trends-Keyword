@@ -1,29 +1,24 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:07",
+  "lastUpdate": "02-06-2024 , 01:43:36",
   "data": [
-    {
-      "title": "Laskowik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Laskowik",
-      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
-    },
     {
       "title": "Kryszak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kryszak",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Jerzy Kryszak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerzy%20Kryszak",
+      "title": "Zamachowski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamachowski",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Djokovic",
+      "pubdate": "Sun, 02 Jun 2024 01:00:00 +0200"
     },
     {
       "title": "Marilyn Monroe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marilyn%20Monroe",
-      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Ronaldinho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ronaldinho",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
@@ -32,9 +27,19 @@
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
+      "title": "Ronaldinho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ronaldinho",
+      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+    },
+    {
       "title": "Vinicius júnior",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vinicius%20j%C3%BAnior",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Sława Przybylska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awa%20Przybylska",
+      "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Beata Kozidrak",
@@ -47,44 +52,9 @@
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Niemen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niemen",
-      "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "KKS Kalisz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KKS%20Kalisz",
-      "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Carvajal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Carvajal",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sabalenka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
-      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Bellingham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bellingham",
+      "title": "Kasia Kowalska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kasia%20Kowalska",
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Polsat Box Go",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polsat%20Box%20Go",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BVB",
-      "pubdate": "Sat, 01 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Lewandowski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewandowski",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Gawliński",
@@ -92,14 +62,44 @@
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Julia Żugaj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20%C5%BBugaj",
-      "pubdate": "Sat, 01 Jun 2024 10:00:00 +0200"
+      "title": "Alicja Majewska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alicja%20Majewska",
+      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "KKS Kalisz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KKS%20Kalisz",
+      "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Tomasz Lipiński",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomasz%20Lipi%C5%84ski",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Carvajal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Carvajal",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Bellingham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bellingham",
+      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
+      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Norbert Wronka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Norbert%20Wronka",
-      "pubdate": "Sat, 01 Jun 2024 02:00:00 +0200"
+      "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "BVB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BVB",
+      "pubdate": "Sat, 01 Jun 2024 12:00:00 +0200"
     }
   ]
 }

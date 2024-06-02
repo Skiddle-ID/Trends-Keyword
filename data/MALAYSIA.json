@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:05",
+  "lastUpdate": "02-06-2024 , 01:43:34",
   "data": [
     {
       "title": "Jude Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jude%20Bellingham",
       "pubdate": "Sun, 02 Jun 2024 04:00:00 +0800"
+    },
+    {
+      "title": "UCL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
+      "pubdate": "Sat, 01 Jun 2024 08:00:00 +0800"
     },
     {
       "title": "India vs Bangladesh",
@@ -27,11 +32,6 @@
       "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
     },
     {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA",
-      "pubdate": "Sat, 01 Jun 2024 09:00:00 +0800"
-    },
-    {
       "title": "Godzilla Minus One",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Godzilla%20Minus%20One",
       "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
@@ -42,9 +42,9 @@
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0800"
     },
     {
-      "title": "Great",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Great",
-      "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
+      "title": "Air India flight",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Air%20India%20flight",
+      "pubdate": "Sat, 01 Jun 2024 10:00:00 +0800"
     },
     {
       "title": "Tosin Adarabioyo",
@@ -52,13 +52,18 @@
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0800"
     },
     {
+      "title": "Great",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Great",
+      "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
+    },
+    {
       "title": "Maldives",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Maldives",
       "pubdate": "Sat, 01 Jun 2024 20:00:00 +0800"
     },
     {
-      "title": "UCL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
+      "title": "Dortmund vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dortmund%20vs%20Real%20Madrid",
       "pubdate": "Fri, 31 May 2024 22:00:00 +0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Dallas Mavericks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dallas%20Mavericks",
       "pubdate": "Fri, 31 May 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Cliff Umar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cliff%20Umar",
-      "pubdate": "Thu, 30 May 2024 15:00:00 +0800"
     }
   ]
 }

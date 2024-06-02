@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:02",
+  "lastUpdate": "02-06-2024 , 01:43:30",
   "data": [
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
+      "pubdate": "Sun, 02 Jun 2024 02:00:00 +0300"
+    },
     {
       "title": "Marco Reus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marco%20Reus",
@@ -17,14 +22,14 @@
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0300"
     },
     {
-      "title": "Kroos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kroos",
-      "pubdate": "Sun, 02 Jun 2024 01:00:00 +0300"
-    },
-    {
       "title": "Courtois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Courtois",
       "pubdate": "Sun, 02 Jun 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Messi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
+      "pubdate": "Sun, 02 Jun 2024 02:00:00 +0300"
     },
     {
       "title": "Champions League",
@@ -95,11 +100,6 @@
       "title": "James Bond",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#James%20Bond",
       "pubdate": "Sat, 01 Jun 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Alma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alma",
-      "pubdate": "Sat, 01 Jun 2024 20:00:00 +0300"
     }
   ]
 }

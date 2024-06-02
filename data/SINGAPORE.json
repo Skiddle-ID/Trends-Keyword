@@ -1,20 +1,35 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:08",
+  "lastUpdate": "02-06-2024 , 01:43:37",
   "data": [
     {
-      "title": "T20 World Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T20%20World%20Cup",
+      "title": "Jude Bellingham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jude%20Bellingham",
       "pubdate": "Sun, 02 Jun 2024 05:00:00 +0800"
     },
     {
-      "title": "IND vs BAN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IND%20vs%20BAN",
+      "title": "Cricket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
+      "pubdate": "Sun, 02 Jun 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Tosin Adarabioyo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tosin%20Adarabioyo",
+      "pubdate": "Sun, 02 Jun 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cristiano%20Ronaldo",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0800"
     },
     {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
       "pubdate": "Sat, 01 Jun 2024 02:00:00 +0800"
+    },
+    {
+      "title": "India vs Bangladesh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20Bangladesh",
+      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0800"
     },
     {
       "title": "UCL",
@@ -37,11 +52,6 @@
       "pubdate": "Sat, 01 Jun 2024 06:00:00 +0800"
     },
     {
-      "title": "Godzilla. Minus One",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Godzilla.%20Minus%20One",
-      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
-    },
-    {
       "title": "Zelensky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zelensky",
       "pubdate": "Sat, 01 Jun 2024 18:00:00 +0800"
@@ -60,11 +70,6 @@
       "title": "Jose Mourinho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jose%20Mourinho",
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Viktor Axelsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Viktor%20Axelsen",
-      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0800"
     },
     {
       "title": "Trump",
@@ -95,11 +100,6 @@
       "title": "Ticketmaster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
       "pubdate": "Wed, 29 May 2024 10:00:00 +0800"
-    },
-    {
-      "title": "Dallas Mavericks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dallas%20Mavericks",
-      "pubdate": "Wed, 29 May 2024 19:00:00 +0800"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:07",
+  "lastUpdate": "02-06-2024 , 01:43:35",
   "data": [
+    {
+      "title": "Meralco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Meralco",
+      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0800"
+    },
     {
       "title": "Joe Manchin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Joe%20Manchin",
@@ -17,9 +22,9 @@
       "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
     },
     {
-      "title": "EJ Obiena",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#EJ%20Obiena",
-      "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#UFC",
+      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
     },
     {
       "title": "Ferdinand Marcos",
@@ -27,18 +32,8 @@
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0800"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#UFC",
-      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Oh no monkey meme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Oh%20no%20monkey%20meme",
-      "pubdate": "Sat, 01 Jun 2024 11:00:00 +0800"
-    },
-    {
-      "title": "God of War Ragnarok PC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#God%20of%20War%20Ragnarok%20PC",
+      "title": "EJ Obiena",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#EJ%20Obiena",
       "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
     },
     {
@@ -52,14 +47,14 @@
       "pubdate": "Sat, 01 Jun 2024 03:00:00 +0800"
     },
     {
-      "title": "June",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#June",
-      "pubdate": "Sat, 01 Jun 2024 10:00:00 +0800"
-    },
-    {
       "title": "Godzilla Minus One",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Godzilla%20Minus%20One",
       "pubdate": "Sat, 01 Jun 2024 20:00:00 +0800"
+    },
+    {
+      "title": "June",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#June",
+      "pubdate": "Sat, 01 Jun 2024 10:00:00 +0800"
     },
     {
       "title": "Corpus Christi",
@@ -72,19 +67,19 @@
       "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
     },
     {
-      "title": "Dallas Mavericks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dallas%20Mavericks",
+      "title": "Dallas vs wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dallas%20vs%20wolves",
+      "pubdate": "Fri, 31 May 2024 12:00:00 +0800"
+    },
+    {
+      "title": "NBA Finals schedule",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20Finals%20schedule",
       "pubdate": "Fri, 31 May 2024 12:00:00 +0800"
     },
     {
       "title": "Pride Month",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pride%20Month",
       "pubdate": "Fri, 31 May 2024 20:00:00 +0800"
-    },
-    {
-      "title": "NBA Finals schedule",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20Finals%20schedule",
-      "pubdate": "Fri, 31 May 2024 12:00:00 +0800"
     },
     {
       "title": "Trump",
@@ -100,6 +95,11 @@
       "title": "Lymphoma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lymphoma",
       "pubdate": "Fri, 31 May 2024 20:00:00 +0800"
+    },
+    {
+      "title": "IU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#IU",
+      "pubdate": "Fri, 31 May 2024 14:00:00 +0800"
     }
   ]
 }

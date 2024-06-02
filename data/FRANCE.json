@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:02",
+  "lastUpdate": "02-06-2024 , 01:43:30",
   "data": [
     {
       "title": "Zidane",
@@ -42,6 +42,11 @@
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0200"
     },
     {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Medvedev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Medvedev",
       "pubdate": "Sat, 01 Jun 2024 16:00:00 +0200"
@@ -50,11 +55,6 @@
       "title": "Lenny Kravitz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lenny%20Kravitz",
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Ancelotti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ancelotti",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Marc Lavoine",
@@ -67,14 +67,19 @@
       "pubdate": "Sat, 01 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "Auger-Aliassime",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auger-Aliassime",
-      "pubdate": "Sat, 01 Jun 2024 14:00:00 +0200"
+      "title": "Camavinga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camavinga",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Jean-Luc Bideau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Luc%20Bideau",
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Auger-Aliassime",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auger-Aliassime",
+      "pubdate": "Sat, 01 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Flamme olympique Rennes",
@@ -95,11 +100,6 @@
       "title": "Franck Thilliez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Franck%20Thilliez",
       "pubdate": "Sat, 01 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Meurtres aux iles de lerins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meurtres%20aux%20iles%20de%20lerins",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-06-2024 , 23:36:08",
+  "lastUpdate": "02-06-2024 , 01:43:38",
   "data": [
     {
       "title": "Cristiano Ronaldo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cristiano%20Ronaldo",
       "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Sebastian Eriksson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sebastian%20Eriksson",
+      "pubdate": "Sun, 02 Jun 2024 02:00:00 +0200"
     },
     {
       "title": "Champions League-final",
@@ -22,24 +27,19 @@
       "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
     },
     {
+      "title": "Sirius mot Norrköping",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20mot%20Norrk%C3%B6ping",
+      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0200"
+    },
+    {
       "title": "Superettan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "TV4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TV4",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "Elfsborg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Sirius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0200"
+      "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "Bundesliga",
@@ -77,14 +77,14 @@
       "pubdate": "Fri, 31 May 2024 20:00:00 +0200"
     },
     {
-      "title": "ABBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ABBA",
-      "pubdate": "Fri, 31 May 2024 18:00:00 +0200"
-    },
-    {
       "title": "Victor Leksell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Victor%20Leksell",
       "pubdate": "Fri, 31 May 2024 12:00:00 +0200"
+    },
+    {
+      "title": "ABBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ABBA",
+      "pubdate": "Fri, 31 May 2024 18:00:00 +0200"
     },
     {
       "title": "Båstad",
