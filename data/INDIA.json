@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "02-06-2024 , 17:34:44",
+  "lastUpdate": "02-06-2024 , 18:36:22",
   "data": [
     {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
       "pubdate": "Sun, 02 Jun 2024 07:30:00 +0530"
+    },
+    {
+      "title": "Raveena Tandon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Raveena%20Tandon",
+      "pubdate": "Sun, 02 Jun 2024 14:30:00 +0530"
     },
     {
       "title": "Venkatesh Iyer",
@@ -14,7 +19,12 @@
     {
       "title": "Odisha Assembly Election 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Odisha%20Assembly%20Election%202024",
-      "pubdate": "Sun, 02 Jun 2024 08:30:00 +0530"
+      "pubdate": "Sun, 02 Jun 2024 00:30:00 +0530"
+    },
+    {
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mbappe",
+      "pubdate": "Sun, 02 Jun 2024 18:30:00 +0530"
     },
     {
       "title": "Kejriwal",
@@ -32,14 +42,14 @@
       "pubdate": "Sun, 02 Jun 2024 12:30:00 +0530"
     },
     {
-      "title": "West Bengal Exit Poll",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Bengal%20Exit%20Poll",
-      "pubdate": "Sun, 02 Jun 2024 09:30:00 +0530"
-    },
-    {
       "title": "Gautam Adani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Gautam%20Adani",
       "pubdate": "Sun, 02 Jun 2024 16:30:00 +0530"
+    },
+    {
+      "title": "West Bengal Exit Poll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#West%20Bengal%20Exit%20Poll",
+      "pubdate": "Sun, 02 Jun 2024 09:30:00 +0530"
     },
     {
       "title": "Delhi water crisis",
@@ -62,14 +72,14 @@
       "pubdate": "Sat, 01 Jun 2024 00:30:00 +0530"
     },
     {
+      "title": "WI vs PNG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WI%20vs%20PNG",
+      "pubdate": "Sat, 01 Jun 2024 19:30:00 +0530"
+    },
+    {
       "title": "Aaron Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Aaron%20Jones",
       "pubdate": "Sat, 01 Jun 2024 17:30:00 +0530"
-    },
-    {
-      "title": "Live Score",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Live%20Score",
-      "pubdate": "Sat, 01 Jun 2024 23:30:00 +0530"
     },
     {
       "title": "Election Results 2024",
@@ -79,7 +89,7 @@
     {
       "title": "NDA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NDA",
-      "pubdate": "Sat, 01 Jun 2024 19:30:00 +0530"
+      "pubdate": "Sat, 01 Jun 2024 20:30:00 +0530"
     },
     {
       "title": "UFC",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 01 Jun 2024 02:30:00 +0530"
     },
     {
-      "title": "KCET results 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#KCET%20results%202024",
-      "pubdate": "Sat, 01 Jun 2024 18:30:00 +0530"
-    },
-    {
-      "title": "AP Exit Polls",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AP%20Exit%20Polls",
-      "pubdate": "Sat, 01 Jun 2024 19:30:00 +0530"
-    },
-    {
-      "title": "Andhra Pradesh exit polls",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Andhra%20Pradesh%20exit%20polls",
-      "pubdate": "Sat, 01 Jun 2024 22:30:00 +0530"
+      "title": "Suryakumar Yadav",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Suryakumar%20Yadav",
+      "pubdate": "Sat, 01 Jun 2024 20:30:00 +0530"
     }
   ]
 }

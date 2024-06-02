@@ -1,1 +1,1 @@
-Gigi D'Alessio,Atalanta-Fiorentina,Rosignano,Patrizia Caselli,Ornella Muti,Mbappe,Corpus Domini,Venezia-Cremonese,Claudio Baglioni,Nino D'Angelo,Mariann Barrena McClay,Amadeus,Roby Facchinetti,Zidane,Terence Hill,UFC,Vicenza-Avellino,Nacho,Maria Grazia Cucinotta,Valeria Golino
+Atalanta-Fiorentina,Natisone,Silvia Tortora,Gigi D'Alessio,Rosignano,Ornella Muti,Patrizia Caselli,Mbappe,Corpus Domini,Venezia-Cremonese,Claudio Baglioni,Nino D'Angelo,Amadeus,Roby Facchinetti,Zidane,Terence Hill,Vicenza-Avellino,UFC,Portofino,Valeria Golino

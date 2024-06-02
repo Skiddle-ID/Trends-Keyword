@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-06-2024 , 17:34:47",
+  "lastUpdate": "02-06-2024 , 18:36:25",
   "data": [
+    {
+      "title": "Live Score",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Live%20Score",
+      "pubdate": "Sun, 02 Jun 2024 18:00:00 +0100"
+    },
     {
       "title": "Inter Miami vs St. Louis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Miami%20vs%20St.%20Louis",
@@ -82,9 +87,9 @@
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
     },
     {
-      "title": "Regional government",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Regional%20government",
-      "pubdate": "Sat, 01 Jun 2024 07:00:00 +0100"
+      "title": "Marco Reus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marco%20Reus",
+      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
     },
     {
       "title": "Sancho",
@@ -92,14 +97,9 @@
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0100"
     },
     {
-      "title": "Modric",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Modric",
-      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Germany Opportunity Card",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Germany%20Opportunity%20Card",
-      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0100"
+      "title": "Regional government",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Regional%20government",
+      "pubdate": "Sat, 01 Jun 2024 07:00:00 +0100"
     }
   ]
 }

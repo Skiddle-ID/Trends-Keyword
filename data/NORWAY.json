@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 17:34:47",
+  "lastUpdate": "02-06-2024 , 18:36:25",
   "data": [
     {
       "title": "Casper Ruud",
@@ -12,9 +12,9 @@
       "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "TENNIS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TENNIS",
-      "pubdate": "Sun, 02 Jun 2024 11:00:00 +0200"
+      "title": "Ruud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ruud",
+      "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Gokart",
@@ -57,11 +57,6 @@
       "pubdate": "Sat, 01 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "Toni Kroos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toni%20Kroos",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Real Madrid vs Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20vs%20Dortmund",
       "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
@@ -77,11 +72,6 @@
       "pubdate": "Sat, 01 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Lyn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
-      "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
-    },
-    {
       "title": "Brann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
       "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
@@ -95,6 +85,16 @@
       "title": "Gloriavale",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gloriavale",
       "pubdate": "Sat, 01 Jun 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Kroos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kroos",
+      "pubdate": "Sat, 01 Jun 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Bergen-Voss",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen-Voss",
+      "pubdate": "Sat, 01 Jun 2024 08:00:00 +0200"
     },
     {
       "title": "Stockholm Marathon",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 17:34:46",
+  "lastUpdate": "02-06-2024 , 18:36:25",
   "data": [
     {
       "title": "Jude Bellingham",
@@ -72,11 +72,6 @@
       "pubdate": "Sun, 02 Jun 2024 11:00:00 +1200"
     },
     {
-      "title": "ABBA members",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ABBA%20members",
-      "pubdate": "Sun, 02 Jun 2024 19:00:00 +1200"
-    },
-    {
       "title": "Earthquake nz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20nz",
       "pubdate": "Sun, 02 Jun 2024 19:00:00 +1200"
@@ -100,6 +95,11 @@
       "title": "SailGP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SailGP",
       "pubdate": "Sun, 02 Jun 2024 17:00:00 +1200"
+    },
+    {
+      "title": "NASCAR Xfinity",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NASCAR%20Xfinity",
+      "pubdate": "Sun, 02 Jun 2024 22:00:00 +1200"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "02-06-2024 , 17:34:49",
+  "lastUpdate": "02-06-2024 , 18:36:28",
   "data": [
+    {
+      "title": "陳聖平",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E8%81%96%E5%B9%B3",
+      "pubdate": "Mon, 03 Jun 2024 01:00:00 +0800"
+    },
+    {
+      "title": "NVIDIA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#NVIDIA",
+      "pubdate": "Sun, 02 Jun 2024 13:00:00 +0800"
+    },
     {
       "title": "蘇姿丰",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E5%A7%BF%E4%B8%B0",
@@ -10,11 +20,6 @@
       "title": "孫鵬",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E9%B5%AC",
       "pubdate": "Sun, 02 Jun 2024 12:00:00 +0800"
-    },
-    {
-      "title": "黃仁勳演講",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E4%BB%81%E5%8B%B3%E6%BC%94%E8%AC%9B",
-      "pubdate": "Sun, 02 Jun 2024 13:00:00 +0800"
     },
     {
       "title": "陳零九",
@@ -47,24 +52,19 @@
       "pubdate": "Sun, 02 Jun 2024 02:00:00 +0800"
     },
     {
-      "title": "黃昭凱",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E6%98%AD%E5%87%B1",
-      "pubdate": "Sun, 02 Jun 2024 12:00:00 +0800"
-    },
-    {
       "title": "靖國神社",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE",
       "pubdate": "Sun, 02 Jun 2024 15:00:00 +0800"
     },
     {
+      "title": "黃昭凱",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E6%98%AD%E5%87%B1",
+      "pubdate": "Sun, 02 Jun 2024 12:00:00 +0800"
+    },
+    {
       "title": "Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Djokovic",
       "pubdate": "Sun, 02 Jun 2024 16:00:00 +0800"
-    },
-    {
-      "title": "矢板明夫",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB",
-      "pubdate": "Sun, 02 Jun 2024 09:00:00 +0800"
     },
     {
       "title": "肯特",
@@ -77,6 +77,11 @@
       "pubdate": "Sat, 01 Jun 2024 07:00:00 +0800"
     },
     {
+      "title": "哥吉拉-1.0",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%93%A5%E5%90%89%E6%8B%89-1.0",
+      "pubdate": "Sat, 01 Jun 2024 09:00:00 +0800"
+    },
+    {
       "title": "歐冠",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AD%90%E5%86%A0",
       "pubdate": "Sat, 01 Jun 2024 09:00:00 +0800"
@@ -85,11 +90,6 @@
       "title": "梁見後",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A2%81%E8%A6%8B%E5%BE%8C",
       "pubdate": "Sat, 01 Jun 2024 19:00:00 +0800"
-    },
-    {
-      "title": "哥吉拉",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%93%A5%E5%90%89%E6%8B%89",
-      "pubdate": "Sat, 01 Jun 2024 13:00:00 +0800"
     },
     {
       "title": "LiSA",
