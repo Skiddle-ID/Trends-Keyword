@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 23:36:01",
+  "lastUpdate": "03-06-2024 , 01:41:48",
   "data": [
     {
       "title": "Colo Colo",
@@ -17,19 +17,34 @@
       "pubdate": "Sun, 02 Jun 2024 18:00:00 -0400"
     },
     {
-      "title": "ColoColo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ColoColo",
-      "pubdate": "Sun, 02 Jun 2024 18:00:00 -0400"
+      "title": "Ciclon Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ciclon%20Chile",
+      "pubdate": "Sun, 02 Jun 2024 19:00:00 -0400"
     },
     {
-      "title": "Antofagasta  Curicó Unido",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Antofagasta%20%20Curic%C3%B3%20Unido",
-      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0400"
+      "title": "River",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+      "pubdate": "Sun, 02 Jun 2024 20:00:00 -0400"
+    },
+    {
+      "title": "TNT Sports",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TNT%20Sports",
+      "pubdate": "Sun, 02 Jun 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Vasco da Gama  Flamengo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vasco%20da%20Gama%20%20Flamengo",
+      "pubdate": "Sun, 02 Jun 2024 17:00:00 -0400"
     },
     {
       "title": "Atalanta  Fiorentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atalanta%20%20Fiorentina",
       "pubdate": "Sun, 02 Jun 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Antofagasta  Curicó Unido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Antofagasta%20%20Curic%C3%B3%20Unido",
+      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0400"
     },
     {
       "title": "Pachuca",
@@ -42,6 +57,11 @@
       "pubdate": "Sun, 02 Jun 2024 07:00:00 -0400"
     },
     {
+      "title": "Talleres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Talleres",
+      "pubdate": "Sun, 02 Jun 2024 20:00:00 -0400"
+    },
+    {
       "title": "Vinicius Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vinicius%20Jr",
       "pubdate": "Sun, 02 Jun 2024 11:00:00 -0400"
@@ -50,6 +70,11 @@
       "title": "Tsitsipas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tsitsipas",
       "pubdate": "Sun, 02 Jun 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Audax Italiano  Palestino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano%20%20Palestino",
+      "pubdate": "Sat, 01 Jun 2024 20:00:00 -0400"
     },
     {
       "title": "Djokovic",
@@ -67,38 +92,13 @@
       "pubdate": "Sat, 01 Jun 2024 16:00:00 -0400"
     },
     {
-      "title": "Union Española",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-      "pubdate": "Sat, 01 Jun 2024 19:00:00 -0400"
-    },
-    {
       "title": "Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sinner",
       "pubdate": "Sat, 01 Jun 2024 00:00:00 -0400"
     },
     {
-      "title": "Palestino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 -0400"
-    },
-    {
-      "title": "Bellingham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bellingham",
-      "pubdate": "Sat, 01 Jun 2024 16:00:00 -0400"
-    },
-    {
-      "title": "Ancelotti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ancelotti",
-      "pubdate": "Sat, 01 Jun 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zverev",
-      "pubdate": "Sat, 01 Jun 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Wanderers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
+      "title": "Union Española",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
       "pubdate": "Sat, 01 Jun 2024 19:00:00 -0400"
     }
   ]

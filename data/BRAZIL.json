@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "02-06-2024 , 23:36:01",
+  "lastUpdate": "03-06-2024 , 01:41:47",
   "data": [
     {
-      "title": "Sao Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
-      "pubdate": "Sun, 02 Jun 2024 12:00:00 -0500"
+      "title": "São Paulo x Cruzeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Cruzeiro",
+      "pubdate": "Sun, 02 Jun 2024 09:00:00 -0500"
     },
     {
       "title": "Atlético-MG x Bahia",
@@ -22,13 +22,23 @@
       "pubdate": "Sun, 02 Jun 2024 12:00:00 -0500"
     },
     {
+      "title": "Fortaleza x Athletico-PR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Athletico-PR",
+      "pubdate": "Sun, 02 Jun 2024 15:00:00 -0500"
+    },
+    {
       "title": "Jogo do palmeiras",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20palmeiras",
       "pubdate": "Sun, 02 Jun 2024 06:00:00 -0500"
     },
     {
-      "title": "Fortaleza x Athletico-PR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Athletico-PR",
+      "title": "Spfc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Spfc",
+      "pubdate": "Sun, 02 Jun 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Palmeiras hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20hoje",
       "pubdate": "Sun, 02 Jun 2024 15:00:00 -0500"
     },
     {
@@ -37,44 +47,9 @@
       "pubdate": "Sun, 02 Jun 2024 11:00:00 -0500"
     },
     {
-      "title": "Chapecoense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
-      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Palmeiras hoje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20hoje",
-      "pubdate": "Sun, 02 Jun 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Spfc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Spfc",
-      "pubdate": "Sun, 02 Jun 2024 16:00:00 -0500"
-    },
-    {
       "title": "Mega-Sena 2731",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202731",
       "pubdate": "Sun, 02 Jun 2024 08:00:00 -0500"
-    },
-    {
-      "title": "São paulo futebol clube",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20paulo%20futebol%20clube",
-      "pubdate": "Sun, 02 Jun 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Jogo do galo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20galo",
-      "pubdate": "Sun, 02 Jun 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Oito Mulheres e Um Segredo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oito%20Mulheres%20e%20Um%20Segredo",
-      "pubdate": "Sun, 02 Jun 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Ponte Preta x CRB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20CRB",
-      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0500"
     },
     {
       "title": "Atlético paranaense",
@@ -82,19 +57,44 @@
       "pubdate": "Sun, 02 Jun 2024 12:00:00 -0500"
     },
     {
-      "title": "Parada Gay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Parada%20Gay",
-      "pubdate": "Sun, 02 Jun 2024 11:00:00 -0500"
+      "title": "Jogo do galo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20galo",
+      "pubdate": "Sun, 02 Jun 2024 13:00:00 -0500"
     },
     {
-      "title": "Flamengo ao vivo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20ao%20vivo",
+      "title": "Ponte Preta x CRB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20CRB",
+      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Chapecoense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
+      "pubdate": "Sun, 02 Jun 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Sao paulo hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20paulo%20hoje",
+      "pubdate": "Sun, 02 Jun 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Sociedade esportiva palmeiras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sociedade%20esportiva%20palmeiras",
+      "pubdate": "Sun, 02 Jun 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Avai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
       "pubdate": "Sun, 02 Jun 2024 16:00:00 -0500"
     },
     {
-      "title": "Placar do jogo do Flamengo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Placar%20do%20jogo%20do%20Flamengo",
-      "pubdate": "Sun, 02 Jun 2024 15:00:00 -0500"
+      "title": "River Plate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+      "pubdate": "Sun, 02 Jun 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Oito Mulheres e Um Segredo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oito%20Mulheres%20e%20Um%20Segredo",
+      "pubdate": "Sun, 02 Jun 2024 12:00:00 -0500"
     },
     {
       "title": "Moutet",

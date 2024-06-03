@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "02-06-2024 , 23:36:05",
+  "lastUpdate": "03-06-2024 , 01:41:50",
   "data": [
-    {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sinner",
-      "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
-    },
     {
       "title": "Rupert Murdoch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rupert%20Murdoch",
       "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Next Top Model Hungary",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Next%20Top%20Model%20Hungary",
-      "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sinner",
+      "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Mbappe",
@@ -89,17 +84,22 @@
     {
       "title": "Dortmund–real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund%E2%80%93real%20Madrid",
-      "pubdate": "Sat, 01 Jun 2024 07:00:00 +0200"
-    },
-    {
-      "title": "BL-döntő",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL-d%C3%B6nt%C5%91",
       "pubdate": "Sat, 01 Jun 2024 09:00:00 +0200"
     },
     {
-      "title": "M4 Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4%20Sport",
-      "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+      "title": "Kézilabda BL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda%20BL",
+      "pubdate": "Sat, 01 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Toni Kroos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Toni%20Kroos",
+      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Hungária-koncert",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hung%C3%A1ria-koncert",
+      "pubdate": "Sat, 01 Jun 2024 10:00:00 +0200"
     }
   ]
 }

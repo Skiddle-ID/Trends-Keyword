@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-06-2024 , 23:36:02",
+  "lastUpdate": "03-06-2024 , 01:41:49",
   "data": [
+    {
+      "title": "Stormy Daniels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stormy%20Daniels",
+      "pubdate": "Mon, 03 Jun 2024 02:00:00 +0200"
+    },
     {
       "title": "Ticketmaster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ticketmaster",
@@ -9,12 +14,17 @@
     {
       "title": "Clara Tauson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clara%20Tauson",
-      "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
+      "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "The rebound",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20rebound",
       "pubdate": "Sun, 02 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "AAB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AAB",
+      "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Rune",
@@ -90,16 +100,6 @@
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
       "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Toni Kroos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Toni%20Kroos",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Jude Bellingham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jude%20Bellingham",
-      "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
     }
   ]
 }
