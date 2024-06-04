@@ -1,1 +1,1 @@
-Cyber,Lider,LATAM,SKY,Adidas,Jadue,Puma,Movistar,Jumbo,Corona,Samsung,IKEA,Rosen,Converse,Decathlon,Under Armour,iPhone,Unimarc,Ahumada,Zapatillas
+Cyber,LATAM,SKY,Mercado Libre,Adidas,Puma,Jumbo,Daniel Jadue,Samsung,Zara,Corona,IKEA,Novak Djokovic,Rosen,Huachipato,Converse,Ahumada,Under Armour,Decathlon,Unimarc

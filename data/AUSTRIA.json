@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "03-06-2024 , 23:35:43",
+  "lastUpdate": "04-06-2024 , 01:40:12",
   "data": [
     {
-      "title": "Bierlein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bierlein",
+      "title": "Rosenheim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenheim",
+      "pubdate": "Tue, 04 Jun 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Bierlein Brigitte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bierlein%20Brigitte",
       "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
     },
     {
@@ -12,8 +17,8 @@
       "pubdate": "Mon, 03 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Deutschland Ukraine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland%20Ukraine",
+      "title": "Deutschland - Ukraine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland%20-%20Ukraine",
       "pubdate": "Mon, 03 Jun 2024 19:00:00 +0200"
     },
     {
@@ -30,11 +35,6 @@
       "title": "Sabine Ladstätter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabine%20Ladst%C3%A4tter",
       "pubdate": "Mon, 03 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Luca de Aliprandini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luca%20de%20Aliprandini",
-      "pubdate": "Mon, 03 Jun 2024 07:00:00 +0200"
     },
     {
       "title": "Joel Schwärzler",
@@ -57,19 +57,14 @@
       "pubdate": "Mon, 03 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Aggsbach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aggsbach",
-      "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Hunter Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hunter%20Biden",
       "pubdate": "Mon, 03 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Deutschland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutschland",
-      "pubdate": "Mon, 03 Jun 2024 22:00:00 +0200"
+      "title": "Aggsbach",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aggsbach",
+      "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Regensburg",
@@ -92,14 +87,19 @@
       "pubdate": "Mon, 03 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Sabalenka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
-      "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Tobias Moretti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tobias%20Moretti",
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Berkshire Hathaway",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berkshire%20Hathaway",
+      "pubdate": "Mon, 03 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Helmut Brandstätter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helmut%20Brandst%C3%A4tter",
+      "pubdate": "Mon, 03 Jun 2024 20:00:00 +0200"
     }
   ]
 }

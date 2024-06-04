@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2024 , 23:35:45",
+  "lastUpdate": "04-06-2024 , 01:40:14",
   "data": [
     {
       "title": "Tom Cruise",
@@ -22,8 +22,8 @@
       "pubdate": "Mon, 03 Jun 2024 17:00:00 +0200"
     },
     {
-      "title": "Turek Filip",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Turek%20Filip",
+      "title": "Turek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Turek",
       "pubdate": "Mon, 03 Jun 2024 23:00:00 +0200"
     },
     {
@@ -37,9 +37,19 @@
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
     },
     {
+      "title": "Priske",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Priske",
+      "pubdate": "Mon, 03 Jun 2024 10:00:00 +0200"
+    },
+    {
       "title": "Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88",
       "pubdate": "Mon, 03 Jun 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Jiří Langmajer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Langmajer",
+      "pubdate": "Mon, 03 Jun 2024 10:00:00 +0200"
     },
     {
       "title": "Vlaďka Erbová",
@@ -57,11 +67,6 @@
       "pubdate": "Mon, 03 Jun 2024 17:00:00 +0200"
     },
     {
-      "title": "Katka Říhová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katka%20%C5%98%C3%ADhov%C3%A1",
-      "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Berkshire Hathaway",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Berkshire%20Hathaway",
       "pubdate": "Mon, 03 Jun 2024 22:00:00 +0200"
@@ -70,6 +75,11 @@
       "title": "Kromeriz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kromeriz",
       "pubdate": "Mon, 03 Jun 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Blade",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Blade",
+      "pubdate": "Mon, 03 Jun 2024 01:00:00 +0200"
     },
     {
       "title": "Sinner",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 02 Jun 2024 13:00:00 +0200"
     },
     {
-      "title": "Danuše Nerudová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Danu%C5%A1e%20Nerudov%C3%A1",
-      "pubdate": "Sun, 02 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "Nosková Michaela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Noskov%C3%A1%20Michaela",
       "pubdate": "Sun, 02 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Páni kluci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C3%A1ni%20kluci",
-      "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
     }
   ]
 }

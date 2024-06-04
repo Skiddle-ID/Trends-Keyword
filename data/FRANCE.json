@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2024 , 23:35:46",
+  "lastUpdate": "04-06-2024 , 01:40:15",
   "data": [
     {
       "title": "Gracheva",
@@ -12,14 +12,14 @@
       "pubdate": "Mon, 03 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Moutet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Moutet",
-      "pubdate": "Mon, 03 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "Medvedev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Medvedev",
       "pubdate": "Mon, 03 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Hurkacz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hurkacz",
+      "pubdate": "Mon, 03 Jun 2024 03:00:00 +0200"
     },
     {
       "title": "Sabalenka",
@@ -30,6 +30,11 @@
       "title": "Séisme Japon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S%C3%A9isme%20Japon",
       "pubdate": "Mon, 03 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Mélenchon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#M%C3%A9lenchon",
+      "pubdate": "Mon, 03 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Rybakina",
@@ -47,9 +52,9 @@
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Procuration",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Procuration",
-      "pubdate": "Mon, 03 Jun 2024 12:00:00 +0200"
+      "title": "Dadju",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dadju",
+      "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Cercueil tour Eiffel",
@@ -57,19 +62,24 @@
       "pubdate": "Mon, 03 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "Kafka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kafka",
+      "title": "Valérie Hayer Gabriel Attal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Val%C3%A9rie%20Hayer%20Gabriel%20Attal",
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Valérie Hayer Gabriel Attal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Val%C3%A9rie%20Hayer%20Gabriel%20Attal",
+      "title": "Kafka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kafka",
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Sandrine Kiberlain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sandrine%20Kiberlain",
       "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Montivilliers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Montivilliers",
+      "pubdate": "Mon, 03 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Waly Dia",
@@ -89,16 +99,6 @@
     {
       "title": "Jasmine Paolini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jasmine%20Paolini",
-      "pubdate": "Mon, 03 Jun 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Dominique de Villepin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dominique%20de%20Villepin",
-      "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Rassemblement national europeennes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rassemblement%20national%20europeennes",
       "pubdate": "Mon, 03 Jun 2024 17:00:00 +0200"
     }
   ]

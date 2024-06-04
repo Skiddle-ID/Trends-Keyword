@@ -1,1 +1,1 @@
-Gracheva,Mbappe,Moutet,Medvedev,Sabalenka,Séisme Japon,Rybakina,Antoine Dupont,Thierry Henry,Procuration,Cercueil tour Eiffel,Kafka,Valérie Hayer Gabriel Attal,Sandrine Kiberlain,Waly Dia,Stade Rochelais,Atos,Jasmine Paolini,Dominique de Villepin,Rassemblement national europeennes
+Gracheva,Mbappe,Medvedev,Hurkacz,Sabalenka,Séisme Japon,Mélenchon,Rybakina,Antoine Dupont,Thierry Henry,Dadju,Cercueil tour Eiffel,Valérie Hayer Gabriel Attal,Kafka,Sandrine Kiberlain,Montivilliers,Waly Dia,Stade Rochelais,Atos,Jasmine Paolini
