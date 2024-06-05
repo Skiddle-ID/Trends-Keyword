@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "05-06-2024 , 15:35:03",
+  "lastUpdate": "05-06-2024 , 16:39:11",
   "data": [
-    {
-      "title": "Petter Nome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Nome",
-      "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-    },
     {
       "title": "C.Gambino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#C.Gambino",
       "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Forræder",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forr%C3%A6der",
+      "title": "Petter Nome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Nome",
       "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Amanda Knox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amanda%20Knox",
+      "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Narvik",
@@ -22,9 +22,9 @@
       "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Amanda Knox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amanda%20Knox",
-      "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
+      "title": "Studentflak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Studentflak",
+      "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Tonje Brenna",
@@ -42,9 +42,14 @@
       "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
     },
     {
-      "title": "ChatGPT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ChatGPT",
-      "pubdate": "Tue, 04 Jun 2024 18:00:00 +0200"
+      "title": "Sjur Røthe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sjur%20R%C3%B8the",
+      "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Lupus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lupus",
+      "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Casper Ruud",
@@ -67,19 +72,19 @@
       "pubdate": "Tue, 04 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Djokovic",
-      "pubdate": "Tue, 04 Jun 2024 00:00:00 +0200"
-    },
-    {
       "title": "OpenAI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OpenAI",
-      "pubdate": "Tue, 04 Jun 2024 13:00:00 +0200"
+      "pubdate": "Tue, 04 Jun 2024 12:00:00 +0200"
     },
     {
       "title": "Landskamp Norge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
       "pubdate": "Tue, 04 Jun 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Novak%20Djokovic",
+      "pubdate": "Tue, 04 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Kylian Mbappé",
@@ -95,11 +100,6 @@
       "title": "Diamond League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League",
       "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Pride",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pride",
-      "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
     }
   ]
 }
