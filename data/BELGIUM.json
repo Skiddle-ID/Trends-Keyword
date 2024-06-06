@@ -1,25 +1,15 @@
 {
-  "lastUpdate": "06-06-2024 , 11:35:49",
+  "lastUpdate": "06-06-2024 , 12:51:00",
   "data": [
+    {
+      "title": "Urbanus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Urbanus",
+      "pubdate": "Thu, 06 Jun 2024 13:00:00 +0200"
+    },
     {
       "title": "Albert II",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Albert%20II",
       "pubdate": "Thu, 06 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Theo Francken",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Theo%20Francken",
-      "pubdate": "Thu, 06 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Frankrijk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frankrijk",
-      "pubdate": "Thu, 06 Jun 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Ten Ten",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ten%20Ten",
-      "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Joe Biden",
@@ -27,14 +17,24 @@
       "pubdate": "Thu, 06 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "France Foot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20Foot",
-      "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      "title": "Frankrijk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frankrijk",
+      "pubdate": "Thu, 06 Jun 2024 07:00:00 +0200"
     },
     {
-      "title": "Rybakina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rybakina",
-      "pubdate": "Wed, 05 Jun 2024 15:00:00 +0200"
+      "title": "Brigitte Macron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
+      "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Theo Francken",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Theo%20Francken",
+      "pubdate": "Thu, 06 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Ten Ten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ten%20Ten",
+      "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Bristol",
@@ -42,9 +42,19 @@
       "pubdate": "Wed, 05 Jun 2024 12:00:00 +0200"
     },
     {
+      "title": "Rybakina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rybakina",
+      "pubdate": "Wed, 05 Jun 2024 15:00:00 +0200"
+    },
+    {
       "title": "Sabalenka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sabalenka",
       "pubdate": "Wed, 05 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "France-Luxembourg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France-Luxembourg",
+      "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Sinner tennis",
@@ -67,11 +77,6 @@
       "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
     },
     {
-      "title": "De Cuyper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Cuyper",
-      "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Belgie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie",
       "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
@@ -87,18 +92,13 @@
       "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos%20Alcaraz",
-      "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-    },
-    {
       "title": "Remco Evenepoel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
       "pubdate": "Wed, 05 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Sarkic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sarkic",
+      "title": "Witsel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Witsel",
       "pubdate": "Wed, 05 Jun 2024 22:00:00 +0200"
     }
   ]

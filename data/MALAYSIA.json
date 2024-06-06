@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2024 , 11:35:55",
+  "lastUpdate": "06-06-2024 , 12:51:05",
   "data": [
     {
       "title": "Australia vs Oman",
@@ -22,14 +22,19 @@
       "pubdate": "Thu, 06 Jun 2024 08:00:00 +0800"
     },
     {
-      "title": "G-Dragon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#G-Dragon",
-      "pubdate": "Thu, 06 Jun 2024 08:00:00 +0800"
+      "title": "Baby Reindeer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Baby%20Reindeer",
+      "pubdate": "Thu, 06 Jun 2024 18:00:00 +0800"
     },
     {
       "title": "Boost Bank",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Boost%20Bank",
       "pubdate": "Thu, 06 Jun 2024 15:00:00 +0800"
+    },
+    {
+      "title": "G-Dragon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#G-Dragon",
+      "pubdate": "Thu, 06 Jun 2024 08:00:00 +0800"
     },
     {
       "title": "Ireland vs India",
@@ -42,6 +47,11 @@
       "pubdate": "Wed, 05 Jun 2024 18:00:00 +0800"
     },
     {
+      "title": "QS Ranking 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#QS%20Ranking%202025",
+      "pubdate": "Wed, 05 Jun 2024 17:00:00 +0800"
+    },
+    {
       "title": "AI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AI",
       "pubdate": "Wed, 05 Jun 2024 00:00:00 +0800"
@@ -52,9 +62,9 @@
       "pubdate": "Wed, 05 Jun 2024 21:00:00 +0800"
     },
     {
-      "title": "QS Ranking 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#QS%20Ranking%202025",
-      "pubdate": "Wed, 05 Jun 2024 17:00:00 +0800"
+      "title": "World Cup Qualifiers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20Qualifiers",
+      "pubdate": "Wed, 05 Jun 2024 21:00:00 +0800"
     },
     {
       "title": "Copilot",
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 05 Jun 2024 01:00:00 +0800"
     },
     {
-      "title": "World Cup Qualifiers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20Qualifiers",
-      "pubdate": "Wed, 05 Jun 2024 21:00:00 +0800"
-    },
-    {
       "title": "The Watchers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#The%20Watchers",
       "pubdate": "Wed, 05 Jun 2024 21:00:00 +0800"
-    },
-    {
-      "title": "QS Ranking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#QS%20Ranking",
-      "pubdate": "Wed, 05 Jun 2024 17:00:00 +0800"
     }
   ]
 }
