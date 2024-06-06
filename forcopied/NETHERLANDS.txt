@@ -1,1 +1,1 @@
-Bart Verbruggen,Sabalenka,Stemmen,D66,Amanda Knox,PVV,ZLM Tour,FTI,NAC,Excelsior,A12,UFC,Oekraïne,Lieke Martens,UFC 302,Griekspoor,PFAS,Ticketmaster,Trump,Tallon Griekspoor
+Verkiezingen,Bart Verbruggen,PVV,Amanda Knox,ZLM Tour,Zverev,FTI,NAC,Excelsior,A12,UFC,Oekraïne,Lieke Martens,UFC 302,Griekspoor,PFAS,Ticketmaster,Trump,Tallon Griekspoor,Sylvie Meis
