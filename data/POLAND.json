@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-06-2024 , 23:35:15",
+  "lastUpdate": "07-06-2024 , 01:42:08",
   "data": [
+    {
+      "title": "KSW",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
+      "pubdate": "Fri, 07 Jun 2024 00:00:00 +0200"
+    },
     {
       "title": "Mirage 2000",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mirage%202000",
@@ -37,14 +42,14 @@
       "pubdate": "Thu, 06 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "Starship",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Starship",
-      "pubdate": "Thu, 06 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Jerzy Krzanowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerzy%20Krzanowski",
       "pubdate": "Thu, 06 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Starship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Starship",
+      "pubdate": "Thu, 06 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "D-Day",
@@ -62,24 +67,19 @@
       "pubdate": "Thu, 06 Jun 2024 01:00:00 +0200"
     },
     {
-      "title": "Granica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Granica",
-      "pubdate": "Thu, 06 Jun 2024 17:00:00 +0200"
-    },
-    {
       "title": "Katastrofa kolejowa w Czechach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katastrofa%20kolejowa%20w%20Czechach",
       "pubdate": "Thu, 06 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "Sondaż wyborczy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sonda%C5%BC%20wyborczy",
-      "pubdate": "Thu, 06 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "Maffashion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maffashion",
       "pubdate": "Thu, 06 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Sondaż wyborczy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sonda%C5%BC%20wyborczy",
+      "pubdate": "Thu, 06 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Kacperczyk",

@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "06-06-2024 , 23:35:10",
+  "lastUpdate": "07-06-2024 , 01:42:03",
   "data": [
     {
       "title": "Algérie – Guinée",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alg%C3%A9rie%20%E2%80%93%20Guin%C3%A9e",
       "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zverev",
-      "pubdate": "Thu, 06 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Il faut sauver le soldat Ryan",
@@ -27,6 +22,11 @@
       "pubdate": "Thu, 06 Jun 2024 16:00:00 +0200"
     },
     {
+      "title": "Emmanuel Macron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emmanuel%20Macron",
+      "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "Virginie Viard Chanel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Virginie%20Viard%20Chanel",
       "pubdate": "Thu, 06 Jun 2024 10:00:00 +0200"
@@ -42,9 +42,9 @@
       "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Eric Piolle Grenoble",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eric%20Piolle%20Grenoble",
-      "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
+      "title": "Mirage 2000-5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mirage%202000-5",
+      "pubdate": "Thu, 06 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Foot",
@@ -52,13 +52,8 @@
       "pubdate": "Thu, 06 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "Oradour-sur-Glane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oradour-sur-Glane",
-      "pubdate": "Thu, 06 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Brigitte bardot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20bardot",
+      "title": "Brigitte Bardot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Bardot",
       "pubdate": "Thu, 06 Jun 2024 19:00:00 +0200"
     },
     {
@@ -87,19 +82,24 @@
       "pubdate": "Thu, 06 Jun 2024 01:00:00 +0200"
     },
     {
-      "title": "Roger-Vasselin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roger-Vasselin",
-      "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
-    },
-    {
       "title": "Prince William",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prince%20William",
       "pubdate": "Thu, 06 Jun 2024 17:00:00 +0200"
     },
     {
-      "title": "Fanny Ardant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fanny%20Ardant",
-      "pubdate": "Thu, 06 Jun 2024 21:00:00 +0200"
+      "title": "Roger-Vasselin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roger-Vasselin",
+      "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Pascale de La Tour du Pin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pascale%20de%20La%20Tour%20du%20Pin",
+      "pubdate": "Thu, 06 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Justin Trudeau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Justin%20Trudeau",
+      "pubdate": "Thu, 06 Jun 2024 19:00:00 +0200"
     }
   ]
 }
