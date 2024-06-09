@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-06-2024 , 23:35:52",
+  "lastUpdate": "09-06-2024 , 01:47:04",
   "data": [
     {
       "title": "Strandhotellet",
@@ -12,29 +12,34 @@
       "pubdate": "Sat, 08 Jun 2024 19:00:00 +0200"
     },
     {
+      "title": "Alice Cooper",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Cooper",
+      "pubdate": "Sat, 08 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
       "pubdate": "Sat, 08 Jun 2024 01:00:00 +0200"
     },
     {
-      "title": "Henrik Larsson 100 meter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson%20100%20meter",
+      "title": "Henrik Larsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henrik%20Larsson",
       "pubdate": "Sat, 08 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Kulusevski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kulusevski",
+      "title": "Gustaf Nilsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustaf%20Nilsson",
       "pubdate": "Sat, 08 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Carolina Neurath",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carolina%20Neurath",
+      "pubdate": "Sat, 08 Jun 2024 07:00:00 +0200"
     },
     {
       "title": "Caroline Seger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Caroline%20Seger",
       "pubdate": "Sat, 08 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Vanessa Kamga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vanessa%20Kamga",
-      "pubdate": "Sat, 08 Jun 2024 23:00:00 +0200"
     },
     {
       "title": "Bruce Dickinson",
@@ -45,6 +50,11 @@
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Portugal",
       "pubdate": "Sat, 08 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Dejan Kulusevski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dejan%20Kulusevski",
+      "pubdate": "Sat, 08 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Eddie Hall",
@@ -60,6 +70,16 @@
       "title": "Jon Dahl Tomasson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jon%20Dahl%20Tomasson",
       "pubdate": "Sat, 08 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Danmark mot Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Danmark%20mot%20Norge",
+      "pubdate": "Sat, 08 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "STCC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#STCC",
+      "pubdate": "Sat, 08 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Opera",
@@ -80,26 +100,6 @@
       "title": "Daniel Ståhl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20St%C3%A5hl",
       "pubdate": "Fri, 07 Jun 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Mette Frederiksen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mette%20Frederiksen",
-      "pubdate": "Fri, 07 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "EM friidrott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM%20friidrott",
-      "pubdate": "Fri, 07 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Charlie Weimers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Charlie%20Weimers",
-      "pubdate": "Fri, 07 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Jonas Sjöstedt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Sj%C3%B6stedt",
-      "pubdate": "Fri, 07 Jun 2024 22:00:00 +0200"
     }
   ]
 }
