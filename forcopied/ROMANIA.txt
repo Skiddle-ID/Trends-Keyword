@@ -1,1 +1,1 @@
-Sector 3,Suceava,Alegeri ploiesti,AfD,Primar Suceava,Cine a castigat Alegerile in romania 2024,Daniel Băluță,Alegeri Sibiu,Alegeri bacau,Primar targu mures,Simion,Alegeri galati 2024,Endrick,NOVA TV,Exit-poll,AUR,Alegeri Cluj,Alegeri Timisoara 2024,Antena 3,Formula 1
+Alegeri ploiesti,Alegeri Suceava,Daniel Băluță,Cine a castigat alegerile in romania 2024,AfD,Alegeri Sibiu,Primar Oradea,Alegeri bacau,Primar bistrita,Gherla info,Alegeri galati 2024,News,Baia Mare,Simion,Endrick,ALEGERI valcea,Victor Ponta,Rezultate Sector 5,Alegeri ploiesti 2024,Alegeri buzau

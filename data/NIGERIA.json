@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-06-2024 , 23:35:34",
+  "lastUpdate": "10-06-2024 , 01:43:24",
   "data": [
+    {
+      "title": "Italy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Italy",
+      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0100"
+    },
     {
       "title": "Mexico vs Brazil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mexico%20vs%20Brazil",
@@ -17,6 +22,11 @@
       "pubdate": "Sun, 09 Jun 2024 19:00:00 +0100"
     },
     {
+      "title": "Argentina vs Ecuador",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina%20vs%20Ecuador",
+      "pubdate": "Sun, 09 Jun 2024 20:00:00 +0100"
+    },
+    {
       "title": "Hanks Anuku",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Hanks%20Anuku",
       "pubdate": "Sun, 09 Jun 2024 16:00:00 +0100"
@@ -25,11 +35,6 @@
       "title": "Carlos Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Carlos%20Alcaraz",
       "pubdate": "Sun, 09 Jun 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Flavour",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Flavour",
-      "pubdate": "Sun, 09 Jun 2024 04:00:00 +0100"
     },
     {
       "title": "India vs Pakistan",
@@ -47,9 +52,9 @@
       "pubdate": "Sun, 09 Jun 2024 12:00:00 +0100"
     },
     {
-      "title": "Argentina vs Ecuador",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina%20vs%20Ecuador",
-      "pubdate": "Sun, 09 Jun 2024 20:00:00 +0100"
+      "title": "Father's Day 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Father's%20Day%202024",
+      "pubdate": "Sun, 09 Jun 2024 12:00:00 +0100"
     },
     {
       "title": "Labour minimum wage",
@@ -95,11 +100,6 @@
       "title": "England vs Iceland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England%20vs%20Iceland",
       "pubdate": "Fri, 07 Jun 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Nigeria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria",
-      "pubdate": "Fri, 07 Jun 2024 21:00:00 +0100"
     }
   ]
 }

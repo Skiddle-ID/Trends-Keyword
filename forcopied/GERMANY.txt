@@ -1,1 +1,1 @@
-EVP,Sahra Wagenknecht,Macron,FPÖ Österreich,Wahlen,Grüne,FDP,Freie Wähler,Michael Mosley,Gesa Krause,Kommunalwahl,MDR,Kommunalwahl Saarland 2024,Wählen gehen,Europa,Wählen,EU-Parlament,Das erste,AfD,Zverev
+EVP,Macron,EU wahl 2024,FPÖ Österreich,FDP,Freie Wähler,Kommunalwahl,Michael Mosley,Gesa Krause,Wagenknecht,MDR,Formel 1 Kanada,Wahlergebnisse 2024 Europawahl,Wählen gehen,Wählen,EU-Parlament,Das erste,Kommunalwahl Saarland 2024,Europawahl,Zverev
