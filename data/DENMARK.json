@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 16:40:41",
+  "lastUpdate": "13-06-2024 , 17:35:16",
   "data": [
     {
       "title": "Tessa",
@@ -24,11 +24,6 @@
     {
       "title": "Jerry West",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jerry%20West",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Presumed Innocent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Presumed%20Innocent",
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
@@ -95,6 +90,11 @@
       "title": "Nvidia stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia%20stock",
       "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "iOS 18",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iOS%2018",
+      "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Billie Eilish",
