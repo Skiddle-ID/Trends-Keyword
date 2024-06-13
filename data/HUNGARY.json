@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-06-2024 , 06:38:41",
+  "lastUpdate": "13-06-2024 , 07:36:22",
   "data": [
+    {
+      "title": "Hundred Sins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hundred%20Sins",
+      "pubdate": "Tue, 11 Jun 2024 01:00:00 +0200"
+    },
     {
       "title": "Vecsei H. Miklós",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vecsei%20H.%20Mikl%C3%B3s",
@@ -17,19 +22,29 @@
       "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Megasztár",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megaszt%C3%A1r",
-      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
-    },
-    {
       "title": "G.w.M",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
       "pubdate": "Tue, 11 Jun 2024 15:00:00 +0200"
     },
     {
+      "title": "Megasztár",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megaszt%C3%A1r",
+      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
+    },
+    {
       "title": "Főpolgármester választási eredmények",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C5%91polg%C3%A1rmester%20v%C3%A1laszt%C3%A1si%20eredm%C3%A9nyek",
       "pubdate": "Tue, 11 Jun 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Rúzsa Magdi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%BAzsa%20Magdi",
+      "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Majka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
+      "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Index",
@@ -85,21 +100,6 @@
       "title": "MBH",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MBH",
       "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Origo.hu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Origo.hu",
-      "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Friss hírek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Friss%20h%C3%ADrek",
-      "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Regán Lili",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reg%C3%A1n%20Lili",
-      "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
     }
   ]
 }

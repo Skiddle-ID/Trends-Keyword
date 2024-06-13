@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-06-2024 , 06:38:46",
+  "lastUpdate": "13-06-2024 , 07:36:27",
   "data": [
+    {
+      "title": "South Africa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
+      "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
+    },
     {
       "title": "Nicole Kidman Practical Magic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nicole%20Kidman%20Practical%20Magic",
@@ -95,11 +100,6 @@
       "title": "Comrades 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Comrades%202024",
       "pubdate": "Sun, 09 Jun 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Father's Day 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Father's%20Day%202024",
-      "pubdate": "Sun, 09 Jun 2024 00:00:00 +0200"
     }
   ]
 }
