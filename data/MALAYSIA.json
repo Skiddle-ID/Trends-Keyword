@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 11:35:29",
+  "lastUpdate": "13-06-2024 , 12:51:19",
   "data": [
     {
       "title": "Faisal Halim",
@@ -22,8 +22,18 @@
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
     },
     {
+      "title": "Aliff Aziz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aliff%20Aziz",
+      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
+    },
+    {
       "title": "Aisyah Hijanah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aisyah%20Hijanah",
+      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
+    },
+    {
+      "title": "Brazil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil",
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
     },
     {
@@ -40,11 +50,6 @@
       "title": "Indonesia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indonesia",
       "pubdate": "Wed, 12 Jun 2024 00:00:00 +0800"
-    },
-    {
-      "title": "World Cup Qualifiers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20Qualifiers",
-      "pubdate": "Tue, 11 Jun 2024 20:00:00 +0800"
     },
     {
       "title": "Malaysia",
@@ -94,11 +99,6 @@
     {
       "title": "Benny Gantz Israel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Benny%20Gantz%20Israel",
-      "pubdate": "Mon, 10 Jun 2024 12:00:00 +0800"
-    },
-    {
-      "title": "Keith Foo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Keith%20Foo",
       "pubdate": "Mon, 10 Jun 2024 12:00:00 +0800"
     }
   ]

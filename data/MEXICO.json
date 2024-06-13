@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "13-06-2024 , 11:35:30",
+  "lastUpdate": "13-06-2024 , 12:51:20",
   "data": [
     {
-      "title": "NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#NBA",
+      "title": "Estados Unidos  Brasil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estados%20Unidos%20%20Brasil",
+      "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
+    },
+    {
+      "title": "Mavericks  Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mavericks%20%20Celtics",
       "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
     },
     {
@@ -12,13 +17,23 @@
       "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
     },
     {
-      "title": "Brasil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brasil",
+      "title": "Jerry West",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jerry%20West",
+      "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
+    },
+    {
+      "title": "San Antonio de Padua",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#San%20Antonio%20de%20Padua",
       "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
     },
     {
       "title": "Kevin Spacey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kevin%20Spacey",
+      "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
+    },
+    {
+      "title": "Papa Francisco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Papa%20Francisco",
       "pubdate": "Thu, 13 Jun 2024 04:00:00 -0600"
     },
     {
@@ -45,11 +60,6 @@
       "title": "Pago Pensión Bienestar adultos mayores",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pago%20Pensi%C3%B3n%20Bienestar%20adultos%20mayores",
       "pubdate": "Tue, 11 Jun 2024 14:00:00 -0600"
-    },
-    {
-      "title": "Torneo Maurice Revello",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Torneo%20Maurice%20Revello",
-      "pubdate": "Tue, 11 Jun 2024 10:00:00 -0600"
     },
     {
       "title": "Jordan Bardella",
@@ -90,16 +100,6 @@
       "title": "Pato Levy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pato%20Levy",
       "pubdate": "Mon, 10 Jun 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Apple",
-      "pubdate": "Mon, 10 Jun 2024 13:00:00 -0600"
-    },
-    {
-      "title": "Rania de Jordania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rania%20de%20Jordania",
-      "pubdate": "Mon, 10 Jun 2024 13:00:00 -0600"
     }
   ]
 }

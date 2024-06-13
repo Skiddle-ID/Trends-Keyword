@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "13-06-2024 , 11:35:21",
+  "lastUpdate": "13-06-2024 , 12:51:14",
   "data": [
+    {
+      "title": "Jerry West",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20West",
+      "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
+    },
     {
       "title": "NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA",
+      "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
+    },
+    {
+      "title": "Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
       "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
     },
     {
@@ -12,8 +22,18 @@
       "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
     },
     {
+      "title": "Luka Doncic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luka%20Doncic",
+      "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
+    },
+    {
       "title": "Pope Francis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pope%20Francis",
+      "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
+    },
+    {
+      "title": "Dumbo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dumbo",
       "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
     },
     {
@@ -27,14 +47,19 @@
       "pubdate": "Thu, 13 Jun 2024 03:00:00 -0700"
     },
     {
+      "title": "Alamo Drafthouse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alamo%20Drafthouse",
+      "pubdate": "Thu, 13 Jun 2024 05:00:00 -0700"
+    },
+    {
+      "title": "Hunter Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden",
+      "pubdate": "Tue, 11 Jun 2024 09:00:00 -0700"
+    },
+    {
       "title": "Joey Chestnut",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joey%20Chestnut",
       "pubdate": "Tue, 11 Jun 2024 12:00:00 -0700"
-    },
-    {
-      "title": "Hunter Biden verdict",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden%20verdict",
-      "pubdate": "Tue, 11 Jun 2024 10:00:00 -0700"
     },
     {
       "title": "Young Thug",
@@ -45,6 +70,11 @@
       "title": "Shoes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shoes",
       "pubdate": "Tue, 11 Jun 2024 09:00:00 -0700"
+    },
+    {
+      "title": "Simon Cowell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Simon%20Cowell",
+      "pubdate": "Tue, 11 Jun 2024 08:00:00 -0700"
     },
     {
       "title": "Samuel Alito",
@@ -70,36 +100,6 @@
       "title": "Dan Hurley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dan%20Hurley",
       "pubdate": "Mon, 10 Jun 2024 11:00:00 -0700"
-    },
-    {
-      "title": "Oilers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oilers",
-      "pubdate": "Mon, 10 Jun 2024 22:00:00 -0700"
-    },
-    {
-      "title": "Tony Evans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tony%20Evans",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 -0700"
-    },
-    {
-      "title": "Malawi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malawi",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 -0700"
-    },
-    {
-      "title": "UnitedHealthcare",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UnitedHealthcare",
-      "pubdate": "Mon, 10 Jun 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Dragon Boat Festival",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dragon%20Boat%20Festival",
-      "pubdate": "Sun, 09 Jun 2024 22:00:00 -0700"
-    },
-    {
-      "title": "NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA",
-      "pubdate": "Sun, 09 Jun 2024 18:00:00 -0700"
     }
   ]
 }

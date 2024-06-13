@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 11:35:23",
+  "lastUpdate": "13-06-2024 , 12:51:15",
   "data": [
     {
       "title": "Thomas Dutronc",
@@ -27,6 +27,11 @@
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
+      "title": "Lotte De Clerck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lotte%20De%20Clerck",
+      "pubdate": "Thu, 13 Jun 2024 13:00:00 +0200"
+    },
+    {
       "title": "Umicore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umicore",
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
@@ -47,6 +52,11 @@
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
+      "title": "Eric Ciotti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eric%20Ciotti",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "EuroMillions",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EuroMillions",
       "pubdate": "Tue, 11 Jun 2024 22:00:00 +0200"
@@ -57,11 +67,6 @@
       "pubdate": "Tue, 11 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Ciotti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ciotti",
-      "pubdate": "Tue, 11 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Joachim Lafosse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joachim%20Lafosse",
       "pubdate": "Tue, 11 Jun 2024 15:00:00 +0200"
@@ -70,6 +75,11 @@
       "title": "Guillaume Meurice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guillaume%20Meurice",
       "pubdate": "Tue, 11 Jun 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Jupiler Pro League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jupiler%20Pro%20League",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "Audrey Leunens",
@@ -90,16 +100,6 @@
       "title": "Mithra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mithra",
       "pubdate": "Tue, 11 Jun 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Bram Degrieck",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bram%20Degrieck",
-      "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Pro League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pro%20League",
-      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     }
   ]
 }
