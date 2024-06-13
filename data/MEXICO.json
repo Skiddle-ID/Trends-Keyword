@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "13-06-2024 , 03:35:49",
+  "lastUpdate": "13-06-2024 , 04:37:15",
   "data": [
-    {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Apple",
-      "pubdate": "Tue, 11 Jun 2024 05:00:00 -0600"
-    },
     {
       "title": "Jordan Bardella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jordan%20Bardella",
@@ -27,8 +22,13 @@
       "pubdate": "Mon, 10 Jun 2024 12:00:00 -0600"
     },
     {
-      "title": "iOS 18",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#iOS%2018",
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Apple",
+      "pubdate": "Mon, 10 Jun 2024 13:00:00 -0600"
+    },
+    {
+      "title": "Rania de Jordania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rania%20de%20Jordania",
       "pubdate": "Mon, 10 Jun 2024 13:00:00 -0600"
     },
     {
@@ -47,14 +47,19 @@
       "pubdate": "Mon, 10 Jun 2024 00:00:00 -0600"
     },
     {
+      "title": "Calendario Escolar 2024 a 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Calendario%20Escolar%202024%20a%202025",
+      "pubdate": "Mon, 10 Jun 2024 11:00:00 -0600"
+    },
+    {
       "title": "Que se celebra el 10 de junio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20el%2010%20de%20junio",
       "pubdate": "Mon, 10 Jun 2024 01:00:00 -0600"
     },
     {
-      "title": "Calendario Escolar 2024 a 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Calendario%20Escolar%202024%20a%202025",
-      "pubdate": "Mon, 10 Jun 2024 11:00:00 -0600"
+      "title": "Cuando sale iOS 18",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuando%20sale%20iOS%2018",
+      "pubdate": "Mon, 10 Jun 2024 22:00:00 -0600"
     },
     {
       "title": "Daniel Aguirre",
@@ -95,11 +100,6 @@
       "title": "Usain Bolt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Usain%20Bolt",
       "pubdate": "Mon, 10 Jun 2024 20:00:00 -0600"
-    },
-    {
-      "title": "Juan Son",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juan%20Son",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 -0600"
     }
   ]
 }
