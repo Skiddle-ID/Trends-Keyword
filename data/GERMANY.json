@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "13-06-2024 , 20:35:44",
+  "lastUpdate": "13-06-2024 , 21:35:11",
   "data": [
     {
-      "title": "BVB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+      "title": "Terzic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Terzic",
       "pubdate": "Thu, 13 Jun 2024 14:00:00 +0200"
     },
     {
@@ -17,9 +17,9 @@
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Mihambo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mihambo",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+      "title": "Heidi Klum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Klum",
+      "pubdate": "Thu, 13 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Pistorius",
@@ -32,24 +32,29 @@
       "pubdate": "Thu, 13 Jun 2024 14:00:00 +0200"
     },
     {
+      "title": "Assani Weitsprung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Assani%20Weitsprung",
+      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Türkei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei",
+      "pubdate": "Thu, 13 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Frankreich Macron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20Macron",
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "G7-Gipfel Italien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7-Gipfel%20Italien",
+      "title": "G7",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G7",
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "Xavier Naidoo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Xavier%20Naidoo",
       "pubdate": "Thu, 13 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Assani Weitsprung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Assani%20Weitsprung",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
     },
     {
       "title": "BAföG-Reform",
@@ -95,11 +100,6 @@
       "title": "Stuttgart 21",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart%2021",
       "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Kommunalwahlen 2024. Ergebnisse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahlen%202024.%20Ergebnisse",
-      "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
     }
   ]
 }
