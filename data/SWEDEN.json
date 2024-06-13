@@ -1,20 +1,40 @@
 {
-  "lastUpdate": "13-06-2024 , 05:35:53",
+  "lastUpdate": "13-06-2024 , 06:38:46",
   "data": [
+    {
+      "title": "Sommarpratare 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sommarpratare%202024",
+      "pubdate": "Tue, 11 Jun 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Axfood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Axfood",
+      "pubdate": "Tue, 11 Jun 2024 09:00:00 +0200"
+    },
     {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Billie%20Eilish",
       "pubdate": "Tue, 11 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Årets sommarpratare 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%85rets%20sommarpratare%202024",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
+      "title": "EFN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EFN",
+      "pubdate": "Tue, 11 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Apple Intelligence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Apple%20Intelligence",
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Sanimir Resic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sanimir%20Resic",
+      "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Hugo Alnefelt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Alnefelt",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "David Lång",
@@ -80,26 +100,6 @@
       "title": "La",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La",
       "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Sommarlov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sommarlov",
-      "pubdate": "Mon, 10 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Michael Mosley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michael%20Mosley",
-      "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "SD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SD",
-      "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Jonas Sjöstedt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Sj%C3%B6stedt",
-      "pubdate": "Sun, 09 Jun 2024 22:00:00 +0200"
     }
   ]
 }

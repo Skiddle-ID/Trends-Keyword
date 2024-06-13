@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 05:35:45",
+  "lastUpdate": "13-06-2024 , 06:38:38",
   "data": [
     {
       "title": "Eric Ciotti",
@@ -10,6 +10,11 @@
       "title": "Guillaume Meurice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guillaume%20Meurice",
       "pubdate": "Tue, 11 Jun 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Joachim Lafosse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joachim%20Lafosse",
+      "pubdate": "Tue, 11 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Malawi",
@@ -32,9 +37,29 @@
       "pubdate": "Tue, 11 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "Joachim Lafosse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joachim%20Lafosse",
-      "pubdate": "Tue, 11 Jun 2024 15:00:00 +0200"
+      "title": "Front populaire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Front%20populaire",
+      "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Raymond van het Groenewoud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Raymond%20van%20het%20Groenewoud",
+      "pubdate": "Tue, 11 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Lewandowski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lewandowski",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Nederland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nederland",
+      "pubdate": "Tue, 11 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Pro League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pro%20League",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "Apple",
@@ -75,31 +100,6 @@
       "title": "Nederlands elftal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nederlands%20elftal",
       "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Partijbestuur Open VLD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Partijbestuur%20Open%20VLD",
-      "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Frankrijk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frankrijk",
-      "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "David Goffin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
-      "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Ouganda – Algérie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ouganda%20%E2%80%93%20Alg%C3%A9rie",
-      "pubdate": "Mon, 10 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Premier ministre belge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20ministre%20belge",
-      "pubdate": "Mon, 10 Jun 2024 01:00:00 +0200"
     }
   ]
 }

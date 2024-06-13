@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 05:35:50",
+  "lastUpdate": "13-06-2024 , 06:38:43",
   "data": [
     {
       "title": "Kenya Forest Service",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0300"
     },
     {
-      "title": "Uhuru Kenyatta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uhuru%20Kenyatta",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0300"
-    },
-    {
       "title": "Harambee Stars",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Harambee%20Stars",
       "pubdate": "Tue, 11 Jun 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Uhuru Kenyatta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uhuru%20Kenyatta",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0300"
     },
     {
       "title": "KFS",
@@ -30,6 +30,11 @@
       "title": "iOS 18",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#iOS%2018",
       "pubdate": "Tue, 11 Jun 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Mauritius",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mauritius",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0300"
     },
     {
       "title": "Malawi Vice President",
@@ -94,11 +99,6 @@
     {
       "title": "India vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20Pakistan",
-      "pubdate": "Sun, 09 Jun 2024 18:00:00 +0300"
-    },
-    {
-      "title": "Father's Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Father's%20Day",
       "pubdate": "Sun, 09 Jun 2024 18:00:00 +0300"
     }
   ]
