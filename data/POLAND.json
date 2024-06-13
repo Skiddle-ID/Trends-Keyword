@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-06-2024 , 07:36:26",
+  "lastUpdate": "13-06-2024 , 08:36:57",
   "data": [
+    {
+      "title": "Arek Tomiak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arek%20Tomiak",
+      "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
+    },
     {
       "title": "Viki Gabor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Viki%20Gabor",
@@ -10,11 +15,6 @@
       "title": "Mołdawia – Ukraina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mo%C5%82dawia%20%E2%80%93%20Ukraina",
       "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Arkadiusz Tomiak operator filmowy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arkadiusz%20Tomiak%20operator%20filmowy",
-      "pubdate": "Tue, 11 Jun 2024 12:00:00 +0200"
     },
     {
       "title": "Weronika Książkiewicz",
@@ -37,9 +37,9 @@
       "pubdate": "Tue, 11 Jun 2024 13:00:00 +0200"
     },
     {
-      "title": "Kiedy Euro 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kiedy%20Euro%202024",
-      "pubdate": "Tue, 11 Jun 2024 10:00:00 +0200"
+      "title": "Zaproszenie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zaproszenie",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "Prezydent Andrzej Duda",
@@ -57,11 +57,6 @@
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "Zaproszenie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zaproszenie",
-      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
-    },
-    {
       "title": "Star Wars Outlaws",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Star%20Wars%20Outlaws",
       "pubdate": "Tue, 11 Jun 2024 13:00:00 +0200"
@@ -77,14 +72,19 @@
       "pubdate": "Tue, 11 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Strefa Buforowa na granicy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Strefa%20Buforowa%20na%20granicy",
-      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
-    },
-    {
       "title": "TAURON arena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TAURON%20arena",
       "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Linette",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
+      "pubdate": "Tue, 11 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Strefa Buforowa na granicy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Strefa%20Buforowa%20na%20granicy",
+      "pubdate": "Tue, 11 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Polska Turcja",

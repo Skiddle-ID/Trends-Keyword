@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 07:36:28",
+  "lastUpdate": "13-06-2024 , 08:36:59",
   "data": [
     {
       "title": "Årets sommarpratare 2024",
@@ -27,6 +27,11 @@
       "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
     },
     {
+      "title": "Matilda Djerf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matilda%20Djerf",
+      "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
+    },
+    {
       "title": "Apple Intelligence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Apple%20Intelligence",
       "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
@@ -35,6 +40,16 @@
       "title": "Axfood köper City Gross",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Axfood%20k%C3%B6per%20City%20Gross",
       "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Niklas Natt och Dag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niklas%20Natt%20och%20Dag",
+      "pubdate": "Tue, 11 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Skjutning Kungsholmen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skjutning%20Kungsholmen",
+      "pubdate": "Tue, 11 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "David Lång",
@@ -85,21 +100,6 @@
       "title": "NVIDIA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NVIDIA",
       "pubdate": "Mon, 10 Jun 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Emma Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emma%20Raducanu",
-      "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Linnea Ström",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linnea%20Str%C3%B6m",
-      "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
-    },
-    {
-      "title": "La",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La",
-      "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
     }
   ]
 }
