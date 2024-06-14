@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "14-06-2024 , 14:35:59",
+  "lastUpdate": "14-06-2024 , 15:35:14",
   "data": [
     {
-      "title": "Fortaleza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
+      "title": "Eurocopa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eurocopa",
       "pubdate": "Fri, 14 Jun 2024 06:00:00 -0500"
     },
     {
-      "title": "Fortaleza esporte clube",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20esporte%20clube",
-      "pubdate": "Fri, 14 Jun 2024 00:00:00 -0500"
+      "title": "Cuiaba FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba%20FC",
+      "pubdate": "Fri, 14 Jun 2024 04:00:00 -0500"
+    },
+    {
+      "title": "Cuiaba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
+      "pubdate": "Fri, 14 Jun 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Avai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
+      "pubdate": "Fri, 14 Jun 2024 07:00:00 -0500"
     },
     {
       "title": "Medel",
@@ -17,14 +27,24 @@
       "pubdate": "Fri, 14 Jun 2024 02:00:00 -0500"
     },
     {
-      "title": "Alemanha x Escócia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alemanha%20x%20Esc%C3%B3cia",
-      "pubdate": "Fri, 14 Jun 2024 06:00:00 -0500"
+      "title": "Fortaleza esporte clube",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20esporte%20clube",
+      "pubdate": "Fri, 14 Jun 2024 00:00:00 -0500"
     },
     {
-      "title": "Avai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
-      "pubdate": "Fri, 14 Jun 2024 07:00:00 -0500"
+      "title": "Skowa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Skowa",
+      "pubdate": "Fri, 14 Jun 2024 08:00:00 -0500"
+    },
+    {
+      "title": "UFC 303",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20303",
+      "pubdate": "Fri, 14 Jun 2024 09:00:00 -0500"
+    },
+    {
+      "title": "Edital TRF1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20TRF1",
+      "pubdate": "Fri, 14 Jun 2024 09:00:00 -0500"
     },
     {
       "title": "Embalagem de bolo mascara de oxigenio",
@@ -62,6 +82,11 @@
       "pubdate": "Thu, 13 Jun 2024 15:00:00 -0500"
     },
     {
+      "title": "Bahia x Fortaleza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Fortaleza",
+      "pubdate": "Thu, 13 Jun 2024 13:00:00 -0500"
+    },
+    {
       "title": "NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NBA",
       "pubdate": "Thu, 13 Jun 2024 05:00:00 -0500"
@@ -72,34 +97,9 @@
       "pubdate": "Thu, 13 Jun 2024 05:00:00 -0500"
     },
     {
-      "title": "Bahia x Fortaleza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Fortaleza",
-      "pubdate": "Thu, 13 Jun 2024 13:00:00 -0500"
-    },
-    {
       "title": "Cantor Nahim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cantor%20Nahim",
       "pubdate": "Thu, 13 Jun 2024 07:00:00 -0500"
-    },
-    {
-      "title": "Serie a",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
-      "pubdate": "Thu, 13 Jun 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Campeonato brasileiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20brasileiro",
-      "pubdate": "Thu, 13 Jun 2024 22:00:00 -0500"
-    },
-    {
-      "title": "Athletico-PR x Criciúma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Crici%C3%BAma",
-      "pubdate": "Thu, 13 Jun 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Santo antonio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santo%20antonio",
-      "pubdate": "Thu, 13 Jun 2024 05:00:00 -0500"
     }
   ]
 }
