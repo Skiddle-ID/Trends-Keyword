@@ -1,1 +1,1 @@
-Survivor,Yusuf Kavaklı,Avrupa Futbol Şampiyonası,Sıla Doğu,Hasan Can Kaya,Bayram namazı saati,Joe Biden,Yusuf Tekin,Teşrik tekbiri,Tarkan,Cumhurbaşkanı Erdoğan,Yurtdışı çıkış harcı,Eljif Elmas,Hande Yener,Cemil Meriç,Fenerbahçe Beko,KPSS önlisans başvuru,HSK,Nefise Karatay,Son depremler
+Survivor,Yusuf Kavaklı,Avrupa Futbol Şampiyonası,Hasan Can Kaya,Sıla Doğu,Yurtdışı çıkış harcı,Joe Biden,Bayram namazı saati,Teşrik tekbiri,Yusuf Tekin,Tarkan,Eljif Elmas,Cumhurbaşkanı Erdoğan,Hande Yener,Arefe günü,Dortmund,Cemil Meriç,Fenerbahçe Beko,HSK,KPSS önlisans başvuru

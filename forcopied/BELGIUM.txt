@@ -1,1 +1,1 @@
-Euro,Duitsland voetbal,US Open golf,François hollande,Marjolein Faber,Scotch and Soda,Luke Newton,Zaventem Airport,Jacques Dutronc,Ontploffing Hoboken,Marion Maréchal,Bridgerton,Lotte De Clerck,Brucargo,Theo Curin,Marc Dutroux,Ali B,Jerry West,AFAS,The Boys
+EK,Euro 2024 calendrier,Euro,Celine Dion,US Open golf,Matte Smets,Khamzat Chimaev,Gidi Markuszower,Luke Newton,Francesca Bridgerton,Zaventem Airport,Scotch and Soda,Jacques Dutronc,Ontploffing Hoboken,Marion Maréchal,Bridgerton,Lotte De Clerck,Brucargo,Theo Curin,Marc Dutroux

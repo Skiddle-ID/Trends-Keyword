@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2024 , 11:35:04",
+  "lastUpdate": "14-06-2024 , 12:51:14",
   "data": [
     {
       "title": "Blues vs Brumbies",
@@ -7,9 +7,9 @@
       "pubdate": "Fri, 14 Jun 2024 09:00:00 +1200"
     },
     {
-      "title": "U.S. Open Golf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#U.S.%20Open%20Golf",
-      "pubdate": "Fri, 14 Jun 2024 00:00:00 +1200"
+      "title": "Euros",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Euros",
+      "pubdate": "Fri, 14 Jun 2024 22:00:00 +1200"
     },
     {
       "title": "UFC",
@@ -17,9 +17,19 @@
       "pubdate": "Fri, 14 Jun 2024 17:00:00 +1200"
     },
     {
+      "title": "US Open golf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20Open%20golf",
+      "pubdate": "Fri, 14 Jun 2024 01:00:00 +1200"
+    },
+    {
       "title": "Weather Auckland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20Auckland",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +1200"
+    },
+    {
+      "title": "U.S. Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#U.S.%20Open",
+      "pubdate": "Fri, 14 Jun 2024 00:00:00 +1200"
     },
     {
       "title": "Ryan Fox",
@@ -37,14 +47,14 @@
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +1200"
     },
     {
-      "title": "Oman vs England",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oman%20vs%20England",
-      "pubdate": "Fri, 14 Jun 2024 09:00:00 +1200"
-    },
-    {
       "title": "Baby Mustafa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baby%20Mustafa",
       "pubdate": "Fri, 14 Jun 2024 18:00:00 +1200"
+    },
+    {
+      "title": "Oman vs England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oman%20vs%20England",
+      "pubdate": "Fri, 14 Jun 2024 09:00:00 +1200"
     },
     {
       "title": "Papua New Guinea vs Afghanistan",
@@ -62,11 +72,6 @@
       "pubdate": "Fri, 14 Jun 2024 07:00:00 +1200"
     },
     {
-      "title": "Tiger Woods",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tiger%20Woods",
-      "pubdate": "Fri, 14 Jun 2024 10:00:00 +1200"
-    },
-    {
       "title": "Victor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Victor",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +1200"
@@ -77,14 +82,14 @@
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +1200"
     },
     {
+      "title": "Tiger Woods",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tiger%20Woods",
+      "pubdate": "Fri, 14 Jun 2024 10:00:00 +1200"
+    },
+    {
       "title": "Nicola Coughlan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicola%20Coughlan",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +1200"
-    },
-    {
-      "title": "Sharks vs Dolphins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sharks%20vs%20Dolphins",
-      "pubdate": "Fri, 14 Jun 2024 05:00:00 +1200"
     },
     {
       "title": "MrBeast",
@@ -92,14 +97,9 @@
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +1200"
     },
     {
-      "title": "Rory McIlroy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rory%20McIlroy",
-      "pubdate": "Fri, 14 Jun 2024 16:00:00 +1200"
-    },
-    {
-      "title": "LPGA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LPGA",
-      "pubdate": "Fri, 14 Jun 2024 15:00:00 +1200"
+      "title": "Sharks vs Dolphins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sharks%20vs%20Dolphins",
+      "pubdate": "Fri, 14 Jun 2024 05:00:00 +1200"
     }
   ]
 }
