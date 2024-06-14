@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-06-2024 , 01:40:59",
+  "lastUpdate": "14-06-2024 , 02:44:45",
   "data": [
+    {
+      "title": "Babette de Rozières",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Babette%20de%20Rozi%C3%A8res",
+      "pubdate": "Fri, 14 Jun 2024 04:00:00 +0200"
+    },
     {
       "title": "Marion Maréchal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marion%20Mar%C3%A9chal",
@@ -32,11 +37,6 @@
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "The Boys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Boys",
-      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "Darmanin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Darmanin",
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
@@ -47,24 +47,19 @@
       "pubdate": "Thu, 13 Jun 2024 16:00:00 +0200"
     },
     {
-      "title": "Jerry West",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jerry%20West",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-    },
-    {
       "title": "Alpine A290",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alpine%20A290",
       "pubdate": "Thu, 13 Jun 2024 17:00:00 +0200"
     },
     {
+      "title": "The Boys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Boys",
+      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
+    },
+    {
       "title": "Dua Lipa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dua%20Lipa",
       "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Quatennens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Quatennens",
-      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Cordes-sur-Ciel",
@@ -100,6 +95,11 @@
       "title": "Georgie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georgie",
       "pubdate": "Thu, 13 Jun 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Adrien Quatennens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adrien%20Quatennens",
+      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
     }
   ]
 }
