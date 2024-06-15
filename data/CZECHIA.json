@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2024 , 23:36:30",
+  "lastUpdate": "15-06-2024 , 01:40:30",
   "data": [
     {
       "title": "Florida Panthers",
@@ -7,8 +7,8 @@
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Victoria zpěvačka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20zp%C4%9Bva%C4%8Dka",
+      "title": "Victoria zpevacka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20zpevacka",
       "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
     },
     {
@@ -22,9 +22,19 @@
       "pubdate": "Fri, 14 Jun 2024 07:00:00 +0200"
     },
     {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Německo – Skotsko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C4%9Bmecko%20%E2%80%93%20Skotsko",
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Kingsbet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kingsbet",
+      "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
     },
     {
       "title": "Viktoria",
@@ -62,6 +72,16 @@
       "pubdate": "Fri, 14 Jun 2024 17:00:00 +0200"
     },
     {
+      "title": "Vláda schválila zákon o podpoře bydlení",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vl%C3%A1da%20schv%C3%A1lila%20z%C3%A1kon%20o%20podpo%C5%99e%20bydlen%C3%AD",
+      "pubdate": "Fri, 14 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Matyáš Valenta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maty%C3%A1%C5%A1%20Valenta",
+      "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
+    },
+    {
       "title": "Ewa Farna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ewa%20Farna",
       "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Jaromír Soukup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarom%C3%ADr%20Soukup",
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Nina Špitálníková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nina%20%C5%A0pit%C3%A1ln%C3%ADkov%C3%A1",
-      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jakub Vadlejch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Vadlejch",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Prodigy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prodigy",
-      "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Jan Hamáček",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Ham%C3%A1%C4%8Dek",
-      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
     }
   ]
 }

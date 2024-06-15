@@ -1,1 +1,1 @@
-NHL,Germany vs Scotland,Euro 2024,Derek Jeter,Euro 2024 schedule,UFC 303,United States vs Ireland,Connor McDavid,Euros 2024,Paul Arcand,Bianca Andreescu,Edmonton,Jagmeet Singh,Tony Bennett,Air Canada manager gold heist,Victor,Boeing 737 Max Dutch roll,Alex Pereira,Frank Stronach,Aleksander Barkov
+NHL,EURO 2024,Derek Jeter,UFC,Inside Out 2,Euro Cup,Euro 2024 schedule,TSN,Tornado warning Edmonton,Connor McDavid,Euros 2024,Paul Arcand,Boeing 737 Max Dutch roll,Bianca Andreescu,Jagmeet Singh,Edmonton,Air Canada manager gold heist,USA vs Ireland,Victor,Frank Stronach

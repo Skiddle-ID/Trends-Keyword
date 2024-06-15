@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2024 , 23:36:38",
+  "lastUpdate": "15-06-2024 , 01:40:37",
   "data": [
     {
       "title": "大巨蛋",
@@ -37,9 +37,9 @@
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +0800"
     },
     {
-      "title": "劉喬安",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E5%96%AC%E5%AE%89",
-      "pubdate": "Fri, 14 Jun 2024 11:00:00 +0800"
+      "title": "中壢火車站",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E5%A3%A2%E7%81%AB%E8%BB%8A%E7%AB%99",
+      "pubdate": "Fri, 14 Jun 2024 09:00:00 +0800"
     },
     {
       "title": "華城",
@@ -50,6 +50,11 @@
       "title": "路雲",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B7%AF%E9%9B%B2",
       "pubdate": "Fri, 14 Jun 2024 19:00:00 +0800"
+    },
+    {
+      "title": "馬斯克",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A6%AC%E6%96%AF%E5%85%8B",
+      "pubdate": "Fri, 14 Jun 2024 02:00:00 +0800"
     },
     {
       "title": "TXT",
@@ -82,9 +87,9 @@
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
     },
     {
-      "title": "央行",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%AE%E8%A1%8C",
-      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
+      "title": "歐洲杯",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AD%90%E6%B4%B2%E6%9D%AF",
+      "pubdate": "Thu, 13 Jun 2024 20:00:00 +0800"
     },
     {
       "title": "鋰電池",
@@ -95,11 +100,6 @@
       "title": "MG4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MG4",
       "pubdate": "Thu, 13 Jun 2024 18:00:00 +0800"
-    },
-    {
-      "title": "王力宏",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E5%8A%9B%E5%AE%8F",
-      "pubdate": "Thu, 13 Jun 2024 19:00:00 +0800"
     }
   ]
 }

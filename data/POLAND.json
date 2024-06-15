@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "14-06-2024 , 23:36:36",
+  "lastUpdate": "15-06-2024 , 01:40:35",
   "data": [
     {
       "title": "To",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#To",
+      "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "15 czerwca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#15%20czerwca",
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
     },
     {
@@ -32,13 +37,13 @@
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "UEFA Euro 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UEFA%20Euro%202024",
-      "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
+      "title": "Neuer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Neuer",
+      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Rekiny W Bałtyku",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rekiny%20W%20Ba%C5%82tyku",
+      "title": "Rekiny w Bałtyku",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rekiny%20w%20Ba%C5%82tyku",
       "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
     },
     {
@@ -62,29 +67,19 @@
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
     },
     {
+      "title": "ME 2024 terminarz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ME%202024%20terminarz",
+      "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
+    },
+    {
       "title": "Marek Sawicki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marek%20Sawicki",
       "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
     },
     {
-      "title": "Manuel Neuer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manuel%20Neuer",
-      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Konrad Bukowiecki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konrad%20Bukowiecki",
-      "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
-    },
-    {
       "title": "Euro 2016",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Euro%202016",
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Dni Ursynowa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dni%20Ursynowa",
-      "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Mateusz Strzelczyk",
@@ -100,6 +95,11 @@
       "title": "Euro 2012",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Euro%202012",
       "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "UEFA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UEFA",
+      "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
     }
   ]
 }

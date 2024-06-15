@@ -1,1 +1,1 @@
-Ronaldo,Ilkay Gündogan,UEFA EURO 2024,Euro 2024,SRF Sport,Schweiz Ungarn,Thomas Müller,EM Spiele,Franz Beckenbauer,Toni Kroos,ZDF,Em Spiel,WM,Pride Zürich,Manuel Neuer,Copa America,ZDF live,Allianz Arena,Europameisterschaft,Gianna Nannini
+Ronaldo,Ilkay Gündogan,UEFA EURO 2024,Euro,EM 2024 Spielplan,SRF Sport,Schweiz Ungarn,Thomas Müller,Franz Beckenbauer,Toni Kroos,Festi'neuch,WM,Manuel Neuer,Copa America,Pride Zürich,Allianz Arena,Europameisterschaft,Gündogan,Gianna Nannini,Antonio Rüdiger

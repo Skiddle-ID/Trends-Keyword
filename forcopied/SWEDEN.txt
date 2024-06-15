@@ -1,1 +1,1 @@
-EM,Håkan Nesser,Beckenbauer,Benjamin Ingrosso,Insidan ut 2,Frida Nordstrand,Jetline,Manuel neuer,NMR,Khamzat Chimaev,Conor McGregor,Kate Winslet,AIK,Superettan,Way Out West,Kroos,fotbolls-EM,Duplantis,Allsång på Skansen 2024,Dennis Lyxzén
+Fotbolls-EM,EM,Håkan Nesser,Benjamin Ingrosso,Toni Kroos,Frida Nordstrand,Jetline,Manuel neuer,EM matcher,NMR,Khamzat Chimaev,UFC 303,Kate Winslet,AIK,Superettan,Rory McIlroy,Way Out West,Ludvig Åberg,US Open golf,Duplantis
