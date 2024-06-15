@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2024 , 11:35:21",
+  "lastUpdate": "15-06-2024 , 12:49:12",
   "data": [
     {
       "title": "Anselmino",
@@ -7,14 +7,19 @@
       "pubdate": "Sat, 15 Jun 2024 00:00:00 -0300"
     },
     {
+      "title": "Gervonta Davis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gervonta%20Davis",
+      "pubdate": "Sat, 15 Jun 2024 05:00:00 -0300"
+    },
+    {
+      "title": "Sebastian Sosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sebastian%20Sosa",
+      "pubdate": "Sat, 15 Jun 2024 01:00:00 -0300"
+    },
+    {
       "title": "Argentina - Guatemala",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20-%20Guatemala",
       "pubdate": "Fri, 14 Jun 2024 00:00:00 -0300"
-    },
-    {
-      "title": "Alemania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alemania",
-      "pubdate": "Fri, 14 Jun 2024 10:00:00 -0300"
     },
     {
       "title": "Carboni",
@@ -25,6 +30,16 @@
       "title": "Talleres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres",
       "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Alemania vs Escocia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alemania%20vs%20Escocia",
+      "pubdate": "Fri, 14 Jun 2024 13:00:00 -0300"
+    },
+    {
+      "title": "Gregorio Pérez Companc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gregorio%20P%C3%A9rez%20Companc",
+      "pubdate": "Fri, 14 Jun 2024 12:00:00 -0300"
     },
     {
       "title": "Cuando acecha la maldad",
@@ -42,11 +57,6 @@
       "pubdate": "Fri, 14 Jun 2024 22:00:00 -0300"
     },
     {
-      "title": "Loteria Nacional Nocturna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Loteria%20Nacional%20Nocturna",
-      "pubdate": "Fri, 14 Jun 2024 21:00:00 -0300"
-    },
-    {
       "title": "Garnacho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Garnacho",
       "pubdate": "Fri, 14 Jun 2024 23:00:00 -0300"
@@ -57,19 +67,24 @@
       "pubdate": "Fri, 14 Jun 2024 21:00:00 -0300"
     },
     {
-      "title": "Murió Gregorio Perez Companc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Muri%C3%B3%20Gregorio%20Perez%20Companc",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
+      "title": "Loteria Nacional Nocturna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Loteria%20Nacional%20Nocturna",
+      "pubdate": "Fri, 14 Jun 2024 21:00:00 -0300"
     },
     {
-      "title": "Pepe Guerra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pepe%20Guerra",
-      "pubdate": "Fri, 14 Jun 2024 01:00:00 -0300"
+      "title": "Kate Middleton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kate%20Middleton",
+      "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
     },
     {
       "title": "Euro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Euro",
       "pubdate": "Fri, 14 Jun 2024 16:00:00 -0300"
+    },
+    {
+      "title": "Pepe Guerra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pepe%20Guerra",
+      "pubdate": "Fri, 14 Jun 2024 01:00:00 -0300"
     },
     {
       "title": "Europa League",
@@ -85,21 +100,6 @@
       "title": "Accidente Buen Ayre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Accidente%20Buen%20Ayre",
       "pubdate": "Fri, 14 Jun 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Kate Middleton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kate%20Middleton",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Toni Kroos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Toni%20Kroos",
-      "pubdate": "Fri, 14 Jun 2024 19:00:00 -0300"
     }
   ]
 }

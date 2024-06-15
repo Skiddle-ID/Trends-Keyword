@@ -1,10 +1,30 @@
 {
-  "lastUpdate": "15-06-2024 , 11:35:30",
+  "lastUpdate": "15-06-2024 , 12:49:21",
   "data": [
     {
-      "title": "EM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM",
+      "title": "Johan Floderus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Floderus",
+      "pubdate": "Sat, 15 Jun 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Matija Sarkic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Matija%20Sarkic",
+      "pubdate": "Sat, 15 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#USA",
+      "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Em",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Em",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "fotbolls-EM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#fotbolls-EM",
+      "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
     },
     {
       "title": "Håkan Nesser",
@@ -80,26 +100,6 @@
       "title": "Kroos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kroos",
       "pubdate": "Fri, 14 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Ludvig Åberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
-      "pubdate": "Thu, 13 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Dennis Lyxzén",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dennis%20Lyxz%C3%A9n",
-      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Rosendal Garden Party",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rosendal%20Garden%20Party",
-      "pubdate": "Thu, 13 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Båstadtennis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#B%C3%A5stadtennis",
-      "pubdate": "Thu, 13 Jun 2024 18:00:00 +0200"
     }
   ]
 }

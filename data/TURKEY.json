@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2024 , 11:35:31",
+  "lastUpdate": "15-06-2024 , 12:49:22",
   "data": [
     {
       "title": "Türkiye",
@@ -22,14 +22,19 @@
       "pubdate": "Sat, 15 Jun 2024 13:00:00 +0300"
     },
     {
-      "title": "Kurban Bayramı mesajları",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kurban%20Bayram%C4%B1%20mesajlar%C4%B1",
+      "title": "Efe Önbilgin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Efe%20%C3%96nbilgin",
+      "pubdate": "Sat, 15 Jun 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Panathinaikos, Olympiakos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Panathinaikos,%20Olympiakos",
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
     },
     {
-      "title": "Bipolar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bipolar",
-      "pubdate": "Sat, 15 Jun 2024 01:00:00 +0300"
+      "title": "Kurban Bayramı mesajları",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kurban%20Bayram%C4%B1%20mesajlar%C4%B1",
+      "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
     },
     {
       "title": "Ceza",
@@ -37,9 +42,9 @@
       "pubdate": "Sat, 15 Jun 2024 01:00:00 +0300"
     },
     {
-      "title": "Efe Önbilgin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Efe%20%C3%96nbilgin",
-      "pubdate": "Sat, 15 Jun 2024 12:00:00 +0300"
+      "title": "Mats Hummels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mats%20Hummels",
+      "pubdate": "Sat, 15 Jun 2024 10:00:00 +0300"
     },
     {
       "title": "Abdullah Gül",
@@ -47,29 +52,24 @@
       "pubdate": "Sat, 15 Jun 2024 06:00:00 +0300"
     },
     {
-      "title": "Mats Hummels",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mats%20Hummels",
-      "pubdate": "Sat, 15 Jun 2024 10:00:00 +0300"
-    },
-    {
       "title": "İlkay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0lkay",
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
     },
     {
-      "title": "Ergin Ataman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ergin%20Ataman",
-      "pubdate": "Sat, 15 Jun 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Osmangazi Köprüsü",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Osmangazi%20K%C3%B6pr%C3%BCs%C3%BC",
-      "pubdate": "Sat, 15 Jun 2024 10:00:00 +0300"
-    },
-    {
       "title": "Barış Arduç",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bar%C4%B1%C5%9F%20Ardu%C3%A7",
       "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Yeni vergi paketi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yeni%20vergi%20paketi",
+      "pubdate": "Sat, 15 Jun 2024 14:00:00 +0300"
+    },
+    {
+      "title": "Euro 2024 Türkiye",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Euro%202024%20T%C3%BCrkiye",
+      "pubdate": "Sat, 15 Jun 2024 13:00:00 +0300"
     },
     {
       "title": "EURO 2024",
@@ -82,11 +82,6 @@
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +0300"
     },
     {
-      "title": "Survivor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Survivor",
-      "pubdate": "Fri, 14 Jun 2024 01:00:00 +0300"
-    },
-    {
       "title": "TRT 1 CANLI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%201%20CANLI",
       "pubdate": "Fri, 14 Jun 2024 22:00:00 +0300"
@@ -95,6 +90,11 @@
       "title": "Bayram namazı saati",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayram%20namaz%C4%B1%20saati",
       "pubdate": "Fri, 14 Jun 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Avrupa Şampiyonası",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Avrupa%20%C5%9Eampiyonas%C4%B1",
+      "pubdate": "Fri, 14 Jun 2024 23:00:00 +0300"
     },
     {
       "title": "Teşrik tekbiri",
