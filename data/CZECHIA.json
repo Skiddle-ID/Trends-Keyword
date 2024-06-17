@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 23:35:09",
+  "lastUpdate": "17-06-2024 , 01:44:25",
   "data": [
     {
       "title": "Den otců",
@@ -12,19 +12,9 @@
       "pubdate": "Sun, 16 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Polsko - Nizozemsko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Polsko%20-%20Nizozemsko",
-      "pubdate": "Sun, 16 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bellingham",
       "pubdate": "Sun, 16 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Island",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Island",
-      "pubdate": "Sun, 16 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Bechtěrevova nemoc",
@@ -37,9 +27,9 @@
       "pubdate": "Sun, 16 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Me fotbal 2024 program",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Me%20fotbal%202024%20program",
-      "pubdate": "Sun, 16 Jun 2024 17:00:00 +0200"
+      "title": "Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Island",
+      "pubdate": "Sun, 16 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Jak básníci",
@@ -82,24 +72,34 @@
       "pubdate": "Sat, 15 Jun 2024 22:00:00 +0200"
     },
     {
+      "title": "Princezna Kate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Princezna%20Kate",
+      "pubdate": "Sat, 15 Jun 2024 11:00:00 +0200"
+    },
+    {
       "title": "Messi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Messi",
       "pubdate": "Sat, 15 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Sport.cz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
-      "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Slovensko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensko",
-      "pubdate": "Sat, 15 Jun 2024 23:00:00 +0200"
-    },
-    {
       "title": "Morata",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Morata",
       "pubdate": "Sat, 15 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Victoria zpěvačka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20zp%C4%9Bva%C4%8Dka",
+      "pubdate": "Fri, 14 Jun 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Avril Lavigne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Avril%20Lavigne",
+      "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Německo – Skotsko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C4%9Bmecko%20%E2%80%93%20Skotsko",
+      "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
     }
   ]
 }

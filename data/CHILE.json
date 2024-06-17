@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 23:35:09",
+  "lastUpdate": "17-06-2024 , 01:44:24",
   "data": [
     {
       "title": "Día del Padre",
@@ -17,9 +17,19 @@
       "pubdate": "Sun, 16 Jun 2024 02:00:00 -0400"
     },
     {
+      "title": "La Casa del dragon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Casa%20del%20dragon",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0400"
+    },
+    {
       "title": "Paises Bajos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paises%20Bajos",
       "pubdate": "Sun, 16 Jun 2024 10:00:00 -0400"
+    },
+    {
+      "title": "Panamá  Paraguay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Panam%C3%A1%20%20Paraguay",
+      "pubdate": "Sun, 16 Jun 2024 19:00:00 -0400"
     },
     {
       "title": "Eslovenia",
@@ -32,14 +42,29 @@
       "pubdate": "Sun, 16 Jun 2024 16:00:00 -0400"
     },
     {
-      "title": "La Casa del dragon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Casa%20del%20dragon",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0400"
+      "title": "Feliz dia papa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Feliz%20dia%20papa",
+      "pubdate": "Sun, 16 Jun 2024 02:00:00 -0400"
+    },
+    {
+      "title": "La Rancherita",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Rancherita",
+      "pubdate": "Sun, 16 Jun 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Ñublense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
+      "pubdate": "Sun, 16 Jun 2024 16:00:00 -0400"
     },
     {
       "title": "Moisés Ortiz Urquidi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mois%C3%A9s%20Ortiz%20Urquidi",
       "pubdate": "Sun, 16 Jun 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Trasandino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Trasandino",
+      "pubdate": "Sun, 16 Jun 2024 15:00:00 -0400"
     },
     {
       "title": "Lewandowski",
@@ -62,9 +87,9 @@
       "pubdate": "Sat, 15 Jun 2024 10:00:00 -0400"
     },
     {
-      "title": "España vs Croacia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Espa%C3%B1a%20vs%20Croacia",
-      "pubdate": "Sat, 15 Jun 2024 00:00:00 -0400"
+      "title": "NBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#NBA",
+      "pubdate": "Sat, 15 Jun 2024 06:00:00 -0400"
     },
     {
       "title": "Copa Chile",
@@ -72,34 +97,9 @@
       "pubdate": "Sat, 15 Jun 2024 15:00:00 -0400"
     },
     {
-      "title": "NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#NBA",
-      "pubdate": "Sat, 15 Jun 2024 06:00:00 -0400"
-    },
-    {
       "title": "Colombia - Bolivia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20-%20Bolivia",
       "pubdate": "Sat, 15 Jun 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Gervonta Davis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gervonta%20Davis",
-      "pubdate": "Sat, 15 Jun 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Philadelphia , Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Philadelphia%20,%20Inter%20Miami",
-      "pubdate": "Sat, 15 Jun 2024 20:00:00 -0400"
-    },
-    {
-      "title": "La Rancherita",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Rancherita",
-      "pubdate": "Sat, 15 Jun 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Lamine Yamal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lamine%20Yamal",
-      "pubdate": "Sat, 15 Jun 2024 13:00:00 -0400"
     }
   ]
 }
