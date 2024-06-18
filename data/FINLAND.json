@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2024 , 23:36:35",
+  "lastUpdate": "18-06-2024 , 01:41:55",
   "data": [
     {
       "title": "Kante",
@@ -45,6 +45,11 @@
       "title": "Hiram Kasten",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hiram%20Kasten",
       "pubdate": "Mon, 17 Jun 2024 17:00:00 +0300"
+    },
+    {
+      "title": "FIFA Ranking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FIFA%20Ranking",
+      "pubdate": "Mon, 17 Jun 2024 22:00:00 +0300"
     },
     {
       "title": "Casino Royale",
@@ -94,11 +99,6 @@
     {
       "title": "Romania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Romania",
-      "pubdate": "Sun, 16 Jun 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Lewandowski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lewandowski",
       "pubdate": "Sun, 16 Jun 2024 17:00:00 +0300"
     }
   ]

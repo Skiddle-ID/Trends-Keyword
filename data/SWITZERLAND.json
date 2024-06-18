@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "17-06-2024 , 23:36:42",
+  "lastUpdate": "18-06-2024 , 01:42:00",
   "data": [
-    {
-      "title": "Belgium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Belgium",
-      "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
-    },
     {
       "title": "Sergio Ramos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Ramos",
+      "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Silenen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silenen",
       "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
     },
     {
@@ -17,8 +17,8 @@
       "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Silenen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silenen",
+      "title": "Belgium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Belgium",
       "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
     },
     {
@@ -35,6 +35,11 @@
       "title": "Rumänien Ukraine",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rum%C3%A4nien%20Ukraine",
       "pubdate": "Mon, 17 Jun 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mbappe",
+      "pubdate": "Mon, 17 Jun 2024 12:00:00 +0200"
     },
     {
       "title": "Lukaku",
@@ -72,14 +77,14 @@
       "pubdate": "Mon, 17 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "Arnautovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arnautovic",
-      "pubdate": "Mon, 17 Jun 2024 23:00:00 +0200"
-    },
-    {
       "title": "Martin Adam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Martin%20Adam",
       "pubdate": "Mon, 17 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Kinderfest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kinderfest",
+      "pubdate": "Mon, 17 Jun 2024 11:00:00 +0200"
     },
     {
       "title": "Giroud",
@@ -95,11 +100,6 @@
       "title": "Unfall Nürtingen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20N%C3%BCrtingen",
       "pubdate": "Mon, 17 Jun 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Dembele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dembele",
-      "pubdate": "Mon, 17 Jun 2024 22:00:00 +0200"
     }
   ]
 }

@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "17-06-2024 , 23:36:33",
+  "lastUpdate": "18-06-2024 , 01:41:53",
   "data": [
     {
       "title": "Foot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foot",
-      "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "L'ÉQUIPE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%89QUIPE",
       "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
     },
     {
@@ -22,14 +17,19 @@
       "pubdate": "Mon, 17 Jun 2024 16:00:00 +0200"
     },
     {
-      "title": "Frankrijk voetbal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frankrijk%20voetbal",
-      "pubdate": "Mon, 17 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
       "pubdate": "Mon, 17 Jun 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Frankrijk Oostenrijk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Frankrijk%20Oostenrijk",
+      "pubdate": "Mon, 17 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Cyriel Dessers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyriel%20Dessers",
+      "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Kevin De Bruyne",
@@ -40,11 +40,6 @@
       "title": "Roemenie voetbal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roemenie%20voetbal",
       "pubdate": "Mon, 17 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Cyriel Dessers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyriel%20Dessers",
-      "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Courtois",
@@ -95,6 +90,11 @@
       "title": "Amadou Onana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amadou%20Onana",
       "pubdate": "Mon, 17 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Belgische vlag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgische%20vlag",
+      "pubdate": "Mon, 17 Jun 2024 08:00:00 +0200"
     },
     {
       "title": "Etienne Willem",
