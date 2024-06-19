@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "18-06-2024 , 23:35:31",
+  "lastUpdate": "19-06-2024 , 01:42:06",
   "data": [
+    {
+      "title": "Clima",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clima",
+      "pubdate": "Tue, 18 Jun 2024 09:00:00 -0400"
+    },
     {
       "title": "Portugal vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Portugal%20vs",
@@ -17,14 +22,14 @@
       "pubdate": "Tue, 18 Jun 2024 08:00:00 -0400"
     },
     {
-      "title": "Penco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Penco",
-      "pubdate": "Tue, 18 Jun 2024 09:00:00 -0400"
-    },
-    {
       "title": "Noam Chomsky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noam%20Chomsky",
       "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Penco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Penco",
+      "pubdate": "Tue, 18 Jun 2024 09:00:00 -0400"
     },
     {
       "title": "Sushi",
@@ -37,19 +42,29 @@
       "pubdate": "Tue, 18 Jun 2024 10:00:00 -0400"
     },
     {
-      "title": "Pepe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pepe",
-      "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
-    },
-    {
       "title": "Justin Timberlake",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Justin%20Timberlake",
       "pubdate": "Tue, 18 Jun 2024 15:00:00 -0400"
     },
     {
+      "title": "Claudio Crespo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Crespo",
+      "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Pepe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pepe",
+      "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
+    },
+    {
       "title": "Burger King",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Burger%20King",
       "pubdate": "Tue, 18 Jun 2024 05:00:00 -0400"
+    },
+    {
+      "title": "Anca Molnar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anca%20Molnar",
+      "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
     },
     {
       "title": "Nintendo Direct",
@@ -67,9 +82,14 @@
       "pubdate": "Tue, 18 Jun 2024 09:00:00 -0400"
     },
     {
-      "title": "Paneles solares Argentina chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paneles%20solares%20Argentina%20chile",
-      "pubdate": "Tue, 18 Jun 2024 11:00:00 -0400"
+      "title": "Kim Jong-un",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kim%20Jong-un",
+      "pubdate": "Tue, 18 Jun 2024 20:00:00 -0400"
+    },
+    {
+      "title": "San Antonio Unido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Antonio%20Unido",
+      "pubdate": "Tue, 18 Jun 2024 19:00:00 -0400"
     },
     {
       "title": "Habbo",
@@ -77,29 +97,9 @@
       "pubdate": "Tue, 18 Jun 2024 17:00:00 -0400"
     },
     {
-      "title": "Jayson Tatum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jayson%20Tatum",
+      "title": "Paneles solares Argentina chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paneles%20solares%20Argentina%20chile",
       "pubdate": "Tue, 18 Jun 2024 11:00:00 -0400"
-    },
-    {
-      "title": "Lorenzo Somaschini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lorenzo%20Somaschini",
-      "pubdate": "Tue, 18 Jun 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Al Horford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Horford",
-      "pubdate": "Tue, 18 Jun 2024 16:00:00 -0400"
-    },
-    {
-      "title": "Lluvia en Santiago",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvia%20en%20Santiago",
-      "pubdate": "Tue, 18 Jun 2024 07:00:00 -0400"
-    },
-    {
-      "title": "Municipal Puente Alto  u de Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Municipal%20Puente%20Alto%20%20u%20de%20Chile",
-      "pubdate": "Mon, 17 Jun 2024 18:00:00 -0400"
     }
   ]
 }

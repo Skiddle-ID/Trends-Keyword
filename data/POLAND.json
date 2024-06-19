@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "18-06-2024 , 23:35:38",
+  "lastUpdate": "19-06-2024 , 01:42:12",
   "data": [
     {
       "title": "To",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#To",
+      "pubdate": "Wed, 19 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Arkadiusz Tomiak pogrzeb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arkadiusz%20Tomiak%20pogrzeb",
       "pubdate": "Wed, 19 Jun 2024 00:00:00 +0200"
     },
     {
@@ -57,6 +62,21 @@
       "pubdate": "Tue, 18 Jun 2024 12:00:00 +0200"
     },
     {
+      "title": "Michniewicz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michniewicz",
+      "pubdate": "Tue, 18 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Zaginęła Natalia Panocha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zagin%C4%99%C5%82a%20Natalia%20Panocha",
+      "pubdate": "Tue, 18 Jun 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Szpakowski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szpakowski",
+      "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Anouk Aimée",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anouk%20Aim%C3%A9e",
       "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
@@ -77,29 +97,9 @@
       "pubdate": "Tue, 18 Jun 2024 13:00:00 +0200"
     },
     {
-      "title": "Alan Andersz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alan%20Andersz",
-      "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Maria Dębska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20D%C4%99bska",
-      "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "KF Llapi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KF%20Llapi",
       "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Life by You",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Life%20by%20You",
-      "pubdate": "Tue, 18 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Roberto Martinez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roberto%20Martinez",
-      "pubdate": "Tue, 18 Jun 2024 23:00:00 +0200"
     }
   ]
 }
