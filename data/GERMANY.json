@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "19-06-2024 , 11:35:04",
+  "lastUpdate": "19-06-2024 , 12:51:59",
   "data": [
-    {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia",
-      "pubdate": "Wed, 19 Jun 2024 12:00:00 +0200"
-    },
     {
       "title": "Alexander Schweitzer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Schweitzer",
       "pubdate": "Wed, 19 Jun 2024 11:00:00 +0200"
     },
     {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia",
+      "pubdate": "Wed, 19 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Russland Ukraine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20Ukraine",
+      "pubdate": "Wed, 19 Jun 2024 11:00:00 +0200"
+    },
+    {
       "title": "Türkei - Georgien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei%20-%20Georgien",
-      "pubdate": "Tue, 18 Jun 2024 13:00:00 +0200"
+      "pubdate": "Tue, 18 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "Ronaldo",
@@ -22,14 +27,19 @@
       "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Arda Güler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arda%20G%C3%BCler",
-      "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
+      "title": "Deutschland - Ungarn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20-%20Ungarn",
+      "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Deutschland Ungarn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Ungarn",
-      "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cristiano%20Ronaldo",
+      "pubdate": "Tue, 18 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Justin Timberlake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Justin%20Timberlake",
+      "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Frankreich",
@@ -37,9 +47,9 @@
       "pubdate": "Tue, 18 Jun 2024 07:00:00 +0200"
     },
     {
-      "title": "Justin Timberlake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Justin%20Timberlake",
-      "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
+      "title": "Kroatien Albanien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20Albanien",
+      "pubdate": "Tue, 18 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Anouk Aimée",
@@ -55,16 +65,6 @@
       "title": "Alexander Zverev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
       "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Kroatien Albanien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20Albanien",
-      "pubdate": "Tue, 18 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Hakan Calhanoglu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hakan%20Calhanoglu",
-      "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Marlene Engelhorn",
@@ -87,6 +87,11 @@
       "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
     },
     {
+      "title": "Hakan Calhanoglu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hakan%20Calhanoglu",
+      "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
+    },
+    {
       "title": "Fisker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fisker",
       "pubdate": "Tue, 18 Jun 2024 15:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Türkei vs Georgien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei%20vs%20Georgien",
       "pubdate": "Mon, 17 Jun 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Ukraine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ukraine",
-      "pubdate": "Mon, 17 Jun 2024 17:00:00 +0200"
     }
   ]
 }

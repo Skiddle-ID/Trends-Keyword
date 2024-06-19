@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-06-2024 , 11:35:02",
+  "lastUpdate": "19-06-2024 , 12:51:57",
   "data": [
+    {
+      "title": "Paul McCartney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paul%20McCartney",
+      "pubdate": "Wed, 19 Jun 2024 07:00:00 -0400"
+    },
     {
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nvidia",
@@ -10,11 +15,6 @@
       "title": "Boca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
       "pubdate": "Wed, 19 Jun 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Croacia vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Croacia%20vs",
-      "pubdate": "Wed, 19 Jun 2024 03:00:00 -0400"
     },
     {
       "title": "Clima",
@@ -45,6 +45,11 @@
       "title": "Penco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Penco",
       "pubdate": "Tue, 18 Jun 2024 09:00:00 -0400"
+    },
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Alcaraz",
+      "pubdate": "Tue, 18 Jun 2024 12:00:00 -0400"
     },
     {
       "title": "Sushi",
@@ -89,11 +94,6 @@
     {
       "title": "Kalina de Bulgaria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kalina%20de%20Bulgaria",
-      "pubdate": "Tue, 18 Jun 2024 21:00:00 -0400"
-    },
-    {
-      "title": "Coltauco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coltauco",
       "pubdate": "Tue, 18 Jun 2024 21:00:00 -0400"
     },
     {

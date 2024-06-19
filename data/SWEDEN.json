@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 11:35:10",
+  "lastUpdate": "19-06-2024 , 12:52:06",
   "data": [
     {
       "title": "Mia Rusthen",
@@ -27,6 +27,16 @@
       "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
     },
     {
+      "title": "Turkiet Georgien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Turkiet%20Georgien",
+      "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cristiano%20Ronaldo",
+      "pubdate": "Tue, 18 Jun 2024 12:00:00 +0200"
+    },
+    {
       "title": "Putin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
       "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
@@ -52,11 +62,6 @@
       "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Turkiet mot Georgien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Turkiet%20mot%20Georgien",
-      "pubdate": "Tue, 18 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "The offspring",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20offspring",
       "pubdate": "Tue, 18 Jun 2024 20:00:00 +0200"
@@ -70,6 +75,11 @@
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
       "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
+    },
+    {
+      "title": "DCA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DCA",
+      "pubdate": "Tue, 18 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Salem",
@@ -90,16 +100,6 @@
       "title": "Landon Donovan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landon%20Donovan",
       "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Jakob Öqvist",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20%C3%96qvist",
-      "pubdate": "Tue, 18 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "DCA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DCA",
-      "pubdate": "Tue, 18 Jun 2024 23:00:00 +0200"
     }
   ]
 }
