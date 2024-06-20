@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "19-06-2024 , 23:36:14",
+  "lastUpdate": "20-06-2024 , 01:39:41",
   "data": [
+    {
+      "title": "Tóth Gabi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
+      "pubdate": "Thu, 20 Jun 2024 01:00:00 +0200"
+    },
     {
       "title": "Horvátország–Albánia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1torsz%C3%A1g%E2%80%93Alb%C3%A1nia",
       "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Skócia–svájc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sk%C3%B3cia%E2%80%93sv%C3%A1jc",
+      "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "M4",
@@ -15,11 +25,6 @@
       "title": "Ádám Martin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81d%C3%A1m%20Martin",
       "pubdate": "Wed, 19 Jun 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Shaqiri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shaqiri",
-      "pubdate": "Wed, 19 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Stuttgart",
@@ -47,14 +52,9 @@
       "pubdate": "Wed, 19 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Otthonfelújítási program",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Otthonfel%C3%BAj%C3%ADt%C3%A1si%20program",
-      "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
-    },
-    {
-      "title": "4iG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#4iG",
-      "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
+      "title": "Foci",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Foci",
+      "pubdate": "Wed, 19 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Novák Katalin",
@@ -72,9 +72,9 @@
       "pubdate": "Wed, 19 Jun 2024 09:00:00 +0200"
     },
     {
-      "title": "M4sport.hu élő",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport.hu%20%C3%A9l%C5%91",
-      "pubdate": "Wed, 19 Jun 2024 19:00:00 +0200"
+      "title": "Jakabos Zsuzsanna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakabos%20Zsuzsanna",
+      "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Frontin",
@@ -82,14 +82,14 @@
       "pubdate": "Wed, 19 Jun 2024 08:00:00 +0200"
     },
     {
+      "title": "A gyermek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20gyermek",
+      "pubdate": "Wed, 19 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nvidia",
       "pubdate": "Wed, 19 Jun 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Dárdai Pál",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A1rdai%20P%C3%A1l",
-      "pubdate": "Wed, 19 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Jackie Kennedy",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
     },
     {
-      "title": "M1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
-      "pubdate": "Wed, 19 Jun 2024 19:00:00 +0200"
+      "title": "Vb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vb",
+      "pubdate": "Wed, 19 Jun 2024 22:00:00 +0200"
     }
   ]
 }

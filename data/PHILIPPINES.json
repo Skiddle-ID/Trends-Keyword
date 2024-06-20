@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 23:36:18",
+  "lastUpdate": "20-06-2024 , 01:39:44",
   "data": [
     {
       "title": "Access",
@@ -7,19 +7,24 @@
       "pubdate": "Thu, 20 Jun 2024 00:00:00 +0800"
     },
     {
-      "title": "Cameron Brink",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cameron%20Brink",
-      "pubdate": "Thu, 20 Jun 2024 05:00:00 +0800"
-    },
-    {
       "title": "Croatia vs Albania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Croatia%20vs%20Albania",
       "pubdate": "Thu, 20 Jun 2024 01:00:00 +0800"
     },
     {
+      "title": "Cameron Brink",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cameron%20Brink",
+      "pubdate": "Thu, 20 Jun 2024 05:00:00 +0800"
+    },
+    {
       "title": "Honkai Star Rail",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Honkai%20Star%20Rail",
       "pubdate": "Thu, 20 Jun 2024 02:00:00 +0800"
+    },
+    {
+      "title": "19",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#19",
+      "pubdate": "Thu, 20 Jun 2024 08:00:00 +0800"
     },
     {
       "title": "Rizal",
@@ -52,6 +57,11 @@
       "pubdate": "Wed, 19 Jun 2024 07:00:00 +0800"
     },
     {
+      "title": "Juneteenth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Juneteenth",
+      "pubdate": "Wed, 19 Jun 2024 20:00:00 +0800"
+    },
+    {
       "title": "Jose Rizal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jose%20Rizal",
       "pubdate": "Wed, 19 Jun 2024 08:00:00 +0800"
@@ -82,11 +92,6 @@
       "pubdate": "Wed, 19 Jun 2024 08:00:00 +0800"
     },
     {
-      "title": "Aneurysm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Aneurysm",
-      "pubdate": "Wed, 19 Jun 2024 20:00:00 +0800"
-    },
-    {
       "title": "Agents of Mystery",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Agents%20of%20Mystery",
       "pubdate": "Wed, 19 Jun 2024 12:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nvidia",
       "pubdate": "Wed, 19 Jun 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Flesh-eating' bacteria Japan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Flesh-eating'%20bacteria%20Japan",
-      "pubdate": "Wed, 19 Jun 2024 20:00:00 +0800"
     }
   ]
 }

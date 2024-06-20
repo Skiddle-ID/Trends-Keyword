@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 23:36:17",
+  "lastUpdate": "20-06-2024 , 01:39:43",
   "data": [
     {
       "title": "Duitsland-Hongarije",
@@ -32,8 +32,8 @@
       "pubdate": "Wed, 19 Jun 2024 16:00:00 +0200"
     },
     {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
+      "title": "NVIDIA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NVIDIA",
       "pubdate": "Wed, 19 Jun 2024 00:00:00 +0200"
     },
     {
@@ -82,6 +82,11 @@
       "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
     },
     {
+      "title": "Linda de Mol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linda%20de%20Mol",
+      "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
+    },
+    {
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mbappe",
       "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Miss Nederland 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Miss%20Nederland%202024",
       "pubdate": "Mon, 17 Jun 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Wout Weghorst",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20Weghorst",
-      "pubdate": "Sun, 16 Jun 2024 15:00:00 +0200"
     }
   ]
 }

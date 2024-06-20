@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-06-2024 , 23:36:20",
+  "lastUpdate": "20-06-2024 , 01:39:46",
   "data": [
+    {
+      "title": "Northvolt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
+      "pubdate": "Thu, 20 Jun 2024 02:00:00 +0200"
+    },
     {
       "title": "Kroatien Albanien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kroatien%20Albanien",
@@ -17,13 +22,18 @@
       "pubdate": "Wed, 19 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Peder Falk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peder%20Falk",
-      "pubdate": "Wed, 19 Jun 2024 15:00:00 +0200"
-    },
-    {
       "title": "Mikael Lustig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mikael%20Lustig",
+      "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Mh370",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mh370",
+      "pubdate": "Wed, 19 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Sommarsolståndet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sommarsolst%C3%A5ndet",
       "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
     },
     {
@@ -37,14 +47,14 @@
       "pubdate": "Wed, 19 Jun 2024 23:00:00 +0200"
     },
     {
-      "title": "Skellefteå",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
-      "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Luxemburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luxemburg",
       "pubdate": "Wed, 19 Jun 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Skellefteå",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5",
+      "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Mia Rusthen",
@@ -64,7 +74,7 @@
     {
       "title": "Ronaldo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ronaldo",
-      "pubdate": "Tue, 18 Jun 2024 11:00:00 +0200"
+      "pubdate": "Tue, 18 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Johan Floderus",
@@ -90,16 +100,6 @@
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nvidia",
       "pubdate": "Tue, 18 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Messi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Messi",
-      "pubdate": "Tue, 18 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Turkiet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Turkiet",
-      "pubdate": "Tue, 18 Jun 2024 19:00:00 +0200"
     }
   ]
 }

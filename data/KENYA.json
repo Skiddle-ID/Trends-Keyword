@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 23:36:16",
+  "lastUpdate": "20-06-2024 , 01:39:42",
   "data": [
     {
       "title": "What is Gen Z",
@@ -57,8 +57,13 @@
       "pubdate": "Wed, 19 Jun 2024 10:00:00 +0300"
     },
     {
-      "title": "Spain vs Italy prediction",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spain%20vs%20Italy%20prediction",
+      "title": "Croatia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Croatia",
+      "pubdate": "Wed, 19 Jun 2024 19:00:00 +0300"
+    },
+    {
+      "title": "Spain vs Italy Prediction",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spain%20vs%20Italy%20Prediction",
       "pubdate": "Wed, 19 Jun 2024 02:00:00 +0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "EPL fixtures",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPL%20fixtures",
       "pubdate": "Tue, 18 Jun 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Gen Z",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gen%20Z",
-      "pubdate": "Tue, 18 Jun 2024 17:00:00 +0300"
     }
   ]
 }
