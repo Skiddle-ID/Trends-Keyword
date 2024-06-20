@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-06-2024 , 07:35:13",
+  "lastUpdate": "20-06-2024 , 08:37:03",
   "data": [
+    {
+      "title": "West Indies vs England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#West%20Indies%20vs%20England",
+      "pubdate": "Thu, 20 Jun 2024 08:00:00 +0100"
+    },
     {
       "title": "Scotland v Switzerland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Scotland%20v%20Switzerland",
@@ -95,11 +100,6 @@
       "title": "Brendan Ogle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brendan%20Ogle",
       "pubdate": "Wed, 19 Jun 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Fairview Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fairview%20Park",
-      "pubdate": "Wed, 19 Jun 2024 20:00:00 +0100"
     }
   ]
 }
