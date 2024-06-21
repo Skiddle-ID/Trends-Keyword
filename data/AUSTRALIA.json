@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2024 , 11:36:57",
+  "lastUpdate": "21-06-2024 , 12:50:19",
   "data": [
     {
       "title": "Donald Sutherland",
@@ -14,17 +14,12 @@
     {
       "title": "England vs Denmark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Denmark",
-      "pubdate": "Fri, 21 Jun 2024 02:00:00 +1000"
+      "pubdate": "Fri, 21 Jun 2024 01:00:00 +1000"
     },
     {
       "title": "Spain vs Italy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spain%20vs%20Italy",
       "pubdate": "Fri, 21 Jun 2024 05:00:00 +1000"
-    },
-    {
-      "title": "India vs Afghanistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Afghanistan",
-      "pubdate": "Fri, 21 Jun 2024 01:00:00 +1000"
     },
     {
       "title": "Josh Giddey",
@@ -42,14 +37,14 @@
       "pubdate": "Fri, 21 Jun 2024 11:00:00 +1000"
     },
     {
+      "title": "Melbourne Storm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Storm",
+      "pubdate": "Fri, 21 Jun 2024 21:00:00 +1000"
+    },
+    {
       "title": "Solstice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Solstice",
       "pubdate": "Fri, 21 Jun 2024 07:00:00 +1000"
-    },
-    {
-      "title": "Ryan Garcia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Garcia",
-      "pubdate": "Fri, 21 Jun 2024 09:00:00 +1000"
     },
     {
       "title": "Robert Ovadia",
@@ -57,9 +52,14 @@
       "pubdate": "Fri, 21 Jun 2024 14:00:00 +1000"
     },
     {
-      "title": "England football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20football",
-      "pubdate": "Fri, 21 Jun 2024 04:00:00 +1000"
+      "title": "Ryan Garcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Garcia",
+      "pubdate": "Fri, 21 Jun 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Carlton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton",
+      "pubdate": "Fri, 21 Jun 2024 20:00:00 +1000"
     },
     {
       "title": "Travis Scott",
@@ -67,9 +67,24 @@
       "pubdate": "Fri, 21 Jun 2024 08:00:00 +1000"
     },
     {
+      "title": "England football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20football",
+      "pubdate": "Fri, 21 Jun 2024 04:00:00 +1000"
+    },
+    {
       "title": "JJ Redick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#JJ%20Redick",
       "pubdate": "Fri, 21 Jun 2024 11:00:00 +1000"
+    },
+    {
+      "title": "Underdog",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Underdog",
+      "pubdate": "Fri, 21 Jun 2024 12:00:00 +1000"
+    },
+    {
+      "title": "Trigger Warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trigger%20Warning",
+      "pubdate": "Fri, 21 Jun 2024 21:00:00 +1000"
     },
     {
       "title": "Carlos Alcaraz",
@@ -77,29 +92,14 @@
       "pubdate": "Fri, 21 Jun 2024 05:00:00 +1000"
     },
     {
-      "title": "Serbia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serbia",
-      "pubdate": "Fri, 21 Jun 2024 02:00:00 +1000"
-    },
-    {
       "title": "Gracie Abrams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gracie%20Abrams",
       "pubdate": "Fri, 21 Jun 2024 16:00:00 +1000"
     },
     {
-      "title": "GYG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GYG",
-      "pubdate": "Thu, 20 Jun 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Stonehenge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stonehenge",
-      "pubdate": "Thu, 20 Jun 2024 09:00:00 +1000"
-    },
-    {
-      "title": "Ash Barty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ash%20Barty",
-      "pubdate": "Thu, 20 Jun 2024 12:00:00 +1000"
+      "title": "Serbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serbia",
+      "pubdate": "Fri, 21 Jun 2024 02:00:00 +1000"
     }
   ]
 }

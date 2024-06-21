@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2024 , 11:36:58",
+  "lastUpdate": "21-06-2024 , 12:50:20",
   "data": [
     {
       "title": "Richmond Fire",
@@ -14,6 +14,11 @@
     {
       "title": "Elden Ring DLC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elden%20Ring%20DLC",
+      "pubdate": "Fri, 21 Jun 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Australia vs Bangladesh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Bangladesh",
       "pubdate": "Fri, 21 Jun 2024 00:00:00 -0400"
     },
     {
@@ -42,24 +47,9 @@
       "pubdate": "Thu, 20 Jun 2024 12:00:00 -0400"
     },
     {
-      "title": "India vs Afghanistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#India%20vs%20Afghanistan",
-      "pubdate": "Thu, 20 Jun 2024 11:00:00 -0400"
-    },
-    {
-      "title": "Canada Soccer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Soccer",
-      "pubdate": "Thu, 20 Jun 2024 09:00:00 -0400"
-    },
-    {
       "title": "Kendrick Lamar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kendrick%20Lamar",
       "pubdate": "Thu, 20 Jun 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Bangladesh vs Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bangladesh%20vs%20Australia",
-      "pubdate": "Thu, 20 Jun 2024 21:00:00 -0400"
     },
     {
       "title": "Travis Scott",
@@ -72,24 +62,9 @@
       "pubdate": "Thu, 20 Jun 2024 19:00:00 -0400"
     },
     {
-      "title": "Slovenia vs Serbia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Slovenia%20vs%20Serbia",
-      "pubdate": "Thu, 20 Jun 2024 10:00:00 -0400"
-    },
-    {
-      "title": "Argentine – Canada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentine%20%E2%80%93%20Canada",
-      "pubdate": "Thu, 20 Jun 2024 21:00:00 -0400"
-    },
-    {
       "title": "National Indigenous Peoples Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#National%20Indigenous%20Peoples%20Day",
       "pubdate": "Thu, 20 Jun 2024 21:00:00 -0400"
-    },
-    {
-      "title": "Full moon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Full%20moon",
-      "pubdate": "Thu, 20 Jun 2024 10:00:00 -0400"
     },
     {
       "title": "Israel Hezbollah war",
@@ -97,9 +72,34 @@
       "pubdate": "Thu, 20 Jun 2024 01:00:00 -0400"
     },
     {
+      "title": "Full moon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Full%20moon",
+      "pubdate": "Thu, 20 Jun 2024 10:00:00 -0400"
+    },
+    {
       "title": "JJ Redick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JJ%20Redick",
       "pubdate": "Thu, 20 Jun 2024 17:00:00 -0400"
+    },
+    {
+      "title": "Alouettes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alouettes",
+      "pubdate": "Thu, 20 Jun 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Churchill Falls",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Churchill%20Falls",
+      "pubdate": "Thu, 20 Jun 2024 08:00:00 -0400"
+    },
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
+      "pubdate": "Thu, 20 Jun 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Maxime crépeau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maxime%20cr%C3%A9peau",
+      "pubdate": "Thu, 20 Jun 2024 22:00:00 -0400"
     }
   ]
 }
