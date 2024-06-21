@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-06-2024 , 23:36:04",
+  "lastUpdate": "21-06-2024 , 01:40:07",
   "data": [
+    {
+      "title": "Copa America 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Copa%20America%202024",
+      "pubdate": "Fri, 21 Jun 2024 01:00:00 +0200"
+    },
     {
       "title": "Giorgia Wurth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgia%20Wurth",
@@ -9,11 +14,6 @@
     {
       "title": "Bonucci",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bonucci",
-      "pubdate": "Fri, 21 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Carlo Beretta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlo%20Beretta",
       "pubdate": "Fri, 21 Jun 2024 00:00:00 +0200"
     },
     {
@@ -42,19 +42,9 @@
       "pubdate": "Thu, 20 Jun 2024 17:00:00 +0200"
     },
     {
-      "title": "Donnarumma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Donnarumma",
-      "pubdate": "Thu, 20 Jun 2024 21:00:00 +0200"
-    },
-    {
       "title": "Lamine Yamal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lamine%20Yamal",
       "pubdate": "Thu, 20 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Danimarca-Inghilterra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Danimarca-Inghilterra",
-      "pubdate": "Thu, 20 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Slovenia-Serbia",
@@ -67,19 +57,19 @@
       "pubdate": "Thu, 20 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Scisma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scisma",
-      "pubdate": "Thu, 20 Jun 2024 19:00:00 +0200"
-    },
-    {
       "title": "Morata",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Morata",
       "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Barella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barella",
-      "pubdate": "Thu, 20 Jun 2024 21:00:00 +0200"
+      "title": "Scisma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scisma",
+      "pubdate": "Thu, 20 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Rai play",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai%20play",
+      "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Gelsenkirchen",
@@ -92,13 +82,23 @@
       "pubdate": "Thu, 20 Jun 2024 11:00:00 +0200"
     },
     {
+      "title": "Rai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai",
+      "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Depay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Depay",
       "pubdate": "Thu, 20 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "Ghost",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ghost",
+      "title": "Chiesa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiesa",
+      "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Barella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barella",
       "pubdate": "Thu, 20 Jun 2024 21:00:00 +0200"
     }
   ]
