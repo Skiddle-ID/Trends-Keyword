@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2024 , 23:35:13",
+  "lastUpdate": "23-06-2024 , 01:45:39",
   "data": [
     {
       "title": "Lukaku",
@@ -17,11 +17,6 @@
       "pubdate": "Sat, 22 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Sankthansaften",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sankthansaften",
-      "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
-    },
-    {
       "title": "Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
       "pubdate": "Sat, 22 Jun 2024 16:00:00 +0200"
@@ -30,6 +25,11 @@
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Portugal",
       "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Romania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Romania",
+      "pubdate": "Sat, 22 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Cristiano Ronaldo",
