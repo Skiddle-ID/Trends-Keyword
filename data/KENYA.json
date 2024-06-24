@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "23-06-2024 , 23:35:46",
+  "lastUpdate": "24-06-2024 , 01:43:20",
   "data": [
+    {
+      "title": "Barnabas Varga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barnabas%20Varga",
+      "pubdate": "Mon, 24 Jun 2024 02:00:00 +0300"
+    },
+    {
+      "title": "USA vs Bolivia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#USA%20vs%20Bolivia",
+      "pubdate": "Mon, 24 Jun 2024 02:00:00 +0300"
+    },
     {
       "title": "Switzerland vs Germany",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Switzerland%20vs%20Germany",
@@ -27,16 +37,6 @@
       "pubdate": "Sun, 23 Jun 2024 15:00:00 +0300"
     },
     {
-      "title": "Formula 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Formula%201",
-      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Ecuador vs Venezuela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ecuador%20vs%20Venezuela",
-      "pubdate": "Sun, 23 Jun 2024 00:00:00 +0300"
-    },
-    {
       "title": "Mexico vs Jamaica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mexico%20vs%20Jamaica",
       "pubdate": "Sun, 23 Jun 2024 00:00:00 +0300"
@@ -47,6 +47,11 @@
       "pubdate": "Sun, 23 Jun 2024 09:00:00 +0300"
     },
     {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Formula%201",
+      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0300"
+    },
+    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
       "pubdate": "Sun, 23 Jun 2024 01:00:00 +0300"
@@ -55,6 +60,16 @@
       "title": "Foolio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Foolio",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Jonathan David",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jonathan%20David",
+      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Spanish GP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spanish%20GP",
+      "pubdate": "Sun, 23 Jun 2024 18:00:00 +0300"
     },
     {
       "title": "IMF",
@@ -85,21 +100,6 @@
       "title": "Crazy Nairobian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crazy%20Nairobian",
       "pubdate": "Sat, 22 Jun 2024 19:00:00 +0300"
-    },
-    {
-      "title": "F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#F1",
-      "pubdate": "Sat, 22 Jun 2024 01:00:00 +0300"
-    },
-    {
-      "title": "David Ndii",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#David%20Ndii",
-      "pubdate": "Sat, 22 Jun 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Pastor Robert Morris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pastor%20Robert%20Morris",
-      "pubdate": "Sat, 22 Jun 2024 10:00:00 +0300"
     }
   ]
 }

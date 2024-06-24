@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2024 , 23:35:48",
+  "lastUpdate": "24-06-2024 , 01:43:22",
   "data": [
     {
       "title": "Alemanha",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 23 Jun 2024 20:00:00 +0100"
     },
     {
+      "title": "Doja Cat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Doja%20Cat",
+      "pubdate": "Sun, 23 Jun 2024 09:00:00 +0100"
+    },
+    {
       "title": "Camila Cabello Rock in Rio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Camila%20Cabello%20Rock%20in%20Rio",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Ne-Yo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ne-Yo",
-      "pubdate": "Sun, 23 Jun 2024 12:00:00 +0100"
     },
     {
       "title": "Sao joao Porto",
@@ -22,9 +22,14 @@
       "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
     },
     {
-      "title": "Luisa Sonza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luisa%20Sonza",
-      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
+      "title": "Ne-Yo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ne-Yo",
+      "pubdate": "Sun, 23 Jun 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Barnabas Varga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barnabas%20Varga",
+      "pubdate": "Sun, 23 Jun 2024 22:00:00 +0100"
     },
     {
       "title": "Vasco",
@@ -37,19 +42,19 @@
       "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
     },
     {
+      "title": "Hungria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hungria",
+      "pubdate": "Sun, 23 Jun 2024 21:00:00 +0100"
+    },
+    {
       "title": "Brasileirão",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasileir%C3%A3o",
       "pubdate": "Sun, 23 Jun 2024 12:00:00 +0100"
     },
     {
-      "title": "Barnabas Varga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barnabas%20Varga",
-      "pubdate": "Sun, 23 Jun 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Escocia Hungria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Escocia%20Hungria",
-      "pubdate": "Sun, 23 Jun 2024 21:00:00 +0100"
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
+      "pubdate": "Sun, 23 Jun 2024 14:00:00 +0100"
     },
     {
       "title": "Aitana",
@@ -62,19 +67,9 @@
       "pubdate": "Sun, 23 Jun 2024 08:00:00 +0100"
     },
     {
-      "title": "Arronches",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arronches",
-      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
-    },
-    {
       "title": "Mafalda Castro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Castro",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Palhinha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palhinha",
-      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
     },
     {
       "title": "As",
@@ -82,24 +77,29 @@
       "pubdate": "Sun, 23 Jun 2024 07:00:00 +0100"
     },
     {
-      "title": "Michael Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Schumacher",
-      "pubdate": "Sun, 23 Jun 2024 18:00:00 +0100"
+      "title": "Arronches",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arronches",
+      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Casamento Nuno Santos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casamento%20Nuno%20Santos",
+      "pubdate": "Sun, 23 Jun 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Palhinha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palhinha",
+      "pubdate": "Sun, 23 Jun 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Palmeiras  Juventude",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Juventude",
+      "pubdate": "Sun, 23 Jun 2024 23:00:00 +0100"
     },
     {
       "title": "Bahia x Cruzeiro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bahia%20x%20Cruzeiro",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Nuno Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Santos",
-      "pubdate": "Sun, 23 Jun 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Priyanka Chopra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Priyanka%20Chopra",
-      "pubdate": "Sun, 23 Jun 2024 01:00:00 +0100"
     }
   ]
 }

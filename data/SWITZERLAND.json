@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2024 , 23:35:49",
+  "lastUpdate": "24-06-2024 , 01:43:24",
   "data": [
     {
       "title": "Rodriguez",
@@ -15,6 +15,11 @@
       "title": "David Raum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Raum",
       "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
+      "pubdate": "Mon, 24 Jun 2024 02:00:00 +0200"
     },
     {
       "title": "Schweiz Deutschland EM",
@@ -52,19 +57,24 @@
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Rüdiger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#R%C3%BCdiger",
+      "title": "Tabelle EM 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tabelle%20EM%202024",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "ARD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
-      "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
+      "title": "Julian Nagelsmann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julian%20Nagelsmann",
+      "pubdate": "Sun, 23 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Unwetter Schweiz Graubünden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Schweiz%20Graub%C3%BCnden",
       "pubdate": "Sun, 23 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Antonio Rüdiger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Antonio%20R%C3%BCdiger",
+      "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Joshua Kimmich",
@@ -77,8 +87,8 @@
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Jonathan Tah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jonathan%20Tah",
+      "title": "ARD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Silvan Widmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silvan%20Widmer",
-      "pubdate": "Sun, 23 Jun 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Mask Singer 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mask%20Singer%202024",
-      "pubdate": "Sun, 23 Jun 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Gündogan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#G%C3%BCndogan",
-      "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
+      "title": "Schweinsteiger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweinsteiger",
+      "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
     }
   ]
 }

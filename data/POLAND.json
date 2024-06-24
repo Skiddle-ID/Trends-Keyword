@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-06-2024 , 23:35:47",
+  "lastUpdate": "24-06-2024 , 01:43:22",
   "data": [
     {
       "title": "Dzień Ojca",
@@ -52,6 +52,11 @@
       "pubdate": "Sun, 23 Jun 2024 20:00:00 +0200"
     },
     {
+      "title": "23 czerwca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#23%20czerwca",
+      "pubdate": "Sun, 23 Jun 2024 02:00:00 +0200"
+    },
+    {
       "title": "Musiala",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Musiala",
       "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
@@ -72,6 +77,11 @@
       "pubdate": "Sun, 23 Jun 2024 08:00:00 +0200"
     },
     {
+      "title": "Paluch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paluch",
+      "pubdate": "Sun, 23 Jun 2024 00:00:00 +0200"
+    },
+    {
       "title": "Prezydent Andrzej Duda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Andrzej%20Duda",
       "pubdate": "Sun, 23 Jun 2024 14:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Javier Solana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Javier%20Solana",
       "pubdate": "Sun, 23 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Sara James",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sara%20James",
-      "pubdate": "Sun, 23 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Mateusz Bogusz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Bogusz",
-      "pubdate": "Sun, 23 Jun 2024 19:00:00 +0200"
     }
   ]
 }
