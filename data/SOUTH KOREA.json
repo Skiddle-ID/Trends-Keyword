@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "24-06-2024 , 23:35:42",
+  "lastUpdate": "25-06-2024 , 01:41:33",
   "data": [
     {
       "title": "마이크로닷",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%8B%B7",
       "pubdate": "Tue, 25 Jun 2024 01:00:00 +0900"
+    },
+    {
+      "title": "소설가 정지돈",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%8C%EC%84%A4%EA%B0%80%20%EC%A0%95%EC%A7%80%EB%8F%88",
+      "pubdate": "Tue, 25 Jun 2024 09:00:00 +0900"
     },
     {
       "title": "화성 배터리 공장",
@@ -47,6 +52,11 @@
       "pubdate": "Mon, 24 Jun 2024 09:00:00 +0900"
     },
     {
+      "title": "설영우",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%84%A4%EC%98%81%EC%9A%B0",
+      "pubdate": "Mon, 24 Jun 2024 17:00:00 +0900"
+    },
+    {
       "title": "코지마",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BD%94%EC%A7%80%EB%A7%88",
       "pubdate": "Mon, 24 Jun 2024 13:00:00 +0900"
@@ -60,11 +70,6 @@
       "title": "심야괴담회",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%AC%EC%95%BC%EA%B4%B4%EB%8B%B4%ED%9A%8C",
       "pubdate": "Mon, 24 Jun 2024 01:00:00 +0900"
-    },
-    {
-      "title": "신진호",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%EC%A7%84%ED%98%B8",
-      "pubdate": "Mon, 24 Jun 2024 13:00:00 +0900"
     },
     {
       "title": "연기학원 대표",
@@ -95,11 +100,6 @@
       "title": "김도영",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%8F%84%EC%98%81",
       "pubdate": "Sun, 23 Jun 2024 19:00:00 +0900"
-    },
-    {
-      "title": "검은사막",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B2%80%EC%9D%80%EC%82%AC%EB%A7%89",
-      "pubdate": "Sun, 23 Jun 2024 01:00:00 +0900"
     }
   ]
 }

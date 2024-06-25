@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "24-06-2024 , 23:35:41",
+  "lastUpdate": "25-06-2024 , 01:41:32",
   "data": [
     {
       "title": "Ponta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ponta",
       "pubdate": "Tue, 25 Jun 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Nosferatu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nosferatu",
+      "pubdate": "Tue, 25 Jun 2024 02:00:00 +0300"
     },
     {
       "title": "Ie",
@@ -22,14 +27,14 @@
       "pubdate": "Mon, 24 Jun 2024 00:00:00 +0300"
     },
     {
-      "title": "Evaluare nationala 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Evaluare%20nationala%202024",
-      "pubdate": "Mon, 24 Jun 2024 05:00:00 +0300"
-    },
-    {
       "title": "Albania - Spania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Albania%20-%20Spania",
       "pubdate": "Mon, 24 Jun 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Evaluare nationala 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Evaluare%20nationala%202024",
+      "pubdate": "Mon, 24 Jun 2024 05:00:00 +0300"
     },
     {
       "title": "Tamayo Perry",
@@ -45,11 +50,6 @@
       "title": "Germania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Germania",
       "pubdate": "Mon, 24 Jun 2024 00:00:00 +0300"
-    },
-    {
-      "title": "Mario Iorgulescu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mario%20Iorgulescu",
-      "pubdate": "Mon, 24 Jun 2024 16:00:00 +0300"
     },
     {
       "title": "CFR Cluj",
@@ -72,11 +72,6 @@
       "pubdate": "Mon, 24 Jun 2024 00:00:00 +0300"
     },
     {
-      "title": "Cristian Molnar Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristian%20Molnar%20Italia",
-      "pubdate": "Mon, 24 Jun 2024 09:00:00 +0300"
-    },
-    {
       "title": "Elena Ionescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elena%20Ionescu",
       "pubdate": "Mon, 24 Jun 2024 17:00:00 +0300"
@@ -87,19 +82,24 @@
       "pubdate": "Mon, 24 Jun 2024 11:00:00 +0300"
     },
     {
-      "title": "Formula 1 Marele Premiu al spaniei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201%20Marele%20Premiu%20al%20spaniei",
-      "pubdate": "Mon, 24 Jun 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Sfanta Treime",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfanta%20Treime",
-      "pubdate": "Mon, 24 Jun 2024 09:00:00 +0300"
-    },
-    {
       "title": "Stephen Hawking",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stephen%20Hawking",
       "pubdate": "Mon, 24 Jun 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Toscana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Toscana",
+      "pubdate": "Mon, 24 Jun 2024 21:00:00 +0300"
+    },
+    {
+      "title": "e-TVA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#e-TVA",
+      "pubdate": "Mon, 24 Jun 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elon%20Musk",
+      "pubdate": "Mon, 24 Jun 2024 15:00:00 +0300"
     }
   ]
 }
