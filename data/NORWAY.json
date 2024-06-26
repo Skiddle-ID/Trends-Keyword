@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2024 , 23:35:54",
+  "lastUpdate": "26-06-2024 , 01:41:15",
   "data": [
     {
       "title": "Julian Assange",
@@ -7,9 +7,14 @@
       "pubdate": "Tue, 25 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "England Slovenia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England%20Slovenia",
+      "title": "England-Slovenia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England-Slovenia",
       "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Serbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serbia",
+      "pubdate": "Tue, 25 Jun 2024 23:00:00 +0200"
     },
     {
       "title": "Jakob Ingebrigtsen",
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
     },
     {
-      "title": "Serbia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serbia",
-      "pubdate": "Tue, 25 Jun 2024 23:00:00 +0200"
+      "title": "Dr. Disrespect",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dr.%20Disrespect",
+      "pubdate": "Tue, 25 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "England",
@@ -37,24 +42,9 @@
       "pubdate": "Tue, 25 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Dr. Disrespect",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dr.%20Disrespect",
-      "pubdate": "Tue, 25 Jun 2024 16:00:00 +0200"
-    },
-    {
       "title": "Espen Teigen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Espen%20Teigen",
       "pubdate": "Tue, 25 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nairobi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nairobi",
-      "pubdate": "Tue, 25 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Nosferatu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nosferatu",
-      "pubdate": "Tue, 25 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Christina Lindberg",
@@ -67,9 +57,24 @@
       "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
     },
     {
+      "title": "Nairobi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nairobi",
+      "pubdate": "Tue, 25 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Nosferatu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nosferatu",
+      "pubdate": "Tue, 25 Jun 2024 09:00:00 +0200"
+    },
+    {
       "title": "Nederland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland",
       "pubdate": "Tue, 25 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Bryan Adams Bergen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bryan%20Adams%20Bergen",
+      "pubdate": "Tue, 25 Jun 2024 18:00:00 +0200"
     },
     {
       "title": "Tonje Brenna",
@@ -82,8 +87,8 @@
       "pubdate": "Tue, 25 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Kroatia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kroatia",
+      "title": "Luka Modrić",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luka%20Modri%C4%87",
       "pubdate": "Mon, 24 Jun 2024 22:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Thomas Brodie-Sangster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Brodie-Sangster",
       "pubdate": "Mon, 24 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Calafiori",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Calafiori",
-      "pubdate": "Mon, 24 Jun 2024 23:00:00 +0200"
     }
   ]
 }

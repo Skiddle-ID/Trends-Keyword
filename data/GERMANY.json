@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "25-06-2024 , 23:35:49",
+  "lastUpdate": "26-06-2024 , 01:41:12",
   "data": [
     {
       "title": "Sandro Wagner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sandro%20Wagner",
       "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Frankreich Polen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20Polen",
-      "pubdate": "Tue, 25 Jun 2024 06:00:00 +0200"
     },
     {
       "title": "Niederlande – Österreich",
@@ -20,6 +15,11 @@
       "title": "England Slowenien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#England%20Slowenien",
       "pubdate": "Tue, 25 Jun 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Frankreich Polen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20Polen",
+      "pubdate": "Tue, 25 Jun 2024 06:00:00 +0200"
     },
     {
       "title": "Julian Assange",
@@ -40,11 +40,6 @@
       "title": "Crazy Town",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Crazy%20Town",
       "pubdate": "Tue, 25 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Lewandowski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lewandowski",
-      "pubdate": "Tue, 25 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Solingen",
@@ -100,6 +95,11 @@
       "title": "Kroatien Italien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20Italien",
       "pubdate": "Sun, 23 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Albanien Spanien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Albanien%20Spanien",
+      "pubdate": "Sun, 23 Jun 2024 10:00:00 +0200"
     }
   ]
 }

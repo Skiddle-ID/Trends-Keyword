@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "25-06-2024 , 23:35:46",
+  "lastUpdate": "26-06-2024 , 01:41:09",
   "data": [
     {
-      "title": "Lewandowski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lewandowski",
+      "title": "ZDF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
       "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
     },
     {
@@ -17,14 +17,14 @@
       "pubdate": "Tue, 25 Jun 2024 07:00:00 +0200"
     },
     {
-      "title": "England Slowenien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#England%20Slowenien",
-      "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
-    },
-    {
       "title": "Serbien Dänemark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serbien%20D%C3%A4nemark",
       "pubdate": "Tue, 25 Jun 2024 10:00:00 +0200"
+    },
+    {
+      "title": "England Slowenien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#England%20Slowenien",
+      "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
     },
     {
       "title": "Arnautovic",
@@ -67,6 +67,11 @@
       "pubdate": "Tue, 25 Jun 2024 07:00:00 +0200"
     },
     {
+      "title": "EM 2024 Achtelfinale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM%202024%20Achtelfinale",
+      "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
+    },
+    {
       "title": "Erzbischof Gänswein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erzbischof%20G%C3%A4nswein",
       "pubdate": "Tue, 25 Jun 2024 07:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Rene Benko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rene%20Benko",
       "pubdate": "Tue, 25 Jun 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Michael Jackson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Jackson",
-      "pubdate": "Tue, 25 Jun 2024 08:00:00 +0200"
     }
   ]
 }
