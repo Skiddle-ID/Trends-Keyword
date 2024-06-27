@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "26-06-2024 , 23:36:17",
+  "lastUpdate": "27-06-2024 , 01:41:45",
   "data": [
+    {
+      "title": "Wayne Rooney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wayne%20Rooney",
+      "pubdate": "Thu, 27 Jun 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Bill Cobbs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bill%20Cobbs",
+      "pubdate": "Thu, 27 Jun 2024 01:00:00 +0100"
+    },
     {
       "title": "Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Georgia",
@@ -37,8 +47,8 @@
       "pubdate": "Wed, 26 Jun 2024 07:00:00 +0100"
     },
     {
-      "title": "Mpox strain",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mpox%20strain",
+      "title": "New mpox strain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20mpox%20strain",
       "pubdate": "Wed, 26 Jun 2024 17:00:00 +0100"
     },
     {
@@ -55,6 +65,11 @@
       "title": "Ugarte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ugarte",
       "pubdate": "Wed, 26 Jun 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Bolivia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bolivia",
+      "pubdate": "Wed, 26 Jun 2024 23:00:00 +0100"
     },
     {
       "title": "Romania",
@@ -77,29 +92,14 @@
       "pubdate": "Wed, 26 Jun 2024 15:00:00 +0100"
     },
     {
-      "title": "Bolivia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bolivia",
-      "pubdate": "Wed, 26 Jun 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Kenya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kenya",
-      "pubdate": "Wed, 26 Jun 2024 00:00:00 +0100"
-    },
-    {
       "title": "Louis Kimber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Louis%20Kimber",
       "pubdate": "Wed, 26 Jun 2024 18:00:00 +0100"
     },
     {
-      "title": "Jose Fonte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jose%20Fonte",
-      "pubdate": "Wed, 26 Jun 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Ralf Rangnick",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ralf%20Rangnick",
-      "pubdate": "Wed, 26 Jun 2024 01:00:00 +0100"
+      "title": "Kenya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kenya",
+      "pubdate": "Wed, 26 Jun 2024 00:00:00 +0100"
     }
   ]
 }

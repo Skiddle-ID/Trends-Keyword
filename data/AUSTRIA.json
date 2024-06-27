@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2024 , 23:36:06",
+  "lastUpdate": "27-06-2024 , 01:41:36",
   "data": [
     {
       "title": "Leipzig",
@@ -27,14 +27,14 @@
       "pubdate": "Wed, 26 Jun 2024 18:00:00 +0200"
     },
     {
-      "title": "UEFA Euro 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Euro%202024",
-      "pubdate": "Wed, 26 Jun 2024 08:00:00 +0200"
-    },
-    {
       "title": "Rita Süssmuth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rita%20S%C3%BCssmuth",
       "pubdate": "Wed, 26 Jun 2024 03:00:00 +0200"
+    },
+    {
+      "title": "UEFA Euro 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Euro%202024",
+      "pubdate": "Wed, 26 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Slowakei Rumänien",
@@ -52,6 +52,11 @@
       "pubdate": "Wed, 26 Jun 2024 16:00:00 +0200"
     },
     {
+      "title": "UEFA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA",
+      "pubdate": "Wed, 26 Jun 2024 08:00:00 +0200"
+    },
+    {
       "title": "Netrebko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Netrebko",
       "pubdate": "Wed, 26 Jun 2024 17:00:00 +0200"
@@ -67,6 +72,11 @@
       "pubdate": "Wed, 26 Jun 2024 07:00:00 +0200"
     },
     {
+      "title": "Carola Schneider",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carola%20Schneider",
+      "pubdate": "Wed, 26 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "Rivian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rivian",
       "pubdate": "Wed, 26 Jun 2024 09:00:00 +0200"
@@ -77,11 +87,6 @@
       "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Carola Schneider",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carola%20Schneider",
-      "pubdate": "Wed, 26 Jun 2024 14:00:00 +0200"
-    },
-    {
       "title": "Lewandowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lewandowski",
       "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
@@ -90,11 +95,6 @@
       "title": "Puma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Puma",
       "pubdate": "Wed, 26 Jun 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Süddeutsche Zeitung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCddeutsche%20Zeitung",
-      "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
     },
     {
       "title": "Phil Foden",

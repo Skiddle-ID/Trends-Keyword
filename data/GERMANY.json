@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2024 , 23:36:09",
+  "lastUpdate": "27-06-2024 , 01:41:39",
   "data": [
     {
       "title": "Türkei Tschechien",
@@ -9,7 +9,7 @@
     {
       "title": "Portugal Georgien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal%20Georgien",
-      "pubdate": "Wed, 26 Jun 2024 16:00:00 +0200"
+      "pubdate": "Wed, 26 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Fredl Fesl",
@@ -32,9 +32,9 @@
       "pubdate": "Wed, 26 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Ukraine gegen Belgien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ukraine%20gegen%20Belgien",
-      "pubdate": "Wed, 26 Jun 2024 20:00:00 +0200"
+      "title": "Calhanoglu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Calhanoglu",
+      "pubdate": "Wed, 26 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Guirassy",
@@ -62,14 +62,14 @@
       "pubdate": "Tue, 25 Jun 2024 08:00:00 +0200"
     },
     {
-      "title": "Deutschland Dänemark",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20D%C3%A4nemark",
-      "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "Solingen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solingen",
       "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Deutschland Dänemark",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20D%C3%A4nemark",
+      "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "Bad Oeynhausen",
@@ -77,14 +77,9 @@
       "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
     },
     {
-      "title": "Sabitzer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabitzer",
-      "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Kenia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kenia",
-      "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
+      "title": "Niederlande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niederlande",
+      "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Füllkrug",
@@ -100,6 +95,11 @@
       "title": "Albanien Spanien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Albanien%20Spanien",
       "pubdate": "Sun, 23 Jun 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Deutschland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
+      "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
     }
   ]
 }
