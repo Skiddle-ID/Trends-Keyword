@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "27-06-2024 , 23:36:08",
+  "lastUpdate": "28-06-2024 , 01:42:21",
   "data": [
+    {
+      "title": "Panama vs USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Panama%20vs%20USA",
+      "pubdate": "Fri, 28 Jun 2024 07:00:00 +0800"
+    },
     {
       "title": "Trump Biden debate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20Biden%20debate",
       "pubdate": "Fri, 28 Jun 2024 02:00:00 +0800"
     },
     {
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cristiano%20Ronaldo",
+      "pubdate": "Fri, 28 Jun 2024 02:00:00 +0800"
+    },
+    {
       "title": "India vs England",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20England",
       "pubdate": "Thu, 27 Jun 2024 20:00:00 +0800"
-    },
-    {
-      "title": "Bronny James draft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bronny%20James%20draft",
-      "pubdate": "Thu, 27 Jun 2024 11:00:00 +0800"
     },
     {
       "title": "A Quiet Place: Day One",
@@ -40,6 +45,11 @@
       "title": "Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Portugal",
       "pubdate": "Thu, 27 Jun 2024 13:00:00 +0800"
+    },
+    {
+      "title": "Disney Cruise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Disney%20Cruise",
+      "pubdate": "Thu, 27 Jun 2024 09:00:00 +0800"
     },
     {
       "title": "Georgia",
@@ -77,8 +87,8 @@
       "pubdate": "Thu, 27 Jun 2024 18:00:00 +0800"
     },
     {
-      "title": "NBA draft 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20draft%202024",
+      "title": "NBA Draft 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NBA%20Draft%202024",
       "pubdate": "Wed, 26 Jun 2024 20:00:00 +0800"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 26 Jun 2024 17:00:00 +0800"
     },
     {
-      "title": "Disney Cruise Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Disney%20Cruise%20Singapore",
-      "pubdate": "Wed, 26 Jun 2024 20:00:00 +0800"
-    },
-    {
       "title": "A Quiet Place: Day One",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#A%20Quiet%20Place:%20Day%20One",
       "pubdate": "Wed, 26 Jun 2024 01:00:00 +0800"
-    },
-    {
-      "title": "Celine Dion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Celine%20Dion",
-      "pubdate": "Wed, 26 Jun 2024 20:00:00 +0800"
     }
   ]
 }
