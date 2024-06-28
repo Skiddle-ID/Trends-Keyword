@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 11:36:04",
+  "lastUpdate": "28-06-2024 , 12:51:57",
   "data": [
     {
       "title": "CNN",
@@ -22,14 +22,14 @@
       "pubdate": "Fri, 28 Jun 2024 21:00:00 +1200"
     },
     {
+      "title": "Lizzy Musi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lizzy%20Musi",
+      "pubdate": "Fri, 28 Jun 2024 19:00:00 +1200"
+    },
+    {
       "title": "Alice Guo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alice%20Guo",
       "pubdate": "Fri, 28 Jun 2024 16:00:00 +1200"
-    },
-    {
-      "title": "Nicole Kidman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicole%20Kidman",
-      "pubdate": "Fri, 28 Jun 2024 22:00:00 +1200"
     },
     {
       "title": "A Family Affair",
@@ -40,6 +40,11 @@
       "title": "Gavin Newsom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gavin%20Newsom",
       "pubdate": "Fri, 28 Jun 2024 22:00:00 +1200"
+    },
+    {
+      "title": "Gymshark",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gymshark",
+      "pubdate": "Fri, 28 Jun 2024 08:00:00 +1200"
     },
     {
       "title": "Auckland museum",
@@ -94,11 +99,6 @@
     {
       "title": "Matariki Wellington",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Matariki%20Wellington",
-      "pubdate": "Thu, 27 Jun 2024 19:00:00 +1200"
-    },
-    {
-      "title": "The Bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Bear",
       "pubdate": "Thu, 27 Jun 2024 19:00:00 +1200"
     }
   ]

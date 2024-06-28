@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 11:36:04",
+  "lastUpdate": "28-06-2024 , 12:51:57",
   "data": [
     {
       "title": "CNN",
@@ -7,9 +7,9 @@
       "pubdate": "Fri, 28 Jun 2024 04:00:00 +0200"
     },
     {
-      "title": "Ronaldo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ronaldo",
-      "pubdate": "Thu, 27 Jun 2024 00:00:00 +0200"
+      "title": "Emilie Meng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emilie%20Meng",
+      "pubdate": "Fri, 28 Jun 2024 11:00:00 +0200"
     },
     {
       "title": "Joe Biden",
@@ -17,9 +17,9 @@
       "pubdate": "Thu, 27 Jun 2024 20:00:00 +0200"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
+      "title": "Lyn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
+      "pubdate": "Thu, 27 Jun 2024 20:00:00 +0200"
     },
     {
       "title": "Tool",
@@ -32,24 +32,19 @@
       "pubdate": "Thu, 27 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Tour de France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tour%20de%20France",
-      "pubdate": "Thu, 27 Jun 2024 19:00:00 +0200"
-    },
-    {
       "title": "Steffen Tangstad sykdom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Steffen%20Tangstad%20sykdom",
       "pubdate": "Thu, 27 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Bill Cobbs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Cobbs",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
-    },
-    {
       "title": "Sigdal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sigdal",
       "pubdate": "Thu, 27 Jun 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Bill Cobbs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bill%20Cobbs",
+      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Opeth",
@@ -67,9 +62,14 @@
       "pubdate": "Thu, 27 Jun 2024 23:00:00 +0200"
     },
     {
-      "title": "Amalie Iuel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amalie%20Iuel",
-      "pubdate": "Thu, 27 Jun 2024 23:00:00 +0200"
+      "title": "Nato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nato",
+      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
+    },
+    {
+      "title": "NM friidrett",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NM%20friidrett",
+      "pubdate": "Thu, 27 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "LSK",
@@ -87,11 +87,6 @@
       "pubdate": "Thu, 27 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Høyesterett",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8yesterett",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
-    },
-    {
       "title": "Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
       "pubdate": "Wed, 26 Jun 2024 22:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Tons of Rock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tons%20of%20Rock",
       "pubdate": "Wed, 26 Jun 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Lubna Jaffery",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lubna%20Jaffery",
+      "pubdate": "Wed, 26 Jun 2024 13:00:00 +0200"
     }
   ]
 }

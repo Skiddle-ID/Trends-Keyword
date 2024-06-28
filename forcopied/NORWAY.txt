@@ -1,1 +1,1 @@
-CNN,Ronaldo,Joe Biden,Donald Trump,Tool,Cristiano Ronaldo,Tour de France,Steffen Tangstad sykdom,Bill Cobbs,Sigdal,Opeth,Steven van de Velde,KFUM,Amalie Iuel,LSK,Parkway Drive,Vladimir Vukicevic,Høyesterett,Georgia,Tons of Rock
+CNN,Emilie Meng,Joe Biden,Lyn,Tool,Cristiano Ronaldo,Steffen Tangstad sykdom,Sigdal,Bill Cobbs,Opeth,Steven van de Velde,KFUM,Nato,NM friidrett,LSK,Parkway Drive,Vladimir Vukicevic,Georgia,Tons of Rock,Lubna Jaffery

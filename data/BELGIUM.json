@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 11:35:57",
+  "lastUpdate": "28-06-2024 , 12:51:50",
   "data": [
     {
       "title": "Biden",
@@ -12,6 +12,11 @@
       "pubdate": "Fri, 28 Jun 2024 07:00:00 +0200"
     },
     {
+      "title": "Live is Live",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Live%20is%20Live",
+      "pubdate": "Fri, 28 Jun 2024 10:00:00 +0200"
+    },
+    {
       "title": "Kaja Kallas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kaja%20Kallas",
       "pubdate": "Fri, 28 Jun 2024 08:00:00 +0200"
@@ -22,14 +27,34 @@
       "pubdate": "Fri, 28 Jun 2024 00:00:00 +0200"
     },
     {
+      "title": "Gavin Newsom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gavin%20Newsom",
+      "pubdate": "Fri, 28 Jun 2024 10:00:00 +0200"
+    },
+    {
+      "title": "David Hallyday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Hallyday",
+      "pubdate": "Fri, 28 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "Montenegro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Montenegro",
       "pubdate": "Fri, 28 Jun 2024 08:00:00 +0200"
     },
     {
+      "title": "Pierre Niney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20Niney",
+      "pubdate": "Fri, 28 Jun 2024 14:00:00 +0200"
+    },
+    {
       "title": "Trek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trek",
       "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Bende van Nijvel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bende%20van%20Nijvel",
+      "pubdate": "Fri, 28 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Conner Rousseau",
@@ -62,19 +87,9 @@
       "pubdate": "Thu, 27 Jun 2024 11:00:00 +0200"
     },
     {
-      "title": "Onana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Onana",
-      "pubdate": "Thu, 27 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Fusillade Bruxelles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fusillade%20Bruxelles",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "World Cup of Darts 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#World%20Cup%20of%20Darts%202024",
-      "pubdate": "Thu, 27 Jun 2024 19:00:00 +0200"
+      "title": "Olivier Faure",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Olivier%20Faure",
+      "pubdate": "Thu, 27 Jun 2024 16:00:00 +0200"
     },
     {
       "title": "Chanson raciste",
@@ -82,24 +97,9 @@
       "pubdate": "Thu, 27 Jun 2024 22:00:00 +0200"
     },
     {
-      "title": "Draft NBA 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Draft%20NBA%202024",
-      "pubdate": "Thu, 27 Jun 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Sports",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sports",
-      "pubdate": "Thu, 27 Jun 2024 05:00:00 +0200"
-    },
-    {
-      "title": "Bill Cobbs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bill%20Cobbs",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Débat Jordan Bardella Gabriel Attal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#D%C3%A9bat%20Jordan%20Bardella%20Gabriel%20Attal",
-      "pubdate": "Thu, 27 Jun 2024 16:00:00 +0200"
+      "title": "World Cup of Darts 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#World%20Cup%20of%20Darts%202024",
+      "pubdate": "Thu, 27 Jun 2024 19:00:00 +0200"
     }
   ]
 }

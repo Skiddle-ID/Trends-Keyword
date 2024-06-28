@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 11:36:05",
+  "lastUpdate": "28-06-2024 , 12:51:58",
   "data": [
     {
       "title": "Celine Dion",
@@ -27,6 +27,11 @@
       "pubdate": "Fri, 28 Jun 2024 00:00:00 +0300"
     },
     {
+      "title": "Aeroportul Otopeni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aeroportul%20Otopeni",
+      "pubdate": "Fri, 28 Jun 2024 10:00:00 +0300"
+    },
+    {
       "title": "Lawren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lawren",
       "pubdate": "Fri, 28 Jun 2024 11:00:00 +0300"
@@ -42,9 +47,9 @@
       "pubdate": "Fri, 28 Jun 2024 10:00:00 +0300"
     },
     {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA",
-      "pubdate": "Thu, 27 Jun 2024 00:00:00 +0300"
+      "title": "Nicole Kidman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicole%20Kidman",
+      "pubdate": "Fri, 28 Jun 2024 15:00:00 +0300"
     },
     {
       "title": "Joe Biden",
@@ -52,9 +57,19 @@
       "pubdate": "Thu, 27 Jun 2024 23:00:00 +0300"
     },
     {
+      "title": "Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sport",
+      "pubdate": "Thu, 27 Jun 2024 00:00:00 +0300"
+    },
+    {
       "title": "Portugalia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Portugalia",
       "pubdate": "Thu, 27 Jun 2024 08:00:00 +0300"
+    },
+    {
+      "title": "Sf. Petru",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sf.%20Petru",
+      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0300"
     },
     {
       "title": "Stanciu",
@@ -77,29 +92,14 @@
       "pubdate": "Thu, 27 Jun 2024 22:00:00 +0300"
     },
     {
+      "title": "UEFA 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UEFA%202024",
+      "pubdate": "Thu, 27 Jun 2024 00:00:00 +0300"
+    },
+    {
       "title": "Bolivia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bolivia",
       "pubdate": "Thu, 27 Jun 2024 03:00:00 +0300"
-    },
-    {
-      "title": "Joey Veerman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joey%20Veerman",
-      "pubdate": "Thu, 27 Jun 2024 07:00:00 +0300"
-    },
-    {
-      "title": "Anca Todoni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anca%20Todoni",
-      "pubdate": "Thu, 27 Jun 2024 15:00:00 +0300"
-    },
-    {
-      "title": "John Malkovich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#John%20Malkovich",
-      "pubdate": "Thu, 27 Jun 2024 20:00:00 +0300"
-    },
-    {
-      "title": "Sf. Petru Si Pavel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sf.%20Petru%20Si%20Pavel",
-      "pubdate": "Thu, 27 Jun 2024 13:00:00 +0300"
     }
   ]
 }
