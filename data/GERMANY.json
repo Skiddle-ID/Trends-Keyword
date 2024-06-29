@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-06-2024 , 11:35:56",
+  "lastUpdate": "29-06-2024 , 12:49:21",
   "data": [
+    {
+      "title": "Tour de France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tour%20de%20France",
+      "pubdate": "Sat, 29 Jun 2024 13:00:00 +0200"
+    },
     {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
@@ -10,6 +15,11 @@
       "title": "Deutschland Dänemark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20D%C3%A4nemark",
       "pubdate": "Fri, 28 Jun 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Schweiz Italien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweiz%20Italien",
+      "pubdate": "Fri, 28 Jun 2024 22:00:00 +0200"
     },
     {
       "title": "AfD-Parteitag Essen",
@@ -22,19 +32,9 @@
       "pubdate": "Fri, 28 Jun 2024 15:00:00 +0200"
     },
     {
-      "title": "Italien Schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Italien%20Schweiz",
-      "pubdate": "Fri, 28 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "Unwetter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
       "pubdate": "Thu, 27 Jun 2024 08:00:00 +0200"
-    },
-    {
-      "title": "A Quiet Place: Tag Eins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#A%20Quiet%20Place:%20Tag%20Eins",
-      "pubdate": "Thu, 27 Jun 2024 15:00:00 +0200"
     },
     {
       "title": "Rivian",

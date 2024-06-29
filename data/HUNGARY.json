@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "29-06-2024 , 11:35:57",
+  "lastUpdate": "29-06-2024 , 12:49:22",
   "data": [
     {
       "title": "Paraguay–brazília",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paraguay%E2%80%93braz%C3%ADlia",
       "pubdate": "Sat, 29 Jun 2024 06:00:00 +0200"
-    },
-    {
-      "title": "L.L. Junior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L.L.%20Junior",
-      "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Scorpions",
@@ -22,14 +17,24 @@
       "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Biden",
-      "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
+      "title": "L.L. Junior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L.L.%20Junior",
+      "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Tápai Szabina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A1pai%20Szabina",
+      "pubdate": "Sat, 29 Jun 2024 13:00:00 +0200"
     },
     {
       "title": "Zac Efron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zac%20Efron",
-      "pubdate": "Fri, 28 Jun 2024 13:00:00 +0200"
+      "pubdate": "Fri, 28 Jun 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Biden",
+      "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
     },
     {
       "title": "Fishing on Orfű Eltűnt lány",
@@ -67,16 +72,6 @@
       "pubdate": "Fri, 28 Jun 2024 00:00:00 +0200"
     },
     {
-      "title": "Fradi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fradi",
-      "pubdate": "Fri, 28 Jun 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Farkas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Farkas",
-      "pubdate": "Fri, 28 Jun 2024 19:00:00 +0200"
-    },
-    {
       "title": "Nick Carter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nick%20Carter",
       "pubdate": "Fri, 28 Jun 2024 22:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Billie%20Eilish",
       "pubdate": "Thu, 27 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Bill Cobbs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bill%20Cobbs",
+      "pubdate": "Thu, 27 Jun 2024 11:00:00 +0200"
     }
   ]
 }

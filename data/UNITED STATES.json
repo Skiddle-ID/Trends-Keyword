@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "29-06-2024 , 11:35:51",
+  "lastUpdate": "29-06-2024 , 12:49:18",
   "data": [
+    {
+      "title": "Tour de France 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tour%20de%20France%202024",
+      "pubdate": "Sat, 29 Jun 2024 05:00:00 -0700"
+    },
+    {
+      "title": "Family Affair",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Family%20Affair",
+      "pubdate": "Sat, 29 Jun 2024 02:00:00 -0700"
+    },
     {
       "title": "Martin Mull",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Martin%20Mull",
@@ -42,19 +52,14 @@
       "pubdate": "Fri, 28 Jun 2024 03:00:00 -0700"
     },
     {
-      "title": "Colombia  Costa Rica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colombia%20%20Costa%20Rica",
-      "pubdate": "Fri, 28 Jun 2024 16:00:00 -0700"
+      "title": "Tim Hardaway Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Hardaway%20Jr",
+      "pubdate": "Fri, 28 Jun 2024 09:00:00 -0700"
     },
     {
       "title": "J.D. Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#J.D.%20Vance",
       "pubdate": "Fri, 28 Jun 2024 00:00:00 -0700"
-    },
-    {
-      "title": "Tim Hardaway Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Hardaway%20Jr",
-      "pubdate": "Fri, 28 Jun 2024 09:00:00 -0700"
     },
     {
       "title": "Dejounte Murray",
@@ -95,11 +100,6 @@
       "title": "Camila Cabello",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Camila%20Cabello",
       "pubdate": "Fri, 28 Jun 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Bernie Sanders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bernie%20Sanders",
-      "pubdate": "Fri, 28 Jun 2024 10:00:00 -0700"
     }
   ]
 }
