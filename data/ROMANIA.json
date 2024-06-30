@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2024 , 23:36:21",
+  "lastUpdate": "30-06-2024 , 01:48:01",
   "data": [
     {
       "title": "Neuer",
@@ -27,6 +27,11 @@
       "pubdate": "Sat, 29 Jun 2024 23:00:00 +0300"
     },
     {
+      "title": "Paul Stănescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Paul%20St%C4%83nescu",
+      "pubdate": "Sat, 29 Jun 2024 09:00:00 +0300"
+    },
+    {
       "title": "Turul frantei 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Turul%20frantei%202024",
       "pubdate": "Sat, 29 Jun 2024 16:00:00 +0300"
@@ -40,6 +45,11 @@
       "title": "Pride bucuresti 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pride%20bucuresti%202024",
       "pubdate": "Sat, 29 Jun 2024 19:00:00 +0300"
+    },
+    {
+      "title": "USR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#USR",
+      "pubdate": "Sat, 29 Jun 2024 21:00:00 +0300"
     },
     {
       "title": "Sf. Petru",
@@ -90,16 +100,6 @@
       "title": "Filip Blazek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Filip%20Blazek",
       "pubdate": "Fri, 28 Jun 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Wimbledon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wimbledon",
-      "pubdate": "Fri, 28 Jun 2024 00:00:00 +0300"
-    },
-    {
-      "title": "Ferrari",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ferrari",
-      "pubdate": "Fri, 28 Jun 2024 00:00:00 +0300"
     }
   ]
 }

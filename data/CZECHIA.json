@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2024 , 23:36:14",
+  "lastUpdate": "30-06-2024 , 01:47:56",
   "data": [
     {
       "title": "LP",
@@ -27,14 +27,24 @@
       "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
     },
     {
+      "title": "Slavia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+      "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
+    },
+    {
       "title": "Dita Von Teese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dita%20Von%20Teese",
       "pubdate": "Sat, 29 Jun 2024 06:00:00 +0200"
     },
     {
-      "title": "Tomáš Chorý",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Chor%C3%BD",
-      "pubdate": "Sat, 29 Jun 2024 13:00:00 +0200"
+      "title": "Hrdinové z Telemarku",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hrdinov%C3%A9%20z%20Telemarku",
+      "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Jiri bartoska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20bartoska",
+      "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "Adam Černý",
@@ -42,9 +52,9 @@
       "pubdate": "Sat, 29 Jun 2024 23:00:00 +0200"
     },
     {
-      "title": "Mihulova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mihulova",
-      "pubdate": "Sat, 29 Jun 2024 13:00:00 +0200"
+      "title": "Tatiana Dyková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tatiana%20Dykov%C3%A1",
+      "pubdate": "Sat, 29 Jun 2024 14:00:00 +0200"
     },
     {
       "title": "Slapy",
@@ -55,11 +65,6 @@
       "title": "Eddie Stoilow",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eddie%20Stoilow",
       "pubdate": "Sat, 29 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Václav Havel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Havel",
-      "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
     },
     {
       "title": "UFC 303",
@@ -82,6 +87,11 @@
       "pubdate": "Fri, 28 Jun 2024 15:00:00 +0200"
     },
     {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Donald%20Trump",
+      "pubdate": "Fri, 28 Jun 2024 15:00:00 +0200"
+    },
+    {
       "title": "Věra Jourová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Jourov%C3%A1",
       "pubdate": "Fri, 28 Jun 2024 17:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Nehoda vlaku a autobusu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nehoda%20vlaku%20a%20autobusu",
       "pubdate": "Fri, 28 Jun 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Tono Stano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tono%20Stano",
-      "pubdate": "Fri, 28 Jun 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Eliška Křenková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eli%C5%A1ka%20K%C5%99enkov%C3%A1",
-      "pubdate": "Fri, 28 Jun 2024 22:00:00 +0200"
     }
   ]
 }

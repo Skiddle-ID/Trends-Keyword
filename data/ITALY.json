@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "29-06-2024 , 23:36:18",
+  "lastUpdate": "30-06-2024 , 01:47:59",
   "data": [
+    {
+      "title": "Red Dragon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Red%20Dragon",
+      "pubdate": "Sun, 30 Jun 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Elezioni Francia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elezioni%20Francia",
+      "pubdate": "Sun, 30 Jun 2024 02:00:00 +0200"
+    },
     {
       "title": "Cogne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cogne",
@@ -10,6 +20,21 @@
       "title": "Schmeichel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Schmeichel",
       "pubdate": "Sun, 30 Jun 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Argentina-Perù",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Argentina-Per%C3%B9",
+      "pubdate": "Sun, 30 Jun 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Capello",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Capello",
+      "pubdate": "Sun, 30 Jun 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Italia Svizzera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia%20Svizzera",
+      "pubdate": "Sat, 29 Jun 2024 11:00:00 +0200"
     },
     {
       "title": "Germania-Danimarca",
@@ -47,19 +72,14 @@
       "pubdate": "Sat, 29 Jun 2024 12:00:00 +0200"
     },
     {
-      "title": "Rai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai",
-      "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Ricordati di me, film",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ricordati%20di%20me,%20film",
-      "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
-    },
-    {
       "title": "Archie Goodburn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Archie%20Goodburn",
       "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Rai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai",
+      "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
     },
     {
       "title": "Sommer",
@@ -77,29 +97,9 @@
       "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
     },
     {
-      "title": "Zaccagni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zaccagni",
-      "pubdate": "Sat, 29 Jun 2024 20:00:00 +0200"
-    },
-    {
       "title": "Rodriguez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rodriguez",
       "pubdate": "Sat, 29 Jun 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Tour de France 2024 tappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tour%20de%20France%202024%20tappe",
-      "pubdate": "Sat, 29 Jun 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Fernanda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fernanda",
-      "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Mancini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mancini",
-      "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
     }
   ]
 }
