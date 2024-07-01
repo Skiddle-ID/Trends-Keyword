@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2024 , 23:35:15",
+  "lastUpdate": "01-07-2024 , 01:51:36",
   "data": [
     {
       "title": "Bologna",
@@ -9,7 +9,12 @@
     {
       "title": "Georgia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Georgia",
-      "pubdate": "Sun, 30 Jun 2024 22:00:00 +0300"
+      "pubdate": "Sun, 30 Jun 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Alegeri franta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alegeri%20franta",
+      "pubdate": "Sun, 30 Jun 2024 20:00:00 +0300"
     },
     {
       "title": "Andrei Ionescu",
@@ -22,19 +27,9 @@
       "pubdate": "Sun, 30 Jun 2024 20:00:00 +0300"
     },
     {
-      "title": "Alegeri franta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alegeri%20franta",
-      "pubdate": "Sun, 30 Jun 2024 20:00:00 +0300"
-    },
-    {
       "title": "Argentina  Peru",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Argentina%20%20Peru",
       "pubdate": "Sun, 30 Jun 2024 04:00:00 +0300"
-    },
-    {
-      "title": "Incendiu Turcia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Turcia",
-      "pubdate": "Sun, 30 Jun 2024 13:00:00 +0300"
     },
     {
       "title": "Constantin Chiriac",
@@ -52,9 +47,9 @@
       "pubdate": "Sun, 30 Jun 2024 12:00:00 +0300"
     },
     {
-      "title": "Anda Adam nunta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anda%20Adam%20nunta",
-      "pubdate": "Sun, 30 Jun 2024 00:00:00 +0300"
+      "title": "Incendiu Turcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Turcia",
+      "pubdate": "Sun, 30 Jun 2024 14:00:00 +0300"
     },
     {
       "title": "Neuer",
@@ -70,6 +65,11 @@
       "title": "Supercupa romaniei",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Supercupa%20romaniei",
       "pubdate": "Sun, 30 Jun 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Anda Adam nunta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anda%20Adam%20nunta",
+      "pubdate": "Sun, 30 Jun 2024 00:00:00 +0300"
     },
     {
       "title": "MotoGP",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 30 Jun 2024 00:00:00 +0300"
     },
     {
+      "title": "Edi Iordănescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Edi%20Iord%C4%83nescu",
+      "pubdate": "Sun, 30 Jun 2024 10:00:00 +0300"
+    },
+    {
       "title": "Michael Oliver",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Michael%20Oliver",
       "pubdate": "Sun, 30 Jun 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Elvetia Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elvetia%20Italia",
-      "pubdate": "Sat, 29 Jun 2024 19:00:00 +0300"
     }
   ]
 }

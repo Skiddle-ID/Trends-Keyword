@@ -1,1 +1,1 @@
-ATO,French election,England football,UFC 303,England vs Slovakia,Virat Kohli,Dan Ige,Switzerland vs Italy,Fatima Payman,Travel Guides,Mark Cavendish,Gumlu,F1 Austria,Dragons vs Dolphins,Klay Thompson,Carlton,Austrian GP,T20 final,Barbados,Italy
+ATO,French election,NAIDOC Week 2024,Rocket Mortgage Classic,UFC 303,England vs Slovakia,Cook Islands,Virat Kohli,Dan Ige,Austrian GP,Fatima Payman,Mark Cavendish,Dragons vs Dolphins,T20 final,Klay Thompson,Carlton,Port Adelaide,Bus crash Bruce Highway,Italy Euro 2024,Barbados
