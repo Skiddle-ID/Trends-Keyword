@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2024 , 23:36:05",
+  "lastUpdate": "03-07-2024 , 01:41:52",
   "data": [
     {
       "title": "Beryl",
@@ -17,8 +17,8 @@
       "pubdate": "Tue, 02 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "Merih Demiral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Merih%20Demiral",
+      "title": "Demiral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Demiral",
       "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
     },
     {
@@ -27,14 +27,14 @@
       "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
     },
     {
-      "title": "Arnautovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arnautovic",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Christian Düren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20D%C3%BCren",
       "pubdate": "Tue, 02 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Arnautovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arnautovic",
+      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Melis Sekmen",
@@ -57,11 +57,6 @@
       "pubdate": "Tue, 02 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Dominic Stricker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Stricker",
-      "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
-    },
-    {
       "title": "Nino Vella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nino%20Vella",
       "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
@@ -70,6 +65,11 @@
       "title": "Baumgartner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Baumgartner",
       "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Hagi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hagi",
+      "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Xavi Simons",
@@ -82,14 +82,14 @@
       "pubdate": "Tue, 02 Jul 2024 08:00:00 +0200"
     },
     {
-      "title": "Incendie Bulle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Incendie%20Bulle",
-      "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
-    },
-    {
       "title": "Matthieu Delormeau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthieu%20Delormeau",
       "pubdate": "Tue, 02 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Incendie Bulle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Incendie%20Bulle",
+      "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "The First Descendant",
@@ -97,8 +97,8 @@
       "pubdate": "Tue, 02 Jul 2024 11:00:00 +0200"
     },
     {
-      "title": "Ludivine Daoudi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ludivine%20Daoudi",
+      "title": "Brenda Biya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brenda%20Biya",
       "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
     }
   ]
