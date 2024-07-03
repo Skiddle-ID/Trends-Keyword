@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 11:35:08",
+  "lastUpdate": "03-07-2024 , 12:51:59",
   "data": [
     {
       "title": "Falko Ochsenknecht",
@@ -7,8 +7,13 @@
       "pubdate": "Wed, 03 Jul 2024 02:00:00 +0200"
     },
     {
-      "title": "WM Qualifikation 2026",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WM%20Qualifikation%202026",
+      "title": "WM qualifikation 2026",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WM%20qualifikation%202026",
+      "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Viertelfinale EM 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Viertelfinale%20EM%202024",
       "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
     },
     {
@@ -22,6 +27,11 @@
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Türkei Niederlande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei%20Niederlande",
+      "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
+    },
+    {
       "title": "Massenpanik Indien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Massenpanik%20Indien",
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
@@ -32,9 +42,9 @@
       "pubdate": "Wed, 03 Jul 2024 08:00:00 +0200"
     },
     {
-      "title": "Montella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Montella",
-      "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
+      "title": "Favoriten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Favoriten",
+      "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "Pogacar",
@@ -42,24 +52,29 @@
       "pubdate": "Wed, 03 Jul 2024 08:00:00 +0200"
     },
     {
+      "title": "Corona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corona",
+      "pubdate": "Wed, 03 Jul 2024 13:00:00 +0200"
+    },
+    {
       "title": "Rumänien Niederlande",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rum%C3%A4nien%20Niederlande",
       "pubdate": "Tue, 02 Jul 2024 01:00:00 +0200"
     },
     {
-      "title": "Merih Demiral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Merih%20Demiral",
+      "title": "Wolfsgruß",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfsgru%C3%9F",
       "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Gregoritsch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gregoritsch",
+      "pubdate": "Tue, 02 Jul 2024 23:00:00 +0200"
     },
     {
       "title": "Christian Düren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20D%C3%BCren",
       "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Jeffrey Epstein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jeffrey%20Epstein",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Melis Sekmen",
@@ -82,24 +97,9 @@
       "pubdate": "Tue, 02 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Usa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Usa",
-      "pubdate": "Tue, 02 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Sturm Graz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz",
-      "pubdate": "Tue, 02 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
-      "pubdate": "Tue, 02 Jul 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Mwene",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mwene",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+      "title": "Rod Stewart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rod%20Stewart",
+      "pubdate": "Tue, 02 Jul 2024 09:00:00 +0200"
     }
   ]
 }

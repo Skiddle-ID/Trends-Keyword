@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 11:35:10",
+  "lastUpdate": "03-07-2024 , 12:52:01",
   "data": [
     {
       "title": "Pogacar",
@@ -12,11 +12,6 @@
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Biden",
-      "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
-    },
-    {
       "title": "Gretchen Whitmer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gretchen%20Whitmer",
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
@@ -27,24 +22,29 @@
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Merih Demiral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Merih%20Demiral",
+      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Arda guler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arda%20guler",
+      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Holly Willoughby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holly%20Willoughby",
       "pubdate": "Tue, 02 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Arda Guler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arda%20Guler",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Romania vs Netherlands",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Romania%20vs%20Netherlands",
       "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Turkey vs Austria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Turkey%20vs%20Austria",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Galibier",
@@ -87,19 +87,19 @@
       "pubdate": "Tue, 02 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Robert F. Kennedy Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robert%20F.%20Kennedy%20Jr",
-      "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
-    },
-    {
       "title": "Kombucha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kombucha",
       "pubdate": "Tue, 02 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Lloyd Doggett",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lloyd%20Doggett",
-      "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
+      "title": "Tennis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tennis",
+      "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Hagi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hagi",
+      "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
     }
   ]
 }

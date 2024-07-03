@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 11:35:09",
+  "lastUpdate": "03-07-2024 , 12:52:00",
   "data": [
     {
       "title": "BabyTron",
@@ -20,11 +20,6 @@
       "title": "Air Europa flight turbulence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20Europa%20flight%20turbulence",
       "pubdate": "Wed, 03 Jul 2024 01:00:00 -0400"
-    },
-    {
-      "title": "Philippe Myers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Philippe%20Myers",
-      "pubdate": "Wed, 03 Jul 2024 00:00:00 -0400"
     },
     {
       "title": "Rick Cluff",
@@ -82,6 +77,11 @@
       "pubdate": "Tue, 02 Jul 2024 13:00:00 -0400"
     },
     {
+      "title": "Scott Boyd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scott%20Boyd",
+      "pubdate": "Tue, 02 Jul 2024 14:00:00 -0400"
+    },
+    {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
       "pubdate": "Tue, 02 Jul 2024 08:00:00 -0400"
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 02 Jul 2024 11:00:00 -0400"
     },
     {
-      "title": "Xbox Down",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Xbox%20Down",
-      "pubdate": "Tue, 02 Jul 2024 19:00:00 -0400"
-    },
-    {
       "title": "Kemba Walker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kemba%20Walker",
       "pubdate": "Tue, 02 Jul 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Squid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Squid",
+      "pubdate": "Tue, 02 Jul 2024 13:00:00 -0400"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-07-2024 , 11:35:14",
+  "lastUpdate": "03-07-2024 , 12:52:06",
   "data": [
+    {
+      "title": "Cambio del dolar hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cambio%20del%20dolar%20hoy",
+      "pubdate": "Wed, 03 Jul 2024 02:00:00 -0600"
+    },
     {
       "title": "Proveedores",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Proveedores",
@@ -15,6 +20,11 @@
       "title": "Costa Rica - Paraguay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costa%20Rica%20-%20Paraguay",
       "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
+    },
+    {
+      "title": "Austria - Turquía",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Austria%20-%20Turqu%C3%ADa",
+      "pubdate": "Tue, 02 Jul 2024 13:00:00 -0600"
     },
     {
       "title": "Xbox",
@@ -50,11 +60,6 @@
       "title": "Fidel Barajas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fidel%20Barajas",
       "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
-    },
-    {
-      "title": "James",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#James",
-      "pubdate": "Tue, 02 Jul 2024 21:00:00 -0600"
     },
     {
       "title": "Jenni Rivera",
@@ -95,11 +100,6 @@
       "title": "Xavi Simons",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xavi%20Simons",
       "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Ruben Duarte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ruben%20Duarte",
-      "pubdate": "Tue, 02 Jul 2024 19:00:00 -0600"
     }
   ]
 }

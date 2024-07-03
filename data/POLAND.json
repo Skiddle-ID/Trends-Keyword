@@ -1,24 +1,34 @@
 {
-  "lastUpdate": "03-07-2024 , 11:35:15",
+  "lastUpdate": "03-07-2024 , 12:52:07",
   "data": [
-    {
-      "title": "Microsoft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Microsoft",
-      "pubdate": "Wed, 03 Jul 2024 02:00:00 +0200"
-    },
     {
       "title": "Marcin Romanowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Romanowski",
       "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Antoni Czortek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Antoni%20Czortek",
-      "pubdate": "Wed, 03 Jul 2024 08:00:00 +0200"
+      "title": "Microsoft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Microsoft",
+      "pubdate": "Wed, 03 Jul 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Dariusz Szpakowski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dariusz%20Szpakowski",
+      "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Bugatti Tourbillon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bugatti%20Tourbillon",
+      "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Ćwierćfinały Euro 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C4%86wier%C4%87fina%C5%82y%20Euro%202024",
+      "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Kuba Wojewódzki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kuba%20Wojew%C3%B3dzki",
       "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
     },
     {
@@ -27,13 +37,8 @@
       "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Kuba Wojewódzki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kuba%20Wojew%C3%B3dzki",
-      "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Ćwierćfinały Euro 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C4%86wier%C4%87fina%C5%82y%20Euro%202024",
+      "title": "Pasut",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pasut",
       "pubdate": "Wed, 03 Jul 2024 09:00:00 +0200"
     },
     {
@@ -45,6 +50,11 @@
       "title": "Austria – Turcja",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Austria%20%E2%80%93%20Turcja",
       "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Rumunia – Holandia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rumunia%20%E2%80%93%20Holandia",
+      "pubdate": "Tue, 02 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Hurkacz",
@@ -77,11 +87,6 @@
       "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
     },
     {
-      "title": "Łukasz Kmita",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81ukasz%20Kmita",
-      "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Kos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kos",
       "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
@@ -90,11 +95,6 @@
       "title": "Huragan Beryl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Huragan%20Beryl",
       "pubdate": "Tue, 02 Jul 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Gakpo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gakpo",
-      "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "The First Descendant",
