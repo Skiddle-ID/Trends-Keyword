@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 23:35:24",
+  "lastUpdate": "04-07-2024 , 01:42:34",
   "data": [
     {
       "title": "Emma Raducanu",
@@ -22,24 +22,19 @@
       "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
+      "title": "Berrettini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Berrettini",
       "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Berrettini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Berrettini",
+      "title": "Taylor Swift",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
       "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Mark Cavendish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mark%20Cavendish",
       "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Matteo Berrettini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matteo%20Berrettini",
-      "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Waltenschwil",
@@ -52,19 +47,9 @@
       "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Vogelgrippevirus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vogelgrippevirus",
-      "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
-    },
-    {
       "title": "Annalena Baerbock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Annalena%20Baerbock",
       "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Lourtier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lourtier",
-      "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Isild Le Besco",
@@ -72,9 +57,19 @@
       "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
     },
     {
+      "title": "Lourtier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lourtier",
+      "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
+    },
+    {
       "title": "Val de Bagnes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20de%20Bagnes",
       "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
+      "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Imagine Dragons",
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
     },
     {
+      "title": "Jacques Pitteloud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jacques%20Pitteloud",
+      "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+    },
+    {
       "title": "ORF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ORF",
       "pubdate": "Wed, 03 Jul 2024 07:00:00 +0200"
     },
     {
-      "title": "Jacques Pitteloud",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jacques%20Pitteloud",
-      "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+      "title": "Pogacar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pogacar",
+      "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
     }
   ]
 }

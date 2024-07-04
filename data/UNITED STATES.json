@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 23:35:15",
+  "lastUpdate": "04-07-2024 , 01:42:23",
   "data": [
     {
       "title": "Beverly Hills Cop",
@@ -17,9 +17,9 @@
       "pubdate": "Wed, 03 Jul 2024 09:00:00 -0700"
     },
     {
-      "title": "Naomi Osaka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Osaka",
-      "pubdate": "Wed, 03 Jul 2024 12:00:00 -0700"
+      "title": "Independence Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Independence%20Day",
+      "pubdate": "Wed, 03 Jul 2024 16:00:00 -0700"
     },
     {
       "title": "Michelle Obama",
@@ -27,9 +27,19 @@
       "pubdate": "Wed, 03 Jul 2024 13:00:00 -0700"
     },
     {
-      "title": "Howard Eskin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Howard%20Eskin",
-      "pubdate": "Wed, 03 Jul 2024 10:00:00 -0700"
+      "title": "Coco Gauff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coco%20Gauff",
+      "pubdate": "Wed, 03 Jul 2024 16:00:00 -0700"
+    },
+    {
+      "title": "Neil Gaiman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Neil%20Gaiman",
+      "pubdate": "Wed, 03 Jul 2024 16:00:00 -0700"
+    },
+    {
+      "title": "Naomi Osaka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Osaka",
+      "pubdate": "Wed, 03 Jul 2024 12:00:00 -0700"
     },
     {
       "title": "Mark Cavendish",
@@ -37,14 +47,19 @@
       "pubdate": "Wed, 03 Jul 2024 15:00:00 -0700"
     },
     {
-      "title": "Karine Jean-Pierre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Karine%20Jean-Pierre",
-      "pubdate": "Wed, 03 Jul 2024 12:00:00 -0700"
+      "title": "Fashion Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fashion%20Island",
+      "pubdate": "Wed, 03 Jul 2024 09:00:00 -0700"
     },
     {
       "title": "Bronny James contract",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bronny%20James%20contract",
       "pubdate": "Wed, 03 Jul 2024 14:00:00 -0700"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jannik%20Sinner",
+      "pubdate": "Wed, 03 Jul 2024 17:00:00 -0700"
     },
     {
       "title": "Brazil vs Colombia",
@@ -62,23 +77,18 @@
       "pubdate": "Tue, 02 Jul 2024 04:00:00 -0700"
     },
     {
-      "title": "Xbox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Xbox",
-      "pubdate": "Tue, 02 Jul 2024 14:00:00 -0700"
-    },
-    {
       "title": "Indiana Fever",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Indiana%20Fever",
       "pubdate": "Tue, 02 Jul 2024 22:00:00 -0700"
     },
     {
-      "title": "Fever vs Aces",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fever%20vs%20Aces",
-      "pubdate": "Tue, 02 Jul 2024 19:00:00 -0700"
+      "title": "Xbox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Xbox",
+      "pubdate": "Tue, 02 Jul 2024 14:00:00 -0700"
     },
     {
-      "title": "ATM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ATM",
+      "title": "Bank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bank",
       "pubdate": "Tue, 02 Jul 2024 02:00:00 -0700"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Kemba Walker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kemba%20Walker",
       "pubdate": "Tue, 02 Jul 2024 14:00:00 -0700"
-    },
-    {
-      "title": "Keke Jabbar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keke%20Jabbar",
-      "pubdate": "Tue, 02 Jul 2024 17:00:00 -0700"
-    },
-    {
-      "title": "Romania vs Netherlands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Romania%20vs%20Netherlands",
-      "pubdate": "Tue, 02 Jul 2024 10:00:00 -0700"
     }
   ]
 }

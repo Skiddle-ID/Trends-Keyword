@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 23:35:24",
+  "lastUpdate": "04-07-2024 , 01:42:34",
   "data": [
     {
       "title": "IShowSpeed",
@@ -17,14 +17,14 @@
       "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "Mando Diao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mando%20Diao",
-      "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Krister Henriksson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Krister%20Henriksson",
       "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Mando Diao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mando%20Diao",
+      "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Förbifart Stockholm",
@@ -55,11 +55,6 @@
       "title": "TBE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TBE",
       "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Nederländerna Rumänien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nederl%C3%A4nderna%20Rum%C3%A4nien",
-      "pubdate": "Tue, 02 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Elias Ymer",
@@ -100,6 +95,11 @@
       "title": "Bruno Fernandes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruno%20Fernandes",
       "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Portugal - Slovenien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Portugal%20-%20Slovenien",
+      "pubdate": "Mon, 01 Jul 2024 21:00:00 +0200"
     }
   ]
 }
