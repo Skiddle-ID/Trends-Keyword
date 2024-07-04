@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 11:35:53",
+  "lastUpdate": "04-07-2024 , 12:51:37",
   "data": [
     {
       "title": "Jean-Marie Le Pen",
@@ -17,13 +17,23 @@
       "pubdate": "Thu, 04 Jul 2024 01:00:00 +0200"
     },
     {
-      "title": "Thevenot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thevenot",
-      "pubdate": "Thu, 04 Jul 2024 01:00:00 +0200"
+      "title": "Paul Belmondo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Belmondo",
+      "pubdate": "Thu, 04 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Luana Belmondo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Luana%20Belmondo",
+      "title": "Arielle Dombasle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arielle%20Dombasle",
+      "pubdate": "Thu, 04 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Francois Ruffin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Ruffin",
+      "pubdate": "Thu, 04 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Keir Starmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Keir%20Starmer",
       "pubdate": "Thu, 04 Jul 2024 12:00:00 +0200"
     },
     {
@@ -32,14 +42,9 @@
       "pubdate": "Thu, 04 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Keir Starmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Keir%20Starmer",
-      "pubdate": "Thu, 04 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Roland Dumas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roland%20Dumas",
-      "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
+      "title": "Prisca Thevenot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prisca%20Thevenot",
+      "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Benoit Jacquot",
@@ -62,19 +67,19 @@
       "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Parc asterix",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parc%20asterix",
-      "pubdate": "Wed, 03 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "France Turquie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Turquie",
       "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
     },
     {
-      "title": "Le Flic de Beverly Hills 4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Flic%20de%20Beverly%20Hills%204",
-      "pubdate": "Wed, 03 Jul 2024 19:00:00 +0200"
+      "title": "Parc asterix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parc%20asterix",
+      "pubdate": "Wed, 03 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Tondelier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tondelier",
+      "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
     },
     {
       "title": "Microsoft",
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Gaël Monfils",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
-      "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jeune Garde antifasciste",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeune%20Garde%20antifasciste",
-      "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
+      "title": "Dumas Roland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dumas%20Roland",
+      "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
     }
   ]
 }
