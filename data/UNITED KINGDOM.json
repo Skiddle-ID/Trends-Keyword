@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 11:35:15",
+  "lastUpdate": "05-07-2024 , 12:50:40",
   "data": [
     {
       "title": "BBC News",
@@ -7,9 +7,9 @@
       "pubdate": "Fri, 05 Jul 2024 02:00:00 +0100"
     },
     {
-      "title": "Sky News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sky%20News",
-      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
+      "title": "BBC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC",
+      "pubdate": "Fri, 05 Jul 2024 08:00:00 +0100"
     },
     {
       "title": "Jeremy Hunt",
@@ -22,11 +22,6 @@
       "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
     },
     {
-      "title": "Penny Mordaunt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Penny%20Mordaunt",
-      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
-    },
-    {
       "title": "Jonathan Ashworth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jonathan%20Ashworth",
       "pubdate": "Fri, 05 Jul 2024 04:00:00 +0100"
@@ -37,9 +32,29 @@
       "pubdate": "Fri, 05 Jul 2024 08:00:00 +0100"
     },
     {
-      "title": "Argentina vs Ecuador",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Argentina%20vs%20Ecuador",
-      "pubdate": "Fri, 05 Jul 2024 03:00:00 +0100"
+      "title": "Diane Abbott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Diane%20Abbott",
+      "pubdate": "Fri, 05 Jul 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Penny Mordaunt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Penny%20Mordaunt",
+      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Victoria Starmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victoria%20Starmer",
+      "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Boris Johnson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Boris%20Johnson",
+      "pubdate": "Fri, 05 Jul 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Jess Phillips",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jess%20Phillips",
+      "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
     },
     {
       "title": "Kemi Badenoch",
@@ -47,9 +62,14 @@
       "pubdate": "Fri, 05 Jul 2024 08:00:00 +0100"
     },
     {
-      "title": "Jess Phillips",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jess%20Phillips",
-      "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
+      "title": "Argentina vs Ecuador",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Argentina%20vs%20Ecuador",
+      "pubdate": "Fri, 05 Jul 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Sinn Fein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sinn%20Fein",
+      "pubdate": "Fri, 05 Jul 2024 09:00:00 +0100"
     },
     {
       "title": "Lee Anderson",
@@ -67,9 +87,9 @@
       "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
     },
     {
-      "title": "Victoria Starmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victoria%20Starmer",
-      "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
+      "title": "Richmond and Northallerton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Richmond%20and%20Northallerton",
+      "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
     },
     {
       "title": "News today",
@@ -77,29 +97,9 @@
       "pubdate": "Fri, 05 Jul 2024 06:00:00 +0100"
     },
     {
-      "title": "Richmond and Northallerton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Richmond%20and%20Northallerton",
-      "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
-    },
-    {
-      "title": "ITV News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ITV%20News",
-      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Heidi Alexander",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Heidi%20Alexander",
-      "pubdate": "Fri, 05 Jul 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Bridget Phillipson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bridget%20Phillipson",
-      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Gillian Keegan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gillian%20Keegan",
-      "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
+      "title": "Election Result",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Election%20Result",
+      "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
     }
   ]
 }

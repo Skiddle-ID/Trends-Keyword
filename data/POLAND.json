@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 11:35:12",
+  "lastUpdate": "05-07-2024 , 12:50:37",
   "data": [
     {
       "title": "Keir Starmer",
@@ -7,9 +7,14 @@
       "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Argentyna Ekwador",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Argentyna%20Ekwador",
-      "pubdate": "Fri, 05 Jul 2024 06:00:00 +0200"
+      "title": "Partia Pracy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Partia%20Pracy",
+      "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Copa América",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Copa%20Am%C3%A9rica",
+      "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "BBC",
@@ -17,14 +22,14 @@
       "pubdate": "Fri, 05 Jul 2024 01:00:00 +0200"
     },
     {
-      "title": "Francja Portugalia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Francja%20Portugalia",
-      "pubdate": "Fri, 05 Jul 2024 10:00:00 +0200"
-    },
-    {
       "title": "BTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BTC",
       "pubdate": "Fri, 05 Jul 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Demiral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Demiral",
+      "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "Ederson",
@@ -32,9 +37,14 @@
       "pubdate": "Fri, 05 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Wybory w Wielkiej Brytanii",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%20w%20Wielkiej%20Brytanii",
-      "pubdate": "Fri, 05 Jul 2024 11:00:00 +0200"
+      "title": "Orban",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orban",
+      "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Mateusz Bogusz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Bogusz",
+      "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "Kai Cenat",
@@ -42,9 +52,9 @@
       "pubdate": "Fri, 05 Jul 2024 02:00:00 +0200"
     },
     {
-      "title": "Mateusz Bogusz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Bogusz",
-      "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
+      "title": "Iga Świątek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iga%20%C5%9Awi%C4%85tek",
+      "pubdate": "Thu, 04 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Hurkacz",
@@ -90,16 +100,6 @@
       "title": "GOG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GOG",
       "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Vanessa Hudgens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vanessa%20Hudgens",
-      "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Urszula Dudziak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Urszula%20Dudziak",
-      "pubdate": "Thu, 04 Jul 2024 02:00:00 +0200"
     }
   ]
 }

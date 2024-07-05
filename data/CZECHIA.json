@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 11:35:07",
+  "lastUpdate": "05-07-2024 , 12:50:32",
   "data": [
     {
       "title": "Tereza Pergnerová",
@@ -22,13 +22,28 @@
       "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Elvis Presley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elvis%20Presley",
+      "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
+    },
+    {
       "title": "Keir Starmer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Keir%20Starmer",
       "pubdate": "Thu, 04 Jul 2024 20:00:00 +0200"
     },
     {
+      "title": "Cyril a metoděj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cyril%20a%20metod%C4%9Bj",
+      "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
+    },
+    {
       "title": "Clive Owen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clive%20Owen",
+      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Vzpoura Věznice Valdice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vzpoura%20V%C4%9Bznice%20Valdice",
       "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
     },
     {
@@ -37,9 +52,9 @@
       "pubdate": "Thu, 04 Jul 2024 19:00:00 +0200"
     },
     {
-      "title": "Vzpoura Věznice Valdice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vzpoura%20V%C4%9Bznice%20Valdice",
-      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
+      "title": "Velehrad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velehrad",
+      "pubdate": "Thu, 04 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Most!",
@@ -47,34 +62,9 @@
       "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Velehrad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velehrad",
-      "pubdate": "Thu, 04 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "Emma Smetana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Smetana",
       "pubdate": "Thu, 04 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Vanessa Hudgens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vanessa%20Hudgens",
-      "pubdate": "Thu, 04 Jul 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Lex Barker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lex%20Barker",
-      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Leoš Mareš",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%C5%A1%20Mare%C5%A1",
-      "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Zvonimir Rogoz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zvonimir%20Rogoz",
-      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Smashing Pumpkins",
@@ -82,14 +72,24 @@
       "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Gabriela Sabatini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gabriela%20Sabatini",
-      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
+      "title": "Lex Barker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lex%20Barker",
+      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Zvonimir Rogoz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zvonimir%20Rogoz",
+      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Seat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Seat",
       "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Gabriela Sabatini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gabriela%20Sabatini",
+      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Nova.cz",
