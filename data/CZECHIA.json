@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "04-07-2024 , 23:35:30",
+  "lastUpdate": "05-07-2024 , 01:41:53",
   "data": [
     {
       "title": "Lucie Bílá",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20B%C3%ADl%C3%A1",
       "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "BBC news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BBC%20news",
+      "pubdate": "Fri, 05 Jul 2024 02:00:00 +0200"
     },
     {
       "title": "Jelen",
@@ -17,6 +22,11 @@
       "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "Vinnetou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vinnetou",
+      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Stromboli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stromboli",
       "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
@@ -27,9 +37,9 @@
       "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Leoš Mareš",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%C5%A1%20Mare%C5%A1",
-      "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
+      "title": "Oteviraci doba svatky",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oteviraci%20doba%20svatky",
+      "pubdate": "Thu, 04 Jul 2024 08:00:00 +0200"
     },
     {
       "title": "Etna",
@@ -37,14 +47,19 @@
       "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
     },
     {
+      "title": "Vanessa Hudgens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vanessa%20Hudgens",
+      "pubdate": "Thu, 04 Jul 2024 14:00:00 +0200"
+    },
+    {
       "title": "Lex Barker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lex%20Barker",
       "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Vanessa Hudgens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vanessa%20Hudgens",
-      "pubdate": "Thu, 04 Jul 2024 14:00:00 +0200"
+      "title": "Leoš Mareš",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%C5%A1%20Mare%C5%A1",
+      "pubdate": "Thu, 04 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Emma Smetana",
@@ -62,19 +77,14 @@
       "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "Seat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Seat",
+      "title": "SEAT",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SEAT",
       "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Věznice Valdice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bznice%20Valdice",
-      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Venus Williamsová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Venus%20Williamsov%C3%A1",
-      "pubdate": "Thu, 04 Jul 2024 09:00:00 +0200"
+      "title": "Zvonimir Rogoz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zvonimir%20Rogoz",
+      "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Letiště Praha zavazadla",
@@ -82,24 +92,14 @@
       "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
     },
     {
+      "title": "Venus Williamsová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Venus%20Williamsov%C3%A1",
+      "pubdate": "Thu, 04 Jul 2024 09:00:00 +0200"
+    },
+    {
       "title": "GOG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GOG",
       "pubdate": "Thu, 04 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Neil Gaiman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Neil%20Gaiman",
-      "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Mark Cavendish",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%20Cavendish",
-      "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Daniel Brühl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20Br%C3%BChl",
-      "pubdate": "Wed, 03 Jul 2024 15:00:00 +0200"
     }
   ]
 }
