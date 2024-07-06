@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "05-07-2024 , 23:36:34",
+  "lastUpdate": "06-07-2024 , 01:39:45",
   "data": [
-    {
-      "title": "Lamine Yamal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lamine%20Yamal",
-      "pubdate": "Sat, 06 Jul 2024 01:00:00 +0800"
-    },
     {
       "title": "Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alcaraz",
@@ -32,6 +27,16 @@
       "pubdate": "Sat, 06 Jul 2024 01:00:00 +0800"
     },
     {
+      "title": "France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#France",
+      "pubdate": "Sat, 06 Jul 2024 06:00:00 +0800"
+    },
+    {
+      "title": "Rachel Reeves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rachel%20Reeves",
+      "pubdate": "Sat, 06 Jul 2024 08:00:00 +0800"
+    },
+    {
       "title": "Euro 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Euro%202024",
       "pubdate": "Fri, 05 Jul 2024 13:00:00 +0800"
@@ -40,6 +45,11 @@
       "title": "Portugal vs France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Portugal%20vs%20France",
       "pubdate": "Fri, 05 Jul 2024 13:00:00 +0800"
+    },
+    {
+      "title": "Copa America",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Copa%20America",
+      "pubdate": "Fri, 05 Jul 2024 11:00:00 +0800"
     },
     {
       "title": "Liz Truss",
@@ -87,19 +97,9 @@
       "pubdate": "Fri, 05 Jul 2024 22:00:00 +0800"
     },
     {
-      "title": "Tories",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tories",
-      "pubdate": "Fri, 05 Jul 2024 22:00:00 +0800"
-    },
-    {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
-      "pubdate": "Fri, 05 Jul 2024 18:00:00 +0800"
-    },
-    {
       "title": "Rishi Sunak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rishi%20Sunak",
-      "pubdate": "Thu, 04 Jul 2024 08:00:00 +0800"
+      "pubdate": "Thu, 04 Jul 2024 17:00:00 +0800"
     }
   ]
 }

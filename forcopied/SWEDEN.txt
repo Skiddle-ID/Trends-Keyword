@@ -1,1 +1,1 @@
-EM,Pepe,Tyskland Spanien,Kiviks marknad,Portugal,Nico Williams,Zlatan,Thobias Johansson,Uefa,Bellingham,Etna,Lars Winnerbäck,Tanner Kero,Nestor,Morata,Demiral,Mats Olin,Rudiger,Copa américa,En
+EM,Ronaldo,Kiviks marknad,Portugal,Zlatan,Thobias Johansson,Tollarp,Uefa,Pedri,Bellingham,Lars Winnerbäck,Etna,Tanner Kero,Nestor,Morata,Demiral,Mats Olin,Copa américa,Rudiger,En
