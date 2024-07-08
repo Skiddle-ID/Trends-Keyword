@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "07-07-2024 , 23:35:39",
+  "lastUpdate": "08-07-2024 , 01:44:56",
   "data": [
+    {
+      "title": "PGE Narodowy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20Narodowy",
+      "pubdate": "Mon, 08 Jul 2024 02:00:00 +0200"
+    },
     {
       "title": "Tatry Studnia w Mnichu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tatry%20Studnia%20w%20Mnichu",
@@ -12,19 +17,19 @@
       "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Marine Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marine%20Le%20Pen",
-      "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Raducanu",
-      "pubdate": "Sun, 07 Jul 2024 19:00:00 +0200"
+      "title": "Maryla Rodowicz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maryla%20Rodowicz",
+      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Wynik meczu Holandia - Turcja",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wynik%20meczu%20Holandia%20-%20Turcja",
       "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Marine Le Pen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marine%20Le%20Pen",
+      "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Margot Robbie",
@@ -37,14 +42,14 @@
       "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "Copa américa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Copa%20am%C3%A9rica",
-      "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
-    },
-    {
       "title": "Wiktor Waligóra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wiktor%20Walig%C3%B3ra",
       "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Copa américa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Copa%20am%C3%A9rica",
+      "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Paolini",
@@ -52,14 +57,14 @@
       "pubdate": "Sun, 07 Jul 2024 16:00:00 +0200"
     },
     {
-      "title": "Duda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda",
-      "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
-    },
-    {
       "title": "Henryka Krzywonos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henryka%20Krzywonos",
       "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda",
+      "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Thiago Alcantara",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alcaraz",
-      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "PGE Ekstraliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGE%20Ekstraliga",
+      "title": "Emma Navarro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Emma%20Navarro",
       "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Sylvester Stallone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sylvester%20Stallone",
-      "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alcaraz",
+      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
     }
   ]
 }

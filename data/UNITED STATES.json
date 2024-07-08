@@ -1,25 +1,10 @@
 {
-  "lastUpdate": "07-07-2024 , 23:35:32",
+  "lastUpdate": "08-07-2024 , 01:44:49",
   "data": [
     {
-      "title": "Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raducanu",
-      "pubdate": "Sun, 07 Jul 2024 12:00:00 -0700"
-    },
-    {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Margot%20Robbie",
-      "pubdate": "Sun, 07 Jul 2024 11:00:00 -0700"
-    },
-    {
-      "title": "Lulu Sun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lulu%20Sun",
-      "pubdate": "Sun, 07 Jul 2024 11:00:00 -0700"
-    },
-    {
-      "title": "Lewis Hamilton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lewis%20Hamilton",
-      "pubdate": "Sun, 07 Jul 2024 09:00:00 -0700"
+      "title": "DeMar DeRozan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DeMar%20DeRozan",
+      "pubdate": "Sun, 07 Jul 2024 14:00:00 -0700"
     },
     {
       "title": "French elections",
@@ -27,9 +12,19 @@
       "pubdate": "Sun, 07 Jul 2024 13:00:00 -0700"
     },
     {
-      "title": "Davis Thompson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davis%20Thompson",
+      "title": "Raducanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raducanu",
       "pubdate": "Sun, 07 Jul 2024 12:00:00 -0700"
+    },
+    {
+      "title": "Lewis Hamilton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lewis%20Hamilton",
+      "pubdate": "Sun, 07 Jul 2024 09:00:00 -0700"
+    },
+    {
+      "title": "Lulu Sun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lulu%20Sun",
+      "pubdate": "Sun, 07 Jul 2024 11:00:00 -0700"
     },
     {
       "title": "Jannik Sinner",
@@ -42,6 +37,11 @@
       "pubdate": "Sun, 07 Jul 2024 12:00:00 -0700"
     },
     {
+      "title": "Weather Houston",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Weather%20Houston",
+      "pubdate": "Sun, 07 Jul 2024 04:00:00 -0700"
+    },
+    {
       "title": "Khyree Jackson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Khyree%20Jackson",
       "pubdate": "Sat, 06 Jul 2024 09:00:00 -0700"
@@ -50,16 +50,6 @@
       "title": "Nate Diaz vs Masvidal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nate%20Diaz%20vs%20Masvidal",
       "pubdate": "Sat, 06 Jul 2024 09:00:00 -0700"
-    },
-    {
-      "title": "England vs Switzerland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#England%20vs%20Switzerland",
-      "pubdate": "Sat, 06 Jul 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-      "pubdate": "Sat, 06 Jul 2024 15:00:00 -0700"
     },
     {
       "title": "Shakur Stevenson",
@@ -77,13 +67,8 @@
       "pubdate": "Sat, 06 Jul 2024 13:00:00 -0700"
     },
     {
-      "title": "Houston Weather",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20Weather",
-      "pubdate": "Sat, 06 Jul 2024 05:00:00 -0700"
-    },
-    {
-      "title": "Caitlin Clark",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Caitlin%20Clark",
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
       "pubdate": "Sat, 06 Jul 2024 16:00:00 -0700"
     },
     {
@@ -100,6 +85,21 @@
       "title": "Beverly Hills Cop: Axel Foley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beverly%20Hills%20Cop:%20Axel%20Foley",
       "pubdate": "Sat, 06 Jul 2024 20:00:00 -0700"
+    },
+    {
+      "title": "Caleb Martin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Caleb%20Martin",
+      "pubdate": "Sat, 06 Jul 2024 10:00:00 -0700"
+    },
+    {
+      "title": "NASCAR Chicago",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NASCAR%20Chicago",
+      "pubdate": "Sat, 06 Jul 2024 10:00:00 -0700"
+    },
+    {
+      "title": "England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#England",
+      "pubdate": "Sat, 06 Jul 2024 11:00:00 -0700"
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "07-07-2024 , 23:35:40",
+  "lastUpdate": "08-07-2024 , 01:44:57",
   "data": [
     {
-      "title": "TES",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TES",
+      "title": "T1 TES",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#T1%20TES",
       "pubdate": "Mon, 08 Jul 2024 02:00:00 +0900"
     },
     {
-      "title": "연판장",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%B0%ED%8C%90%EC%9E%A5",
-      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0900"
-    },
-    {
-      "title": "남원 김치 식중독",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%A8%EC%9B%90%20%EA%B9%80%EC%B9%98%20%EC%8B%9D%EC%A4%91%EB%8F%85",
-      "pubdate": "Sun, 07 Jul 2024 09:00:00 +0900"
+      "title": "루이바오 후이바오 생일",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A3%A8%EC%9D%B4%EB%B0%94%EC%98%A4%20%ED%9B%84%EC%9D%B4%EB%B0%94%EC%98%A4%20%EC%83%9D%EC%9D%BC",
+      "pubdate": "Mon, 08 Jul 2024 08:00:00 +0900"
     },
     {
       "title": "애쉬아일랜드",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%A0%EC%89%AC%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C",
       "pubdate": "Sun, 07 Jul 2024 20:00:00 +0900"
+    },
+    {
+      "title": "남원 김치 식중독",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%A8%EC%9B%90%20%EA%B9%80%EC%B9%98%20%EC%8B%9D%EC%A4%91%EB%8F%85",
+      "pubdate": "Sun, 07 Jul 2024 09:00:00 +0900"
     },
     {
       "title": "로또1127",
@@ -32,9 +32,9 @@
       "pubdate": "Sun, 07 Jul 2024 10:00:00 +0900"
     },
     {
-      "title": "두바이 초콜릿",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%91%90%EB%B0%94%EC%9D%B4%20%EC%B4%88%EC%BD%9C%EB%A6%BF",
-      "pubdate": "Sun, 07 Jul 2024 18:00:00 +0900"
+      "title": "김승수",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%8A%B9%EC%88%98",
+      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0900"
     },
     {
       "title": "둥팅호 제방 붕괴",
@@ -42,19 +42,14 @@
       "pubdate": "Sun, 07 Jul 2024 11:00:00 +0900"
     },
     {
-      "title": "박형준",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%ED%98%95%EC%A4%80",
-      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0900"
-    },
-    {
-      "title": "김승수",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%8A%B9%EC%88%98",
-      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0900"
-    },
-    {
       "title": "조민웅",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EB%AF%BC%EC%9B%85",
       "pubdate": "Sun, 07 Jul 2024 17:00:00 +0900"
+    },
+    {
+      "title": "대통령",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%ED%86%B5%EB%A0%B9",
+      "pubdate": "Sun, 07 Jul 2024 00:00:00 +0900"
     },
     {
       "title": "허웅 전여친",
@@ -77,6 +72,11 @@
       "pubdate": "Sun, 07 Jul 2024 09:00:00 +0900"
     },
     {
+      "title": "네덜란드 튀르키예",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%84%A4%EB%8D%9C%EB%9E%80%EB%93%9C%20%ED%8A%80%EB%A5%B4%ED%82%A4%EC%98%88",
+      "pubdate": "Sun, 07 Jul 2024 14:00:00 +0900"
+    },
+    {
       "title": "도시가스 요금 인상",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4%20%EC%9A%94%EA%B8%88%20%EC%9D%B8%EC%83%81",
       "pubdate": "Sun, 07 Jul 2024 02:00:00 +0900"
@@ -87,11 +87,6 @@
       "pubdate": "Sun, 07 Jul 2024 16:00:00 +0900"
     },
     {
-      "title": "우루과이 브라질",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B0%EB%A3%A8%EA%B3%BC%EC%9D%B4%20%EB%B8%8C%EB%9D%BC%EC%A7%88",
-      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0900"
-    },
-    {
       "title": "유로 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EB%A1%9C%202024",
       "pubdate": "Sat, 06 Jul 2024 02:00:00 +0900"
@@ -100,6 +95,11 @@
       "title": "홍명보",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%8D%EB%AA%85%EB%B3%B4",
       "pubdate": "Sat, 06 Jul 2024 16:00:00 +0900"
+    },
+    {
+      "title": "스페인 독일",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8A%A4%ED%8E%98%EC%9D%B8%20%EB%8F%85%EC%9D%BC",
+      "pubdate": "Sat, 06 Jul 2024 01:00:00 +0900"
     }
   ]
 }
