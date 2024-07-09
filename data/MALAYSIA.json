@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2024 , 01:43:47",
+  "lastUpdate": "09-07-2024 , 02:51:03",
   "data": [
     {
       "title": "France election",
@@ -17,19 +17,14 @@
       "pubdate": "Mon, 08 Jul 2024 01:00:00 +0800"
     },
     {
-      "title": "Thiago",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thiago",
-      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0800"
+      "title": "Hyuna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hyuna",
+      "pubdate": "Mon, 08 Jul 2024 18:00:00 +0800"
     },
     {
       "title": "F1 movie Brad Pitt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#F1%20movie%20Brad%20Pitt",
       "pubdate": "Mon, 08 Jul 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Hyuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hyuna",
-      "pubdate": "Mon, 08 Jul 2024 18:00:00 +0800"
     },
     {
       "title": "CMF Phone 1",
@@ -42,14 +37,14 @@
       "pubdate": "Mon, 08 Jul 2024 10:00:00 +0800"
     },
     {
-      "title": "Song Joong-ki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Song%20Joong-ki",
-      "pubdate": "Mon, 08 Jul 2024 22:00:00 +0800"
-    },
-    {
       "title": "Mason Greenwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mason%20Greenwood",
       "pubdate": "Mon, 08 Jul 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Song Joong-ki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Song%20Joong-ki",
+      "pubdate": "Mon, 08 Jul 2024 22:00:00 +0800"
     },
     {
       "title": "India vs Zimbabwe",
@@ -100,6 +95,11 @@
       "title": "Alisha Lehmann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alisha%20Lehmann",
       "pubdate": "Sun, 07 Jul 2024 04:00:00 +0800"
+    },
+    {
+      "title": "Turkey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Turkey",
+      "pubdate": "Sun, 07 Jul 2024 00:00:00 +0800"
     }
   ]
 }

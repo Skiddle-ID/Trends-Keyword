@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "09-07-2024 , 01:43:48",
+  "lastUpdate": "09-07-2024 , 02:51:04",
   "data": [
+    {
+      "title": "Madame Web",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Madame%20Web",
+      "pubdate": "Tue, 09 Jul 2024 10:00:00 +0800"
+    },
     {
       "title": "France",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#France",
       "pubdate": "Tue, 09 Jul 2024 03:00:00 +0800"
+    },
+    {
+      "title": "Gasoline prices",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gasoline%20prices",
+      "pubdate": "Tue, 09 Jul 2024 10:00:00 +0800"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Novak%20Djokovic",
+      "pubdate": "Tue, 09 Jul 2024 09:00:00 +0800"
     },
     {
       "title": "Song Joong-ki",
@@ -12,13 +27,8 @@
       "pubdate": "Mon, 08 Jul 2024 16:00:00 +0800"
     },
     {
-      "title": "British gp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#British%20gp",
-      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Principles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Principles",
+      "title": "British GP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#British%20GP",
       "pubdate": "Mon, 08 Jul 2024 00:00:00 +0800"
     },
     {
@@ -32,14 +42,19 @@
       "pubdate": "Mon, 08 Jul 2024 12:00:00 +0800"
     },
     {
-      "title": "Tom Ackerley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tom%20Ackerley",
-      "pubdate": "Mon, 08 Jul 2024 09:00:00 +0800"
+      "title": "Principles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Principles",
+      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0800"
     },
     {
       "title": "Hyuna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hyuna",
       "pubdate": "Mon, 08 Jul 2024 16:00:00 +0800"
+    },
+    {
+      "title": "Tom Ackerley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tom%20Ackerley",
+      "pubdate": "Mon, 08 Jul 2024 09:00:00 +0800"
     },
     {
       "title": "Sophisticated",
@@ -67,9 +82,9 @@
       "pubdate": "Mon, 08 Jul 2024 21:00:00 +0800"
     },
     {
-      "title": "Lulu Sun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lulu%20Sun",
-      "pubdate": "Mon, 08 Jul 2024 12:00:00 +0800"
+      "title": "CMF Phone 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#CMF%20Phone%201",
+      "pubdate": "Mon, 08 Jul 2024 23:00:00 +0800"
     },
     {
       "title": "Anant Ambani",
@@ -77,29 +92,14 @@
       "pubdate": "Mon, 08 Jul 2024 22:00:00 +0800"
     },
     {
-      "title": "CMF Phone 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#CMF%20Phone%201",
-      "pubdate": "Mon, 08 Jul 2024 23:00:00 +0800"
+      "title": "Lulu Sun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lulu%20Sun",
+      "pubdate": "Mon, 08 Jul 2024 12:00:00 +0800"
     },
     {
       "title": "Pia Wurtzbach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pia%20Wurtzbach",
       "pubdate": "Mon, 08 Jul 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Emma Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Emma%20Raducanu",
-      "pubdate": "Mon, 08 Jul 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Bobby Ray Parks Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bobby%20Ray%20Parks%20Jr",
-      "pubdate": "Sun, 07 Jul 2024 23:00:00 +0800"
-    },
-    {
-      "title": "Binibining Pilipinas 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Binibining%20Pilipinas%202024",
-      "pubdate": "Sun, 07 Jul 2024 20:00:00 +0800"
     }
   ]
 }
