@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 23:35:23",
+  "lastUpdate": "09-07-2024 , 01:43:43",
   "data": [
     {
       "title": "Bruce Springsteen",
@@ -47,11 +47,6 @@
       "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Tom Ackerley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Ackerley",
-      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alcaraz",
       "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
@@ -62,14 +57,14 @@
       "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Raducanu",
+      "title": "Tom Ackerley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Ackerley",
       "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Rybakina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rybakina",
-      "pubdate": "Sun, 07 Jul 2024 16:00:00 +0200"
+      "title": "Raducanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Raducanu",
+      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Paolini Tennis",
@@ -99,6 +94,11 @@
     {
       "title": "Jon Landau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jon%20Landau",
+      "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "John Cena",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Cena",
       "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
     }
   ]

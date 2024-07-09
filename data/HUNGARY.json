@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-07-2024 , 23:35:25",
+  "lastUpdate": "09-07-2024 , 01:43:45",
   "data": [
+    {
+      "title": "Ónodi Henrietta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nodi%20Henrietta",
+      "pubdate": "Tue, 09 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Kormányinfó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
@@ -20,6 +25,11 @@
       "title": "Rácz András",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1cz%20Andr%C3%A1s",
       "pubdate": "Mon, 08 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Bajnai Gordon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnai%20Gordon",
+      "pubdate": "Mon, 08 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Hőségriadó",
@@ -77,11 +87,6 @@
       "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Le%20Pen",
-      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Antal Attila",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Antal%20Attila",
       "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "F1 silverstone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20silverstone",
       "pubdate": "Sun, 07 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Korda György",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
-      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
     }
   ]
 }

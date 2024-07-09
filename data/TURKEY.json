@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 23:35:31",
+  "lastUpdate": "09-07-2024 , 01:43:51",
   "data": [
     {
       "title": "Turist",
@@ -17,14 +17,14 @@
       "pubdate": "Mon, 08 Jul 2024 14:00:00 +0300"
     },
     {
-      "title": "Saint-Maximin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Saint-Maximin",
-      "pubdate": "Mon, 08 Jul 2024 01:00:00 +0300"
-    },
-    {
       "title": "Serdar Aziz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Serdar%20Aziz",
       "pubdate": "Mon, 08 Jul 2024 14:00:00 +0300"
+    },
+    {
+      "title": "Allan Saint-Maximin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Allan%20Saint-Maximin",
+      "pubdate": "Mon, 08 Jul 2024 01:00:00 +0300"
     },
     {
       "title": "Özkan Uğur",
@@ -50,6 +50,11 @@
       "title": "15 Temmuz resmi tatil mi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#15%20Temmuz%20resmi%20tatil%20mi",
       "pubdate": "Mon, 08 Jul 2024 09:00:00 +0300"
+    },
+    {
+      "title": "İran'ın yeni cumhurbaskani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran'%C4%B1n%20yeni%20cumhurbaskani",
+      "pubdate": "Mon, 08 Jul 2024 07:00:00 +0300"
     },
     {
       "title": "Zeynep Bastık",
@@ -82,24 +87,19 @@
       "pubdate": "Sun, 07 Jul 2024 22:00:00 +0300"
     },
     {
+      "title": "Necati Arabacı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Necati%20Arabac%C4%B1",
+      "pubdate": "Sun, 07 Jul 2024 17:00:00 +0300"
+    },
+    {
       "title": "Emekli maaşı zammı",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emekli%20maa%C5%9F%C4%B1%20zamm%C4%B1",
       "pubdate": "Sun, 07 Jul 2024 03:00:00 +0300"
     },
     {
-      "title": "LAZANYA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#LAZANYA",
-      "pubdate": "Sun, 07 Jul 2024 22:00:00 +0300"
-    },
-    {
       "title": "Yağız Kaan Erdoğmuş",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ya%C4%9F%C4%B1z%20Kaan%20Erdo%C4%9Fmu%C5%9F",
       "pubdate": "Sun, 07 Jul 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Margot%20Robbie",
-      "pubdate": "Sun, 07 Jul 2024 21:00:00 +0300"
     }
   ]
 }

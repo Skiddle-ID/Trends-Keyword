@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 23:35:23",
+  "lastUpdate": "09-07-2024 , 01:43:43",
   "data": [
     {
       "title": "IPC",
@@ -12,14 +12,14 @@
       "pubdate": "Mon, 08 Jul 2024 17:00:00 -0400"
     },
     {
-      "title": "Piero Maza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Piero%20Maza",
-      "pubdate": "Mon, 08 Jul 2024 15:00:00 -0400"
-    },
-    {
       "title": "Sindrome Guillain barre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sindrome%20Guillain%20barre",
       "pubdate": "Mon, 08 Jul 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Aemond Targaryen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aemond%20Targaryen",
+      "pubdate": "Mon, 08 Jul 2024 19:00:00 -0400"
     },
     {
       "title": "Santa Cruz  colo-colo",
@@ -42,6 +42,11 @@
       "pubdate": "Sun, 07 Jul 2024 01:00:00 -0400"
     },
     {
+      "title": "Argentina vs canada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina%20vs%20canada",
+      "pubdate": "Sun, 07 Jul 2024 00:00:00 -0400"
+    },
+    {
       "title": "Tom Ackerley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%20Ackerley",
       "pubdate": "Sun, 07 Jul 2024 15:00:00 -0400"
@@ -50,11 +55,6 @@
       "title": "Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton",
       "pubdate": "Sun, 07 Jul 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Argentina vs canada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina%20vs%20canada",
-      "pubdate": "Sun, 07 Jul 2024 00:00:00 -0400"
     },
     {
       "title": "Temblor",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 07 Jul 2024 00:00:00 -0400"
     },
     {
-      "title": "Thiago Alcantara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Thiago%20Alcantara",
-      "pubdate": "Sun, 07 Jul 2024 17:00:00 -0400"
-    },
-    {
       "title": "Uruguay vs Colombia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Uruguay%20vs%20Colombia",
       "pubdate": "Sun, 07 Jul 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Thiago Alcantara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Thiago%20Alcantara",
+      "pubdate": "Sun, 07 Jul 2024 17:00:00 -0400"
     }
   ]
 }
