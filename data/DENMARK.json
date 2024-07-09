@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "09-07-2024 , 11:35:53",
+  "lastUpdate": "09-07-2024 , 12:53:23",
   "data": [
     {
-      "title": "Jesse Jane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jesse%20Jane",
-      "pubdate": "Tue, 09 Jul 2024 05:00:00 +0200"
+      "title": "Vinted",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vinted",
+      "pubdate": "Tue, 09 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Sketch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sketch",
       "pubdate": "Tue, 09 Jul 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Jesse Jane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jesse%20Jane",
+      "pubdate": "Tue, 09 Jul 2024 05:00:00 +0200"
     },
     {
       "title": "Bachelorette",
@@ -20,6 +25,11 @@
       "title": "Ford Explorer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ford%20Explorer",
       "pubdate": "Tue, 09 Jul 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Holger Rune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+      "pubdate": "Mon, 08 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Taylor Fritz",
@@ -37,11 +47,6 @@
       "pubdate": "Mon, 08 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Michael Mørkøv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20M%C3%B8rk%C3%B8v",
-      "pubdate": "Mon, 08 Jul 2024 10:00:00 +0200"
-    },
-    {
       "title": "Serena Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serena%20Williams",
       "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
@@ -52,11 +57,6 @@
       "pubdate": "Mon, 08 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Venus Williams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Venus%20Williams",
-      "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Emma Roberts",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emma%20Roberts",
       "pubdate": "Mon, 08 Jul 2024 06:00:00 +0200"
@@ -65,6 +65,11 @@
       "title": "Ines de Ramon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ines%20de%20Ramon",
       "pubdate": "Mon, 08 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Eli Lilly stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eli%20Lilly%20stock",
+      "pubdate": "Mon, 08 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Holger Rune",
@@ -95,11 +100,6 @@
       "title": "Coco Gauff",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coco%20Gauff",
       "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Rybakina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rybakina",
-      "pubdate": "Sun, 07 Jul 2024 16:00:00 +0200"
     }
   ]
 }

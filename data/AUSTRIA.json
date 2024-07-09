@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2024 , 11:35:51",
+  "lastUpdate": "09-07-2024 , 12:53:21",
   "data": [
     {
       "title": "Fürst Heinz Sayn-Wittgenstein",
@@ -87,11 +87,6 @@
       "pubdate": "Mon, 08 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Tom Cruise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tom%20Cruise",
-      "pubdate": "Mon, 08 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Schick Sisters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schick%20Sisters",
       "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Bernhard Fügenschuh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bernhard%20F%C3%BCgenschuh",
       "pubdate": "Mon, 08 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Orban",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Orban",
+      "pubdate": "Mon, 08 Jul 2024 19:00:00 +0200"
     }
   ]
 }
