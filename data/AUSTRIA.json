@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 11:36:24",
+  "lastUpdate": "10-07-2024 , 12:52:38",
   "data": [
     {
       "title": "Teufel trägt Prada",
@@ -7,19 +7,24 @@
       "pubdate": "Wed, 10 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Copa América",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Copa%20Am%C3%A9rica",
-      "pubdate": "Wed, 10 Jul 2024 07:00:00 +0200"
-    },
-    {
       "title": "Alexej Nawalny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexej%20Nawalny",
       "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
     },
     {
+      "title": "Copa América",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Copa%20Am%C3%A9rica",
+      "pubdate": "Wed, 10 Jul 2024 07:00:00 +0200"
+    },
+    {
       "title": "FPÖ-Jugend Video",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FP%C3%96-Jugend%20Video",
       "pubdate": "Wed, 10 Jul 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Vogelgrippevirus H5N1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vogelgrippevirus%20H5N1",
+      "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Josh Homme",
@@ -34,6 +39,11 @@
     {
       "title": "Gypsy-Rose",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gypsy-Rose",
+      "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Til Schweiger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Til%20Schweiger",
       "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
     },
     {
@@ -77,6 +87,11 @@
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
     },
     {
+      "title": "England Niederlande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#England%20Niederlande",
+      "pubdate": "Tue, 09 Jul 2024 21:00:00 +0200"
+    },
+    {
       "title": "Jesus Navas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jesus%20Navas",
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Nico Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nico%20Williams",
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "England Niederlande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#England%20Niederlande",
-      "pubdate": "Tue, 09 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Ariane 6 Start",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ariane%206%20Start",
-      "pubdate": "Tue, 09 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Gladiator 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gladiator%202",
-      "pubdate": "Tue, 09 Jul 2024 21:00:00 +0200"
     }
   ]
 }

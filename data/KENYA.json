@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-07-2024 , 11:36:29",
+  "lastUpdate": "10-07-2024 , 12:52:44",
   "data": [
+    {
+      "title": "France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
+      "pubdate": "Wed, 10 Jul 2024 05:00:00 +0300"
+    },
     {
       "title": "Nico Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nico%20Williams",
@@ -10,6 +15,11 @@
       "title": "Raila",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila",
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0300"
+    },
+    {
+      "title": "India vs Zimbabwe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20Zimbabwe",
+      "pubdate": "Wed, 10 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Allan Kiuna",
@@ -22,24 +32,19 @@
       "pubdate": "Tue, 09 Jul 2024 08:00:00 +0300"
     },
     {
-      "title": "Myeloma Cancer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Myeloma%20Cancer",
-      "pubdate": "Tue, 09 Jul 2024 18:00:00 +0300"
-    },
-    {
       "title": "Argentina vs Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina%20vs%20Canada",
       "pubdate": "Tue, 09 Jul 2024 09:00:00 +0300"
     },
     {
-      "title": "Multiple myeloma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Multiple%20myeloma",
-      "pubdate": "Tue, 09 Jul 2024 18:00:00 +0300"
-    },
-    {
       "title": "Leny Yoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leny%20Yoro",
       "pubdate": "Tue, 09 Jul 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Farah Maalim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Farah%20Maalim",
+      "pubdate": "Tue, 09 Jul 2024 11:00:00 +0300"
     },
     {
       "title": "IEBC Bill, 2024",
@@ -77,11 +82,6 @@
       "pubdate": "Tue, 09 Jul 2024 00:00:00 +0300"
     },
     {
-      "title": "Twitch streamer Sketch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Twitch%20streamer%20Sketch",
-      "pubdate": "Tue, 09 Jul 2024 21:00:00 +0300"
-    },
-    {
       "title": "Hustler Fund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hustler%20Fund",
       "pubdate": "Tue, 09 Jul 2024 00:00:00 +0300"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 08 Jul 2024 19:00:00 +0300"
     },
     {
-      "title": "France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
-      "pubdate": "Mon, 08 Jul 2024 14:00:00 +0300"
+      "title": "Tom Mboya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tom%20Mboya",
+      "pubdate": "Mon, 08 Jul 2024 02:00:00 +0300"
     }
   ]
 }

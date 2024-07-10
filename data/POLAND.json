@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "10-07-2024 , 11:36:31",
+  "lastUpdate": "10-07-2024 , 12:52:46",
   "data": [
     {
       "title": "Ariane 6",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ariane%206",
       "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Depenalizacja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Depenalizacja",
+      "pubdate": "Wed, 10 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Messi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Messi",
+      "pubdate": "Wed, 10 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Dawid Kubacki",
@@ -17,14 +27,19 @@
       "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Messi Yamal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Messi%20Yamal",
+      "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Katarzyna Warnke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Warnke",
+      "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
+    },
+    {
       "title": "Lulu Sun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lulu%20Sun",
       "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Depenalizacja aborcji",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Depenalizacja%20aborcji",
-      "pubdate": "Wed, 10 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Kogel mogel",
@@ -37,8 +52,8 @@
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
     },
     {
-      "title": "Klimatyzacja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Klimatyzacja",
+      "title": "Magdalena z Love Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20z%20Love%20Island",
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
     },
     {
@@ -55,6 +70,11 @@
       "title": "Gypsy-Rose",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gypsy-Rose",
       "pubdate": "Wed, 10 Jul 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Pele",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pele",
+      "pubdate": "Wed, 10 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Leny Yoro",
@@ -80,26 +100,6 @@
       "title": "CKE wyniki matur 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CKE%20wyniki%20matur%202024",
       "pubdate": "Tue, 09 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Cucurella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cucurella",
-      "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Mecz dzisiaj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mecz%20dzisiaj",
-      "pubdate": "Tue, 09 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Morata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morata",
-      "pubdate": "Tue, 09 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Shrek 5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Shrek%205",
-      "pubdate": "Tue, 09 Jul 2024 13:00:00 +0200"
     }
   ]
 }

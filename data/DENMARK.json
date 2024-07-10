@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 11:36:25",
+  "lastUpdate": "10-07-2024 , 12:52:40",
   "data": [
     {
       "title": "Messi",
@@ -17,6 +17,11 @@
       "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Zlatan Ibrahimovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zlatan%20Ibrahimovic",
+      "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
+    },
+    {
       "title": "Lamine Yamal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamine%20Yamal",
       "pubdate": "Tue, 09 Jul 2024 18:00:00 +0200"
@@ -32,11 +37,6 @@
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Vinted",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vinted",
-      "pubdate": "Tue, 09 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "Cucurella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cucurella",
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
@@ -45,11 +45,6 @@
       "title": "Nico Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nico%20Williams",
       "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Tommy Paul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tommy%20Paul",
-      "pubdate": "Tue, 09 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Jesus Navas",
@@ -67,14 +62,19 @@
       "pubdate": "Tue, 09 Jul 2024 08:00:00 +0200"
     },
     {
+      "title": "Vinted",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vinted",
+      "pubdate": "Tue, 09 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Tommy Paul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tommy%20Paul",
+      "pubdate": "Tue, 09 Jul 2024 19:00:00 +0200"
+    },
+    {
       "title": "Sketch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sketch",
       "pubdate": "Tue, 09 Jul 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Jasper Philipsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jasper%20Philipsen",
-      "pubdate": "Tue, 09 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "England holland",
@@ -82,9 +82,9 @@
       "pubdate": "Tue, 09 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Didier Deschamps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Didier%20Deschamps",
-      "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
+      "title": "Jasper Philipsen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jasper%20Philipsen",
+      "pubdate": "Tue, 09 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Morata",

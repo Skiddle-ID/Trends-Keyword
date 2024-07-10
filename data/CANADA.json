@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "10-07-2024 , 11:36:25",
+  "lastUpdate": "10-07-2024 , 12:52:39",
   "data": [
-    {
-      "title": "Blue Jays vs giants",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20vs%20giants",
-      "pubdate": "Wed, 10 Jul 2024 01:00:00 -0400"
-    },
     {
       "title": "Lena Dunham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lena%20Dunham",
@@ -32,14 +27,14 @@
       "pubdate": "Tue, 09 Jul 2024 17:00:00 -0400"
     },
     {
-      "title": "Soccer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Soccer",
-      "pubdate": "Tue, 09 Jul 2024 20:00:00 -0400"
-    },
-    {
       "title": "Gypsy Rose",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gypsy%20Rose",
       "pubdate": "Tue, 09 Jul 2024 14:00:00 -0400"
+    },
+    {
+      "title": "Soccer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Soccer",
+      "pubdate": "Tue, 09 Jul 2024 20:00:00 -0400"
     },
     {
       "title": "The Devil Wears Prada sequel",
@@ -65,11 +60,6 @@
       "title": "Alphonso Davies",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alphonso%20Davies",
       "pubdate": "Tue, 09 Jul 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
-      "pubdate": "Tue, 09 Jul 2024 17:00:00 -0400"
     },
     {
       "title": "Shrek 5",
@@ -100,6 +90,16 @@
       "title": "Joe Bonsall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Bonsall",
       "pubdate": "Tue, 09 Jul 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Scarlett Johansson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scarlett%20Johansson",
+      "pubdate": "Tue, 09 Jul 2024 14:00:00 -0400"
+    },
+    {
+      "title": "Karkwa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Karkwa",
+      "pubdate": "Tue, 09 Jul 2024 22:00:00 -0400"
     }
   ]
 }
