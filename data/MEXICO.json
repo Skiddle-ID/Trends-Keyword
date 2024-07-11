@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 11:35:03",
+  "lastUpdate": "11-07-2024 , 12:52:51",
   "data": [
     {
       "title": "Bely y Beto",
@@ -32,6 +32,11 @@
       "pubdate": "Wed, 10 Jul 2024 15:00:00 -0600"
     },
     {
+      "title": "USA vs canada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#USA%20vs%20canada",
+      "pubdate": "Wed, 10 Jul 2024 21:00:00 -0600"
+    },
+    {
       "title": "España vs Inglaterra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Espa%C3%B1a%20vs%20Inglaterra",
       "pubdate": "Wed, 10 Jul 2024 17:00:00 -0600"
@@ -52,6 +57,11 @@
       "pubdate": "Wed, 10 Jul 2024 17:00:00 -0600"
     },
     {
+      "title": "Palenque Fiestas de Octubre 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Palenque%20Fiestas%20de%20Octubre%202024",
+      "pubdate": "Wed, 10 Jul 2024 16:00:00 -0600"
+    },
+    {
       "title": "Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bellingham",
       "pubdate": "Wed, 10 Jul 2024 14:00:00 -0600"
@@ -67,18 +77,13 @@
       "pubdate": "Wed, 10 Jul 2024 19:00:00 -0600"
     },
     {
-      "title": "Mateus Uribe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mateus%20Uribe",
-      "pubdate": "Wed, 10 Jul 2024 21:00:00 -0600"
-    },
-    {
       "title": "Rodrigo Aguirre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rodrigo%20Aguirre",
       "pubdate": "Wed, 10 Jul 2024 15:00:00 -0600"
     },
     {
-      "title": "Richard Rios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Richard%20Rios",
+      "title": "Mateus Uribe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mateus%20Uribe",
       "pubdate": "Wed, 10 Jul 2024 21:00:00 -0600"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 10 Jul 2024 15:00:00 -0600"
     },
     {
-      "title": "Palenque Fiestas de Octubre 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Palenque%20Fiestas%20de%20Octubre%202024",
-      "pubdate": "Wed, 10 Jul 2024 16:00:00 -0600"
-    },
-    {
-      "title": "Marcelo Bielsa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marcelo%20Bielsa",
-      "pubdate": "Wed, 10 Jul 2024 19:00:00 -0600"
+      "title": "Luna bella metro CDMX 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luna%20bella%20metro%20CDMX%202024",
+      "pubdate": "Wed, 10 Jul 2024 15:00:00 -0600"
     }
   ]
 }

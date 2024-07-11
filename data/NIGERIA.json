@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 11:35:04",
+  "lastUpdate": "11-07-2024 , 12:52:52",
   "data": [
     {
       "title": "Spain vs England",
@@ -22,6 +22,11 @@
       "pubdate": "Thu, 11 Jul 2024 08:00:00 +0100"
     },
     {
+      "title": "England football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England%20football",
+      "pubdate": "Thu, 11 Jul 2024 10:00:00 +0100"
+    },
+    {
       "title": "Uruguay vs Colombia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uruguay%20vs%20Colombia",
       "pubdate": "Wed, 10 Jul 2024 12:00:00 +0100"
@@ -34,7 +39,7 @@
     {
       "title": "Watkins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Watkins",
-      "pubdate": "Wed, 10 Jul 2024 23:00:00 +0100"
+      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0100"
     },
     {
       "title": "France",
@@ -52,6 +57,11 @@
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0100"
     },
     {
+      "title": "Akinremi Jagaban death",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Akinremi%20Jagaban%20death",
+      "pubdate": "Wed, 10 Jul 2024 14:00:00 +0100"
+    },
+    {
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mbappe",
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0100"
@@ -60,16 +70,6 @@
       "title": "Nico Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nico%20Williams",
       "pubdate": "Wed, 10 Jul 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Akinremi Jagaban death",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Akinremi%20Jagaban%20death",
-      "pubdate": "Wed, 10 Jul 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Bishop Allan Kiuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bishop%20Allan%20Kiuna",
-      "pubdate": "Wed, 10 Jul 2024 02:00:00 +0100"
     },
     {
       "title": "Samoa Agreement",
@@ -82,14 +82,9 @@
       "pubdate": "Wed, 10 Jul 2024 00:00:00 +0100"
     },
     {
-      "title": "England football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#England%20football",
+      "title": "Eddie Murphy Shrek 5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eddie%20Murphy%20Shrek%205",
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0100"
-    },
-    {
-      "title": "BingX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#BingX",
-      "pubdate": "Wed, 10 Jul 2024 08:00:00 +0100"
     },
     {
       "title": "Morata",
@@ -97,8 +92,13 @@
       "pubdate": "Wed, 10 Jul 2024 00:00:00 +0100"
     },
     {
-      "title": "Eddie Murphy Shrek 5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eddie%20Murphy%20Shrek%205",
+      "title": "Drake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Drake",
+      "pubdate": "Wed, 10 Jul 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Harry Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Harry%20Kane",
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0100"
     }
   ]

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "11-07-2024 , 11:35:07",
+  "lastUpdate": "11-07-2024 , 12:52:55",
   "data": [
     {
-      "title": "Uruguay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Uruguay",
-      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0300"
+      "title": "Afyon deprem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Afyon%20deprem",
+      "pubdate": "Thu, 11 Jul 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Süper Lig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCper%20Lig",
+      "pubdate": "Thu, 11 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Srebrenitsa Katliamı",
@@ -12,9 +17,19 @@
       "pubdate": "Thu, 11 Jul 2024 02:00:00 +0300"
     },
     {
-      "title": "KPSS-2024/1 Tercih Kılavuzu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS-2024/1%20Tercih%20K%C4%B1lavuzu",
+      "title": "Asgari ücrete zam yapılacak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Asgari%20%C3%BCcrete%20zam%20yap%C4%B1lacak",
+      "pubdate": "Thu, 11 Jul 2024 08:00:00 +0300"
+    },
+    {
+      "title": "KPSS-2024/1 tercih kılavuzu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS-2024/1%20tercih%20k%C4%B1lavuzu",
       "pubdate": "Thu, 11 Jul 2024 13:00:00 +0300"
+    },
+    {
+      "title": "Sabiha Gökçen Havalimanı uçuş iptali",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sabiha%20G%C3%B6k%C3%A7en%20Havaliman%C4%B1%20u%C3%A7u%C5%9F%20iptali",
+      "pubdate": "Thu, 11 Jul 2024 09:00:00 +0300"
     },
     {
       "title": "LASK Linz - Galatasaray",
@@ -32,14 +47,19 @@
       "pubdate": "Thu, 11 Jul 2024 11:00:00 +0300"
     },
     {
+      "title": "Tyler Boyd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tyler%20Boyd",
+      "pubdate": "Thu, 11 Jul 2024 03:00:00 +0300"
+    },
+    {
       "title": "İzmir deprem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0zmir%20deprem",
       "pubdate": "Thu, 11 Jul 2024 00:00:00 +0300"
     },
     {
-      "title": "Tyler Boyd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tyler%20Boyd",
-      "pubdate": "Thu, 11 Jul 2024 03:00:00 +0300"
+      "title": "Dzeko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dzeko",
+      "pubdate": "Thu, 11 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Sağlık Bilimleri Üniversitesi",
@@ -54,7 +74,7 @@
     {
       "title": "Copa America",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Copa%20America",
-      "pubdate": "Wed, 10 Jul 2024 10:00:00 +0300"
+      "pubdate": "Wed, 10 Jul 2024 16:00:00 +0300"
     },
     {
       "title": "Fransa",
@@ -65,11 +85,6 @@
       "title": "Trabzonspor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzonspor",
       "pubdate": "Wed, 10 Jul 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Afyon deprem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Afyon%20deprem",
-      "pubdate": "Wed, 10 Jul 2024 06:00:00 +0300"
     },
     {
       "title": "Buket Aydın",
@@ -85,21 +100,6 @@
       "title": "Murat Zorluoğlu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Murat%20Zorluo%C4%9Flu",
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Allan Saint-Maximin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Allan%20Saint-Maximin",
-      "pubdate": "Wed, 10 Jul 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Kelebeğin Rüyası",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kelebe%C4%9Fin%20R%C3%BCyas%C4%B1",
-      "pubdate": "Wed, 10 Jul 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Doue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Doue",
-      "pubdate": "Wed, 10 Jul 2024 12:00:00 +0300"
     }
   ]
 }
