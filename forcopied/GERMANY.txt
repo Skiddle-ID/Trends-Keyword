@@ -1,1 +1,1 @@
-ZDF,ARD,Thomas Müller,Felix Zwayer,Joe Biden,Samsung,Flughafen Düsseldorf,Das erste,Alexander Schweitzer,Jonas Vingegaard,Galaxy Ring,Unwetter,Oranje,England Niederlande,Lamine Yamal,Yamal,Cucurella,Ariane 6 Start,Morata,Guirassy
+ZDF,ARD,Thomas Müller,Joe Biden,Felix Zwayer,Samsung,Flughafen Düsseldorf,Kane,Alexander Schweitzer,Galaxy Ring,Oranje,Unwetter,England Niederlande,Niederlande England,Lamine Yamal,Yamal,Cucurella,Ariane 6 Start,Guirassy,NATO

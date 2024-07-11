@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 23:36:46",
+  "lastUpdate": "11-07-2024 , 01:44:03",
   "data": [
     {
       "title": "BBC",
@@ -10,6 +10,11 @@
       "title": "Tv2.no",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no",
       "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Jennifer Connelly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jennifer%20Connelly",
+      "pubdate": "Thu, 11 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Kane",
@@ -25,6 +30,11 @@
       "title": "Jude Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jude%20Bellingham",
       "pubdate": "Wed, 10 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Ed Sheeran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ed%20Sheeran",
+      "pubdate": "Wed, 10 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Nederland",
@@ -47,6 +57,11 @@
       "pubdate": "Wed, 10 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "Saka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Saka",
+      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sabrina%20Carpenter",
       "pubdate": "Wed, 10 Jul 2024 18:00:00 +0200"
@@ -67,6 +82,11 @@
       "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Frankrike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frankrike",
+      "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
+    },
+    {
       "title": "Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dortmund",
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
       "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Sahara Ray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sahara%20Ray",
-      "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Mamma Mia!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mamma%20Mia!",
-      "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nato",
-      "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Ford Capri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ford%20Capri",
-      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
     }
   ]
 }

@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "10-07-2024 , 23:36:49",
+  "lastUpdate": "11-07-2024 , 01:44:06",
   "data": [
+    {
+      "title": "Jacob Rees-Mogg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jacob%20Rees-Mogg",
+      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Trent Alexander-Arnold",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Trent%20Alexander-Arnold",
+      "pubdate": "Thu, 11 Jul 2024 01:00:00 +0100"
+    },
     {
       "title": "John Hunt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#John%20Hunt",
       "pubdate": "Wed, 10 Jul 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Virgil van Dijk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Virgil%20van%20Dijk",
-      "pubdate": "Wed, 10 Jul 2024 21:00:00 +0100"
     },
     {
       "title": "West Indies vs England",
@@ -52,8 +57,8 @@
       "pubdate": "Wed, 10 Jul 2024 21:00:00 +0100"
     },
     {
-      "title": "Xavi Simons",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Xavi%20Simons",
+      "title": "Virgil van Dijk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Virgil%20van%20Dijk",
       "pubdate": "Wed, 10 Jul 2024 21:00:00 +0100"
     },
     {
@@ -72,6 +77,11 @@
       "pubdate": "Wed, 10 Jul 2024 17:00:00 +0100"
     },
     {
+      "title": "England v Spain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20v%20Spain",
+      "pubdate": "Wed, 10 Jul 2024 23:00:00 +0100"
+    },
+    {
       "title": "Samsung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Samsung",
       "pubdate": "Wed, 10 Jul 2024 19:00:00 +0100"
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 10 Jul 2024 17:00:00 +0100"
     },
     {
-      "title": "Ronald Koeman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ronald%20Koeman",
-      "pubdate": "Wed, 10 Jul 2024 21:00:00 +0100"
-    },
-    {
       "title": "Pickford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pickford",
       "pubdate": "Wed, 10 Jul 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Roy Keane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roy%20Keane",
-      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0100"
     }
   ]
 }

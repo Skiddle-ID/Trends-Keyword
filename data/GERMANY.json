@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 23:36:43",
+  "lastUpdate": "11-07-2024 , 01:44:00",
   "data": [
     {
       "title": "ZDF",
@@ -17,14 +17,14 @@
       "pubdate": "Wed, 10 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Felix Zwayer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Felix%20Zwayer",
-      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
       "pubdate": "Wed, 10 Jul 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Felix Zwayer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Felix%20Zwayer",
+      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Samsung",
@@ -37,8 +37,8 @@
       "pubdate": "Wed, 10 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Das erste",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
+      "title": "Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
     },
     {
@@ -47,13 +47,13 @@
       "pubdate": "Wed, 10 Jul 2024 16:00:00 +0200"
     },
     {
-      "title": "Jonas Vingegaard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jonas%20Vingegaard",
-      "pubdate": "Wed, 10 Jul 2024 19:00:00 +0200"
-    },
-    {
       "title": "Galaxy Ring",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Galaxy%20Ring",
+      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Oranje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oranje",
       "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
     },
     {
@@ -62,13 +62,13 @@
       "pubdate": "Wed, 10 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Oranje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oranje",
-      "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "England Niederlande",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#England%20Niederlande",
+      "pubdate": "Tue, 09 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Niederlande England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niederlande%20England",
       "pubdate": "Tue, 09 Jul 2024 01:00:00 +0200"
     },
     {
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 09 Jul 2024 16:00:00 +0200"
     },
     {
-      "title": "Morata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Morata",
-      "pubdate": "Tue, 09 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Guirassy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guirassy",
       "pubdate": "Tue, 09 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "NATO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
+      "pubdate": "Tue, 09 Jul 2024 18:00:00 +0200"
     }
   ]
 }
