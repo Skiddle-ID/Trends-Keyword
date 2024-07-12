@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "11-07-2024 , 23:35:16",
+  "lastUpdate": "12-07-2024 , 01:42:43",
   "data": [
     {
       "title": "Lino Banfi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lino%20Banfi",
+      "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Achille Lauro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Achille%20Lauro",
+      "pubdate": "Fri, 12 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Clint Eastwood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clint%20Eastwood",
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
     },
     {
@@ -12,14 +22,19 @@
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Clint Eastwood",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clint%20Eastwood",
-      "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Rossella Brescia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rossella%20Brescia",
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Roglic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roglic",
+      "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Argentina Colombia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Argentina%20Colombia",
+      "pubdate": "Fri, 12 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Dimaro",
@@ -27,8 +42,8 @@
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Olanda Inghilterra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Olanda%20Inghilterra",
+      "title": "Olanda-Inghilterra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Olanda-Inghilterra",
       "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
     },
     {
@@ -52,14 +67,14 @@
       "pubdate": "Thu, 11 Jul 2024 07:00:00 +0200"
     },
     {
-      "title": "Iva Zanicchi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Iva%20Zanicchi",
-      "pubdate": "Thu, 11 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Malpensa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Malpensa",
       "pubdate": "Thu, 11 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Iva Zanicchi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Iva%20Zanicchi",
+      "pubdate": "Thu, 11 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Aeroporto Catania",
@@ -85,21 +100,6 @@
       "title": "Cancelo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cancelo",
       "pubdate": "Thu, 11 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Rafa Marin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rafa%20Marin",
-      "pubdate": "Thu, 11 Jul 2024 05:00:00 +0200"
-    },
-    {
-      "title": "Marine Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marine%20Le%20Pen",
-      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Chaos Walking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chaos%20Walking",
-      "pubdate": "Thu, 11 Jul 2024 21:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 23:35:17",
+  "lastUpdate": "12-07-2024 , 01:42:43",
   "data": [
     {
       "title": "James Rodriguez",
@@ -7,8 +7,8 @@
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0300"
     },
     {
-      "title": "Cabinet Secretaries in Kenya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cabinet%20Secretaries%20in%20Kenya",
+      "title": "Ruto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ruto",
       "pubdate": "Thu, 11 Jul 2024 16:00:00 +0300"
     },
     {
@@ -62,14 +62,14 @@
       "pubdate": "Thu, 11 Jul 2024 16:00:00 +0300"
     },
     {
-      "title": "Bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bear",
-      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0300"
-    },
-    {
       "title": "Tatu City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tatu%20City",
       "pubdate": "Thu, 11 Jul 2024 13:00:00 +0300"
+    },
+    {
+      "title": "Bear",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bear",
+      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0300"
     },
     {
       "title": "Attorney General",
@@ -77,13 +77,8 @@
       "pubdate": "Thu, 11 Jul 2024 17:00:00 +0300"
     },
     {
-      "title": "Dumfries",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dumfries",
-      "pubdate": "Thu, 11 Jul 2024 00:00:00 +0300"
-    },
-    {
-      "title": "Uruguay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uruguay",
+      "title": "Colombia vs Uruguay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Colombia%20vs%20Uruguay",
       "pubdate": "Thu, 11 Jul 2024 08:00:00 +0300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Raila",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila",
       "pubdate": "Wed, 10 Jul 2024 01:00:00 +0300"
+    },
+    {
+      "title": "France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
+      "pubdate": "Wed, 10 Jul 2024 05:00:00 +0300"
     }
   ]
 }
