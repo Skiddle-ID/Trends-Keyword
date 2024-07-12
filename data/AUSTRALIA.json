@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2024 , 11:35:17",
+  "lastUpdate": "12-07-2024 , 12:52:02",
   "data": [
     {
       "title": "The Shining",
@@ -22,6 +22,11 @@
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +1000"
     },
     {
+      "title": "Collingwood vs Geelong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood%20vs%20Geelong",
+      "pubdate": "Fri, 12 Jul 2024 19:00:00 +1000"
+    },
+    {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Eminem",
       "pubdate": "Fri, 12 Jul 2024 14:00:00 +1000"
@@ -37,6 +42,11 @@
       "pubdate": "Fri, 12 Jul 2024 19:00:00 +1000"
     },
     {
+      "title": "Sharks vs Tigers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sharks%20vs%20Tigers",
+      "pubdate": "Fri, 12 Jul 2024 21:00:00 +1000"
+    },
+    {
       "title": "Apple Vision Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Vision%20Pro",
       "pubdate": "Fri, 12 Jul 2024 15:00:00 +1000"
@@ -45,6 +55,11 @@
       "title": "Espionage",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Espionage",
       "pubdate": "Fri, 12 Jul 2024 15:00:00 +1000"
+    },
+    {
+      "title": "Biden Putin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Biden%20Putin",
+      "pubdate": "Fri, 12 Jul 2024 18:00:00 +1000"
     },
     {
       "title": "Anant Ambani",
@@ -72,8 +87,8 @@
       "pubdate": "Thu, 11 Jul 2024 09:00:00 +1000"
     },
     {
-      "title": "Samsung ring",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Samsung%20ring",
+      "title": "Samsung Ring",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Samsung%20Ring",
       "pubdate": "Thu, 11 Jul 2024 11:00:00 +1000"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Rybakina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rybakina",
       "pubdate": "Thu, 11 Jul 2024 00:00:00 +1000"
-    },
-    {
-      "title": "Benji Gregory",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Benji%20Gregory",
-      "pubdate": "Thu, 11 Jul 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Scottish Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scottish%20Open",
-      "pubdate": "Thu, 11 Jul 2024 19:00:00 +1000"
-    },
-    {
-      "title": "USA Basketball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20Basketball",
-      "pubdate": "Thu, 11 Jul 2024 14:00:00 +1000"
     }
   ]
 }
