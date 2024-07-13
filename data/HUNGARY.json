@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "13-07-2024 , 11:35:57",
+  "lastUpdate": "13-07-2024 , 12:48:25",
   "data": [
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
-      "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
-    },
     {
       "title": "Majka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
@@ -22,19 +17,34 @@
       "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
+      "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Meloni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meloni",
+      "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump",
+      "pubdate": "Sat, 13 Jul 2024 07:00:00 +0200"
+    },
+    {
       "title": "Debreceni repülőtér",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Debreceni%20rep%C3%BCl%C5%91t%C3%A9r",
       "pubdate": "Fri, 12 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Biden",
-      "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
-    },
-    {
       "title": "Karácsony Gergely",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20Gergely",
       "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "BIDEN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BIDEN",
+      "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Reviczky Gábor",
@@ -47,6 +57,11 @@
       "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
     },
     {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Biden",
+      "pubdate": "Fri, 12 Jul 2024 21:00:00 +0200"
+    },
+    {
       "title": "Szentesi Éva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szentesi%20%C3%89va",
       "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
@@ -57,14 +72,19 @@
       "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
     },
     {
-      "title": "Giorgia Meloni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-      "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
-    },
-    {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eminem",
       "pubdate": "Fri, 12 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Fábián Juli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A1bi%C3%A1n%20Juli",
+      "pubdate": "Fri, 12 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Gáti Oszkár",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1ti%20Oszk%C3%A1r",
+      "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Robert Fico",
@@ -77,29 +97,9 @@
       "pubdate": "Fri, 12 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Szabó Nóra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szab%C3%B3%20N%C3%B3ra",
-      "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Gáti Oszkár",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1ti%20Oszk%C3%A1r",
-      "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Fenyő Miklós",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feny%C5%91%20Mikl%C3%B3s",
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Anna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anna",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Menekülésre ítélve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Menek%C3%BCl%C3%A9sre%20%C3%ADt%C3%A9lve",
-      "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
     }
   ]
 }

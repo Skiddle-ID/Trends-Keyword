@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2024 , 11:35:54",
+  "lastUpdate": "13-07-2024 , 12:48:20",
   "data": [
     {
       "title": "Bielsa",
@@ -15,6 +15,11 @@
       "title": "Brieger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brieger",
       "pubdate": "Sat, 13 Jul 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Katy Perry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Katy%20Perry",
+      "pubdate": "Sat, 13 Jul 2024 09:00:00 -0300"
     },
     {
       "title": "Djokovic",
@@ -67,13 +72,13 @@
       "pubdate": "Fri, 12 Jul 2024 18:00:00 -0300"
     },
     {
-      "title": "Ysy A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ysy%20A",
+      "title": "Partido Argentina Colombia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20Argentina%20Colombia",
       "pubdate": "Fri, 12 Jul 2024 13:00:00 -0300"
     },
     {
-      "title": "Partido Argentina Colombia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20Argentina%20Colombia",
+      "title": "Ysy A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ysy%20A",
       "pubdate": "Fri, 12 Jul 2024 13:00:00 -0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Kelly Preston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kelly%20Preston",
       "pubdate": "Fri, 12 Jul 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Longlegs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Longlegs",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 -0300"
     }
   ]
 }

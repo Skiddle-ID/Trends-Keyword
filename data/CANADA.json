@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2024 , 11:35:55",
+  "lastUpdate": "13-07-2024 , 12:48:22",
   "data": [
     {
       "title": "Ontario Place",
@@ -22,19 +22,14 @@
       "pubdate": "Fri, 12 Jul 2024 03:00:00 -0400"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
-      "pubdate": "Fri, 12 Jul 2024 14:00:00 -0400"
-    },
-    {
       "title": "Post Malone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Post%20Malone",
       "pubdate": "Fri, 12 Jul 2024 13:00:00 -0400"
     },
     {
-      "title": "Carlos Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
-      "pubdate": "Fri, 12 Jul 2024 11:00:00 -0400"
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
+      "pubdate": "Fri, 12 Jul 2024 14:00:00 -0400"
     },
     {
       "title": "Alec Baldwin",
@@ -42,9 +37,9 @@
       "pubdate": "Fri, 12 Jul 2024 20:00:00 -0400"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Biden",
-      "pubdate": "Fri, 12 Jul 2024 08:00:00 -0400"
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
+      "pubdate": "Fri, 12 Jul 2024 11:00:00 -0400"
     },
     {
       "title": "Krispy Kreme",
@@ -57,11 +52,6 @@
       "pubdate": "Fri, 12 Jul 2024 09:00:00 -0400"
     },
     {
-      "title": "Captain America: Brave New World",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Captain%20America:%20Brave%20New%20World",
-      "pubdate": "Fri, 12 Jul 2024 12:00:00 -0400"
-    },
-    {
       "title": "Harrison Butker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harrison%20Butker",
       "pubdate": "Fri, 12 Jul 2024 09:00:00 -0400"
@@ -72,14 +62,19 @@
       "pubdate": "Fri, 12 Jul 2024 11:00:00 -0400"
     },
     {
-      "title": "Apple Vision Pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20Vision%20Pro",
-      "pubdate": "Fri, 12 Jul 2024 18:00:00 -0400"
+      "title": "Captain America: Brave New World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Captain%20America:%20Brave%20New%20World",
+      "pubdate": "Fri, 12 Jul 2024 12:00:00 -0400"
     },
     {
       "title": "Labrador City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Labrador%20City",
       "pubdate": "Fri, 12 Jul 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Apple Vision Pro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20Vision%20Pro",
+      "pubdate": "Fri, 12 Jul 2024 18:00:00 -0400"
     },
     {
       "title": "The long game",
@@ -100,6 +95,11 @@
       "title": "Sable Island",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sable%20Island",
       "pubdate": "Fri, 12 Jul 2024 23:00:00 -0400"
+    },
+    {
+      "title": "Swimming With Sharks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Swimming%20With%20Sharks",
+      "pubdate": "Fri, 12 Jul 2024 18:00:00 -0400"
     }
   ]
 }
