@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2024 , 23:35:24",
+  "lastUpdate": "13-07-2024 , 01:43:11",
   "data": [
     {
       "title": "Emis Killa",
@@ -12,13 +12,13 @@
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Marco Bellocchio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Bellocchio",
+      "title": "Pepe Reina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pepe%20Reina",
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Pepe Reina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pepe%20Reina",
+      "title": "Marco Bellocchio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Bellocchio",
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
@@ -27,19 +27,29 @@
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Clara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clara",
+      "title": "Federer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federer",
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Federer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federer",
+      "title": "Clara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clara",
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Amadeus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amadeus",
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Lia Thomas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lia%20Thomas",
+      "pubdate": "Sat, 13 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Richard Rios",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Richard%20Rios",
+      "pubdate": "Sat, 13 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Alcaraz",
@@ -62,6 +72,16 @@
       "pubdate": "Fri, 12 Jul 2024 15:00:00 +0200"
     },
     {
+      "title": "Corona cantante",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Corona%20cantante",
+      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Giovanna d'Arco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovanna%20d'Arco",
+      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Coldplay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coldplay",
       "pubdate": "Fri, 12 Jul 2024 21:00:00 +0200"
@@ -72,34 +92,14 @@
       "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
     },
     {
-      "title": "Giovanna d'Arco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovanna%20d'Arco",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Andrea Delogu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andrea%20Delogu",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sintomi nuova variante Covid kp3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sintomi%20nuova%20variante%20Covid%20kp3",
-      "pubdate": "Fri, 12 Jul 2024 10:00:00 +0200"
-    },
-    {
       "title": "Lago di Como",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lago%20di%20Como",
       "pubdate": "Fri, 12 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Biglietti Vasco 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Biglietti%20Vasco%202025",
-      "pubdate": "Fri, 12 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Stray Kids",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stray%20Kids",
-      "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
+      "title": "Andrea Delogu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andrea%20Delogu",
+      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
     }
   ]
 }

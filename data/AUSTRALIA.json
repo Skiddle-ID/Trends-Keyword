@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "12-07-2024 , 23:35:19",
+  "lastUpdate": "13-07-2024 , 01:43:05",
   "data": [
     {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
       "pubdate": "Sat, 13 Jul 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Alec Baldwin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alec%20Baldwin",
+      "pubdate": "Sat, 13 Jul 2024 10:00:00 +1000"
     },
     {
       "title": "Captain America: Brave New World",
@@ -27,19 +32,19 @@
       "pubdate": "Fri, 12 Jul 2024 02:00:00 +1000"
     },
     {
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Biden",
+      "pubdate": "Fri, 12 Jul 2024 09:00:00 +1000"
+    },
+    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Biden",
-      "pubdate": "Fri, 12 Jul 2024 09:00:00 +1000"
+      "pubdate": "Fri, 12 Jul 2024 12:00:00 +1000"
     },
     {
       "title": "Vekic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vekic",
       "pubdate": "Fri, 12 Jul 2024 00:00:00 +1000"
-    },
-    {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Biden",
-      "pubdate": "Fri, 12 Jul 2024 11:00:00 +1000"
     },
     {
       "title": "Carlos Alcaraz",
@@ -62,9 +67,14 @@
       "pubdate": "Fri, 12 Jul 2024 19:00:00 +1000"
     },
     {
-      "title": "Sharks vs Wests Tigers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sharks%20vs%20Wests%20Tigers",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +1000"
+      "title": "Geelong vs Collingwood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20vs%20Collingwood",
+      "pubdate": "Fri, 12 Jul 2024 21:00:00 +1000"
+    },
+    {
+      "title": "Sharks vs Tigers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sharks%20vs%20Tigers",
+      "pubdate": "Fri, 12 Jul 2024 21:00:00 +1000"
     },
     {
       "title": "Anant Ambani",
@@ -75,11 +85,6 @@
       "title": "Apple Vision Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20Vision%20Pro",
       "pubdate": "Fri, 12 Jul 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Geelong Cats",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Geelong%20Cats",
-      "pubdate": "Fri, 12 Jul 2024 21:00:00 +1000"
     },
     {
       "title": "Espionage",
@@ -95,11 +100,6 @@
       "title": "Biden Putin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Biden%20Putin",
       "pubdate": "Fri, 12 Jul 2024 18:00:00 +1000"
-    },
-    {
-      "title": "Dolphins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dolphins",
-      "pubdate": "Fri, 12 Jul 2024 10:00:00 +1000"
     }
   ]
 }
