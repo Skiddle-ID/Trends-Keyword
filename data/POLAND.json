@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-07-2024 , 23:36:22",
+  "lastUpdate": "14-07-2024 , 01:51:23",
   "data": [
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
+      "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Żona Sebastiana M",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBona%20Sebastiana%20M",
@@ -24,17 +29,7 @@
     {
       "title": "Polska - Niemcy Siatkówka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Niemcy%20Siatk%C3%B3wka",
-      "pubdate": "Sat, 13 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Urszula",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Urszula",
-      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Doda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Doda",
-      "pubdate": "Sat, 13 Jul 2024 22:00:00 +0200"
+      "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Winiarski",
@@ -47,19 +42,14 @@
       "pubdate": "Sat, 13 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Ania Rusowicz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ania%20Rusowicz",
-      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+      "title": "Mecz o 3 miejsce Euro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mecz%20o%203%20miejsce%20Euro",
+      "pubdate": "Sat, 13 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Alec Baldwin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alec%20Baldwin",
       "pubdate": "Sat, 13 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Longlegs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Longlegs",
-      "pubdate": "Sat, 13 Jul 2024 03:00:00 +0200"
     },
     {
       "title": "Donald Tusk",
@@ -77,16 +67,6 @@
       "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Pogoń Szczecin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogo%C5%84%20Szczecin",
-      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Atrium Targówek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Atrium%20Targ%C3%B3wek",
-      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
-    },
-    {
       "title": "Burza Warszawa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Burza%20Warszawa",
       "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
@@ -100,6 +80,26 @@
       "title": "Maria Koterbska",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Koterbska",
       "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Stalowa Wola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stalowa%20Wola",
+      "pubdate": "Sat, 13 Jul 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Kosiniak-Kamysz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kosiniak-Kamysz",
+      "pubdate": "Sat, 13 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Kayax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kayax",
+      "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "PSL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSL",
+      "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "13-07-2024 , 23:36:19",
+  "lastUpdate": "14-07-2024 , 01:51:20",
   "data": [
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Trump",
+      "pubdate": "Sun, 14 Jul 2024 06:30:00 +0530"
+    },
+    {
+      "title": "Canada vs Uruguay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Canada%20vs%20Uruguay",
+      "pubdate": "Sun, 14 Jul 2024 06:30:00 +0530"
+    },
     {
       "title": "World Championship of Legends",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#World%20Championship%20of%20Legends",
@@ -22,39 +32,29 @@
       "pubdate": "Sat, 13 Jul 2024 20:30:00 +0530"
     },
     {
-      "title": "Rahul Gandhi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rahul%20Gandhi",
-      "pubdate": "Sat, 13 Jul 2024 00:30:00 +0530"
-    },
-    {
-      "title": "Election Results 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Election%20Results%202024",
-      "pubdate": "Sat, 13 Jul 2024 11:30:00 +0530"
-    },
-    {
       "title": "Anderson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anderson",
       "pubdate": "Sat, 13 Jul 2024 05:30:00 +0530"
     },
     {
-      "title": "Sarfira Box Office Collection",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sarfira%20Box%20Office%20Collection",
+      "title": "WCL 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#WCL%202024",
+      "pubdate": "Sat, 13 Jul 2024 19:30:00 +0530"
+    },
+    {
+      "title": "Sarfira box office collection",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sarfira%20box%20office%20collection",
       "pubdate": "Sat, 13 Jul 2024 09:30:00 +0530"
     },
     {
-      "title": "Indian 2' box office collection",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indian%202'%20box%20office%20collection",
-      "pubdate": "Sat, 13 Jul 2024 12:30:00 +0530"
+      "title": "Jalandhar West",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jalandhar%20West",
+      "pubdate": "Sat, 13 Jul 2024 17:30:00 +0530"
     },
     {
-      "title": "Yash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yash",
-      "pubdate": "Sat, 13 Jul 2024 11:30:00 +0530"
-    },
-    {
-      "title": "Indian 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indian%202",
-      "pubdate": "Fri, 12 Jul 2024 06:30:00 +0530"
+      "title": "By Election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#By%20Election",
+      "pubdate": "Sat, 13 Jul 2024 23:30:00 +0530"
     },
     {
       "title": "Anant Ambani",
@@ -87,19 +87,19 @@
       "pubdate": "Fri, 12 Jul 2024 16:30:00 +0530"
     },
     {
-      "title": "Akshay Kumar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Akshay%20Kumar",
-      "pubdate": "Fri, 12 Jul 2024 19:30:00 +0530"
+      "title": "Captain America: Brave New World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Captain%20America:%20Brave%20New%20World",
+      "pubdate": "Fri, 12 Jul 2024 21:30:00 +0530"
     },
     {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Alcaraz",
+      "title": "IFCI Share Price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IFCI%20Share%20Price",
+      "pubdate": "Fri, 12 Jul 2024 14:30:00 +0530"
+    },
+    {
+      "title": "Mumbai rains",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mumbai%20rains",
       "pubdate": "Fri, 12 Jul 2024 20:30:00 +0530"
-    },
-    {
-      "title": "Bharateeyudu 2 Review",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bharateeyudu%202%20Review",
-      "pubdate": "Fri, 12 Jul 2024 10:30:00 +0530"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-07-2024 , 23:36:18",
+  "lastUpdate": "14-07-2024 , 01:51:19",
   "data": [
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump",
+      "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Carcassonne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carcassonne",
@@ -10,6 +15,11 @@
       "title": "Bill Viola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bill%20Viola",
       "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Mohammed Deif",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mohammed%20Deif",
+      "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
     },
     {
       "title": "Oudea castera",
@@ -47,9 +57,9 @@
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Vingegaard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vingegaard",
-      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+      "title": "Feu d'artifice Toulouse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Feu%20d'artifice%20Toulouse",
+      "pubdate": "Sat, 13 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Elodie Gossuin",
@@ -57,14 +67,14 @@
       "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
     },
     {
+      "title": "Vingegaard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vingegaard",
+      "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+    },
+    {
       "title": "Hardrock 100",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hardrock%20100",
       "pubdate": "Sat, 13 Jul 2024 08:00:00 +0200"
-    },
-    {
-      "title": "14 juillet 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#14%20juillet%202024",
-      "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
     },
     {
       "title": "Bill Gates",
@@ -72,29 +82,19 @@
       "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Disparition",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Disparition",
-      "pubdate": "Sat, 13 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Huguette Bello",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Huguette%20Bello",
       "pubdate": "Fri, 12 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Alerte enlèvement",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alerte%20enl%C3%A8vement",
+      "title": "Celya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celya",
       "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic",
       "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Feu d'artifice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Feu%20d'artifice",
-      "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
     },
     {
       "title": "Patrice Evra",

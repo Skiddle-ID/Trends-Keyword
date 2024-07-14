@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "13-07-2024 , 23:36:17",
+  "lastUpdate": "14-07-2024 , 01:51:18",
   "data": [
+    {
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+      "pubdate": "Sun, 14 Jul 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Richard Simmons",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Richard%20Simmons",
+      "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Fox news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20news",
+      "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Krejcikova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Krejcikova",
@@ -20,11 +35,6 @@
       "title": "Valhalla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valhalla",
       "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "INEOS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#INEOS",
-      "pubdate": "Sat, 13 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Jasper Philipsen",
@@ -62,14 +72,24 @@
       "pubdate": "Sat, 13 Jul 2024 16:00:00 +0200"
     },
     {
+      "title": "Jennifer Lopez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Lopez",
+      "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
+    },
+    {
       "title": "Mohammed Deif",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mohammed%20Deif",
       "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
     },
     {
-      "title": "Jennifer Lopez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Lopez",
-      "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
+      "title": "Scottish Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scottish%20Open",
+      "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
+      "pubdate": "Fri, 12 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Djokovic",
@@ -79,26 +99,6 @@
     {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-      "pubdate": "Fri, 12 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Medvedev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Medvedev",
-      "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Johnny Cash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Johnny%20Cash",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Anant Ambani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anant%20Ambani",
-      "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Magnus Cort",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Magnus%20Cort",
       "pubdate": "Fri, 12 Jul 2024 12:00:00 +0200"
     }
   ]

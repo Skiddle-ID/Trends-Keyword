@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "13-07-2024 , 23:36:23",
+  "lastUpdate": "14-07-2024 , 01:51:25",
   "data": [
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Trump",
+      "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Canada vs Uruguay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Canada%20vs%20Uruguay",
+      "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
+    },
     {
       "title": "South Africa vs Ireland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Ireland",
@@ -52,6 +62,11 @@
       "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
     },
     {
+      "title": "Harrison Ford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Harrison%20Ford",
+      "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
+    },
+    {
       "title": "Orlando Pirates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
       "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Scottish Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Scottish%20Open",
       "pubdate": "Fri, 12 Jul 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Wayde van Niekerk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wayde%20van%20Niekerk",
-      "pubdate": "Fri, 12 Jul 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Biden",
-      "pubdate": "Fri, 12 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Red Hot Chili Peppers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Red%20Hot%20Chili%20Peppers",
-      "pubdate": "Fri, 12 Jul 2024 15:00:00 +0200"
     }
   ]
 }
