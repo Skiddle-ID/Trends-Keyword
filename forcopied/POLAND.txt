@@ -1,1 +1,1 @@
-Beverly Hills,CNN,UFC,Kielce,Pomnik Rzezi Wołyńskiej,Nakło-Chechło,Strzelanina w Łęczycy,Borys Szyc,Richard Simmons,Kennedy,Żona Sebastiana M,Teresa Lipowska,Czesław Michniewicz,Elon Musk,Kudzu,Copa America final,Roman Wszoła,Lautlingen,News,Final Euro 2024
+Trump,Beverly Hills,CNN,UFC,Pomnik Rzezi Wołyńskiej,Kielce,Nakło-Chechło,Argentyna - Kolumbia,Roman Wszoła,Strzelanina w Łęczycy,Borys Szyc,Kennedy,Teresa Lipowska,Żona Sebastiana M,Siatkówka,Czesław Michniewicz,Elon Musk,Domostawa Pomnik,Lautlingen,Dalma Galfi

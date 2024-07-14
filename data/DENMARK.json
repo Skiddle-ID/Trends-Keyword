@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "14-07-2024 , 17:46:13",
+  "lastUpdate": "14-07-2024 , 18:48:57",
   "data": [
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
+      "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Beverly Hills",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beverly%20Hills",
       "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "CNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
-      "pubdate": "Sun, 14 Jul 2024 03:00:00 +0200"
     },
     {
       "title": "Alcaraz",
@@ -17,9 +17,19 @@
       "pubdate": "Sun, 14 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+      "pubdate": "Sun, 14 Jul 2024 03:00:00 +0200"
+    },
+    {
       "title": "Richard Simmons",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Richard%20Simmons",
       "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Wimbledon finale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wimbledon%20finale",
+      "pubdate": "Sun, 14 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Spain vs England",
@@ -32,14 +42,19 @@
       "pubdate": "Sun, 14 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Demolition Ranch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Demolition%20Ranch",
-      "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
+      "title": "Ronald Reagan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronald%20Reagan",
+      "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Bernie Sanders",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bernie%20Sanders",
       "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Washington Post",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Washington%20Post",
+      "pubdate": "Sun, 14 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Elon Musk",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Notting Hill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Notting%20Hill",
-      "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Paige Butcher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paige%20Butcher",
+      "title": "Steffi Graf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Steffi%20Graf",
       "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Longlegs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Longlegs",
-      "pubdate": "Sat, 13 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Jennifer Lopez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Lopez",
-      "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
     }
   ]
 }
