@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-07-2024 , 23:35:14",
+  "lastUpdate": "15-07-2024 , 01:46:35",
   "data": [
+    {
+      "title": "TVP Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Sport",
+      "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Lewandowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewandowski",
@@ -12,6 +17,11 @@
       "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Argentyna – Kolumbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Argentyna%20%E2%80%93%20Kolumbia",
+      "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
+    },
+    {
       "title": "Wielka Brytania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20Brytania",
       "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
@@ -20,6 +30,11 @@
       "title": "Jesus Navas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jesus%20Navas",
       "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Ralf Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ralf%20Schumacher",
+      "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Kobbie Mainoo",
@@ -47,18 +62,18 @@
       "pubdate": "Sun, 14 Jul 2024 11:00:00 +0200"
     },
     {
-      "title": "Kane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kane",
-      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Morata",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morata",
       "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "TVP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
+      "title": "Harry Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Kane",
+      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Phil Foden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Phil%20Foden",
       "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
     },
     {
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
     },
     {
-      "title": "Szymon Marciniak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Marciniak",
-      "pubdate": "Sun, 14 Jul 2024 23:00:00 +0200"
-    },
-    {
       "title": "Jan Zieliński",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Zieli%C5%84ski",
       "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Pomnik Rzezi Wołyńskiej",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pomnik%20Rzezi%20Wo%C5%82y%C5%84skiej",
-      "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Pożar Gdańsk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Po%C5%BCar%20Gda%C5%84sk",
-      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "OneRepublic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#OneRepublic",
-      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+      "title": "Szymon Marciniak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szymon%20Marciniak",
+      "pubdate": "Sun, 14 Jul 2024 23:00:00 +0200"
     }
   ]
 }

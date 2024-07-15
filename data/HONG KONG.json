@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "14-07-2024 , 23:35:11",
+  "lastUpdate": "15-07-2024 , 01:46:32",
   "data": [
     {
-      "title": "AR-15",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#AR-15",
-      "pubdate": "Mon, 15 Jul 2024 01:00:00 +0800"
+      "title": "阿根廷",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E6%A0%B9%E5%BB%B7",
+      "pubdate": "Mon, 15 Jul 2024 06:00:00 +0800"
     },
     {
       "title": "足球",
@@ -12,9 +12,14 @@
       "pubdate": "Mon, 15 Jul 2024 06:00:00 +0800"
     },
     {
-      "title": "阿根廷",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E6%A0%B9%E5%BB%B7",
-      "pubdate": "Mon, 15 Jul 2024 06:00:00 +0800"
+      "title": "AR-15",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#AR-15",
+      "pubdate": "Mon, 15 Jul 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Southgate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Southgate",
+      "pubdate": "Mon, 15 Jul 2024 08:00:00 +0800"
     },
     {
       "title": "特朗普",
@@ -57,6 +62,11 @@
       "pubdate": "Sun, 14 Jul 2024 02:00:00 +0800"
     },
     {
+      "title": "荔枝莊",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%8D%94%E6%9E%9D%E8%8E%8A",
+      "pubdate": "Sun, 14 Jul 2024 22:00:00 +0800"
+    },
+    {
       "title": "功夫",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%9F%E5%A4%AB",
       "pubdate": "Sun, 14 Jul 2024 16:00:00 +0800"
@@ -65,11 +75,6 @@
       "title": "周慧敏",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%85%A7%E6%95%8F",
       "pubdate": "Sun, 14 Jul 2024 03:00:00 +0800"
-    },
-    {
-      "title": "荔枝莊",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%8D%94%E6%9E%9D%E8%8E%8A",
-      "pubdate": "Sun, 14 Jul 2024 22:00:00 +0800"
     },
     {
       "title": "文頌男",
@@ -95,11 +100,6 @@
       "title": "多啦A夢展覽",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%9A%E5%95%A6A%E5%A4%A2%E5%B1%95%E8%A6%BD",
       "pubdate": "Fri, 12 Jul 2024 12:00:00 +0800"
-    },
-    {
-      "title": "閃靈",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%96%83%E9%9D%88",
-      "pubdate": "Fri, 12 Jul 2024 02:00:00 +0800"
     }
   ]
 }

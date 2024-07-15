@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 23:35:15",
+  "lastUpdate": "15-07-2024 , 01:46:36",
   "data": [
     {
       "title": "VM",
@@ -37,14 +37,14 @@
       "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Richard Simmons",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Richard%20Simmons",
-      "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Nyheter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
       "pubdate": "Sun, 14 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Victoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Victoria",
+      "pubdate": "Sun, 14 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "Southgate",
@@ -62,19 +62,9 @@
       "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "EM-finale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM-finale",
-      "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Ralf Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ralf%20Schumacher",
       "pubdate": "Sun, 14 Jul 2024 23:00:00 +0200"
-    },
-    {
-      "title": "IFK Norrköping",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
-      "pubdate": "Sun, 14 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Elfsborg",
@@ -82,9 +72,19 @@
       "pubdate": "Sun, 14 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Lindelöf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lindel%C3%B6f",
-      "pubdate": "Sun, 14 Jul 2024 17:00:00 +0200"
+      "title": "EM-final Fotboll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#EM-final%20Fotboll",
+      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "IFK Norrköping",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
+      "pubdate": "Sun, 14 Jul 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Annica Englund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annica%20Englund",
+      "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "DIF",

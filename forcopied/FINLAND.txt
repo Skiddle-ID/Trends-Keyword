@@ -1,1 +1,1 @@
-Rodri,Ralf Schumacher,Carvajal,Messi,Daily Mail,Lando Norris,Gareth Southgate,Chiellini,Jamal Musiala,Kane,Trump,Beverly Hills,Nico Williams,Lamine Yamal,Olmo,CNN,Phil Foden,Richard Simmons,Morata,Cucurella
+Rodri,Ralf Schumacher,Messi,Carvajal,Dailymail,Gareth Southgate,Chiellini,Pele,Kane,Trump,Lamine Yamal,Beverly Hills,Olmo,CNN,Joe Biden,Phil Foden,Richard Simmons,Morata,Cucurella,Pickford
