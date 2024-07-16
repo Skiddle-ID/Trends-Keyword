@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "15-07-2024 , 23:35:28",
+  "lastUpdate": "16-07-2024 , 01:45:32",
   "data": [
     {
-      "title": "J.D. Vance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#J.D.%20Vance",
+      "title": "JD Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JD%20Vance",
       "pubdate": "Tue, 16 Jul 2024 03:30:00 +0530"
-    },
-    {
-      "title": "Euro Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Euro%20Cup",
-      "pubdate": "Mon, 15 Jul 2024 01:30:00 +0530"
     },
     {
       "title": "Arvind Kejriwal",
@@ -17,9 +12,9 @@
       "pubdate": "Mon, 15 Jul 2024 23:30:00 +0530"
     },
     {
-      "title": "Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Football",
-      "pubdate": "Mon, 15 Jul 2024 10:30:00 +0530"
+      "title": "Muharram",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Muharram",
+      "pubdate": "Mon, 15 Jul 2024 17:30:00 +0530"
     },
     {
       "title": "Harry Kane",
@@ -30,6 +25,11 @@
       "title": "Tennis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tennis",
       "pubdate": "Mon, 15 Jul 2024 01:30:00 +0530"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manchester%20United",
+      "pubdate": "Mon, 15 Jul 2024 21:30:00 +0530"
     },
     {
       "title": "KP Sharma Oli",
@@ -57,6 +57,11 @@
       "pubdate": "Mon, 15 Jul 2024 18:30:00 +0530"
     },
     {
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Biden",
+      "pubdate": "Mon, 15 Jul 2024 00:30:00 +0530"
+    },
+    {
       "title": "Copa America",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Copa%20America",
       "pubdate": "Sun, 14 Jul 2024 18:30:00 +0530"
@@ -67,14 +72,14 @@
       "pubdate": "Sun, 14 Jul 2024 19:30:00 +0530"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Donald%20Trump",
-      "pubdate": "Sun, 14 Jul 2024 06:30:00 +0530"
-    },
-    {
       "title": "Wimbledon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Wimbledon",
       "pubdate": "Sun, 14 Jul 2024 23:30:00 +0530"
+    },
+    {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Donald%20Trump",
+      "pubdate": "Sun, 14 Jul 2024 06:30:00 +0530"
     },
     {
       "title": "Russian",
@@ -82,24 +87,19 @@
       "pubdate": "Sun, 14 Jul 2024 18:30:00 +0530"
     },
     {
-      "title": "Shannen Doherty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shannen%20Doherty",
+      "title": "Spain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spain",
       "pubdate": "Sun, 14 Jul 2024 22:30:00 +0530"
     },
     {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rafael%20Nadal",
+      "title": "Shannen Doherty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shannen%20Doherty",
       "pubdate": "Sun, 14 Jul 2024 22:30:00 +0530"
     },
     {
       "title": "Ind vs Zim 5th T20",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ind%20vs%20Zim%205th%20T20",
       "pubdate": "Sun, 14 Jul 2024 23:30:00 +0530"
-    },
-    {
-      "title": "Kate Middleton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kate%20Middleton",
-      "pubdate": "Sun, 14 Jul 2024 21:30:00 +0530"
     }
   ]
 }

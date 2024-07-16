@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-07-2024 , 23:35:30",
+  "lastUpdate": "16-07-2024 , 01:45:34",
   "data": [
     {
-      "title": "JD Vance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#JD%20Vance",
+      "title": "J.D. Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#J.D.%20Vance",
       "pubdate": "Tue, 16 Jul 2024 08:00:00 +1200"
+    },
+    {
+      "title": "Norm Hewitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Norm%20Hewitt",
+      "pubdate": "Tue, 16 Jul 2024 12:00:00 +1200"
     },
     {
       "title": "Rosenborg vs Man United",
@@ -12,13 +17,18 @@
       "pubdate": "Tue, 16 Jul 2024 08:00:00 +1200"
     },
     {
+      "title": "Jay Slater",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jay%20Slater",
+      "pubdate": "Tue, 16 Jul 2024 11:00:00 +1200"
+    },
+    {
       "title": "Vickie Wade",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vickie%20Wade",
       "pubdate": "Tue, 16 Jul 2024 03:00:00 +1200"
     },
     {
-      "title": "Luke Perry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luke%20Perry",
+      "title": "Shannen Doherty death",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shannen%20Doherty%20death",
       "pubdate": "Mon, 15 Jul 2024 02:00:00 +1200"
     },
     {
@@ -37,6 +47,11 @@
       "pubdate": "Mon, 15 Jul 2024 16:00:00 +1200"
     },
     {
+      "title": "Spade-toothed whale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spade-toothed%20whale",
+      "pubdate": "Mon, 15 Jul 2024 18:00:00 +1200"
+    },
+    {
       "title": "Jude Bellingham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jude%20Bellingham",
       "pubdate": "Mon, 15 Jul 2024 09:00:00 +1200"
@@ -45,11 +60,6 @@
       "title": "TVNZ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TVNZ",
       "pubdate": "Mon, 15 Jul 2024 10:00:00 +1200"
-    },
-    {
-      "title": "Spade-toothed whale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spade-toothed%20whale",
-      "pubdate": "Mon, 15 Jul 2024 18:00:00 +1200"
     },
     {
       "title": "Football",
@@ -90,16 +100,6 @@
       "title": "Mackenzie Hughes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mackenzie%20Hughes",
       "pubdate": "Mon, 15 Jul 2024 14:00:00 +1200"
-    },
-    {
-      "title": "IndyCar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IndyCar",
-      "pubdate": "Mon, 15 Jul 2024 08:00:00 +1200"
-    },
-    {
-      "title": "Demolition Ranch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Demolition%20Ranch",
-      "pubdate": "Mon, 15 Jul 2024 09:00:00 +1200"
     }
   ]
 }
