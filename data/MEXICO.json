@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 11:35:17",
+  "lastUpdate": "17-07-2024 , 12:52:26",
   "data": [
     {
       "title": "Atlas FC",
@@ -19,7 +19,7 @@
     {
       "title": "Atlas - Santos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atlas%20-%20Santos",
-      "pubdate": "Tue, 16 Jul 2024 14:00:00 -0600"
+      "pubdate": "Tue, 16 Jul 2024 19:00:00 -0600"
     },
     {
       "title": "Pachuca  Atl San Luis",
@@ -27,14 +27,9 @@
       "pubdate": "Tue, 16 Jul 2024 19:00:00 -0600"
     },
     {
-      "title": "Leon vs Puebla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leon%20vs%20Puebla",
+      "title": "Jhonder Cádiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jhonder%20C%C3%A1diz",
       "pubdate": "Tue, 16 Jul 2024 19:00:00 -0600"
-    },
-    {
-      "title": "America",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America",
-      "pubdate": "Tue, 16 Jul 2024 21:00:00 -0600"
     },
     {
       "title": "Tabla Liga MX",
@@ -100,6 +95,11 @@
       "title": "Robert F. Kennedy Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Robert%20F.%20Kennedy%20Jr",
       "pubdate": "Tue, 16 Jul 2024 17:00:00 -0600"
+    },
+    {
+      "title": "Certificado de secundaria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Certificado%20de%20secundaria",
+      "pubdate": "Tue, 16 Jul 2024 11:00:00 -0600"
     }
   ]
 }
