@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 23:36:34",
+  "lastUpdate": "17-07-2024 , 01:44:46",
   "data": [
     {
       "title": "Biden",
@@ -27,14 +27,19 @@
       "pubdate": "Tue, 16 Jul 2024 12:30:00 +0530"
     },
     {
+      "title": "Amit Mishra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Amit%20Mishra",
+      "pubdate": "Tue, 16 Jul 2024 11:30:00 +0530"
+    },
+    {
       "title": "Pm Modi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pm%20Modi",
       "pubdate": "Tue, 16 Jul 2024 01:30:00 +0530"
     },
     {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rafael%20Nadal",
-      "pubdate": "Tue, 16 Jul 2024 23:30:00 +0530"
+      "title": "Doda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Doda",
+      "pubdate": "Tue, 16 Jul 2024 17:30:00 +0530"
     },
     {
       "title": "Twisters",
@@ -45,16 +50,6 @@
       "title": "Copa America",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Copa%20America",
       "pubdate": "Mon, 15 Jul 2024 08:30:00 +0530"
-    },
-    {
-      "title": "Copa America 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Copa%20America%202024",
-      "pubdate": "Mon, 15 Jul 2024 09:30:00 +0530"
-    },
-    {
-      "title": "Arvind Kejriwal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arvind%20Kejriwal",
-      "pubdate": "Mon, 15 Jul 2024 23:30:00 +0530"
     },
     {
       "title": "Rahul Gandhi",
@@ -100,6 +95,11 @@
       "title": "Spain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spain",
       "pubdate": "Sun, 14 Jul 2024 22:30:00 +0530"
+    },
+    {
+      "title": "Rahul Gandhi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rahul%20Gandhi",
+      "pubdate": "Sat, 13 Jul 2024 00:30:00 +0530"
     }
   ]
 }

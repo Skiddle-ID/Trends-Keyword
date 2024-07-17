@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "16-07-2024 , 23:36:36",
+  "lastUpdate": "17-07-2024 , 01:44:48",
   "data": [
+    {
+      "title": "Wieteke van Dort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wieteke%20van%20Dort",
+      "pubdate": "Tue, 16 Jul 2024 19:00:00 +0200"
+    },
     {
       "title": "Oranje Leeuwinnen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje%20Leeuwinnen",
       "pubdate": "Tue, 16 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Paleis Noordeinde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paleis%20Noordeinde",
-      "pubdate": "Tue, 16 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "J.D. Vance",
@@ -30,11 +30,6 @@
       "title": "Southgate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Southgate",
       "pubdate": "Mon, 15 Jul 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Traore Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Traore%20Ajax",
-      "pubdate": "Mon, 15 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Centric",
@@ -100,6 +95,11 @@
       "title": "Ali B",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ali%20B",
       "pubdate": "Tue, 09 Jul 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Nederlands elftal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
+      "pubdate": "Sat, 06 Jul 2024 21:00:00 +0200"
     }
   ]
 }

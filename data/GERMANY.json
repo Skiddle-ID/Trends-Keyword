@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 23:36:33",
+  "lastUpdate": "17-07-2024 , 01:44:45",
   "data": [
     {
       "title": "Compact",
@@ -9,7 +9,7 @@
     {
       "title": "El Hotzo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Hotzo",
-      "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
+      "pubdate": "Tue, 16 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Audi",
@@ -52,8 +52,8 @@
       "pubdate": "Tue, 16 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Prime Day Angebote",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Day%20Angebote",
+      "title": "Prime Day angebote",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Day%20angebote",
       "pubdate": "Tue, 16 Jul 2024 10:00:00 +0200"
     },
     {
@@ -67,19 +67,9 @@
       "pubdate": "Mon, 15 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Olympia 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympia%202024",
-      "pubdate": "Mon, 15 Jul 2024 15:00:00 +0200"
-    },
-    {
       "title": "WM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM",
       "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Erwin Junker Nordrach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erwin%20Junker%20Nordrach",
-      "pubdate": "Mon, 15 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Angela Merkel",
@@ -100,6 +90,16 @@
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
       "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Doherty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Doherty",
+      "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Ralf Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralf%20Schumacher",
+      "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
     }
   ]
 }

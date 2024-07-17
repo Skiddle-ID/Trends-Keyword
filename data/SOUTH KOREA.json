@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 23:36:38",
+  "lastUpdate": "17-07-2024 , 01:44:50",
   "data": [
     {
       "title": "이윤진",
@@ -17,14 +17,19 @@
       "pubdate": "Wed, 17 Jul 2024 01:00:00 +0900"
     },
     {
+      "title": "나나",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EB%82%98",
+      "pubdate": "Wed, 17 Jul 2024 07:00:00 +0900"
+    },
+    {
+      "title": "전노민",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EB%85%B8%EB%AF%BC",
+      "pubdate": "Wed, 17 Jul 2024 09:00:00 +0900"
+    },
+    {
       "title": "현철",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%98%84%EC%B2%A0",
       "pubdate": "Tue, 16 Jul 2024 04:00:00 +0900"
-    },
-    {
-      "title": "진에어",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%84%EC%97%90%EC%96%B4",
-      "pubdate": "Tue, 16 Jul 2024 10:00:00 +0900"
     },
     {
       "title": "나이스",
@@ -40,11 +45,6 @@
       "title": "황희찬",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%ED%9D%AC%EC%B0%AC",
       "pubdate": "Tue, 16 Jul 2024 08:00:00 +0900"
-    },
-    {
-      "title": "김재중",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9E%AC%EC%A4%91",
-      "pubdate": "Tue, 16 Jul 2024 14:00:00 +0900"
     },
     {
       "title": "백일해",
@@ -72,6 +72,11 @@
       "pubdate": "Tue, 16 Jul 2024 22:00:00 +0900"
     },
     {
+      "title": "이승연",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EC%97%B0",
+      "pubdate": "Tue, 16 Jul 2024 23:00:00 +0900"
+    },
+    {
       "title": "조혜원",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%ED%98%9C%EC%9B%90",
       "pubdate": "Tue, 16 Jul 2024 14:00:00 +0900"
@@ -82,13 +87,8 @@
       "pubdate": "Mon, 15 Jul 2024 00:00:00 +0900"
     },
     {
-      "title": "침착맨",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B9%A8%EC%B0%A9%EB%A7%A8",
-      "pubdate": "Mon, 15 Jul 2024 18:00:00 +0900"
-    },
-    {
-      "title": "코파아메리카",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BD%94%ED%8C%8C%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4",
+      "title": "코파 아메리카",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BD%94%ED%8C%8C%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4",
       "pubdate": "Mon, 15 Jul 2024 11:00:00 +0900"
     },
     {
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 15 Jul 2024 02:00:00 +0900"
     },
     {
-      "title": "개그맨 음주운전",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%9C%EA%B7%B8%EB%A7%A8%20%EC%9D%8C%EC%A3%BC%EC%9A%B4%EC%A0%84",
-      "pubdate": "Mon, 15 Jul 2024 14:00:00 +0900"
+      "title": "제헌절",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%9C%ED%97%8C%EC%A0%88",
+      "pubdate": "Mon, 15 Jul 2024 09:00:00 +0900"
     }
   ]
 }
