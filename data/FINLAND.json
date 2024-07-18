@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "18-07-2024 , 11:34:59",
+  "lastUpdate": "18-07-2024 , 12:53:31",
   "data": [
-    {
-      "title": "Bianca Censori",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bianca%20Censori",
-      "pubdate": "Thu, 18 Jul 2024 00:00:00 +0300"
-    },
     {
       "title": "BESS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
       "pubdate": "Thu, 18 Jul 2024 08:00:00 +0300"
+    },
+    {
+      "title": "Summa Equity",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Summa%20Equity",
+      "pubdate": "Thu, 18 Jul 2024 11:00:00 +0300"
     },
     {
       "title": "The Open",
@@ -20,6 +20,11 @@
       "title": "The Bear",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Bear",
       "pubdate": "Thu, 18 Jul 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Kai Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kai%20Trump",
+      "pubdate": "Thu, 18 Jul 2024 13:00:00 +0300"
     },
     {
       "title": "Ursula von der Leyen",
@@ -37,9 +42,9 @@
       "pubdate": "Thu, 18 Jul 2024 11:00:00 +0300"
     },
     {
-      "title": "Kai Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kai%20Trump",
-      "pubdate": "Thu, 18 Jul 2024 13:00:00 +0300"
+      "title": "Nancy Pelosi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nancy%20Pelosi",
+      "pubdate": "Thu, 18 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Emma Roberts",
@@ -72,16 +77,6 @@
       "pubdate": "Wed, 17 Jul 2024 21:00:00 +0300"
     },
     {
-      "title": "Sotto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sotto",
-      "pubdate": "Wed, 17 Jul 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Yandex",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yandex",
-      "pubdate": "Wed, 17 Jul 2024 22:00:00 +0300"
-    },
-    {
       "title": "Montenegro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Montenegro",
       "pubdate": "Wed, 17 Jul 2024 22:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elon%20Musk",
       "pubdate": "Wed, 17 Jul 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Stranger Things",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stranger%20Things",
+      "pubdate": "Wed, 17 Jul 2024 17:00:00 +0300"
     }
   ]
 }

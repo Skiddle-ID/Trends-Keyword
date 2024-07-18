@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "18-07-2024 , 11:35:01",
+  "lastUpdate": "18-07-2024 , 12:53:32",
   "data": [
+    {
+      "title": "Jennifer Coppen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jennifer%20Coppen",
+      "pubdate": "Thu, 18 Jul 2024 18:00:00 +0700"
+    },
     {
       "title": "Leny Yoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leny%20Yoro",
@@ -22,9 +27,19 @@
       "pubdate": "Thu, 18 Jul 2024 02:00:00 +0700"
     },
     {
+      "title": "GIIAS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#GIIAS",
+      "pubdate": "Thu, 18 Jul 2024 08:00:00 +0700"
+    },
+    {
       "title": "Niki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Niki",
       "pubdate": "Thu, 18 Jul 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Indonesia vs Filipina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Filipina",
+      "pubdate": "Wed, 17 Jul 2024 08:00:00 +0700"
     },
     {
       "title": "Indonesia",
@@ -52,24 +67,24 @@
       "pubdate": "Wed, 17 Jul 2024 14:00:00 +0700"
     },
     {
-      "title": "Walikota Semarang",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Walikota%20Semarang",
-      "pubdate": "Wed, 17 Jul 2024 20:00:00 +0700"
-    },
-    {
       "title": "Gempa hari ini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20hari%20ini",
       "pubdate": "Wed, 17 Jul 2024 07:00:00 +0700"
     },
     {
-      "title": "Gibran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gibran",
-      "pubdate": "Wed, 17 Jul 2024 17:00:00 +0700"
+      "title": "Lina Mukherjee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lina%20Mukherjee",
+      "pubdate": "Wed, 17 Jul 2024 12:00:00 +0700"
     },
     {
       "title": "SCTV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#SCTV",
       "pubdate": "Wed, 17 Jul 2024 20:00:00 +0700"
+    },
+    {
+      "title": "Gibran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gibran",
+      "pubdate": "Wed, 17 Jul 2024 17:00:00 +0700"
     },
     {
       "title": "In Time",
@@ -82,24 +97,9 @@
       "pubdate": "Wed, 17 Jul 2024 23:00:00 +0700"
     },
     {
-      "title": "Selebgram Makassar er",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Selebgram%20Makassar%20er",
-      "pubdate": "Wed, 17 Jul 2024 15:00:00 +0700"
-    },
-    {
-      "title": "Wonwoo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wonwoo",
-      "pubdate": "Wed, 17 Jul 2024 01:00:00 +0700"
-    },
-    {
-      "title": "Hijack 1971",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hijack%201971",
-      "pubdate": "Wed, 17 Jul 2024 17:00:00 +0700"
-    },
-    {
-      "title": "Gibraltar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gibraltar",
-      "pubdate": "Wed, 17 Jul 2024 13:00:00 +0700"
+      "title": "Wieteke van Dort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wieteke%20van%20Dort",
+      "pubdate": "Wed, 17 Jul 2024 18:00:00 +0700"
     }
   ]
 }
