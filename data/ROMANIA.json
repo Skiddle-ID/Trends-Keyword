@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "17-07-2024 , 23:36:35",
+  "lastUpdate": "18-07-2024 , 01:43:13",
   "data": [
+    {
+      "title": "Bangkok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bangkok",
+      "pubdate": "Thu, 18 Jul 2024 03:00:00 +0300"
+    },
+    {
+      "title": "Godina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Godina",
+      "pubdate": "Thu, 18 Jul 2024 00:00:00 +0300"
+    },
     {
       "title": "Subiecte Titularizare 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Subiecte%20Titularizare%202024",
@@ -17,6 +27,11 @@
       "pubdate": "Wed, 17 Jul 2024 10:00:00 +0300"
     },
     {
+      "title": "Gibraltar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gibraltar",
+      "pubdate": "Wed, 17 Jul 2024 21:00:00 +0300"
+    },
+    {
       "title": "Gareth Southgate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gareth%20Southgate",
       "pubdate": "Wed, 17 Jul 2024 01:00:00 +0300"
@@ -25,16 +40,6 @@
       "title": "Ursula von der Leyen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ursula%20von%20der%20Leyen",
       "pubdate": "Wed, 17 Jul 2024 12:00:00 +0300"
-    },
-    {
-      "title": "Gibraltar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gibraltar",
-      "pubdate": "Wed, 17 Jul 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Maxime Sivis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Maxime%20Sivis",
-      "pubdate": "Wed, 17 Jul 2024 16:00:00 +0300"
     },
     {
       "title": "Mihai Precup",
@@ -52,6 +57,11 @@
       "pubdate": "Wed, 17 Jul 2024 02:00:00 +0300"
     },
     {
+      "title": "Niculina Stoican",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Niculina%20Stoican",
+      "pubdate": "Wed, 17 Jul 2024 17:00:00 +0300"
+    },
+    {
       "title": "Enzo Fernandez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Enzo%20Fernandez",
       "pubdate": "Wed, 17 Jul 2024 15:00:00 +0300"
@@ -67,13 +77,13 @@
       "pubdate": "Wed, 17 Jul 2024 21:00:00 +0300"
     },
     {
-      "title": "Braila",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Braila",
+      "title": "The Bear",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#The%20Bear",
       "pubdate": "Wed, 17 Jul 2024 23:00:00 +0300"
     },
     {
-      "title": "The Bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#The%20Bear",
+      "title": "Braila",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Braila",
       "pubdate": "Wed, 17 Jul 2024 23:00:00 +0300"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Horoscop 17 iulie 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2017%20iulie%202024",
       "pubdate": "Wed, 17 Jul 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Diana sosoaca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20sosoaca",
-      "pubdate": "Wed, 17 Jul 2024 20:00:00 +0300"
-    },
-    {
-      "title": "FCSB  Virtus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20%20Virtus",
-      "pubdate": "Tue, 16 Jul 2024 20:00:00 +0300"
     }
   ]
 }

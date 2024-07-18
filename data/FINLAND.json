@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 23:36:30",
+  "lastUpdate": "18-07-2024 , 01:43:08",
   "data": [
     {
       "title": "The Bear",
@@ -32,14 +32,19 @@
       "pubdate": "Wed, 17 Jul 2024 07:00:00 +0300"
     },
     {
-      "title": "Deadpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Deadpool",
-      "pubdate": "Wed, 17 Jul 2024 00:00:00 +0300"
+      "title": "Celine Dion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Celine%20Dion",
+      "pubdate": "Wed, 17 Jul 2024 22:00:00 +0300"
     },
     {
       "title": "Leny Yoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leny%20Yoro",
       "pubdate": "Wed, 17 Jul 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Deadpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Deadpool",
+      "pubdate": "Wed, 17 Jul 2024 00:00:00 +0300"
     },
     {
       "title": "Montenegro",
@@ -95,11 +100,6 @@
       "title": "OnePlus Nord 4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#OnePlus%20Nord%204",
       "pubdate": "Tue, 16 Jul 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
-      "pubdate": "Tue, 16 Jul 2024 23:00:00 +0300"
     }
   ]
 }

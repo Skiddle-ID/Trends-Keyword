@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 23:36:35",
+  "lastUpdate": "18-07-2024 , 01:43:12",
   "data": [
     {
       "title": "Rzeszow",
@@ -77,11 +77,6 @@
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Kings of leon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kings%20of%20leon",
-      "pubdate": "Wed, 17 Jul 2024 18:00:00 +0200"
-    },
-    {
       "title": "WIG20",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#WIG20",
       "pubdate": "Wed, 17 Jul 2024 12:00:00 +0200"
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0200"
     },
     {
+      "title": "Tour de Pologne 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tour%20de%20Pologne%202024",
+      "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Trojmiasto.pl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trojmiasto.pl",
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Tour de Pologne 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tour%20de%20Pologne%202024",
-      "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
+      "title": "Marianna Schreiber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marianna%20Schreiber",
+      "pubdate": "Wed, 17 Jul 2024 16:00:00 +0200"
     }
   ]
 }

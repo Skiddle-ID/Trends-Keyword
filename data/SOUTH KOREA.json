@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 23:36:36",
+  "lastUpdate": "18-07-2024 , 01:43:14",
   "data": [
     {
       "title": "나스닥",
@@ -12,9 +12,14 @@
       "pubdate": "Thu, 18 Jul 2024 01:00:00 +0900"
     },
     {
-      "title": "이윤진",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9C%A4%EC%A7%84",
-      "pubdate": "Wed, 17 Jul 2024 01:00:00 +0900"
+      "title": "김범수",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%B2%94%EC%88%98",
+      "pubdate": "Thu, 18 Jul 2024 09:00:00 +0900"
+    },
+    {
+      "title": "제헌절",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%9C%ED%97%8C%EC%A0%88",
+      "pubdate": "Wed, 17 Jul 2024 11:00:00 +0900"
     },
     {
       "title": "수미 테리",
@@ -27,6 +32,11 @@
       "pubdate": "Wed, 17 Jul 2024 00:00:00 +0900"
     },
     {
+      "title": "이윤진",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9C%A4%EC%A7%84",
+      "pubdate": "Wed, 17 Jul 2024 01:00:00 +0900"
+    },
+    {
       "title": "전노민",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EB%85%B8%EB%AF%BC",
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0900"
@@ -35,6 +45,11 @@
       "title": "코리아컵",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BD%94%EB%A6%AC%EC%95%84%EC%BB%B5",
       "pubdate": "Wed, 17 Jul 2024 21:00:00 +0900"
+    },
+    {
+      "title": "리플",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%ED%94%8C",
+      "pubdate": "Wed, 17 Jul 2024 18:00:00 +0900"
     },
     {
       "title": "체코 원전",
@@ -50,6 +65,11 @@
       "title": "나경원",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EA%B2%BD%EC%9B%90",
       "pubdate": "Wed, 17 Jul 2024 19:00:00 +0900"
+    },
+    {
+      "title": "이강인",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EA%B0%95%EC%9D%B8",
+      "pubdate": "Wed, 17 Jul 2024 01:00:00 +0900"
     },
     {
       "title": "윤상현",
@@ -79,26 +99,6 @@
     {
       "title": "폭염",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8F%AD%EC%97%BC",
-      "pubdate": "Tue, 16 Jul 2024 22:00:00 +0900"
-    },
-    {
-      "title": "김판곤",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%8C%90%EA%B3%A4",
-      "pubdate": "Tue, 16 Jul 2024 17:00:00 +0900"
-    },
-    {
-      "title": "김재중",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9E%AC%EC%A4%91",
-      "pubdate": "Tue, 16 Jul 2024 14:00:00 +0900"
-    },
-    {
-      "title": "백일해",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%B1%EC%9D%BC%ED%95%B4",
-      "pubdate": "Tue, 16 Jul 2024 09:00:00 +0900"
-    },
-    {
-      "title": "이본",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EB%B3%B8",
       "pubdate": "Tue, 16 Jul 2024 22:00:00 +0900"
     }
   ]

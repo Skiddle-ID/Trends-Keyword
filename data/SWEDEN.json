@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 23:36:36",
+  "lastUpdate": "18-07-2024 , 01:43:14",
   "data": [
     {
       "title": "The Acolyte",
@@ -22,19 +22,14 @@
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Gareth Southgate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gareth%20Southgate",
-      "pubdate": "Wed, 17 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Dageby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dageby",
       "pubdate": "Wed, 17 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Gyllene Tider",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gyllene%20Tider",
-      "pubdate": "Wed, 17 Jul 2024 08:00:00 +0200"
+      "title": "Gareth Southgate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gareth%20Southgate",
+      "pubdate": "Wed, 17 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Qliro",
@@ -42,9 +37,19 @@
       "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
     },
     {
+      "title": "Gyllene Tider",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gyllene%20Tider",
+      "pubdate": "Wed, 17 Jul 2024 08:00:00 +0200"
+    },
+    {
       "title": "Simone Biles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simone%20Biles",
       "pubdate": "Wed, 17 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Leo Borg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
+      "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Peter Jöback",
@@ -57,19 +62,19 @@
       "pubdate": "Tue, 16 Jul 2024 13:00:00 +0200"
     },
     {
+      "title": "Sverige England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20England",
+      "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Salomon Schulman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Salomon%20Schulman",
+      "pubdate": "Tue, 16 Jul 2024 14:00:00 +0200"
+    },
+    {
       "title": "Jonas Bager",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Bager",
       "pubdate": "Tue, 16 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rafael%20Nadal",
-      "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Tenacious D",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tenacious%20D",
-      "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Amber Rose",
@@ -95,11 +100,6 @@
       "title": "Arvinge okänd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arvinge%20ok%C3%A4nd",
       "pubdate": "Tue, 16 Jul 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Kafaji",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kafaji",
-      "pubdate": "Tue, 16 Jul 2024 21:00:00 +0200"
     }
   ]
 }
