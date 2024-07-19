@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:51",
+  "lastUpdate": "19-07-2024 , 12:51:41",
   "data": [
+    {
+      "title": "CrowdStrike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CrowdStrike",
+      "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
+    },
     {
       "title": "Bob Newhart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bob%20Newhart",
       "pubdate": "Fri, 19 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Microsoft",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Microsoft",
-      "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
+      "pubdate": "Fri, 19 Jul 2024 13:00:00 +0200"
+    },
+    {
+      "title": "F1 Magyar Nagydíj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Magyar%20Nagyd%C3%ADj",
+      "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Niki Belucci",
@@ -17,14 +27,14 @@
       "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Giorgia Meloni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-      "pubdate": "Fri, 19 Jul 2024 01:00:00 +0200"
-    },
-    {
       "title": "Beetlejuice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beetlejuice",
       "pubdate": "Fri, 19 Jul 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Giorgia Meloni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
+      "pubdate": "Fri, 19 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Ádám Martin",
@@ -32,24 +42,9 @@
       "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "F1 Magyar Nagydíj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Magyar%20Nagyd%C3%ADj",
-      "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Formula-1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Formula-1",
-      "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "Forma 1 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forma%201%202024",
       "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Balaton-átúszás",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton-%C3%A1t%C3%BAsz%C3%A1s",
-      "pubdate": "Thu, 18 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Ursula von der Leyen",
@@ -57,9 +52,19 @@
       "pubdate": "Thu, 18 Jul 2024 14:00:00 +0200"
     },
     {
+      "title": "Balaton-átúszás 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton-%C3%A1t%C3%BAsz%C3%A1s%202024",
+      "pubdate": "Thu, 18 Jul 2024 13:00:00 +0200"
+    },
+    {
       "title": "Corvinul hunedoara–paks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Corvinul%20hunedoara%E2%80%93paks",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Kekszalag elo kozvetites",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kekszalag%20elo%20kozvetites",
+      "pubdate": "Thu, 18 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Cobra Kai",
@@ -77,9 +82,14 @@
       "pubdate": "Thu, 18 Jul 2024 19:00:00 +0200"
     },
     {
-      "title": "Regős Éva",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reg%C5%91s%20%C3%89va",
-      "pubdate": "Thu, 18 Jul 2024 19:00:00 +0200"
+      "title": "Pellegrini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pellegrini",
+      "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Benkő Dániel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benk%C5%91%20D%C3%A1niel",
+      "pubdate": "Thu, 18 Jul 2024 12:00:00 +0200"
     },
     {
       "title": "Fanta",
@@ -87,19 +97,9 @@
       "pubdate": "Thu, 18 Jul 2024 01:00:00 +0200"
     },
     {
-      "title": "Pellegrini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pellegrini",
-      "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Joe%20Biden",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Brad Pitt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brad%20Pitt",
-      "pubdate": "Thu, 18 Jul 2024 22:00:00 +0200"
     }
   ]
 }

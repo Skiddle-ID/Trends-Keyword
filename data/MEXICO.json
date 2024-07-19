@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:53",
+  "lastUpdate": "19-07-2024 , 12:51:43",
   "data": [
+    {
+      "title": "CrowdStrike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#CrowdStrike",
+      "pubdate": "Fri, 19 Jul 2024 05:00:00 -0600"
+    },
     {
       "title": "Ivan Cornejo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ivan%20Cornejo",
       "pubdate": "Fri, 19 Jul 2024 00:00:00 -0600"
+    },
+    {
+      "title": "Tigres vs América",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs%20Am%C3%A9rica",
+      "pubdate": "Thu, 18 Jul 2024 21:00:00 -0600"
     },
     {
       "title": "Cobra Kai",
@@ -57,11 +67,6 @@
       "pubdate": "Thu, 18 Jul 2024 20:00:00 -0600"
     },
     {
-      "title": "Tommy y & Pamela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tommy%20y%20%26%20Pamela",
-      "pubdate": "Thu, 18 Jul 2024 19:00:00 -0600"
-    },
-    {
       "title": "Presidente Chino Xi Jinping",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Presidente%20Chino%20Xi%20Jinping",
       "pubdate": "Thu, 18 Jul 2024 17:00:00 -0600"
@@ -70,11 +75,6 @@
       "title": "Inter Miami Toronto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20Miami%20Toronto",
       "pubdate": "Thu, 18 Jul 2024 13:00:00 -0600"
-    },
-    {
-      "title": "Contagios COVID mexico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Contagios%20COVID%20mexico",
-      "pubdate": "Thu, 18 Jul 2024 00:00:00 -0600"
     },
     {
       "title": "Rafael Nadal",
@@ -87,6 +87,11 @@
       "pubdate": "Thu, 18 Jul 2024 19:00:00 -0600"
     },
     {
+      "title": "Contagios COVID mexico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Contagios%20COVID%20mexico",
+      "pubdate": "Thu, 18 Jul 2024 00:00:00 -0600"
+    },
+    {
       "title": "Victoria Villarruel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Victoria%20Villarruel",
       "pubdate": "Thu, 18 Jul 2024 17:00:00 -0600"
@@ -95,11 +100,6 @@
       "title": "Karate Kid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Karate%20Kid",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 -0600"
-    },
-    {
-      "title": "UAM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UAM",
-      "pubdate": "Thu, 18 Jul 2024 11:00:00 -0600"
     }
   ]
 }

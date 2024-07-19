@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:47",
+  "lastUpdate": "19-07-2024 , 12:51:36",
   "data": [
     {
       "title": "Crowdstrike",
@@ -12,18 +12,23 @@
       "pubdate": "Fri, 19 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Isola 2000",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Isola%202000",
+      "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
+    },
+    {
       "title": "Laurence Tubiana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laurence%20Tubiana",
       "pubdate": "Fri, 19 Jul 2024 08:00:00 +0200"
     },
     {
-      "title": "Ice Spice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ice%20Spice",
+      "title": "Melania Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Melania%20Trump",
       "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Melania Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Melania%20Trump",
+      "title": "Ice Spice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ice%20Spice",
       "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
     },
     {
@@ -52,11 +57,6 @@
       "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Embrun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Embrun",
-      "pubdate": "Thu, 18 Jul 2024 22:00:00 +0200"
-    },
-    {
       "title": "Cobra Kai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cobra%20Kai",
       "pubdate": "Thu, 18 Jul 2024 15:00:00 +0200"
@@ -72,9 +72,14 @@
       "pubdate": "Thu, 18 Jul 2024 03:00:00 +0200"
     },
     {
-      "title": "Peter Navarro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Peter%20Navarro",
-      "pubdate": "Thu, 18 Jul 2024 15:00:00 +0200"
+      "title": "Francis Cabrel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Francis%20Cabrel",
+      "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Rafael Nadal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rafael%20Nadal",
+      "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
     },
     {
       "title": "Francofolies Spa 2024",
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 18 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rafael%20Nadal",
-      "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
-    },
-    {
       "title": "Louis Thyssen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Louis%20Thyssen",
       "pubdate": "Thu, 18 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "The Acolyte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Acolyte",
-      "pubdate": "Thu, 18 Jul 2024 00:00:00 +0200"
+      "title": "Conner Rousseau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conner%20Rousseau",
+      "pubdate": "Thu, 18 Jul 2024 22:00:00 +0200"
     }
   ]
 }

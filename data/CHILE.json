@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:48",
+  "lastUpdate": "19-07-2024 , 12:51:37",
   "data": [
+    {
+      "title": "Windows",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Windows",
+      "pubdate": "Fri, 19 Jul 2024 08:00:00 -0400"
+    },
     {
       "title": "SHOA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SHOA",
@@ -32,6 +37,11 @@
       "pubdate": "Thu, 18 Jul 2024 17:00:00 -0400"
     },
     {
+      "title": "Cerro  Paranaense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cerro%20%20Paranaense",
+      "pubdate": "Thu, 18 Jul 2024 22:00:00 -0400"
+    },
+    {
       "title": "Bob Newhart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bob%20Newhart",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 -0400"
@@ -47,9 +57,9 @@
       "pubdate": "Thu, 18 Jul 2024 01:00:00 -0400"
     },
     {
-      "title": "Daniela Olate Venegas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniela%20Olate%20Venegas",
-      "pubdate": "Thu, 18 Jul 2024 06:00:00 -0400"
+      "title": "Ranking FIFA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ranking%20FIFA",
+      "pubdate": "Thu, 18 Jul 2024 12:00:00 -0400"
     },
     {
       "title": "Cirque du Soleil",
@@ -72,11 +82,6 @@
       "pubdate": "Thu, 18 Jul 2024 19:00:00 -0400"
     },
     {
-      "title": "Cerro Porteño",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cerro%20Porte%C3%B1o",
-      "pubdate": "Thu, 18 Jul 2024 22:00:00 -0400"
-    },
-    {
       "title": "Katty Kowaleczko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Katty%20Kowaleczko",
       "pubdate": "Thu, 18 Jul 2024 21:00:00 -0400"
@@ -95,11 +100,6 @@
       "title": "Bolsillo electronico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolsillo%20electronico",
       "pubdate": "Wed, 17 Jul 2024 22:00:00 -0400"
-    },
-    {
-      "title": "Colo Colo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
-      "pubdate": "Wed, 17 Jul 2024 20:00:00 -0400"
     }
   ]
 }

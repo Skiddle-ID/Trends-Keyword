@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:48",
+  "lastUpdate": "19-07-2024 , 12:51:38",
   "data": [
+    {
+      "title": "CrowdStrike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#CrowdStrike",
+      "pubdate": "Fri, 19 Jul 2024 07:00:00 -0500"
+    },
     {
       "title": "Medellín  Millonarios",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Medell%C3%ADn%20%20Millonarios",
       "pubdate": "Thu, 18 Jul 2024 19:00:00 -0500"
     },
     {
-      "title": "Millonarios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Millonarios",
-      "pubdate": "Thu, 18 Jul 2024 21:00:00 -0500"
+      "title": "Bucaramanga  Junior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bucaramanga%20%20Junior",
+      "pubdate": "Thu, 18 Jul 2024 15:00:00 -0500"
     },
     {
-      "title": "Junior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Junior",
-      "pubdate": "Thu, 18 Jul 2024 15:00:00 -0500"
+      "title": "Millonarios FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Millonarios%20FC",
+      "pubdate": "Thu, 18 Jul 2024 21:00:00 -0500"
     },
     {
       "title": "Joe Biden",
@@ -25,6 +30,11 @@
       "title": "Ingreso Mínimo Garantizado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ingreso%20M%C3%ADnimo%20Garantizado",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Alfredo Morelos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alfredo%20Morelos",
+      "pubdate": "Thu, 18 Jul 2024 16:00:00 -0500"
     },
     {
       "title": "Rafael Nadal",
@@ -47,16 +57,6 @@
       "pubdate": "Thu, 18 Jul 2024 19:00:00 -0500"
     },
     {
-      "title": "Caltac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caltac",
-      "pubdate": "Thu, 18 Jul 2024 07:00:00 -0500"
-    },
-    {
-      "title": "Vin Diesel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Vin%20Diesel",
-      "pubdate": "Thu, 18 Jul 2024 22:00:00 -0500"
-    },
-    {
       "title": "Palestino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Palestino",
       "pubdate": "Thu, 18 Jul 2024 18:00:00 -0500"
@@ -65,6 +65,11 @@
       "title": "Cobra Kai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cobra%20Kai",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Que se celebra el 20 de julio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Que%20se%20celebra%20el%2020%20de%20julio",
+      "pubdate": "Thu, 18 Jul 2024 22:00:00 -0500"
     },
     {
       "title": "Argentinos Juniors",
@@ -77,14 +82,14 @@
       "pubdate": "Thu, 18 Jul 2024 00:00:00 -0500"
     },
     {
-      "title": "Que se celebra el 20 de julio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Que%20se%20celebra%20el%2020%20de%20julio",
-      "pubdate": "Thu, 18 Jul 2024 22:00:00 -0500"
+      "title": "Liga Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20Argentina",
+      "pubdate": "Thu, 18 Jul 2024 23:00:00 -0500"
     },
     {
-      "title": "Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nacional",
-      "pubdate": "Wed, 17 Jul 2024 09:00:00 -0500"
+      "title": "Atlético Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional",
+      "pubdate": "Wed, 17 Jul 2024 19:00:00 -0500"
     },
     {
       "title": "Santa Fe",
@@ -94,11 +99,6 @@
     {
       "title": "Independiente del Valle  Boca Juniors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Independiente%20del%20Valle%20%20Boca%20Juniors",
-      "pubdate": "Wed, 17 Jul 2024 18:00:00 -0500"
-    },
-    {
-      "title": "Inter Miami  Toronto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20Miami%20%20Toronto",
       "pubdate": "Wed, 17 Jul 2024 18:00:00 -0500"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 11:35:53",
+  "lastUpdate": "19-07-2024 , 12:51:43",
   "data": [
     {
       "title": "Crowdstrike",
@@ -32,19 +32,14 @@
       "pubdate": "Thu, 18 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "Estavana Polman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Estavana%20Polman",
-      "pubdate": "Thu, 18 Jul 2024 10:00:00 +0200"
+      "title": "Kamala Harris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kamala%20Harris",
+      "pubdate": "Thu, 18 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Blauwtong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blauwtong",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "MH17",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MH17",
-      "pubdate": "Wed, 17 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "ASML",
@@ -100,6 +95,11 @@
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
       "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Ali B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ali%20B",
+      "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
     }
   ]
 }
