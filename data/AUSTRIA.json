@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 01:43:40",
+  "lastUpdate": "19-07-2024 , 02:46:50",
   "data": [
     {
       "title": "Bob Newhart",
@@ -20,6 +20,11 @@
       "title": "Von der Leyen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Von%20der%20Leyen",
       "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Pflasterspektakel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pflasterspektakel",
+      "pubdate": "Thu, 18 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "Abbé Pierre",
@@ -70,11 +75,6 @@
       "title": "Fall Leon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fall%20Leon",
       "pubdate": "Thu, 18 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "ORF Kärnten",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20K%C3%A4rnten",
-      "pubdate": "Thu, 18 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "EZB-Zinsentscheid",
