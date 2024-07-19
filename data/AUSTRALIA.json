@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "18-07-2024 , 23:35:29",
+  "lastUpdate": "19-07-2024 , 01:43:40",
   "data": [
+    {
+      "title": "Bob Newhart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bob%20Newhart",
+      "pubdate": "Fri, 19 Jul 2024 08:00:00 +1000"
+    },
     {
       "title": "Rory McIlroy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rory%20McIlroy",
@@ -10,11 +15,6 @@
       "title": "Cameron Smith",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cameron%20Smith",
       "pubdate": "Fri, 19 Jul 2024 03:00:00 +1000"
-    },
-    {
-      "title": "Bob Newhart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bob%20Newhart",
-      "pubdate": "Fri, 19 Jul 2024 08:00:00 +1000"
     },
     {
       "title": "Tiger Woods",
@@ -42,14 +42,29 @@
       "pubdate": "Fri, 19 Jul 2024 00:00:00 +1000"
     },
     {
+      "title": "Min Woo Lee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Min%20Woo%20Lee",
+      "pubdate": "Fri, 19 Jul 2024 09:00:00 +1000"
+    },
+    {
       "title": "Nasdaq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nasdaq",
       "pubdate": "Fri, 19 Jul 2024 02:00:00 +1000"
     },
     {
+      "title": "Mpox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mpox",
+      "pubdate": "Fri, 19 Jul 2024 10:00:00 +1000"
+    },
+    {
       "title": "The Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Open",
       "pubdate": "Thu, 18 Jul 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Open Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Open%20Championship",
+      "pubdate": "Thu, 18 Jul 2024 17:00:00 +1000"
     },
     {
       "title": "Biden",
@@ -85,21 +100,6 @@
       "title": "Kai Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kai%20Trump",
       "pubdate": "Thu, 18 Jul 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Leny Yoro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leny%20Yoro",
-      "pubdate": "Thu, 18 Jul 2024 01:00:00 +1000"
-    },
-    {
-      "title": "Aanvi Kamdar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aanvi%20Kamdar",
-      "pubdate": "Thu, 18 Jul 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Sports",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sports",
-      "pubdate": "Thu, 18 Jul 2024 07:00:00 +1000"
     }
   ]
 }

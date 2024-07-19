@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-07-2024 , 23:35:40",
+  "lastUpdate": "19-07-2024 , 01:43:47",
   "data": [
     {
       "title": "Robertsfors",
@@ -32,6 +32,11 @@
       "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
     },
     {
+      "title": "The Acolyte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Acolyte",
+      "pubdate": "Thu, 18 Jul 2024 00:00:00 +0200"
+    },
+    {
       "title": "Wheels and wings",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wheels%20and%20wings",
       "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
@@ -55,11 +60,6 @@
       "title": "Benjamin Ingrosso Sofiero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20Ingrosso%20Sofiero",
       "pubdate": "Thu, 18 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Acolyte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Acolyte",
-      "pubdate": "Thu, 18 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Alexisohanian",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 17 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Gyllene Tider",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gyllene%20Tider",
-      "pubdate": "Wed, 17 Jul 2024 08:00:00 +0200"
-    },
-    {
       "title": "Simone Biles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simone%20Biles",
       "pubdate": "Wed, 17 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Peter Jöback",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20J%C3%B6back",
+      "pubdate": "Tue, 16 Jul 2024 21:00:00 +0200"
     }
   ]
 }
