@@ -1,1 +1,1 @@
-CrowdStrike,Clint Eastwood,Breaking News,Dafne Keen,Ben Sasse,Tel Aviv,Evan Gershkovich,Lawrence Taylor,Bob Newhart,Lou Dobbs,Where is Melania Trump,Hulk Hogan,Trump speech,The Open,Kid Rock,Tiger Woods,Kamala Harris,Cobra Kai,Russell Westbrook,Jason Aldean
+CrowdStrike,Clint Eastwood,Davante Adams,Breaking News,Evan Gershkovich,Ben Sasse,Tel Aviv,Hulk Hogan RNC,Did Biden step down,Is Hello Kitty a cat,Bob Newhart,Lou Dobbs,Trump speech,Where is Melania Trump,The Open,Barron Trump,Kid Rock,Cobra Kai,Usha Vance,Tiger Woods
