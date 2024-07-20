@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 11:35:54",
+  "lastUpdate": "20-07-2024 , 12:49:18",
   "data": [
     {
       "title": "F1",
@@ -17,14 +17,19 @@
       "pubdate": "Sat, 20 Jul 2024 09:00:00 +0100"
     },
     {
+      "title": "Jake Paul vs Mike Perry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul%20vs%20Mike%20Perry",
+      "pubdate": "Sat, 20 Jul 2024 09:00:00 +0100"
+    },
+    {
       "title": "Hardik Pandya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hardik%20Pandya",
       "pubdate": "Sat, 20 Jul 2024 02:00:00 +0100"
     },
     {
-      "title": "Jake Paul vs Mike Perry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jake%20Paul%20vs%20Mike%20Perry",
-      "pubdate": "Sat, 20 Jul 2024 09:00:00 +0100"
+      "title": "Luas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Luas",
+      "pubdate": "Sat, 20 Jul 2024 13:00:00 +0100"
     },
     {
       "title": "CrowdStrike",
@@ -42,14 +47,14 @@
       "pubdate": "Fri, 19 Jul 2024 12:00:00 +0100"
     },
     {
-      "title": "Hulk Hogan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hulk%20Hogan",
-      "pubdate": "Fri, 19 Jul 2024 08:00:00 +0100"
-    },
-    {
       "title": "Enniskillen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Enniskillen",
       "pubdate": "Fri, 19 Jul 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Hulk Hogan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hulk%20Hogan",
+      "pubdate": "Fri, 19 Jul 2024 08:00:00 +0100"
     },
     {
       "title": "Ireland U20 vs New Zealand U20",
@@ -77,6 +82,11 @@
       "pubdate": "Fri, 19 Jul 2024 22:00:00 +0100"
     },
     {
+      "title": "Clint Eastwood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Clint%20Eastwood",
+      "pubdate": "Fri, 19 Jul 2024 23:00:00 +0100"
+    },
+    {
       "title": "Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton",
       "pubdate": "Fri, 19 Jul 2024 17:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Melania Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Melania%20Trump",
       "pubdate": "Fri, 19 Jul 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Hello Kitty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hello%20Kitty",
-      "pubdate": "Fri, 19 Jul 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Daisy Edgar-Jones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Daisy%20Edgar-Jones",
-      "pubdate": "Fri, 19 Jul 2024 22:00:00 +0100"
     }
   ]
 }

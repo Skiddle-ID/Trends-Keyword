@@ -1,1 +1,1 @@
-Ziua aviatiei,Shaquille O'Neal,Unirea Slobozia - FCSB,CrowdStrike,Sarbatoarea Sf. Ilie,Poli Iași  Botoşani,Leeds,Evan Gershkovich,Bob Newhart,Nadal,CNN,Kamala Harris,Nisa,Garita,Irina Begu,Hulk Hogan,Ion Țiriac,Eric Trump,Corvinul Hunedoara  Paks,Ursula von der Leyen
+Ziua aviatiei,Shaquille O'Neal,Unirea Slobozia - FCSB,CrowdStrike,Ilie,Poli Iași  Botoşani,Leeds,Evan Gershkovich,Bob Newhart,Nadal,Kamala Harris,Dennis Man,Nisa,Jaqueline Cristian,Irina Begu,Hulk Hogan,Ion Țiriac,Eric Trump,Dana Rogoz,Corvinul Hunedoara  Paks

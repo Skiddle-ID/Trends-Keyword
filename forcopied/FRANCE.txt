@@ -1,1 +1,1 @@
-Evan Gershkovich,Neymar,Arnaud Démare,Thomas Meunier,Tomorrowland,CrowdStrike,Pogacar,Rugby U20,Bob Newhart,France Canada basket,Toumani Diabaté,Xavier Breton,RER A,Ile de Sercq,Tel-Aviv,Yael Braun-Pivet,Incendie Nice,Laurence Tubiana,Election president assemblee nationale,Pass Jeux
+Evan Gershkovich,Neymar,Chypre,Bobigny,Arnaud Démare,Thomas Meunier,Tomorrowland,Eric Coquerel,Col de la Couillole,Crowdstrike,Pogacar,Rugby U20,Bob Newhart,Pleine lune,Toumani Diabaté,Xavier Breton,RER A,Bella Hadid,Mantes-la-Jolie,Tel-Aviv

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 11:35:58",
+  "lastUpdate": "20-07-2024 , 12:49:23",
   "data": [
     {
       "title": "New Zealand vs Fiji",
@@ -9,11 +9,6 @@
     {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-      "pubdate": "Sat, 20 Jul 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Natasha Joubert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Natasha%20Joubert",
       "pubdate": "Sat, 20 Jul 2024 01:00:00 +0200"
     },
     {
@@ -82,14 +77,14 @@
       "pubdate": "Fri, 19 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Ernie Els",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ernie%20Els",
-      "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "U20 Rugby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U20%20Rugby",
       "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Ernie Els",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ernie%20Els",
+      "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Coreth Naude",
@@ -100,6 +95,11 @@
       "title": "Al Sadd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Sadd",
       "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "The Open leaderboard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Open%20leaderboard",
+      "pubdate": "Fri, 19 Jul 2024 08:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 11:35:57",
+  "lastUpdate": "20-07-2024 , 12:49:21",
   "data": [
     {
       "title": "Racibórz",
@@ -15,6 +15,11 @@
       "title": "Iryna Farion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iryna%20Farion",
       "pubdate": "Sat, 20 Jul 2024 07:00:00 +0200"
+    },
+    {
+      "title": "GKS Katowice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Katowice",
+      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Gwiezdne Wojny: Akolita",
@@ -42,14 +47,14 @@
       "pubdate": "Fri, 19 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Jagiellonia Białystok – Puszcza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jagiellonia%20Bia%C5%82ystok%20%E2%80%93%20Puszcza",
-      "pubdate": "Fri, 19 Jul 2024 18:00:00 +0200"
-    },
-    {
       "title": "Śląsk Wrocław – Lechia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Al%C4%85sk%20Wroc%C5%82aw%20%E2%80%93%20Lechia",
       "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Jagiellonia Białystok – Puszcza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jagiellonia%20Bia%C5%82ystok%20%E2%80%93%20Puszcza",
+      "pubdate": "Fri, 19 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Jaworek",
@@ -59,7 +64,7 @@
     {
       "title": "Odra Opole – Ruch Chorzów",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Odra%20Opole%20%E2%80%93%20Ruch%20Chorz%C3%B3w",
-      "pubdate": "Fri, 19 Jul 2024 21:00:00 +0200"
+      "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Those About to Die",
@@ -92,14 +97,9 @@
       "pubdate": "Fri, 19 Jul 2024 08:00:00 +0200"
     },
     {
-      "title": "Melania Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Melania%20Trump",
-      "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Sunrise Festival",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sunrise%20Festival",
-      "pubdate": "Fri, 19 Jul 2024 21:00:00 +0200"
+      "title": "KSW",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
+      "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
     }
   ]
 }

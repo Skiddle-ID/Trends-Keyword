@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 11:35:52",
+  "lastUpdate": "20-07-2024 , 12:49:17",
   "data": [
     {
       "title": "Evan Gershkovich",
@@ -10,6 +10,16 @@
       "title": "Neymar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neymar",
       "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Chypre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chypre",
+      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Bobigny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bobigny",
+      "pubdate": "Sat, 20 Jul 2024 05:00:00 +0200"
     },
     {
       "title": "Arnaud Démare",
@@ -27,8 +37,18 @@
       "pubdate": "Sat, 20 Jul 2024 02:00:00 +0200"
     },
     {
-      "title": "CrowdStrike",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CrowdStrike",
+      "title": "Eric Coquerel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eric%20Coquerel",
+      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Col de la Couillole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Col%20de%20la%20Couillole",
+      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Crowdstrike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crowdstrike",
       "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
     },
     {
@@ -47,8 +67,8 @@
       "pubdate": "Fri, 19 Jul 2024 03:00:00 +0200"
     },
     {
-      "title": "France Canada basket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Canada%20basket",
+      "title": "Pleine lune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pleine%20lune",
       "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
     },
     {
@@ -67,39 +87,19 @@
       "pubdate": "Fri, 19 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Ile de Sercq",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ile%20de%20Sercq",
-      "pubdate": "Fri, 19 Jul 2024 14:00:00 +0200"
+      "title": "Bella Hadid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bella%20Hadid",
+      "pubdate": "Fri, 19 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Mantes-la-Jolie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mantes-la-Jolie",
+      "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "Tel-Aviv",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tel-Aviv",
       "pubdate": "Fri, 19 Jul 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Yael Braun-Pivet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Yael%20Braun-Pivet",
-      "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Incendie Nice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Incendie%20Nice",
-      "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Laurence Tubiana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurence%20Tubiana",
-      "pubdate": "Thu, 18 Jul 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Election president assemblee nationale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Election%20president%20assemblee%20nationale",
-      "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Pass Jeux",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pass%20Jeux",
-      "pubdate": "Thu, 18 Jul 2024 12:00:00 +0200"
     }
   ]
 }
