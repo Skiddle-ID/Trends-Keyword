@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 11:34:42",
+  "lastUpdate": "21-07-2024 , 12:49:46",
   "data": [
     {
       "title": "Yemen",
@@ -12,14 +12,19 @@
       "pubdate": "Sun, 21 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "21 juillet Belgique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#21%20juillet%20Belgique",
-      "pubdate": "Sun, 21 Jul 2024 12:00:00 +0200"
+      "title": "Haakon de Norvège",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haakon%20de%20Norv%C3%A8ge",
+      "pubdate": "Sun, 21 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Johan Verminnen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johan%20Verminnen",
+      "pubdate": "Sun, 21 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Fête nationale de la Belgique",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F%C3%AAte%20nationale%20de%20la%20Belgique",
-      "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
+      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "F1",
@@ -27,9 +32,14 @@
       "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "Louis Thyssen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Louis%20Thyssen",
+      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Anderlecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-      "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
+      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "KRC Genk",
@@ -42,11 +52,6 @@
       "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Clint Eastwood",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clint%20Eastwood",
-      "pubdate": "Sat, 20 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "Abram Stockman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Abram%20Stockman",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
@@ -55,6 +60,11 @@
       "title": "Dimitri Vegas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dimitri%20Vegas",
       "pubdate": "Sat, 20 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Clint Eastwood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clint%20Eastwood",
+      "pubdate": "Sat, 20 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Gladiator",
@@ -67,14 +77,14 @@
       "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
     },
     {
-      "title": "Supercoupe de Belgique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercoupe%20de%20Belgique",
-      "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Feu d'artifice 21 juillet 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feu%20d'artifice%2021%20juillet%202024",
       "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Supercoupe de Belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercoupe%20de%20Belgique",
+      "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Amelie Lens",
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Patrick Bruel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Bruel",
-      "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "Union Saint-Gilloise",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Beerschot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
-      "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nice",
-      "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
+      "title": "Patrick Bruel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Bruel",
+      "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
     }
   ]
 }
