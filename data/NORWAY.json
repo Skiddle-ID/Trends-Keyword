@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 23:36:01",
+  "lastUpdate": "21-07-2024 , 01:50:02",
   "data": [
     {
       "title": "Gjerstad",
@@ -15,11 +15,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
       "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Diamond League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League",
-      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Kronprins Haakon",
@@ -42,6 +37,11 @@
       "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
     },
     {
+      "title": "Diamond League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League",
+      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Vålerenga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
@@ -52,14 +52,14 @@
       "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Bodø/Glimt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "title": "Avinor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avinor",
       "pubdate": "Fri, 19 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Edvin Heen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Edvin%20Heen",
-      "pubdate": "Fri, 19 Jul 2024 18:00:00 +0200"
+      "title": "Bodø/Glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "pubdate": "Fri, 19 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Bangladesh",
@@ -82,6 +82,11 @@
       "pubdate": "Fri, 19 Jul 2024 01:00:00 +0200"
     },
     {
+      "title": "Leeds",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leeds",
+      "pubdate": "Fri, 19 Jul 2024 16:00:00 +0200"
+    },
+    {
       "title": "Kai Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kai%20Trump",
       "pubdate": "Thu, 18 Jul 2024 10:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "The Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Open",
       "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Bob Newhart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bob%20Newhart",
-      "pubdate": "Thu, 18 Jul 2024 23:00:00 +0200"
     }
   ]
 }

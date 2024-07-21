@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 23:35:56",
+  "lastUpdate": "21-07-2024 , 01:49:55",
   "data": [
     {
       "title": "Grundlsee",
@@ -7,14 +7,24 @@
       "pubdate": "Sun, 21 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Formel 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201",
+      "pubdate": "Sat, 20 Jul 2024 08:00:00 +0200"
+    },
+    {
+      "title": "SK Rapid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid",
+      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
+    },
+    {
       "title": "Rapid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
       "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
     },
     {
-      "title": "SK Rapid Wien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid%20Wien",
-      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
+      "title": "Stauffenberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stauffenberg",
+      "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Clint Eastwood",
@@ -42,14 +52,14 @@
       "pubdate": "Sat, 20 Jul 2024 07:00:00 +0200"
     },
     {
-      "title": "Iryna Farion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iryna%20Farion",
-      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
-    },
-    {
       "title": "Demo Wien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demo%20Wien",
       "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Iryna Farion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iryna%20Farion",
+      "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Ed Sheeran",
@@ -57,29 +67,24 @@
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Nachrichten Aktuell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20Aktuell",
-      "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
-    },
-    {
       "title": "Twisters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Twisters",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Hungaroring",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hungaroring",
-      "pubdate": "Sat, 20 Jul 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Ella Endlich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ella%20Endlich",
-      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
+      "title": "Nachrichten aktuell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20aktuell",
+      "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "Parookaville",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Parookaville",
       "pubdate": "Sat, 20 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Ella Endlich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ella%20Endlich",
+      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Flughafen Wien",
@@ -90,11 +95,6 @@
       "title": "Crowdstrike",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Crowdstrike",
       "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Formel 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201",
-      "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Bob Newhart",

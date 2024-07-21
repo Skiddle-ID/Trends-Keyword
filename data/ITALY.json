@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "20-07-2024 , 23:36:00",
+  "lastUpdate": "21-07-2024 , 01:50:01",
   "data": [
     {
-      "title": "Redentore Venezia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Redentore%20Venezia",
-      "pubdate": "Sun, 21 Jul 2024 00:00:00 +0200"
+      "title": "Baciami ancora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Baciami%20ancora",
+      "pubdate": "Sun, 21 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Amanda Knox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amanda%20Knox",
+      "pubdate": "Sun, 21 Jul 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Mike Tyson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mike%20Tyson",
+      "pubdate": "Sun, 21 Jul 2024 02:00:00 +0200"
     },
     {
       "title": "Rapid Vienna-Milan",
@@ -32,6 +42,11 @@
       "pubdate": "Sat, 20 Jul 2024 05:00:00 +0200"
     },
     {
+      "title": "Pecco Bagnaia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pecco%20Bagnaia",
+      "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
+    },
+    {
       "title": "Clint Eastwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Clint%20Eastwood",
       "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
@@ -47,9 +62,9 @@
       "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Carlo Giuliani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlo%20Giuliani",
-      "pubdate": "Sat, 20 Jul 2024 12:00:00 +0200"
+      "title": "Federico Chiesa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Chiesa",
+      "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "POLIGNANO A MARE",
@@ -57,29 +72,19 @@
       "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Federico Chiesa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Chiesa",
-      "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Todibo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Todibo",
       "pubdate": "Sat, 20 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Quentin Halys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Quentin%20Halys",
-      "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Pecco Bagnaia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pecco%20Bagnaia",
-      "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
-    },
-    {
       "title": "Una moglie bellissima",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Una%20moglie%20bellissima",
       "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Yemen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Yemen",
+      "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Indiana Jones e il tempio maledetto",
@@ -95,11 +100,6 @@
       "title": "Incidente A4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Incidente%20A4",
       "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Yemen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Yemen",
-      "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
     }
   ]
 }

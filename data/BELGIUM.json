@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "20-07-2024 , 23:35:56",
+  "lastUpdate": "21-07-2024 , 01:49:55",
   "data": [
-    {
-      "title": "Helene Segara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helene%20Segara",
-      "pubdate": "Sun, 21 Jul 2024 00:00:00 +0200"
-    },
     {
       "title": "Yemen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yemen",
@@ -17,9 +12,9 @@
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Louis Thyssen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Louis%20Thyssen",
-      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
+      "title": "Fête nationale de la Belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F%C3%AAte%20nationale%20de%20la%20Belgique",
+      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "F1",
@@ -35,11 +30,6 @@
       "title": "KRC Genk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Col de la Couillole",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Col%20de%20la%20Couillole",
-      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Formule 1",
@@ -67,13 +57,13 @@
       "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Amelie Lens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amelie%20Lens",
+      "title": "Supercoupe de Belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercoupe%20de%20Belgique",
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Supercoupe de Belgique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercoupe%20de%20Belgique",
+      "title": "Amelie Lens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amelie%20Lens",
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
@@ -82,9 +72,9 @@
       "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
     },
     {
-      "title": "Beerschot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
-      "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
+      "title": "Col de la Couillole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Col%20de%20la%20Couillole",
+      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Feu d'artifice 21 juillet 2024",
@@ -97,9 +87,19 @@
       "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Fete nationale belge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fete%20nationale%20belge",
-      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
+      "title": "Beerschot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
+      "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Nice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nice",
+      "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Armin van Buuren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Armin%20van%20Buuren",
+      "pubdate": "Sat, 20 Jul 2024 01:00:00 +0200"
     }
   ]
 }

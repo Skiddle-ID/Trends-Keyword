@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-07-2024 , 23:35:58",
+  "lastUpdate": "21-07-2024 , 01:49:58",
   "data": [
+    {
+      "title": "Coldplay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Coldplay",
+      "pubdate": "Sun, 21 Jul 2024 02:00:00 +0200"
+    },
     {
       "title": "Formel 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
@@ -25,11 +30,6 @@
       "title": "Pogacar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
       "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Belarus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belarus",
-      "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Von der Leyen",

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 23:36:03",
+  "lastUpdate": "21-07-2024 , 01:50:04",
   "data": [
     {
       "title": "Manchester United",
@@ -10,6 +10,16 @@
       "title": "Man utd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
       "pubdate": "Sun, 21 Jul 2024 02:00:00 +0800"
+    },
+    {
+      "title": "USA Basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USA%20Basketball",
+      "pubdate": "Sun, 21 Jul 2024 09:00:00 +0800"
+    },
+    {
+      "title": "Calafiori",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Calafiori",
+      "pubdate": "Sun, 21 Jul 2024 09:00:00 +0800"
     },
     {
       "title": "Sultan Ibrahim",
@@ -25,11 +35,6 @@
       "title": "Evan Gershkovich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Evan%20Gershkovich",
       "pubdate": "Sat, 20 Jul 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Formula 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Formula%201",
-      "pubdate": "Sat, 20 Jul 2024 23:00:00 +0800"
     },
     {
       "title": "Everton",
@@ -52,11 +57,6 @@
       "pubdate": "Fri, 19 Jul 2024 16:00:00 +0800"
     },
     {
-      "title": "Microsoft stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Microsoft%20stock",
-      "pubdate": "Fri, 19 Jul 2024 17:00:00 +0800"
-    },
-    {
       "title": "Nguyen Phu Trong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nguyen%20Phu%20Trong",
       "pubdate": "Fri, 19 Jul 2024 22:00:00 +0800"
@@ -65,11 +65,6 @@
       "title": "Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bangladesh",
       "pubdate": "Fri, 19 Jul 2024 01:00:00 +0800"
-    },
-    {
-      "title": "Bob Newhart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bob%20Newhart",
-      "pubdate": "Fri, 19 Jul 2024 11:00:00 +0800"
     },
     {
       "title": "Rafael Nadal",
@@ -100,6 +95,11 @@
       "title": "The Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Open",
       "pubdate": "Thu, 18 Jul 2024 23:00:00 +0800"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
+      "pubdate": "Thu, 18 Jul 2024 02:00:00 +0800"
     }
   ]
 }

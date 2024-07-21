@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-07-2024 , 23:36:03",
+  "lastUpdate": "21-07-2024 , 01:50:04",
   "data": [
+    {
+      "title": "Lucas Bergvall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucas%20Bergvall",
+      "pubdate": "Sun, 21 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Kalmar FF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
@@ -15,11 +20,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
       "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Strömavbrott Gotland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Str%C3%B6mavbrott%20Gotland",
-      "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Värnamo mot Häcken",
@@ -42,8 +42,13 @@
       "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Sirius mot Malmö FF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20mot%20Malm%C3%B6%20FF",
+      "title": "Bruce Springsteen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
+      "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Sirius",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
       "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
     },
     {
@@ -52,9 +57,9 @@
       "pubdate": "Fri, 19 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Bruce Springsteen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
-      "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
+      "title": "Microsoft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Microsoft",
+      "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Bangladesh",
@@ -95,11 +100,6 @@
       "title": "The Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Open",
       "pubdate": "Wed, 17 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "The Bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Bear",
-      "pubdate": "Wed, 17 Jul 2024 02:00:00 +0200"
     }
   ]
 }
