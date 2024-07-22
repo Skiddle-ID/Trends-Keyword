@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 23:37:12",
+  "lastUpdate": "22-07-2024 , 01:47:15",
   "data": [
     {
       "title": "Comeback",
@@ -7,19 +7,24 @@
       "pubdate": "Mon, 22 Jul 2024 01:00:00 +0300"
     },
     {
+      "title": "Josh Shapiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Josh%20Shapiro",
+      "pubdate": "Mon, 22 Jul 2024 02:00:00 +0300"
+    },
+    {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamala%20Harris",
       "pubdate": "Sun, 21 Jul 2024 22:00:00 +0300"
     },
     {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
+      "pubdate": "Sun, 21 Jul 2024 19:00:00 +0300"
+    },
+    {
       "title": "Mike Perry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mike%20Perry",
       "pubdate": "Sun, 21 Jul 2024 03:00:00 +0300"
-    },
-    {
-      "title": "Formula 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Formula%201",
-      "pubdate": "Sun, 21 Jul 2024 19:00:00 +0300"
     },
     {
       "title": "Gavin Newsom",
@@ -95,11 +100,6 @@
       "title": "Robert Helenius",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robert%20Helenius",
       "pubdate": "Fri, 19 Jul 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Melania Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Melania%20Trump",
-      "pubdate": "Fri, 19 Jul 2024 11:00:00 +0300"
     }
   ]
 }

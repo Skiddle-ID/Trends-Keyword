@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "21-07-2024 , 23:37:16",
+  "lastUpdate": "22-07-2024 , 01:47:19",
   "data": [
+    {
+      "title": "Utøya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ut%C3%B8ya",
+      "pubdate": "Mon, 22 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kamala%20Harris",
-      "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
+      "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Rosenborg mot Lillestrøm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20mot%20Lillestr%C3%B8m",
       "pubdate": "Sun, 21 Jul 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Mike Perry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mike%20Perry",
+      "pubdate": "Sun, 21 Jul 2024 03:00:00 +0200"
     },
     {
       "title": "Jack Ma",
@@ -25,11 +35,6 @@
       "title": "Var",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Var",
       "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Jake Paul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jake%20Paul",
-      "pubdate": "Sun, 21 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "John Fredriksen",
@@ -72,9 +77,19 @@
       "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
     },
     {
+      "title": "Tadej Pogacar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tadej%20Pogacar",
+      "pubdate": "Sun, 21 Jul 2024 23:00:00 +0200"
+    },
+    {
       "title": "Bruce Springsteen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bruce%20Springsteen",
       "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Molde mot KFUM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20mot%20KFUM",
+      "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Manchester United",
@@ -85,21 +100,6 @@
       "title": "Kronprins Haakon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kronprins%20Haakon",
       "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-      "pubdate": "Sat, 20 Jul 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Armie Hammer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Armie%20Hammer",
-      "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Sarpsborg 08",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
-      "pubdate": "Sat, 20 Jul 2024 22:00:00 +0200"
     }
   ]
 }
