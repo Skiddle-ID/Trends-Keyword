@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "22-07-2024 , 11:35:05",
+  "lastUpdate": "22-07-2024 , 12:53:24",
   "data": [
     {
       "title": "Sao Paulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
       "pubdate": "Sun, 21 Jul 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Fluminense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
+      "pubdate": "Sun, 21 Jul 2024 09:00:00 -0500"
     },
     {
       "title": "Vasco",
@@ -22,24 +27,14 @@
       "pubdate": "Sun, 21 Jul 2024 07:00:00 -0500"
     },
     {
-      "title": "Fluminense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense",
-      "pubdate": "Sun, 21 Jul 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Cuiabá x Fluminense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20x%20Fluminense",
-      "pubdate": "Sun, 21 Jul 2024 09:00:00 -0500"
-    },
-    {
       "title": "Fortaleza x Atlético-GO",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Atl%C3%A9tico-GO",
       "pubdate": "Sun, 21 Jul 2024 12:00:00 -0500"
     },
     {
-      "title": "Cruzeiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
-      "pubdate": "Sun, 21 Jul 2024 18:00:00 -0500"
+      "title": "Bragantino x Athletico-PR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino%20x%20Athletico-PR",
+      "pubdate": "Sun, 21 Jul 2024 17:00:00 -0500"
     },
     {
       "title": "Renato Aragão",
@@ -47,14 +42,14 @@
       "pubdate": "Sun, 21 Jul 2024 14:00:00 -0500"
     },
     {
-      "title": "Bragantino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
-      "pubdate": "Sun, 21 Jul 2024 17:00:00 -0500"
-    },
-    {
       "title": "Guarani x Goiás",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20Goi%C3%A1s",
       "pubdate": "Sun, 21 Jul 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Atletico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico",
+      "pubdate": "Sun, 21 Jul 2024 17:00:00 -0500"
     },
     {
       "title": "De Bruyne",
@@ -67,19 +62,19 @@
       "pubdate": "Sun, 21 Jul 2024 16:00:00 -0500"
     },
     {
-      "title": "Jake Paul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jake%20Paul",
-      "pubdate": "Sun, 21 Jul 2024 02:00:00 -0500"
-    },
-    {
       "title": "Botafogo-SP x Brusque",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20Brusque",
       "pubdate": "Sun, 21 Jul 2024 17:00:00 -0500"
     },
     {
-      "title": "F1 classificação",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#F1%20classifica%C3%A7%C3%A3o",
-      "pubdate": "Sun, 21 Jul 2024 11:00:00 -0500"
+      "title": "River Plate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
+      "pubdate": "Sun, 21 Jul 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Jake Paul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jake%20Paul",
+      "pubdate": "Sun, 21 Jul 2024 02:00:00 -0500"
     },
     {
       "title": "Todo Mundo em panico",
@@ -87,19 +82,24 @@
       "pubdate": "Sun, 21 Jul 2024 08:00:00 -0500"
     },
     {
+      "title": "Verstappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Verstappen",
+      "pubdate": "Sun, 21 Jul 2024 14:00:00 -0500"
+    },
+    {
       "title": "Michelle Obama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michelle%20Obama",
       "pubdate": "Sun, 21 Jul 2024 14:00:00 -0500"
     },
     {
-      "title": "Botafogo-PB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
-      "pubdate": "Sun, 21 Jul 2024 19:00:00 -0500"
-    },
-    {
       "title": "Andre Ramalho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andre%20Ramalho",
       "pubdate": "Sun, 21 Jul 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Botafogo-PB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
+      "pubdate": "Sun, 21 Jul 2024 19:00:00 -0500"
     }
   ]
 }

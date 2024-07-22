@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 11:35:05",
+  "lastUpdate": "22-07-2024 , 12:53:25",
   "data": [
     {
       "title": "Williams Lake fire",
@@ -22,6 +22,11 @@
       "pubdate": "Mon, 22 Jul 2024 00:00:00 -0400"
     },
     {
+      "title": "Nipah virus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nipah%20virus",
+      "pubdate": "Mon, 22 Jul 2024 07:00:00 -0400"
+    },
+    {
       "title": "Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Biden",
       "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
@@ -35,11 +40,6 @@
       "title": "Josh Shapiro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Shapiro",
       "pubdate": "Sun, 21 Jul 2024 16:00:00 -0400"
-    },
-    {
-      "title": "Mark Kelly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Kelly",
-      "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
     },
     {
       "title": "Gavin Newsom",
@@ -57,24 +57,19 @@
       "pubdate": "Sun, 21 Jul 2024 16:00:00 -0400"
     },
     {
-      "title": "National Ice Cream Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#National%20Ice%20Cream%20Day",
-      "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
-    },
-    {
       "title": "Joe Manchin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Manchin",
       "pubdate": "Sun, 21 Jul 2024 20:00:00 -0400"
     },
     {
-      "title": "Biden age",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Biden%20age",
-      "pubdate": "Sun, 21 Jul 2024 23:00:00 -0400"
+      "title": "Mod",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mod",
+      "pubdate": "Sun, 21 Jul 2024 10:00:00 -0400"
     },
     {
-      "title": "Oscar Piastri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oscar%20Piastri",
-      "pubdate": "Sun, 21 Jul 2024 12:00:00 -0400"
+      "title": "National Ice Cream Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#National%20Ice%20Cream%20Day",
+      "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
     },
     {
       "title": "Andy Beshear",
@@ -100,6 +95,11 @@
       "title": "RFK Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RFK%20Jr",
       "pubdate": "Sun, 21 Jul 2024 23:00:00 -0400"
+    },
+    {
+      "title": "Esta TerBlanche",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Esta%20TerBlanche",
+      "pubdate": "Sun, 21 Jul 2024 20:00:00 -0400"
     }
   ]
 }
