@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "22-07-2024 , 01:47:18",
+  "lastUpdate": "22-07-2024 , 02:48:45",
   "data": [
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Biden",
+      "title": "Kamala Harris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kamala%20Harris",
       "pubdate": "Mon, 22 Jul 2024 07:00:00 +1200"
     },
     {
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
     },
     {
-      "title": "Xander Schauffele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Xander%20Schauffele",
-      "pubdate": "Mon, 22 Jul 2024 00:00:00 +1200"
+      "title": "Timer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Timer",
+      "pubdate": "Mon, 22 Jul 2024 13:00:00 +1200"
     },
     {
       "title": "Snake",
@@ -27,9 +27,9 @@
       "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
     },
     {
-      "title": "Classroom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Classroom",
-      "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
+      "title": "Xander Schauffele",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Xander%20Schauffele",
+      "pubdate": "Mon, 22 Jul 2024 00:00:00 +1200"
     },
     {
       "title": "Slides",
@@ -37,14 +37,19 @@
       "pubdate": "Mon, 22 Jul 2024 11:00:00 +1200"
     },
     {
-      "title": "Hero",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
-      "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
-    },
-    {
       "title": "Teams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Teams",
       "pubdate": "Mon, 22 Jul 2024 11:00:00 +1200"
+    },
+    {
+      "title": "Drive",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drive",
+      "pubdate": "Mon, 22 Jul 2024 13:00:00 +1200"
+    },
+    {
+      "title": "Hero",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
+      "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
     },
     {
       "title": "Kenneth Law",
@@ -52,8 +57,8 @@
       "pubdate": "Mon, 22 Jul 2024 11:00:00 +1200"
     },
     {
-      "title": "Word",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Word",
+      "title": "Gavin Newsom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gavin%20Newsom",
       "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
     },
     {
@@ -62,14 +67,14 @@
       "pubdate": "Mon, 22 Jul 2024 08:00:00 +1200"
     },
     {
+      "title": "Moana Pasifika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Moana%20Pasifika",
+      "pubdate": "Mon, 22 Jul 2024 13:00:00 +1200"
+    },
+    {
       "title": "Hillary Clinton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hillary%20Clinton",
       "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
-    },
-    {
-      "title": "Gavin Newsom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gavin%20Newsom",
-      "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
     },
     {
       "title": "USA vs South Sudan",
@@ -77,19 +82,14 @@
       "pubdate": "Sun, 21 Jul 2024 10:00:00 +1200"
     },
     {
-      "title": "Orana Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Orana%20Park",
-      "pubdate": "Sun, 21 Jul 2024 19:00:00 +1200"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Manchester%20United",
-      "pubdate": "Sun, 21 Jul 2024 12:00:00 +1200"
-    },
-    {
       "title": "Rangers vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rangers%20vs%20Man%20United",
       "pubdate": "Sun, 21 Jul 2024 09:00:00 +1200"
+    },
+    {
+      "title": "The Holiday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Holiday",
+      "pubdate": "Sun, 21 Jul 2024 22:00:00 +1200"
     },
     {
       "title": "Panthers vs Dolphins",

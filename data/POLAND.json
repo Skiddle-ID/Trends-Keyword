@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 01:47:19",
+  "lastUpdate": "22-07-2024 , 02:48:45",
   "data": [
     {
       "title": "Tadej Pogacar",
@@ -32,11 +32,6 @@
       "pubdate": "Sun, 21 Jul 2024 16:00:00 +0200"
     },
     {
-      "title": "KSW",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
-      "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
-    },
-    {
       "title": "Cracovia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cracovia",
       "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
@@ -62,9 +57,19 @@
       "pubdate": "Sun, 21 Jul 2024 11:00:00 +0200"
     },
     {
+      "title": "K2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#K2",
+      "pubdate": "Sun, 21 Jul 2024 13:00:00 +0200"
+    },
+    {
       "title": "GKS Tychy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Tychy",
       "pubdate": "Sun, 21 Jul 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Tesc postrzelil ziecia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tesc%20postrzelil%20ziecia",
+      "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
     },
     {
       "title": "Zagłębie Sosnowiec",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "Oprawa Legii",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oprawa%20Legii",
+      "pubdate": "Sun, 21 Jul 2024 12:00:00 +0200"
+    },
+    {
       "title": "Unia Leszno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Unia%20Leszno",
       "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Izrael",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Izrael",
-      "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "K2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#K2",
-      "pubdate": "Sun, 21 Jul 2024 18:00:00 +0200"
     }
   ]
 }
