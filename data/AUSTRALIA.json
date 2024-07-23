@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 11:35:28",
+  "lastUpdate": "23-07-2024 , 12:52:34",
   "data": [
     {
       "title": "Travis Scott",
@@ -10,11 +10,6 @@
       "title": "Kimberly Cheatle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kimberly%20Cheatle",
       "pubdate": "Tue, 23 Jul 2024 09:00:00 +1000"
-    },
-    {
-      "title": "OnGuard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#OnGuard",
-      "pubdate": "Tue, 23 Jul 2024 11:00:00 +1000"
     },
     {
       "title": "Tasmanian Labradoodles",
@@ -35,6 +30,16 @@
       "title": "LeBron James",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LeBron%20James",
       "pubdate": "Tue, 23 Jul 2024 17:00:00 +1000"
+    },
+    {
+      "title": "Paris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris",
+      "pubdate": "Tue, 23 Jul 2024 22:00:00 +1000"
+    },
+    {
+      "title": "Australia Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20Cup",
+      "pubdate": "Tue, 23 Jul 2024 22:00:00 +1000"
     },
     {
       "title": "Lucy-Bleu Knight",
@@ -62,14 +67,14 @@
       "pubdate": "Mon, 22 Jul 2024 11:00:00 +1000"
     },
     {
-      "title": "Xander Schauffele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Xander%20Schauffele",
-      "pubdate": "Mon, 22 Jul 2024 03:00:00 +1000"
-    },
-    {
       "title": "Vladimir Putin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vladimir%20Putin",
       "pubdate": "Mon, 22 Jul 2024 18:00:00 +1000"
+    },
+    {
+      "title": "Xander Schauffele",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Xander%20Schauffele",
+      "pubdate": "Mon, 22 Jul 2024 05:00:00 +1000"
     },
     {
       "title": "Max Verstappen",
@@ -95,11 +100,6 @@
       "title": "US election",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#US%20election",
       "pubdate": "Mon, 22 Jul 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Mal Meninga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mal%20Meninga",
-      "pubdate": "Mon, 22 Jul 2024 23:00:00 +1000"
     }
   ]
 }
