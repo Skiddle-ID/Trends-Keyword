@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "22-07-2024 , 23:35:58",
+  "lastUpdate": "23-07-2024 , 01:45:03",
   "data": [
+    {
+      "title": "Tsmc ADR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Tsmc%20ADR",
+      "pubdate": "Tue, 23 Jul 2024 02:00:00 +0800"
+    },
     {
       "title": "ADR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#ADR",
       "pubdate": "Tue, 23 Jul 2024 00:00:00 +0800"
-    },
-    {
-      "title": "歐陽娣娣",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AD%90%E9%99%BD%E5%A8%A3%E5%A8%A3",
-      "pubdate": "Tue, 23 Jul 2024 06:00:00 +0800"
     },
     {
       "title": "拜登",
@@ -17,14 +17,9 @@
       "pubdate": "Mon, 22 Jul 2024 04:00:00 +0800"
     },
     {
-      "title": "台股",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E8%82%A1",
-      "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
-    },
-    {
       "title": "台積電",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-      "pubdate": "Mon, 22 Jul 2024 11:00:00 +0800"
+      "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
     },
     {
       "title": "林靖恩",
@@ -32,14 +27,14 @@
       "pubdate": "Mon, 22 Jul 2024 15:00:00 +0800"
     },
     {
-      "title": "2NE1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2NE1",
-      "pubdate": "Mon, 22 Jul 2024 00:00:00 +0800"
-    },
-    {
       "title": "雲豹能源",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9B%B2%E8%B1%B9%E8%83%BD%E6%BA%90",
       "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
+    },
+    {
+      "title": "2NE1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2NE1",
+      "pubdate": "Mon, 22 Jul 2024 00:00:00 +0800"
     },
     {
       "title": "長離",
@@ -62,11 +57,6 @@
       "pubdate": "Mon, 22 Jul 2024 17:00:00 +0800"
     },
     {
-      "title": "台風",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E9%A2%A8",
-      "pubdate": "Mon, 22 Jul 2024 00:00:00 +0800"
-    },
-    {
       "title": "合一",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%88%E4%B8%80",
       "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
@@ -75,6 +65,11 @@
       "title": "融資維持率",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%9E%8D%E8%B3%87%E7%B6%AD%E6%8C%81%E7%8E%87",
       "pubdate": "Mon, 22 Jul 2024 17:00:00 +0800"
+    },
+    {
+      "title": "劉真",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E7%9C%9F",
+      "pubdate": "Mon, 22 Jul 2024 12:00:00 +0800"
     },
     {
       "title": "謝國樑",
@@ -94,12 +89,17 @@
     {
       "title": "颱風",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A2%B1%E9%A2%A8",
-      "pubdate": "Sun, 21 Jul 2024 16:00:00 +0800"
+      "pubdate": "Sun, 21 Jul 2024 11:00:00 +0800"
     },
     {
       "title": "萬安演習",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%90%AC%E5%AE%89%E6%BC%94%E7%BF%92",
       "pubdate": "Sun, 21 Jul 2024 18:00:00 +0800"
+    },
+    {
+      "title": "蘇慧倫",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E6%85%A7%E5%80%AB",
+      "pubdate": "Sun, 21 Jul 2024 19:00:00 +0800"
     }
   ]
 }

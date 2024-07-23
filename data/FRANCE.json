@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "22-07-2024 , 23:35:52",
+  "lastUpdate": "23-07-2024 , 01:44:56",
   "data": [
     {
       "title": "Snoop Dogg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Snoop%20Dogg",
+      "pubdate": "Tue, 23 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Village olympique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Village%20olympique",
       "pubdate": "Tue, 23 Jul 2024 00:00:00 +0200"
     },
     {
@@ -12,14 +17,19 @@
       "pubdate": "Mon, 22 Jul 2024 12:00:00 +0200"
     },
     {
+      "title": "Ceremonie ouverture JO 2024 heure",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ceremonie%20ouverture%20JO%202024%20heure",
+      "pubdate": "Mon, 22 Jul 2024 00:00:00 +0200"
+    },
+    {
       "title": "Gérald Darmanin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#G%C3%A9rald%20Darmanin",
       "pubdate": "Mon, 22 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Ceremonie ouverture JO 2024 heure",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ceremonie%20ouverture%20JO%202024%20heure",
-      "pubdate": "Mon, 22 Jul 2024 00:00:00 +0200"
+      "title": "Fabien Namias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fabien%20Namias",
+      "pubdate": "Mon, 22 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Gerard Garouste",
@@ -37,9 +47,9 @@
       "pubdate": "Mon, 22 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Antoine Dupont",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Antoine%20Dupont",
-      "pubdate": "Mon, 22 Jul 2024 21:00:00 +0200"
+      "title": "Saint-Pierre-en-Faucigny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint-Pierre-en-Faucigny",
+      "pubdate": "Mon, 22 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Secret Service",
@@ -47,19 +57,9 @@
       "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Saint-Pierre-en-Faucigny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint-Pierre-en-Faucigny",
-      "pubdate": "Mon, 22 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Laurent Wauquiez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Wauquiez",
       "pubdate": "Mon, 22 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Damso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Damso",
-      "pubdate": "Mon, 22 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "Euro U19",
@@ -72,6 +72,16 @@
       "pubdate": "Mon, 22 Jul 2024 19:00:00 +0200"
     },
     {
+      "title": "Damso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Damso",
+      "pubdate": "Mon, 22 Jul 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Antoine Dupont",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Antoine%20Dupont",
+      "pubdate": "Mon, 22 Jul 2024 21:00:00 +0200"
+    },
+    {
       "title": "Alma Dufour",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alma%20Dufour",
       "pubdate": "Mon, 22 Jul 2024 10:00:00 +0200"
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Arthur Fils",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Fils",
-      "pubdate": "Sun, 21 Jul 2024 18:00:00 +0200"
+      "title": "Haute-Marne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Haute-Marne",
+      "pubdate": "Sun, 21 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Paul Watson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Watson",
       "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Tadej Pogacar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tadej%20Pogacar",
-      "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Girmay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Girmay",
-      "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
     }
   ]
 }
