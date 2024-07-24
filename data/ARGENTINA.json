@@ -1,9 +1,29 @@
 {
-  "lastUpdate": "24-07-2024 , 11:35:13",
+  "lastUpdate": "24-07-2024 , 12:52:11",
   "data": [
+    {
+      "title": "Liga Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
+      "pubdate": "Wed, 24 Jul 2024 08:00:00 -0300"
+    },
+    {
+      "title": "Futbol argentino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
+      "pubdate": "Wed, 24 Jul 2024 03:00:00 -0300"
+    },
+    {
+      "title": "Meta AI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Meta%20AI",
+      "pubdate": "Wed, 24 Jul 2024 09:00:00 -0300"
+    },
     {
       "title": "Lanata",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lanata",
+      "pubdate": "Wed, 24 Jul 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Geronimo Rauch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Geronimo%20Rauch",
       "pubdate": "Wed, 24 Jul 2024 00:00:00 -0300"
     },
     {
@@ -17,6 +37,11 @@
       "pubdate": "Wed, 24 Jul 2024 00:00:00 -0300"
     },
     {
+      "title": "Inauguracion Juegos olimpicos 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inauguracion%20Juegos%20olimpicos%202024",
+      "pubdate": "Wed, 24 Jul 2024 02:00:00 -0300"
+    },
+    {
       "title": "Los Antiguos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Antiguos",
       "pubdate": "Wed, 24 Jul 2024 03:00:00 -0300"
@@ -25,6 +50,16 @@
       "title": "Manchester City CelticFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20CelticFC",
       "pubdate": "Tue, 23 Jul 2024 14:00:00 -0300"
+    },
+    {
+      "title": "Independiente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente",
+      "pubdate": "Tue, 23 Jul 2024 20:00:00 -0300"
+    },
+    {
+      "title": "Javier Milei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Milei",
+      "pubdate": "Tue, 23 Jul 2024 16:00:00 -0300"
     },
     {
       "title": "Independiente  Barracas Central",
@@ -47,9 +82,14 @@
       "pubdate": "Tue, 23 Jul 2024 15:00:00 -0300"
     },
     {
-      "title": "Argentina Juegos olimpicos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20Juegos%20olimpicos",
-      "pubdate": "Tue, 23 Jul 2024 04:00:00 -0300"
+      "title": "Argentina vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20vs",
+      "pubdate": "Tue, 23 Jul 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Milei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milei",
+      "pubdate": "Tue, 23 Jul 2024 21:00:00 -0300"
     },
     {
       "title": "Ozzy Osbourne",
@@ -60,46 +100,6 @@
       "title": "Ryan Reynolds",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ryan%20Reynolds",
       "pubdate": "Tue, 23 Jul 2024 03:00:00 -0300"
-    },
-    {
-      "title": "Javier Milei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Javier%20Milei",
-      "pubdate": "Tue, 23 Jul 2024 22:00:00 -0300"
-    },
-    {
-      "title": "Virus woke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Virus%20woke",
-      "pubdate": "Tue, 23 Jul 2024 08:00:00 -0300"
-    },
-    {
-      "title": "Alberto martin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alberto%20martin",
-      "pubdate": "Tue, 23 Jul 2024 22:00:00 -0300"
-    },
-    {
-      "title": "Valentín Gómez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Valent%C3%ADn%20G%C3%B3mez",
-      "pubdate": "Tue, 23 Jul 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Villarruel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Villarruel",
-      "pubdate": "Tue, 23 Jul 2024 01:00:00 -0300"
-    },
-    {
-      "title": "Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Italia",
-      "pubdate": "Tue, 23 Jul 2024 23:00:00 -0300"
-    },
-    {
-      "title": "Argentinosjuniors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentinosjuniors",
-      "pubdate": "Tue, 23 Jul 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Galoppo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Galoppo",
-      "pubdate": "Tue, 23 Jul 2024 15:00:00 -0300"
     }
   ]
 }

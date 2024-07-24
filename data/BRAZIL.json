@@ -1,14 +1,34 @@
 {
-  "lastUpdate": "24-07-2024 , 11:35:14",
+  "lastUpdate": "24-07-2024 , 12:52:12",
   "data": [
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
+      "pubdate": "Wed, 24 Jul 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Caio Blat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caio%20Blat",
+      "pubdate": "Wed, 24 Jul 2024 06:00:00 -0500"
+    },
     {
       "title": "Wegovy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wegovy",
       "pubdate": "Wed, 24 Jul 2024 00:00:00 -0500"
     },
     {
+      "title": "Charlotte Dujardin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Charlotte%20Dujardin",
+      "pubdate": "Wed, 24 Jul 2024 07:00:00 -0500"
+    },
+    {
       "title": "Internacional x Rosario",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Rosario",
+      "pubdate": "Tue, 23 Jul 2024 18:00:00 -0500"
+    },
+    {
+      "title": "City x Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Celtic",
       "pubdate": "Tue, 23 Jul 2024 18:00:00 -0500"
     },
     {
@@ -22,14 +42,14 @@
       "pubdate": "Tue, 23 Jul 2024 16:00:00 -0500"
     },
     {
-      "title": "Mirassol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
-      "pubdate": "Tue, 23 Jul 2024 14:00:00 -0500"
-    },
-    {
       "title": "Ituano x América-MG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ituano%20x%20Am%C3%A9rica-MG",
       "pubdate": "Tue, 23 Jul 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Mirassol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
+      "pubdate": "Tue, 23 Jul 2024 14:00:00 -0500"
     },
     {
       "title": "Operário x Novorizontino",
@@ -47,11 +67,6 @@
       "pubdate": "Tue, 23 Jul 2024 09:00:00 -0500"
     },
     {
-      "title": "Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtic",
-      "pubdate": "Tue, 23 Jul 2024 19:00:00 -0500"
-    },
-    {
       "title": "Chapecoense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
       "pubdate": "Tue, 23 Jul 2024 11:00:00 -0500"
@@ -60,6 +75,11 @@
       "title": "Carteira de Identidade Nacional",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carteira%20de%20Identidade%20Nacional",
       "pubdate": "Tue, 23 Jul 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Fenerbahçe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
+      "pubdate": "Tue, 23 Jul 2024 14:00:00 -0500"
     },
     {
       "title": "Vivian Jenna Wilson",
@@ -72,34 +92,14 @@
       "pubdate": "Tue, 23 Jul 2024 15:00:00 -0500"
     },
     {
-      "title": "Ariano Suassuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ariano%20Suassuna",
-      "pubdate": "Tue, 23 Jul 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Fenerbahçe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-      "pubdate": "Tue, 23 Jul 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Junior Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Junior%20Santos",
-      "pubdate": "Tue, 23 Jul 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Celine Dion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celine%20Dion",
-      "pubdate": "Tue, 23 Jul 2024 22:00:00 -0500"
-    },
-    {
       "title": "Sport Recife",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife",
       "pubdate": "Tue, 23 Jul 2024 16:00:00 -0500"
     },
     {
-      "title": "Rayssa Leal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rayssa%20Leal",
-      "pubdate": "Tue, 23 Jul 2024 10:00:00 -0500"
+      "title": "Ariano Suassuna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ariano%20Suassuna",
+      "pubdate": "Tue, 23 Jul 2024 13:00:00 -0500"
     }
   ]
 }
