@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2024 , 01:44:52",
+  "lastUpdate": "24-07-2024 , 02:46:59",
   "data": [
     {
       "title": "Alabama Barker",
@@ -12,9 +12,9 @@
       "pubdate": "Tue, 23 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "Alice Babs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Babs",
-      "pubdate": "Tue, 23 Jul 2024 21:00:00 +0200"
+      "title": "Titti Sjöblom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Titti%20Sj%C3%B6blom",
+      "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Peter Hunt",
@@ -35,11 +35,6 @@
       "title": "Södertälje",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%B6dert%C3%A4lje",
       "pubdate": "Tue, 23 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Northvolt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
-      "pubdate": "Tue, 23 Jul 2024 08:00:00 +0200"
     },
     {
       "title": "Deadpool & Wolverine",
@@ -100,6 +95,11 @@
       "title": "IFK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK",
       "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
+      "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
     }
   ]
 }

@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "24-07-2024 , 01:44:50",
+  "lastUpdate": "24-07-2024 , 02:46:57",
   "data": [
+    {
+      "title": "Śląsk Wrocław",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Al%C4%85sk%20Wroc%C5%82aw",
+      "pubdate": "Wed, 24 Jul 2024 04:00:00 +0200"
+    },
     {
       "title": "Etna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Etna",
       "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Marta Lempart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marta%20Lempart",
+      "title": "Amy Winehouse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amy%20Winehouse",
       "pubdate": "Wed, 24 Jul 2024 01:00:00 +0200"
     },
     {
@@ -17,8 +22,8 @@
       "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "FK Panevėžys – Jagiellonia Białystok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FK%20Panev%C4%97%C5%BEys%20%E2%80%93%20Jagiellonia%20Bia%C5%82ystok",
+      "title": "FK panevėžys – Jagiellonia Białystok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FK%20panev%C4%97%C5%BEys%20%E2%80%93%20Jagiellonia%20Bia%C5%82ystok",
       "pubdate": "Tue, 23 Jul 2024 18:00:00 +0200"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Snoop Dogg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Snoop%20Dogg",
-      "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Kimberly Cheatle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kimberly%20Cheatle",
-      "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+      "title": "Ewa Sałacka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Sa%C5%82acka",
+      "pubdate": "Tue, 23 Jul 2024 18:00:00 +0200"
     }
   ]
 }

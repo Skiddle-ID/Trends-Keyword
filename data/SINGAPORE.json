@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "24-07-2024 , 01:44:51",
+  "lastUpdate": "24-07-2024 , 02:46:58",
   "data": [
-    {
-      "title": "USA basketball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USA%20basketball",
-      "pubdate": "Wed, 24 Jul 2024 05:00:00 +0800"
-    },
     {
       "title": "Sonya Massey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sonya%20Massey",
       "pubdate": "Wed, 24 Jul 2024 06:00:00 +0800"
+    },
+    {
+      "title": "USA basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USA%20basketball",
+      "pubdate": "Wed, 24 Jul 2024 05:00:00 +0800"
     },
     {
       "title": "Tesla earnings",
@@ -17,9 +17,19 @@
       "pubdate": "Wed, 24 Jul 2024 08:00:00 +0800"
     },
     {
+      "title": "Ryan Reynolds",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ryan%20Reynolds",
+      "pubdate": "Wed, 24 Jul 2024 09:00:00 +0800"
+    },
+    {
       "title": "COE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
       "pubdate": "Wed, 24 Jul 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Eth ETF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Eth%20ETF",
+      "pubdate": "Wed, 24 Jul 2024 09:00:00 +0800"
     },
     {
       "title": "Deadpool and Wolverine",
@@ -90,16 +100,6 @@
       "title": "Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bangladesh",
       "pubdate": "Sun, 21 Jul 2024 18:00:00 +0800"
-    },
-    {
-      "title": "Mark Chay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mark%20Chay",
-      "pubdate": "Sun, 21 Jul 2024 12:00:00 +0800"
-    },
-    {
-      "title": "MyRepublic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MyRepublic",
-      "pubdate": "Sun, 21 Jul 2024 11:00:00 +0800"
     }
   ]
 }
