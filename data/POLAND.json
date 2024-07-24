@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "23-07-2024 , 23:36:13",
+  "lastUpdate": "24-07-2024 , 01:44:50",
   "data": [
-    {
-      "title": "Suntago",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Suntago",
-      "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
-    },
     {
       "title": "Etna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Etna",
       "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Marta Lempart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marta%20Lempart",
+      "pubdate": "Wed, 24 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "SGH",
@@ -17,8 +17,8 @@
       "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "FK panevėžys – Jagiellonia Białystok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FK%20panev%C4%97%C5%BEys%20%E2%80%93%20Jagiellonia%20Bia%C5%82ystok",
+      "title": "FK Panevėžys – Jagiellonia Białystok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FK%20Panev%C4%97%C5%BEys%20%E2%80%93%20Jagiellonia%20Bia%C5%82ystok",
       "pubdate": "Tue, 23 Jul 2024 18:00:00 +0200"
     },
     {
@@ -40,11 +40,6 @@
       "title": "Tesla Cybertruck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tesla%20Cybertruck",
       "pubdate": "Tue, 23 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Rosja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rosja",
-      "pubdate": "Tue, 23 Jul 2024 18:00:00 +0200"
     },
     {
       "title": "Waldemar Sługocki",
@@ -97,9 +92,14 @@
       "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Ewa Sałacka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Sa%C5%82acka",
-      "pubdate": "Tue, 23 Jul 2024 18:00:00 +0200"
+      "title": "Snoop Dogg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Snoop%20Dogg",
+      "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Kimberly Cheatle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kimberly%20Cheatle",
+      "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
     }
   ]
 }

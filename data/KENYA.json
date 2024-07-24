@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-07-2024 , 23:36:12",
+  "lastUpdate": "24-07-2024 , 01:44:49",
   "data": [
+    {
+      "title": "Man City vs Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Celtic",
+      "pubdate": "Wed, 24 Jul 2024 02:00:00 +0300"
+    },
     {
       "title": "Kenya protests",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20protests",
@@ -32,8 +37,8 @@
       "pubdate": "Tue, 23 Jul 2024 20:00:00 +0300"
     },
     {
-      "title": "Public Service Commission",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Public%20Service%20Commission",
+      "title": "Public service commission",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Public%20service%20commission",
       "pubdate": "Tue, 23 Jul 2024 14:00:00 +0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Joe%20Biden",
       "pubdate": "Sun, 21 Jul 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Sodium cyanide toxicity",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sodium%20cyanide%20toxicity",
-      "pubdate": "Sun, 21 Jul 2024 00:00:00 +0300"
     }
   ]
 }
