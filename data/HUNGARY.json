@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2024 , 23:35:12",
+  "lastUpdate": "25-07-2024 , 01:44:29",
   "data": [
     {
       "title": "Ponthatárok 2024",
@@ -22,8 +22,23 @@
       "pubdate": "Wed, 24 Jul 2024 14:00:00 +0200"
     },
     {
+      "title": "Dunavölgyi Erzsébet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dunav%C3%B6lgyi%20Erzs%C3%A9bet",
+      "pubdate": "Wed, 24 Jul 2024 19:00:00 +0200"
+    },
+    {
       "title": "BGE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BGE",
+      "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Noszály Sándor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nosz%C3%A1ly%20S%C3%A1ndor",
+      "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
+    },
+    {
+      "title": "ELTE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ELTE",
       "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
     },
     {
@@ -32,14 +47,19 @@
       "pubdate": "Wed, 24 Jul 2024 20:00:00 +0200"
     },
     {
+      "title": "BME",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BME",
+      "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Yellowstone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yellowstone",
       "pubdate": "Wed, 24 Jul 2024 17:00:00 +0200"
     },
     {
-      "title": "BME",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BME",
-      "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
+      "title": "Jaguar F-Pace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jaguar%20F-Pace",
+      "pubdate": "Wed, 24 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Robin Williams",
@@ -47,19 +67,14 @@
       "pubdate": "Wed, 24 Jul 2024 10:00:00 +0200"
     },
     {
-      "title": "Gyémánt László",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C3%A9m%C3%A1nt%20L%C3%A1szl%C3%B3",
-      "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "NER",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NER",
       "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Karsai Dániel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Karsai%20D%C3%A1niel",
-      "pubdate": "Wed, 24 Jul 2024 19:00:00 +0200"
+      "title": "Gyémánt László",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C3%A9m%C3%A1nt%20L%C3%A1szl%C3%B3",
+      "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Halle Berry",
@@ -72,11 +87,6 @@
       "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
     },
     {
-      "title": "Tompos Kátya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tompos%20K%C3%A1tya",
-      "pubdate": "Wed, 24 Jul 2024 02:00:00 +0200"
-    },
-    {
       "title": "Széchenyi István Egyetem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A9chenyi%20Istv%C3%A1n%20Egyetem",
       "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Milák Kristóf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
-      "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Sándor Fegyir",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ndor%20Fegyir",
-      "pubdate": "Wed, 24 Jul 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Perez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Perez",
-      "pubdate": "Wed, 24 Jul 2024 18:00:00 +0200"
+      "title": "Tompos Kátya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tompos%20K%C3%A1tya",
+      "pubdate": "Wed, 24 Jul 2024 02:00:00 +0200"
     }
   ]
 }

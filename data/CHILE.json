@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2024 , 23:35:09",
+  "lastUpdate": "25-07-2024 , 01:44:27",
   "data": [
     {
       "title": "Alejandro Tabilo",
@@ -10,6 +10,16 @@
       "title": "Juegos olimpicos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juegos%20olimpicos",
       "pubdate": "Wed, 24 Jul 2024 12:00:00 -0400"
+    },
+    {
+      "title": "Knotfest Chile 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Knotfest%20Chile%202024",
+      "pubdate": "Wed, 24 Jul 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Godoy Cruz  River Plate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Godoy%20Cruz%20%20River%20Plate",
+      "pubdate": "Wed, 24 Jul 2024 19:00:00 -0400"
     },
     {
       "title": "Celine Dion",
@@ -32,9 +42,9 @@
       "pubdate": "Wed, 24 Jul 2024 10:00:00 -0400"
     },
     {
-      "title": "Juegos Olímpicos 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juegos%20Ol%C3%ADmpicos%202024",
-      "pubdate": "Wed, 24 Jul 2024 16:00:00 -0400"
+      "title": "Guillermo ramirez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Guillermo%20ramirez",
+      "pubdate": "Wed, 24 Jul 2024 08:00:00 -0400"
     },
     {
       "title": "Kaminski",
@@ -42,14 +52,14 @@
       "pubdate": "Wed, 24 Jul 2024 14:00:00 -0400"
     },
     {
-      "title": "Knotfest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Knotfest",
-      "pubdate": "Wed, 24 Jul 2024 17:00:00 -0400"
-    },
-    {
       "title": "Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing",
       "pubdate": "Wed, 24 Jul 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Boca Juniors . Independiente del Valle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20.%20Independiente%20del%20Valle",
+      "pubdate": "Wed, 24 Jul 2024 20:00:00 -0400"
     },
     {
       "title": "Argentina vs Marruecos",
@@ -57,8 +67,8 @@
       "pubdate": "Tue, 23 Jul 2024 22:00:00 -0400"
     },
     {
-      "title": "Manchester City CelticFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20CelticFC",
+      "title": "Manchester City  Celtic FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Celtic%20FC",
       "pubdate": "Tue, 23 Jul 2024 16:00:00 -0400"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Internacional",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Internacional",
       "pubdate": "Tue, 23 Jul 2024 22:00:00 -0400"
-    },
-    {
-      "title": "Yellowstone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Yellowstone",
-      "pubdate": "Tue, 23 Jul 2024 21:00:00 -0400"
-    },
-    {
-      "title": "Palestino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
-      "pubdate": "Tue, 23 Jul 2024 21:00:00 -0400"
     }
   ]
 }
