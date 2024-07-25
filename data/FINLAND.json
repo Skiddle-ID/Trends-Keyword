@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "25-07-2024 , 11:35:27",
+  "lastUpdate": "25-07-2024 , 12:52:16",
   "data": [
-    {
-      "title": "Olympic football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olympic%20football",
-      "pubdate": "Thu, 25 Jul 2024 00:00:00 +0300"
-    },
     {
       "title": "Arsenal – Bournemouth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Bournemouth",
       "pubdate": "Thu, 25 Jul 2024 10:00:00 +0300"
     },
     {
+      "title": "Olympic football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olympic%20football",
+      "pubdate": "Thu, 25 Jul 2024 00:00:00 +0300"
+    },
+    {
       "title": "Menendez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Menendez",
       "pubdate": "Thu, 25 Jul 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Hugh Jackman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugh%20Jackman",
+      "pubdate": "Thu, 25 Jul 2024 14:00:00 +0300"
     },
     {
       "title": "Chelsea – Wrexham",
@@ -95,11 +100,6 @@
       "title": "Charlotte Dujardin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Charlotte%20Dujardin",
       "pubdate": "Tue, 23 Jul 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Sonya Massey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sonya%20Massey",
-      "pubdate": "Tue, 23 Jul 2024 19:00:00 +0300"
     }
   ]
 }
