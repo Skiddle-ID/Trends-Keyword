@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-07-2024 , 11:35:21",
+  "lastUpdate": "26-07-2024 , 12:51:14",
   "data": [
+    {
+      "title": "Raayan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Raayan",
+      "pubdate": "Fri, 26 Jul 2024 00:00:00 +0800"
+    },
     {
       "title": "Hugh Jackman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hugh%20Jackman",
@@ -17,14 +22,9 @@
       "pubdate": "Fri, 26 Jul 2024 16:00:00 +0800"
     },
     {
-      "title": "2024 Summer Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#2024%20Summer%20Olympics",
-      "pubdate": "Fri, 26 Jul 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Olympics 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Olympics%202024",
-      "pubdate": "Thu, 25 Jul 2024 12:00:00 +0800"
+      "title": "Olympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Olympics",
+      "pubdate": "Thu, 25 Jul 2024 03:00:00 +0800"
     },
     {
       "title": "Chelsea vs Wrexham",
@@ -50,6 +50,16 @@
       "title": "Netanyahu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Netanyahu",
       "pubdate": "Thu, 25 Jul 2024 16:00:00 +0800"
+    },
+    {
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Argentina",
+      "pubdate": "Thu, 25 Jul 2024 12:00:00 +0800"
+    },
+    {
+      "title": "Olympic football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Olympic%20football",
+      "pubdate": "Thu, 25 Jul 2024 11:00:00 +0800"
     },
     {
       "title": "Presumed Innocent",
@@ -90,16 +100,6 @@
       "title": "Taiwan Typhoon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
       "pubdate": "Tue, 23 Jul 2024 20:00:00 +0800"
-    },
-    {
-      "title": "Kimberly Cheatle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kimberly%20Cheatle",
-      "pubdate": "Tue, 23 Jul 2024 07:00:00 +0800"
-    },
-    {
-      "title": "Benjamin Netanyahu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benjamin%20Netanyahu",
-      "pubdate": "Tue, 23 Jul 2024 19:00:00 +0800"
     }
   ]
 }

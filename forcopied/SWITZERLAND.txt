@@ -1,1 +1,1 @@
-SNCF,Xenia Adonts,SearchGPT,Aya Nakamura,Bordeaux,Faber,Michael Lang,El Mayo,Konstanz,Conference League,Zaho de Sagazan,Ava Kris Tyson,Calogero,FC St.Gallen,Nestle Aktie,Hotel waldhaus Flims,Leonard,Nina Christen,Pascal Danel,Julian Marley
+SNCF,Euro-Airport,SearchGPT,Xenia Adonts,Aya Nakamura,Bordeaux,Michael Lang,Faber,Europa-League,El Mayo,Konstanz,St.Gallen – Tobol,Conference League,Calogero,Zaho de Sagazan,Ava Kris Tyson,Nestle Aktie,Hotel Waldhaus Flims,Leonard,Nina Christen
