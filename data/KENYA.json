@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "25-07-2024 , 23:35:14",
+  "lastUpdate": "26-07-2024 , 01:43:45",
   "data": [
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
-      "pubdate": "Thu, 25 Jul 2024 07:00:00 +0300"
-    },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
@@ -32,11 +27,6 @@
       "pubdate": "Thu, 25 Jul 2024 16:00:00 +0300"
     },
     {
-      "title": "Riccardo Calafiori",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Riccardo%20Calafiori",
-      "pubdate": "Thu, 25 Jul 2024 16:00:00 +0300"
-    },
-    {
       "title": "Mason Greenwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mason%20Greenwood",
       "pubdate": "Thu, 25 Jul 2024 18:00:00 +0300"
@@ -60,6 +50,11 @@
       "title": "Olympics 2024 schedule",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Olympics%202024%20schedule",
       "pubdate": "Wed, 24 Jul 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Olympics 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Olympics%202024",
+      "pubdate": "Wed, 24 Jul 2024 19:00:00 +0300"
     },
     {
       "title": "Man City",
@@ -100,6 +95,11 @@
       "title": "Alfred Mutua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alfred%20Mutua",
       "pubdate": "Wed, 24 Jul 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Deadpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Deadpool",
+      "pubdate": "Wed, 24 Jul 2024 00:00:00 +0300"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "25-07-2024 , 23:35:12",
+  "lastUpdate": "26-07-2024 , 01:43:43",
   "data": [
-    {
-      "title": "Brand Konstanz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Konstanz",
-      "pubdate": "Thu, 25 Jul 2024 10:00:00 +0200"
-    },
     {
       "title": "Kerber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kerber",
       "pubdate": "Thu, 25 Jul 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Brand Konstanz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Konstanz",
+      "pubdate": "Thu, 25 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "DFB-Frauen",
@@ -27,19 +27,14 @@
       "pubdate": "Wed, 24 Jul 2024 23:00:00 +0200"
     },
     {
-      "title": "Olaf Scholz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
-      "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
+      "title": "Islamisches Zentrum Hamburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Islamisches%20Zentrum%20Hamburg",
+      "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Hannah Herzsprung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannah%20Herzsprung",
       "pubdate": "Wed, 24 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Islamisches Zentrum Hamburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Islamisches%20Zentrum%20Hamburg",
-      "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Taylor Swift Hamburg",
@@ -100,6 +95,11 @@
       "title": "Präsident",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pr%C3%A4sident",
       "pubdate": "Fri, 19 Jul 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Pogacar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
+      "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
     }
   ]
 }

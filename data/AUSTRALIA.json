@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2024 , 23:35:09",
+  "lastUpdate": "26-07-2024 , 01:43:39",
   "data": [
     {
       "title": "Fallout: London",
@@ -15,6 +15,11 @@
       "title": "The Decameron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Decameron",
       "pubdate": "Fri, 26 Jul 2024 00:00:00 +1000"
+    },
+    {
+      "title": "Jennifer Aniston",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jennifer%20Aniston",
+      "pubdate": "Fri, 26 Jul 2024 09:00:00 +1000"
     },
     {
       "title": "Olympics",
@@ -47,6 +52,11 @@
       "pubdate": "Thu, 25 Jul 2024 13:00:00 +1000"
     },
     {
+      "title": "Jasper wildfires",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jasper%20wildfires",
+      "pubdate": "Thu, 25 Jul 2024 19:00:00 +1000"
+    },
+    {
       "title": "Olympics soccer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olympics%20soccer",
       "pubdate": "Thu, 25 Jul 2024 09:00:00 +1000"
@@ -55,16 +65,6 @@
       "title": "Katy Perry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katy%20Perry",
       "pubdate": "Thu, 25 Jul 2024 12:00:00 +1000"
-    },
-    {
-      "title": "Jasper wildfires",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jasper%20wildfires",
-      "pubdate": "Thu, 25 Jul 2024 19:00:00 +1000"
-    },
-    {
-      "title": "Faculty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Faculty",
-      "pubdate": "Thu, 25 Jul 2024 10:00:00 +1000"
     },
     {
       "title": "Arsenal",
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 25 Jul 2024 17:00:00 +1000"
     },
     {
-      "title": "Rupert Murdoch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rupert%20Murdoch",
-      "pubdate": "Thu, 25 Jul 2024 20:00:00 +1000"
+      "title": "Warrnambool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Warrnambool",
+      "pubdate": "Thu, 25 Jul 2024 09:00:00 +1000"
     }
   ]
 }
