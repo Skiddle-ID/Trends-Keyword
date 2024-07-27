@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-07-2024 , 23:35:33",
+  "lastUpdate": "27-07-2024 , 01:42:50",
   "data": [
+    {
+      "title": "Zinedine Zidane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zinedine%20Zidane",
+      "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
+    },
     {
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nadal",
@@ -12,13 +17,18 @@
       "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Piotr Lisek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Lisek",
+      "title": "Kto zapalił znicz olimpijski 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kto%20zapali%C5%82%20znicz%20olimpijski%202024",
       "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
     },
     {
       "title": "Europe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Europe",
+      "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Piotr Lisek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Lisek",
       "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
     },
     {
@@ -37,6 +47,11 @@
       "pubdate": "Fri, 26 Jul 2024 18:00:00 +0200"
     },
     {
+      "title": "Lechia – Motor Lublin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20%E2%80%93%20Motor%20Lublin",
+      "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
+    },
+    {
       "title": "TVP SPORT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20SPORT",
       "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
@@ -47,19 +62,9 @@
       "pubdate": "Fri, 26 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Lechia – Motor Lublin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20%E2%80%93%20Motor%20Lublin",
-      "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
-    },
-    {
       "title": "Jakub Józef Orliński",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20J%C3%B3zef%20Orli%C5%84ski",
       "pubdate": "Fri, 26 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Zidane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zidane",
-      "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
     },
     {
       "title": "Snoop Dogg",
@@ -72,11 +77,6 @@
       "pubdate": "Fri, 26 Jul 2024 11:00:00 +0200"
     },
     {
-      "title": "Zwolnienie brak stanika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zwolnienie%20brak%20stanika",
-      "pubdate": "Fri, 26 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "Anita Włodarczyk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anita%20W%C5%82odarczyk",
       "pubdate": "Fri, 26 Jul 2024 15:00:00 +0200"
@@ -87,19 +87,19 @@
       "pubdate": "Fri, 26 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Tvp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tvp",
-      "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
+      "title": "Francja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Francja",
+      "pubdate": "Fri, 26 Jul 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Łódź Summer Festival 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81%C3%B3d%C5%BA%20Summer%20Festival%202024",
+      "pubdate": "Fri, 26 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Ewa Swoboda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Swoboda",
       "pubdate": "Fri, 26 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Thomas Bach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Thomas%20Bach",
-      "pubdate": "Fri, 26 Jul 2024 23:00:00 +0200"
     }
   ]
 }
