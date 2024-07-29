@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-07-2024 , 08:38:17",
+  "lastUpdate": "29-07-2024 , 09:35:04",
   "data": [
     {
       "title": "El espectador",
@@ -9,11 +9,6 @@
     {
       "title": "Golpe de Estado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Golpe%20de%20Estado",
-      "pubdate": "Mon, 29 Jul 2024 00:00:00 -0500"
-    },
-    {
-      "title": "El tiempo noticias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#El%20tiempo%20noticias",
       "pubdate": "Mon, 29 Jul 2024 00:00:00 -0500"
     },
     {
@@ -27,11 +22,6 @@
       "pubdate": "Sun, 28 Jul 2024 07:00:00 -0500"
     },
     {
-      "title": "Google Fotos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Google%20Fotos",
-      "pubdate": "Sun, 28 Jul 2024 09:00:00 -0500"
-    },
-    {
       "title": "Caracol TV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol%20TV",
       "pubdate": "Sun, 28 Jul 2024 22:00:00 -0500"
@@ -42,9 +32,9 @@
       "pubdate": "Sun, 28 Jul 2024 17:00:00 -0500"
     },
     {
-      "title": "El tiempo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#El%20tiempo",
-      "pubdate": "Sun, 28 Jul 2024 23:00:00 -0500"
+      "title": "Noticias Caracol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Noticias%20Caracol",
+      "pubdate": "Sun, 28 Jul 2024 18:00:00 -0500"
     },
     {
       "title": "Luisa Blanco",
@@ -55,11 +45,6 @@
       "title": "Simone Biles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Simone%20Biles",
       "pubdate": "Sun, 28 Jul 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Noticias Caracol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Noticias%20Caracol",
-      "pubdate": "Sun, 28 Jul 2024 18:00:00 -0500"
     },
     {
       "title": "Hugo chavez",
@@ -75,6 +60,11 @@
       "title": "LeBron James",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#LeBron%20James",
       "pubdate": "Sun, 28 Jul 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Falcao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Falcao",
+      "pubdate": "Sun, 28 Jul 2024 01:00:00 -0500"
     },
     {
       "title": "Chavez",
@@ -100,6 +90,16 @@
       "title": "Bull Terrier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bull%20Terrier",
       "pubdate": "Sun, 28 Jul 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Mono' Zabaleta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Mono'%20Zabaleta",
+      "pubdate": "Sun, 28 Jul 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Feid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Feid",
+      "pubdate": "Sun, 28 Jul 2024 08:00:00 -0500"
     }
   ]
 }
