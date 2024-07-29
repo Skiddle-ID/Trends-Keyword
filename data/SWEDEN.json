@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "28-07-2024 , 23:35:25",
+  "lastUpdate": "29-07-2024 , 01:47:46",
   "data": [
     {
       "title": "Hammarby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
       "pubdate": "Sun, 28 Jul 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Lilla Edet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lilla%20Edet",
-      "pubdate": "Sun, 28 Jul 2024 19:00:00 +0200"
     },
     {
       "title": "UFC",
@@ -22,6 +17,16 @@
       "pubdate": "Sun, 28 Jul 2024 18:00:00 +0200"
     },
     {
+      "title": "Luana Alonso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luana%20Alonso",
+      "pubdate": "Sun, 28 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "E45",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#E45",
+      "pubdate": "Sun, 28 Jul 2024 19:00:00 +0200"
+    },
+    {
       "title": "Anton Källberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anton%20K%C3%A4llberg",
       "pubdate": "Sun, 28 Jul 2024 13:00:00 +0200"
@@ -32,6 +37,11 @@
       "pubdate": "Sun, 28 Jul 2024 05:00:00 +0200"
     },
     {
+      "title": "Samuel Dahl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samuel%20Dahl",
+      "pubdate": "Sun, 28 Jul 2024 14:00:00 +0200"
+    },
+    {
       "title": "Hammarby Mjällby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Mj%C3%A4llby",
       "pubdate": "Sun, 28 Jul 2024 18:00:00 +0200"
@@ -40,11 +50,6 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
       "pubdate": "Sun, 28 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Samuel Dahl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samuel%20Dahl",
-      "pubdate": "Sun, 28 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "Gävle",
@@ -59,6 +64,11 @@
     {
       "title": "Ferrari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ferrari",
+      "pubdate": "Sun, 28 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Handboll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Handboll",
       "pubdate": "Sun, 28 Jul 2024 15:00:00 +0200"
     },
     {
@@ -77,11 +87,6 @@
       "pubdate": "Sat, 27 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Sverige OS 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20OS%202024",
-      "pubdate": "Sat, 27 Jul 2024 10:00:00 +0200"
-    },
-    {
       "title": "Eurojackpot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eurojackpot",
       "pubdate": "Sat, 27 Jul 2024 03:00:00 +0200"
@@ -92,13 +97,8 @@
       "pubdate": "Sat, 27 Jul 2024 18:00:00 +0200"
     },
     {
-      "title": "Malmö FF mot Sirius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Sirius",
-      "pubdate": "Sat, 27 Jul 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Malmö FF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+      "title": "OS sverige 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS%20sverige%202024",
       "pubdate": "Sat, 27 Jul 2024 21:00:00 +0200"
     }
   ]

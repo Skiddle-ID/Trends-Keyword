@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-07-2024 , 23:35:21",
+  "lastUpdate": "29-07-2024 , 01:47:41",
   "data": [
     {
       "title": "Porto vs al-nassr",
@@ -27,14 +27,14 @@
       "pubdate": "Sun, 28 Jul 2024 05:00:00 +0700"
     },
     {
-      "title": "Chelsea vs Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea%20vs%20Celtic",
-      "pubdate": "Sun, 28 Jul 2024 03:00:00 +0700"
-    },
-    {
       "title": "Ustadz Nuzul Dzikri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ustadz%20Nuzul%20Dzikri",
       "pubdate": "Sun, 28 Jul 2024 13:00:00 +0700"
+    },
+    {
+      "title": "Chelsea vs Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea%20vs%20Celtic",
+      "pubdate": "Sun, 28 Jul 2024 03:00:00 +0700"
     },
     {
       "title": "Dr Doom",
@@ -57,11 +57,6 @@
       "pubdate": "Sun, 28 Jul 2024 12:00:00 +0700"
     },
     {
-      "title": "Jadwal dan Hasil Olimpiade Paris 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jadwal%20dan%20Hasil%20Olimpiade%20Paris%202024",
-      "pubdate": "Sun, 28 Jul 2024 09:00:00 +0700"
-    },
-    {
       "title": "Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter",
       "pubdate": "Sun, 28 Jul 2024 06:00:00 +0700"
@@ -70,6 +65,16 @@
       "title": "Fantastic Four",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fantastic%20Four",
       "pubdate": "Sun, 28 Jul 2024 15:00:00 +0700"
+    },
+    {
+      "title": "Piala liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Piala%20liga",
+      "pubdate": "Sun, 28 Jul 2024 09:00:00 +0700"
+    },
+    {
+      "title": "Denny Sumargo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Denny%20Sumargo",
+      "pubdate": "Sun, 28 Jul 2024 13:00:00 +0700"
     },
     {
       "title": "Argentina vs Irak",
@@ -95,11 +100,6 @@
       "title": "AVC U20",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AVC%20U20",
       "pubdate": "Sun, 28 Jul 2024 18:00:00 +0700"
-    },
-    {
-      "title": "Indonesia vs Malaysia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20vs%20Malaysia",
-      "pubdate": "Sat, 27 Jul 2024 15:00:00 +0700"
     }
   ]
 }

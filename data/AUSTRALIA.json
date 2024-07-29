@@ -1,10 +1,30 @@
 {
-  "lastUpdate": "28-07-2024 , 23:35:16",
+  "lastUpdate": "29-07-2024 , 01:47:37",
   "data": [
     {
       "title": "Matildas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
       "pubdate": "Mon, 29 Jul 2024 04:00:00 +1000"
+    },
+    {
+      "title": "Venezuela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Venezuela",
+      "pubdate": "Mon, 29 Jul 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Andrew O'Keefe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20O'Keefe",
+      "pubdate": "Mon, 29 Jul 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Clare O'Neil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clare%20O'Neil",
+      "pubdate": "Mon, 29 Jul 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Jamie Elliott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20Elliott",
+      "pubdate": "Mon, 29 Jul 2024 10:00:00 +1000"
     },
     {
       "title": "Football Olympics",
@@ -27,6 +47,11 @@
       "pubdate": "Sun, 28 Jul 2024 14:00:00 +1000"
     },
     {
+      "title": "Medal tally Paris Olympics 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Medal%20tally%20Paris%20Olympics%202024",
+      "pubdate": "Sun, 28 Jul 2024 07:00:00 +1000"
+    },
+    {
       "title": "Rugby 7s Olympics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby%207s%20Olympics",
       "pubdate": "Sun, 28 Jul 2024 09:00:00 +1000"
@@ -47,9 +72,9 @@
       "pubdate": "Sun, 28 Jul 2024 17:00:00 +1000"
     },
     {
-      "title": "Paddy Pimblett",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paddy%20Pimblett",
-      "pubdate": "Sun, 28 Jul 2024 18:00:00 +1000"
+      "title": "Belgian GP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Belgian%20GP",
+      "pubdate": "Sun, 28 Jul 2024 14:00:00 +1000"
     },
     {
       "title": "Olympic surfing",
@@ -57,24 +82,14 @@
       "pubdate": "Sun, 28 Jul 2024 07:00:00 +1000"
     },
     {
-      "title": "Belgian GP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Belgian%20GP",
-      "pubdate": "Sun, 28 Jul 2024 14:00:00 +1000"
-    },
-    {
-      "title": "JD Vance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#JD%20Vance",
-      "pubdate": "Sun, 28 Jul 2024 23:00:00 +1000"
+      "title": "Australia at the Olympics medals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20at%20the%20Olympics%20medals",
+      "pubdate": "Sun, 28 Jul 2024 07:00:00 +1000"
     },
     {
       "title": "Tom Aspinall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tom%20Aspinall",
       "pubdate": "Sun, 28 Jul 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Olympic skateboarding",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olympic%20skateboarding",
-      "pubdate": "Sun, 28 Jul 2024 23:00:00 +1000"
     },
     {
       "title": "Liv Lovelace",
@@ -85,21 +100,6 @@
       "title": "Soccer Olympics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer%20Olympics",
       "pubdate": "Sun, 28 Jul 2024 10:00:00 +1000"
-    },
-    {
-      "title": "Druze",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Druze",
-      "pubdate": "Sun, 28 Jul 2024 18:00:00 +1000"
-    },
-    {
-      "title": "Cabinet reshuffle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cabinet%20reshuffle",
-      "pubdate": "Sun, 28 Jul 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Dragons vs Panthers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dragons%20vs%20Panthers",
-      "pubdate": "Sun, 28 Jul 2024 15:00:00 +1000"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "28-07-2024 , 23:35:25",
+  "lastUpdate": "29-07-2024 , 01:47:46",
   "data": [
+    {
+      "title": "Gymnastique Artistique Jeux Olympiques",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gymnastique%20Artistique%20Jeux%20Olympiques",
+      "pubdate": "Mon, 29 Jul 2024 01:00:00 +0200"
+    },
     {
       "title": "Amandine Buchard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amandine%20Buchard",
       "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Fußball Olympia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fu%C3%9Fball%20Olympia",
-      "pubdate": "Sun, 28 Jul 2024 01:00:00 +0200"
     },
     {
       "title": "Football Jeux olympiques",
@@ -37,9 +37,19 @@
       "pubdate": "Sun, 28 Jul 2024 15:00:00 +0200"
     },
     {
+      "title": "Zürich – Winterthur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20%E2%80%93%20Winterthur",
+      "pubdate": "Sun, 28 Jul 2024 17:00:00 +0200"
+    },
+    {
       "title": "Vetroz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vetroz",
       "pubdate": "Sun, 28 Jul 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Brünig-Schwinget",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Br%C3%BCnig-Schwinget",
+      "pubdate": "Sun, 28 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Leon Marchand",
@@ -52,19 +62,9 @@
       "pubdate": "Sun, 28 Jul 2024 06:00:00 +0200"
     },
     {
-      "title": "Dr Doom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dr%20Doom",
-      "pubdate": "Sun, 28 Jul 2024 11:00:00 +0200"
-    },
-    {
       "title": "Mountainbike Olympia 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mountainbike%20Olympia%202024",
       "pubdate": "Sun, 28 Jul 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Zürich – Winterthur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20%E2%80%93%20Winterthur",
-      "pubdate": "Sun, 28 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Lena Bickel",
@@ -82,11 +82,6 @@
       "pubdate": "Sun, 28 Jul 2024 16:00:00 +0200"
     },
     {
-      "title": "F1 Spa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Spa",
-      "pubdate": "Sun, 28 Jul 2024 13:00:00 +0200"
-    },
-    {
       "title": "Steven van de Velde",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Steven%20van%20de%20Velde",
       "pubdate": "Sun, 28 Jul 2024 10:00:00 +0200"
@@ -97,9 +92,14 @@
       "pubdate": "Sun, 28 Jul 2024 00:00:00 +0200"
     },
     {
-      "title": "Pavel Kotov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pavel%20Kotov",
-      "pubdate": "Sun, 28 Jul 2024 19:00:00 +0200"
+      "title": "Schwingen Brünig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwingen%20Br%C3%BCnig",
+      "pubdate": "Sun, 28 Jul 2024 11:00:00 +0200"
+    },
+    {
+      "title": "F1 Spa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Spa",
+      "pubdate": "Sun, 28 Jul 2024 13:00:00 +0200"
     }
   ]
 }

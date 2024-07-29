@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "28-07-2024 , 23:35:19",
+  "lastUpdate": "29-07-2024 , 01:47:40",
   "data": [
+    {
+      "title": "Loana Lecomte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loana%20Lecomte",
+      "pubdate": "Mon, 29 Jul 2024 03:00:00 +0300"
+    },
     {
       "title": "Coldplay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coldplay",
@@ -32,6 +37,11 @@
       "pubdate": "Sun, 28 Jul 2024 21:00:00 +0300"
     },
     {
+      "title": "Elton John",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elton%20John",
+      "pubdate": "Sun, 28 Jul 2024 18:00:00 +0300"
+    },
+    {
       "title": "Arsenal – manu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20manu",
       "pubdate": "Sun, 28 Jul 2024 08:00:00 +0300"
@@ -47,19 +57,24 @@
       "pubdate": "Sun, 28 Jul 2024 00:00:00 +0300"
     },
     {
-      "title": "Manchester City – AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20AC%20Milan",
-      "pubdate": "Sun, 28 Jul 2024 08:00:00 +0300"
-    },
-    {
       "title": "Gypsy Rose",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gypsy%20Rose",
       "pubdate": "Sun, 28 Jul 2024 16:00:00 +0300"
     },
     {
+      "title": "Manchester City – AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20AC%20Milan",
+      "pubdate": "Sun, 28 Jul 2024 08:00:00 +0300"
+    },
+    {
       "title": "Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Venezuela",
       "pubdate": "Sun, 28 Jul 2024 16:00:00 +0300"
+    },
+    {
+      "title": "Gypsy Rose crime scene photos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gypsy%20Rose%20crime%20scene%20photos",
+      "pubdate": "Sun, 28 Jul 2024 21:00:00 +0300"
     },
     {
       "title": "Chelsea – Celtic",
@@ -85,21 +100,6 @@
       "title": "Bee",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bee",
       "pubdate": "Sun, 28 Jul 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
-      "pubdate": "Sun, 28 Jul 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Thomas Jolly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Thomas%20Jolly",
-      "pubdate": "Sun, 28 Jul 2024 02:00:00 +0300"
-    },
-    {
-      "title": "LeBron James",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LeBron%20James",
-      "pubdate": "Sat, 27 Jul 2024 20:00:00 +0300"
     }
   ]
 }
