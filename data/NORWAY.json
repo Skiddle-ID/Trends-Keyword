@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-07-2024 , 23:36:24",
+  "lastUpdate": "30-07-2024 , 01:44:57",
   "data": [
     {
       "title": "Erica Ash",
@@ -22,19 +22,24 @@
       "pubdate": "Tue, 30 Jul 2024 00:00:00 +0200"
     },
     {
+      "title": "Simone Biles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Simone%20Biles",
+      "pubdate": "Mon, 29 Jul 2024 01:00:00 +0200"
+    },
+    {
       "title": "Southport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Southport",
       "pubdate": "Mon, 29 Jul 2024 17:00:00 +0200"
     },
     {
+      "title": "Nadal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nadal",
+      "pubdate": "Mon, 29 Jul 2024 15:00:00 +0200"
+    },
+    {
       "title": "Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Venezuela",
       "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Djokovic",
-      "pubdate": "Mon, 29 Jul 2024 15:00:00 +0200"
     },
     {
       "title": "Vålerenga",
@@ -47,19 +52,24 @@
       "pubdate": "Mon, 29 Jul 2024 04:00:00 +0200"
     },
     {
-      "title": "Rune Andersen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rune%20Andersen",
-      "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
-    },
-    {
       "title": "Trine Hattestad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trine%20Hattestad",
       "pubdate": "Mon, 29 Jul 2024 16:00:00 +0200"
     },
     {
+      "title": "Rune Andersen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rune%20Andersen",
+      "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
+    },
+    {
       "title": "Tatyana Ozolina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tatyana%20Ozolina",
       "pubdate": "Mon, 29 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Vavassori Tennis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vavassori%20Tennis",
+      "pubdate": "Mon, 29 Jul 2024 17:00:00 +0200"
     },
     {
       "title": "Viking FK",
@@ -82,24 +92,14 @@
       "pubdate": "Mon, 29 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Kristoffer Joner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristoffer%20Joner",
-      "pubdate": "Sun, 28 Jul 2024 16:00:00 +0200"
-    },
-    {
       "title": "Casper Ruud",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
       "pubdate": "Sun, 28 Jul 2024 21:00:00 +0200"
     },
     {
-      "title": "Anders Mol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anders%20Mol",
-      "pubdate": "Sun, 28 Jul 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Kristian Blummenfelt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Blummenfelt",
-      "pubdate": "Sun, 28 Jul 2024 21:00:00 +0200"
+      "title": "Kristoffer Joner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristoffer%20Joner",
+      "pubdate": "Sun, 28 Jul 2024 16:00:00 +0200"
     }
   ]
 }
