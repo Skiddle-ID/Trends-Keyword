@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "31-07-2024 , 11:36:13",
+  "lastUpdate": "31-07-2024 , 12:53:18",
   "data": [
     {
-      "title": "Barcelona–manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona%E2%80%93manchester%20City",
-      "pubdate": "Wed, 31 Jul 2024 01:00:00 +0200"
+      "title": "Póta Georgina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%B3ta%20Georgina",
+      "pubdate": "Wed, 31 Jul 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Bicsák Bence",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bics%C3%A1k%20Bence",
+      "pubdate": "Wed, 31 Jul 2024 10:00:00 +0200"
     },
     {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
-      "pubdate": "Wed, 31 Jul 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Telegdy Ádám",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Telegdy%20%C3%81d%C3%A1m",
       "pubdate": "Wed, 31 Jul 2024 12:00:00 +0200"
     },
     {
@@ -22,19 +22,19 @@
       "pubdate": "Wed, 31 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Lehmann Csongor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lehmann%20Csongor",
-      "pubdate": "Wed, 31 Jul 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Nyugdíjkorhatár",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nyugd%C3%ADjkorhat%C3%A1r",
-      "pubdate": "Wed, 31 Jul 2024 08:00:00 +0200"
-    },
-    {
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
       "pubdate": "Wed, 31 Jul 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Norvégia Magyarország",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Norv%C3%A9gia%20Magyarorsz%C3%A1g",
+      "pubdate": "Wed, 31 Jul 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Imane Khelif",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Imane%20Khelif",
+      "pubdate": "Wed, 31 Jul 2024 13:00:00 +0200"
     },
     {
       "title": "Tony Pankhurst",
@@ -47,11 +47,6 @@
       "pubdate": "Tue, 30 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Lakatos tician",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lakatos%20tician",
-      "pubdate": "Tue, 30 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "Angola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Angola",
       "pubdate": "Tue, 30 Jul 2024 16:00:00 +0200"
@@ -60,6 +55,11 @@
       "title": "Ungvári Attila",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ungv%C3%A1ri%20Attila",
       "pubdate": "Tue, 30 Jul 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Lakatos Ticián",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lakatos%20Tici%C3%A1n",
+      "pubdate": "Tue, 30 Jul 2024 11:00:00 +0200"
     },
     {
       "title": "Spanyol magyar vizilabda",
@@ -82,6 +82,11 @@
       "pubdate": "Tue, 30 Jul 2024 12:00:00 +0200"
     },
     {
+      "title": "Elhunyt Király Levente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elhunyt%20Kir%C3%A1ly%20Levente",
+      "pubdate": "Tue, 30 Jul 2024 19:00:00 +0200"
+    },
+    {
       "title": "Woke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Woke",
       "pubdate": "Tue, 30 Jul 2024 12:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Szinetár Miklós",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szinet%C3%A1r%20Mikl%C3%B3s",
       "pubdate": "Tue, 30 Jul 2024 05:00:00 +0200"
-    },
-    {
-      "title": "Sarki fény",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sarki%20f%C3%A9ny",
-      "pubdate": "Tue, 30 Jul 2024 21:00:00 +0200"
     }
   ]
 }

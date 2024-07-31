@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 11:36:18",
+  "lastUpdate": "31-07-2024 , 12:53:23",
   "data": [
     {
       "title": "Barcelona vs Man City",
@@ -17,14 +17,14 @@
       "pubdate": "Wed, 31 Jul 2024 08:00:00 +0200"
     },
     {
-      "title": "Bruce Willis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bruce%20Willis",
-      "pubdate": "Wed, 31 Jul 2024 05:00:00 +0200"
-    },
-    {
       "title": "Air Canada flight attendant blanket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Air%20Canada%20flight%20attendant%20blanket",
       "pubdate": "Wed, 31 Jul 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
+      "pubdate": "Wed, 31 Jul 2024 14:00:00 +0200"
     },
     {
       "title": "FC Barcelona",
@@ -87,11 +87,6 @@
       "pubdate": "Mon, 29 Jul 2024 20:00:00 +0200"
     },
     {
-      "title": "Tatjana Schoenmaker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tatjana%20Schoenmaker",
-      "pubdate": "Mon, 29 Jul 2024 23:00:00 +0200"
-    },
-    {
       "title": "Donald Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
       "pubdate": "Mon, 29 Jul 2024 23:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Cape Town International Airport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20International%20Airport",
       "pubdate": "Mon, 29 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Alan Hatherly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Alan%20Hatherly",
+      "pubdate": "Mon, 29 Jul 2024 16:00:00 +0200"
     }
   ]
 }

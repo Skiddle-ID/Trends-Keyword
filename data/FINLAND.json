@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "31-07-2024 , 11:36:12",
+  "lastUpdate": "31-07-2024 , 12:53:17",
   "data": [
-    {
-      "title": "Barcelona – Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Manchester%20City",
-      "pubdate": "Wed, 31 Jul 2024 06:00:00 +0300"
-    },
     {
       "title": "Ismail Haniyeh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ismail%20Haniyeh",
       "pubdate": "Wed, 31 Jul 2024 10:00:00 +0300"
     },
     {
+      "title": "Barcelona – Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Manchester%20City",
+      "pubdate": "Wed, 31 Jul 2024 06:00:00 +0300"
+    },
+    {
       "title": "Bermuda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bermuda",
       "pubdate": "Wed, 31 Jul 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Bruce Willis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Willis",
+      "pubdate": "Wed, 31 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Microsoft stock",
@@ -30,6 +35,11 @@
       "title": "Coco Gauff",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coco%20Gauff",
       "pubdate": "Wed, 31 Jul 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Alex Yee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alex%20Yee",
+      "pubdate": "Wed, 31 Jul 2024 15:00:00 +0300"
     },
     {
       "title": "Simone Biles",
@@ -72,9 +82,9 @@
       "pubdate": "Tue, 30 Jul 2024 22:00:00 +0300"
     },
     {
-      "title": "Simone Biles height",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Simone%20Biles%20height",
-      "pubdate": "Tue, 30 Jul 2024 22:00:00 +0300"
+      "title": "1.8",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#1.8",
+      "pubdate": "Tue, 30 Jul 2024 01:00:00 +0300"
     },
     {
       "title": "Hong Kong",
@@ -90,16 +100,6 @@
       "title": "Tom Pidcock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Pidcock",
       "pubdate": "Tue, 30 Jul 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rafael%20Nadal",
-      "pubdate": "Mon, 29 Jul 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Artistic gymnastics Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Artistic%20gymnastics%20Olympics",
-      "pubdate": "Mon, 29 Jul 2024 03:00:00 +0300"
     }
   ]
 }
