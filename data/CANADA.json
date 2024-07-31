@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2024 , 23:35:53",
+  "lastUpdate": "31-07-2024 , 01:27:54",
   "data": [
     {
       "title": "Rugby 7s Olympics",
@@ -17,9 +17,19 @@
       "pubdate": "Tue, 30 Jul 2024 13:00:00 -0400"
     },
     {
+      "title": "Beirut",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beirut",
+      "pubdate": "Tue, 30 Jul 2024 15:00:00 -0400"
+    },
+    {
       "title": "MLB trade deadline",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLB%20trade%20deadline",
       "pubdate": "Tue, 30 Jul 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Microsoft stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Microsoft%20stock",
+      "pubdate": "Tue, 30 Jul 2024 18:00:00 -0400"
     },
     {
       "title": "AMD stock",
@@ -32,14 +42,14 @@
       "pubdate": "Tue, 30 Jul 2024 01:00:00 -0400"
     },
     {
+      "title": "Blue Jays trades",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20trades",
+      "pubdate": "Tue, 30 Jul 2024 14:00:00 -0400"
+    },
+    {
       "title": "Chino XL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chino%20XL",
       "pubdate": "Tue, 30 Jul 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Beirut",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beirut",
-      "pubdate": "Tue, 30 Jul 2024 15:00:00 -0400"
     },
     {
       "title": "Coco Gauff",
@@ -47,14 +57,19 @@
       "pubdate": "Tue, 30 Jul 2024 13:00:00 -0400"
     },
     {
+      "title": "Imane Khelif",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Imane%20Khelif",
+      "pubdate": "Tue, 30 Jul 2024 14:00:00 -0400"
+    },
+    {
       "title": "Jennifer Aniston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
       "pubdate": "Tue, 30 Jul 2024 01:00:00 -0400"
     },
     {
-      "title": "Blue Jays trades",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Jays%20trades",
-      "pubdate": "Tue, 30 Jul 2024 14:00:00 -0400"
+      "title": "Ilya Kharun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ilya%20Kharun",
+      "pubdate": "Tue, 30 Jul 2024 16:00:00 -0400"
     },
     {
       "title": "Gabriel Medina",
@@ -67,14 +82,9 @@
       "pubdate": "Tue, 30 Jul 2024 16:00:00 -0400"
     },
     {
-      "title": "MSFT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MSFT",
-      "pubdate": "Tue, 30 Jul 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Barbara Butch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barbara%20Butch",
-      "pubdate": "Tue, 30 Jul 2024 17:00:00 -0400"
+      "title": "Hong Kong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hong%20Kong",
+      "pubdate": "Tue, 30 Jul 2024 10:00:00 -0400"
     },
     {
       "title": "Alaska",
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 30 Jul 2024 18:00:00 -0400"
     },
     {
-      "title": "Artistic gymnastics Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Artistic%20gymnastics%20Olympics",
-      "pubdate": "Mon, 29 Jul 2024 01:00:00 -0400"
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
+      "pubdate": "Tue, 30 Jul 2024 20:00:00 -0400"
     },
     {
-      "title": "Summer McIntosh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Summer%20McIntosh",
-      "pubdate": "Mon, 29 Jul 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Southport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Southport",
-      "pubdate": "Mon, 29 Jul 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Judo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Judo",
-      "pubdate": "Mon, 29 Jul 2024 12:00:00 -0400"
+      "title": "Microsoft outage",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Microsoft%20outage",
+      "pubdate": "Tue, 30 Jul 2024 20:00:00 -0400"
     }
   ]
 }

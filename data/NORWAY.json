@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2024 , 23:36:00",
+  "lastUpdate": "31-07-2024 , 01:27:59",
   "data": [
     {
       "title": "Beirut",
@@ -22,6 +22,11 @@
       "pubdate": "Tue, 30 Jul 2024 14:00:00 +0200"
     },
     {
+      "title": "Jon Olsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jon%20Olsson",
+      "pubdate": "Tue, 30 Jul 2024 22:00:00 +0200"
+    },
+    {
       "title": "Erica Ash",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erica%20Ash",
       "pubdate": "Tue, 30 Jul 2024 00:00:00 +0200"
@@ -37,9 +42,9 @@
       "pubdate": "Tue, 30 Jul 2024 15:00:00 +0200"
     },
     {
-      "title": "Jon Olsson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jon%20Olsson",
-      "pubdate": "Tue, 30 Jul 2024 22:00:00 +0200"
+      "title": "Triatlon: Ol 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Triatlon:%20Ol%202024",
+      "pubdate": "Tue, 30 Jul 2024 09:00:00 +0200"
     },
     {
       "title": "Coco Gauff",
@@ -55,6 +60,11 @@
       "title": "Carlos Sainz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carlos%20Sainz",
       "pubdate": "Tue, 30 Jul 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Nord-Korea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nord-Korea",
+      "pubdate": "Tue, 30 Jul 2024 16:00:00 +0200"
     },
     {
       "title": "Simone Biles",
@@ -90,16 +100,6 @@
       "title": "President Donald Trump!",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#President%20Donald%20Trump!",
       "pubdate": "Mon, 29 Jul 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Strømpriser",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8mpriser",
-      "pubdate": "Mon, 29 Jul 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Blummenfelt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Blummenfelt",
-      "pubdate": "Mon, 29 Jul 2024 12:00:00 +0200"
     }
   ]
 }

@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "30-07-2024 , 23:36:03",
+  "lastUpdate": "31-07-2024 , 01:28:02",
   "data": [
     {
-      "title": "河村勇輝",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B2%B3%E6%9D%91%E5%8B%87%E8%BC%9D",
-      "pubdate": "Wed, 31 Jul 2024 01:00:00 +0800"
+      "title": "奧運羽球男雙",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A5%A7%E9%81%8B%E7%BE%BD%E7%90%83%E7%94%B7%E9%9B%99",
+      "pubdate": "Wed, 31 Jul 2024 07:00:00 +0800"
+    },
+    {
+      "title": "輝達",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%BC%9D%E9%81%94",
+      "pubdate": "Wed, 31 Jul 2024 07:00:00 +0800"
+    },
+    {
+      "title": "林子宇",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%AD%90%E5%AE%87",
+      "pubdate": "Wed, 31 Jul 2024 08:00:00 +0800"
     },
     {
       "title": "吳少璿",
@@ -52,6 +62,11 @@
       "pubdate": "Tue, 30 Jul 2024 01:00:00 +0800"
     },
     {
+      "title": "蘇煒德",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E7%85%92%E5%BE%B7",
+      "pubdate": "Tue, 30 Jul 2024 13:00:00 +0800"
+    },
+    {
       "title": "白荊迴廊",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BD%E8%8D%8A%E8%BF%B4%E5%BB%8A",
       "pubdate": "Tue, 30 Jul 2024 08:00:00 +0800"
@@ -67,6 +82,16 @@
       "pubdate": "Tue, 30 Jul 2024 14:00:00 +0800"
     },
     {
+      "title": "微軟財報",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%AE%E8%BB%9F%E8%B2%A1%E5%A0%B1",
+      "pubdate": "Tue, 30 Jul 2024 23:00:00 +0800"
+    },
+    {
+      "title": "張家朗",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E5%AE%B6%E6%9C%97",
+      "pubdate": "Tue, 30 Jul 2024 07:00:00 +0800"
+    },
+    {
       "title": "北斗火災",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8C%97%E6%96%97%E7%81%AB%E7%81%BD",
       "pubdate": "Tue, 30 Jul 2024 15:00:00 +0800"
@@ -75,31 +100,6 @@
       "title": "百日咳",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BE%E6%97%A5%E5%92%B3",
       "pubdate": "Tue, 30 Jul 2024 20:00:00 +0800"
-    },
-    {
-      "title": "李千娜",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%8D%83%E5%A8%9C",
-      "pubdate": "Tue, 30 Jul 2024 23:00:00 +0800"
-    },
-    {
-      "title": "磁暴",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%A3%81%E6%9A%B4",
-      "pubdate": "Tue, 30 Jul 2024 23:00:00 +0800"
-    },
-    {
-      "title": "世界先進",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%96%E7%95%8C%E5%85%88%E9%80%B2",
-      "pubdate": "Tue, 30 Jul 2024 19:00:00 +0800"
-    },
-    {
-      "title": "奧運體操",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A5%A7%E9%81%8B%E9%AB%94%E6%93%8D",
-      "pubdate": "Tue, 30 Jul 2024 21:00:00 +0800"
-    },
-    {
-      "title": "名勝世界壹號",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%8D%E5%8B%9D%E4%B8%96%E7%95%8C%E5%A3%B9%E8%99%9F",
-      "pubdate": "Tue, 30 Jul 2024 15:00:00 +0800"
     }
   ]
 }
