@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:51",
+  "lastUpdate": "01-08-2024 , 23:35:19",
   "data": [
     {
       "title": "Kerber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kerber",
       "pubdate": "Thu, 01 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-      "pubdate": "Thu, 01 Aug 2024 16:00:00 +0200"
     },
     {
       "title": "Real Madrid",
@@ -20,16 +15,6 @@
       "title": "Lukas Märtens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20M%C3%A4rtens",
       "pubdate": "Thu, 01 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Anna-Maria Wagner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anna-Maria%20Wagner",
-      "pubdate": "Thu, 01 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Gefangenenaustausch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gefangenenaustausch",
-      "pubdate": "Thu, 01 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Mohammed Deif",
@@ -100,6 +85,21 @@
       "title": "FC Bayern München",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
       "pubdate": "Sun, 28 Jul 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+      "pubdate": "Sun, 28 Jul 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Nicole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nicole",
+      "pubdate": "Sun, 28 Jul 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Lukas Märtens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20M%C3%A4rtens",
+      "pubdate": "Sat, 27 Jul 2024 14:00:00 +0200"
     }
   ]
 }

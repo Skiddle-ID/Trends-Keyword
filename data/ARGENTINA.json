@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:47",
+  "lastUpdate": "01-08-2024 , 23:35:15",
   "data": [
     {
       "title": "Hiperandrogenismo",
@@ -30,11 +30,6 @@
       "title": "Los Leones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Leones",
       "pubdate": "Thu, 01 Aug 2024 14:00:00 -0300"
-    },
-    {
-      "title": "Rafael Nadal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rafael%20Nadal",
-      "pubdate": "Thu, 01 Aug 2024 00:00:00 -0300"
     },
     {
       "title": "August",
@@ -100,6 +95,11 @@
       "title": "Pachamama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachamama",
       "pubdate": "Wed, 31 Jul 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Caña con ruda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ca%C3%B1a%20con%20ruda",
+      "pubdate": "Wed, 31 Jul 2024 14:00:00 -0300"
     }
   ]
 }

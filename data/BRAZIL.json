@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:48",
+  "lastUpdate": "01-08-2024 , 23:35:16",
   "data": [
-    {
-      "title": "Flamengo x Palmeiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Palmeiras",
-      "pubdate": "Thu, 01 Aug 2024 16:00:00 -0500"
-    },
     {
       "title": "Flavia Saraiva",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flavia%20Saraiva",
@@ -30,16 +25,6 @@
       "title": "Rio Sena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rio%20Sena",
       "pubdate": "Thu, 01 Aug 2024 06:00:00 -0500"
-    },
-    {
-      "title": "1 de agosto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#1%20de%20agosto",
-      "pubdate": "Thu, 01 Aug 2024 05:00:00 -0500"
-    },
-    {
-      "title": "Volei de praia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volei%20de%20praia",
-      "pubdate": "Thu, 01 Aug 2024 10:00:00 -0500"
     },
     {
       "title": "Supla",
@@ -72,19 +57,9 @@
       "pubdate": "Thu, 01 Aug 2024 11:00:00 -0500"
     },
     {
-      "title": "Marido Simone Biles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marido%20Simone%20Biles",
-      "pubdate": "Thu, 01 Aug 2024 14:00:00 -0500"
-    },
-    {
       "title": "Raniele",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Raniele",
       "pubdate": "Thu, 01 Aug 2024 07:00:00 -0500"
-    },
-    {
-      "title": "CRB x Atlético-MG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB%20x%20Atl%C3%A9tico-MG",
-      "pubdate": "Wed, 31 Jul 2024 10:00:00 -0500"
     },
     {
       "title": "Surfe Olimpíadas",
@@ -92,14 +67,39 @@
       "pubdate": "Wed, 31 Jul 2024 22:00:00 -0500"
     },
     {
+      "title": "CRB x Atlético-MG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB%20x%20Atl%C3%A9tico-MG",
+      "pubdate": "Wed, 31 Jul 2024 10:00:00 -0500"
+    },
+    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
       "pubdate": "Wed, 31 Jul 2024 10:00:00 -0500"
     },
     {
-      "title": "Vasco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-      "pubdate": "Wed, 31 Jul 2024 20:00:00 -0500"
+      "title": "Athletico-PR x Bragantino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR%20x%20Bragantino",
+      "pubdate": "Wed, 31 Jul 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Boxe feminino olimpiadas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boxe%20feminino%20olimpiadas",
+      "pubdate": "Wed, 31 Jul 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Prime Video",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prime%20Video",
+      "pubdate": "Wed, 31 Jul 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Volei masculino olimpiadas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volei%20masculino%20olimpiadas",
+      "pubdate": "Wed, 31 Jul 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Volei feminino olimpiadas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volei%20feminino%20olimpiadas",
+      "pubdate": "Wed, 31 Jul 2024 08:00:00 -0500"
     }
   ]
 }

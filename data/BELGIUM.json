@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:48",
+  "lastUpdate": "01-08-2024 , 23:35:16",
   "data": [
     {
       "title": "Surf Jeux olympiques",
@@ -30,11 +30,6 @@
       "title": "Cercle  Kilmarnock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20Kilmarnock",
       "pubdate": "Thu, 01 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Oshin Derieuw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oshin%20Derieuw",
-      "pubdate": "Thu, 01 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Yusuf Dikec",
@@ -100,6 +95,11 @@
       "title": "Orage",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Orage",
       "pubdate": "Thu, 01 Aug 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Adrien Dumont de Chassart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adrien%20Dumont%20de%20Chassart",
+      "pubdate": "Thu, 01 Aug 2024 17:00:00 +0200"
     }
   ]
 }

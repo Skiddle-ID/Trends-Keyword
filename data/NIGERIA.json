@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:55",
+  "lastUpdate": "01-08-2024 , 23:35:22",
   "data": [
     {
       "title": "Surfing Olympics",
@@ -15,11 +15,6 @@
       "title": "Protest in Nigeria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Protest%20in%20Nigeria",
       "pubdate": "Thu, 01 Aug 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Protest in Nigeria today",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Protest%20in%20Nigeria%20today",
-      "pubdate": "Thu, 01 Aug 2024 08:00:00 +0100"
     },
     {
       "title": "August 1st",
@@ -100,6 +95,11 @@
       "title": "Rayful Edmond",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rayful%20Edmond",
       "pubdate": "Thu, 01 Aug 2024 21:00:00 +0100"
+    },
+    {
+      "title": "VPN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#VPN",
+      "pubdate": "Thu, 01 Aug 2024 19:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:52",
+  "lastUpdate": "01-08-2024 , 23:35:20",
   "data": [
     {
       "title": "Anshuman Gaekwad",
@@ -40,11 +40,6 @@
       "title": "Infosys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Infosys",
       "pubdate": "Thu, 01 Aug 2024 10:30:00 +0530"
-    },
-    {
-      "title": "Prannoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prannoy",
-      "pubdate": "Thu, 01 Aug 2024 08:30:00 +0530"
     },
     {
       "title": "Delhi Rain",
@@ -100,6 +95,11 @@
       "title": "Poco M6 Plus 5G",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Poco%20M6%20Plus%205G",
       "pubdate": "Thu, 01 Aug 2024 20:30:00 +0530"
+    },
+    {
+      "title": "Cricket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+      "pubdate": "Wed, 31 Jul 2024 05:30:00 +0530"
     }
   ]
 }

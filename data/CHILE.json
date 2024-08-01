@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 22:35:49",
+  "lastUpdate": "01-08-2024 , 23:35:17",
   "data": [
     {
       "title": "Surf olimpiadas",
@@ -35,11 +35,6 @@
       "title": "Temblor HOY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20HOY",
       "pubdate": "Thu, 01 Aug 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Maite Orsini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maite%20Orsini",
-      "pubdate": "Thu, 01 Aug 2024 12:00:00 -0400"
     },
     {
       "title": "Beneficios estudiantiles",
@@ -100,6 +95,11 @@
       "title": "Liverpool  Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Arsenal",
       "pubdate": "Wed, 31 Jul 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Manchester United  Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20%20Betis",
+      "pubdate": "Wed, 31 Jul 2024 22:00:00 -0400"
     }
   ]
 }
