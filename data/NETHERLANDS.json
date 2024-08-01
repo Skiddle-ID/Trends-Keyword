@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 23:36:34",
+  "lastUpdate": "01-08-2024 , 01:52:32",
   "data": [
     {
       "title": "Feyenoord",
@@ -24,6 +24,11 @@
     {
       "title": "Loretta Schrijver",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Loretta%20Schrijver",
+      "pubdate": "Wed, 31 Jul 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Omroep Brabant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Brabant",
       "pubdate": "Wed, 31 Jul 2024 17:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Openingsceremonie Olympische Spelen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Openingsceremonie%20Olympische%20Spelen",
       "pubdate": "Thu, 25 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Pfas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pfas",
-      "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
     }
   ]
 }
