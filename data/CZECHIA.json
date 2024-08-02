@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-08-2024 , 23:35:18",
+  "lastUpdate": "02-08-2024 , 01:44:45",
   "data": [
+    {
+      "title": "Zdeněk Prokeš",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20Proke%C5%A1",
+      "pubdate": "Fri, 02 Aug 2024 00:00:00 +0200"
+    },
     {
       "title": "Siniakova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
@@ -15,6 +20,11 @@
       "title": "Urartu – Baník",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Urartu%20%E2%80%93%20Ban%C3%ADk",
       "pubdate": "Thu, 01 Aug 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Počasí radar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C4%8Das%C3%AD%20radar",
+      "pubdate": "Thu, 01 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Transinvest – Boleslav",
@@ -35,6 +45,11 @@
       "title": "Cnb",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cnb",
       "pubdate": "Thu, 01 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Karolína Muchová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karol%C3%ADna%20Muchov%C3%A1",
+      "pubdate": "Thu, 01 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Tomáš Zástěra",
@@ -72,16 +87,6 @@
       "pubdate": "Wed, 31 Jul 2024 12:00:00 +0200"
     },
     {
-      "title": "Jan Hartl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Hartl",
-      "pubdate": "Wed, 31 Jul 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Millo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Millo",
-      "pubdate": "Wed, 31 Jul 2024 09:00:00 +0200"
-    },
-    {
       "title": "FCSB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FCSB",
       "pubdate": "Wed, 31 Jul 2024 23:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Minimální mzda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Minim%C3%A1ln%C3%AD%20mzda",
       "pubdate": "Wed, 31 Jul 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Chantal Poullain",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chantal%20Poullain",
-      "pubdate": "Wed, 31 Jul 2024 21:00:00 +0200"
     }
   ]
 }
