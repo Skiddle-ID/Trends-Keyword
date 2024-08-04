@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "03-08-2024 , 23:36:08",
+  "lastUpdate": "04-08-2024 , 01:51:04",
   "data": [
-    {
-      "title": "Juve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve",
-      "pubdate": "Sun, 04 Aug 2024 00:00:00 +0200"
-    },
     {
       "title": "MotoGP Sprint",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGP%20Sprint",
       "pubdate": "Sun, 04 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Il silenzio grande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20silenzio%20grande",
+      "pubdate": "Sun, 04 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "Anthony Ammirati",
@@ -27,19 +27,29 @@
       "pubdate": "Sun, 04 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Musetti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Musetti",
-      "pubdate": "Sat, 03 Aug 2024 12:00:00 +0200"
+      "title": "Tutta colpa di Freud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tutta%20colpa%20di%20Freud",
+      "pubdate": "Sun, 04 Aug 2024 02:00:00 +0200"
     },
     {
-      "title": "Juventus  Brest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus%20%20Brest",
-      "pubdate": "Sat, 03 Aug 2024 10:00:00 +0200"
+      "title": "Musetti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Musetti",
+      "pubdate": "Sat, 03 Aug 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Juventus-Brest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus-Brest",
+      "pubdate": "Sat, 03 Aug 2024 11:00:00 +0200"
     },
     {
       "title": "Jacobs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jacobs",
       "pubdate": "Sat, 03 Aug 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus",
+      "pubdate": "Sat, 03 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Fedez",
@@ -52,14 +62,14 @@
       "pubdate": "Sat, 03 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Marta Maggetti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marta%20Maggetti",
-      "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
-    },
-    {
       "title": "Napoli Girona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli%20Girona",
       "pubdate": "Sat, 03 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Marta Maggetti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marta%20Maggetti",
+      "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Iba",
@@ -72,9 +82,9 @@
       "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Ciclismo OLIMPIADI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ciclismo%20OLIMPIADI",
-      "pubdate": "Sat, 03 Aug 2024 13:00:00 +0200"
+      "title": "Italia-Polonia volley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia-Polonia%20volley",
+      "pubdate": "Sat, 03 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Quadarella",
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 03 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Italia-Polonia volley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia-Polonia%20volley",
-      "pubdate": "Sat, 03 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Meteo roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20roma",
+      "title": "Meteo Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Roma",
       "pubdate": "Sat, 03 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Paltrinieri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paltrinieri",
       "pubdate": "Sat, 03 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Carrarese-Catania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carrarese-Catania",
-      "pubdate": "Sat, 03 Aug 2024 19:00:00 +0200"
     }
   ]
 }

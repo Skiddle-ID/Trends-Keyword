@@ -1,1 +1,1 @@
-LONDRA BULVARI,Sara,İran,Kuzey Tunçelli,Şıhıl Mahşi,Elif Berra Gökkır,Bursa deprem,Mustafa Hekimoğlu,JuventusBrest,Ersu Şaşma,Spor,Muslera,Gece ve Gündüz,Mert Günok,Türkiye - İtalya voleybol,Mertens,Aşk Oluversin Gari,Pelin Batu,Opera,Savaş
+Real Madrid,Kartal,Sara,Real Madrid  Barcelona,İran,Kuzey Tunçelli,MasterChef 19. yarışmacı Kim Oldu 2024,Şıhıl Mahşi,Elif Berra Gökkır,Okan Buruk,JuventusBrest,Bursa deprem,Mustafa Hekimoğlu,Ersu Şaşma,Muslera,Gece ve Gündüz,Mert Günok,Türkiye- İtalya Voleybol,Sörloth,Aşk Oluversin Gari
