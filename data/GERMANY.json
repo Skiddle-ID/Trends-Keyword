@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2024 , 23:35:11",
+  "lastUpdate": "05-08-2024 , 01:47:36",
   "data": [
     {
       "title": "Djokovic",
@@ -17,24 +17,9 @@
       "pubdate": "Sun, 04 Aug 2024 11:00:00 +0200"
     },
     {
-      "title": "Arminia Bielefeld",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
-      "pubdate": "Sun, 04 Aug 2024 17:00:00 +0200"
-    },
-    {
       "title": "Von Bredow-Werndl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20Bredow-Werndl",
       "pubdate": "Sat, 03 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Oliver Zeidler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Zeidler",
-      "pubdate": "Sat, 03 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Schalke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-      "pubdate": "Sat, 03 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Laura Ludwig",
@@ -100,6 +85,21 @@
       "title": "Oliver Zeidler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Zeidler",
       "pubdate": "Thu, 01 Aug 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Gefangenenaustausch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gefangenenaustausch",
+      "pubdate": "Thu, 01 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Füllkrug",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
+      "pubdate": "Thu, 01 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+      "pubdate": "Thu, 01 Aug 2024 09:00:00 +0200"
     }
   ]
 }
