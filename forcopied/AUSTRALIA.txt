@@ -1,1 +1,1 @@
-Noemie Fox,Rebeca Andrade,Luana Alonso,Nvidia,VIX,200m olympics,Yen,Artistic swimming olympics,Dow Jones,Novak Djokovic,Bitcoin price,ASX,Graham Thorpe,Bangladesh,ASX 200,Nicola Olyslagers,Melissa Wu,ASIO,Usain Bolt,Lakshya Sen
+Noemie Fox,Rebeca Andrade,Dustin Martin,Luana Alonso,Yen,Nvidia,200m olympics,Tim Walz,Keely Hodgkinson,Iran Israel,Kasey Badger,Artistic swimming Olympics,Dow Jones,ASX,Bitcoin price,Novak Djokovic,Graham Thorpe,Bangladesh,Nicola Olyslagers,Melissa Wu

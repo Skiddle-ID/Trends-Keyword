@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2024 , 23:35:17",
+  "lastUpdate": "06-08-2024 , 01:45:29",
   "data": [
     {
       "title": "Sabrina Voinea",
@@ -14,7 +14,12 @@
     {
       "title": "Iran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iran",
-      "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
+      "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
+    },
+    {
+      "title": "Rapid - Sepsi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20-%20Sepsi",
+      "pubdate": "Mon, 05 Aug 2024 21:00:00 +0300"
     },
     {
       "title": "Bangladesh",
@@ -22,19 +27,24 @@
       "pubdate": "Mon, 05 Aug 2024 09:00:00 +0300"
     },
     {
-      "title": "Noah Lyles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Noah%20Lyles",
-      "pubdate": "Mon, 05 Aug 2024 00:00:00 +0300"
-    },
-    {
       "title": "Armand Duplantis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Armand%20Duplantis",
       "pubdate": "Mon, 05 Aug 2024 23:00:00 +0300"
     },
     {
+      "title": "Noah Lyles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Noah%20Lyles",
+      "pubdate": "Mon, 05 Aug 2024 00:00:00 +0300"
+    },
+    {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bitcoin",
       "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
+    },
+    {
+      "title": "Bursa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bursa",
+      "pubdate": "Mon, 05 Aug 2024 14:00:00 +0300"
     },
     {
       "title": "Thomas Ceccon",
@@ -47,24 +57,14 @@
       "pubdate": "Mon, 05 Aug 2024 12:00:00 +0300"
     },
     {
-      "title": "Sparta Praga FCSB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sparta%20Praga%20FCSB",
-      "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
-    },
-    {
-      "title": "Bursa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bursa",
-      "pubdate": "Mon, 05 Aug 2024 14:00:00 +0300"
+      "title": "Tradeville",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tradeville",
+      "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
     },
     {
       "title": "Andrea miklós",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrea%20mikl%C3%B3s",
       "pubdate": "Mon, 05 Aug 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Neil Lennon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neil%20Lennon",
-      "pubdate": "Mon, 05 Aug 2024 23:00:00 +0300"
     },
     {
       "title": "Warren Buffett",
@@ -87,19 +87,19 @@
       "pubdate": "Mon, 05 Aug 2024 09:00:00 +0300"
     },
     {
+      "title": "Lucescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lucescu",
+      "pubdate": "Mon, 05 Aug 2024 22:00:00 +0300"
+    },
+    {
       "title": "Megan Fox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Megan%20Fox",
       "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
     },
     {
-      "title": "Alin Firfirică",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alin%20Firfiric%C4%83",
-      "pubdate": "Mon, 05 Aug 2024 14:00:00 +0300"
-    },
-    {
-      "title": "Răzvan Arnăut",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#R%C4%83zvan%20Arn%C4%83ut",
-      "pubdate": "Mon, 05 Aug 2024 19:00:00 +0300"
+      "title": "LASK Linz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#LASK%20Linz",
+      "pubdate": "Mon, 05 Aug 2024 16:00:00 +0300"
     }
   ]
 }
