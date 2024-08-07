@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2024 , 23:35:43",
+  "lastUpdate": "07-08-2024 , 01:46:36",
   "data": [
     {
       "title": "袁加樂",
@@ -62,19 +62,14 @@
       "pubdate": "Tue, 06 Aug 2024 19:00:00 +0800"
     },
     {
-      "title": "烏龜盲盒",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%83%8F%E9%BE%9C%E7%9B%B2%E7%9B%92",
-      "pubdate": "Tue, 06 Aug 2024 18:00:00 +0800"
-    },
-    {
-      "title": "林彥君",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%BD%A5%E5%90%9B",
-      "pubdate": "Tue, 06 Aug 2024 14:00:00 +0800"
-    },
-    {
       "title": "陳修將",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E4%BF%AE%E5%B0%87",
       "pubdate": "Tue, 06 Aug 2024 08:00:00 +0800"
+    },
+    {
+      "title": "簡彤娟",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B0%A1%E5%BD%A4%E5%A8%9F",
+      "pubdate": "Tue, 06 Aug 2024 22:00:00 +0800"
     },
     {
       "title": "友達",
@@ -100,6 +95,11 @@
       "title": "台股",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E8%82%A1",
       "pubdate": "Mon, 05 Aug 2024 09:00:00 +0800"
+    },
+    {
+      "title": "王齊麟",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8E%8B%E9%BD%8A%E9%BA%9F",
+      "pubdate": "Mon, 05 Aug 2024 04:00:00 +0800"
     }
   ]
 }
