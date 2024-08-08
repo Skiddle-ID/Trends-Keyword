@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2024 , 23:35:44",
+  "lastUpdate": "08-08-2024 , 01:46:31",
   "data": [
     {
       "title": "JD Vance",
@@ -32,11 +32,6 @@
       "pubdate": "Wed, 07 Aug 2024 16:00:00 +0800"
     },
     {
-      "title": "COE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-      "pubdate": "Wed, 07 Aug 2024 17:00:00 +0800"
-    },
-    {
       "title": "Zubimendi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zubimendi",
       "pubdate": "Wed, 07 Aug 2024 22:00:00 +0800"
@@ -57,6 +52,11 @@
       "pubdate": "Wed, 07 Aug 2024 08:00:00 +0800"
     },
     {
+      "title": "COE results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE%20results",
+      "pubdate": "Wed, 07 Aug 2024 17:00:00 +0800"
+    },
+    {
       "title": "Cori Bush",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cori%20Bush",
       "pubdate": "Wed, 07 Aug 2024 20:00:00 +0800"
@@ -70,11 +70,6 @@
       "title": "Cole Hocker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cole%20Hocker",
       "pubdate": "Wed, 07 Aug 2024 16:00:00 +0800"
-    },
-    {
-      "title": "Hockey Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hockey%20Olympics",
-      "pubdate": "Wed, 07 Aug 2024 08:00:00 +0800"
     },
     {
       "title": "Muhammad Yunus",
@@ -100,6 +95,11 @@
       "title": "Armand Duplantis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Armand%20Duplantis",
       "pubdate": "Tue, 06 Aug 2024 09:00:00 +0800"
+    },
+    {
+      "title": "It Ends with Us",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#It%20Ends%20with%20Us",
+      "pubdate": "Tue, 06 Aug 2024 22:00:00 +0800"
     }
   ]
 }

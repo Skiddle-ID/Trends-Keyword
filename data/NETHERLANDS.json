@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-08-2024 , 23:35:42",
+  "lastUpdate": "08-08-2024 , 01:46:29",
   "data": [
     {
-      "title": "Lieke Klaver",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20Klaver",
-      "pubdate": "Wed, 07 Aug 2024 22:00:00 +0200"
+      "title": "Joosje Burg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joosje%20Burg",
+      "pubdate": "Wed, 07 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Taylor Swift",
@@ -25,11 +25,6 @@
       "title": "FC Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
       "pubdate": "Tue, 06 Aug 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Niels Laros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Niels%20Laros",
-      "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Sifan Hassan",
@@ -100,6 +95,11 @@
       "title": "Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
       "pubdate": "Mon, 29 Jul 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Venezuela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Venezuela",
+      "pubdate": "Sun, 28 Jul 2024 18:00:00 +0200"
     }
   ]
 }
