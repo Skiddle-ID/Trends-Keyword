@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "08-08-2024 , 11:36:22",
+  "lastUpdate": "08-08-2024 , 12:53:48",
   "data": [
     {
       "title": "Palmeiras  Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Flamengo",
+      "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "FC Porto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FC%20Porto",
+      "pubdate": "Thu, 08 Aug 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Botafogo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
       "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
     },
     {
@@ -12,9 +22,9 @@
       "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
     },
     {
-      "title": "Bahia  Botafogo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bahia%20%20Botafogo",
-      "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
+      "title": "Puigdemont",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Puigdemont",
+      "pubdate": "Thu, 08 Aug 2024 10:00:00 +0100"
     },
     {
       "title": "Grêmio x Corinthians",
@@ -32,19 +42,14 @@
       "pubdate": "Thu, 08 Aug 2024 01:00:00 +0100"
     },
     {
-      "title": "Puigdemont",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Puigdemont",
-      "pubdate": "Thu, 08 Aug 2024 10:00:00 +0100"
-    },
-    {
       "title": "Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
       "pubdate": "Thu, 08 Aug 2024 03:00:00 +0100"
     },
     {
-      "title": "Mette-Marit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mette-Marit",
-      "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
+      "title": "A5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#A5",
+      "pubdate": "Thu, 08 Aug 2024 10:00:00 +0100"
     },
     {
       "title": "Lamecha Girma",
@@ -52,9 +57,14 @@
       "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
     },
     {
-      "title": "A5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#A5",
-      "pubdate": "Thu, 08 Aug 2024 10:00:00 +0100"
+      "title": "Mette-Marit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mette-Marit",
+      "pubdate": "Thu, 08 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Trincao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trincao",
+      "pubdate": "Thu, 08 Aug 2024 01:00:00 +0100"
     },
     {
       "title": "Catarina Miranda",
@@ -65,11 +75,6 @@
       "title": "Desabamento de hotel na Alemanha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Desabamento%20de%20hotel%20na%20Alemanha",
       "pubdate": "Thu, 08 Aug 2024 05:00:00 +0100"
-    },
-    {
-      "title": "Trincao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trincao",
-      "pubdate": "Thu, 08 Aug 2024 01:00:00 +0100"
     },
     {
       "title": "Atlético-MG  CRB",
@@ -95,11 +100,6 @@
       "title": "Fernando Pimenta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Pimenta",
       "pubdate": "Wed, 07 Aug 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Barcelona  Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Milan",
-      "pubdate": "Wed, 07 Aug 2024 00:00:00 +0100"
     }
   ]
 }

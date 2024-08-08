@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "08-08-2024 , 11:36:15",
+  "lastUpdate": "08-08-2024 , 12:53:40",
   "data": [
+    {
+      "title": "Goiás x São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20S%C3%A3o%20Paulo",
+      "pubdate": "Thu, 08 Aug 2024 05:00:00 -0500"
+    },
     {
       "title": "Sorteio Copa do Brasil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sorteio%20Copa%20do%20Brasil",
       "pubdate": "Thu, 08 Aug 2024 00:00:00 -0500"
     },
     {
-      "title": "Goiás x São Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20S%C3%A3o%20Paulo",
+      "title": "Debate Prefeitura sp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate%20Prefeitura%20sp",
       "pubdate": "Thu, 08 Aug 2024 05:00:00 -0500"
     },
     {
@@ -32,14 +37,24 @@
       "pubdate": "Wed, 07 Aug 2024 13:00:00 -0500"
     },
     {
-      "title": "Concurso unificado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20unificado",
+      "title": "Alison dos Santos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alison%20dos%20Santos",
+      "pubdate": "Wed, 07 Aug 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Concurso Unificado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20Unificado",
       "pubdate": "Wed, 07 Aug 2024 10:00:00 -0500"
     },
     {
       "title": "Tony Hawk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tony%20Hawk",
       "pubdate": "Wed, 07 Aug 2024 09:00:00 -0500"
+    },
+    {
+      "title": "Sophie Charlotte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sophie%20Charlotte",
+      "pubdate": "Wed, 07 Aug 2024 15:00:00 -0500"
     },
     {
       "title": "PSG",
@@ -57,29 +72,9 @@
       "pubdate": "Wed, 07 Aug 2024 13:00:00 -0500"
     },
     {
-      "title": "Piu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Piu",
-      "pubdate": "Wed, 07 Aug 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Nova lei para aposentadoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20lei%20para%20aposentadoria",
-      "pubdate": "Wed, 07 Aug 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Dallas Oberholzer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Oberholzer",
-      "pubdate": "Wed, 07 Aug 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Peugeot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Peugeot",
-      "pubdate": "Wed, 07 Aug 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Marcha atletica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcha%20atletica",
-      "pubdate": "Wed, 07 Aug 2024 10:00:00 -0500"
+      "title": "Bárbara Domingos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#B%C3%A1rbara%20Domingos",
+      "pubdate": "Wed, 07 Aug 2024 21:00:00 -0500"
     },
     {
       "title": "Ana Marcela Cunha",
@@ -87,19 +82,24 @@
       "pubdate": "Wed, 07 Aug 2024 19:00:00 -0500"
     },
     {
-      "title": "Almir dos Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Almir%20dos%20Santos",
-      "pubdate": "Wed, 07 Aug 2024 14:00:00 -0500"
+      "title": "Vitor Reis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Reis",
+      "pubdate": "Wed, 07 Aug 2024 19:00:00 -0500"
     },
     {
-      "title": "Snoop Dogg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Snoop%20Dogg",
+      "title": "Nova lei para aposentadoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20lei%20para%20aposentadoria",
       "pubdate": "Wed, 07 Aug 2024 12:00:00 -0500"
     },
     {
-      "title": "Ewa Swoboda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ewa%20Swoboda",
-      "pubdate": "Wed, 07 Aug 2024 15:00:00 -0500"
+      "title": "Peugeot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Peugeot",
+      "pubdate": "Wed, 07 Aug 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Dallas Oberholzer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Oberholzer",
+      "pubdate": "Wed, 07 Aug 2024 08:00:00 -0500"
     }
   ]
 }
