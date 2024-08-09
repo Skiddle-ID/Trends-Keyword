@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 11:35:31",
+  "lastUpdate": "09-08-2024 , 12:53:30",
   "data": [
     {
       "title": "Breaking Olympics",
@@ -10,6 +10,16 @@
       "title": "Katie Price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Katie%20Price",
       "pubdate": "Fri, 09 Aug 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Toby Roberts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Toby%20Roberts",
+      "pubdate": "Fri, 09 Aug 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Championship",
+      "pubdate": "Fri, 09 Aug 2024 12:00:00 +0100"
     },
     {
       "title": "Blue Light Card",
@@ -32,6 +42,11 @@
       "pubdate": "Thu, 08 Aug 2024 22:00:00 +0100"
     },
     {
+      "title": "Lazar Dukic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lazar%20Dukic",
+      "pubdate": "Thu, 08 Aug 2024 20:00:00 +0100"
+    },
+    {
       "title": "Femke Bol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Femke%20Bol",
       "pubdate": "Thu, 08 Aug 2024 21:00:00 +0100"
@@ -47,19 +62,9 @@
       "pubdate": "Thu, 08 Aug 2024 10:00:00 +0100"
     },
     {
-      "title": "Lazar Dukic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lazar%20Dukic",
-      "pubdate": "Thu, 08 Aug 2024 20:00:00 +0100"
-    },
-    {
       "title": "Jack Karlson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jack%20Karlson",
       "pubdate": "Thu, 08 Aug 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Blue light card teachers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Blue%20light%20card%20teachers",
-      "pubdate": "Thu, 08 Aug 2024 20:00:00 +0100"
     },
     {
       "title": "Japan earthquake tsunami warning",
@@ -95,11 +100,6 @@
       "title": "Studio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Studio",
       "pubdate": "Thu, 08 Aug 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Ellie Aldridge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ellie%20Aldridge",
-      "pubdate": "Thu, 08 Aug 2024 19:00:00 +0100"
     }
   ]
 }
