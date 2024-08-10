@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 23:35:34",
+  "lastUpdate": "10-08-2024 , 01:46:23",
   "data": [
     {
       "title": "Noticias",
@@ -17,14 +17,24 @@
       "pubdate": "Fri, 09 Aug 2024 08:00:00 -0500"
     },
     {
+      "title": "Avai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
+      "pubdate": "Fri, 09 Aug 2024 08:00:00 -0500"
+    },
+    {
       "title": "Almir dos Santos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Almir%20dos%20Santos",
       "pubdate": "Fri, 09 Aug 2024 14:00:00 -0500"
     },
     {
-      "title": "Paysandu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-      "pubdate": "Fri, 09 Aug 2024 15:00:00 -0500"
+      "title": "Levantamento de peso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Levantamento%20de%20peso",
+      "pubdate": "Fri, 09 Aug 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Sporting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
+      "pubdate": "Fri, 09 Aug 2024 14:00:00 -0500"
     },
     {
       "title": "Espanha feminino",
@@ -32,9 +42,9 @@
       "pubdate": "Fri, 09 Aug 2024 11:00:00 -0500"
     },
     {
-      "title": "Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
-      "pubdate": "Fri, 09 Aug 2024 14:00:00 -0500"
+      "title": "Piu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Piu",
+      "pubdate": "Fri, 09 Aug 2024 16:00:00 -0500"
     },
     {
       "title": "Noah Lyles",
@@ -47,14 +57,14 @@
       "pubdate": "Fri, 09 Aug 2024 09:00:00 -0500"
     },
     {
+      "title": "Notícias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Not%C3%ADcias",
+      "pubdate": "Fri, 09 Aug 2024 19:00:00 -0500"
+    },
+    {
       "title": "CGN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CGN",
       "pubdate": "Fri, 09 Aug 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Avai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
-      "pubdate": "Fri, 09 Aug 2024 08:00:00 -0500"
     },
     {
       "title": "Caverna Encantada SBT",
@@ -67,19 +77,9 @@
       "pubdate": "Fri, 09 Aug 2024 14:00:00 -0500"
     },
     {
-      "title": "Greve Correios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Greve%20Correios",
-      "pubdate": "Fri, 09 Aug 2024 05:00:00 -0500"
-    },
-    {
-      "title": "Dani Olmo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dani%20Olmo",
+      "title": "Gonzalo Plata",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gonzalo%20Plata",
       "pubdate": "Fri, 09 Aug 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Guilherme Costa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guilherme%20Costa",
-      "pubdate": "Fri, 09 Aug 2024 06:00:00 -0500"
     },
     {
       "title": "Mpox",
@@ -87,19 +87,19 @@
       "pubdate": "Fri, 09 Aug 2024 13:00:00 -0500"
     },
     {
-      "title": "Poesia acustica 16",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Poesia%20acustica%2016",
-      "pubdate": "Fri, 09 Aug 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Gonzalo Plata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gonzalo%20Plata",
+      "title": "Dani Olmo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dani%20Olmo",
       "pubdate": "Fri, 09 Aug 2024 13:00:00 -0500"
     },
     {
-      "title": "Mirassol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
-      "pubdate": "Fri, 09 Aug 2024 15:00:00 -0500"
+      "title": "Greve Correios",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Greve%20Correios",
+      "pubdate": "Fri, 09 Aug 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Guilherme Costa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guilherme%20Costa",
+      "pubdate": "Fri, 09 Aug 2024 06:00:00 -0500"
     }
   ]
 }

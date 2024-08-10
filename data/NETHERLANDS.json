@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 23:35:40",
+  "lastUpdate": "10-08-2024 , 01:46:28",
   "data": [
     {
       "title": "Eredivisie",
@@ -10,11 +10,6 @@
       "title": "Sifan Hassan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sifan%20Hassan",
       "pubdate": "Fri, 09 Aug 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Jeffrey Hoogland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeffrey%20Hoogland",
-      "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "India Sardjoe",
@@ -77,6 +72,11 @@
       "pubdate": "Thu, 08 Aug 2024 22:00:00 +0200"
     },
     {
+      "title": "Jeffrey Hoogland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeffrey%20Hoogland",
+      "pubdate": "Thu, 08 Aug 2024 23:00:00 +0200"
+    },
+    {
       "title": "Duco Telgenkamp",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Duco%20Telgenkamp",
       "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
@@ -87,14 +87,14 @@
       "pubdate": "Thu, 08 Aug 2024 15:00:00 +0200"
     },
     {
-      "title": "Japan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
-      "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
-    },
-    {
       "title": "Puigdemont",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Puigdemont",
       "pubdate": "Thu, 08 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Japan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
+      "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "FC Twente",

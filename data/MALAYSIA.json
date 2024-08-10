@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 23:35:40",
+  "lastUpdate": "10-08-2024 , 01:46:28",
   "data": [
     {
       "title": "Maddison Keeney",
@@ -27,11 +27,6 @@
       "pubdate": "Fri, 09 Aug 2024 06:00:00 +0800"
     },
     {
-      "title": "Basketball Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Basketball%20Olympics",
-      "pubdate": "Fri, 09 Aug 2024 11:00:00 +0800"
-    },
-    {
       "title": "Community Shield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Community%20Shield",
       "pubdate": "Fri, 09 Aug 2024 10:00:00 +0800"
@@ -52,6 +47,11 @@
       "pubdate": "Fri, 09 Aug 2024 08:00:00 +0800"
     },
     {
+      "title": "Pedro Neto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pedro%20Neto",
+      "pubdate": "Fri, 09 Aug 2024 22:00:00 +0800"
+    },
+    {
       "title": "Pepe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pepe",
       "pubdate": "Fri, 09 Aug 2024 08:00:00 +0800"
@@ -60,11 +60,6 @@
       "title": "David Yong Singapore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#David%20Yong%20Singapore",
       "pubdate": "Fri, 09 Aug 2024 11:00:00 +0800"
-    },
-    {
-      "title": "Pedro Neto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pedro%20Neto",
-      "pubdate": "Fri, 09 Aug 2024 22:00:00 +0800"
     },
     {
       "title": "Alysha Newman",
@@ -77,14 +72,14 @@
       "pubdate": "Fri, 09 Aug 2024 13:00:00 +0800"
     },
     {
-      "title": "Gold",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Gold",
-      "pubdate": "Fri, 09 Aug 2024 04:00:00 +0800"
-    },
-    {
       "title": "Andhagan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Andhagan",
       "pubdate": "Fri, 09 Aug 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Gold",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Gold",
+      "pubdate": "Fri, 09 Aug 2024 04:00:00 +0800"
     },
     {
       "title": "Ma Long",
@@ -100,6 +95,11 @@
       "title": "LeBron James",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LeBron%20James",
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Max Maeder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Max%20Maeder",
+      "pubdate": "Fri, 09 Aug 2024 20:00:00 +0800"
     }
   ]
 }

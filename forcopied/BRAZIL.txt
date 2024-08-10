@@ -1,1 +1,1 @@
-Noticias,FGTS,LeBron James,Almir dos Santos,Paysandu,Espanha feminino,Sporting,Noah Lyles,Travis Scott,CGN,Avai,Caverna Encantada SBT,Dia do Advogado,Greve Correios,Dani Olmo,Guilherme Costa,Mpox,Poesia acustica 16,Gonzalo Plata,Mirassol
+Noticias,FGTS,LeBron James,Avai,Almir dos Santos,Levantamento de peso,Sporting,Espanha feminino,Piu,Noah Lyles,Travis Scott,Notícias,CGN,Caverna Encantada SBT,Dia do Advogado,Gonzalo Plata,Mpox,Dani Olmo,Greve Correios,Guilherme Costa
