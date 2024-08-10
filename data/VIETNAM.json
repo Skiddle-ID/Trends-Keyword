@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2024 , 11:35:21",
+  "lastUpdate": "10-08-2024 , 12:50:57",
   "data": [
     {
       "title": "Hằng Du Mục",
@@ -27,9 +27,19 @@
       "pubdate": "Sat, 10 Aug 2024 04:00:00 +0700"
     },
     {
+      "title": "Ro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ro",
+      "pubdate": "Sat, 10 Aug 2024 10:00:00 +0700"
+    },
+    {
       "title": "Kursk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kursk",
       "pubdate": "Sat, 10 Aug 2024 09:00:00 +0700"
+    },
+    {
+      "title": "Rơi máy bay Brazil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#R%C6%A1i%20m%C3%A1y%20bay%20Brazil",
+      "pubdate": "Sat, 10 Aug 2024 16:00:00 +0700"
     },
     {
       "title": "Phim ĐI GIỮA TRỜI RỰC RỠ",
@@ -37,19 +47,19 @@
       "pubdate": "Sat, 10 Aug 2024 13:00:00 +0700"
     },
     {
-      "title": "Suga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Suga",
-      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0700"
-    },
-    {
       "title": "Tà Xùa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%C3%A0%20X%C3%B9a",
       "pubdate": "Sat, 10 Aug 2024 15:00:00 +0700"
     },
     {
-      "title": "Rơi máy bay Brazil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#R%C6%A1i%20m%C3%A1y%20bay%20Brazil",
-      "pubdate": "Sat, 10 Aug 2024 16:00:00 +0700"
+      "title": "Suga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Suga",
+      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0700"
+    },
+    {
+      "title": "XSMN 9/8/2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#XSMN%209/8/2024",
+      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0700"
     },
     {
       "title": "Pháp vs Tây Ban Nha Olympic",
@@ -67,6 +77,11 @@
       "pubdate": "Fri, 09 Aug 2024 22:00:00 +0700"
     },
     {
+      "title": "Chí Trung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%AD%20Trung",
+      "pubdate": "Fri, 09 Aug 2024 18:00:00 +0700"
+    },
+    {
       "title": "Công viên Tao Đàn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%B4ng%20vi%C3%AAn%20Tao%20%C4%90%C3%A0n",
       "pubdate": "Fri, 09 Aug 2024 11:00:00 +0700"
@@ -77,29 +92,14 @@
       "pubdate": "Fri, 09 Aug 2024 00:00:00 +0700"
     },
     {
-      "title": "Mexico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mexico",
-      "pubdate": "Fri, 09 Aug 2024 17:00:00 +0700"
-    },
-    {
       "title": "Động đất",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%99ng%20%C4%91%E1%BA%A5t",
       "pubdate": "Fri, 09 Aug 2024 00:00:00 +0700"
     },
     {
-      "title": "Xổ số miền Nam ngày 9 tháng 8",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%20ng%C3%A0y%209%20th%C3%A1ng%208",
-      "pubdate": "Fri, 09 Aug 2024 19:00:00 +0700"
-    },
-    {
-      "title": "Nap",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nap",
-      "pubdate": "Fri, 09 Aug 2024 14:00:00 +0700"
-    },
-    {
-      "title": "Vàng SJC giá vàng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20gi%C3%A1%20v%C3%A0ng",
-      "pubdate": "Fri, 09 Aug 2024 12:00:00 +0700"
+      "title": "Mexico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mexico",
+      "pubdate": "Fri, 09 Aug 2024 17:00:00 +0700"
     }
   ]
 }

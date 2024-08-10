@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2024 , 11:35:16",
+  "lastUpdate": "10-08-2024 , 12:50:52",
   "data": [
     {
       "title": "Susan Wojcicki",
@@ -32,24 +32,19 @@
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Cao metaal en techniek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cao%20metaal%20en%20techniek",
-      "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
-    },
-    {
       "title": "Hoogland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hoogland",
+      "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Teze",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Teze",
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Cambuur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
       "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Teze",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Teze",
-      "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Alexia",
@@ -100,6 +95,11 @@
       "title": "PSV Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Feyenoord",
       "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Johan Cruijff Schaal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Cruijff%20Schaal",
+      "pubdate": "Sat, 03 Aug 2024 09:00:00 +0200"
     }
   ]
 }

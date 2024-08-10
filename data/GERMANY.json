@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-08-2024 , 11:35:13",
+  "lastUpdate": "10-08-2024 , 12:50:49",
   "data": [
+    {
+      "title": "Susan Wojcicki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Susan%20Wojcicki",
+      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
+    },
     {
       "title": "Yemisi Ogunleye",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Yemisi%20Ogunleye",
@@ -27,14 +32,14 @@
       "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
     },
     {
+      "title": "Handball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+      "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
+    },
+    {
       "title": "Perseiden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Perseiden",
       "pubdate": "Fri, 09 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Energie Cottbus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Energie%20Cottbus",
-      "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Göring-Eckardt",
@@ -50,6 +55,11 @@
       "title": "Mihambo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mihambo",
       "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball",
+      "pubdate": "Thu, 08 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Hockey",
@@ -90,16 +100,6 @@
       "title": "Timo Boll",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Timo%20Boll",
       "pubdate": "Mon, 05 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Aktien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aktien",
-      "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Bangladesch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bangladesch",
-      "pubdate": "Mon, 05 Aug 2024 14:00:00 +0200"
     }
   ]
 }

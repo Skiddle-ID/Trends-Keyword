@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "10-08-2024 , 11:35:10",
+  "lastUpdate": "10-08-2024 , 12:50:45",
   "data": [
-    {
-      "title": "Jennifer Lange",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jennifer%20Lange",
-      "pubdate": "Sat, 10 Aug 2024 09:00:00 +0200"
-    },
     {
       "title": "Susan Wojcicki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Susan%20Wojcicki",
@@ -17,14 +12,24 @@
       "pubdate": "Sat, 10 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Mick Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mick%20Schumacher",
+      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
+    },
+    {
       "title": "Marathon Olympia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marathon%20Olympia",
       "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
     },
     {
-      "title": "Mick Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mick%20Schumacher",
-      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
+      "title": "Olympia Handball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olympia%20Handball",
+      "pubdate": "Sat, 10 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Breaking Olympia 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Breaking%20Olympia%202024",
+      "pubdate": "Fri, 09 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "Flugzeugabsturz Brasilien",
@@ -32,14 +37,14 @@
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
     },
     {
+      "title": "Esprit schließt Filialen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Esprit%20schlie%C3%9Ft%20Filialen",
+      "pubdate": "Fri, 09 Aug 2024 16:00:00 +0200"
+    },
+    {
       "title": "Darja Varfolomeev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Darja%20Varfolomeev",
       "pubdate": "Fri, 09 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Perseiden 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Perseiden%202024",
-      "pubdate": "Fri, 09 Aug 2024 11:00:00 +0200"
     },
     {
       "title": "Katie Price",
@@ -52,19 +57,9 @@
       "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Esprit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Esprit",
-      "pubdate": "Fri, 09 Aug 2024 23:00:00 +0200"
-    },
-    {
       "title": "Handball Olympia 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Handball%20Olympia%202024",
       "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Reinhold Messner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reinhold%20Messner",
-      "pubdate": "Fri, 09 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Yemisi Ogunleye",
@@ -72,14 +67,19 @@
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Afrika Tage",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Afrika%20Tage",
-      "pubdate": "Fri, 09 Aug 2024 17:00:00 +0200"
+      "title": "Reinhold Messner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reinhold%20Messner",
+      "pubdate": "Fri, 09 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Spanien Frankreich Olympia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Spanien%20Frankreich%20Olympia",
       "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Olympia-Fußball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olympia-Fu%C3%9Fball",
+      "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Donau in Flammen",
@@ -92,9 +92,9 @@
       "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "Olympia-Fußball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olympia-Fu%C3%9Fball",
-      "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
+      "title": "Perseiden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Perseiden",
+      "pubdate": "Fri, 09 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Travis Scott",
