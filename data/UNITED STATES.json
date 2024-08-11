@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "10-08-2024 , 23:35:08",
+  "lastUpdate": "11-08-2024 , 01:53:17",
   "data": [
-    {
-      "title": "Man City vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Man%20United",
-      "pubdate": "Sat, 10 Aug 2024 07:00:00 -0700"
-    },
     {
       "title": "Jordan Chiles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jordan%20Chiles",
       "pubdate": "Sat, 10 Aug 2024 12:00:00 -0700"
+    },
+    {
+      "title": "Man City vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Man%20United",
+      "pubdate": "Sat, 10 Aug 2024 08:00:00 -0700"
     },
     {
       "title": "Packers",
@@ -19,7 +19,7 @@
     {
       "title": "Chicago Bears",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bears",
-      "pubdate": "Sat, 10 Aug 2024 12:00:00 -0700"
+      "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
     },
     {
       "title": "Raiders",
@@ -37,14 +37,29 @@
       "pubdate": "Sat, 10 Aug 2024 10:00:00 -0700"
     },
     {
+      "title": "Joel Embiid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joel%20Embiid",
+      "pubdate": "Sat, 10 Aug 2024 16:00:00 -0700"
+    },
+    {
+      "title": "Gold medal count",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gold%20medal%20count",
+      "pubdate": "Sat, 10 Aug 2024 15:00:00 -0700"
+    },
+    {
       "title": "Buffalo Bills",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
       "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
     },
     {
-      "title": "Lydia Ko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lydia%20Ko",
-      "pubdate": "Sat, 10 Aug 2024 09:00:00 -0700"
+      "title": "Seahawks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seahawks",
+      "pubdate": "Sat, 10 Aug 2024 15:00:00 -0700"
+    },
+    {
+      "title": "Bengals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+      "pubdate": "Sat, 10 Aug 2024 14:00:00 -0700"
     },
     {
       "title": "Masai Russell",
@@ -62,29 +77,19 @@
       "pubdate": "Sat, 10 Aug 2024 12:00:00 -0700"
     },
     {
-      "title": "Vice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vice",
-      "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
-    },
-    {
-      "title": "Olympic marathon 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Olympic%20marathon%202024",
-      "pubdate": "Sat, 10 Aug 2024 09:00:00 -0700"
-    },
-    {
-      "title": "Lilo and Stitch live-action",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lilo%20and%20Stitch%20live-action",
-      "pubdate": "Sat, 10 Aug 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Seahawks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seahawks",
-      "pubdate": "Sat, 10 Aug 2024 15:00:00 -0700"
-    },
-    {
       "title": "Meteor shower",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meteor%20shower",
       "pubdate": "Sat, 10 Aug 2024 06:00:00 -0700"
+    },
+    {
+      "title": "Sophia Smith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sophia%20Smith",
+      "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
+    },
+    {
+      "title": "Vice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vice",
+      "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
     },
     {
       "title": "Justin Fields",
@@ -92,14 +97,9 @@
       "pubdate": "Sat, 10 Aug 2024 03:00:00 -0700"
     },
     {
-      "title": "Bengals",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
-      "pubdate": "Sat, 10 Aug 2024 14:00:00 -0700"
-    },
-    {
-      "title": "Dolphins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins",
-      "pubdate": "Sat, 10 Aug 2024 11:00:00 -0700"
+      "title": "Daredevil: Born Again",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daredevil:%20Born%20Again",
+      "pubdate": "Sat, 10 Aug 2024 16:00:00 -0700"
     }
   ]
 }

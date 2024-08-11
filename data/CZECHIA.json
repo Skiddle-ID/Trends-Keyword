@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2024 , 23:35:10",
+  "lastUpdate": "11-08-2024 , 01:53:20",
   "data": [
     {
       "title": "Sparta Praha",
@@ -15,11 +15,6 @@
       "title": "Rudolf Jelínek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rudolf%20Jel%C3%ADnek",
       "pubdate": "Sat, 10 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Ogrodníková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ogrodn%C3%ADkov%C3%A1",
-      "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Slavia – Olomouc",
@@ -42,6 +37,11 @@
       "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
     },
     {
+      "title": "Ogrodnikova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ogrodnikova",
+      "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "Dostal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dostal",
       "pubdate": "Sat, 10 Aug 2024 14:00:00 +0200"
@@ -55,16 +55,6 @@
       "title": "Špotáková",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pot%C3%A1kov%C3%A1",
       "pubdate": "Sat, 10 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Hlinka Gretzky Cup 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlinka%20Gretzky%20Cup%202024",
-      "pubdate": "Sat, 10 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Kauza Kramný",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kauza%20Kramn%C3%BD",
-      "pubdate": "Sat, 10 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Ben Cristovao",
@@ -100,6 +90,16 @@
       "title": "Martin Fuksa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Fuksa",
       "pubdate": "Fri, 09 Aug 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Adam Ondra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Ondra",
+      "pubdate": "Fri, 09 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Josef Dostál",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef%20Dost%C3%A1l",
+      "pubdate": "Fri, 09 Aug 2024 18:00:00 +0200"
     }
   ]
 }
