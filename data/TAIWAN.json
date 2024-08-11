@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2024 , 11:35:16",
+  "lastUpdate": "11-08-2024 , 12:51:00",
   "data": [
     {
       "title": "奧運閉幕",
@@ -20,11 +20,6 @@
       "title": "登高觀瀑魔毯",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BB%E9%AB%98%E8%A7%80%E7%80%91%E9%AD%94%E6%AF%AF",
       "pubdate": "Sun, 11 Aug 2024 04:00:00 +0800"
-    },
-    {
-      "title": "奥运会",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A5%A5%E8%BF%90%E4%BC%9A",
-      "pubdate": "Sun, 11 Aug 2024 10:00:00 +0800"
     },
     {
       "title": "社區盾",
@@ -62,14 +57,14 @@
       "pubdate": "Sat, 10 Aug 2024 12:00:00 +0800"
     },
     {
-      "title": "羅時豐",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%85%E6%99%82%E8%B1%90",
-      "pubdate": "Sat, 10 Aug 2024 01:00:00 +0800"
-    },
-    {
       "title": "柯文哲",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E6%96%87%E5%93%B2",
       "pubdate": "Sat, 10 Aug 2024 00:00:00 +0800"
+    },
+    {
+      "title": "羅時豐",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%85%E6%99%82%E8%B1%90",
+      "pubdate": "Sat, 10 Aug 2024 01:00:00 +0800"
     },
     {
       "title": "馬龍",
@@ -77,14 +72,14 @@
       "pubdate": "Sat, 10 Aug 2024 00:00:00 +0800"
     },
     {
-      "title": "情人節七夕",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%83%85%E4%BA%BA%E7%AF%80%E4%B8%83%E5%A4%95",
-      "pubdate": "Sat, 10 Aug 2024 00:00:00 +0800"
-    },
-    {
       "title": "巴西墜機",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%B4%E8%A5%BF%E5%A2%9C%E6%A9%9F",
       "pubdate": "Sat, 10 Aug 2024 14:00:00 +0800"
+    },
+    {
+      "title": "炎亞綸",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%82%8E%E4%BA%9E%E7%B6%B8",
+      "pubdate": "Sat, 10 Aug 2024 15:00:00 +0800"
     },
     {
       "title": "隱翅蟲",
@@ -100,6 +95,11 @@
       "title": "嘉義空軍基地開放",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%98%89%E7%BE%A9%E7%A9%BA%E8%BB%8D%E5%9F%BA%E5%9C%B0%E9%96%8B%E6%94%BE",
       "pubdate": "Sat, 10 Aug 2024 06:00:00 +0800"
+    },
+    {
+      "title": "SUGA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#SUGA",
+      "pubdate": "Sat, 10 Aug 2024 18:00:00 +0800"
     }
   ]
 }
