@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "11-08-2024 , 23:36:32",
+  "lastUpdate": "12-08-2024 , 01:49:18",
   "data": [
     {
       "title": "Snoop Dogg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Snoop%20Dogg",
-      "pubdate": "Mon, 12 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Olympiáda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olympi%C3%A1da",
       "pubdate": "Mon, 12 Aug 2024 00:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Susan Wojcicki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Susan%20Wojcicki",
       "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Špotáková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0pot%C3%A1kov%C3%A1",
+      "pubdate": "Sat, 10 Aug 2024 22:00:00 +0200"
     }
   ]
 }

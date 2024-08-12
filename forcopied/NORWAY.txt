@@ -1,1 +1,1 @@
-OL,KFUM,Arsenal,Anita Stenberg,Gabrielle,Australia,Steinar Nilsen,Liverpool Sevilla,Walaker hotell,Molde FK,Omnium,Ilona Maher,Jakob Ingebrigtsen,LeBron James,Koanda,Tom Cruise,Anders Mol,Narve Gilje Nordås,Richard Ordemann,Stine Oftedal
+OL,Arsenal,Anita Stenberg,Gabrielle,Vålerenga Fotball,Australia,Steinar Nilsen,Liverpool Sevilla,Walaker hotell,KFUM Rosenborg,Molde FK,Omnium,Ilona Maher,Jakob Ingebrigtsen,LeBron James,Tom Cruise,Anders Mol,Koanda,Narve Gilje Nordås,Richard Ordemann
