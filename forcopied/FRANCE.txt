@@ -1,1 +1,1 @@
-Tony Estanguet,Snoop Dogg,Brad Pitt,Désiré Doué,Grece,Gabby Williams,Sifan Hassan,Jeux paralympiques,Los Angeles,Daphné burki,Norman,Valériane Ayayi,Tour de France feminin,Curry Stephen,Frank Ntilikina,Emmanuel Macron,Brigitte Bardot,Arsenal,Carmelo Anthony,Jeux olympiques
+Tony Estanguet,Snoop Dogg,Brad Pitt,Désiré Doué,Los Angeles 2028,Grece,Gabby Williams,Sifan Hassan,Thomas Bach,Jeux paralympiques,Norman,Tour de France feminin,Paralympique,Vincent Collet,Curry Stephen,Valériane Ayayi,Brigitte Bardot,Frank Ntilikina,Emmanuel Macron,Nautilus serie
