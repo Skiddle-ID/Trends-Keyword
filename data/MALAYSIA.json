@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 23:35:14",
+  "lastUpdate": "13-08-2024 , 01:48:32",
   "data": [
     {
       "title": "Barcelona vs Monaco",
@@ -10,6 +10,11 @@
       "title": "Twisters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Twisters",
       "pubdate": "Tue, 13 Aug 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Tom Daley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tom%20Daley",
+      "pubdate": "Tue, 13 Aug 2024 08:00:00 +0800"
     },
     {
       "title": "Liverpool",
@@ -27,9 +32,19 @@
       "pubdate": "Mon, 12 Aug 2024 11:00:00 +0800"
     },
     {
+      "title": "Nora Ariffin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nora%20Ariffin",
+      "pubdate": "Mon, 12 Aug 2024 22:00:00 +0800"
+    },
+    {
       "title": "Meteor shower",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Meteor%20shower",
       "pubdate": "Mon, 12 Aug 2024 18:00:00 +0800"
+    },
+    {
+      "title": "Tom Cruise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tom%20Cruise",
+      "pubdate": "Mon, 12 Aug 2024 07:00:00 +0800"
     },
     {
       "title": "Liverpool FC",
@@ -50,6 +65,11 @@
       "title": "Pedro Neto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pedro%20Neto",
       "pubdate": "Mon, 12 Aug 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Kanguva",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kanguva",
+      "pubdate": "Mon, 12 Aug 2024 20:00:00 +0800"
     },
     {
       "title": "Atletico Madrid",
@@ -80,26 +100,6 @@
       "title": "Liverpool vs Sevilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20vs%20Sevilla",
       "pubdate": "Sun, 11 Aug 2024 17:00:00 +0800"
-    },
-    {
-      "title": "Arsenal vs Lyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Lyon",
-      "pubdate": "Sun, 11 Aug 2024 21:00:00 +0800"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal",
-      "pubdate": "Sun, 11 Aug 2024 22:00:00 +0800"
-    },
-    {
-      "title": "Tom Cruise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tom%20Cruise",
-      "pubdate": "Sun, 11 Aug 2024 22:00:00 +0800"
-    },
-    {
-      "title": "2024 Summer Olympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#2024%20Summer%20Olympics",
-      "pubdate": "Sun, 11 Aug 2024 10:00:00 +0800"
     }
   ]
 }

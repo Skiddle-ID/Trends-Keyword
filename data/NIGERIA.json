@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 23:35:15",
+  "lastUpdate": "13-08-2024 , 01:48:32",
   "data": [
     {
       "title": "WAEC result checker",
@@ -32,11 +32,6 @@
       "pubdate": "Mon, 12 Aug 2024 13:00:00 +0100"
     },
     {
-      "title": "Luton Town vs Burnley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luton%20Town%20vs%20Burnley",
-      "pubdate": "Mon, 12 Aug 2024 20:00:00 +0100"
-    },
-    {
       "title": "Nico Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nico%20Williams",
       "pubdate": "Mon, 12 Aug 2024 00:00:00 +0100"
@@ -62,24 +57,19 @@
       "pubdate": "Mon, 12 Aug 2024 01:00:00 +0100"
     },
     {
-      "title": "Braga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Braga",
-      "pubdate": "Mon, 12 Aug 2024 00:00:00 +0100"
-    },
-    {
       "title": "Twisters",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Twisters",
       "pubdate": "Mon, 12 Aug 2024 14:00:00 +0100"
     },
     {
+      "title": "Braga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Braga",
+      "pubdate": "Mon, 12 Aug 2024 00:00:00 +0100"
+    },
+    {
       "title": "Super Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Cup",
       "pubdate": "Mon, 12 Aug 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Tom Cruise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tom%20Cruise",
-      "pubdate": "Mon, 12 Aug 2024 10:00:00 +0100"
     },
     {
       "title": "Barcelona FC",
@@ -92,6 +82,11 @@
       "pubdate": "Mon, 12 Aug 2024 08:00:00 +0100"
     },
     {
+      "title": "Olympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olympics",
+      "pubdate": "Sun, 11 Aug 2024 01:00:00 +0100"
+    },
+    {
       "title": "Chelsea vs Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Inter",
       "pubdate": "Sun, 11 Aug 2024 07:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Liverpool vs Sevilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Sevilla",
       "pubdate": "Sun, 11 Aug 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal",
+      "pubdate": "Sun, 11 Aug 2024 20:00:00 +0100"
     }
   ]
 }
