@@ -1,1 +1,1 @@
-ABC,Barcelona  Monaco,Slope,Snoop dogg,Teams,Docs,OneDrive,Word,Elon Musk,Classroom,Snake,Tour de France Femmes,Microsoft 365,Leon Marchand,Office,Rachael Lillis,Liverpool,Banksy,Chelsea,Los Angeles
+Duolingo,Barcelona  Monaco,Slope,Docs,Snoop dogg,OneDrive,Word,Elon Musk,Classroom,Snake,Tour de France Femmes,Microsoft 365,Santorini,Leon Marchand,Office,Rachael Lillis,Liverpool,Banksy,Fantasy Premier League,Chelsea
