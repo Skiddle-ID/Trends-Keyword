@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "14-08-2024 , 11:35:31",
+  "lastUpdate": "14-08-2024 , 12:53:49",
   "data": [
+    {
+      "title": "Burkhard Garweg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Burkhard%20Garweg",
+      "pubdate": "Wed, 14 Aug 2024 12:00:00 +0200"
+    },
     {
       "title": "Duisburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Duisburg",
       "pubdate": "Wed, 14 Aug 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Richard Rogler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Richard%20Rogler",
-      "pubdate": "Tue, 13 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Pixel 9",
@@ -20,6 +20,11 @@
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
       "pubdate": "Tue, 13 Aug 2024 12:00:00 +0200"
+    },
+    {
+      "title": "In aller Freundschaft",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#In%20aller%20Freundschaft",
+      "pubdate": "Tue, 13 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Mpox",
@@ -95,11 +100,6 @@
       "title": "Marathon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marathon",
       "pubdate": "Sat, 10 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Handball Olympia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Olympia",
-      "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
     }
   ]
 }

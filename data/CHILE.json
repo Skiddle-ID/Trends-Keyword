@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2024 , 11:35:29",
+  "lastUpdate": "14-08-2024 , 12:53:47",
   "data": [
     {
       "title": "River",
@@ -22,6 +22,11 @@
       "pubdate": "Tue, 13 Aug 2024 12:00:00 -0400"
     },
     {
+      "title": "Tomas de rementeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tomas%20de%20rementeria",
+      "pubdate": "Tue, 13 Aug 2024 22:00:00 -0400"
+    },
+    {
       "title": "Grêmio  Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gr%C3%AAmio%20%20Fluminense",
       "pubdate": "Tue, 13 Aug 2024 19:00:00 -0400"
@@ -32,9 +37,9 @@
       "pubdate": "Tue, 13 Aug 2024 20:00:00 -0400"
     },
     {
-      "title": "Martes 13",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Martes%2013",
-      "pubdate": "Tue, 13 Aug 2024 08:00:00 -0400"
+      "title": "Sudamericana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sudamericana",
+      "pubdate": "Tue, 13 Aug 2024 14:00:00 -0400"
     },
     {
       "title": "Dia del Zurdo",
@@ -42,19 +47,9 @@
       "pubdate": "Tue, 13 Aug 2024 12:00:00 -0400"
     },
     {
-      "title": "Karol Cariola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Karol%20Cariola",
-      "pubdate": "Tue, 13 Aug 2024 22:00:00 -0400"
-    },
-    {
       "title": "Palestino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino",
       "pubdate": "Tue, 13 Aug 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Roberto Dueñas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roberto%20Due%C3%B1as",
-      "pubdate": "Tue, 13 Aug 2024 01:00:00 -0400"
     },
     {
       "title": "San Lorenzo",
@@ -67,6 +62,16 @@
       "pubdate": "Tue, 13 Aug 2024 09:00:00 -0400"
     },
     {
+      "title": "Juan Gómez-Acebo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juan%20G%C3%B3mez-Acebo",
+      "pubdate": "Tue, 13 Aug 2024 10:00:00 -0400"
+    },
+    {
+      "title": "Arturo Vidal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20Vidal",
+      "pubdate": "Tue, 13 Aug 2024 21:00:00 -0400"
+    },
+    {
       "title": "Paloma San Basilio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paloma%20San%20Basilio",
       "pubdate": "Tue, 13 Aug 2024 15:00:00 -0400"
@@ -75,6 +80,11 @@
       "title": "Skai Jackson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Skai%20Jackson",
       "pubdate": "Tue, 13 Aug 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Isabel Amor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isabel%20Amor",
+      "pubdate": "Tue, 13 Aug 2024 22:00:00 -0400"
     },
     {
       "title": "Camavinga",
@@ -87,19 +97,9 @@
       "pubdate": "Tue, 13 Aug 2024 21:00:00 -0400"
     },
     {
-      "title": "Isabel Amor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isabel%20Amor",
-      "pubdate": "Tue, 13 Aug 2024 22:00:00 -0400"
-    },
-    {
       "title": "CONMEBOL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#CONMEBOL",
       "pubdate": "Tue, 13 Aug 2024 23:00:00 -0400"
-    },
-    {
-      "title": "Dia de la Chorrillana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20la%20Chorrillana",
-      "pubdate": "Tue, 13 Aug 2024 21:00:00 -0400"
     }
   ]
 }
