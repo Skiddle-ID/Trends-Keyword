@@ -1,30 +1,20 @@
 {
-  "lastUpdate": "15-08-2024 , 11:37:09",
+  "lastUpdate": "15-08-2024 , 12:53:15",
   "data": [
+    {
+      "title": "大阪 停電",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E9%98%AA%20%E5%81%9C%E9%9B%BB",
+      "pubdate": "Thu, 15 Aug 2024 06:00:00 +0900"
+    },
     {
       "title": "サル痘 緊急事態宣言",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B5%E3%83%AB%E7%97%98%20%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E5%AE%A3%E8%A8%80",
       "pubdate": "Thu, 15 Aug 2024 08:00:00 +0900"
     },
     {
-      "title": "FGO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#FGO",
-      "pubdate": "Thu, 15 Aug 2024 00:00:00 +0900"
-    },
-    {
-      "title": "鶴岡東",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%B6%B4%E5%B2%A1%E6%9D%B1",
-      "pubdate": "Thu, 15 Aug 2024 15:00:00 +0900"
-    },
-    {
-      "title": "停電 大阪",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%81%9C%E9%9B%BB%20%E5%A4%A7%E9%98%AA",
-      "pubdate": "Thu, 15 Aug 2024 07:00:00 +0900"
-    },
-    {
-      "title": "あいみょん",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93",
-      "pubdate": "Thu, 15 Aug 2024 00:00:00 +0900"
+      "title": "神奈川 地震",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%A5%9E%E5%A5%88%E5%B7%9D%20%E5%9C%B0%E9%9C%87",
+      "pubdate": "Thu, 15 Aug 2024 21:00:00 +0900"
     },
     {
       "title": "神村学園 甲子園",
@@ -32,19 +22,24 @@
       "pubdate": "Thu, 15 Aug 2024 15:00:00 +0900"
     },
     {
+      "title": "終戦の日",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%B5%82%E6%88%A6%E3%81%AE%E6%97%A5",
+      "pubdate": "Thu, 15 Aug 2024 21:00:00 +0900"
+    },
+    {
       "title": "台風7号",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B0%E9%A2%A87%E5%8F%B7",
-      "pubdate": "Wed, 14 Aug 2024 15:00:00 +0900"
+      "pubdate": "Wed, 14 Aug 2024 09:00:00 +0900"
     },
     {
-      "title": "Pixel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Pixel",
-      "pubdate": "Wed, 14 Aug 2024 13:00:00 +0900"
-    },
-    {
-      "title": "岸田",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%B8%E7%94%B0",
+      "title": "岸田文雄",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84",
       "pubdate": "Wed, 14 Aug 2024 12:00:00 +0900"
+    },
+    {
+      "title": "Google Pixel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Google%20Pixel",
+      "pubdate": "Wed, 14 Aug 2024 17:00:00 +0900"
     },
     {
       "title": "健大高崎",
@@ -55,6 +50,11 @@
       "title": "CPI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#CPI",
       "pubdate": "Wed, 14 Aug 2024 23:00:00 +0900"
+    },
+    {
+      "title": "出口クリスタ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%87%BA%E5%8F%A3%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF",
+      "pubdate": "Tue, 13 Aug 2024 21:00:00 +0900"
     },
     {
       "title": "流れ星",

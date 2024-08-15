@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "15-08-2024 , 11:37:07",
+  "lastUpdate": "15-08-2024 , 12:53:13",
   "data": [
-    {
-      "title": "Majomhimlő",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majomhiml%C5%91",
-      "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
-    },
     {
       "title": "Gena Rowlands",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gena%20Rowlands",
       "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Majomhimlő",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majomhiml%C5%91",
+      "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Lamine Yamal",
@@ -22,14 +22,9 @@
       "pubdate": "Thu, 15 Aug 2024 03:00:00 +0200"
     },
     {
-      "title": "Dancs Annamari",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dancs%20Annamari",
-      "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-      "pubdate": "Wed, 14 Aug 2024 21:00:00 +0200"
+      "title": "Real madrid–atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93atalanta",
+      "pubdate": "Wed, 14 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Kiss László",
@@ -62,9 +57,19 @@
       "pubdate": "Wed, 14 Aug 2024 02:00:00 +0200"
     },
     {
+      "title": "Gálvölgyi János",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1lv%C3%B6lgyi%20J%C3%A1nos",
+      "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
+    },
+    {
       "title": "Fehérvár FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9rv%C3%A1r%20FC",
       "pubdate": "Wed, 14 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Északi Áramlat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szaki%20%C3%81ramlat",
+      "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
     },
     {
       "title": "Puskás Akadémia",
@@ -87,19 +92,14 @@
       "pubdate": "Wed, 14 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Északi Áramlat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szaki%20%C3%81ramlat",
-      "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
+      "title": "Meghalt egy magyar fiú Norvégiában",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meghalt%20egy%20magyar%20fi%C3%BA%20Norv%C3%A9gi%C3%A1ban",
+      "pubdate": "Wed, 14 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Závodszky Noémi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%C3%A1vodszky%20No%C3%A9mi",
       "pubdate": "Wed, 14 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Kraven, a vadász",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kraven,%20a%20vad%C3%A1sz",
-      "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
     }
   ]
 }
