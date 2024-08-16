@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 11:35:19",
+  "lastUpdate": "16-08-2024 , 12:52:51",
   "data": [
     {
       "title": "Gerardina Trovato",
@@ -32,9 +32,9 @@
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Sandrelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sandrelli",
-      "pubdate": "Fri, 16 Aug 2024 07:00:00 +0200"
+      "title": "Avon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Avon",
+      "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "Sofia Bruscoli",
@@ -42,19 +42,14 @@
       "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Avon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Avon",
-      "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
+      "title": "Samardzic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Samardzic",
+      "pubdate": "Fri, 16 Aug 2024 13:00:00 +0200"
     },
     {
-      "title": "Ashram",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ashram",
-      "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Lost",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lost",
-      "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
+      "title": "Fortnite",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fortnite",
+      "pubdate": "Fri, 16 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Vico Equense",
@@ -67,14 +62,19 @@
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
     },
     {
+      "title": "Argentario",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Argentario",
+      "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Milan-Torino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Torino",
+      "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
+    },
+    {
       "title": "Claudio Amendola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Claudio%20Amendola",
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Gena Rowlands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gena%20Rowlands",
-      "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Etna",
@@ -87,6 +87,11 @@
       "pubdate": "Thu, 15 Aug 2024 19:00:00 +0200"
     },
     {
+      "title": "Gena Rowlands",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gena%20Rowlands",
+      "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
+    },
+    {
       "title": "Matthew Perry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matthew%20Perry",
       "pubdate": "Thu, 15 Aug 2024 18:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Fofana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fofana",
       "pubdate": "Thu, 15 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Mennea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mennea",
-      "pubdate": "Thu, 15 Aug 2024 15:00:00 +0200"
     }
   ]
 }
