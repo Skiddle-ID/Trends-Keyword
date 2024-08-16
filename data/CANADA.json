@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2024 , 23:35:10",
+  "lastUpdate": "16-08-2024 , 01:46:02",
   "data": [
     {
       "title": "Matthew Perry",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 15 Aug 2024 12:00:00 -0400"
     },
     {
-      "title": "John Tavares",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Tavares",
-      "pubdate": "Thu, 15 Aug 2024 08:00:00 -0400"
-    },
-    {
       "title": "Emily in Paris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emily%20in%20Paris",
       "pubdate": "Thu, 15 Aug 2024 05:00:00 -0400"
+    },
+    {
+      "title": "John Tavares",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Tavares",
+      "pubdate": "Thu, 15 Aug 2024 08:00:00 -0400"
     },
     {
       "title": "Auston Matthews",
@@ -22,8 +22,23 @@
       "pubdate": "Thu, 15 Aug 2024 05:00:00 -0400"
     },
     {
+      "title": "Jackpot!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jackpot!",
+      "pubdate": "Thu, 15 Aug 2024 18:00:00 -0400"
+    },
+    {
       "title": "Canada Jetlines",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20Jetlines",
+      "pubdate": "Thu, 15 Aug 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Aaron Judge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aaron%20Judge",
+      "pubdate": "Thu, 15 Aug 2024 07:00:00 -0400"
+    },
+    {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#La%20Liga",
       "pubdate": "Thu, 15 Aug 2024 13:00:00 -0400"
     },
     {
@@ -32,29 +47,9 @@
       "pubdate": "Thu, 15 Aug 2024 01:00:00 -0400"
     },
     {
-      "title": "Aaron Judge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aaron%20Judge",
-      "pubdate": "Thu, 15 Aug 2024 07:00:00 -0400"
-    },
-    {
       "title": "Air quality Calgary",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20quality%20Calgary",
       "pubdate": "Thu, 15 Aug 2024 12:00:00 -0400"
-    },
-    {
-      "title": "WHO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHO",
-      "pubdate": "Thu, 15 Aug 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Grok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grok",
-      "pubdate": "Thu, 15 Aug 2024 08:00:00 -0400"
-    },
-    {
-      "title": "Tommy Fury",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tommy%20Fury",
-      "pubdate": "Thu, 15 Aug 2024 00:00:00 -0400"
     },
     {
       "title": "Disney wrongful death lawsuit",
@@ -62,14 +57,19 @@
       "pubdate": "Thu, 15 Aug 2024 16:00:00 -0400"
     },
     {
-      "title": "PGA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PGA",
-      "pubdate": "Thu, 15 Aug 2024 17:00:00 -0400"
+      "title": "Grok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grok",
+      "pubdate": "Thu, 15 Aug 2024 08:00:00 -0400"
     },
     {
-      "title": "Jackpot! movie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jackpot!%20movie",
-      "pubdate": "Thu, 15 Aug 2024 18:00:00 -0400"
+      "title": "Greg Kihn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Greg%20Kihn",
+      "pubdate": "Thu, 15 Aug 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Peter Marshall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Peter%20Marshall",
+      "pubdate": "Thu, 15 Aug 2024 19:00:00 -0400"
     },
     {
       "title": "Patrice Godin",
@@ -77,19 +77,9 @@
       "pubdate": "Thu, 15 Aug 2024 18:00:00 -0400"
     },
     {
-      "title": "Independence Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Independence%20Day",
-      "pubdate": "Thu, 15 Aug 2024 12:00:00 -0400"
-    },
-    {
       "title": "Monkeypox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Monkeypox",
       "pubdate": "Wed, 14 Aug 2024 01:00:00 -0400"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-      "pubdate": "Wed, 14 Aug 2024 07:00:00 -0400"
     },
     {
       "title": "Gena Rowlands",
@@ -97,8 +87,18 @@
       "pubdate": "Wed, 14 Aug 2024 22:00:00 -0400"
     },
     {
+      "title": "Veille d'orages violents",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Veille%20d'orages%20violents",
+      "pubdate": "Wed, 14 Aug 2024 18:00:00 -0400"
+    },
+    {
       "title": "Scott Peterson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scott%20Peterson",
+      "pubdate": "Wed, 14 Aug 2024 17:00:00 -0400"
+    },
+    {
+      "title": "Air Quality Edmonton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Air%20Quality%20Edmonton",
       "pubdate": "Wed, 14 Aug 2024 17:00:00 -0400"
     }
   ]
