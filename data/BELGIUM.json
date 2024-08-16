@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "16-08-2024 , 04:37:23",
+  "lastUpdate": "16-08-2024 , 05:36:02",
   "data": [
+    {
+      "title": "Mallorca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
+      "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
+    },
     {
       "title": "Lost",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lost",
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Mallorca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
+      "title": "Mpox-virus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mpox-virus",
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Thu, 15 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "La Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liga",
-      "pubdate": "Thu, 15 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Thibau Nys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibau%20Nys",
-      "pubdate": "Thu, 15 Aug 2024 10:00:00 +0200"
+      "title": "Brocante",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brocante",
+      "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
     }
   ]
 }
