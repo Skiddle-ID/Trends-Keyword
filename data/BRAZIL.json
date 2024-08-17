@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 11:35:21",
+  "lastUpdate": "17-08-2024 , 12:49:23",
   "data": [
     {
       "title": "UFC",
@@ -12,9 +12,19 @@
       "pubdate": "Sat, 17 Aug 2024 01:00:00 -0500"
     },
     {
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+      "pubdate": "Sat, 17 Aug 2024 06:00:00 -0500"
+    },
+    {
       "title": "Manchester United x Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Fulham",
       "pubdate": "Fri, 16 Aug 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Vila Nova x Sport Recife",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Sport%20Recife",
+      "pubdate": "Fri, 16 Aug 2024 11:00:00 -0500"
     },
     {
       "title": "Ponte Preta x Goiás",
@@ -32,11 +42,6 @@
       "pubdate": "Fri, 16 Aug 2024 10:00:00 -0500"
     },
     {
-      "title": "Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
-      "pubdate": "Fri, 16 Aug 2024 11:00:00 -0500"
-    },
-    {
       "title": "Novorizontino x América-MG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino%20x%20Am%C3%A9rica-MG",
       "pubdate": "Fri, 16 Aug 2024 18:00:00 -0500"
@@ -52,9 +57,9 @@
       "pubdate": "Fri, 16 Aug 2024 15:00:00 -0500"
     },
     {
-      "title": "Voepass",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Voepass",
-      "pubdate": "Fri, 16 Aug 2024 07:00:00 -0500"
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+      "pubdate": "Fri, 16 Aug 2024 18:00:00 -0500"
     },
     {
       "title": "Bayern",
@@ -67,14 +72,9 @@
       "pubdate": "Fri, 16 Aug 2024 10:00:00 -0500"
     },
     {
-      "title": "Enem dos Concursos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enem%20dos%20Concursos",
-      "pubdate": "Fri, 16 Aug 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Pedro Flamengo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pedro%20Flamengo",
-      "pubdate": "Fri, 16 Aug 2024 05:00:00 -0500"
+      "title": "Amanda Meirelles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amanda%20Meirelles",
+      "pubdate": "Fri, 16 Aug 2024 17:00:00 -0500"
     },
     {
       "title": "Die With a Smile",
@@ -97,9 +97,9 @@
       "pubdate": "Fri, 16 Aug 2024 07:00:00 -0500"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
-      "pubdate": "Fri, 16 Aug 2024 18:00:00 -0500"
+      "title": "Candidatos a vereador 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Candidatos%20a%20vereador%202024",
+      "pubdate": "Fri, 16 Aug 2024 08:00:00 -0500"
     }
   ]
 }

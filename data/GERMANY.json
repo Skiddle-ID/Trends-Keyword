@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "17-08-2024 , 11:35:23",
+  "lastUpdate": "17-08-2024 , 12:49:26",
   "data": [
+    {
+      "title": "Rave the Planet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rave%20the%20Planet",
+      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Izmir",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Izmir",
+      "pubdate": "Sat, 17 Aug 2024 02:00:00 +0200"
+    },
     {
       "title": "DFB-Pokal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
@@ -37,11 +47,6 @@
       "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "AKW Grafenrheinfeld",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AKW%20Grafenrheinfeld",
-      "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
-    },
-    {
       "title": "Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
       "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
@@ -52,14 +57,14 @@
       "pubdate": "Fri, 16 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "Hallescher FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hallescher%20FC",
-      "pubdate": "Fri, 16 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Goretzka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Goretzka",
       "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
+    },
+    {
+      "title": "AKW Grafenrheinfeld",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AKW%20Grafenrheinfeld",
+      "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Dschungelcamp",
@@ -85,11 +90,6 @@
       "title": "Unwetter Mallorca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20Mallorca",
       "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Kim Dotcom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Dotcom",
-      "pubdate": "Thu, 15 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Weltbild",

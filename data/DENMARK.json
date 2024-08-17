@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "17-08-2024 , 11:35:22",
+  "lastUpdate": "17-08-2024 , 12:49:24",
   "data": [
+    {
+      "title": "Prime",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prime",
+      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Pride",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride",
+      "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
+    },
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
@@ -27,6 +37,11 @@
       "pubdate": "Fri, 16 Aug 2024 21:00:00 +0200"
     },
     {
+      "title": "Ipswich  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ipswich%20%20Liverpool",
+      "pubdate": "Fri, 16 Aug 2024 18:00:00 +0200"
+    },
+    {
       "title": "Monfils",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Monfils",
       "pubdate": "Fri, 16 Aug 2024 06:00:00 +0200"
@@ -37,14 +52,14 @@
       "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
     },
     {
-      "title": "Jack Russell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20Russell",
-      "pubdate": "Fri, 16 Aug 2024 12:00:00 +0200"
-    },
-    {
       "title": "Epic Games",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Epic%20Games",
       "pubdate": "Fri, 16 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Jack Russell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20Russell",
+      "pubdate": "Fri, 16 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Lily Collins",
@@ -85,21 +100,6 @@
       "title": "Kilmarnock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kilmarnock",
       "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Elvis Presley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elvis%20Presley",
-      "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "La Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
-      "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Mad Max",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mad%20Max",
-      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
     }
   ]
 }

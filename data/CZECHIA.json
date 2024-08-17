@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 11:35:22",
+  "lastUpdate": "17-08-2024 , 12:49:24",
   "data": [
     {
       "title": "Silné bouřky",
@@ -10,6 +10,11 @@
       "title": "Karl Lagerfeld",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karl%20Lagerfeld",
       "pubdate": "Sat, 17 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Letecký den Cheb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leteck%C3%BD%20den%20Cheb",
+      "pubdate": "Sat, 17 Aug 2024 07:00:00 +0200"
     },
     {
       "title": "Cena zlata",
@@ -29,7 +34,7 @@
     {
       "title": "Epic Games",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Epic%20Games",
-      "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
+      "pubdate": "Fri, 16 Aug 2024 16:00:00 +0200"
     },
     {
       "title": "Ivan Hlinka",
@@ -37,8 +42,8 @@
       "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "Tadeáš Růžička",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tade%C3%A1%C5%A1%20R%C5%AF%C5%BEi%C4%8Dka",
+      "title": "Mawar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mawar",
       "pubdate": "Fri, 16 Aug 2024 12:00:00 +0200"
     },
     {
@@ -52,19 +57,24 @@
       "pubdate": "Fri, 16 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
-      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
-    },
-    {
       "title": "Naomi Adachi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Naomi%20Adachi",
       "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
     },
     {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Aneta Langerová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aneta%20Langerov%C3%A1",
       "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Hoffenheim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim",
+      "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Epic Games Store",
@@ -90,16 +100,6 @@
       "title": "Baník – FC Kodaň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20%E2%80%93%20FC%20Koda%C5%88",
       "pubdate": "Thu, 15 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Vlny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vlny",
-      "pubdate": "Thu, 15 Aug 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Banik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Banik",
-      "pubdate": "Thu, 15 Aug 2024 21:00:00 +0200"
     }
   ]
 }

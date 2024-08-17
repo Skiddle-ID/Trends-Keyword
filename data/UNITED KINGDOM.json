@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-08-2024 , 11:35:31",
+  "lastUpdate": "17-08-2024 , 12:49:34",
   "data": [
+    {
+      "title": "Liverpoolfc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpoolfc",
+      "pubdate": "Sat, 17 Aug 2024 13:00:00 +0100"
+    },
     {
       "title": "Paul Hollywood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20Hollywood",
@@ -12,14 +17,24 @@
       "pubdate": "Sat, 17 Aug 2024 01:00:00 +0100"
     },
     {
-      "title": "Madonna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Madonna",
-      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0100"
+      "title": "Sydney Sweeney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sydney%20Sweeney",
+      "pubdate": "Sat, 17 Aug 2024 07:00:00 +0100"
     },
     {
       "title": "Black Myth: Wukong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Black%20Myth:%20Wukong",
       "pubdate": "Sat, 17 Aug 2024 03:00:00 +0100"
+    },
+    {
+      "title": "TNT Sports",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TNT%20Sports",
+      "pubdate": "Sat, 17 Aug 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Madonna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Madonna",
+      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0100"
     },
     {
       "title": "Oxford United",
@@ -34,7 +49,7 @@
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
-      "pubdate": "Fri, 16 Aug 2024 15:00:00 +0100"
+      "pubdate": "Fri, 16 Aug 2024 02:00:00 +0100"
     },
     {
       "title": "Wilson Odobert",
@@ -52,8 +67,8 @@
       "pubdate": "Fri, 16 Aug 2024 14:00:00 +0100"
     },
     {
-      "title": "Fantasy Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fantasy%20Football",
+      "title": "Fantasy football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fantasy%20football",
       "pubdate": "Fri, 16 Aug 2024 19:00:00 +0100"
     },
     {
@@ -62,9 +77,9 @@
       "pubdate": "Fri, 16 Aug 2024 22:00:00 +0100"
     },
     {
-      "title": "Ipswich Town",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ipswich%20Town",
-      "pubdate": "Fri, 16 Aug 2024 02:00:00 +0100"
+      "title": "Mazraoui",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mazraoui",
+      "pubdate": "Fri, 16 Aug 2024 19:00:00 +0100"
     },
     {
       "title": "Raygun Olympics",
@@ -85,21 +100,6 @@
       "title": "Szmodics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Szmodics",
       "pubdate": "Fri, 16 Aug 2024 17:00:00 +0100"
-    },
-    {
-      "title": "The Bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Bear",
-      "pubdate": "Fri, 16 Aug 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bayern%20Munich",
-      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Cameron Archer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cameron%20Archer",
-      "pubdate": "Fri, 16 Aug 2024 16:00:00 +0100"
     }
   ]
 }
