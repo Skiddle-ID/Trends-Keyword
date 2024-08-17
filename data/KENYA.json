@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "16-08-2024 , 23:35:20",
+  "lastUpdate": "17-08-2024 , 01:43:10",
   "data": [
     {
-      "title": "Live",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
-      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0300"
+      "title": "Moreirense vs Arouca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moreirense%20vs%20Arouca",
+      "pubdate": "Sat, 17 Aug 2024 02:00:00 +0300"
     },
     {
       "title": "Coventry City",
@@ -17,24 +17,24 @@
       "pubdate": "Sat, 17 Aug 2024 01:00:00 +0300"
     },
     {
-      "title": "Fantasy Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fantasy%20Premier%20League",
-      "pubdate": "Fri, 16 Aug 2024 16:00:00 +0300"
+      "title": "Football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Football",
+      "pubdate": "Sat, 17 Aug 2024 03:00:00 +0300"
     },
     {
-      "title": "Le Havre vs PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Le%20Havre%20vs%20PSG",
-      "pubdate": "Fri, 16 Aug 2024 20:00:00 +0300"
+      "title": "Fantasy Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fantasy%20Premier%20League",
+      "pubdate": "Fri, 16 Aug 2024 17:00:00 +0300"
+    },
+    {
+      "title": "FPL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
+      "pubdate": "Fri, 16 Aug 2024 16:00:00 +0300"
     },
     {
       "title": "Premier League fixtures",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League%20fixtures",
       "pubdate": "Fri, 16 Aug 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Premier League games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League%20games",
-      "pubdate": "Fri, 16 Aug 2024 16:00:00 +0300"
     },
     {
       "title": "West Ham vs Aston Villa",
@@ -77,11 +77,6 @@
       "pubdate": "Fri, 16 Aug 2024 15:00:00 +0300"
     },
     {
-      "title": "DStv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#DStv",
-      "pubdate": "Fri, 16 Aug 2024 23:00:00 +0300"
-    },
-    {
       "title": "Chelsea vs Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Man%20City",
       "pubdate": "Fri, 16 Aug 2024 18:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Fantasy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fantasy",
       "pubdate": "Fri, 16 Aug 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Mason Greenwood",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mason%20Greenwood",
+      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0300"
     }
   ]
 }

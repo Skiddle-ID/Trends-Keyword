@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "16-08-2024 , 23:35:23",
+  "lastUpdate": "17-08-2024 , 01:43:14",
   "data": [
+    {
+      "title": "Serie A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20A",
+      "pubdate": "Sat, 17 Aug 2024 02:00:00 +0200"
+    },
     {
       "title": "Ralf Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ralf%20Schumacher",
@@ -12,14 +17,14 @@
       "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
     },
     {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+      "pubdate": "Fri, 16 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "The Union",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Union",
       "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Fantasy Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fantasy%20Premier%20League",
-      "pubdate": "Fri, 16 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Bäst i test 2024",
@@ -42,14 +47,14 @@
       "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "DIF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
-      "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
-    },
-    {
       "title": "Infinite Mass",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Infinite%20Mass",
       "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "DIF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
+      "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Northvolt",
@@ -87,19 +92,14 @@
       "pubdate": "Fri, 16 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Björklöven Skellefteå",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rkl%C3%B6ven%20Skellefte%C3%A5",
-      "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#United",
-      "pubdate": "Fri, 16 Aug 2024 23:00:00 +0200"
-    },
-    {
       "title": "Icona Pop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Icona%20Pop",
       "pubdate": "Fri, 16 Aug 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Mpox Sverige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mpox%20Sverige",
+      "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
     }
   ]
 }
