@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "17-08-2024 , 23:36:53",
+  "lastUpdate": "18-08-2024 , 01:51:18",
   "data": [
+    {
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
+      "pubdate": "Sun, 18 Aug 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Monica Törnell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Monica%20T%C3%B6rnell",
+      "pubdate": "Sat, 17 Aug 2024 12:00:00 +0200"
+    },
     {
       "title": "Malmö FF mot Norrköping",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Norrk%C3%B6ping",
@@ -27,6 +37,11 @@
       "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
     },
     {
+      "title": "Stryktipset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stryktipset",
+      "pubdate": "Sat, 17 Aug 2024 08:00:00 +0200"
+    },
+    {
       "title": "Hammarby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
@@ -47,11 +62,6 @@
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Ultravasan 90",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ultravasan%2090",
-      "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
-    },
-    {
       "title": "Ralf Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ralf%20Schumacher",
       "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
@@ -62,9 +72,14 @@
       "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Hannah graaf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hannah%20graaf",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+      "title": "Maja radenkovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20radenkovic",
+      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
+      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Albin Lee Meldau",
@@ -77,11 +92,6 @@
       "pubdate": "Sat, 17 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
-      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
-    },
-    {
       "title": "VSK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
       "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
@@ -90,16 +100,6 @@
       "title": "Amazon Prime Video",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amazon%20Prime%20Video",
       "pubdate": "Sat, 17 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20United",
-      "pubdate": "Sat, 17 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
-      "pubdate": "Sat, 17 Aug 2024 12:00:00 +0200"
     }
   ]
 }

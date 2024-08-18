@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 23:36:53",
+  "lastUpdate": "18-08-2024 , 01:51:19",
   "data": [
     {
       "title": "Claudio capeo",
@@ -12,9 +12,19 @@
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Xamax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax",
+      "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
+    },
+    {
       "title": "West Ham – Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#West%20Ham%20%E2%80%93%20Aston%20Villa",
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Jürgen Klopp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#J%C3%BCrgen%20Klopp",
+      "pubdate": "Sun, 18 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "Rihanna",
@@ -27,24 +37,29 @@
       "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Silvio Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silvio%20Santos",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
+      "title": "Araignée violoniste",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Araign%C3%A9e%20violoniste",
+      "pubdate": "Sat, 17 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-      "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
+      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Bundesliga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga",
       "pubdate": "Sat, 17 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
+      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga",
+      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Phönix Lübeck – Dortmund",
@@ -62,14 +77,14 @@
       "pubdate": "Sat, 17 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Lamborghini Temerario",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lamborghini%20Temerario",
-      "pubdate": "Sat, 17 Aug 2024 01:00:00 +0200"
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
+      "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Coupe de Suisse",
@@ -77,29 +92,14 @@
       "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
     },
     {
+      "title": "Lamborghini Temerario",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lamborghini%20Temerario",
+      "pubdate": "Sat, 17 Aug 2024 01:00:00 +0200"
+    },
+    {
       "title": "Vuelta 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vuelta%202024",
       "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Sky Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sky%20Sport",
-      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
     }
   ]
 }
