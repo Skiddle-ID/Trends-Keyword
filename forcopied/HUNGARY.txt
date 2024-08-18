@@ -1,1 +1,1 @@
-Alain Delon,Névnap,UFC,Leverkusen,Ádám Martin,A szabadság ötven árnyalata,Motogp,Ftc–újpest,Barcelona,Idojaras,Dvsc–diósgyőr,Radar,Milan–torino,West ham–aston Villa,István, a király,Fernando Alonso,Ralf Schumacher,Arsenal,Pl,Jürgen Klopp
+Delon,Névnap,UFC,Ádám Martin,A szabadság ötven árnyalata,Motogp,Lázár János MÁV vezérigazgató,Ftc–újpest,Barcelona,Idojaras,Novák Ferenc,Dvsc–diósgyőr,Radar,Milan–torino,West ham–aston Villa,Ralf Schumacher,István, a király,Fernando Alonso,Arsenal,PL

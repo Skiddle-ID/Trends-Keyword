@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "18-08-2024 , 11:35:52",
+  "lastUpdate": "18-08-2024 , 12:51:46",
   "data": [
+    {
+      "title": "Newcastle United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20United",
+      "pubdate": "Sun, 18 Aug 2024 09:00:00 +0100"
+    },
     {
       "title": "Alain Delon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alain%20Delon",
@@ -12,9 +17,19 @@
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0100"
     },
     {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#La%20Liga",
+      "pubdate": "Sun, 18 Aug 2024 00:00:00 +0100"
+    },
+    {
       "title": "Angel Gomes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Angel%20Gomes",
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Fabian Hürzeler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fabian%20H%C3%BCrzeler",
+      "pubdate": "Sun, 18 Aug 2024 10:00:00 +0100"
     },
     {
       "title": "Phil Jones",
@@ -62,11 +77,6 @@
       "pubdate": "Sat, 17 Aug 2024 17:00:00 +0100"
     },
     {
-      "title": "Rangers vs St Johnstone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers%20vs%20St%20Johnstone",
-      "pubdate": "Sat, 17 Aug 2024 18:00:00 +0100"
-    },
-    {
       "title": "Derby County",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Derby%20County",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Al%20Nassr",
       "pubdate": "Sat, 17 Aug 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Lfc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lfc",
-      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Paul Hollywood",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20Hollywood",
-      "pubdate": "Sat, 17 Aug 2024 08:00:00 +0100"
     }
   ]
 }

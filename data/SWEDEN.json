@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "18-08-2024 , 11:35:51",
+  "lastUpdate": "18-08-2024 , 12:51:45",
   "data": [
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
       "pubdate": "Sun, 18 Aug 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Djurgården",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+      "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Kyle Walker",
@@ -27,9 +32,24 @@
       "pubdate": "Sun, 18 Aug 2024 02:00:00 +0200"
     },
     {
+      "title": "Mjällby mot Elfsborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Elfsborg",
+      "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Monica Törnell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Monica%20T%C3%B6rnell",
+      "pubdate": "Sat, 17 Aug 2024 12:00:00 +0200"
+    },
+    {
       "title": "Malmö FF mot Norrköping",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Norrk%C3%B6ping",
       "pubdate": "Sat, 17 Aug 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Ironman Kalmar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ironman%20Kalmar",
+      "pubdate": "Sat, 17 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Liverpool",
@@ -47,11 +67,6 @@
       "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Hammarby",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
       "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
@@ -67,9 +82,9 @@
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Hannah graaf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hannah%20graaf",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+      "title": "Vallåkraträffen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vall%C3%A5kratr%C3%A4ffen",
+      "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
     },
     {
       "title": "Ralf Schumacher",
@@ -85,21 +100,6 @@
       "title": "Maja radenkovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20radenkovic",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Sirius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius",
-      "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Albin Lee Meldau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Albin%20Lee%20Meldau",
-      "pubdate": "Sat, 17 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "VSK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VSK",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 11:35:46",
+  "lastUpdate": "18-08-2024 , 12:51:39",
   "data": [
     {
       "title": "Alain Delon",
@@ -12,6 +12,11 @@
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Ironman Frankfurt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ironman%20Frankfurt",
+      "pubdate": "Sun, 18 Aug 2024 07:00:00 +0200"
+    },
+    {
       "title": "Supercup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Supercup",
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
@@ -22,14 +27,9 @@
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Rave the Planet Berlin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rave%20the%20Planet%20Berlin",
+      "title": "Rave The Planet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rave%20The%20Planet",
       "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Blauzungenkrankheit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Blauzungenkrankheit",
-      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Hannover 96",
@@ -47,14 +47,14 @@
       "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "Ricarda Lang",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ricarda%20Lang",
-      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
-    },
-    {
       "title": "Union Berlin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
       "pubdate": "Sat, 17 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Känguru",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%A4nguru",
+      "pubdate": "Sat, 17 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Silbermond",
@@ -62,14 +62,14 @@
       "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
     },
     {
+      "title": "Andy Borg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andy%20Borg",
+      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Rot-Weiss Essen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot-Weiss%20Essen",
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Somerset House",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Somerset%20House",
-      "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "DFB-Pokal",
