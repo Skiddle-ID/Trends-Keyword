@@ -1,6 +1,26 @@
 {
-  "lastUpdate": "19-08-2024 , 11:35:20",
+  "lastUpdate": "19-08-2024 , 12:53:31",
   "data": [
+    {
+      "title": "Tour de France feminin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20de%20France%20feminin",
+      "pubdate": "Mon, 19 Aug 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Michel guerard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20guerard",
+      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Lune bleue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lune%20bleue",
+      "pubdate": "Mon, 19 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Trombe marine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trombe%20marine",
+      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
+    },
     {
       "title": "Tudor Pro Cycling",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tudor%20Pro%20Cycling",
@@ -20,11 +40,6 @@
       "title": "Le samourai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20samourai",
       "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Tour de France feminin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20de%20France%20feminin",
-      "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Anthony Delon",
@@ -47,14 +62,19 @@
       "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
     },
     {
+      "title": "Frontignan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Frontignan",
+      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Niewiadoma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Niewiadoma",
+      "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
+    },
+    {
       "title": "OL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
       "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Gigean",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gigean",
-      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Auxerre – Nice",
@@ -62,14 +82,14 @@
       "pubdate": "Sun, 18 Aug 2024 15:00:00 +0200"
     },
     {
-      "title": "Plein Soleil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plein%20Soleil",
-      "pubdate": "Sun, 18 Aug 2024 13:00:00 +0200"
-    },
-    {
       "title": "Jeannie Longo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeannie%20Longo",
       "pubdate": "Sun, 18 Aug 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Madere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Madere",
+      "pubdate": "Sun, 18 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Tais-toi",
@@ -77,29 +97,9 @@
       "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Bourigeaud",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourigeaud",
-      "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Georgie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georgie",
-      "pubdate": "Sun, 18 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Plan blanc hopital Nord Franche comte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plan%20blanc%20hopital%20Nord%20Franche%20comte",
-      "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Eddy Mitchell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eddy%20Mitchell",
-      "pubdate": "Sun, 18 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Melodie en sous-sol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Melodie%20en%20sous-sol",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
+      "title": "Noisy-le-Sec",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Noisy-le-Sec",
+      "pubdate": "Sun, 18 Aug 2024 12:00:00 +0200"
     }
   ]
 }

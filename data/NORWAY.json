@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "19-08-2024 , 11:35:25",
+  "lastUpdate": "19-08-2024 , 12:53:35",
   "data": [
+    {
+      "title": "Campus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
+      "pubdate": "Mon, 19 Aug 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Gullfaks C",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gullfaks%20C",
+      "pubdate": "Mon, 19 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Chelsea mot Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Man%20City",
+      "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
+    },
     {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
       "pubdate": "Sun, 18 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Chelsea mot Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Man%20City",
-      "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "John Aprea",
@@ -27,14 +42,19 @@
       "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
     },
     {
+      "title": "Viking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Supermåne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Superm%C3%A5ne",
+      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
       "pubdate": "Sun, 18 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Viking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Quisling",
@@ -57,6 +77,11 @@
       "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
     },
     {
+      "title": "Tights.no",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tights.no",
+      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "Sarpsborg 08",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
       "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
@@ -67,39 +92,14 @@
       "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Tights.no",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tights.no",
-      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
-    },
-    {
       "title": "HamKam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
       "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Aune Sand",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aune%20Sand",
-      "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
-    },
-    {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-      "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Di Derre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Di%20Derre",
-      "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Folclore,Real Madrid,Vasco,Manchester City,Fortaleza,Alain Delon,Atlético-GO x Internacional,Athletico-PR x Juventude,Botafogo-SP x Paysandu,Brusque x Coritiba,Eliana,Lazio,Boca Juniors,Gretchen,Treze,Aposentadoria por Idade,Figueirense x São José,Patrick,Arrascaeta,Patryck sao Paulo
+Tottenham,Patryck,Real Madrid,Vasco,Manchester City,Atlético-GO x Internacional,Alain Delon,Botafogo-SP x Paysandu,Fortaleza esporte Clube,Brusque x Coritiba,Eliana,Boca Juniors,Lazio,Gretchen,Treze,Aposentadoria por Idade,Figueirense x São José,Arrascaeta,Brasileirão Feminino,Patrick
