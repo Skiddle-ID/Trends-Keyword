@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "18-08-2024 , 23:36:09",
+  "lastUpdate": "19-08-2024 , 01:48:14",
   "data": [
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-      "pubdate": "Sun, 18 Aug 2024 18:00:00 +0200"
+      "title": "Chelsea mot Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Man%20City",
+      "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
+      "title": "FFK mot Brann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FFK%20mot%20Brann",
+      "pubdate": "Sun, 18 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Philip Zinckernagel",
@@ -27,13 +27,13 @@
       "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City",
-      "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
+      "title": "Viking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Supermåne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Superm%C3%A5ne",
+      "title": "Quislings siste dager",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Quislings%20siste%20dager",
       "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     },
     {
@@ -47,11 +47,6 @@
       "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Viking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
-    },
-    {
       "title": "Henriette Steenstrup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Henriette%20Steenstrup",
       "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
@@ -60,11 +55,6 @@
       "title": "Hovland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hovland",
       "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Quisling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Quisling",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Sarpsborg 08",
@@ -82,11 +72,6 @@
       "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
     },
     {
-      "title": "HamKam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-      "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
-    },
-    {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
       "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
@@ -97,9 +82,24 @@
       "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
     },
     {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+      "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
+    },
+    {
       "title": "Di Derre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Di%20Derre",
       "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Toppidrettsveka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toppidrettsveka",
+      "pubdate": "Sat, 17 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+      "pubdate": "Sat, 17 Aug 2024 22:00:00 +0200"
     }
   ]
 }
