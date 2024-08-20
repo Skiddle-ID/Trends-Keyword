@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2024 , 23:36:22",
+  "lastUpdate": "20-08-2024 , 01:46:03",
   "data": [
     {
       "title": "Mackmyra",
@@ -12,6 +12,11 @@
       "pubdate": "Mon, 19 Aug 2024 18:00:00 +0200"
     },
     {
+      "title": "Pontus Winnberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pontus%20Winnberg",
+      "pubdate": "Mon, 19 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "Ingemar Stenmark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ingemar%20Stenmark",
       "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
@@ -20,11 +25,6 @@
       "title": "Phil Donahue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Phil%20Donahue",
       "pubdate": "Mon, 19 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Alba August",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alba%20August",
-      "pubdate": "Mon, 19 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Joseph Quinn",
@@ -40,6 +40,16 @@
       "title": "Oscar Engelbert",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oscar%20Engelbert",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Patrik Laine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrik%20Laine",
+      "pubdate": "Mon, 19 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Supermånen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superm%C3%A5nen",
+      "pubdate": "Mon, 19 Aug 2024 23:00:00 +0200"
     },
     {
       "title": "Leif och Billy",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "DIF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
-      "pubdate": "Sun, 18 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Kyle Walker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kyle%20Walker",
-      "pubdate": "Sun, 18 Aug 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Mwuana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mwuana",
-      "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+      "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
     }
   ]
 }

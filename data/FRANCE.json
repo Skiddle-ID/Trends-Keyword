@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2024 , 23:36:15",
+  "lastUpdate": "20-08-2024 , 01:45:52",
   "data": [
     {
       "title": "Kamala Harris",
@@ -7,14 +7,29 @@
       "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Michel guerard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20guerard",
-      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
+      "title": "Le cheval pale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20cheval%20pale",
+      "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
     },
     {
       "title": "Lune bleue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lune%20bleue",
       "pubdate": "Mon, 19 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Michel guerard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20guerard",
+      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Tour de France feminin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20de%20France%20feminin",
+      "pubdate": "Mon, 19 Aug 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Mike Lynch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mike%20Lynch",
+      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Metz – Bastia",
@@ -25,11 +40,6 @@
       "title": "L'Amour est dans le pré",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Amour%20est%20dans%20le%20pr%C3%A9",
       "pubdate": "Mon, 19 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Mike Lynch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mike%20Lynch",
-      "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Thierry Henry",
@@ -57,6 +67,16 @@
       "pubdate": "Mon, 19 Aug 2024 12:00:00 +0200"
     },
     {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juventus",
+      "pubdate": "Mon, 19 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Atletico%20Madrid",
+      "pubdate": "Mon, 19 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "US Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#US%20Open",
       "pubdate": "Mon, 19 Aug 2024 22:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Le samourai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20samourai",
       "pubdate": "Sun, 18 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Plein soleil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plein%20soleil",
-      "pubdate": "Sun, 18 Aug 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Anthony Delon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anthony%20Delon",
-      "pubdate": "Sun, 18 Aug 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Chelsea – Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea%20%E2%80%93%20Manchester%20City",
-      "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Melodie en sous-sol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Melodie%20en%20sous-sol",
-      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
     }
   ]
 }
