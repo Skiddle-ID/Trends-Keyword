@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 11:36:18",
+  "lastUpdate": "20-08-2024 , 12:53:44",
   "data": [
     {
       "title": "Sam Landsberger",
@@ -7,18 +7,18 @@
       "pubdate": "Tue, 20 Aug 2024 18:00:00 +1000"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+      "title": "Leicester City vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leicester%20City%20vs%20Tottenham",
       "pubdate": "Tue, 20 Aug 2024 03:00:00 +1000"
-    },
-    {
-      "title": "Phil Donahue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phil%20Donahue",
-      "pubdate": "Tue, 20 Aug 2024 06:00:00 +1000"
     },
     {
       "title": "Mike Lynch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mike%20Lynch",
+      "pubdate": "Tue, 20 Aug 2024 06:00:00 +1000"
+    },
+    {
+      "title": "Phil Donahue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phil%20Donahue",
       "pubdate": "Tue, 20 Aug 2024 06:00:00 +1000"
     },
     {
@@ -57,6 +57,11 @@
       "pubdate": "Tue, 20 Aug 2024 12:00:00 +1000"
     },
     {
+      "title": "Sam Neill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Neill",
+      "pubdate": "Tue, 20 Aug 2024 21:00:00 +1000"
+    },
+    {
       "title": "Belinda Carlisle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Belinda%20Carlisle",
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +1000"
@@ -82,24 +87,19 @@
       "pubdate": "Tue, 20 Aug 2024 15:00:00 +1000"
     },
     {
+      "title": "Ram",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ram",
+      "pubdate": "Tue, 20 Aug 2024 13:00:00 +1000"
+    },
+    {
       "title": "Millie Bobby Brown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Millie%20Bobby%20Brown",
       "pubdate": "Tue, 20 Aug 2024 16:00:00 +1000"
     },
     {
-      "title": "Zoe Kravitz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zoe%20Kravitz",
-      "pubdate": "Tue, 20 Aug 2024 11:00:00 +1000"
-    },
-    {
       "title": "Lake Conjola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lake%20Conjola",
       "pubdate": "Tue, 20 Aug 2024 18:00:00 +1000"
-    },
-    {
-      "title": "Madison Beer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Madison%20Beer",
-      "pubdate": "Tue, 20 Aug 2024 13:00:00 +1000"
     }
   ]
 }

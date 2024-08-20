@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "20-08-2024 , 11:36:23",
+  "lastUpdate": "20-08-2024 , 12:53:48",
   "data": [
+    {
+      "title": "Black Myth: Wukong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Black%20Myth:%20Wukong",
+      "pubdate": "Tue, 20 Aug 2024 09:00:00 +0200"
+    },
     {
       "title": "Krausz Ferenc",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Krausz%20Ferenc",
       "pubdate": "Tue, 20 Aug 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Tisztavatás 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisztavat%C3%A1s%202024",
-      "pubdate": "Tue, 20 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Felhőszakadás",
@@ -17,9 +17,19 @@
       "pubdate": "Tue, 20 Aug 2024 08:00:00 +0200"
     },
     {
+      "title": "Államalapítás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81llamalap%C3%ADt%C3%A1s",
+      "pubdate": "Tue, 20 Aug 2024 09:00:00 +0200"
+    },
+    {
       "title": "Gündogan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%BCndogan",
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Augusztus 20 légiparádé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Augusztus%2020%20l%C3%A9gipar%C3%A1d%C3%A9",
+      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Doja Cat",
@@ -32,19 +42,24 @@
       "pubdate": "Tue, 20 Aug 2024 07:00:00 +0200"
     },
     {
+      "title": "Hold",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hold",
+      "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
+    },
+    {
       "title": "Mike Tyson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mike%20Tyson",
       "pubdate": "Tue, 20 Aug 2024 08:00:00 +0200"
     },
     {
+      "title": "Viragkarneval",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Viragkarneval",
+      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0200"
+    },
+    {
       "title": "Mike Lynch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mike%20Lynch",
       "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Leicester–tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leicester%E2%80%93tottenham",
-      "pubdate": "Mon, 19 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Siklóernyős baleset Tapolca",
@@ -62,14 +77,14 @@
       "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
     },
     {
-      "title": "Wladár Sándor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wlad%C3%A1r%20S%C3%A1ndor",
-      "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
-    },
-    {
       "title": "Virágkarnevál Debrecen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vir%C3%A1gkarnev%C3%A1l%20Debrecen",
       "pubdate": "Mon, 19 Aug 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Ország tortája",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orsz%C3%A1g%20tort%C3%A1ja",
+      "pubdate": "Mon, 19 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Kincsem",
@@ -85,21 +100,6 @@
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
       "pubdate": "Mon, 19 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Hold",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hold",
-      "pubdate": "Mon, 19 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Szent István",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szent%20Istv%C3%A1n",
-      "pubdate": "Mon, 19 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Tom Lacoux",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Lacoux",
-      "pubdate": "Mon, 19 Aug 2024 20:00:00 +0200"
     }
   ]
 }

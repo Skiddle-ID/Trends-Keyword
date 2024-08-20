@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 11:36:18",
+  "lastUpdate": "20-08-2024 , 12:53:43",
   "data": [
     {
       "title": "Phil Donahue",
@@ -17,14 +17,14 @@
       "pubdate": "Mon, 19 Aug 2024 16:00:00 -0700"
     },
     {
-      "title": "CANVAS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CANVAS",
-      "pubdate": "Mon, 19 Aug 2024 05:00:00 -0700"
-    },
-    {
       "title": "Ashley Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashley%20Biden",
       "pubdate": "Mon, 19 Aug 2024 21:00:00 -0700"
+    },
+    {
+      "title": "CANVAS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CANVAS",
+      "pubdate": "Mon, 19 Aug 2024 05:00:00 -0700"
     },
     {
       "title": "Hillary Clinton",
@@ -37,8 +37,8 @@
       "pubdate": "Mon, 19 Aug 2024 20:00:00 -0700"
     },
     {
-      "title": "Epic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Epic",
+      "title": "EPIC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#EPIC",
       "pubdate": "Mon, 19 Aug 2024 07:00:00 -0700"
     },
     {
@@ -47,18 +47,8 @@
       "pubdate": "Mon, 19 Aug 2024 21:00:00 -0700"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
-      "pubdate": "Mon, 19 Aug 2024 12:00:00 -0700"
-    },
-    {
       "title": "AOC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AOC",
-      "pubdate": "Mon, 19 Aug 2024 19:00:00 -0700"
-    },
-    {
-      "title": "Steve Kerr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steve%20Kerr",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 -0700"
     },
     {
@@ -82,9 +72,24 @@
       "pubdate": "Mon, 19 Aug 2024 16:00:00 -0700"
     },
     {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
+      "pubdate": "Mon, 19 Aug 2024 12:00:00 -0700"
+    },
+    {
       "title": "The Acolyte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Acolyte",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 -0700"
+    },
+    {
+      "title": "Classroom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Classroom",
+      "pubdate": "Mon, 19 Aug 2024 09:00:00 -0700"
+    },
+    {
+      "title": "Hadley Duvall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hadley%20Duvall",
+      "pubdate": "Mon, 19 Aug 2024 21:00:00 -0700"
     },
     {
       "title": "Brat",
@@ -95,11 +100,6 @@
       "title": "Scab",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scab",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 -0700"
-    },
-    {
-      "title": "Doja Cat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doja%20Cat",
-      "pubdate": "Mon, 19 Aug 2024 04:00:00 -0700"
     }
   ]
 }
