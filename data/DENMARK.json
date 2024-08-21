@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-08-2024 , 01:46:08",
+  "lastUpdate": "21-08-2024 , 02:47:54",
   "data": [
+    {
+      "title": "Marco polo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marco%20polo",
+      "pubdate": "Wed, 21 Aug 2024 00:00:00 +0200"
+    },
     {
       "title": "Black Myth: Wukong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Myth:%20Wukong",
@@ -95,11 +100,6 @@
       "title": "ABC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
       "pubdate": "Mon, 19 Aug 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Bavarian Nordic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bavarian%20Nordic",
-      "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
     }
   ]
 }
