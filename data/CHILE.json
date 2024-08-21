@@ -1,19 +1,29 @@
 {
-  "lastUpdate": "21-08-2024 , 11:36:22",
+  "lastUpdate": "21-08-2024 , 12:49:03",
   "data": [
-    {
-      "title": "Austin Palao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Austin%20Palao",
-      "pubdate": "Wed, 21 Aug 2024 00:00:00 -0400"
-    },
     {
       "title": "Fernando gonzalez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fernando%20gonzalez",
       "pubdate": "Wed, 21 Aug 2024 00:00:00 -0400"
     },
     {
+      "title": "Austin Palao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Austin%20Palao",
+      "pubdate": "Wed, 21 Aug 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Jennifer Lopez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jennifer%20Lopez",
+      "pubdate": "Wed, 21 Aug 2024 08:00:00 -0400"
+    },
+    {
       "title": "Racing  Huachipato",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20Huachipato",
+      "pubdate": "Tue, 20 Aug 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Fluminense  grêmio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20%20gr%C3%AAmio",
       "pubdate": "Tue, 20 Aug 2024 18:00:00 -0400"
     },
     {
@@ -22,14 +32,14 @@
       "pubdate": "Tue, 20 Aug 2024 22:00:00 -0400"
     },
     {
-      "title": "Fluminense  grêmio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20%20gr%C3%AAmio",
-      "pubdate": "Tue, 20 Aug 2024 18:00:00 -0400"
-    },
-    {
       "title": "San Lorenzo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Lorenzo",
       "pubdate": "Tue, 20 Aug 2024 22:00:00 -0400"
+    },
+    {
+      "title": "River vs Talleres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20vs%20Talleres",
+      "pubdate": "Tue, 20 Aug 2024 23:00:00 -0400"
     },
     {
       "title": "Dia de la Papa Frita",
@@ -39,11 +49,6 @@
     {
       "title": "Alianza Lima  Cienciano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima%20%20Cienciano",
-      "pubdate": "Tue, 20 Aug 2024 23:00:00 -0400"
-    },
-    {
-      "title": "River Plate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate",
       "pubdate": "Tue, 20 Aug 2024 23:00:00 -0400"
     },
     {
@@ -67,11 +72,6 @@
       "pubdate": "Tue, 20 Aug 2024 02:00:00 -0400"
     },
     {
-      "title": "Cuartos de final Copa Libertadores 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuartos%20de%20final%20Copa%20Libertadores%202024",
-      "pubdate": "Tue, 20 Aug 2024 23:00:00 -0400"
-    },
-    {
       "title": "Corinthians",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corinthians",
       "pubdate": "Tue, 20 Aug 2024 23:00:00 -0400"
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 20 Aug 2024 21:00:00 -0400"
     },
     {
-      "title": "Hillary Clinton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hillary%20Clinton",
-      "pubdate": "Tue, 20 Aug 2024 14:00:00 -0400"
-    },
-    {
       "title": "The Acolyte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#The%20Acolyte",
       "pubdate": "Tue, 20 Aug 2024 17:00:00 -0400"
+    },
+    {
+      "title": "Junior  colo-colo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Junior%20%20colo-colo",
+      "pubdate": "Mon, 19 Aug 2024 23:00:00 -0400"
     }
   ]
 }

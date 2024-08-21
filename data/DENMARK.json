@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2024 , 11:36:23",
+  "lastUpdate": "21-08-2024 , 12:49:04",
   "data": [
     {
       "title": "Ben Affleck",
@@ -7,14 +7,19 @@
       "pubdate": "Wed, 21 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "Barack Obama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barack%20Obama",
+      "title": "Michelle Obama",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michelle%20Obama",
       "pubdate": "Wed, 21 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Marco polo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marco%20polo",
       "pubdate": "Wed, 21 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Joachim Andersen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joachim%20Andersen",
+      "pubdate": "Wed, 21 Aug 2024 11:00:00 +0200"
     },
     {
       "title": "Katy Perry",
@@ -32,14 +37,14 @@
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-      "pubdate": "Tue, 20 Aug 2024 11:00:00 +0200"
-    },
-    {
       "title": "Clostebol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clostebol",
       "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+      "pubdate": "Tue, 20 Aug 2024 11:00:00 +0200"
     },
     {
       "title": "Irmgard Furchner",
@@ -95,11 +100,6 @@
       "title": "AGF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AGF",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Word",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Word",
-      "pubdate": "Mon, 19 Aug 2024 10:00:00 +0200"
     }
   ]
 }

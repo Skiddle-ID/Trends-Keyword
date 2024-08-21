@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "21-08-2024 , 11:36:28",
+  "lastUpdate": "21-08-2024 , 12:49:09",
   "data": [
+    {
+      "title": "Jensen Ackles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jensen%20Ackles",
+      "pubdate": "Thu, 22 Aug 2024 00:00:00 +1200"
+    },
     {
       "title": "Rendang",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rendang",
       "pubdate": "Wed, 21 Aug 2024 01:00:00 +1200"
-    },
-    {
-      "title": "Jacinda Ardern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jacinda%20Ardern",
-      "pubdate": "Wed, 21 Aug 2024 15:00:00 +1200"
     },
     {
       "title": "Ben Affleck",
@@ -27,6 +27,11 @@
       "pubdate": "Wed, 21 Aug 2024 18:00:00 +1200"
     },
     {
+      "title": "Pakistan vs Bangladesh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20Bangladesh",
+      "pubdate": "Wed, 21 Aug 2024 20:00:00 +1200"
+    },
+    {
       "title": "Mulch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mulch",
       "pubdate": "Wed, 21 Aug 2024 14:00:00 +1200"
@@ -37,19 +42,9 @@
       "pubdate": "Wed, 21 Aug 2024 08:00:00 +1200"
     },
     {
-      "title": "Pakistan vs Bangladesh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20Bangladesh",
-      "pubdate": "Wed, 21 Aug 2024 20:00:00 +1200"
-    },
-    {
       "title": "Sam Landsberger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sam%20Landsberger",
       "pubdate": "Wed, 21 Aug 2024 11:00:00 +1200"
-    },
-    {
-      "title": "Ice Spice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ice%20Spice",
-      "pubdate": "Wed, 21 Aug 2024 08:00:00 +1200"
     },
     {
       "title": "Jannik Sinner",
@@ -100,6 +95,11 @@
       "title": "ANZ mortgage rates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ANZ%20mortgage%20rates",
       "pubdate": "Mon, 19 Aug 2024 16:00:00 +1200"
+    },
+    {
+      "title": "Monkeypox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Monkeypox",
+      "pubdate": "Mon, 19 Aug 2024 19:00:00 +1200"
     }
   ]
 }
