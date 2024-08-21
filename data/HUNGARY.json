@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:03",
+  "lastUpdate": "21-08-2024 , 01:46:10",
   "data": [
     {
       "title": "István, a király",
@@ -27,11 +27,6 @@
       "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Gamescom 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gamescom%202024",
-      "pubdate": "Tue, 20 Aug 2024 17:00:00 +0200"
-    },
-    {
       "title": "Rost Andrea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rost%20Andrea",
       "pubdate": "Tue, 20 Aug 2024 21:00:00 +0200"
@@ -42,14 +37,19 @@
       "pubdate": "Tue, 20 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "Augusztus 20 légiparádé",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Augusztus%2020%20l%C3%A9gipar%C3%A1d%C3%A9",
-      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0200"
-    },
-    {
       "title": "John Wick",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Wick",
       "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Gamescom 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gamescom%202024",
+      "pubdate": "Tue, 20 Aug 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Chuck Norris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chuck%20Norris",
+      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0200"
     },
     {
       "title": "Kecskemét augusztus 20",
@@ -82,9 +82,9 @@
       "pubdate": "Tue, 20 Aug 2024 07:00:00 +0200"
     },
     {
-      "title": "Tortuga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tortuga",
-      "pubdate": "Tue, 20 Aug 2024 18:00:00 +0200"
+      "title": "Franco Nero",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franco%20Nero",
+      "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "HírTV",
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 20 Aug 2024 23:00:00 +0200"
     },
     {
-      "title": "Franco Nero",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franco%20Nero",
-      "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
+      "title": "Tortuga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tortuga",
+      "pubdate": "Tue, 20 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Chuck Norris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chuck%20Norris",
-      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0200"
+      "title": "Augusztus 20 légiparádé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Augusztus%2020%20l%C3%A9gipar%C3%A1d%C3%A9",
+      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0200"
     }
   ]
 }

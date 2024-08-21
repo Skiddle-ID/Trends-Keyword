@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:01",
+  "lastUpdate": "21-08-2024 , 01:46:08",
   "data": [
     {
       "title": "Black Myth: Wukong",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 19 Aug 2024 10:00:00 +0200"
     },
     {
+      "title": "ABC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
+      "pubdate": "Mon, 19 Aug 2024 10:00:00 +0200"
+    },
+    {
       "title": "Bavarian Nordic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bavarian%20Nordic",
       "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Slides",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
-      "pubdate": "Mon, 19 Aug 2024 12:00:00 +0200"
     }
   ]
 }

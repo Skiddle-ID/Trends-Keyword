@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:05",
+  "lastUpdate": "21-08-2024 , 01:46:12",
   "data": [
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bayern%20Munich",
+      "pubdate": "Wed, 21 Aug 2024 06:00:00 +0800"
+    },
     {
       "title": "Black Myth: Wukong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Black%20Myth:%20Wukong",
@@ -37,11 +42,6 @@
       "pubdate": "Tue, 20 Aug 2024 12:00:00 +0800"
     },
     {
-      "title": "Public Bank share price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Public%20Bank%20share%20price",
-      "pubdate": "Tue, 20 Aug 2024 12:00:00 +0800"
-    },
-    {
       "title": "China Philippines South China Sea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#China%20Philippines%20South%20China%20Sea",
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +0800"
@@ -52,14 +52,14 @@
       "pubdate": "Tue, 20 Aug 2024 17:00:00 +0800"
     },
     {
-      "title": "George Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#George%20Santos",
-      "pubdate": "Tue, 20 Aug 2024 17:00:00 +0800"
-    },
-    {
       "title": "Atsuko Tanaka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Atsuko%20Tanaka",
       "pubdate": "Tue, 20 Aug 2024 22:00:00 +0800"
+    },
+    {
+      "title": "George Santos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#George%20Santos",
+      "pubdate": "Tue, 20 Aug 2024 17:00:00 +0800"
     },
     {
       "title": "Japan Open",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 19 Aug 2024 11:00:00 +0800"
     },
     {
+      "title": "Muhyiddin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Muhyiddin",
+      "pubdate": "Mon, 19 Aug 2024 11:00:00 +0800"
+    },
+    {
       "title": "Girl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Girl",
       "pubdate": "Mon, 19 Aug 2024 20:00:00 +0800"
-    },
-    {
-      "title": "Joseph Quinn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Joseph%20Quinn",
-      "pubdate": "Mon, 19 Aug 2024 12:00:00 +0800"
     }
   ]
 }

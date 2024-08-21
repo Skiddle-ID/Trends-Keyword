@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:09",
+  "lastUpdate": "21-08-2024 , 01:46:16",
   "data": [
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joe%20Biden",
+      "pubdate": "Wed, 21 Aug 2024 00:00:00 +0100"
+    },
     {
       "title": "Black Myth: Wukong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Black%20Myth:%20Wukong",
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Joao Felix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joao%20Felix",
+      "pubdate": "Tue, 20 Aug 2024 11:00:00 +0100"
     },
     {
       "title": "Stephen Chamberlain",
@@ -27,11 +37,6 @@
       "pubdate": "Tue, 20 Aug 2024 18:00:00 +0100"
     },
     {
-      "title": "Sam Landsberger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sam%20Landsberger",
-      "pubdate": "Tue, 20 Aug 2024 16:00:00 +0100"
-    },
-    {
       "title": "The Acolyte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Acolyte",
       "pubdate": "Tue, 20 Aug 2024 12:00:00 +0100"
@@ -47,19 +52,29 @@
       "pubdate": "Tue, 20 Aug 2024 14:00:00 +0100"
     },
     {
-      "title": "Labour right to switch off",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Labour%20right%20to%20switch%20off",
-      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0100"
-    },
-    {
       "title": "Mpox virus outbreak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mpox%20virus%20outbreak",
       "pubdate": "Tue, 20 Aug 2024 22:00:00 +0100"
     },
     {
+      "title": "Labour right to switch off",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Labour%20right%20to%20switch%20off",
+      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Jack Antonoff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jack%20Antonoff",
+      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0100"
+    },
+    {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jannik%20Sinner",
       "pubdate": "Tue, 20 Aug 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Alicia Silverstone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alicia%20Silverstone",
+      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0100"
     },
     {
       "title": "Juventus",
@@ -72,34 +87,19 @@
       "pubdate": "Tue, 20 Aug 2024 12:00:00 +0100"
     },
     {
-      "title": "Jack Antonoff",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jack%20Antonoff",
-      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0100"
-    },
-    {
       "title": "Pension Credit",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pension%20Credit",
       "pubdate": "Tue, 20 Aug 2024 20:00:00 +0100"
     },
     {
-      "title": "Alicia Silverstone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alicia%20Silverstone",
+      "title": "Gamescom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gamescom",
       "pubdate": "Tue, 20 Aug 2024 23:00:00 +0100"
     },
     {
       "title": "Bentancur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bentancur",
       "pubdate": "Tue, 20 Aug 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Catfish and the Bottlemen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Catfish%20and%20the%20Bottlemen",
-      "pubdate": "Tue, 20 Aug 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Gamescom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gamescom",
-      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0100"
     }
   ]
 }

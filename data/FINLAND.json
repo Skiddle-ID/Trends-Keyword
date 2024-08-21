@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:02",
+  "lastUpdate": "21-08-2024 , 01:46:09",
   "data": [
     {
       "title": "Gamescom",
@@ -17,11 +17,6 @@
       "pubdate": "Tue, 20 Aug 2024 09:00:00 +0300"
     },
     {
-      "title": "Matthew Perry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matthew%20Perry",
-      "pubdate": "Tue, 20 Aug 2024 00:00:00 +0300"
-    },
-    {
       "title": "Leicester City – Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leicester%20City%20%E2%80%93%20Tottenham",
       "pubdate": "Tue, 20 Aug 2024 01:00:00 +0300"
@@ -32,9 +27,19 @@
       "pubdate": "Tue, 20 Aug 2024 17:00:00 +0300"
     },
     {
+      "title": "Training day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Training%20day",
+      "pubdate": "Tue, 20 Aug 2024 23:00:00 +0300"
+    },
+    {
       "title": "Gosder Cherilus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gosder%20Cherilus",
       "pubdate": "Tue, 20 Aug 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Matthew Perry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matthew%20Perry",
+      "pubdate": "Tue, 20 Aug 2024 00:00:00 +0300"
     },
     {
       "title": "Dakota Johnson",
@@ -95,11 +100,6 @@
       "title": "Lamborghini Temerario",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamborghini%20Temerario",
       "pubdate": "Sun, 18 Aug 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Bebe Rexha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bebe%20Rexha",
-      "pubdate": "Sun, 18 Aug 2024 12:00:00 +0300"
     }
   ]
 }

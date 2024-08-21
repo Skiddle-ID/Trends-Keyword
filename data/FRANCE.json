@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:02",
+  "lastUpdate": "21-08-2024 , 01:46:09",
   "data": [
     {
       "title": "Koh-Lanta",
@@ -22,14 +22,14 @@
       "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Cyril Hanouna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
-      "pubdate": "Tue, 20 Aug 2024 14:00:00 +0200"
-    },
-    {
       "title": "María Branyas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mar%C3%ADa%20Branyas",
       "pubdate": "Tue, 20 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Cyril Hanouna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
+      "pubdate": "Tue, 20 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Madere",
@@ -57,11 +57,6 @@
       "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Irmgard Furchner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Irmgard%20Furchner",
-      "pubdate": "Tue, 20 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "The Acolyte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Acolyte",
       "pubdate": "Tue, 20 Aug 2024 15:00:00 +0200"
@@ -77,11 +72,6 @@
       "pubdate": "Tue, 20 Aug 2024 20:00:00 +0200"
     },
     {
-      "title": "Mike Lynch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mike%20Lynch",
-      "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
-    },
-    {
       "title": "Michel guerard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20guerard",
       "pubdate": "Mon, 19 Aug 2024 13:00:00 +0200"
@@ -92,6 +82,11 @@
       "pubdate": "Mon, 19 Aug 2024 08:00:00 +0200"
     },
     {
+      "title": "Mike Lynch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mike%20Lynch",
+      "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
+    },
+    {
       "title": "Thierry Henry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Henry",
       "pubdate": "Mon, 19 Aug 2024 19:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sinner",
       "pubdate": "Mon, 19 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "L'amour est dans le pré",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'amour%20est%20dans%20le%20pr%C3%A9",
+      "pubdate": "Mon, 19 Aug 2024 20:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 23:35:04",
+  "lastUpdate": "21-08-2024 , 01:46:10",
   "data": [
     {
       "title": "Rendang",
@@ -7,14 +7,24 @@
       "pubdate": "Wed, 21 Aug 2024 01:00:00 +0700"
     },
     {
-      "title": "Arhan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arhan",
-      "pubdate": "Tue, 20 Aug 2024 22:00:00 +0700"
+      "title": "Fuji",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fuji",
+      "pubdate": "Wed, 21 Aug 2024 07:00:00 +0700"
     },
     {
       "title": "Villarreal vs atlético Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Villarreal%20vs%20atl%C3%A9tico%20Madrid",
       "pubdate": "Tue, 20 Aug 2024 02:00:00 +0700"
+    },
+    {
+      "title": "Putusan MK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Putusan%20MK",
+      "pubdate": "Tue, 20 Aug 2024 13:00:00 +0700"
+    },
+    {
+      "title": "Arti lagu Traitor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arti%20lagu%20Traitor",
+      "pubdate": "Tue, 20 Aug 2024 21:00:00 +0700"
     },
     {
       "title": "Atletico Madrid",
@@ -45,11 +55,6 @@
       "title": "Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atalanta",
       "pubdate": "Tue, 20 Aug 2024 00:00:00 +0700"
-    },
-    {
-      "title": "Traitor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Traitor",
-      "pubdate": "Tue, 20 Aug 2024 22:00:00 +0700"
     },
     {
       "title": "Championship",
@@ -87,19 +92,14 @@
       "pubdate": "Tue, 20 Aug 2024 15:00:00 +0700"
     },
     {
-      "title": "ChatGPT Instagram Feed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ChatGPT%20Instagram%20Feed",
-      "pubdate": "Tue, 20 Aug 2024 14:00:00 +0700"
-    },
-    {
       "title": "GTK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#GTK",
       "pubdate": "Tue, 20 Aug 2024 20:00:00 +0700"
     },
     {
-      "title": "PUPR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PUPR",
-      "pubdate": "Tue, 20 Aug 2024 10:00:00 +0700"
+      "title": "ChatGPT Instagram Feed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ChatGPT%20Instagram%20Feed",
+      "pubdate": "Tue, 20 Aug 2024 14:00:00 +0700"
     }
   ]
 }
