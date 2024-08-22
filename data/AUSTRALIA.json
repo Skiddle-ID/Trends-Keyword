@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "21-08-2024 , 23:36:21",
+  "lastUpdate": "22-08-2024 , 01:48:29",
   "data": [
+    {
+      "title": "Powerball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Powerball",
+      "pubdate": "Thu, 22 Aug 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Good Things 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Good%20Things%202024",
+      "pubdate": "Thu, 22 Aug 2024 09:00:00 +1000"
+    },
     {
       "title": "Andrew Tate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Tate",
       "pubdate": "Thu, 22 Aug 2024 02:00:00 +1000"
+    },
+    {
+      "title": "Theo Von",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Theo%20Von",
+      "pubdate": "Thu, 22 Aug 2024 09:00:00 +1000"
     },
     {
       "title": "Jetstar",
@@ -27,6 +42,11 @@
       "pubdate": "Wed, 21 Aug 2024 17:00:00 +1000"
     },
     {
+      "title": "Michael Clarke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Clarke",
+      "pubdate": "Wed, 21 Aug 2024 19:00:00 +1000"
+    },
+    {
       "title": "Ticketmaster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ticketmaster",
       "pubdate": "Wed, 21 Aug 2024 17:00:00 +1000"
@@ -40,6 +60,11 @@
       "title": "Mark Bickley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Bickley",
       "pubdate": "Wed, 21 Aug 2024 09:00:00 +1000"
+    },
+    {
+      "title": "Hawaiian Islands",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawaiian%20Islands",
+      "pubdate": "Wed, 21 Aug 2024 15:00:00 +1000"
     },
     {
       "title": "Live Nation",
@@ -75,31 +100,6 @@
       "title": "I Can Do It With a Broken Heart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#I%20Can%20Do%20It%20With%20a%20Broken%20Heart",
       "pubdate": "Wed, 21 Aug 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Brandon Sklenar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brandon%20Sklenar",
-      "pubdate": "Wed, 21 Aug 2024 22:00:00 +1000"
-    },
-    {
-      "title": "Post Malone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Post%20Malone",
-      "pubdate": "Wed, 21 Aug 2024 22:00:00 +1000"
-    },
-    {
-      "title": "Mulch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mulch",
-      "pubdate": "Wed, 21 Aug 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Stephanie Grisham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephanie%20Grisham",
-      "pubdate": "Wed, 21 Aug 2024 17:00:00 +1000"
-    },
-    {
-      "title": "Amanda Goff",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amanda%20Goff",
-      "pubdate": "Wed, 21 Aug 2024 16:00:00 +1000"
     }
   ]
 }

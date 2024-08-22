@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2024 , 23:36:30",
+  "lastUpdate": "22-08-2024 , 01:48:39",
   "data": [
     {
       "title": "Ben Affleck",
@@ -7,9 +7,9 @@
       "pubdate": "Wed, 21 Aug 2024 10:00:00 +0800"
     },
     {
-      "title": "Mulch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mulch",
-      "pubdate": "Wed, 21 Aug 2024 08:00:00 +0800"
+      "title": "Michelle Obama",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Michelle%20Obama",
+      "pubdate": "Wed, 21 Aug 2024 19:00:00 +0800"
     },
     {
       "title": "Katseye",
@@ -17,28 +17,13 @@
       "pubdate": "Wed, 21 Aug 2024 22:00:00 +0800"
     },
     {
-      "title": "COE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-      "pubdate": "Wed, 21 Aug 2024 17:00:00 +0800"
-    },
-    {
-      "title": "SATS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SATS",
-      "pubdate": "Wed, 21 Aug 2024 10:00:00 +0800"
-    },
-    {
       "title": "Charlie Puth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Charlie%20Puth",
       "pubdate": "Wed, 21 Aug 2024 18:00:00 +0800"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
-      "pubdate": "Wed, 21 Aug 2024 07:00:00 +0800"
-    },
-    {
-      "title": "Morgan Stanley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Morgan%20Stanley",
+      "title": "SATS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SATS",
       "pubdate": "Wed, 21 Aug 2024 10:00:00 +0800"
     },
     {
@@ -47,18 +32,23 @@
       "pubdate": "Wed, 21 Aug 2024 23:00:00 +0800"
     },
     {
+      "title": "Miss Saigon Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Miss%20Saigon%20Singapore",
+      "pubdate": "Wed, 21 Aug 2024 17:00:00 +0800"
+    },
+    {
       "title": "Black Myth: Wukong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Black%20Myth:%20Wukong",
       "pubdate": "Tue, 20 Aug 2024 11:00:00 +0800"
     },
     {
-      "title": "STARHUB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#STARHUB",
+      "title": "StarHub",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#StarHub",
       "pubdate": "Tue, 20 Aug 2024 21:00:00 +0800"
     },
     {
-      "title": "Obama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Obama",
+      "title": "Test",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Test",
       "pubdate": "Tue, 20 Aug 2024 21:00:00 +0800"
     },
     {
@@ -100,6 +90,16 @@
       "title": "Supermoon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Supermoon",
       "pubdate": "Mon, 19 Aug 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Mpox vaccine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mpox%20vaccine",
+      "pubdate": "Mon, 19 Aug 2024 23:00:00 +0800"
+    },
+    {
+      "title": "Maternity leave Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Maternity%20leave%20Singapore",
+      "pubdate": "Sun, 18 Aug 2024 22:00:00 +0800"
     }
   ]
 }
