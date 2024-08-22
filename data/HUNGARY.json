@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2024 , 11:36:20",
+  "lastUpdate": "22-08-2024 , 12:54:03",
   "data": [
     {
       "title": "Kormányinfó",
@@ -12,9 +12,19 @@
       "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
     },
     {
+      "title": "Gera Zoltán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gera%20Zolt%C3%A1n",
+      "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
+    },
+    {
       "title": "Falling In Reverse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Falling%20In%20Reverse",
       "pubdate": "Thu, 22 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Csipak Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csipak%20P%C3%A9ter",
+      "pubdate": "Thu, 22 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Andrew Tate",
@@ -24,16 +34,6 @@
     {
       "title": "Lauren Laverne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lauren%20Laverne",
-      "pubdate": "Thu, 22 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Berczelly István",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Berczelly%20Istv%C3%A1n",
-      "pubdate": "Thu, 22 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Vasas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vasas",
       "pubdate": "Thu, 22 Aug 2024 08:00:00 +0200"
     },
     {
@@ -52,8 +52,8 @@
       "pubdate": "Wed, 21 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Exatlon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Exatlon",
+      "title": "Szörényi Levente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%B6r%C3%A9nyi%20Levente",
       "pubdate": "Wed, 21 Aug 2024 00:00:00 +0200"
     },
     {
@@ -62,14 +62,14 @@
       "pubdate": "Wed, 21 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Szörényi Levente",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%B6r%C3%A9nyi%20Levente",
-      "pubdate": "Wed, 21 Aug 2024 00:00:00 +0200"
-    },
-    {
       "title": "Sztárban sztár All Stars",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szt%C3%A1rban%20szt%C3%A1r%20All%20Stars",
       "pubdate": "Wed, 21 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Deutsch Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Deutsch%20P%C3%A9ter",
+      "pubdate": "Wed, 21 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Neuer",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 21 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Balázs Klári!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bal%C3%A1zs%20Kl%C3%A1ri!",
-      "pubdate": "Wed, 21 Aug 2024 20:00:00 +0200"
+      "title": "Tisza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisza",
+      "pubdate": "Wed, 21 Aug 2024 12:00:00 +0200"
     }
   ]
 }

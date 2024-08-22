@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "22-08-2024 , 11:36:25",
+  "lastUpdate": "22-08-2024 , 12:54:09",
   "data": [
+    {
+      "title": "Mike Lynch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Lynch",
+      "pubdate": "Thu, 22 Aug 2024 01:00:00 +0200"
+    },
     {
       "title": "Luchs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luchs",
       "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Kennedy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kennedy",
+      "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Bill Clinton",
@@ -12,18 +22,18 @@
       "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
     },
     {
-      "title": "Douchy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Douchy",
-      "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
+      "title": "Eric Stauffer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eric%20Stauffer",
+      "pubdate": "Thu, 22 Aug 2024 03:00:00 +0200"
     },
     {
-      "title": "Lynch Mike",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lynch%20Mike",
-      "pubdate": "Thu, 22 Aug 2024 01:00:00 +0200"
+      "title": "FCL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
+      "pubdate": "Thu, 22 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Kennedy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kennedy",
+      "title": "Aktenzeichen XY ... ungelöst",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aktenzeichen%20XY%20...%20ungel%C3%B6st",
       "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
     },
     {
@@ -32,29 +42,19 @@
       "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "America's Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#America's%20Cup",
+      "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
+    },
+    {
       "title": "Chris Martin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chris%20Martin",
       "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Subway",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Subway",
-      "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Aktenzeichen XY ... ungelöst",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aktenzeichen%20XY%20...%20ungel%C3%B6st",
-      "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
-    },
-    {
       "title": "Andre Wyss",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andre%20Wyss",
       "pubdate": "Thu, 22 Aug 2024 07:00:00 +0200"
-    },
-    {
-      "title": "America's Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#America's%20Cup",
-      "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Kalulu",
@@ -67,9 +67,9 @@
       "pubdate": "Wed, 21 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Ben Affleck",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Affleck",
-      "pubdate": "Wed, 21 Aug 2024 08:00:00 +0200"
+      "title": "Weltbild",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weltbild",
+      "pubdate": "Wed, 21 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Barack Obama",
@@ -77,9 +77,9 @@
       "pubdate": "Wed, 21 Aug 2024 12:00:00 +0200"
     },
     {
-      "title": "Weltbild Schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weltbild%20Schweiz",
-      "pubdate": "Wed, 21 Aug 2024 17:00:00 +0200"
+      "title": "Ben Affleck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ben%20Affleck",
+      "pubdate": "Wed, 21 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Ältester Mensch gestorben",
@@ -87,14 +87,14 @@
       "pubdate": "Wed, 21 Aug 2024 02:00:00 +0200"
     },
     {
-      "title": "Duplantis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Duplantis",
-      "pubdate": "Wed, 21 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League",
       "pubdate": "Wed, 21 Aug 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Duplantis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Duplantis",
+      "pubdate": "Wed, 21 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Aleksander Aamodt Kilde",
