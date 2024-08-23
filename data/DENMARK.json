@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "23-08-2024 , 11:35:58",
+  "lastUpdate": "23-08-2024 , 12:53:07",
   "data": [
+    {
+      "title": "Kamala Harris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kamala%20Harris",
+      "pubdate": "Fri, 23 Aug 2024 14:00:00 +0200"
+    },
     {
       "title": "Simon kjær",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simon%20kj%C3%A6r",
       "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Sabrina Carpenter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabrina%20Carpenter",
+      "pubdate": "Fri, 23 Aug 2024 12:00:00 +0200"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
+      "pubdate": "Fri, 23 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Mike Lynch",
@@ -42,6 +57,11 @@
       "pubdate": "Thu, 22 Aug 2024 14:00:00 +0200"
     },
     {
+      "title": "Ben O'Connor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ben%20O'Connor",
+      "pubdate": "Thu, 22 Aug 2024 19:00:00 +0200"
+    },
+    {
       "title": "Dumplings",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dumplings",
       "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
@@ -50,11 +70,6 @@
       "title": "Kiernan Hughes-Mason",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kiernan%20Hughes-Mason",
       "pubdate": "Thu, 22 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Ben O'Connor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ben%20O'Connor",
-      "pubdate": "Thu, 22 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Treated",
@@ -85,21 +100,6 @@
       "title": "Ob",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ob",
       "pubdate": "Wed, 21 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
-      "pubdate": "Wed, 21 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Bratislava",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bratislava",
-      "pubdate": "Wed, 21 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Love Is Blind UK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Love%20Is%20Blind%20UK",
-      "pubdate": "Wed, 21 Aug 2024 17:00:00 +0200"
     }
   ]
 }
