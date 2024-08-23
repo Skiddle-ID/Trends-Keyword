@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 01:46:55",
+  "lastUpdate": "23-08-2024 , 02:49:13",
   "data": [
     {
       "title": "Vikersund",
@@ -7,13 +7,8 @@
       "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Lausanne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lausanne",
-      "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Bollestad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bollestad",
+      "title": "Olaug Bollestad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Olaug%20Bollestad",
       "pubdate": "Thu, 22 Aug 2024 23:00:00 +0200"
     },
     {
@@ -42,9 +37,9 @@
       "pubdate": "Thu, 22 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Sander Berge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Berge",
-      "pubdate": "Thu, 22 Aug 2024 15:00:00 +0200"
+      "title": "PGA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PGA",
+      "pubdate": "Thu, 22 Aug 2024 17:00:00 +0200"
     },
     {
       "title": "Elfsborg",
@@ -55,6 +50,11 @@
       "title": "Jakob Schøyen Andersen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Sch%C3%B8yen%20Andersen",
       "pubdate": "Thu, 22 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Diamond League 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League%202024",
+      "pubdate": "Thu, 22 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Anne B, Ragde",
@@ -70,6 +70,11 @@
       "title": "Halliburton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Halliburton",
       "pubdate": "Thu, 22 Aug 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Durek Verrett",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Durek%20Verrett",
+      "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Cristiano Ronaldo",
@@ -95,11 +100,6 @@
       "title": "LSK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#LSK",
       "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Leonard Cohen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leonard%20Cohen",
-      "pubdate": "Thu, 22 Aug 2024 18:00:00 +0200"
     }
   ]
 }

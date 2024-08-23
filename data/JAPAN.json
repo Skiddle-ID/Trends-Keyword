@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "23-08-2024 , 01:46:54",
+  "lastUpdate": "23-08-2024 , 02:49:11",
   "data": [
-    {
-      "title": "ちいかわ寿司",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E5%AF%BF%E5%8F%B8",
-      "pubdate": "Fri, 23 Aug 2024 04:00:00 +0900"
-    },
     {
       "title": "ゴールデンカムイ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4",
@@ -15,6 +10,11 @@
       "title": "チャイルドシート",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88",
       "pubdate": "Thu, 22 Aug 2024 17:00:00 +0900"
+    },
+    {
+      "title": "ジャクソンホール会議",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E4%BC%9A%E8%AD%B0",
+      "pubdate": "Thu, 22 Aug 2024 07:00:00 +0900"
     },
     {
       "title": "台風10号",
@@ -30,6 +30,11 @@
       "title": "青森山田",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%9D%92%E6%A3%AE%E5%B1%B1%E7%94%B0",
       "pubdate": "Wed, 21 Aug 2024 16:00:00 +0900"
+    },
+    {
+      "title": "関東第一",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%96%A2%E6%9D%B1%E7%AC%AC%E4%B8%80",
+      "pubdate": "Wed, 21 Aug 2024 18:00:00 +0900"
     },
     {
       "title": "斎藤元彦",
@@ -62,11 +67,6 @@
       "pubdate": "Mon, 19 Aug 2024 02:00:00 +0900"
     },
     {
-      "title": "神村学園",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%A5%9E%E6%9D%91%E5%AD%A6%E5%9C%92",
-      "pubdate": "Mon, 19 Aug 2024 18:00:00 +0900"
-    },
-    {
       "title": "呪術廻戦",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6",
       "pubdate": "Mon, 19 Aug 2024 22:00:00 +0900"
@@ -87,6 +87,11 @@
       "pubdate": "Mon, 19 Aug 2024 16:00:00 +0900"
     },
     {
+      "title": "関東第一",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%96%A2%E6%9D%B1%E7%AC%AC%E4%B8%80",
+      "pubdate": "Mon, 19 Aug 2024 18:00:00 +0900"
+    },
+    {
       "title": "停電",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%81%9C%E9%9B%BB",
       "pubdate": "Mon, 19 Aug 2024 21:00:00 +0900"
@@ -95,11 +100,6 @@
       "title": "エムポックス",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%A8%E3%83%A0%E3%83%9D%E3%83%83%E3%82%AF%E3%82%B9",
       "pubdate": "Mon, 19 Aug 2024 10:00:00 +0900"
-    },
-    {
-      "title": "松井秀太郎",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%BE%E4%BA%95%E7%A7%80%E5%A4%AA%E9%83%8E",
-      "pubdate": "Mon, 19 Aug 2024 00:00:00 +0900"
     }
   ]
 }

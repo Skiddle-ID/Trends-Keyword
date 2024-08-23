@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 01:46:48",
+  "lastUpdate": "23-08-2024 , 02:49:06",
   "data": [
     {
       "title": "Steyr Automotive",
@@ -10,6 +10,11 @@
       "title": "Botswana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Botswana",
       "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Marco Schwarz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marco%20Schwarz",
+      "pubdate": "Fri, 23 Aug 2024 03:00:00 +0200"
     },
     {
       "title": "Mike Lynch",
@@ -27,14 +32,14 @@
       "pubdate": "Thu, 22 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Besiktas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
-      "pubdate": "Thu, 22 Aug 2024 18:00:00 +0200"
-    },
-    {
       "title": "Chelsea – Servette",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea%20%E2%80%93%20Servette",
       "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Besiktas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
+      "pubdate": "Thu, 22 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Neustifter Kirtag",
@@ -94,11 +99,6 @@
     {
       "title": "Lol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lol",
-      "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Wuff Folge dem Hund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wuff%20Folge%20dem%20Hund",
       "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
     }
   ]
