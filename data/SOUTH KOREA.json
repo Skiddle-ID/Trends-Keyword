@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "22-08-2024 , 23:35:59",
+  "lastUpdate": "23-08-2024 , 01:46:57",
   "data": [
     {
       "title": "부천 호텔 화재",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B6%80%EC%B2%9C%20%ED%98%B8%ED%85%94%20%ED%99%94%EC%9E%AC",
       "pubdate": "Fri, 23 Aug 2024 00:00:00 +0900"
-    },
-    {
-      "title": "나이키",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EC%9D%B4%ED%82%A4",
-      "pubdate": "Thu, 22 Aug 2024 14:00:00 +0900"
     },
     {
       "title": "최태원",
@@ -27,14 +22,14 @@
       "pubdate": "Thu, 22 Aug 2024 01:00:00 +0900"
     },
     {
-      "title": "오킹",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%A4%ED%82%B9",
-      "pubdate": "Thu, 22 Aug 2024 10:00:00 +0900"
-    },
-    {
       "title": "TOPIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TOPIK",
       "pubdate": "Thu, 22 Aug 2024 15:00:00 +0900"
+    },
+    {
+      "title": "김종결",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%A2%85%EA%B2%B0",
+      "pubdate": "Thu, 22 Aug 2024 22:00:00 +0900"
     },
     {
       "title": "박세미",
@@ -47,6 +42,11 @@
       "pubdate": "Thu, 22 Aug 2024 11:00:00 +0900"
     },
     {
+      "title": "자궁경부암",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%90%EA%B6%81%EA%B2%BD%EB%B6%80%EC%95%94",
+      "pubdate": "Thu, 22 Aug 2024 11:00:00 +0900"
+    },
+    {
       "title": "M83",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#M83",
       "pubdate": "Thu, 22 Aug 2024 14:00:00 +0900"
@@ -55,6 +55,11 @@
       "title": "KFA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#KFA",
       "pubdate": "Thu, 22 Aug 2024 20:00:00 +0900"
+    },
+    {
+      "title": "Nike",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#Nike",
+      "pubdate": "Thu, 22 Aug 2024 18:00:00 +0900"
     },
     {
       "title": "박칼린",
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 21 Aug 2024 12:00:00 +0900"
     },
     {
-      "title": "귄도안",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B7%84%EB%8F%84%EC%95%88",
-      "pubdate": "Wed, 21 Aug 2024 21:00:00 +0900"
-    },
-    {
-      "title": "인조이",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B8%EC%A1%B0%EC%9D%B4",
-      "pubdate": "Wed, 21 Aug 2024 18:00:00 +0900"
+      "title": "유한양행",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89",
+      "pubdate": "Wed, 21 Aug 2024 09:00:00 +0900"
     }
   ]
 }

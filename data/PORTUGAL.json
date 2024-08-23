@@ -1,14 +1,34 @@
 {
-  "lastUpdate": "22-08-2024 , 23:35:58",
+  "lastUpdate": "23-08-2024 , 01:46:56",
   "data": [
+    {
+      "title": "São Paulo  Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A3o%20Paulo%20%20Nacional",
+      "pubdate": "Fri, 23 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Daniela Melchior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniela%20Melchior",
+      "pubdate": "Fri, 23 Aug 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Alcione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcione",
+      "pubdate": "Fri, 23 Aug 2024 00:00:00 +0100"
+    },
     {
       "title": "Braga Rapid Viena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20Rapid%20Viena",
       "pubdate": "Thu, 22 Aug 2024 14:00:00 +0100"
     },
     {
-      "title": "Al-Nassr  Al-Raed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al-Raed",
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
+      "pubdate": "Thu, 22 Aug 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Deniz Gül",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Deniz%20G%C3%BCl",
       "pubdate": "Thu, 22 Aug 2024 19:00:00 +0100"
     },
     {
@@ -22,14 +42,14 @@
       "pubdate": "Thu, 22 Aug 2024 02:00:00 +0100"
     },
     {
-      "title": "Deniz Gül",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Deniz%20G%C3%BCl",
-      "pubdate": "Thu, 22 Aug 2024 19:00:00 +0100"
-    },
-    {
       "title": "Bill Clinton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bill%20Clinton",
       "pubdate": "Thu, 22 Aug 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Gisela Serrano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gisela%20Serrano",
+      "pubdate": "Thu, 22 Aug 2024 13:00:00 +0100"
     },
     {
       "title": "Jose Guilherme",
@@ -52,19 +72,14 @@
       "pubdate": "Thu, 22 Aug 2024 10:00:00 +0100"
     },
     {
-      "title": "Brad Pitt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brad%20Pitt",
-      "pubdate": "Thu, 22 Aug 2024 11:00:00 +0100"
-    },
-    {
       "title": "Bruma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruma",
       "pubdate": "Thu, 22 Aug 2024 04:00:00 +0100"
     },
     {
-      "title": "Georgina Rodríguez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Georgina%20Rodr%C3%ADguez",
-      "pubdate": "Thu, 22 Aug 2024 10:00:00 +0100"
+      "title": "Brad Pitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brad%20Pitt",
+      "pubdate": "Thu, 22 Aug 2024 11:00:00 +0100"
     },
     {
       "title": "Oprah",
@@ -72,34 +87,19 @@
       "pubdate": "Thu, 22 Aug 2024 20:00:00 +0100"
     },
     {
-      "title": "Bonnie tyler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bonnie%20tyler",
+      "title": "Bonnie Tyler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bonnie%20Tyler",
       "pubdate": "Thu, 22 Aug 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Georgina Rodríguez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Georgina%20Rodr%C3%ADguez",
+      "pubdate": "Thu, 22 Aug 2024 10:00:00 +0100"
     },
     {
       "title": "Neuer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neuer",
       "pubdate": "Thu, 22 Aug 2024 04:00:00 +0100"
-    },
-    {
-      "title": "Chrome",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chrome",
-      "pubdate": "Thu, 22 Aug 2024 13:00:00 +0100"
-    },
-    {
-      "title": "WSL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WSL",
-      "pubdate": "Thu, 22 Aug 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Donald%20Trump",
-      "pubdate": "Thu, 22 Aug 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Dybala",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dybala",
-      "pubdate": "Thu, 22 Aug 2024 21:00:00 +0100"
     }
   ]
 }
