@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "23-08-2024 , 23:35:37",
+  "lastUpdate": "24-08-2024 , 01:45:03",
   "data": [
+    {
+      "title": "Solingen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Solingen",
+      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Lung cancer vaccines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lung%20cancer%20vaccines",
+      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0100"
+    },
     {
       "title": "Sheffield Wednesday vs Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sheffield%20Wednesday%20vs%20Leeds%20United",
@@ -32,18 +42,23 @@
       "pubdate": "Fri, 23 Aug 2024 17:00:00 +0100"
     },
     {
+      "title": "Rfk Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rfk%20Jr",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0100"
+    },
+    {
       "title": "Nick Grimshaw",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nick%20Grimshaw",
       "pubdate": "Fri, 23 Aug 2024 17:00:00 +0100"
     },
     {
-      "title": "RFK Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RFK%20Jr",
-      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0100"
-    },
-    {
       "title": "Jeremy Clarkson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jeremy%20Clarkson",
+      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Dating Naked",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dating%20Naked",
       "pubdate": "Fri, 23 Aug 2024 19:00:00 +0100"
     },
     {
@@ -67,21 +82,6 @@
       "pubdate": "Fri, 23 Aug 2024 13:00:00 +0100"
     },
     {
-      "title": "Dating Naked",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dating%20Naked",
-      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Charley Hull",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Charley%20Hull",
-      "pubdate": "Fri, 23 Aug 2024 02:00:00 +0100"
-    },
-    {
-      "title": "Jack Doohan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jack%20Doohan",
-      "pubdate": "Fri, 23 Aug 2024 15:00:00 +0100"
-    },
-    {
       "title": "Bundesliga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bundesliga",
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0100"
@@ -92,13 +92,13 @@
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0100"
     },
     {
-      "title": "Blink-182",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Blink-182",
-      "pubdate": "Fri, 23 Aug 2024 23:00:00 +0100"
+      "title": "Charley Hull",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Charley%20Hull",
+      "pubdate": "Fri, 23 Aug 2024 02:00:00 +0100"
     },
     {
-      "title": "NATO air base Germany",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NATO%20air%20base%20Germany",
+      "title": "Jack Doohan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jack%20Doohan",
       "pubdate": "Fri, 23 Aug 2024 15:00:00 +0100"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 23:35:36",
+  "lastUpdate": "24-08-2024 , 01:45:02",
   "data": [
     {
       "title": "Solingen",
@@ -30,6 +30,11 @@
       "title": "Zürich Openair",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20Openair",
       "pubdate": "Fri, 23 Aug 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Mia Baby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mia%20Baby",
+      "pubdate": "Fri, 23 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Twint",
@@ -82,24 +87,19 @@
       "pubdate": "Fri, 23 Aug 2024 13:00:00 +0200"
     },
     {
-      "title": "Catherine Ribeiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Catherine%20Ribeiro",
-      "pubdate": "Fri, 23 Aug 2024 17:00:00 +0200"
-    },
-    {
       "title": "Dalai Lama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dalai%20Lama",
       "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Jackson Hole",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jackson%20Hole",
-      "pubdate": "Fri, 23 Aug 2024 08:00:00 +0200"
+      "title": "Catherine Ribeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Catherine%20Ribeiro",
+      "pubdate": "Fri, 23 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Ultraks Zermatt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ultraks%20Zermatt",
-      "pubdate": "Fri, 23 Aug 2024 13:00:00 +0200"
+      "title": "Robert Kennedy Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Robert%20Kennedy%20Jr",
+      "pubdate": "Fri, 23 Aug 2024 10:00:00 +0200"
     }
   ]
 }

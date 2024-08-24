@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 23:35:31",
+  "lastUpdate": "24-08-2024 , 01:44:56",
   "data": [
     {
       "title": "Gémesi Csanád",
@@ -10,11 +10,6 @@
       "title": "Győrffy Balázs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C5%91rffy%20Bal%C3%A1zs",
       "pubdate": "Fri, 23 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Újpest–DVSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%E2%80%93DVSC",
-      "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "YouTube Premium",
@@ -32,18 +27,23 @@
       "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Újpest FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Ajpest%20FC",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kamala%20Harris",
       "pubdate": "Fri, 23 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Celta–valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Celta%E2%80%93valencia",
-      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Bundesliga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Sevilla–villarreal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%E2%80%93villarreal",
       "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
     },
     {
@@ -57,24 +57,24 @@
       "pubdate": "Fri, 23 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Sevilla–villarreal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%E2%80%93villarreal",
-      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
-    },
-    {
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sabrina%20Carpenter",
       "pubdate": "Fri, 23 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Neymar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Neymar",
-      "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
-    },
-    {
       "title": "Tompos Kátya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tompos%20K%C3%A1tya",
       "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Jack Doohan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jack%20Doohan",
+      "pubdate": "Fri, 23 Aug 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Neymar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Neymar",
+      "pubdate": "Fri, 23 Aug 2024 00:00:00 +0200"
     },
     {
       "title": "Terence Hill",
@@ -97,9 +97,9 @@
       "pubdate": "Fri, 23 Aug 2024 13:00:00 +0200"
     },
     {
-      "title": "Kustánczi Lia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kust%C3%A1nczi%20Lia",
-      "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
+      "title": "Ungár Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ung%C3%A1r%20P%C3%A9ter",
+      "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
     }
   ]
 }
