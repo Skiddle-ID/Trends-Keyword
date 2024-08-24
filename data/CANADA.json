@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 11:36:15",
+  "lastUpdate": "24-08-2024 , 12:52:01",
   "data": [
     {
       "title": "Justin Bieber",
@@ -7,13 +7,18 @@
       "pubdate": "Sat, 24 Aug 2024 00:00:00 -0400"
     },
     {
-      "title": "Solingen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solingen",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 -0400"
+      "title": "Chappell Roan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chappell%20Roan",
+      "pubdate": "Sat, 24 Aug 2024 08:00:00 -0400"
     },
     {
-      "title": "Jfk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jfk",
+      "title": "Brighton vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brighton%20vs%20Man%20United",
+      "pubdate": "Sat, 24 Aug 2024 08:00:00 -0400"
+    },
+    {
+      "title": "Solingen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solingen",
       "pubdate": "Sat, 24 Aug 2024 00:00:00 -0400"
     },
     {
@@ -27,9 +32,9 @@
       "pubdate": "Sat, 24 Aug 2024 02:00:00 -0400"
     },
     {
-      "title": "Meryl Streep",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meryl%20Streep",
-      "pubdate": "Sat, 24 Aug 2024 02:00:00 -0400"
+      "title": "Stanley Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Bryant",
+      "pubdate": "Sat, 24 Aug 2024 03:00:00 -0400"
     },
     {
       "title": "Peach Festival",
@@ -37,9 +42,9 @@
       "pubdate": "Sat, 24 Aug 2024 01:00:00 -0400"
     },
     {
-      "title": "Stanley Bryant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Bryant",
-      "pubdate": "Sat, 24 Aug 2024 03:00:00 -0400"
+      "title": "Kennedy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kennedy",
+      "pubdate": "Sat, 24 Aug 2024 08:00:00 -0400"
     },
     {
       "title": "Severe thunderstorm warning",
@@ -95,11 +100,6 @@
       "title": "Metallica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Metallica",
       "pubdate": "Fri, 23 Aug 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bundesliga",
-      "pubdate": "Fri, 23 Aug 2024 16:00:00 -0400"
     }
   ]
 }

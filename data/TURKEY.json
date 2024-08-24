@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "24-08-2024 , 11:36:24",
+  "lastUpdate": "24-08-2024 , 12:52:10",
   "data": [
     {
       "title": "Akciğer kanseri aşısı",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Akci%C4%9Fer%20kanseri%20a%C5%9F%C4%B1s%C4%B1",
       "pubdate": "Sat, 24 Aug 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Kim Milyoner Olmak İster",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kim%20Milyoner%20Olmak%20%C4%B0ster",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0300"
     },
     {
       "title": "Solingen",
@@ -25,6 +20,11 @@
       "title": "Borsa İstanbul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borsa%20%C4%B0stanbul",
       "pubdate": "Sat, 24 Aug 2024 10:00:00 +0300"
+    },
+    {
+      "title": "BAŞAKŞEHİR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BA%C5%9EAK%C5%9EEH%C4%B0R",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0300"
     },
     {
       "title": "Ferdi Kadıoğlu",
@@ -62,6 +62,11 @@
       "pubdate": "Fri, 23 Aug 2024 14:00:00 +0300"
     },
     {
+      "title": "Usain Bolt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Usain%20Bolt",
+      "pubdate": "Fri, 23 Aug 2024 23:00:00 +0300"
+    },
+    {
       "title": "Peker Açıkalın",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Peker%20A%C3%A7%C4%B1kal%C4%B1n",
       "pubdate": "Fri, 23 Aug 2024 15:00:00 +0300"
@@ -95,11 +100,6 @@
       "title": "Ulaştırma ve Altyapı Bakanlığı",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ula%C5%9Ft%C4%B1rma%20ve%20Altyap%C4%B1%20Bakanl%C4%B1%C4%9F%C4%B1",
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Benzine indirim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benzine%20indirim",
-      "pubdate": "Fri, 23 Aug 2024 08:00:00 +0300"
     }
   ]
 }

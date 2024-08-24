@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 11:36:20",
+  "lastUpdate": "24-08-2024 , 12:52:06",
   "data": [
     {
       "title": "Natanael Cano",
@@ -7,14 +7,14 @@
       "pubdate": "Sat, 24 Aug 2024 00:00:00 -0600"
     },
     {
-      "title": "Nominados de La Casa de los Famosos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nominados%20de%20La%20Casa%20de%20los%20Famosos",
+      "title": "Estadio GNP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estadio%20GNP",
       "pubdate": "Sat, 24 Aug 2024 00:00:00 -0600"
     },
     {
-      "title": "Futbol mexicano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Futbol%20mexicano",
-      "pubdate": "Sat, 24 Aug 2024 01:00:00 -0600"
+      "title": "Nominados de La Casa de los Famosos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nominados%20de%20La%20Casa%20de%20los%20Famosos",
+      "pubdate": "Sat, 24 Aug 2024 00:00:00 -0600"
     },
     {
       "title": "Liga MX",
@@ -50,11 +50,6 @@
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sabrina%20Carpenter",
       "pubdate": "Fri, 23 Aug 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Partidos de Liga MX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Partidos%20de%20Liga%20MX",
-      "pubdate": "Fri, 23 Aug 2024 20:00:00 -0600"
     },
     {
       "title": "Sevilla - Villarreal",
@@ -100,6 +95,11 @@
       "title": "HONOR 200",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#HONOR%20200",
       "pubdate": "Fri, 23 Aug 2024 06:00:00 -0600"
+    },
+    {
+      "title": "Al-Qadisiyah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Qadisiyah",
+      "pubdate": "Fri, 23 Aug 2024 16:00:00 -0600"
     }
   ]
 }
