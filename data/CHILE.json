@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "24-08-2024 , 01:44:54",
+  "lastUpdate": "24-08-2024 , 02:48:15",
   "data": [
     {
       "title": "U de Chile  Cobreloa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile%20%20Cobreloa",
       "pubdate": "Fri, 23 Aug 2024 12:00:00 -0400"
-    },
-    {
-      "title": "U. de Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile",
-      "pubdate": "Fri, 23 Aug 2024 17:00:00 -0400"
     },
     {
       "title": "Universidad de Chile",
@@ -27,6 +22,11 @@
       "pubdate": "Fri, 23 Aug 2024 16:00:00 -0400"
     },
     {
+      "title": "Udechile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udechile",
+      "pubdate": "Fri, 23 Aug 2024 19:00:00 -0400"
+    },
+    {
       "title": "Seleccion chilena",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Seleccion%20chilena",
       "pubdate": "Fri, 23 Aug 2024 15:00:00 -0400"
@@ -35,6 +35,11 @@
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sabrina%20Carpenter",
       "pubdate": "Fri, 23 Aug 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Union La Calera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20La%20Calera",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 -0400"
     },
     {
       "title": "Sevilla - Villarreal",
@@ -47,11 +52,6 @@
       "pubdate": "Fri, 23 Aug 2024 15:00:00 -0400"
     },
     {
-      "title": "Carlos Palacios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Palacios",
-      "pubdate": "Fri, 23 Aug 2024 10:00:00 -0400"
-    },
-    {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#F1",
       "pubdate": "Fri, 23 Aug 2024 14:00:00 -0400"
@@ -62,14 +62,24 @@
       "pubdate": "Fri, 23 Aug 2024 20:00:00 -0400"
     },
     {
+      "title": "Partido de la U",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20de%20la%20U",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 -0400"
+    },
+    {
+      "title": "Accidente bailarina Andrés Carne de Res",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Accidente%20bailarina%20Andr%C3%A9s%20Carne%20de%20Res",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 -0400"
+    },
+    {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Formula%201",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 -0400"
+    },
+    {
       "title": "Boca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
       "pubdate": "Thu, 22 Aug 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Bolívar  Flamengo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bol%C3%ADvar%20%20Flamengo",
-      "pubdate": "Thu, 22 Aug 2024 13:00:00 -0400"
     },
     {
       "title": "Ñublense",
@@ -77,29 +87,19 @@
       "pubdate": "Thu, 22 Aug 2024 17:00:00 -0400"
     },
     {
+      "title": "Cathy Barriga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cathy%20Barriga",
+      "pubdate": "Thu, 22 Aug 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Bolivar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bolivar",
+      "pubdate": "Thu, 22 Aug 2024 13:00:00 -0400"
+    },
+    {
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
       "pubdate": "Thu, 22 Aug 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Al Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-      "pubdate": "Thu, 22 Aug 2024 19:00:00 -0400"
-    },
-    {
-      "title": "Incubus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incubus",
-      "pubdate": "Thu, 22 Aug 2024 19:00:00 -0400"
-    },
-    {
-      "title": "Botafogo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Botafogo",
-      "pubdate": "Thu, 22 Aug 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Ralf Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ralf%20Schumacher",
-      "pubdate": "Thu, 22 Aug 2024 02:00:00 -0400"
     }
   ]
 }

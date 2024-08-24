@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 01:45:01",
+  "lastUpdate": "24-08-2024 , 02:48:22",
   "data": [
     {
       "title": "Poli Iași - Rapid bucureşti",
@@ -37,11 +37,6 @@
       "pubdate": "Fri, 23 Aug 2024 10:00:00 +0300"
     },
     {
-      "title": "Horațiu Moldovan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hora%C8%9Biu%20Moldovan",
-      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0300"
-    },
-    {
       "title": "Andra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andra",
       "pubdate": "Fri, 23 Aug 2024 09:00:00 +0300"
@@ -67,6 +62,11 @@
       "pubdate": "Fri, 23 Aug 2024 09:00:00 +0300"
     },
     {
+      "title": "Raducu Mihai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raducu%20Mihai",
+      "pubdate": "Fri, 23 Aug 2024 12:00:00 +0300"
+    },
+    {
       "title": "Al-Gharafa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Gharafa",
       "pubdate": "Fri, 23 Aug 2024 21:00:00 +0300"
@@ -79,6 +79,11 @@
     {
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sabrina%20Carpenter",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Horațiu Moldovan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hora%C8%9Biu%20Moldovan",
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Mönchengladbach  - Bayer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#M%C3%B6nchengladbach%20%20-%20Bayer",
       "pubdate": "Fri, 23 Aug 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Tulcea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tulcea",
-      "pubdate": "Fri, 23 Aug 2024 16:00:00 +0300"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "24-08-2024 , 01:44:53",
+  "lastUpdate": "24-08-2024 , 02:48:14",
   "data": [
-    {
-      "title": "Seleção Brasileira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sele%C3%A7%C3%A3o%20Brasileira",
-      "pubdate": "Fri, 23 Aug 2024 10:00:00 -0500"
-    },
     {
       "title": "Bayer Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
       "pubdate": "Fri, 23 Aug 2024 07:00:00 -0500"
+    },
+    {
+      "title": "Convocação Seleção",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Convoca%C3%A7%C3%A3o%20Sele%C3%A7%C3%A3o",
+      "pubdate": "Fri, 23 Aug 2024 10:00:00 -0500"
     },
     {
       "title": "PSG x Montpellier",
@@ -22,11 +22,6 @@
       "pubdate": "Fri, 23 Aug 2024 09:00:00 -0500"
     },
     {
-      "title": "Tite",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tite",
-      "pubdate": "Fri, 23 Aug 2024 08:00:00 -0500"
-    },
-    {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#F1",
       "pubdate": "Fri, 23 Aug 2024 12:00:00 -0500"
@@ -35,6 +30,11 @@
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sabrina%20Carpenter",
       "pubdate": "Fri, 23 Aug 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Ponte Preta x Operário",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20Oper%C3%A1rio",
+      "pubdate": "Fri, 23 Aug 2024 19:00:00 -0500"
     },
     {
       "title": "Sporting",
@@ -47,9 +47,9 @@
       "pubdate": "Fri, 23 Aug 2024 16:00:00 -0500"
     },
     {
-      "title": "Sol vermelho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sol%20vermelho",
-      "pubdate": "Fri, 23 Aug 2024 16:00:00 -0500"
+      "title": "Sol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sol",
+      "pubdate": "Fri, 23 Aug 2024 17:00:00 -0500"
     },
     {
       "title": "Calleri",
@@ -62,6 +62,11 @@
       "pubdate": "Fri, 23 Aug 2024 02:00:00 -0500"
     },
     {
+      "title": "Fibrilação atrial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fibrila%C3%A7%C3%A3o%20atrial",
+      "pubdate": "Fri, 23 Aug 2024 08:00:00 -0500"
+    },
+    {
       "title": "Aspirador d pó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aspirador%20d%20p%C3%B3",
       "pubdate": "Fri, 23 Aug 2024 18:00:00 -0500"
@@ -72,19 +77,14 @@
       "pubdate": "Fri, 23 Aug 2024 08:00:00 -0500"
     },
     {
-      "title": "Al Ahli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Ahli",
-      "pubdate": "Fri, 23 Aug 2024 14:00:00 -0500"
+      "title": "Flamengo Libertadores",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20Libertadores",
+      "pubdate": "Fri, 23 Aug 2024 03:00:00 -0500"
     },
     {
-      "title": "CBLOL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CBLOL",
-      "pubdate": "Fri, 23 Aug 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Queimadas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Queimadas",
-      "pubdate": "Fri, 23 Aug 2024 16:00:00 -0500"
+      "title": "Belle Belinha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Belle%20Belinha",
+      "pubdate": "Fri, 23 Aug 2024 12:00:00 -0500"
     },
     {
       "title": "Bruno Gagliasso",
@@ -92,14 +92,14 @@
       "pubdate": "Fri, 23 Aug 2024 18:00:00 -0500"
     },
     {
+      "title": "Al Ahli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Ahli",
+      "pubdate": "Fri, 23 Aug 2024 14:00:00 -0500"
+    },
+    {
       "title": "Longlegs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Longlegs",
       "pubdate": "Fri, 23 Aug 2024 02:00:00 -0500"
-    },
-    {
-      "title": "Quartas de final Libertadores 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quartas%20de%20final%20Libertadores%202024",
-      "pubdate": "Fri, 23 Aug 2024 08:00:00 -0500"
     }
   ]
 }

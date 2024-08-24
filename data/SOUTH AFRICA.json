@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 01:45:02",
+  "lastUpdate": "24-08-2024 , 02:48:23",
   "data": [
     {
       "title": "Formula 1",
@@ -7,14 +7,19 @@
       "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Incoming movie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Incoming%20movie",
+      "pubdate": "Sat, 24 Aug 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Mpox virus outbreak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mpox%20virus%20outbreak",
+      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
+    },
+    {
       "title": "Orlando Pirates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
       "pubdate": "Fri, 23 Aug 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Capitec",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Capitec",
-      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Bayer Leverkusen",
@@ -47,6 +52,11 @@
       "pubdate": "Fri, 23 Aug 2024 01:00:00 +0200"
     },
     {
+      "title": "CAPITEC BANK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAPITEC%20BANK",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
+    },
+    {
       "title": "Carlo Radebe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlo%20Radebe",
       "pubdate": "Fri, 23 Aug 2024 09:00:00 +0200"
@@ -57,9 +67,19 @@
       "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
     },
     {
+      "title": "Sheffield Wednesday vs Leeds United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sheffield%20Wednesday%20vs%20Leeds%20United",
+      "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "SABC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC",
       "pubdate": "Fri, 23 Aug 2024 23:00:00 +0200"
+    },
+    {
+      "title": "The Crow",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Crow",
+      "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Jermaine Jenas",
@@ -72,34 +92,14 @@
       "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "The Crow",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Crow",
-      "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
-    },
-    {
       "title": "Ilkay Gündoğan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ilkay%20G%C3%BCndo%C4%9Fan",
       "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Chelsea vs Servette",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Servette",
-      "pubdate": "Thu, 22 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
-      "pubdate": "Thu, 22 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Ndlozi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ndlozi",
-      "pubdate": "Thu, 22 Aug 2024 05:00:00 +0200"
-    },
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr",
-      "pubdate": "Thu, 22 Aug 2024 23:00:00 +0200"
+      "title": "Bask",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bask",
+      "pubdate": "Fri, 23 Aug 2024 23:00:00 +0200"
     }
   ]
 }
