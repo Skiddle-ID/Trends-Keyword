@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2024 , 11:35:08",
+  "lastUpdate": "25-08-2024 , 12:50:52",
   "data": [
     {
       "title": "Karel Heřmánek",
@@ -10,11 +10,6 @@
       "title": "Pavel Durov",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Durov",
       "pubdate": "Sun, 25 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Hizballáh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hizball%C3%A1h",
-      "pubdate": "Sun, 25 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Heidi Klum",
@@ -100,6 +95,11 @@
       "title": "Ralf Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ralf%20Schumacher",
       "pubdate": "Fri, 23 Aug 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Jack Doohan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jack%20Doohan",
+      "pubdate": "Fri, 23 Aug 2024 12:00:00 +0200"
     }
   ]
 }

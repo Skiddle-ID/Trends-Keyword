@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "25-08-2024 , 11:35:09",
+  "lastUpdate": "25-08-2024 , 12:50:53",
   "data": [
     {
       "title": "Pavel Durov",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pavel%20Durov",
       "pubdate": "Sun, 25 Aug 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Israel",
+      "pubdate": "Sun, 25 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Manchester United",
@@ -22,16 +27,6 @@
       "pubdate": "Sun, 25 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Ethan Mbappé",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ethan%20Mbapp%C3%A9",
-      "pubdate": "Sun, 25 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Anthony Delon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anthony%20Delon",
-      "pubdate": "Sat, 24 Aug 2024 15:00:00 +0200"
-    },
-    {
       "title": "Lyon – Monaco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lyon%20%E2%80%93%20Monaco",
       "pubdate": "Sat, 24 Aug 2024 17:00:00 +0200"
@@ -42,14 +37,14 @@
       "pubdate": "Sat, 24 Aug 2024 11:00:00 +0200"
     },
     {
+      "title": "Anthony Delon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anthony%20Delon",
+      "pubdate": "Sat, 24 Aug 2024 15:00:00 +0200"
+    },
+    {
       "title": "Solingen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Solingen",
       "pubdate": "Sat, 24 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Ragnar Le Breton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ragnar%20Le%20Breton",
-      "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Barca",
@@ -60,6 +55,11 @@
       "title": "Aston Villa – Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aston%20Villa%20%E2%80%93%20Arsenal",
       "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Lorient – Grenoble",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lorient%20%E2%80%93%20Grenoble",
+      "pubdate": "Sat, 24 Aug 2024 16:00:00 +0200"
     },
     {
       "title": "Melenchon",
@@ -77,19 +77,9 @@
       "pubdate": "Sat, 24 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Alice Pol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alice%20Pol",
-      "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
-    },
-    {
       "title": "Cristina Cordula",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cristina%20Cordula",
       "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "L'Amour flou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Amour%20flou",
-      "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Alain-Fabien Delon",
@@ -97,9 +87,19 @@
       "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
     },
     {
+      "title": "L'Amour flou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Amour%20flou",
+      "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
+    },
+    {
       "title": "Alex Lanier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alex%20Lanier",
       "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Ribeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ribeiro",
+      "pubdate": "Fri, 23 Aug 2024 13:00:00 +0200"
     }
   ]
 }

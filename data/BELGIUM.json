@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2024 , 11:35:06",
+  "lastUpdate": "25-08-2024 , 12:50:50",
   "data": [
     {
       "title": "Pavel Durov",
@@ -7,9 +7,14 @@
       "pubdate": "Sun, 25 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Christoph Daum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christoph%20Daum",
-      "pubdate": "Sun, 25 Aug 2024 08:00:00 +0200"
+      "title": "Anthony Delon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anthony%20Delon",
+      "pubdate": "Sun, 25 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Israel",
+      "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Mika",
@@ -20,6 +25,11 @@
       "title": "Kim Dotcom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kim%20Dotcom",
       "pubdate": "Sun, 25 Aug 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Gp F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gp%20F1",
+      "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
     },
     {
       "title": "Tottenham",
@@ -62,19 +72,14 @@
       "pubdate": "Sat, 24 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Anthony Delon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anthony%20Delon",
-      "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Robert Kennedy Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Robert%20Kennedy%20Jr",
       "pubdate": "Sat, 24 Aug 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Barca",
@@ -92,14 +97,9 @@
       "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Parme – AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Parme%20%E2%80%93%20AC%20Milan",
-      "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-      "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
+      "title": "24H Zolder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#24H%20Zolder",
+      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
     }
   ]
 }

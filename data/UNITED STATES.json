@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "25-08-2024 , 11:35:05",
+  "lastUpdate": "25-08-2024 , 12:50:49",
   "data": [
+    {
+      "title": "Boeing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boeing",
+      "pubdate": "Sun, 25 Aug 2024 05:00:00 -0700"
+    },
     {
       "title": "Mayweather vs Gotti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mayweather%20vs%20Gotti",
@@ -17,6 +22,11 @@
       "pubdate": "Sat, 24 Aug 2024 18:00:00 -0700"
     },
     {
+      "title": "Little League World Series",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Little%20League%20World%20Series",
+      "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
+    },
+    {
       "title": "Packers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Packers",
       "pubdate": "Sat, 24 Aug 2024 12:00:00 -0700"
@@ -25,6 +35,11 @@
       "title": "NASCAR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NASCAR",
       "pubdate": "Sat, 24 Aug 2024 21:00:00 -0700"
+    },
+    {
+      "title": "Ted Lasso Season 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Lasso%20Season%204",
+      "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
     },
     {
       "title": "Lions",
@@ -42,9 +57,9 @@
       "pubdate": "Sat, 24 Aug 2024 18:00:00 -0700"
     },
     {
-      "title": "Ted Lasso Season 4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Lasso%20Season%204",
-      "pubdate": "Sat, 24 Aug 2024 18:00:00 -0700"
+      "title": "SMU vs Nevada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SMU%20vs%20Nevada",
+      "pubdate": "Sat, 24 Aug 2024 21:00:00 -0700"
     },
     {
       "title": "Aston Villa vs Arsenal",
@@ -62,24 +77,19 @@
       "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
     },
     {
-      "title": "Ohio State football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohio%20State%20football",
-      "pubdate": "Sat, 24 Aug 2024 12:00:00 -0700"
-    },
-    {
       "title": "Pavel Durov",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pavel%20Durov",
       "pubdate": "Sat, 24 Aug 2024 18:00:00 -0700"
     },
     {
-      "title": "Michigan football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20football",
-      "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
+      "title": "Ohio State football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohio%20State%20football",
+      "pubdate": "Sat, 24 Aug 2024 12:00:00 -0700"
     },
     {
-      "title": "Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
-      "pubdate": "Sat, 24 Aug 2024 18:00:00 -0700"
+      "title": "Michigan Football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20Football",
+      "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
     },
     {
       "title": "Mayweather",
@@ -90,16 +100,6 @@
       "title": "Notre Dame football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20football",
       "pubdate": "Sat, 24 Aug 2024 10:00:00 -0700"
-    },
-    {
-      "title": "Philadelphia Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philadelphia%20Eagles",
-      "pubdate": "Sat, 24 Aug 2024 17:00:00 -0700"
-    },
-    {
-      "title": "West Nile virus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#West%20Nile%20virus",
-      "pubdate": "Sat, 24 Aug 2024 16:00:00 -0700"
     }
   ]
 }

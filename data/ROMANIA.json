@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "25-08-2024 , 11:35:15",
+  "lastUpdate": "25-08-2024 , 12:50:58",
   "data": [
-    {
-      "title": "Christoph Daum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Christoph%20Daum",
-      "pubdate": "Sun, 25 Aug 2024 09:00:00 +0300"
-    },
     {
       "title": "Loredana Groza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loredana%20Groza",
       "pubdate": "Sun, 25 Aug 2024 00:00:00 +0300"
     },
     {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Formula%201",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0300"
+    },
+    {
       "title": "Pavel Durov",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pavel%20Durov",
       "pubdate": "Sun, 25 Aug 2024 04:00:00 +0300"
+    },
+    {
+      "title": "Cutremur romania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cutremur%20romania",
+      "pubdate": "Sun, 25 Aug 2024 09:00:00 +0300"
     },
     {
       "title": "Dinamo bucuresti",
@@ -27,6 +32,11 @@
       "pubdate": "Sun, 25 Aug 2024 13:00:00 +0300"
     },
     {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Djokovic",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0300"
+    },
+    {
       "title": "Dinamo București  Universitatea Craiova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti%20%20Universitatea%20Craiova",
       "pubdate": "Sat, 24 Aug 2024 19:00:00 +0300"
@@ -35,11 +45,6 @@
       "title": "Dennis Man",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dennis%20Man",
       "pubdate": "Sat, 24 Aug 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Barcelona  Bilbao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Bilbao",
-      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0300"
     },
     {
       "title": "Sepsi  Unirea Slobozia",
@@ -72,6 +77,11 @@
       "pubdate": "Sat, 24 Aug 2024 12:00:00 +0300"
     },
     {
+      "title": "Gabriel Liiceanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gabriel%20Liiceanu",
+      "pubdate": "Sat, 24 Aug 2024 10:00:00 +0300"
+    },
+    {
       "title": "Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
       "pubdate": "Sat, 24 Aug 2024 17:00:00 +0300"
@@ -90,16 +100,6 @@
       "title": "Aston Villa,  Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa,%20%20Arsenal",
       "pubdate": "Sat, 24 Aug 2024 20:00:00 +0300"
-    },
-    {
-      "title": "Polonia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Polonia",
-      "pubdate": "Sat, 24 Aug 2024 08:00:00 +0300"
-    },
-    {
-      "title": "Jean Marais",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jean%20Marais",
-      "pubdate": "Sat, 24 Aug 2024 08:00:00 +0300"
     }
   ]
 }
