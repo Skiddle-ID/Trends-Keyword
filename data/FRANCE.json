@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-08-2024 , 23:36:35",
+  "lastUpdate": "25-08-2024 , 01:53:48",
   "data": [
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20United",
+      "pubdate": "Sun, 25 Aug 2024 02:00:00 +0200"
+    },
     {
       "title": "Anthony Delon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anthony%20Delon",
@@ -25,11 +30,6 @@
       "title": "Solingen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Solingen",
       "pubdate": "Sat, 24 Aug 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Lille – Angers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Angers",
-      "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Ragnar Le Breton",
@@ -67,19 +67,9 @@
       "pubdate": "Sat, 24 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Maxime Gasteuil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maxime%20Gasteuil",
-      "pubdate": "Sat, 24 Aug 2024 02:00:00 +0200"
-    },
-    {
-      "title": "L'amour flou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'amour%20flou",
+      "title": "L'Amour flou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Amour%20flou",
       "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Bellingham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bellingham",
-      "pubdate": "Sat, 24 Aug 2024 09:00:00 +0200"
     },
     {
       "title": "Alex Lanier",
@@ -100,6 +90,16 @@
       "title": "PSG-Montpellier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG-Montpellier",
       "pubdate": "Fri, 23 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Patrice Laffont",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrice%20Laffont",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
     }
   ]
 }

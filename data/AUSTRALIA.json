@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "24-08-2024 , 23:36:32",
+  "lastUpdate": "25-08-2024 , 01:53:45",
   "data": [
+    {
+      "title": "Tottenham vs Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Everton",
+      "pubdate": "Sun, 25 Aug 2024 00:00:00 +1000"
+    },
     {
       "title": "Man City vs Ipswich Town",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Ipswich%20Town",
       "pubdate": "Sun, 25 Aug 2024 00:00:00 +1000"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
-      "pubdate": "Sun, 25 Aug 2024 03:00:00 +1000"
-    },
-    {
       "title": "Aston Villa vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa%20vs%20Arsenal",
       "pubdate": "Sun, 25 Aug 2024 04:00:00 +1000"
+    },
+    {
+      "title": "Engadine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Engadine",
+      "pubdate": "Sun, 25 Aug 2024 11:00:00 +1000"
     },
     {
       "title": "Storm",
@@ -32,14 +37,14 @@
       "pubdate": "Sat, 24 Aug 2024 21:00:00 +1000"
     },
     {
-      "title": "RFK Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RFK%20Jr",
-      "pubdate": "Sat, 24 Aug 2024 09:00:00 +1000"
-    },
-    {
       "title": "Justin Bieber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justin%20Bieber",
       "pubdate": "Sat, 24 Aug 2024 14:00:00 +1000"
+    },
+    {
+      "title": "RFK Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RFK%20Jr",
+      "pubdate": "Sat, 24 Aug 2024 09:00:00 +1000"
     },
     {
       "title": "Raiders vs Panthers",
@@ -60,6 +65,11 @@
       "title": "Swans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
       "pubdate": "Sat, 24 Aug 2024 23:00:00 +1000"
+    },
+    {
+      "title": "Dustin Martin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dustin%20Martin",
+      "pubdate": "Sat, 24 Aug 2024 19:00:00 +1000"
     },
     {
       "title": "Geelong Cats",
@@ -90,16 +100,6 @@
       "title": "Mpox outbreak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mpox%20outbreak",
       "pubdate": "Sat, 24 Aug 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Pink",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pink",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 +1000"
-    },
-    {
-      "title": "Beyonce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beyonce",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 +1000"
     }
   ]
 }

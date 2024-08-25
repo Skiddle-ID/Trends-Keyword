@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 23:36:37",
+  "lastUpdate": "25-08-2024 , 01:53:49",
   "data": [
     {
       "title": "Barcelona vs Bilbao",
@@ -7,9 +7,14 @@
       "pubdate": "Sun, 25 Aug 2024 00:00:00 +0700"
     },
     {
-      "title": "Inter vs Lecce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Lecce",
-      "pubdate": "Sun, 25 Aug 2024 02:00:00 +0700"
+      "title": "Inter Miami vs Cincinnati",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Miami%20vs%20Cincinnati",
+      "pubdate": "Sun, 25 Aug 2024 07:00:00 +0700"
+    },
+    {
+      "title": "Madrid vs Valladolid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Valladolid",
+      "pubdate": "Sun, 25 Aug 2024 00:00:00 +0700"
     },
     {
       "title": "Timnas U17",
@@ -42,14 +47,19 @@
       "pubdate": "Sat, 24 Aug 2024 15:00:00 +0700"
     },
     {
+      "title": "Parma vs Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Parma%20vs%20Milan",
+      "pubdate": "Sat, 24 Aug 2024 23:00:00 +0700"
+    },
+    {
       "title": "PSG vs Montpellier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG%20vs%20Montpellier",
       "pubdate": "Sat, 24 Aug 2024 02:00:00 +0700"
     },
     {
-      "title": "Parma vs Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Parma%20vs%20Milan",
-      "pubdate": "Sat, 24 Aug 2024 23:00:00 +0700"
+      "title": "Inter vs Lecce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Lecce",
+      "pubdate": "Sat, 24 Aug 2024 14:00:00 +0700"
     },
     {
       "title": "Bundesliga",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 24 Aug 2024 00:00:00 +0700"
     },
     {
-      "title": "Iwan Fals",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Iwan%20Fals",
-      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0700"
-    },
-    {
-      "title": "Justin Hubner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Justin%20Hubner",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0700"
-    },
-    {
-      "title": "Championship",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Championship",
-      "pubdate": "Sat, 24 Aug 2024 18:00:00 +0700"
+      "title": "Justin Bieber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Justin%20Bieber",
+      "pubdate": "Sat, 24 Aug 2024 19:00:00 +0700"
     }
   ]
 }

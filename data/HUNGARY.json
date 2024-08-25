@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "24-08-2024 , 23:36:36",
+  "lastUpdate": "25-08-2024 , 01:53:49",
   "data": [
     {
       "title": "Rákay Philip",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1kay%20Philip",
-      "pubdate": "Sun, 25 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Muhari Eszter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Muhari%20Eszter",
       "pubdate": "Sun, 25 Aug 2024 00:00:00 +0200"
     },
     {
@@ -67,11 +62,6 @@
       "pubdate": "Sat, 24 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Patho istvan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Patho%20istvan",
-      "pubdate": "Sat, 24 Aug 2024 09:00:00 +0200"
-    },
-    {
       "title": "Veronica Kristiansen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Veronica%20Kristiansen",
       "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
@@ -82,9 +72,14 @@
       "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
     },
     {
-      "title": "Gémesi Csanád",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A9mesi%20Csan%C3%A1d",
-      "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
+      "title": "Mainz–union Berlin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mainz%E2%80%93union%20Berlin",
+      "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Zandvoort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zandvoort",
+      "pubdate": "Sat, 24 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Győrffy Balázs",
@@ -100,6 +95,11 @@
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
       "pubdate": "Fri, 23 Aug 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
+      "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
     }
   ]
 }
