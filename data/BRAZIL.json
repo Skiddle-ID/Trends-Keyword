@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "26-08-2024 , 01:48:18",
+  "lastUpdate": "26-08-2024 , 02:49:09",
   "data": [
     {
       "title": "Real Madrid x Real Valladolid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid%20x%20Real%20Valladolid",
       "pubdate": "Sun, 25 Aug 2024 09:00:00 -0500"
-    },
-    {
-      "title": "São Paulo x ec Vitória",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20ec%20Vit%C3%B3ria",
-      "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
     },
     {
       "title": "Criciúma x Grêmio",
@@ -27,9 +22,19 @@
       "pubdate": "Sun, 25 Aug 2024 08:00:00 -0500"
     },
     {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+      "pubdate": "Sun, 25 Aug 2024 10:00:00 -0500"
+    },
+    {
       "title": "Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
       "pubdate": "Sun, 25 Aug 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Sao Paulo x vitoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20x%20vitoria",
+      "pubdate": "Sun, 25 Aug 2024 14:00:00 -0500"
     },
     {
       "title": "Xuxa",
@@ -37,24 +42,19 @@
       "pubdate": "Sun, 25 Aug 2024 17:00:00 -0500"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
-      "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
+      "title": "Izquierdo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Izquierdo",
+      "pubdate": "Sun, 25 Aug 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Vila Nova x América-MG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Am%C3%A9rica-MG",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 -0500"
     },
     {
       "title": "Atletico de Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
       "pubdate": "Sun, 25 Aug 2024 06:00:00 -0500"
-    },
-    {
-      "title": "Vila Nova x América-MG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Am%C3%A9rica-MG",
-      "pubdate": "Sun, 25 Aug 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Juan Izquierdo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juan%20Izquierdo",
-      "pubdate": "Sun, 25 Aug 2024 19:00:00 -0500"
     },
     {
       "title": "Chapecoense",
@@ -77,29 +77,29 @@
       "pubdate": "Sun, 25 Aug 2024 18:00:00 -0500"
     },
     {
-      "title": "Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+      "title": "Encceja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Encceja",
+      "pubdate": "Sun, 25 Aug 2024 04:00:00 -0500"
+    },
+    {
+      "title": "BYD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
+      "pubdate": "Sun, 25 Aug 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Vitor Roque",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Roque",
       "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
     },
     {
-      "title": "Palmeiras feminino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20feminino",
-      "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Real Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Betis",
+      "title": "Cidade de Deus serie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cidade%20de%20Deus%20serie",
       "pubdate": "Sun, 25 Aug 2024 13:00:00 -0500"
     },
     {
-      "title": "Silas camara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silas%20camara",
-      "pubdate": "Sun, 25 Aug 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Xuxa idade",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Xuxa%20idade",
-      "pubdate": "Sun, 25 Aug 2024 18:00:00 -0500"
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+      "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
     }
   ]
 }
