@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "25-08-2024 , 23:36:22",
+  "lastUpdate": "26-08-2024 , 01:48:25",
   "data": [
+    {
+      "title": "Lamotte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lamotte",
+      "pubdate": "Mon, 26 Aug 2024 02:00:00 +0200"
+    },
     {
       "title": "Tomas Ledin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tomas%20Ledin",
@@ -12,14 +17,19 @@
       "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Elfsborg mot IFK Göteborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20mot%20IFK%20G%C3%B6teborg",
-      "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
-    },
-    {
       "title": "Duplantis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
       "pubdate": "Sun, 25 Aug 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Sirius mot Djurgården",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20mot%20Djurg%C3%A5rden",
+      "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
+    },
+    {
+      "title": "IFK Göteborg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Those About to Die",
@@ -29,21 +39,6 @@
     {
       "title": "Diamond League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Diamond%20League",
-      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-      "pubdate": "Sun, 25 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-      "pubdate": "Sun, 25 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Sirius Djurgården",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sirius%20Djurg%C3%A5rden",
       "pubdate": "Sun, 25 Aug 2024 15:00:00 +0200"
     },
     {
@@ -72,14 +67,19 @@
       "pubdate": "Sun, 25 Aug 2024 16:00:00 +0200"
     },
     {
+      "title": "Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+      "pubdate": "Sun, 25 Aug 2024 19:00:00 +0200"
+    },
+    {
       "title": "Häcken mot Värnamo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20V%C3%A4rnamo",
       "pubdate": "Sun, 25 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
-      "pubdate": "Sun, 25 Aug 2024 19:00:00 +0200"
+      "title": "Wolfsburg mot Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wolfsburg%20mot%20Bayern",
+      "pubdate": "Sun, 25 Aug 2024 18:00:00 +0200"
     },
     {
       "title": "Lydia Ko",

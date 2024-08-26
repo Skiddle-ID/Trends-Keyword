@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2024 , 23:36:14",
+  "lastUpdate": "26-08-2024 , 01:48:17",
   "data": [
     {
       "title": "Mittersill",
@@ -27,14 +27,19 @@
       "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Corinna Kamper und Danilo Campisi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corinna%20Kamper%20und%20Danilo%20Campisi",
-      "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
+      "title": "Daum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daum",
+      "pubdate": "Sun, 25 Aug 2024 08:00:00 +0200"
     },
     {
       "title": "Blauzungenkrankheit",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Blauzungenkrankheit",
       "pubdate": "Sun, 25 Aug 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Corinna Kamper und Danilo Campisi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corinna%20Kamper%20und%20Danilo%20Campisi",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0200"
     },
     {
       "title": "Robert Kennedy Jr",
@@ -57,16 +62,6 @@
       "pubdate": "Sun, 25 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "3x3-Basketball Wien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#3x3-Basketball%20Wien",
-      "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Christoph Daum tot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christoph%20Daum%20tot",
-      "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
-    },
-    {
       "title": "Marcel Hirscher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marcel%20Hirscher",
       "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
@@ -82,8 +77,8 @@
       "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
     },
     {
-      "title": "Gletscherspalte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gletscherspalte",
+      "title": "Dachstein Gletscherspalte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dachstein%20Gletscherspalte",
       "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Kevin Costner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kevin%20Costner",
       "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Oasis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oasis",
+      "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
     }
   ]
 }

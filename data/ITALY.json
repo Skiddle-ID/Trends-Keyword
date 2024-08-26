@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "25-08-2024 , 23:36:18",
+  "lastUpdate": "26-08-2024 , 01:48:22",
   "data": [
+    {
+      "title": "Vanoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vanoli",
+      "pubdate": "Mon, 26 Aug 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Gaeta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gaeta",
+      "pubdate": "Mon, 26 Aug 2024 01:00:00 +0200"
+    },
     {
       "title": "Lady Diana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lady%20Diana",
       "pubdate": "Mon, 26 Aug 2024 00:00:00 +0200"
     },
     {
-      "title": "Enzo Barazza Udine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Enzo%20Barazza%20Udine",
-      "pubdate": "Mon, 26 Aug 2024 00:00:00 +0200"
+      "title": "Let it snow film",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Let%20it%20snow%20film",
+      "pubdate": "Mon, 26 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Kim Kardashian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kim%20Kardashian",
+      "pubdate": "Mon, 26 Aug 2024 01:00:00 +0200"
     },
     {
       "title": "Napoli-Bologna",
@@ -72,19 +87,9 @@
       "pubdate": "Sun, 25 Aug 2024 16:00:00 +0200"
     },
     {
-      "title": "Catanzaro  Juve Stabia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro%20%20Juve%20Stabia",
+      "title": "Catanzaro-Juve Stabia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro-Juve%20Stabia",
       "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Mud film",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mud%20film",
-      "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Hezbollah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hezbollah",
-      "pubdate": "Sun, 25 Aug 2024 10:00:00 +0200"
     },
     {
       "title": "Ibrahimovic",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
     },
     {
-      "title": "Verona-Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Juventus",
-      "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Duplantis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Duplantis",
-      "pubdate": "Sun, 25 Aug 2024 19:00:00 +0200"
+      "title": "Federica Nargi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Nargi",
+      "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
     }
   ]
 }
