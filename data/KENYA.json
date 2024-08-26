@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "26-08-2024 , 11:35:51",
+  "lastUpdate": "26-08-2024 , 12:55:11",
   "data": [
-    {
-      "title": "Sharon Okpamen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sharon%20Okpamen",
-      "pubdate": "Mon, 26 Aug 2024 07:00:00 +0300"
-    },
     {
       "title": "Salim Swaleh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Salim%20Swaleh",
       "pubdate": "Mon, 26 Aug 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Sharon Okpamen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sharon%20Okpamen",
+      "pubdate": "Mon, 26 Aug 2024 07:00:00 +0300"
     },
     {
       "title": "Anil Ambani",
@@ -67,24 +67,19 @@
       "pubdate": "Sun, 25 Aug 2024 18:00:00 +0300"
     },
     {
-      "title": "Atletico Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
-      "pubdate": "Sun, 25 Aug 2024 12:00:00 +0300"
-    },
-    {
       "title": "Gor Mahia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
       "pubdate": "Sun, 25 Aug 2024 14:00:00 +0300"
     },
     {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
+      "pubdate": "Sun, 25 Aug 2024 16:00:00 +0300"
+    },
+    {
       "title": "Roma vs Empoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roma%20vs%20Empoli",
       "pubdate": "Sun, 25 Aug 2024 14:00:00 +0300"
-    },
-    {
-      "title": "School reopening",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#School%20reopening",
-      "pubdate": "Sun, 25 Aug 2024 17:00:00 +0300"
     },
     {
       "title": "Pavel Durov",
@@ -97,9 +92,14 @@
       "pubdate": "Sun, 25 Aug 2024 09:00:00 +0300"
     },
     {
-      "title": "MANCHESTER",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#MANCHESTER",
-      "pubdate": "Sun, 25 Aug 2024 00:00:00 +0300"
+      "title": "The Crow",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#The%20Crow",
+      "pubdate": "Sun, 25 Aug 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Tim Walz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tim%20Walz",
+      "pubdate": "Sun, 25 Aug 2024 10:00:00 +0300"
     }
   ]
 }
