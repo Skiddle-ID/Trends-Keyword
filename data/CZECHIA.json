@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 23:35:07",
+  "lastUpdate": "27-08-2024 , 01:48:47",
   "data": [
     {
       "title": "Šichtařová",
@@ -32,14 +32,24 @@
       "pubdate": "Mon, 26 Aug 2024 14:00:00 +0200"
     },
     {
+      "title": "US Open 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#US%20Open%202024",
+      "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Sabina Laurinová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sabina%20Laurinov%C3%A1",
+      "pubdate": "Mon, 26 Aug 2024 17:00:00 +0200"
+    },
+    {
       "title": "Sparta malmo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20malmo",
       "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "US Open tennis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#US%20Open%20tennis",
-      "pubdate": "Mon, 26 Aug 2024 15:00:00 +0200"
+      "title": "Apple iPhone 16",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Apple%20iPhone%2016",
+      "pubdate": "Mon, 26 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "LINKIN PARK",
@@ -50,11 +60,6 @@
       "title": "Světla Amortová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sv%C4%9Btla%20Amortov%C3%A1",
       "pubdate": "Mon, 26 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Apple iPhone 16",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Apple%20iPhone%2016",
-      "pubdate": "Mon, 26 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Jiří Suchý",
@@ -95,11 +100,6 @@
       "title": "Eva a Vašek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20a%20Va%C5%A1ek",
       "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
-    },
-    {
-      "title": "SPECTRE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SPECTRE",
-      "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
     }
   ]
 }

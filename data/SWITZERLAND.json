@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 23:35:15",
+  "lastUpdate": "27-08-2024 , 01:48:54",
   "data": [
     {
       "title": "F1",
@@ -17,11 +17,6 @@
       "pubdate": "Mon, 26 Aug 2024 14:00:00 +0200"
     },
     {
-      "title": "Meyer Burger Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meyer%20Burger%20Aktie",
-      "pubdate": "Mon, 26 Aug 2024 11:00:00 +0200"
-    },
-    {
       "title": "Erdbeben Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdbeben%20Portugal",
       "pubdate": "Mon, 26 Aug 2024 12:00:00 +0200"
@@ -35,6 +30,16 @@
       "title": "Fabian Schär",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fabian%20Sch%C3%A4r",
       "pubdate": "Mon, 26 Aug 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Stromausfall Münchenstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20M%C3%BCnchenstein",
+      "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Verona - Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Verona%20-%20Juventus",
+      "pubdate": "Mon, 26 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "SCH",
@@ -52,18 +57,13 @@
       "pubdate": "Mon, 26 Aug 2024 20:00:00 +0200"
     },
     {
-      "title": "Stromausfall Münchenstein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20M%C3%BCnchenstein",
-      "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
+      "title": "Meyer Burger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meyer%20Burger",
+      "pubdate": "Mon, 26 Aug 2024 11:00:00 +0200"
     },
     {
       "title": "Star Wars Outlaws",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Wars%20Outlaws",
-      "pubdate": "Mon, 26 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Cedric Flaction",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cedric%20Flaction",
       "pubdate": "Mon, 26 Aug 2024 19:00:00 +0200"
     },
     {
@@ -77,6 +77,11 @@
       "pubdate": "Mon, 26 Aug 2024 11:00:00 +0200"
     },
     {
+      "title": "Cedric Flaction",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cedric%20Flaction",
+      "pubdate": "Mon, 26 Aug 2024 19:00:00 +0200"
+    },
+    {
       "title": "Hellas Vérone – Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hellas%20V%C3%A9rone%20%E2%80%93%20Juventus",
       "pubdate": "Mon, 26 Aug 2024 22:00:00 +0200"
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 26 Aug 2024 01:00:00 +0200"
     },
     {
-      "title": "Babe Ruth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Babe%20Ruth",
-      "pubdate": "Mon, 26 Aug 2024 15:00:00 +0200"
+      "title": "Telegram-Gründer Pawel Durow",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Telegram-Gr%C3%BCnder%20Pawel%20Durow",
+      "pubdate": "Mon, 26 Aug 2024 10:00:00 +0200"
     },
     {
-      "title": "Pavel Durov Telegram",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pavel%20Durov%20Telegram",
-      "pubdate": "Mon, 26 Aug 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Tremblement de terre Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tremblement%20de%20terre%20Portugal",
-      "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
+      "title": "Cameron Puertas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cameron%20Puertas",
+      "pubdate": "Mon, 26 Aug 2024 20:00:00 +0200"
     }
   ]
 }
