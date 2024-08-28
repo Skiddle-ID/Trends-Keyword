@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "28-08-2024 , 11:35:33",
+  "lastUpdate": "28-08-2024 , 12:55:20",
   "data": [
     {
       "title": "Juegos Paralímpicos 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juegos%20Paral%C3%ADmpicos%202024",
       "pubdate": "Wed, 28 Aug 2024 01:00:00 -0400"
-    },
-    {
-      "title": "Partidos de Primera División de chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partidos%20de%20Primera%20Divisi%C3%B3n%20de%20chile",
-      "pubdate": "Wed, 28 Aug 2024 00:00:00 -0400"
     },
     {
       "title": "LaLiga",
@@ -32,19 +27,24 @@
       "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
     },
     {
-      "title": "Cobreloa  Coquimbo Unido",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa%20%20Coquimbo%20Unido",
-      "pubdate": "Tue, 27 Aug 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nacional",
+      "title": "Juan Manuel Izquierdo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juan%20Manuel%20Izquierdo",
       "pubdate": "Tue, 27 Aug 2024 22:00:00 -0400"
     },
     {
       "title": "Universidad de Chile",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20de%20Chile",
       "pubdate": "Tue, 27 Aug 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Cobreloa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+      "pubdate": "Tue, 27 Aug 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Primera División de Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20Divisi%C3%B3n%20de%20Chile",
+      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
     },
     {
       "title": "Septimo retiro",
@@ -62,14 +62,14 @@
       "pubdate": "Tue, 27 Aug 2024 20:00:00 -0400"
     },
     {
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Alcaraz",
+      "pubdate": "Tue, 27 Aug 2024 19:00:00 -0400"
+    },
+    {
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
       "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Deportes Iquique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Iquique",
-      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
     },
     {
       "title": "Pepe' Mujica",
@@ -82,24 +82,24 @@
       "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
     },
     {
-      "title": "Campeonato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Campeonato",
-      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
-    },
-    {
       "title": "Jonathan Villagra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jonathan%20Villagra",
       "pubdate": "Tue, 27 Aug 2024 17:00:00 -0400"
     },
     {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
-      "pubdate": "Tue, 27 Aug 2024 19:00:00 -0400"
+      "title": "Campeonato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Campeonato",
+      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
     },
     {
       "title": "Rayo Vallecano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano",
       "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
+    },
+    {
+      "title": "RCD Mallorca - Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#RCD%20Mallorca%20-%20Sevilla",
+      "pubdate": "Tue, 27 Aug 2024 14:00:00 -0400"
     }
   ]
 }

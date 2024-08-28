@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2024 , 11:35:40",
+  "lastUpdate": "28-08-2024 , 12:55:27",
   "data": [
     {
       "title": "Barcelona",
@@ -17,9 +17,9 @@
       "pubdate": "Wed, 28 Aug 2024 12:00:00 +0300"
     },
     {
-      "title": "Mark Zuckerberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mark%20Zuckerberg",
-      "pubdate": "Wed, 28 Aug 2024 08:00:00 +0300"
+      "title": "Maruta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Maruta",
+      "pubdate": "Wed, 28 Aug 2024 12:00:00 +0300"
     },
     {
       "title": "Sportivi romani La Jocurile Paralimpice",
@@ -27,9 +27,14 @@
       "pubdate": "Wed, 28 Aug 2024 12:00:00 +0300"
     },
     {
-      "title": "Cătălin Măruță",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#C%C4%83t%C4%83lin%20M%C4%83ru%C8%9B%C4%83",
-      "pubdate": "Wed, 28 Aug 2024 12:00:00 +0300"
+      "title": "Mark Zuckerberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mark%20Zuckerberg",
+      "pubdate": "Wed, 28 Aug 2024 08:00:00 +0300"
+    },
+    {
+      "title": "Barca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barca",
+      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0300"
     },
     {
       "title": "Fenix 8",
@@ -47,14 +52,14 @@
       "pubdate": "Tue, 27 Aug 2024 21:00:00 +0300"
     },
     {
-      "title": "Intotero",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Intotero",
+      "title": "Natalia Intotero",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Natalia%20Intotero",
       "pubdate": "Tue, 27 Aug 2024 16:00:00 +0300"
     },
     {
-      "title": "Insula iubirii 27 august 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Insula%20iubirii%2027%20august%202024",
-      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0300"
+      "title": "Dumbrăvița - Petrolul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dumbr%C4%83vi%C8%9Ba%20-%20Petrolul",
+      "pubdate": "Tue, 27 Aug 2024 19:00:00 +0300"
     },
     {
       "title": "Mariah Carey",
@@ -67,14 +72,14 @@
       "pubdate": "Tue, 27 Aug 2024 09:00:00 +0300"
     },
     {
-      "title": "Oasis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oasis",
-      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
-    },
-    {
       "title": "FCSB - LASK Linz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20LASK%20Linz",
       "pubdate": "Tue, 27 Aug 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Oasis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oasis",
+      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
     },
     {
       "title": "Vremea sibiu",
@@ -82,14 +87,9 @@
       "pubdate": "Tue, 27 Aug 2024 12:00:00 +0300"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
-      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Nassr",
-      "pubdate": "Tue, 27 Aug 2024 21:00:00 +0300"
+      "title": "Insula iubirii 27 august",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Insula%20iubirii%2027%20august",
+      "pubdate": "Tue, 27 Aug 2024 12:00:00 +0300"
     },
     {
       "title": "Impozitare pensii",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 27 Aug 2024 11:00:00 +0300"
     },
     {
-      "title": "Ana Bogdan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
-      "pubdate": "Tue, 27 Aug 2024 07:00:00 +0300"
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Novak%20Djokovic",
+      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2024 , 11:35:43",
+  "lastUpdate": "28-08-2024 , 12:55:30",
   "data": [
     {
       "title": "Paralympics",
@@ -7,9 +7,9 @@
       "pubdate": "Wed, 28 Aug 2024 01:00:00 +0100"
     },
     {
-      "title": "Gail Porter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gail%20Porter",
-      "pubdate": "Wed, 28 Aug 2024 09:00:00 +0100"
+      "title": "Dan Evans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dan%20Evans",
+      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0100"
     },
     {
       "title": "Juan Izquierdo",
@@ -24,6 +24,16 @@
     {
       "title": "Carlos Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Carlos%20Alcaraz",
+      "pubdate": "Wed, 28 Aug 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Malaysia sinkhole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Malaysia%20sinkhole",
+      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Capital gains tax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Capital%20gains%20tax",
       "pubdate": "Wed, 28 Aug 2024 10:00:00 +0100"
     },
     {
@@ -62,14 +72,14 @@
       "pubdate": "Tue, 27 Aug 2024 19:00:00 +0100"
     },
     {
-      "title": "EFL Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#EFL%20Cup",
-      "pubdate": "Tue, 27 Aug 2024 19:00:00 +0100"
-    },
-    {
       "title": "Franco Colapinto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Franco%20Colapinto",
       "pubdate": "Tue, 27 Aug 2024 18:00:00 +0100"
+    },
+    {
+      "title": "EFL Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#EFL%20Cup",
+      "pubdate": "Tue, 27 Aug 2024 19:00:00 +0100"
     },
     {
       "title": "Sid Eudy",
@@ -87,19 +97,9 @@
       "pubdate": "Tue, 27 Aug 2024 21:00:00 +0100"
     },
     {
-      "title": "Emma Thynn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emma%20Thynn",
-      "pubdate": "Tue, 27 Aug 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Mikel Merino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mikel%20Merino",
-      "pubdate": "Tue, 27 Aug 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Barcelona",
-      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0100"
+      "title": "Leicester City vs Tranmere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leicester%20City%20vs%20Tranmere",
+      "pubdate": "Tue, 27 Aug 2024 20:00:00 +0100"
     }
   ]
 }

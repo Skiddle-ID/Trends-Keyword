@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2024 , 11:35:38",
+  "lastUpdate": "28-08-2024 , 12:55:25",
   "data": [
     {
       "title": "Paralympics",
@@ -17,14 +17,19 @@
       "pubdate": "Wed, 28 Aug 2024 09:00:00 +0300"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
-      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0300"
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#La%20Liga",
+      "pubdate": "Wed, 28 Aug 2024 15:00:00 +0300"
     },
     {
       "title": "Carabao Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Carabao%20Cup",
       "pubdate": "Wed, 28 Aug 2024 06:00:00 +0300"
+    },
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
+      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0300"
     },
     {
       "title": "Juan Izquierdo",
@@ -50,11 +55,6 @@
       "title": "Manuel Ugarte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manuel%20Ugarte",
       "pubdate": "Tue, 27 Aug 2024 13:00:00 +0300"
-    },
-    {
-      "title": "Everton vs Doncaster",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Doncaster",
-      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0300"
     },
     {
       "title": "Museveni",
@@ -87,18 +87,18 @@
       "pubdate": "Tue, 27 Aug 2024 17:00:00 +0300"
     },
     {
-      "title": "Mariah Carey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mariah%20Carey",
-      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
-    },
-    {
       "title": "Ivan Toney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ivan%20Toney",
       "pubdate": "Tue, 27 Aug 2024 20:00:00 +0300"
     },
     {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al-Nassr",
+      "title": "Mariah Carey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mariah%20Carey",
+      "pubdate": "Tue, 27 Aug 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al%20Nassr",
       "pubdate": "Tue, 27 Aug 2024 21:00:00 +0300"
     }
   ]
