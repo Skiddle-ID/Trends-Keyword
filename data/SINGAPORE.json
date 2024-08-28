@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-08-2024 , 23:35:46",
+  "lastUpdate": "28-08-2024 , 01:49:56",
   "data": [
     {
       "title": "Paralympics",
@@ -7,18 +7,18 @@
       "pubdate": "Wed, 28 Aug 2024 01:00:00 +0800"
     },
     {
-      "title": "Mikel Merino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mikel%20Merino",
-      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0800"
-    },
-    {
       "title": "Franco Colapinto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Franco%20Colapinto",
       "pubdate": "Wed, 28 Aug 2024 02:00:00 +0800"
     },
     {
-      "title": "Szczesny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Szczesny",
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
+      "pubdate": "Wed, 28 Aug 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Mikel Merino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mikel%20Merino",
       "pubdate": "Wed, 28 Aug 2024 00:00:00 +0800"
     },
     {
@@ -27,9 +27,9 @@
       "pubdate": "Wed, 28 Aug 2024 00:00:00 +0800"
     },
     {
-      "title": "US Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Open",
-      "pubdate": "Tue, 27 Aug 2024 04:00:00 +0800"
+      "title": "Szczesny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Szczesny",
+      "pubdate": "Wed, 28 Aug 2024 00:00:00 +0800"
     },
     {
       "title": "Chiesa",
@@ -37,14 +37,14 @@
       "pubdate": "Tue, 27 Aug 2024 08:00:00 +0800"
     },
     {
-      "title": "PDD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PDD",
-      "pubdate": "Tue, 27 Aug 2024 02:00:00 +0800"
-    },
-    {
       "title": "Typhoon Shanshan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Typhoon%20Shanshan",
       "pubdate": "Tue, 27 Aug 2024 09:00:00 +0800"
+    },
+    {
+      "title": "PDD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PDD",
+      "pubdate": "Tue, 27 Aug 2024 02:00:00 +0800"
     },
     {
       "title": "Mariah Carey",
@@ -82,6 +82,11 @@
       "pubdate": "Mon, 26 Aug 2024 20:00:00 +0800"
     },
     {
+      "title": "U.S. Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20Open",
+      "pubdate": "Mon, 26 Aug 2024 22:00:00 +0800"
+    },
+    {
       "title": "Ugarte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ugarte",
       "pubdate": "Mon, 26 Aug 2024 22:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Ticketmaster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
       "pubdate": "Mon, 26 Aug 2024 11:00:00 +0800"
-    },
-    {
-      "title": "F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
-      "pubdate": "Sun, 25 Aug 2024 02:00:00 +0800"
     }
   ]
 }

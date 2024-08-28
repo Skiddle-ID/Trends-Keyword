@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "27-08-2024 , 23:35:41",
+  "lastUpdate": "28-08-2024 , 01:49:50",
   "data": [
+    {
+      "title": "Jeux Paralympiques",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeux%20Paralympiques",
+      "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
+    },
     {
       "title": "Taxe fonciere 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taxe%20fonciere%202024",
       "pubdate": "Wed, 28 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Oasis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oasis",
+      "pubdate": "Tue, 27 Aug 2024 12:00:00 +0200"
     },
     {
       "title": "Rayo – Barcelone",
@@ -17,11 +27,6 @@
       "pubdate": "Tue, 27 Aug 2024 02:00:00 +0200"
     },
     {
-      "title": "Pierre Richard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Richard",
-      "pubdate": "Tue, 27 Aug 2024 14:00:00 +0200"
-    },
-    {
       "title": "Mougins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mougins",
       "pubdate": "Tue, 27 Aug 2024 08:00:00 +0200"
@@ -30,11 +35,6 @@
       "title": "Galatasaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galatasaray",
       "pubdate": "Tue, 27 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Coexister",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coexister",
-      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Ambroisie",
@@ -57,24 +57,24 @@
       "pubdate": "Tue, 27 Aug 2024 08:00:00 +0200"
     },
     {
-      "title": "Debat Kamala Harris Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Debat%20Kamala%20Harris%20Trump",
-      "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
-    },
-    {
       "title": "Mehdi Narjissi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mehdi%20Narjissi",
       "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Gaël Monfils",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
-      "pubdate": "Tue, 27 Aug 2024 02:00:00 +0200"
+      "title": "Debat Kamala Harris Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Debat%20Kamala%20Harris%20Trump",
+      "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Aya Nakamura",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aya%20Nakamura",
       "pubdate": "Tue, 27 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Coexister",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coexister",
+      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
     },
     {
       "title": "Pacifique",
@@ -87,6 +87,11 @@
       "pubdate": "Tue, 27 Aug 2024 20:00:00 +0200"
     },
     {
+      "title": "La Stagiaire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Stagiaire",
+      "pubdate": "Tue, 27 Aug 2024 23:00:00 +0200"
+    },
+    {
       "title": "Agnès Vahramian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Agn%C3%A8s%20Vahramian",
       "pubdate": "Tue, 27 Aug 2024 21:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Nintendo Direct",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nintendo%20Direct",
       "pubdate": "Tue, 27 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Only Murders in the Building",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Only%20Murders%20in%20the%20Building",
-      "pubdate": "Tue, 27 Aug 2024 21:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-08-2024 , 23:35:39",
+  "lastUpdate": "28-08-2024 , 01:49:49",
   "data": [
     {
       "title": "Amber Alert",
@@ -12,11 +12,6 @@
       "pubdate": "Tue, 27 Aug 2024 04:00:00 -0400"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
-      "pubdate": "Tue, 27 Aug 2024 16:00:00 -0400"
-    },
-    {
       "title": "John Foley Peloton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Foley%20Peloton",
       "pubdate": "Tue, 27 Aug 2024 10:00:00 -0400"
@@ -27,8 +22,13 @@
       "pubdate": "Tue, 27 Aug 2024 13:00:00 -0400"
     },
     {
-      "title": "Rayo Vallecano vs Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rayo%20Vallecano%20vs%20Barcelona",
+      "title": "Barca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barca",
+      "pubdate": "Tue, 27 Aug 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
       "pubdate": "Tue, 27 Aug 2024 16:00:00 -0400"
     },
     {
@@ -42,24 +42,14 @@
       "pubdate": "Tue, 27 Aug 2024 12:00:00 -0400"
     },
     {
+      "title": "Rainfall warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rainfall%20warning",
+      "pubdate": "Tue, 27 Aug 2024 19:00:00 -0400"
+    },
+    {
       "title": "Sonic 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sonic%203",
       "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Paul Dwayne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Dwayne",
-      "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
-    },
-    {
-      "title": "Nintendo Direct",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nintendo%20Direct",
-      "pubdate": "Tue, 27 Aug 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Mark Zuckerberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Zuckerberg",
-      "pubdate": "Tue, 27 Aug 2024 13:00:00 -0400"
     },
     {
       "title": "Shapovalov",
@@ -67,39 +57,49 @@
       "pubdate": "Tue, 27 Aug 2024 16:00:00 -0400"
     },
     {
+      "title": "Paul Dwayne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Dwayne",
+      "pubdate": "Tue, 27 Aug 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Mark Zuckerberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Zuckerberg",
+      "pubdate": "Tue, 27 Aug 2024 13:00:00 -0400"
+    },
+    {
+      "title": "Nintendo Direct",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nintendo%20Direct",
+      "pubdate": "Tue, 27 Aug 2024 14:00:00 -0400"
+    },
+    {
       "title": "Dominic Thiem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dominic%20Thiem",
       "pubdate": "Tue, 27 Aug 2024 00:00:00 -0400"
     },
     {
-      "title": "Naomi Osaka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Naomi%20Osaka",
-      "pubdate": "Tue, 27 Aug 2024 17:00:00 -0400"
+      "title": "Delta airlines tire explosion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Delta%20airlines%20tire%20explosion",
+      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
     },
     {
-      "title": "US Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#US%20Open",
+      "title": "Shroud of Turin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shroud%20of%20Turin",
+      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
+    },
+    {
+      "title": "Lyle and Erik Menendez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lyle%20and%20Erik%20Menendez",
+      "pubdate": "Tue, 27 Aug 2024 21:00:00 -0400"
+    },
+    {
+      "title": "Severe thunderstorm warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20thunderstorm%20warning",
+      "pubdate": "Mon, 26 Aug 2024 01:00:00 -0400"
+    },
+    {
+      "title": "U.S. Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#U.S.%20Open",
       "pubdate": "Mon, 26 Aug 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Mariah Carey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mariah%20Carey",
-      "pubdate": "Mon, 26 Aug 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Sid Vicious",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sid%20Vicious",
-      "pubdate": "Mon, 26 Aug 2024 17:00:00 -0400"
-    },
-    {
-      "title": "US Open Tennis 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#US%20Open%20Tennis%202024",
-      "pubdate": "Mon, 26 Aug 2024 12:00:00 -0400"
-    },
-    {
-      "title": "Tulsi Gabbard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tulsi%20Gabbard",
-      "pubdate": "Mon, 26 Aug 2024 13:00:00 -0400"
     }
   ]
 }
