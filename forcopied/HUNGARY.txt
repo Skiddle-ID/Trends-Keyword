@@ -1,1 +1,1 @@
-Chiesa,Slovan Bratislava,Nvidia,Atletico Madrid,Noszály Sándor,T. János György,Molnár Gusztáv,Madách Imre Gimnázium,La Liga,Ricky Martin,Henry Kettner,Hobo,M100 autópálya,Galgóczi Erzsébet,Puskás Akadémia,Manuel,Vadai Ágnes,Állatkertek Éjszakája,Margot Robbie,Dancs Annamari
+Chiesa,T. János György,Slovan Bratislava,Nvidia,Atletico Madrid,Noszály Sándor,Thuróczy Szabolcs,Farmer Expo,Molnár Gusztáv,Madách Imre Gimnázium,Iványi Gábor,La Liga,Ricky Martin,M100 autópálya,Hobo,Henry Kettner,Galgóczi Erzsébet,Puskás Akadémia,Sztárbox,Manuel
