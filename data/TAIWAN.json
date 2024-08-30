@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "30-08-2024 , 11:35:37",
+  "lastUpdate": "30-08-2024 , 12:55:19",
   "data": [
     {
-      "title": "黃國昌",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E5%9C%8B%E6%98%8C",
-      "pubdate": "Fri, 30 Aug 2024 08:00:00 +0800"
+      "title": "廉政署",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BB%89%E6%94%BF%E7%BD%B2",
+      "pubdate": "Fri, 30 Aug 2024 13:00:00 +0800"
     },
     {
       "title": "張文貞",
@@ -12,8 +12,8 @@
       "pubdate": "Fri, 30 Aug 2024 12:00:00 +0800"
     },
     {
-      "title": "安雨",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%89%E9%9B%A8",
+      "title": "黃俊哲",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E4%BF%8A%E5%93%B2",
       "pubdate": "Fri, 30 Aug 2024 16:00:00 +0800"
     },
     {
@@ -27,14 +27,14 @@
       "pubdate": "Fri, 30 Aug 2024 00:00:00 +0800"
     },
     {
-      "title": "黃俊哲",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E4%BF%8A%E5%93%B2",
-      "pubdate": "Fri, 30 Aug 2024 16:00:00 +0800"
-    },
-    {
       "title": "MSCI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MSCI",
       "pubdate": "Fri, 30 Aug 2024 10:00:00 +0800"
+    },
+    {
+      "title": "莉莉",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8E%89%E8%8E%89",
+      "pubdate": "Fri, 30 Aug 2024 18:00:00 +0800"
     },
     {
       "title": "小福利麻辣鍋",
@@ -62,14 +62,19 @@
       "pubdate": "Thu, 29 Aug 2024 08:00:00 +0800"
     },
     {
+      "title": "民眾黨",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B0%91%E7%9C%BE%E9%BB%A8",
+      "pubdate": "Thu, 29 Aug 2024 15:00:00 +0800"
+    },
+    {
+      "title": "帕運",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B8%95%E9%81%8B",
+      "pubdate": "Thu, 29 Aug 2024 20:00:00 +0800"
+    },
+    {
       "title": "蕭翔文",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%95%AD%E7%BF%94%E6%96%87",
       "pubdate": "Thu, 29 Aug 2024 21:00:00 +0800"
-    },
-    {
-      "title": "柯文哲記者會",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E6%96%87%E5%93%B2%E8%A8%98%E8%80%85%E6%9C%83",
-      "pubdate": "Thu, 29 Aug 2024 15:00:00 +0800"
     },
     {
       "title": "斐濟",
@@ -82,9 +87,9 @@
       "pubdate": "Thu, 29 Aug 2024 04:00:00 +0800"
     },
     {
-      "title": "巴黎帕運",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%B4%E9%BB%8E%E5%B8%95%E9%81%8B",
-      "pubdate": "Thu, 29 Aug 2024 20:00:00 +0800"
+      "title": "具荷拉",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%B7%E8%8D%B7%E6%8B%89",
+      "pubdate": "Thu, 29 Aug 2024 04:00:00 +0800"
     },
     {
       "title": "盧廣仲",
@@ -95,11 +100,6 @@
       "title": "中興新村",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E8%88%88%E6%96%B0%E6%9D%91",
       "pubdate": "Thu, 29 Aug 2024 19:00:00 +0800"
-    },
-    {
-      "title": "SM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#SM",
-      "pubdate": "Thu, 29 Aug 2024 12:00:00 +0800"
     }
   ]
 }
