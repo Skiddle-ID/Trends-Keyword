@@ -1,1 +1,1 @@
-Benfica,Dersimiz: Atatürk,Union Berlin,Naci Görür deprem,Roma,Gençlerbirliği,Mauro Icardi,Fenerbahçe - Alanyaspor,Sofyan Amrabat,Lyon,Rafa Silva,Nöbetçi Eczane,Haluk Bilginer,Milli Takım,Mehmet Türkmen,Hızlı ve Öfkeli 7,Ziyech,Şenol Güneş,Hakan Fidan,Kırk Yalan
+Benfica,Naci Görür deprem,Dersimiz: Atatürk,Union Berlin,Roma,Gençlerbirliği,Mauro Icardi,Fenerbahçe  Alanyaspor,Sofyan Amrabat,Lyon,Rafa Silva,Nöbetçi Eczane,Mustafa Kemal Atatürk,Haluk Bilginer,Milli Takım,Pınar Deniz,Şenol Güneş,Kırk Yalan,Nebati,Burak Keleş

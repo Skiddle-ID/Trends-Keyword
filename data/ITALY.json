@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2024 , 23:35:17",
+  "lastUpdate": "31-08-2024 , 01:50:31",
   "data": [
     {
       "title": "Folorunsho",
@@ -7,14 +7,39 @@
       "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
     },
     {
+      "title": "Nakashima",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nakashima",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Marcus Thuram",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcus%20Thuram",
+      "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Torregrossa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Torregrossa",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Danilo Cataldi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Danilo%20Cataldi",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Lazio-Roma Femminile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lazio-Roma%20Femminile",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Latiano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Latiano",
+      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0200"
+    },
+    {
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A",
       "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Sharon Verzeni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sharon%20Verzeni",
-      "pubdate": "Fri, 30 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Venezia-Torino",
@@ -22,14 +47,19 @@
       "pubdate": "Fri, 30 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Alcaraz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alcaraz",
-      "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
+      "title": "Sharon Verzeni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sharon%20Verzeni",
+      "pubdate": "Fri, 30 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Calciomercato",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calciomercato",
-      "pubdate": "Fri, 30 Aug 2024 20:00:00 +0200"
+      "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alcaraz",
+      "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
     },
     {
       "title": "Osimhen",
@@ -62,44 +92,14 @@
       "pubdate": "Fri, 30 Aug 2024 13:00:00 +0200"
     },
     {
-      "title": "Danso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Danso",
-      "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
-    },
-    {
       "title": "Terremoto Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20Napoli",
       "pubdate": "Fri, 30 Aug 2024 22:00:00 +0200"
     },
     {
-      "title": "Partite di Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partite%20di%20Serie%20A",
-      "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Rabiot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rabiot",
-      "pubdate": "Fri, 30 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Babygirl film Nicole Kidman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Babygirl%20film%20Nicole%20Kidman",
-      "pubdate": "Fri, 30 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Tamberi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tamberi",
-      "pubdate": "Fri, 30 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Enrico Ruggeri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Enrico%20Ruggeri",
-      "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Il ciclone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20ciclone",
-      "pubdate": "Fri, 30 Aug 2024 22:00:00 +0200"
+      "title": "Danso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Danso",
+      "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
     }
   ]
 }

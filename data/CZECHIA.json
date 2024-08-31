@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2024 , 23:35:13",
+  "lastUpdate": "31-08-2024 , 01:50:27",
   "data": [
     {
       "title": "Monkey Business",
@@ -15,6 +15,11 @@
       "title": "Odpal bomby v litvínově",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Odpal%20bomby%20v%20litv%C3%ADnov%C4%9B",
       "pubdate": "Fri, 30 Aug 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Love Island 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Love%20Island%202024",
+      "pubdate": "Fri, 30 Aug 2024 19:00:00 +0200"
     },
     {
       "title": "Vladimír Dlouhý",
@@ -95,11 +100,6 @@
       "title": "Los Evropské ligy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Evropsk%C3%A9%20ligy",
       "pubdate": "Thu, 29 Aug 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Paksi FC – Boleslav",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Paksi%20FC%20%E2%80%93%20Boleslav",
-      "pubdate": "Thu, 29 Aug 2024 19:00:00 +0200"
     }
   ]
 }
