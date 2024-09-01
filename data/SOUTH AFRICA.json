@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "31-08-2024 , 23:37:32",
+  "lastUpdate": "01-09-2024 , 02:09:25",
   "data": [
+    {
+      "title": "Archery Paralympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Archery%20Paralympics",
+      "pubdate": "Sun, 01 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Russia putin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Russia%20putin",
+      "pubdate": "Sun, 01 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "Orlando Pirates vs Cape Town City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates%20vs%20Cape%20Town%20City",
@@ -47,14 +57,14 @@
       "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Sacha Feinberg-Mngomezulu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sacha%20Feinberg-Mngomezulu",
-      "pubdate": "Sat, 31 Aug 2024 17:00:00 +0200"
-    },
-    {
       "title": "Ipswich Town vs Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town%20vs%20Fulham",
       "pubdate": "Sat, 31 Aug 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
+      "pubdate": "Sat, 31 Aug 2024 20:00:00 +0200"
     },
     {
       "title": "Jadon Sancho",
@@ -65,6 +75,11 @@
       "title": "Sports",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sports",
       "pubdate": "Sat, 31 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Australia vs Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Argentina",
+      "pubdate": "Sat, 31 Aug 2024 13:00:00 +0200"
     },
     {
       "title": "Brentford vs Southampton",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 31 Aug 2024 02:00:00 +0200"
     },
     {
-      "title": "The Deliverance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Deliverance",
-      "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Vladimir Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vladimir%20Putin",
-      "pubdate": "Sat, 31 Aug 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Brentford FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20FC",
-      "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Burnley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley",
-      "pubdate": "Sat, 31 Aug 2024 15:00:00 +0200"
+      "title": "Sa Rugby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sa%20Rugby",
+      "pubdate": "Sat, 31 Aug 2024 17:00:00 +0200"
     }
   ]
 }

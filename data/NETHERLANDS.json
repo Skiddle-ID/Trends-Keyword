@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "31-08-2024 , 23:37:30",
+  "lastUpdate": "01-09-2024 , 02:09:23",
   "data": [
     {
       "title": "Heerenveen  NAC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen%20%20NAC",
       "pubdate": "Sat, 31 Aug 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Willem II  Sparta Rotterdam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20%20Sparta%20Rotterdam",
+      "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
     },
     {
       "title": "Fatman Scoop",
@@ -22,23 +27,8 @@
       "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
     },
     {
-      "title": "Willem II  Sparta Rotterdam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20%20Sparta%20Rotterdam",
-      "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Fortuna-NEC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna-NEC",
-      "pubdate": "Sat, 31 Aug 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Fleur Jong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fleur%20Jong",
-      "pubdate": "Sat, 31 Aug 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Glory",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Glory",
+      "title": "Fortuna  NEC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20%20NEC",
       "pubdate": "Sat, 31 Aug 2024 19:00:00 +0200"
     },
     {
@@ -87,11 +77,6 @@
       "pubdate": "Fri, 30 Aug 2024 19:00:00 +0200"
     },
     {
-      "title": "Kimi Antonelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kimi%20Antonelli",
-      "pubdate": "Fri, 30 Aug 2024 23:00:00 +0200"
-    },
-    {
       "title": "RKC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
       "pubdate": "Fri, 30 Aug 2024 22:00:00 +0200"
@@ -100,6 +85,21 @@
       "title": "Paralympische Spelen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paralympische%20Spelen",
       "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Paralympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paralympics",
+      "pubdate": "Wed, 28 Aug 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Eindhoven Airport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eindhoven%20Airport",
+      "pubdate": "Wed, 28 Aug 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Oasis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oasis",
+      "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
     }
   ]
 }

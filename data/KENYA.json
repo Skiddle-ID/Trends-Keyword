@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "31-08-2024 , 23:37:29",
+  "lastUpdate": "01-09-2024 , 02:09:22",
   "data": [
     {
       "title": "Archery Paralympics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Archery%20Paralympics",
       "pubdate": "Sun, 01 Sep 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Sol Bamba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sol%20Bamba",
+      "pubdate": "Sun, 01 Sep 2024 02:00:00 +0300"
     },
     {
       "title": "Leverkusen",
@@ -52,19 +57,24 @@
       "pubdate": "Sat, 31 Aug 2024 21:00:00 +0300"
     },
     {
-      "title": "Eddie Nketiah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eddie%20Nketiah",
-      "pubdate": "Sat, 31 Aug 2024 09:00:00 +0300"
-    },
-    {
       "title": "Chelsea vs Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Crystal%20Palace",
       "pubdate": "Sat, 31 Aug 2024 16:00:00 +0300"
     },
     {
+      "title": "Eddie Nketiah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Eddie%20Nketiah",
+      "pubdate": "Sat, 31 Aug 2024 09:00:00 +0300"
+    },
+    {
       "title": "Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves",
       "pubdate": "Sat, 31 Aug 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Sterling transfer news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sterling%20transfer%20news",
+      "pubdate": "Sat, 31 Aug 2024 09:00:00 +0300"
     },
     {
       "title": "Tyrese",
@@ -75,11 +85,6 @@
       "title": "Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dortmund",
       "pubdate": "Sat, 31 Aug 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benfica",
-      "pubdate": "Sat, 31 Aug 2024 01:00:00 +0300"
     },
     {
       "title": "Kenya Mpox cases",
@@ -95,11 +100,6 @@
       "title": "Rio Ave FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rio%20Ave%20FC",
       "pubdate": "Sat, 31 Aug 2024 18:00:00 +0300"
-    },
-    {
-      "title": "Burnley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Burnley",
-      "pubdate": "Sat, 31 Aug 2024 17:00:00 +0300"
     }
   ]
 }
