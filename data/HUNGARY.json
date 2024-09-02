@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "01-09-2024 , 23:36:23",
+  "lastUpdate": "02-09-2024 , 01:53:20",
   "data": [
+    {
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AfD",
+      "pubdate": "Mon, 02 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "Sztárbox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szt%C3%A1rbox",
@@ -37,6 +42,11 @@
       "pubdate": "Sun, 01 Sep 2024 14:00:00 +0200"
     },
     {
+      "title": "Kísértés TV2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADs%C3%A9rt%C3%A9s%20TV2",
+      "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
+    },
+    {
       "title": "Ujpest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ujpest",
       "pubdate": "Sun, 01 Sep 2024 18:00:00 +0200"
@@ -47,6 +57,11 @@
       "pubdate": "Sun, 01 Sep 2024 23:00:00 +0200"
     },
     {
+      "title": "Tv2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tv2",
+      "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "RTL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
       "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
@@ -55,11 +70,6 @@
       "title": "Ónodi Henrietta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nodi%20Henrietta",
       "pubdate": "Sun, 01 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Kísértés TV2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADs%C3%A9rt%C3%A9s%20TV2",
-      "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Donáth Anna",
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 01 Sep 2024 22:00:00 +0200"
     },
     {
+      "title": "ALAVÉS–LAS PALMAS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ALAV%C3%89S%E2%80%93LAS%20PALMAS",
+      "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
+    },
+    {
       "title": "MotoGP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MotoGP",
       "pubdate": "Sun, 01 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Magyar Péter Heim Pál",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter%20Heim%20P%C3%A1l",
-      "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Thuróczy Szabolcs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Thur%C3%B3czy%20Szabolcs",
-      "pubdate": "Sun, 01 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Stohl András",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stohl%20Andr%C3%A1s",
-      "pubdate": "Sun, 01 Sep 2024 20:00:00 +0200"
     }
   ]
 }
