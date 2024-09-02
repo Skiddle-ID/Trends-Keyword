@@ -1,1 +1,1 @@
-Obi Ndefo,Coco Gauff,Beluga,Maria Rosaria Boccia,Monza Calcio,WEC,Nations League,Juventus Women,Meteo Livorno,Atm,Nazionale Italiana,Veronica Yoko Plebani,Monaco,Tiro con l'arco Paralimpiadi,Paderno Dugnano,Fiorentina-Monza,Genoa-Verona,Brad Pitt,Udinese-Como,Manchester United-Liverpool
+Obi Ndefo,Beluga,Keanu Reeves,Luana Ravegnini,Veronica Yoko Plebani,Monza calcio,Nations League,WEC,Juventus Women,Meteo Livorno,ATM,Nazionale Italiana,Coco Gauff,Sahra Wagenknecht,Bortuzzo,Monaco,Gatti,Tiro con l'arco Paralimpiadi,Paderno Dugnano,Fiorentina-Monza

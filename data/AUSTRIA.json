@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "02-09-2024 , 11:37:21",
+  "lastUpdate": "02-09-2024 , 12:56:23",
   "data": [
-    {
-      "title": "Georgina Fleur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georgina%20Fleur",
-      "pubdate": "Mon, 02 Sep 2024 00:00:00 +0200"
-    },
     {
       "title": "Christian Öhler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20%C3%96hler",
       "pubdate": "Mon, 02 Sep 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Verbund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verbund",
+      "pubdate": "Mon, 02 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Obi Ndefo",
@@ -22,19 +22,29 @@
       "pubdate": "Mon, 02 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Verbund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verbund",
-      "pubdate": "Mon, 02 Sep 2024 11:00:00 +0200"
-    },
-    {
       "title": "Niklas-Wilson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niklas-Wilson",
       "pubdate": "Mon, 02 Sep 2024 00:00:00 +0200"
     },
     {
+      "title": "George Clooney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#George%20Clooney",
+      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Messerangriff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Messerangriff",
+      "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
+    },
+    {
       "title": "Schulstart",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schulstart",
       "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Nations League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nations%20League",
+      "pubdate": "Mon, 02 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Nick Treadwell",
@@ -47,9 +57,9 @@
       "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
     },
     {
-      "title": "Nations League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nations%20League",
-      "pubdate": "Mon, 02 Sep 2024 11:00:00 +0200"
+      "title": "Zeltweg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zeltweg",
+      "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "Thüringen",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Manunited – Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manunited%20%E2%80%93%20Liverpool",
+      "title": "SCR Altach – Austria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SCR%20Altach%20%E2%80%93%20Austria",
       "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Klimabonus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimabonus",
-      "pubdate": "Sun, 01 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Thomas Gottschalk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Thomas%20Gottschalk",
-      "pubdate": "Sun, 01 Sep 2024 10:00:00 +0200"
     }
   ]
 }

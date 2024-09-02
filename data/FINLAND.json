@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 11:37:23",
+  "lastUpdate": "02-09-2024 , 12:56:26",
   "data": [
     {
       "title": "Vero",
@@ -32,19 +32,24 @@
       "pubdate": "Sun, 01 Sep 2024 18:00:00 +0300"
     },
     {
+      "title": "BESS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
+      "pubdate": "Sun, 01 Sep 2024 21:00:00 +0300"
+    },
+    {
       "title": "Sol Bamba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sol%20Bamba",
       "pubdate": "Sun, 01 Sep 2024 10:00:00 +0300"
     },
     {
-      "title": "Real Madrid – Real Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Real%20Betis",
-      "pubdate": "Sun, 01 Sep 2024 23:00:00 +0300"
-    },
-    {
       "title": "F1 Monza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1%20Monza",
       "pubdate": "Sun, 01 Sep 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Real Madrid – Real Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Real%20Betis",
+      "pubdate": "Sun, 01 Sep 2024 23:00:00 +0300"
     },
     {
       "title": "Matt Stutzman",
@@ -67,11 +72,6 @@
       "pubdate": "Sun, 01 Sep 2024 10:00:00 +0300"
     },
     {
-      "title": "Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin",
-      "pubdate": "Sun, 01 Sep 2024 15:00:00 +0300"
-    },
-    {
       "title": "Newcastle United – Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20Tottenham",
       "pubdate": "Sun, 01 Sep 2024 18:00:00 +0300"
@@ -80,11 +80,6 @@
       "title": "Harris Dickinson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harris%20Dickinson",
       "pubdate": "Sun, 01 Sep 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Nicole Kidman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nicole%20Kidman",
-      "pubdate": "Sun, 01 Sep 2024 14:00:00 +0300"
     },
     {
       "title": "Oasis",
@@ -100,6 +95,11 @@
       "title": "Fatman Scoop",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fatman%20Scoop",
       "pubdate": "Sat, 31 Aug 2024 21:00:00 +0300"
+    },
+    {
+      "title": "A Star Is Born",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#A%20Star%20Is%20Born",
+      "pubdate": "Sat, 31 Aug 2024 22:00:00 +0300"
     }
   ]
 }

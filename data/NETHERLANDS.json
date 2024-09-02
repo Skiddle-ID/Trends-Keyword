@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 11:37:27",
+  "lastUpdate": "02-09-2024 , 12:56:29",
   "data": [
     {
       "title": "KNMI",
@@ -12,9 +12,14 @@
       "pubdate": "Mon, 02 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Bertus Staigerpaip",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bertus%20Staigerpaip",
-      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
+      "title": "Terence Kongolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Terence%20Kongolo",
+      "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Brad Pitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Brad%20Pitt",
+      "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "Utrecht  Twente",
@@ -30,6 +35,11 @@
       "title": "PEC Zwolle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
       "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Expeditie Robinson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Expeditie%20Robinson",
+      "pubdate": "Sun, 01 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Charles Leclerc",
@@ -52,9 +62,9 @@
       "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Oasis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oasis",
-      "pubdate": "Sat, 31 Aug 2024 14:00:00 +0200"
+      "title": "Zwembad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zwembad",
+      "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Teskey Brothers",
@@ -90,16 +100,6 @@
       "title": "Colapinto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Colapinto",
       "pubdate": "Fri, 30 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "RKC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
-      "pubdate": "Fri, 30 Aug 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Paralympische Spelen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paralympische%20Spelen",
-      "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
     }
   ]
 }

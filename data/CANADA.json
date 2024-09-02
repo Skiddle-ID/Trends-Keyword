@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 11:37:22",
+  "lastUpdate": "02-09-2024 , 12:56:24",
   "data": [
     {
       "title": "Indiana Fever",
@@ -15,6 +15,11 @@
       "title": "Obi Ndefo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Obi%20Ndefo",
       "pubdate": "Mon, 02 Sep 2024 01:00:00 -0400"
+    },
+    {
+      "title": "Bernard Cazeneuve Premier ministre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bernard%20Cazeneuve%20Premier%20ministre",
+      "pubdate": "Mon, 02 Sep 2024 04:00:00 -0400"
     },
     {
       "title": "Archery Paralympics",
@@ -37,11 +42,6 @@
       "pubdate": "Sun, 01 Sep 2024 18:00:00 -0400"
     },
     {
-      "title": "Real Madrid vs Real Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Real%20Betis",
-      "pubdate": "Sun, 01 Sep 2024 15:00:00 -0400"
-    },
-    {
       "title": "Coco Gauff",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coco%20Gauff",
       "pubdate": "Sun, 01 Sep 2024 18:00:00 -0400"
@@ -62,14 +62,19 @@
       "pubdate": "Sun, 01 Sep 2024 11:00:00 -0400"
     },
     {
-      "title": "Pink",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pink",
-      "pubdate": "Sun, 01 Sep 2024 01:00:00 -0400"
-    },
-    {
       "title": "Labour Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Labour%20Day",
       "pubdate": "Sun, 01 Sep 2024 23:00:00 -0400"
+    },
+    {
+      "title": "What's open on Labour Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What's%20open%20on%20Labour%20Day",
+      "pubdate": "Sun, 01 Sep 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Pink",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pink",
+      "pubdate": "Sun, 01 Sep 2024 01:00:00 -0400"
     },
     {
       "title": "Chelsea vs Crystal Palace",
@@ -82,24 +87,19 @@
       "pubdate": "Sun, 01 Sep 2024 17:00:00 -0400"
     },
     {
-      "title": "What's open on Labour Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What's%20open%20on%20Labour%20Day",
+      "title": "Ouvert fete du Travail",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ouvert%20fete%20du%20Travail",
       "pubdate": "Sun, 01 Sep 2024 18:00:00 -0400"
+    },
+    {
+      "title": "Canal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canal",
+      "pubdate": "Sun, 01 Sep 2024 10:00:00 -0400"
     },
     {
       "title": "Rublev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rublev",
       "pubdate": "Sun, 01 Sep 2024 17:00:00 -0400"
-    },
-    {
-      "title": "Starlink",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Starlink",
-      "pubdate": "Sun, 01 Sep 2024 20:00:00 -0400"
-    },
-    {
-      "title": "Hersh Goldberg-Polin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hersh%20Goldberg-Polin",
-      "pubdate": "Sun, 01 Sep 2024 07:00:00 -0400"
     }
   ]
 }
