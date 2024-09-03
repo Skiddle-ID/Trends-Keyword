@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 23:36:15",
+  "lastUpdate": "03-09-2024 , 01:50:31",
   "data": [
     {
       "title": "Sanlam",
@@ -22,19 +22,24 @@
       "pubdate": "Mon, 02 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
-      "pubdate": "Mon, 02 Sep 2024 00:00:00 +0200"
-    },
-    {
       "title": "Coco Gauff",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Coco%20Gauff",
       "pubdate": "Mon, 02 Sep 2024 10:00:00 +0200"
     },
     {
+      "title": "Potatoes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Potatoes",
+      "pubdate": "Mon, 02 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Ashlyn Watkins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ashlyn%20Watkins",
       "pubdate": "Mon, 02 Sep 2024 06:00:00 +0200"
+    },
+    {
+      "title": "Chris Smalling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chris%20Smalling",
+      "pubdate": "Mon, 02 Sep 2024 16:00:00 +0200"
     },
     {
       "title": "Ines de Ramon",
@@ -95,11 +100,6 @@
       "title": "Bayer Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayer%20Leverkusen",
       "pubdate": "Sun, 01 Sep 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Sifiso Dabengwa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sifiso%20Dabengwa",
-      "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
     }
   ]
 }

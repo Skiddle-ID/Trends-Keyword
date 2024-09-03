@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-09-2024 , 23:36:13",
+  "lastUpdate": "03-09-2024 , 01:50:28",
   "data": [
+    {
+      "title": "Nicole Kidman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nicole%20Kidman",
+      "pubdate": "Tue, 03 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Leonie ter Braak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leonie%20ter%20Braak",
@@ -10,6 +15,11 @@
       "title": "Bergwijn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bergwijn",
       "pubdate": "Mon, 02 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "KNMI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
+      "pubdate": "Mon, 02 Sep 2024 08:00:00 +0200"
     },
     {
       "title": "Teams",
@@ -72,11 +82,6 @@
       "pubdate": "Sun, 01 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Charles Leclerc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Charles%20Leclerc",
-      "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
-    },
-    {
       "title": "AfD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AfD",
       "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Lotomba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lotomba",
       "pubdate": "Sun, 01 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Heerenveen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
-      "pubdate": "Sat, 31 Aug 2024 21:00:00 +0200"
     }
   ]
 }

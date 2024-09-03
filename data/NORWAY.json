@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 23:36:13",
+  "lastUpdate": "03-09-2024 , 01:50:29",
   "data": [
     {
       "title": "Thor Heyerdahl",
@@ -37,14 +37,14 @@
       "pubdate": "Mon, 02 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "George Clooney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#George%20Clooney",
-      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
-    },
-    {
       "title": "Karianne Tung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Karianne%20Tung",
       "pubdate": "Mon, 02 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "George Clooney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#George%20Clooney",
+      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Norske Talenter",
@@ -52,9 +52,9 @@
       "pubdate": "Mon, 02 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Carl Philip",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carl%20Philip",
-      "pubdate": "Mon, 02 Sep 2024 19:00:00 +0200"
+      "title": "Hennes & Mauritz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hennes%20%26%20Mauritz",
+      "pubdate": "Mon, 02 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Labor Day",
@@ -62,14 +62,19 @@
       "pubdate": "Mon, 02 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "AutoSync",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AutoSync",
-      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
+      "title": "Carl Philip",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carl%20Philip",
+      "pubdate": "Mon, 02 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Isabel Raad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Isabel%20Raad",
       "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "AutoSync",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AutoSync",
+      "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Sachsen",
@@ -94,11 +99,6 @@
     {
       "title": "Liverpool Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20Manchester%20United",
-      "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
       "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
     }
   ]
