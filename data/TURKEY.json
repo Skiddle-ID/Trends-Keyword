@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-09-2024 , 01:50:32",
+  "lastUpdate": "03-09-2024 , 02:52:06",
   "data": [
     {
       "title": "Ismail Jakobs",
@@ -17,14 +17,14 @@
       "pubdate": "Tue, 03 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "Demir Ege Tıknaz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Demir%20Ege%20T%C4%B1knaz",
-      "pubdate": "Tue, 03 Sep 2024 00:00:00 +0300"
-    },
-    {
       "title": "Netanyahu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Netanyahu",
       "pubdate": "Tue, 03 Sep 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Demir Ege Tıknaz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Demir%20Ege%20T%C4%B1knaz",
+      "pubdate": "Tue, 03 Sep 2024 00:00:00 +0300"
     },
     {
       "title": "Osimhen",
@@ -32,8 +32,8 @@
       "pubdate": "Mon, 02 Sep 2024 17:00:00 +0300"
     },
     {
-      "title": "Kerem Aktürkoğlu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kerem%20Akt%C3%BCrko%C4%9Flu",
+      "title": "Kostic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kostic",
       "pubdate": "Mon, 02 Sep 2024 18:00:00 +0300"
     },
     {
@@ -52,8 +52,8 @@
       "pubdate": "Mon, 02 Sep 2024 18:00:00 +0300"
     },
     {
-      "title": "Narin amcasının evinde bulundu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Narin%20amcas%C4%B1n%C4%B1n%20evinde%20bulundu",
+      "title": "Müge Anlı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#M%C3%BCge%20Anl%C4%B1",
       "pubdate": "Mon, 02 Sep 2024 11:00:00 +0300"
     },
     {
@@ -70,11 +70,6 @@
       "title": "DGS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#DGS",
       "pubdate": "Mon, 02 Sep 2024 04:00:00 +0300"
-    },
-    {
-      "title": "TGB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TGB",
-      "pubdate": "Mon, 02 Sep 2024 18:00:00 +0300"
     },
     {
       "title": "Kasım Gülpınar",
@@ -99,6 +94,11 @@
     {
       "title": "Mane",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mane",
+      "pubdate": "Mon, 02 Sep 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Jurassic World: Hakimiyet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Jurassic%20World:%20Hakimiyet",
       "pubdate": "Mon, 02 Sep 2024 21:00:00 +0300"
     }
   ]
