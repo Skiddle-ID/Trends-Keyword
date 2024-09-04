@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "04-09-2024 , 11:35:30",
+  "lastUpdate": "04-09-2024 , 12:56:28",
   "data": [
+    {
+      "title": "Tiafoe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tiafoe",
+      "pubdate": "Wed, 04 Sep 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Dimitrov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dimitrov",
+      "pubdate": "Wed, 04 Sep 2024 00:00:00 -0500"
+    },
     {
       "title": "Colombia vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia%20vs",
@@ -10,6 +20,11 @@
       "title": "Pereira vs Once Caldas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pereira%20vs%20Once%20Caldas",
       "pubdate": "Tue, 03 Sep 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Colombia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia",
+      "pubdate": "Tue, 03 Sep 2024 21:00:00 -0500"
     },
     {
       "title": "Estereo Picnic 2025",
@@ -39,6 +54,11 @@
     {
       "title": "Caracol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Caracol",
+      "pubdate": "Tue, 03 Sep 2024 21:00:00 -0500"
+    },
+    {
+      "title": "Colombia FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia%20FC",
       "pubdate": "Tue, 03 Sep 2024 21:00:00 -0500"
     },
     {
@@ -77,29 +97,9 @@
       "pubdate": "Tue, 03 Sep 2024 09:00:00 -0500"
     },
     {
-      "title": "Luis suarez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Luis%20suarez",
-      "pubdate": "Tue, 03 Sep 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Ninel Conde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ninel%20Conde",
-      "pubdate": "Tue, 03 Sep 2024 00:00:00 -0500"
-    },
-    {
-      "title": "Dólar hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#D%C3%B3lar%20hoy",
-      "pubdate": "Tue, 03 Sep 2024 06:00:00 -0500"
-    },
-    {
-      "title": "Mexico vs Australia Femenino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Mexico%20vs%20Australia%20Femenino",
-      "pubdate": "Tue, 03 Sep 2024 23:00:00 -0500"
-    },
-    {
-      "title": "Ines de ramon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ines%20de%20ramon",
-      "pubdate": "Tue, 03 Sep 2024 09:00:00 -0500"
+      "title": "Copa Mundial Femenina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Mundial%20Femenina",
+      "pubdate": "Tue, 03 Sep 2024 22:00:00 -0500"
     }
   ]
 }

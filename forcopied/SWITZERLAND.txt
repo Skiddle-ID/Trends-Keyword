@@ -1,1 +1,1 @@
-Weltklasse Zürich,Goldpreis,Emma Navarro,Daniel Craig,S&P 500,Darmstadt,Salma Hayek,America's Cup,Embrach,Tigermücke,Rollstuhltennis Paralympics,Tennis fauteuil Jeux paralympiques,Zverev,Nosferatu-Spinne,Jannik Sinner,Concord,Alain Duhamel,Volkswagen,Titanic,Edouard Philippe
+Goldpreis,Emma Navarro,Daniel Craig,Tigermücke,S&P 500,Darmstadt,Salma Hayek,Leon Draisaitl,Maduro Weihnachten,Rollstuhltennis Paralympics,Tennis fauteuil Jeux paralympiques,Zverev,Nosferatu-Spinne,Jannik Sinner,Concord,Edouard Philippe,Volkswagen,Titanic,Incendie vetroz,Wout van Aert
