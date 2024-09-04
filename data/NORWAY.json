@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "03-09-2024 , 23:35:41",
+  "lastUpdate": "04-09-2024 , 01:51:41",
   "data": [
+    {
+      "title": "Lyn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn",
+      "pubdate": "Wed, 04 Sep 2024 00:00:00 +0200"
+    },
     {
       "title": "Kongehuset",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kongehuset",
       "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
     },
     {
-      "title": "Kristoffer Ingebrigtsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristoffer%20Ingebrigtsen",
-      "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
+      "title": "Ida Lindtveit Røse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ida%20Lindtveit%20R%C3%B8se",
+      "pubdate": "Tue, 03 Sep 2024 02:00:00 +0200"
     },
     {
       "title": "Sindre Walle Egeli",
@@ -47,13 +52,8 @@
       "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
     },
     {
-      "title": "Debatten",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Debatten",
-      "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Krill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Krill",
+      "title": "KRILL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KRILL",
       "pubdate": "Tue, 03 Sep 2024 23:00:00 +0200"
     },
     {
@@ -77,14 +77,14 @@
       "pubdate": "Mon, 02 Sep 2024 01:00:00 +0200"
     },
     {
-      "title": "Prins Carl Philip",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Prins%20Carl%20Philip",
-      "pubdate": "Mon, 02 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "Costume Awards 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Costume%20Awards%202024",
       "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Thor Heyerdahl jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thor%20Heyerdahl%20jr",
+      "pubdate": "Mon, 02 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Fredrik Solberg",

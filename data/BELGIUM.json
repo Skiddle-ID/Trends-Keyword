@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "03-09-2024 , 23:35:34",
+  "lastUpdate": "04-09-2024 , 01:51:35",
   "data": [
+    {
+      "title": "Riad Salamé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Riad%20Salam%C3%A9",
+      "pubdate": "Wed, 04 Sep 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Tennis fauteuil Jeux paralympiques",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tennis%20fauteuil%20Jeux%20paralympiques",
+      "pubdate": "Tue, 03 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Wout van Aert",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
@@ -17,14 +27,14 @@
       "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
     },
     {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zverev",
+      "pubdate": "Tue, 03 Sep 2024 23:00:00 +0200"
+    },
+    {
       "title": "Erik Van Looy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Erik%20Van%20Looy",
       "pubdate": "Tue, 03 Sep 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Lagos de Covadonga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lagos%20de%20Covadonga",
-      "pubdate": "Tue, 03 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Barbara Sarafian",
@@ -32,14 +42,14 @@
       "pubdate": "Tue, 03 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zverev",
-      "pubdate": "Tue, 03 Sep 2024 23:00:00 +0200"
-    },
-    {
       "title": "Vladimir Poetin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vladimir%20Poetin",
       "pubdate": "Tue, 03 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Alain Duhamel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Duhamel",
+      "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "James Darren",
@@ -50,11 +60,6 @@
       "title": "Arne Engels",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arne%20Engels",
       "pubdate": "Tue, 03 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Alain Duhamel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Duhamel",
-      "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Concord",
@@ -72,11 +77,6 @@
       "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Peter Genyn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Peter%20Genyn",
-      "pubdate": "Tue, 03 Sep 2024 23:00:00 +0200"
-    },
-    {
       "title": "Edouard Philippe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Edouard%20Philippe",
       "pubdate": "Tue, 03 Sep 2024 23:00:00 +0200"
@@ -87,11 +87,6 @@
       "pubdate": "Tue, 03 Sep 2024 02:00:00 +0200"
     },
     {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinner",
-      "pubdate": "Tue, 03 Sep 2024 10:00:00 +0200"
-    },
-    {
       "title": "Xavier Bertrand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xavier%20Bertrand",
       "pubdate": "Tue, 03 Sep 2024 18:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Poltava",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Poltava",
       "pubdate": "Tue, 03 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinner",
+      "pubdate": "Tue, 03 Sep 2024 10:00:00 +0200"
     }
   ]
 }
