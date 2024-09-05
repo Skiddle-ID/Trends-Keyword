@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-09-2024 , 23:35:29",
+  "lastUpdate": "05-09-2024 , 01:52:05",
   "data": [
+    {
+      "title": "Powerlifting Paralympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Powerlifting%20Paralympics",
+      "pubdate": "Thu, 05 Sep 2024 02:00:00 +0300"
+    },
     {
       "title": "Arsenal vs Rangers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Rangers",
@@ -15,11 +20,6 @@
       "title": "Ballon d'Or 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ballon%20d'Or%202024",
       "pubdate": "Wed, 04 Sep 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Morara Kebaso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Morara%20Kebaso",
-      "pubdate": "Wed, 04 Sep 2024 12:00:00 +0300"
     },
     {
       "title": "Kathy Hochul",
@@ -72,6 +72,11 @@
       "pubdate": "Tue, 03 Sep 2024 23:00:00 +0300"
     },
     {
+      "title": "Denmark vs Switzerland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Denmark%20vs%20Switzerland",
+      "pubdate": "Tue, 03 Sep 2024 19:00:00 +0300"
+    },
+    {
       "title": "Declan Rice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Declan%20Rice",
       "pubdate": "Tue, 03 Sep 2024 16:00:00 +0300"
@@ -95,11 +100,6 @@
       "title": "TSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#TSC",
       "pubdate": "Mon, 02 Sep 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Miss Universe Nigeria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Miss%20Universe%20Nigeria",
-      "pubdate": "Mon, 02 Sep 2024 11:00:00 +0300"
     }
   ]
 }
