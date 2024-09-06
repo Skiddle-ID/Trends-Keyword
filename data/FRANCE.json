@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "05-09-2024 , 23:35:37",
+  "lastUpdate": "06-09-2024 , 01:51:46",
   "data": [
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NFL",
+      "pubdate": "Fri, 06 Sep 2024 03:00:00 +0200"
+    },
     {
       "title": "DJI Neo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#DJI%20Neo",
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Oksana Masters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oksana%20Masters",
+      "pubdate": "Fri, 06 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Portugal – Croatie",
@@ -17,18 +27,13 @@
       "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Vladimir Poutine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vladimir%20Poutine",
-      "pubdate": "Thu, 05 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Algérie – Guinée équatoriale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alg%C3%A9rie%20%E2%80%93%20Guin%C3%A9e%20%C3%A9quatoriale",
+      "title": "Algérie – Guinée Équatoriale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alg%C3%A9rie%20%E2%80%93%20Guin%C3%A9e%20%C3%89quatoriale",
       "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Gisele pelicot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gisele%20pelicot",
+      "title": "Pelicot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pelicot",
       "pubdate": "Thu, 05 Sep 2024 19:00:00 +0200"
     },
     {
@@ -37,14 +42,14 @@
       "pubdate": "Thu, 05 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Karsten Warholm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karsten%20Warholm",
-      "pubdate": "Thu, 05 Sep 2024 09:00:00 +0200"
-    },
-    {
       "title": "Laurent Tirard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Tirard",
       "pubdate": "Thu, 05 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Karsten Warholm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karsten%20Warholm",
+      "pubdate": "Thu, 05 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "ZEvent",
@@ -62,14 +67,9 @@
       "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "Heidi Broussard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Heidi%20Broussard",
-      "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Charlie Hebdo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
-      "pubdate": "Thu, 05 Sep 2024 15:00:00 +0200"
+      "title": "Astro Bot PS5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Astro%20Bot%20PS5",
+      "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Sinner",
@@ -82,11 +82,6 @@
       "pubdate": "Thu, 05 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "Jennifer Lopez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jennifer%20Lopez",
-      "pubdate": "Thu, 05 Sep 2024 23:00:00 +0200"
-    },
-    {
       "title": "Timothée Adolphe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Timoth%C3%A9e%20Adolphe",
       "pubdate": "Thu, 05 Sep 2024 00:00:00 +0200"
@@ -97,9 +92,14 @@
       "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "Astro Bot PS5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Astro%20Bot%20PS5",
-      "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
+      "title": "Fabrice Pannekoucke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fabrice%20Pannekoucke",
+      "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Florian Jouanny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Florian%20Jouanny",
+      "pubdate": "Thu, 05 Sep 2024 15:00:00 +0200"
     }
   ]
 }

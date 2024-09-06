@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "05-09-2024 , 23:35:40",
+  "lastUpdate": "06-09-2024 , 01:51:49",
   "data": [
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#NFL",
+      "pubdate": "Thu, 05 Sep 2024 12:00:00 -0600"
+    },
     {
       "title": "Portugal  Croacia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Portugal%20%20Croacia",
       "pubdate": "Thu, 05 Sep 2024 12:00:00 -0600"
     },
     {
-      "title": "Serbia - España",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Serbia%20-%20Espa%C3%B1a",
-      "pubdate": "Thu, 05 Sep 2024 11:00:00 -0600"
-    },
-    {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#NFL",
-      "pubdate": "Thu, 05 Sep 2024 12:00:00 -0600"
+      "title": "Argentina  Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Argentina%20%20Chile",
+      "pubdate": "Thu, 05 Sep 2024 14:00:00 -0600"
     },
     {
       "title": "Portugal vs",
@@ -22,34 +22,24 @@
       "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
     },
     {
+      "title": "Paralimpicos 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paralimpicos%202024",
+      "pubdate": "Thu, 05 Sep 2024 00:00:00 -0600"
+    },
+    {
+      "title": "Linkin Park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Linkin%20Park",
+      "pubdate": "Thu, 05 Sep 2024 17:00:00 -0600"
+    },
+    {
       "title": "Bolivia - Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bolivia%20-%20Venezuela",
       "pubdate": "Thu, 05 Sep 2024 14:00:00 -0600"
     },
     {
-      "title": "Eliminatorias CONMEBOL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20CONMEBOL",
-      "pubdate": "Thu, 05 Sep 2024 14:00:00 -0600"
-    },
-    {
-      "title": "Rebecca Cheptegei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rebecca%20Cheptegei",
-      "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
-    },
-    {
-      "title": "Peso a dolar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Peso%20a%20dolar",
-      "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
-    },
-    {
-      "title": "Laura Villamil Andrés Carne de Res",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Laura%20Villamil%20Andr%C3%A9s%20Carne%20de%20Res",
-      "pubdate": "Thu, 05 Sep 2024 03:00:00 -0600"
-    },
-    {
-      "title": "San Marino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#San%20Marino",
-      "pubdate": "Thu, 05 Sep 2024 16:00:00 -0600"
+      "title": "San Marino FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#San%20Marino%20FC",
+      "pubdate": "Thu, 05 Sep 2024 15:00:00 -0600"
     },
     {
       "title": "Andre marin",
@@ -57,14 +47,29 @@
       "pubdate": "Thu, 05 Sep 2024 15:00:00 -0600"
     },
     {
-      "title": "Freddie Mercury",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Freddie%20Mercury",
+      "title": "Rebecca Cheptegei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rebecca%20Cheptegei",
       "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
     },
     {
-      "title": "Eliminatorias Copa del mundo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Copa%20del%20mundo",
+      "title": "Eliminatorias Copa del Mundo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eliminatorias%20Copa%20del%20Mundo",
       "pubdate": "Thu, 05 Sep 2024 07:00:00 -0600"
+    },
+    {
+      "title": "Laura Villamil Andrés Carne de Res",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Laura%20Villamil%20Andr%C3%A9s%20Carne%20de%20Res",
+      "pubdate": "Thu, 05 Sep 2024 03:00:00 -0600"
+    },
+    {
+      "title": "Peso a dolar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Peso%20a%20dolar",
+      "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
+    },
+    {
+      "title": "Freddie Mercury",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Freddie%20Mercury",
+      "pubdate": "Thu, 05 Sep 2024 09:00:00 -0600"
     },
     {
       "title": "Dia del Hermano",
@@ -82,24 +87,19 @@
       "pubdate": "Thu, 05 Sep 2024 13:00:00 -0600"
     },
     {
+      "title": "Machaca Fest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Machaca%20Fest",
+      "pubdate": "Thu, 05 Sep 2024 13:00:00 -0600"
+    },
+    {
       "title": "Cazzu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cazzu",
       "pubdate": "Thu, 05 Sep 2024 16:00:00 -0600"
     },
     {
-      "title": "Fito Paez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fito%20Paez",
-      "pubdate": "Thu, 05 Sep 2024 10:00:00 -0600"
-    },
-    {
-      "title": "Rich Homie Quan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rich%20Homie%20Quan",
-      "pubdate": "Thu, 05 Sep 2024 15:00:00 -0600"
-    },
-    {
-      "title": "DJI Neo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#DJI%20Neo",
-      "pubdate": "Thu, 05 Sep 2024 16:00:00 -0600"
+      "title": "Paulo Londra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Paulo%20Londra",
+      "pubdate": "Thu, 05 Sep 2024 00:00:00 -0600"
     }
   ]
 }

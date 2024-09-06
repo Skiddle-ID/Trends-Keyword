@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "05-09-2024 , 23:35:43",
+  "lastUpdate": "06-09-2024 , 01:51:51",
   "data": [
     {
       "title": "Quito",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Quito",
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL",
+      "pubdate": "Fri, 06 Sep 2024 03:00:00 +0200"
     },
     {
       "title": "San Marino",
@@ -17,9 +22,9 @@
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Michel Barnier",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Barnier",
-      "pubdate": "Thu, 05 Sep 2024 00:00:00 +0200"
+      "title": "Pegula",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pegula",
+      "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
     },
     {
       "title": "Nations League",
@@ -27,18 +32,23 @@
       "pubdate": "Thu, 05 Sep 2024 18:00:00 +0200"
     },
     {
+      "title": "Michel Barnier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Barnier",
+      "pubdate": "Thu, 05 Sep 2024 00:00:00 +0200"
+    },
+    {
       "title": "Cheptegei Rebecca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cheptegei%20Rebecca",
       "pubdate": "Thu, 05 Sep 2024 13:00:00 +0200"
     },
     {
-      "title": "Danemark – Suisse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Danemark%20%E2%80%93%20Suisse",
+      "title": "Portugal – Croatie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20%E2%80%93%20Croatie",
       "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Portugal – Croatie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20%E2%80%93%20Croatie",
+      "title": "Danemark – Suisse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Danemark%20%E2%80%93%20Suisse",
       "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
     },
     {
@@ -77,24 +87,14 @@
       "pubdate": "Thu, 05 Sep 2024 14:00:00 +0200"
     },
     {
-      "title": "Tarte aux pruneaux",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tarte%20aux%20pruneaux",
-      "pubdate": "Thu, 05 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Letzigrund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Letzigrund",
-      "pubdate": "Thu, 05 Sep 2024 13:00:00 +0200"
-    },
-    {
       "title": "Rich Homie Quan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rich%20Homie%20Quan",
       "pubdate": "Thu, 05 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Charlène de Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charl%C3%A8ne%20de%20Monaco",
-      "pubdate": "Thu, 05 Sep 2024 18:00:00 +0200"
+      "title": "Letzigrund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Letzigrund",
+      "pubdate": "Thu, 05 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "Paul Watson",
