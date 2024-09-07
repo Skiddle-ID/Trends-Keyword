@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "07-09-2024 , 11:35:54",
+  "lastUpdate": "07-09-2024 , 12:51:52",
   "data": [
+    {
+      "title": "Brazil vs Ecuador",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil%20vs%20Ecuador",
+      "pubdate": "Sat, 07 Sep 2024 01:00:00 +0800"
+    },
+    {
+      "title": "France vs Italy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#France%20vs%20Italy",
+      "pubdate": "Sat, 07 Sep 2024 02:00:00 +0800"
+    },
     {
       "title": "Prince Hisahito",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Prince%20Hisahito",
       "pubdate": "Sat, 07 Sep 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Paralympic equestrian riders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paralympic%20equestrian%20riders",
+      "pubdate": "Sat, 07 Sep 2024 10:00:00 +0800"
     },
     {
       "title": "Cristiano Ronaldo",
@@ -17,19 +32,9 @@
       "pubdate": "Sat, 07 Sep 2024 11:00:00 +0800"
     },
     {
-      "title": "Nikocado Avocado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nikocado%20Avocado",
-      "pubdate": "Sat, 07 Sep 2024 17:00:00 +0800"
-    },
-    {
       "title": "Vinayagar Chaturthi 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vinayagar%20Chaturthi%202024",
       "pubdate": "Fri, 06 Sep 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Brazil vs Ecuador",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil%20vs%20Ecuador",
-      "pubdate": "Fri, 06 Sep 2024 12:00:00 +0800"
     },
     {
       "title": "Linkin Park",
@@ -62,14 +67,14 @@
       "pubdate": "Fri, 06 Sep 2024 09:00:00 +0800"
     },
     {
-      "title": "ONE championship",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ONE%20championship",
-      "pubdate": "Fri, 06 Sep 2024 18:00:00 +0800"
-    },
-    {
       "title": "Rebel Ridge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rebel%20Ridge",
       "pubdate": "Fri, 06 Sep 2024 21:00:00 +0800"
+    },
+    {
+      "title": "ONE championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ONE%20championship",
+      "pubdate": "Fri, 06 Sep 2024 18:00:00 +0800"
     },
     {
       "title": "MITEC",
@@ -95,11 +100,6 @@
       "title": "Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina",
       "pubdate": "Fri, 06 Sep 2024 09:00:00 +0800"
-    },
-    {
-      "title": "Abang Bas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Abang%20Bas",
-      "pubdate": "Fri, 06 Sep 2024 14:00:00 +0800"
     }
   ]
 }
