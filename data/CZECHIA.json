@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "06-09-2024 , 23:36:47",
+  "lastUpdate": "07-09-2024 , 01:49:44",
   "data": [
+    {
+      "title": "Channing Tatum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Channing%20Tatum",
+      "pubdate": "Sat, 07 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Skala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skala",
+      "pubdate": "Sat, 07 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Linkin Park",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Linkin%20Park",
@@ -37,14 +47,14 @@
       "pubdate": "Fri, 06 Sep 2024 07:00:00 +0200"
     },
     {
-      "title": "OKTAGON",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON",
-      "pubdate": "Fri, 06 Sep 2024 16:00:00 +0200"
-    },
-    {
       "title": "Tomio Okamura",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tomio%20Okamura",
       "pubdate": "Fri, 06 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "OKTAGON",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON",
+      "pubdate": "Fri, 06 Sep 2024 16:00:00 +0200"
     },
     {
       "title": "Etihad",
@@ -55,6 +65,11 @@
       "title": "Tedom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tedom",
       "pubdate": "Fri, 06 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Dominika Mesarošová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Mesaro%C5%A1ov%C3%A1",
+      "pubdate": "Thu, 05 Sep 2024 08:00:00 +0200"
     },
     {
       "title": "Cerna voda",
@@ -85,21 +100,6 @@
       "title": "Astro Bot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Astro%20Bot",
       "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Petr Nedvěd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Nedv%C4%9Bd",
-      "pubdate": "Thu, 05 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nicole Kidman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nicole%20Kidman",
-      "pubdate": "Thu, 05 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Beetlejuice Beetlejuice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Beetlejuice%20Beetlejuice",
-      "pubdate": "Thu, 05 Sep 2024 13:00:00 +0200"
     }
   ]
 }

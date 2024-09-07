@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2024 , 23:36:50",
+  "lastUpdate": "07-09-2024 , 01:49:48",
   "data": [
     {
       "title": "Klopp",
@@ -7,9 +7,9 @@
       "pubdate": "Sat, 07 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
-      "pubdate": "Sat, 07 Sep 2024 00:00:00 +0300"
+      "title": "Brazil vs Ecuador",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil%20vs%20Ecuador",
+      "pubdate": "Sat, 07 Sep 2024 04:00:00 +0300"
     },
     {
       "title": "Hillside Academy Endarasha",
@@ -20,6 +20,11 @@
       "title": "Kenya Power",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Power",
       "pubdate": "Fri, 06 Sep 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Belgium vs Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Belgium%20vs%20Israel",
+      "pubdate": "Fri, 06 Sep 2024 20:00:00 +0300"
     },
     {
       "title": "San Marino",
@@ -37,14 +42,14 @@
       "pubdate": "Fri, 06 Sep 2024 11:00:00 +0300"
     },
     {
-      "title": "South Africa vs Uganda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#South%20Africa%20vs%20Uganda",
-      "pubdate": "Fri, 06 Sep 2024 19:00:00 +0300"
-    },
-    {
       "title": "Allan Lichtman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Allan%20Lichtman",
       "pubdate": "Fri, 06 Sep 2024 15:00:00 +0300"
+    },
+    {
+      "title": "South Africa vs Uganda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#South%20Africa%20vs%20Uganda",
+      "pubdate": "Fri, 06 Sep 2024 19:00:00 +0300"
     },
     {
       "title": "Breaking News",
@@ -52,14 +57,19 @@
       "pubdate": "Fri, 06 Sep 2024 12:00:00 +0300"
     },
     {
+      "title": "Rebel Ridge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rebel%20Ridge",
+      "pubdate": "Fri, 06 Sep 2024 19:00:00 +0300"
+    },
+    {
       "title": "Gyokeres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gyokeres",
       "pubdate": "Fri, 06 Sep 2024 14:00:00 +0300"
     },
     {
-      "title": "Rebel Ridge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rebel%20Ridge",
-      "pubdate": "Fri, 06 Sep 2024 19:00:00 +0300"
+      "title": "Justin BIEBER",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Justin%20BIEBER",
+      "pubdate": "Fri, 06 Sep 2024 15:00:00 +0300"
     },
     {
       "title": "Spain",
@@ -67,14 +77,14 @@
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
-      "pubdate": "Fri, 06 Sep 2024 10:00:00 +0300"
-    },
-    {
       "title": "England",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
       "pubdate": "Fri, 06 Sep 2024 20:00:00 +0300"
+    },
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
+      "pubdate": "Fri, 06 Sep 2024 10:00:00 +0300"
     },
     {
       "title": "Argentina",
@@ -90,16 +100,6 @@
       "title": "Rich Homie Quan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rich%20Homie%20Quan",
       "pubdate": "Thu, 05 Sep 2024 22:00:00 +0300"
-    },
-    {
-      "title": "France vs Italy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France%20vs%20Italy",
-      "pubdate": "Thu, 05 Sep 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Winnie Bwire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Winnie%20Bwire",
-      "pubdate": "Thu, 05 Sep 2024 11:00:00 +0300"
     }
   ]
 }

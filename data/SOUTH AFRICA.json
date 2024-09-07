@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2024 , 23:36:53",
+  "lastUpdate": "07-09-2024 , 01:49:51",
   "data": [
     {
       "title": "South Africa vs Uganda",
@@ -22,9 +22,19 @@
       "pubdate": "Fri, 06 Sep 2024 20:00:00 +0200"
     },
     {
+      "title": "Belgium vs Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Belgium%20vs%20Israel",
+      "pubdate": "Fri, 06 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Linkin Park",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Linkin%20Park",
       "pubdate": "Fri, 06 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Cristiano Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cristiano%20Ronaldo",
+      "pubdate": "Fri, 06 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Vladimir Putin",
@@ -32,14 +42,14 @@
       "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
     },
     {
-      "title": "San Marino football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#San%20Marino%20football",
-      "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
-    },
-    {
       "title": "Rebel Ridge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rebel%20Ridge",
       "pubdate": "Fri, 06 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "San Marino football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#San%20Marino%20football",
+      "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
     },
     {
       "title": "Justice Minister Thembi Simelane",
@@ -57,11 +67,6 @@
       "pubdate": "Fri, 06 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France",
-      "pubdate": "Fri, 06 Sep 2024 22:00:00 +0200"
-    },
-    {
       "title": "Australia vs Scotland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Scotland",
       "pubdate": "Fri, 06 Sep 2024 18:00:00 +0200"
@@ -77,9 +82,9 @@
       "pubdate": "Fri, 06 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "World Cup qualifiers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#World%20Cup%20qualifiers",
-      "pubdate": "Fri, 06 Sep 2024 07:00:00 +0200"
+      "title": "SABC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC",
+      "pubdate": "Fri, 06 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Norway",
@@ -87,19 +92,14 @@
       "pubdate": "Fri, 06 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "SABC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SABC",
-      "pubdate": "Fri, 06 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "AFCON",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AFCON",
-      "pubdate": "Fri, 06 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Powerlifting Paralympics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Powerlifting%20Paralympics",
       "pubdate": "Thu, 05 Sep 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Rich Homie Quan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rich%20Homie%20Quan",
+      "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
     }
   ]
 }
