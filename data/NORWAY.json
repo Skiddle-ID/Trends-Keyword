@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2024 , 11:36:03",
+  "lastUpdate": "08-09-2024 , 12:52:42",
   "data": [
     {
       "title": "Henny Moan",
@@ -17,9 +17,14 @@
       "pubdate": "Sun, 08 Sep 2024 01:00:00 +0200"
     },
     {
-      "title": "Brynjulf Jung Tjønn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brynjulf%20Jung%20Tj%C3%B8nn",
+      "title": "Blefjell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Blefjell",
       "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Nikocado Avocado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nikocado%20Avocado",
+      "pubdate": "Sat, 07 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Steinkjer",
@@ -30,6 +35,11 @@
       "title": "Åge Aleksandersen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85ge%20Aleksandersen",
       "pubdate": "Sat, 07 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Kevin Lindskoug",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20Lindskoug",
+      "pubdate": "Sat, 07 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Maraton TRONDHEIM",
@@ -62,6 +72,11 @@
       "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
     },
     {
+      "title": "Norge fotball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge%20fotball",
+      "pubdate": "Fri, 06 Sep 2024 15:00:00 +0200"
+    },
+    {
       "title": "Hans Niemann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hans%20Niemann",
       "pubdate": "Fri, 06 Sep 2024 23:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Martin Ødegaard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
       "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Team Ingebrigtsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Team%20Ingebrigtsen",
-      "pubdate": "Fri, 06 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Frp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frp",
-      "pubdate": "Fri, 06 Sep 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Nusa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nusa",
-      "pubdate": "Fri, 06 Sep 2024 18:00:00 +0200"
     }
   ]
 }

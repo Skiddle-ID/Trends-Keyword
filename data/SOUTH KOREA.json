@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-09-2024 , 11:36:05",
+  "lastUpdate": "08-09-2024 , 12:52:44",
   "data": [
     {
       "title": "로또1136회",
@@ -10,6 +10,11 @@
       "title": "무쇠소녀단",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B4%EC%87%A0%EC%86%8C%EB%85%80%EB%8B%A8",
       "pubdate": "Sun, 08 Sep 2024 12:00:00 +0900"
+    },
+    {
+      "title": "유현조",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%ED%98%84%EC%A1%B0",
+      "pubdate": "Sun, 08 Sep 2024 20:00:00 +0900"
     },
     {
       "title": "젠지",
@@ -95,11 +100,6 @@
       "title": "파리 패럴림픽",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8C%8C%EB%A6%AC%20%ED%8C%A8%EB%9F%B4%EB%A6%BC%ED%94%BD",
       "pubdate": "Thu, 05 Sep 2024 17:00:00 +0900"
-    },
-    {
-      "title": "이태근",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%83%9C%EA%B7%BC",
-      "pubdate": "Thu, 05 Sep 2024 20:00:00 +0900"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-09-2024 , 11:36:05",
+  "lastUpdate": "08-09-2024 , 12:52:44",
   "data": [
+    {
+      "title": "Paralympics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Paralympics",
+      "pubdate": "Sun, 08 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Sabalenka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sabalenka",
@@ -20,6 +25,11 @@
       "title": "Germany",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Germany",
       "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "James Matthews poet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#James%20Matthews%20poet",
+      "pubdate": "Sun, 08 Sep 2024 12:00:00 +0200"
     },
     {
       "title": "Ireland vs England",
@@ -45,11 +55,6 @@
       "title": "Vusi Nova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vusi%20Nova",
       "pubdate": "Sat, 07 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Helen Joseph Hospital",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Helen%20Joseph%20Hospital",
-      "pubdate": "Sat, 07 Sep 2024 17:00:00 +0200"
     },
     {
       "title": "Nikocado Avocado",
@@ -95,11 +100,6 @@
       "title": "Bafana Bafana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
       "pubdate": "Fri, 06 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Mapaputsi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mapaputsi",
-      "pubdate": "Fri, 06 Sep 2024 16:00:00 +0200"
     }
   ]
 }
