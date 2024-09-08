@@ -1,1 +1,1 @@
-STEINKJER,Åge Aleksandersen,Selena Gomez,Maraton TRONDHEIM,Nicolai Budkov Kjær,Linkin Park,Kasakhstan mot Norge,Susanne Sundfør,Jarl Goli,Ida Lindtveit Røse,Hans Niemann,Norske Talenter,Justin Timberlake,Martin Ødegaard,Frp,Nusa,Aida Dahlen,NFL,Tvedestrand,La Picota
+Blefjell,STEINKJER,Åge Aleksandersen,Selena Gomez,Nicolai Budkov Kjær,Linkin Park,Trondheim Maraton,Kasakhstan mot Norge,Jarl Goli,Ida Lindtveit Røse,Susanne Sundfør,Hans Niemann,Norske Talenter,Lillehammer Live,Justin Timberlake,Martin Ødegaard,Frp,Nusa,NFL,Tvedestrand
