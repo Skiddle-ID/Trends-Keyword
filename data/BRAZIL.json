@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 11:35:40",
+  "lastUpdate": "09-09-2024 , 12:56:26",
   "data": [
     {
       "title": "Cristiano Ronaldo",
@@ -7,9 +7,24 @@
       "pubdate": "Mon, 09 Sep 2024 05:00:00 -0500"
     },
     {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sinner",
+      "pubdate": "Mon, 09 Sep 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Fies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
+      "pubdate": "Mon, 09 Sep 2024 06:00:00 -0500"
+    },
+    {
       "title": "Gustavo Lima",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gustavo%20Lima",
       "pubdate": "Mon, 09 Sep 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Lançamento iPhone 16",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lan%C3%A7amento%20iPhone%2016",
+      "pubdate": "Mon, 09 Sep 2024 07:00:00 -0500"
     },
     {
       "title": "Portugal x Escócia",
@@ -20,11 +35,6 @@
       "title": "Coritiba x Novorizontino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20Novorizontino",
       "pubdate": "Sun, 08 Sep 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
-      "pubdate": "Sun, 08 Sep 2024 06:00:00 -0500"
     },
     {
       "title": "Suíça x Espanha",
@@ -57,14 +67,19 @@
       "pubdate": "Sun, 08 Sep 2024 18:00:00 -0500"
     },
     {
+      "title": "Fabio Arruda morreu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabio%20Arruda%20morreu",
+      "pubdate": "Sun, 08 Sep 2024 01:00:00 -0500"
+    },
+    {
       "title": "Kelly Key",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Kelly%20Key",
       "pubdate": "Sun, 08 Sep 2024 18:00:00 -0500"
     },
     {
-      "title": "Virginia Fonseca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Virginia%20Fonseca",
-      "pubdate": "Sun, 08 Sep 2024 17:00:00 -0500"
+      "title": "Espanha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Espanha",
+      "pubdate": "Sun, 08 Sep 2024 13:00:00 -0500"
     },
     {
       "title": "Botafogo-PB",
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 08 Sep 2024 14:00:00 -0500"
     },
     {
-      "title": "Sabrina Sato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sabrina%20Sato",
+      "title": "Santos FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
+      "pubdate": "Sun, 08 Sep 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Virginia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Virginia",
       "pubdate": "Sun, 08 Sep 2024 17:00:00 -0500"
-    },
-    {
-      "title": "Chaves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chaves",
-      "pubdate": "Sun, 08 Sep 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Marcello Melo Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcello%20Melo%20Jr",
-      "pubdate": "Sun, 08 Sep 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Paulinho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulinho",
-      "pubdate": "Sun, 08 Sep 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Santos Futebol Clube",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20Futebol%20Clube",
-      "pubdate": "Sun, 08 Sep 2024 08:00:00 -0500"
     }
   ]
 }

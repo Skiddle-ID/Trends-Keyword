@@ -1,1 +1,1 @@
-ZEvent,NFL,Galatasaray,Alexandre Jollien,Mohamed Amra,Imagine Dragons,Werchter Boutique,Marie Lecocq,Belgie Frankrijk,Grenoble,Apple iPhone 16,Jeux paralympiques,Paralympics,Open Monumentendag,Sabalenka,Portugal – Écosse,Suisse – Espagne,Ironman Knokke,Wayne Rooney,Nicole Kidman
+Sinner,ZEvent,NFL,Galatasaray,Imagine Dragons,Werchter Boutique,Alexandre Jollien,Belgie Frankrijk,Marie Lecocq,Apple iPhone 16,Grenoble,Audi Brussels,Roglic,Jeux paralympiques,Paralympics,Open Monumentendag,Sabalenka,Portugal – Écosse,Suisse – Espagne,Ironman Knokke

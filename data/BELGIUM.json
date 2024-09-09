@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-09-2024 , 11:35:40",
+  "lastUpdate": "09-09-2024 , 12:56:26",
   "data": [
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinner",
+      "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
+    },
     {
       "title": "ZEvent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ZEvent",
@@ -17,16 +22,6 @@
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Alexandre Jollien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexandre%20Jollien",
-      "pubdate": "Mon, 09 Sep 2024 02:00:00 +0200"
-    },
-    {
-      "title": "Mohamed Amra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mohamed%20Amra",
-      "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
-    },
-    {
       "title": "Imagine Dragons",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Imagine%20Dragons",
       "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
@@ -37,9 +32,9 @@
       "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Marie Lecocq",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marie%20Lecocq",
-      "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
+      "title": "Alexandre Jollien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexandre%20Jollien",
+      "pubdate": "Mon, 09 Sep 2024 02:00:00 +0200"
     },
     {
       "title": "Belgie Frankrijk",
@@ -47,14 +42,29 @@
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Grenoble",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grenoble",
+      "title": "Marie Lecocq",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marie%20Lecocq",
       "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Apple iPhone 16",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Apple%20iPhone%2016",
       "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Grenoble",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grenoble",
+      "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Audi Brussels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Audi%20Brussels",
+      "pubdate": "Mon, 09 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Roglic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roglic",
+      "pubdate": "Mon, 09 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Jeux paralympiques",
@@ -90,16 +100,6 @@
       "title": "Ironman Knokke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ironman%20Knokke",
       "pubdate": "Sun, 08 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Wayne Rooney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wayne%20Rooney",
-      "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Nicole Kidman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicole%20Kidman",
-      "pubdate": "Sun, 08 Sep 2024 19:00:00 +0200"
     }
   ]
 }

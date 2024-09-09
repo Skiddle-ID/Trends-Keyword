@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "09-09-2024 , 11:35:42",
+  "lastUpdate": "09-09-2024 , 12:56:28",
   "data": [
     {
       "title": "iPhone 16",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iPhone%2016",
+      "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Tyreek Hill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tyreek%20Hill",
       "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
     },
     {
@@ -27,6 +32,11 @@
       "pubdate": "Sun, 08 Sep 2024 23:00:00 +0200"
     },
     {
+      "title": "Senegal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Senegal",
+      "pubdate": "Sun, 08 Sep 2024 18:00:00 +0200"
+    },
+    {
       "title": "NFL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
       "pubdate": "Sun, 08 Sep 2024 23:00:00 +0200"
@@ -40,6 +50,11 @@
       "title": "Maxima",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maxima",
       "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Jean-Michel Jarre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jean-Michel%20Jarre",
+      "pubdate": "Sun, 08 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "The Room Next Door",
@@ -85,21 +100,6 @@
       "title": "Hunter Woodhall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Woodhall",
       "pubdate": "Sat, 07 Sep 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sinner",
-      "pubdate": "Sat, 07 Sep 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Food Festival 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Food%20Festival%202024",
-      "pubdate": "Sat, 07 Sep 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Dick Cheney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dick%20Cheney",
-      "pubdate": "Sat, 07 Sep 2024 12:00:00 +0200"
     }
   ]
 }
