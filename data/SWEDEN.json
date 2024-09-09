@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-09-2024 , 23:35:44",
+  "lastUpdate": "09-09-2024 , 01:55:05",
   "data": [
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NFL",
+      "pubdate": "Mon, 09 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "Paralympics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paralympics",
@@ -95,11 +100,6 @@
       "title": "Linkin Park",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linkin%20Park",
       "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Alba August",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alba%20August",
-      "pubdate": "Fri, 06 Sep 2024 23:00:00 +0200"
     }
   ]
 }
