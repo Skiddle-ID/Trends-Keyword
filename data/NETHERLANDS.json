@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 18:41:40",
+  "lastUpdate": "09-09-2024 , 19:35:25",
   "data": [
     {
       "title": "iPhone 16",
@@ -7,19 +7,24 @@
       "pubdate": "Mon, 09 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Rai Vloet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rai%20Vloet",
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
       "pubdate": "Mon, 09 Sep 2024 13:00:00 +0200"
     },
     {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
+      "title": "Rai Vloet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rai%20Vloet",
       "pubdate": "Mon, 09 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "Imagine Dragons",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Imagine%20Dragons",
       "pubdate": "Mon, 09 Sep 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Jong Oranje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
+      "pubdate": "Mon, 09 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Ketamine",
@@ -32,23 +37,18 @@
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Soldaat van Oranje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Soldaat%20van%20Oranje",
-      "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
-    },
-    {
       "title": "Marco Borsato",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marco%20Borsato",
       "pubdate": "Mon, 09 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Museum Voorlinden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Museum%20Voorlinden",
-      "pubdate": "Mon, 09 Sep 2024 18:00:00 +0200"
+      "title": "Soldaat van Oranje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Soldaat%20van%20Oranje",
+      "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Jong Oranje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
+      "title": "Museum Voorlinden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Museum%20Voorlinden",
       "pubdate": "Mon, 09 Sep 2024 18:00:00 +0200"
     },
     {
@@ -77,9 +77,19 @@
       "pubdate": "Sun, 08 Sep 2024 16:00:00 +0200"
     },
     {
+      "title": "Lotte van Drunen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lotte%20van%20Drunen",
+      "pubdate": "Sun, 08 Sep 2024 13:00:00 +0200"
+    },
+    {
       "title": "Ajax Utrecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Utrecht",
       "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Jetze Plat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jetze%20Plat",
+      "pubdate": "Sun, 08 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Telstar",
@@ -90,16 +100,6 @@
       "title": "Robert Gesink",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robert%20Gesink",
       "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinner",
-      "pubdate": "Sat, 07 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Linkin Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Linkin%20Park",
-      "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
     }
   ]
 }

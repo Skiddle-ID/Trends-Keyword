@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 18:41:37",
+  "lastUpdate": "09-09-2024 , 19:35:22",
   "data": [
     {
       "title": "Sinner",
@@ -7,24 +7,19 @@
       "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
     },
     {
-      "title": "Paralympics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paralympics",
-      "pubdate": "Sun, 08 Sep 2024 13:00:00 +0200"
+      "title": "Apple Watch 10",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Watch%2010",
+      "pubdate": "Mon, 09 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
+      "title": "iPhone 16",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#iPhone%2016",
       "pubdate": "Sun, 08 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Rebecca Horn gestorben",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rebecca%20Horn%20gestorben",
       "pubdate": "Sun, 08 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Nina Chuba",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nina%20Chuba",
-      "pubdate": "Sun, 08 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Wer stiehlt mir die Show",
@@ -45,6 +40,11 @@
       "title": "Fußball",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
       "pubdate": "Sun, 08 Sep 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Kamala Harris Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris%20Donald%20Trump",
+      "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Tyreek Hill",
@@ -77,11 +77,6 @@
       "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Donald Trump Kamala Harris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump%20Kamala%20Harris",
-      "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
-    },
-    {
       "title": "Dave Bautista",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dave%20Bautista",
       "pubdate": "Sun, 08 Sep 2024 20:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Deutschland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
       "pubdate": "Sat, 07 Sep 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jannik%20Sinner",
+      "pubdate": "Sat, 07 Sep 2024 15:00:00 +0200"
     }
   ]
 }

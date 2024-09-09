@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "09-09-2024 , 18:41:34",
+  "lastUpdate": "09-09-2024 , 19:35:19",
   "data": [
     {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NFL",
-      "pubdate": "Mon, 09 Sep 2024 12:00:00 +1000"
+      "title": "Sandover Medal 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sandover%20Medal%202024",
+      "pubdate": "Tue, 10 Sep 2024 00:00:00 +1000"
+    },
+    {
+      "title": "NHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NHL",
+      "pubdate": "Tue, 10 Sep 2024 04:00:00 +1000"
     },
     {
       "title": "iPhone 16",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#iPhone%2016",
       "pubdate": "Mon, 09 Sep 2024 01:00:00 +1000"
+    },
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NFL",
+      "pubdate": "Mon, 09 Sep 2024 12:00:00 +1000"
     },
     {
       "title": "Jannik Sinner",
@@ -47,11 +57,6 @@
       "pubdate": "Mon, 09 Sep 2024 09:00:00 +1000"
     },
     {
-      "title": "Amazing Race Australia 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amazing%20Race%20Australia%202024",
-      "pubdate": "Mon, 09 Sep 2024 21:00:00 +1000"
-    },
-    {
       "title": "R U OK Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#R%20U%20OK%20Day",
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +1000"
@@ -67,9 +72,19 @@
       "pubdate": "Mon, 09 Sep 2024 17:00:00 +1000"
     },
     {
+      "title": "Rupert Murdoch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rupert%20Murdoch",
+      "pubdate": "Mon, 09 Sep 2024 21:00:00 +1000"
+    },
+    {
       "title": "Royal Commission into Defence and Veteran Suicide",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Royal%20Commission%20into%20Defence%20and%20Veteran%20Suicide",
       "pubdate": "Mon, 09 Sep 2024 16:00:00 +1000"
+    },
+    {
+      "title": "Amazing Race Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amazing%20Race%20Australia",
+      "pubdate": "Mon, 09 Sep 2024 21:00:00 +1000"
     },
     {
       "title": "VacSwim",
@@ -85,21 +100,6 @@
       "title": "Flight",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Flight",
       "pubdate": "Mon, 09 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Four Corners",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Four%20Corners",
-      "pubdate": "Mon, 09 Sep 2024 21:00:00 +1000"
-    },
-    {
-      "title": "Presidential debate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Presidential%20debate",
-      "pubdate": "Mon, 09 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Nick Kyrgios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
-      "pubdate": "Mon, 09 Sep 2024 14:00:00 +1000"
     }
   ]
 }

@@ -1,1 +1,1 @@
-iPhone 16,Ligue des nations,ZEvent,Imagine Dragons,Alex Morgan,Taylor Swift,ATP-Ranking,Kendrick Lamar,Travis Kelce,Disparition Lina,Wer stiehlt mir die Show,Roche,Alcaraz,Gala dei Castelli,Oberrieden,Grenoble,Imane Khelif,Kroatien,Matt Damon,Maria Furtwängler
+Apple,Schweiz Spanien,NFL,Ligue des Nations,ZEvent,Imagine Dragons,Alex Morgan,Taylor Swift,ATP-Ranking,Kendrick Lamar,Travis Kelce,Oberrieden,Disparition Lina,Wer stiehlt mir die Show,Roche,Gala dei Castelli,Alcaraz,Imane Khelif,Grenoble,Matt Damon
