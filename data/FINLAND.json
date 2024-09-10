@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 23:36:20",
+  "lastUpdate": "10-09-2024 , 01:53:30",
   "data": [
     {
       "title": "James Earl Jones",
@@ -20,11 +20,6 @@
       "title": "Peter nygård",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Peter%20nyg%C3%A5rd",
       "pubdate": "Mon, 09 Sep 2024 15:00:00 +0300"
-    },
-    {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL",
-      "pubdate": "Mon, 09 Sep 2024 01:00:00 +0300"
     },
     {
       "title": "Imagine Dragons",
@@ -100,6 +95,11 @@
       "title": "Nikocado Avocado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nikocado%20Avocado",
       "pubdate": "Sat, 07 Sep 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Nations League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nations%20League",
+      "pubdate": "Sat, 07 Sep 2024 23:00:00 +0300"
     }
   ]
 }

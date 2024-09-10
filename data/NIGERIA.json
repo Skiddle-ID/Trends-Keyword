@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-09-2024 , 23:36:24",
+  "lastUpdate": "10-09-2024 , 01:53:34",
   "data": [
+    {
+      "title": "Italy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Italy",
+      "pubdate": "Tue, 10 Sep 2024 02:00:00 +0100"
+    },
     {
       "title": "France vs Belgium",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#France%20vs%20Belgium",
@@ -22,9 +27,24 @@
       "pubdate": "Mon, 09 Sep 2024 17:00:00 +0100"
     },
     {
+      "title": "Cat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cat",
+      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
+    },
+    {
+      "title": "James Earl Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#James%20Earl%20Jones",
+      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
+    },
+    {
       "title": "YouTuber Nikocado Avocado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#YouTuber%20Nikocado%20Avocado",
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +0100"
+    },
+    {
+      "title": "NLC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NLC",
+      "pubdate": "Mon, 09 Sep 2024 19:00:00 +0100"
     },
     {
       "title": "Lamine Yamal",
@@ -35,21 +55,6 @@
       "title": "Cristiano Ronaldo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cristiano%20Ronaldo",
       "pubdate": "Mon, 09 Sep 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Cat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cat",
-      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "NLC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NLC",
-      "pubdate": "Mon, 09 Sep 2024 19:00:00 +0100"
-    },
-    {
-      "title": "James Earl Jones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#James%20Earl%20Jones",
-      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
     },
     {
       "title": "Rabies",
@@ -67,6 +72,11 @@
       "pubdate": "Mon, 09 Sep 2024 01:00:00 +0100"
     },
     {
+      "title": "Peter Obi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Obi",
+      "pubdate": "Mon, 09 Sep 2024 21:00:00 +0100"
+    },
+    {
       "title": "Morocco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Morocco",
       "pubdate": "Mon, 09 Sep 2024 22:00:00 +0100"
@@ -77,29 +87,19 @@
       "pubdate": "Mon, 09 Sep 2024 18:00:00 +0100"
     },
     {
-      "title": "Peter Obi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Obi",
-      "pubdate": "Mon, 09 Sep 2024 21:00:00 +0100"
-    },
-    {
       "title": "Dave Bautista",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dave%20Bautista",
       "pubdate": "Mon, 09 Sep 2024 10:00:00 +0100"
     },
     {
-      "title": "Mike Maignan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mike%20Maignan",
-      "pubdate": "Mon, 09 Sep 2024 08:00:00 +0100"
+      "title": "iOS 18 release date",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#iOS%2018%20release%20date",
+      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
     },
     {
       "title": "Romania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Romania",
       "pubdate": "Mon, 09 Sep 2024 22:00:00 +0100"
-    },
-    {
-      "title": "iOS 18 release date",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#iOS%2018%20release%20date",
-      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0100"
     }
   ]
 }

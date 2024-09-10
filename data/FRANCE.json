@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 23:36:21",
+  "lastUpdate": "10-09-2024 , 01:53:31",
   "data": [
     {
       "title": "James Earl Jones",
@@ -7,8 +7,18 @@
       "pubdate": "Tue, 10 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apple",
+      "title": "Foot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Foot",
+      "pubdate": "Tue, 10 Sep 2024 03:00:00 +0200"
+    },
+    {
+      "title": "Ben Yedder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ben%20Yedder",
+      "pubdate": "Tue, 10 Sep 2024 03:00:00 +0200"
+    },
+    {
+      "title": "iPhone 16",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#iPhone%2016",
       "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
     },
     {
@@ -32,6 +42,11 @@
       "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
     },
     {
+      "title": "Lesotho – Maroc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lesotho%20%E2%80%93%20Maroc",
+      "pubdate": "Mon, 09 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Slam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slam",
       "pubdate": "Mon, 09 Sep 2024 15:00:00 +0200"
@@ -40,11 +55,6 @@
       "title": "Follow",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Follow",
       "pubdate": "Mon, 09 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Israël – Italie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isra%C3%ABl%20%E2%80%93%20Italie",
-      "pubdate": "Mon, 09 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Décès Michel Soufflet",
@@ -57,9 +67,9 @@
       "pubdate": "Mon, 09 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Lesotho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lesotho",
-      "pubdate": "Mon, 09 Sep 2024 22:00:00 +0200"
+      "title": "France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France",
+      "pubdate": "Mon, 09 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "Kate Middleton",
@@ -82,24 +92,14 @@
       "pubdate": "Mon, 09 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Thomas Jolly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Jolly",
+      "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
+    },
+    {
       "title": "NFL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NFL",
       "pubdate": "Mon, 09 Sep 2024 06:00:00 +0200"
-    },
-    {
-      "title": "Edmond Vidal mort",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edmond%20Vidal%20mort",
-      "pubdate": "Mon, 09 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Stade de France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20de%20France",
-      "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Michèl Barnier Premier ministre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mich%C3%A8l%20Barnier%20Premier%20ministre",
-      "pubdate": "Mon, 09 Sep 2024 14:00:00 +0200"
     }
   ]
 }
