@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2024 , 01:52:18",
+  "lastUpdate": "11-09-2024 , 02:54:14",
   "data": [
     {
       "title": "Eurostar",
@@ -35,16 +35,6 @@
       "title": "Angel Gomes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Angel%20Gomes",
       "pubdate": "Tue, 10 Sep 2024 20:00:00 +0100"
-    },
-    {
-      "title": "England FOOTBALL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20FOOTBALL",
-      "pubdate": "Tue, 10 Sep 2024 19:00:00 +0100"
-    },
-    {
-      "title": "NHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NHL",
-      "pubdate": "Tue, 10 Sep 2024 07:00:00 +0100"
     },
     {
       "title": "Trump Harris debate",
@@ -92,6 +82,11 @@
       "pubdate": "Tue, 10 Sep 2024 03:00:00 +0100"
     },
     {
+      "title": "England game",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20game",
+      "pubdate": "Tue, 10 Sep 2024 21:00:00 +0100"
+    },
+    {
       "title": "Stuart Hogg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Stuart%20Hogg",
       "pubdate": "Tue, 10 Sep 2024 19:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Waterloo Road",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Waterloo%20Road",
       "pubdate": "Tue, 10 Sep 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Johnny Gaudreau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Johnny%20Gaudreau",
+      "pubdate": "Tue, 10 Sep 2024 15:00:00 +0100"
     }
   ]
 }
