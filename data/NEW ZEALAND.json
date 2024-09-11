@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2024 , 11:35:53",
+  "lastUpdate": "11-09-2024 , 12:56:53",
   "data": [
     {
       "title": "Dave Grohl",
@@ -7,19 +7,14 @@
       "pubdate": "Wed, 11 Sep 2024 09:00:00 +1200"
     },
     {
-      "title": "CNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
-      "pubdate": "Wed, 11 Sep 2024 16:00:00 +1200"
-    },
-    {
       "title": "PS5 Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PS5%20Pro",
       "pubdate": "Wed, 11 Sep 2024 04:00:00 +1200"
     },
     {
-      "title": "Fox News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fox%20News",
-      "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
+      "pubdate": "Wed, 11 Sep 2024 16:00:00 +1200"
     },
     {
       "title": "All Whites",
@@ -27,14 +22,19 @@
       "pubdate": "Wed, 11 Sep 2024 12:00:00 +1200"
     },
     {
-      "title": "Navajo Stirling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Navajo%20Stirling",
+      "title": "Fox News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fox%20News",
       "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
     },
     {
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taylor%20Swift",
       "pubdate": "Wed, 11 Sep 2024 17:00:00 +1200"
+    },
+    {
+      "title": "Navajo Stirling",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Navajo%20Stirling",
+      "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
     },
     {
       "title": "Colombia vs Argentina",
@@ -45,6 +45,11 @@
       "title": "Amber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Amber",
       "pubdate": "Wed, 11 Sep 2024 10:00:00 +1200"
+    },
+    {
+      "title": "Fracking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fracking",
+      "pubdate": "Wed, 11 Sep 2024 16:00:00 +1200"
     },
     {
       "title": "9/11",
@@ -70,11 +75,6 @@
       "title": "ABC news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ABC%20news",
       "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
-    },
-    {
-      "title": "Fracking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fracking",
-      "pubdate": "Wed, 11 Sep 2024 16:00:00 +1200"
     },
     {
       "title": "Chloe Troast",
