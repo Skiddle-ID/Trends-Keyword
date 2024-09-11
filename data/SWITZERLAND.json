@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "10-09-2024 , 23:36:04",
+  "lastUpdate": "11-09-2024 , 01:52:17",
   "data": [
+    {
+      "title": "Dave Grohl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dave%20Grohl",
+      "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "James Earl Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Earl%20Jones",
       "pubdate": "Tue, 10 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Niederlande – Deutschland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niederlande%20%E2%80%93%20Deutschland",
-      "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "PS5 Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PS5%20Pro",
       "pubdate": "Tue, 10 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Niederlande – Deutschland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Niederlande%20%E2%80%93%20Deutschland",
+      "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Ameti",
@@ -32,14 +37,14 @@
       "pubdate": "Tue, 10 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Bike World",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bike%20World",
-      "pubdate": "Tue, 10 Sep 2024 11:00:00 +0200"
-    },
-    {
       "title": "Huawei Mate XT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Huawei%20Mate%20XT",
       "pubdate": "Tue, 10 Sep 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Bike World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bike%20World",
+      "pubdate": "Tue, 10 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "BMW-Aktie",
@@ -82,8 +87,8 @@
       "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Mont Blanc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont%20Blanc",
+      "title": "Mont-Blanc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont-Blanc",
       "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Botulisme",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Botulisme",
       "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Adrian Newey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adrian%20Newey",
-      "pubdate": "Tue, 10 Sep 2024 15:00:00 +0200"
     }
   ]
 }
