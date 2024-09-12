@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 11:35:42",
+  "lastUpdate": "12-09-2024 , 12:56:02",
   "data": [
     {
       "title": "Corinthians",
@@ -17,8 +17,8 @@
       "pubdate": "Thu, 12 Sep 2024 03:00:00 +0100"
     },
     {
-      "title": "Chappellroan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chappellroan",
+      "title": "Chappell Roan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chappell%20Roan",
       "pubdate": "Thu, 12 Sep 2024 04:00:00 +0100"
     },
     {
@@ -27,14 +27,34 @@
       "pubdate": "Thu, 12 Sep 2024 03:00:00 +0100"
     },
     {
+      "title": "Jon Bon Jovi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jon%20Bon%20Jovi",
+      "pubdate": "Thu, 12 Sep 2024 12:00:00 +0100"
+    },
+    {
       "title": "Ines Aires Pereira",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ines%20Aires%20Pereira",
       "pubdate": "Thu, 12 Sep 2024 02:00:00 +0100"
     },
     {
+      "title": "Alberto Fujimori",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Fujimori",
+      "pubdate": "Thu, 12 Sep 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Fortaleza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortaleza",
+      "pubdate": "Thu, 12 Sep 2024 11:00:00 +0100"
+    },
+    {
       "title": "Cinha Jardim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cinha%20Jardim",
       "pubdate": "Thu, 12 Sep 2024 00:00:00 +0100"
+    },
+    {
+      "title": "PS5 Pro PlayStation",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PS5%20Pro%20PlayStation",
+      "pubdate": "Thu, 12 Sep 2024 13:00:00 +0100"
     },
     {
       "title": "Incendio Seixal",
@@ -80,26 +100,6 @@
       "title": "Renato Sanches",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Renato%20Sanches",
       "pubdate": "Wed, 11 Sep 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trump",
-      "pubdate": "Wed, 11 Sep 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Felipe Prior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Prior",
-      "pubdate": "Wed, 11 Sep 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Donald%20Trump",
-      "pubdate": "Wed, 11 Sep 2024 11:00:00 +0100"
-    },
-    {
-      "title": "SIC notícias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20not%C3%ADcias",
-      "pubdate": "Wed, 11 Sep 2024 16:00:00 +0100"
     }
   ]
 }

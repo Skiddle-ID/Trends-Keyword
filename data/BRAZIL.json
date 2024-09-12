@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "12-09-2024 , 11:35:35",
+  "lastUpdate": "12-09-2024 , 12:55:56",
   "data": [
     {
       "title": "Atletico MG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20MG",
       "pubdate": "Thu, 12 Sep 2024 04:00:00 -0500"
+    },
+    {
+      "title": "CNH Popular",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNH%20Popular",
+      "pubdate": "Thu, 12 Sep 2024 07:00:00 -0500"
     },
     {
       "title": "Corinthians x Juventude",
@@ -27,6 +32,11 @@
       "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
     },
     {
+      "title": "Copa do Brasil 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil%202024",
+      "pubdate": "Wed, 11 Sep 2024 04:00:00 -0500"
+    },
+    {
       "title": "Sport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
       "pubdate": "Wed, 11 Sep 2024 18:00:00 -0500"
@@ -42,16 +52,6 @@
       "pubdate": "Wed, 11 Sep 2024 15:00:00 -0500"
     },
     {
-      "title": "Flamengo x Bahia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Bahia",
-      "pubdate": "Wed, 11 Sep 2024 04:00:00 -0500"
-    },
-    {
-      "title": "Sport Club Corinthians Paulista",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Club%20Corinthians%20Paulista",
-      "pubdate": "Wed, 11 Sep 2024 21:00:00 -0500"
-    },
-    {
       "title": "Chaves SBT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chaves%20SBT",
       "pubdate": "Wed, 11 Sep 2024 05:00:00 -0500"
@@ -62,14 +62,14 @@
       "pubdate": "Wed, 11 Sep 2024 16:00:00 -0500"
     },
     {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taylor%20Swift",
-      "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
-    },
-    {
       "title": "Chuva preta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chuva%20preta",
       "pubdate": "Wed, 11 Sep 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Taylor Swift",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taylor%20Swift",
+      "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
     },
     {
       "title": "Glauber Braga",
@@ -82,6 +82,11 @@
       "pubdate": "Wed, 11 Sep 2024 06:00:00 -0500"
     },
     {
+      "title": "Radio gaucha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Radio%20gaucha",
+      "pubdate": "Wed, 11 Sep 2024 20:00:00 -0500"
+    },
+    {
       "title": "Andre Ramalho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andre%20Ramalho",
       "pubdate": "Wed, 11 Sep 2024 22:00:00 -0500"
@@ -92,13 +97,8 @@
       "pubdate": "Wed, 11 Sep 2024 21:00:00 -0500"
     },
     {
-      "title": "Chappellroan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chappellroan",
-      "pubdate": "Wed, 11 Sep 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Mariana Ximenes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mariana%20Ximenes",
+      "title": "Chappell Roan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chappell%20Roan",
       "pubdate": "Wed, 11 Sep 2024 21:00:00 -0500"
     }
   ]
