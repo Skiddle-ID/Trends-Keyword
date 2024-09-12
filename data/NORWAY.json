@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "11-09-2024 , 23:35:22",
+  "lastUpdate": "12-09-2024 , 01:52:40",
   "data": [
     {
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Swift",
       "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Kolstad Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kolstad%20Barcelona",
+      "pubdate": "Wed, 11 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Platanias",
@@ -47,11 +52,6 @@
       "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
     },
     {
-      "title": "Kolstad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kolstad",
-      "pubdate": "Wed, 11 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Satisfactory",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Satisfactory",
       "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
@@ -77,6 +77,11 @@
       "pubdate": "Tue, 10 Sep 2024 12:00:00 +0200"
     },
     {
+      "title": "Sverre Magnus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverre%20Magnus",
+      "pubdate": "Tue, 10 Sep 2024 18:00:00 +0200"
+    },
+    {
       "title": "PlayStation 5 Pro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PlayStation%205%20Pro",
       "pubdate": "Tue, 10 Sep 2024 18:00:00 +0200"
@@ -90,11 +95,6 @@
       "title": "Ringebu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ringebu",
       "pubdate": "Tue, 10 Sep 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Bjarne Brøndbo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bjarne%20Br%C3%B8ndbo",
-      "pubdate": "Tue, 10 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "AFP",

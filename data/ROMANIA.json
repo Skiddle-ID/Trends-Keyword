@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "11-09-2024 , 23:35:22",
+  "lastUpdate": "12-09-2024 , 01:52:41",
   "data": [
-    {
-      "title": "Apnee",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Apnee",
-      "pubdate": "Thu, 12 Sep 2024 00:00:00 +0300"
-    },
     {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kamala%20Harris",
@@ -40,6 +35,11 @@
       "title": "Dave Grohl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dave%20Grohl",
       "pubdate": "Wed, 11 Sep 2024 08:00:00 +0300"
+    },
+    {
+      "title": "Ana Maria Vasiliu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Maria%20Vasiliu",
+      "pubdate": "Wed, 11 Sep 2024 09:00:00 +0300"
     },
     {
       "title": "AEP",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 11 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "Accident Cristian brasov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20Cristian%20brasov",
-      "pubdate": "Wed, 11 Sep 2024 00:00:00 +0300"
-    },
-    {
       "title": "Bruce Willis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bruce%20Willis",
       "pubdate": "Wed, 11 Sep 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Andreea Bălan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20B%C4%83lan",
+      "pubdate": "Wed, 11 Sep 2024 10:00:00 +0300"
     }
   ]
 }
