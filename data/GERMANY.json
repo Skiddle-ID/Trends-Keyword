@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "12-09-2024 , 23:36:00",
+  "lastUpdate": "13-09-2024 , 01:53:11",
   "data": [
     {
-      "title": "Ec Kartenzahlung Störung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ec%20Kartenzahlung%20St%C3%B6rung",
+      "title": "EC Kartenzahlung Störung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EC%20Kartenzahlung%20St%C3%B6rung",
       "pubdate": "Thu, 12 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Christoph Daum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christoph%20Daum",
+      "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Leitzinsen EZB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leitzinsen%20EZB",
+      "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Annette Frier",
@@ -27,11 +37,6 @@
       "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Leitzinsen EZB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leitzinsen%20EZB",
-      "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
-    },
-    {
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabrina%20Carpenter",
       "pubdate": "Thu, 12 Sep 2024 22:00:00 +0200"
@@ -45,11 +50,6 @@
       "title": "Chappell Roan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chappell%20Roan",
       "pubdate": "Thu, 12 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Charite",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charite",
-      "pubdate": "Thu, 12 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Konstanz",
@@ -82,11 +82,6 @@
       "pubdate": "Wed, 11 Sep 2024 07:00:00 +0200"
     },
     {
-      "title": "BMW",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BMW",
-      "pubdate": "Wed, 11 Sep 2024 09:00:00 +0200"
-    },
-    {
       "title": "Aktenzeichen XY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aktenzeichen%20XY",
       "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Infarm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Infarm",
       "pubdate": "Wed, 11 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Essen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Essen",
+      "pubdate": "Wed, 11 Sep 2024 19:00:00 +0200"
     }
   ]
 }

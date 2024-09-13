@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 23:35:57",
+  "lastUpdate": "13-09-2024 , 01:53:08",
   "data": [
     {
       "title": "Friday the 13th",
@@ -7,9 +7,24 @@
       "pubdate": "Fri, 13 Sep 2024 06:00:00 +1000"
     },
     {
+      "title": "Inside Out 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inside%20Out%202",
+      "pubdate": "Fri, 13 Sep 2024 10:00:00 +1000"
+    },
+    {
       "title": "Graham McNeice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20McNeice",
       "pubdate": "Fri, 13 Sep 2024 06:00:00 +1000"
+    },
+    {
+      "title": "Chad McQueen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chad%20McQueen",
+      "pubdate": "Fri, 13 Sep 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Dua Lipa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dua%20Lipa",
+      "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
     },
     {
       "title": "Jared Isaacman",
@@ -22,9 +37,19 @@
       "pubdate": "Fri, 13 Sep 2024 08:00:00 +1000"
     },
     {
+      "title": "M4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#M4",
+      "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
+    },
+    {
       "title": "Lenny Kravitz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lenny%20Kravitz",
       "pubdate": "Fri, 13 Sep 2024 00:00:00 +1000"
+    },
+    {
+      "title": "Adam Peaty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Peaty",
+      "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
     },
     {
       "title": "RUOK day 2024",
@@ -47,19 +72,24 @@
       "pubdate": "Thu, 12 Sep 2024 15:00:00 +1000"
     },
     {
-      "title": "Green Day Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Green%20Day%20Australia",
-      "pubdate": "Thu, 12 Sep 2024 12:00:00 +1000"
-    },
-    {
       "title": "Orlando Bloom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Orlando%20Bloom",
       "pubdate": "Thu, 12 Sep 2024 23:00:00 +1000"
     },
     {
+      "title": "Green Day Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Green%20Day%20Australia",
+      "pubdate": "Thu, 12 Sep 2024 12:00:00 +1000"
+    },
+    {
       "title": "Shannon Sharpe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shannon%20Sharpe",
       "pubdate": "Thu, 12 Sep 2024 11:00:00 +1000"
+    },
+    {
+      "title": "Sake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sake",
+      "pubdate": "Thu, 12 Sep 2024 09:00:00 +1000"
     },
     {
       "title": "Emily in Paris",
@@ -70,36 +100,6 @@
       "title": "Jon Bon Jovi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jon%20Bon%20Jovi",
       "pubdate": "Thu, 12 Sep 2024 19:00:00 +1000"
-    },
-    {
-      "title": "AFLW",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFLW",
-      "pubdate": "Thu, 12 Sep 2024 23:00:00 +1000"
-    },
-    {
-      "title": "Pepsi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pepsi",
-      "pubdate": "Thu, 12 Sep 2024 09:00:00 +1000"
-    },
-    {
-      "title": "NRLW",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRLW",
-      "pubdate": "Thu, 12 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Laura Loomer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Laura%20Loomer",
-      "pubdate": "Thu, 12 Sep 2024 19:00:00 +1000"
-    },
-    {
-      "title": "Turkish Airlines",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Turkish%20Airlines",
-      "pubdate": "Thu, 12 Sep 2024 19:00:00 +1000"
-    },
-    {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elon%20Musk",
-      "pubdate": "Thu, 12 Sep 2024 10:00:00 +1000"
     }
   ]
 }
