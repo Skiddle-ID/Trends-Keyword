@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 23:36:40",
+  "lastUpdate": "14-09-2024 , 01:51:38",
   "data": [
     {
       "title": "Ticketmaster",
@@ -47,6 +47,11 @@
       "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
     },
     {
+      "title": "Paul Anka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paul%20Anka",
+      "pubdate": "Fri, 13 Sep 2024 16:00:00 +0300"
+    },
+    {
       "title": "Robin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin",
       "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
@@ -85,11 +90,6 @@
       "title": "Disney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Disney",
       "pubdate": "Fri, 13 Sep 2024 04:00:00 +0300"
-    },
-    {
-      "title": "KSS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KSS",
-      "pubdate": "Fri, 13 Sep 2024 12:00:00 +0300"
     },
     {
       "title": "Erling Haaland",

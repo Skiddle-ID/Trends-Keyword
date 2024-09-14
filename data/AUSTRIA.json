@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "13-09-2024 , 23:36:38",
+  "lastUpdate": "14-09-2024 , 01:51:36",
   "data": [
+    {
+      "title": "Carolabrücke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carolabr%C3%BCcke",
+      "pubdate": "Sat, 14 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Serie A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie%20A",
+      "pubdate": "Sat, 14 Sep 2024 02:00:00 +0200"
+    },
     {
       "title": "Dortmund – Heidenheim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20%E2%80%93%20Heidenheim",
@@ -32,6 +42,11 @@
       "pubdate": "Fri, 13 Sep 2024 00:00:00 +0200"
     },
     {
+      "title": "Kristina Inhof",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kristina%20Inhof",
+      "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
+    },
+    {
       "title": "Freitag, der 13",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Freitag,%20der%2013",
       "pubdate": "Fri, 13 Sep 2024 03:00:00 +0200"
@@ -40,11 +55,6 @@
       "title": "Hochwasser Steyr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochwasser%20Steyr",
       "pubdate": "Fri, 13 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Kristina Inhof",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kristina%20Inhof",
-      "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
     },
     {
       "title": "Deutsche bundesliga",
@@ -67,18 +77,13 @@
       "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "WRS Energie- u. Baumanagement GmbH",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WRS%20Energie-%20u.%20Baumanagement%20GmbH",
-      "pubdate": "Fri, 13 Sep 2024 12:00:00 +0200"
-    },
-    {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Premier%20League",
       "pubdate": "Fri, 13 Sep 2024 23:00:00 +0200"
     },
     {
-      "title": "Davis Cup Österreich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis%20Cup%20%C3%96sterreich",
+      "title": "Davis-Cup Österreich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis-Cup%20%C3%96sterreich",
       "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Fri, 13 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "2. Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#2.%20Bundesliga",
-      "pubdate": "Fri, 13 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Nehammer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nehammer",
-      "pubdate": "Fri, 13 Sep 2024 15:00:00 +0200"
+      "title": "Drei Leichen in Perg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Drei%20Leichen%20in%20Perg",
+      "pubdate": "Fri, 13 Sep 2024 23:00:00 +0200"
     }
   ]
 }
