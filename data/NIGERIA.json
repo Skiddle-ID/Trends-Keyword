@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "14-09-2024 , 11:36:18",
+  "lastUpdate": "14-09-2024 , 12:53:23",
   "data": [
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League",
+      "title": "Southampton vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Southampton%20vs%20Man%20United",
       "pubdate": "Sat, 14 Sep 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20utd",
+      "pubdate": "Sat, 14 Sep 2024 13:00:00 +0100"
     },
     {
       "title": "Inter Miami",
@@ -22,14 +27,24 @@
       "pubdate": "Sat, 14 Sep 2024 06:00:00 +0100"
     },
     {
+      "title": "Man City Vs Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20Vs%20Brentford",
+      "pubdate": "Sat, 14 Sep 2024 11:00:00 +0100"
+    },
+    {
       "title": "KYC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#KYC",
       "pubdate": "Sat, 14 Sep 2024 08:00:00 +0100"
     },
     {
-      "title": "Man City vs Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Brentford",
-      "pubdate": "Sat, 14 Sep 2024 11:00:00 +0100"
+      "title": "Chelsea vs Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Bournemouth",
+      "pubdate": "Sat, 14 Sep 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
+      "pubdate": "Sat, 14 Sep 2024 13:00:00 +0100"
     },
     {
       "title": "Al-Nassr",
@@ -42,19 +57,14 @@
       "pubdate": "Fri, 13 Sep 2024 19:00:00 +0100"
     },
     {
-      "title": "Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
-      "pubdate": "Fri, 13 Sep 2024 20:00:00 +0100"
-    },
-    {
       "title": "LaLiga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LaLiga",
       "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
     },
     {
-      "title": "Uglies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uglies",
-      "pubdate": "Fri, 13 Sep 2024 16:00:00 +0100"
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
+      "pubdate": "Fri, 13 Sep 2024 20:00:00 +0100"
     },
     {
       "title": "Friday the 13th",
@@ -62,14 +72,14 @@
       "pubdate": "Fri, 13 Sep 2024 14:00:00 +0100"
     },
     {
+      "title": "Uglies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uglies",
+      "pubdate": "Fri, 13 Sep 2024 16:00:00 +0100"
+    },
+    {
       "title": "Premier League fixtures",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League%20fixtures",
       "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
-      "pubdate": "Fri, 13 Sep 2024 22:00:00 +0100"
     },
     {
       "title": "Chad McQueen",
@@ -77,28 +87,18 @@
       "pubdate": "Fri, 13 Sep 2024 17:00:00 +0100"
     },
     {
-      "title": "Al Nassr Vs Al Ahli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr%20Vs%20Al%20Ahli",
-      "pubdate": "Fri, 13 Sep 2024 22:00:00 +0100"
-    },
-    {
       "title": "Bundesliga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bundesliga",
       "pubdate": "Fri, 13 Sep 2024 21:00:00 +0100"
     },
     {
-      "title": "Alberto Fujimori",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Alberto%20Fujimori",
-      "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
+      "title": "Al Nassr Vs Al Ahli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr%20Vs%20Al%20Ahli",
+      "pubdate": "Fri, 13 Sep 2024 22:00:00 +0100"
     },
     {
       "title": "La Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#La%20Liga",
-      "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "AlNassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AlNassr",
       "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
     }
   ]

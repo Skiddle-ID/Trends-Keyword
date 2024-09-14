@@ -1,1 +1,1 @@
-Cenk Ergün,Emre Mor,Alfa Romeo,Garry Rodrigues,Erden Timur,Ebru Cündübeyoğlu,Serdar Aziz,Şahan Gökbakar,Mevlid Kandili,Roland Sallai,Ruben Vargas,Kızılcık Şerbeti,Show TV,Super Lig,LGS sonuçları,Star TV,Ayşenur Ezgi Eygi,Ghezzal,Arka Sokaklar,Amartey
+Cenk Ergün,Emre Mor,Alfa Romeo,Garry Rodrigues,Show yayın akışı,Şahan Gökbakar,Sakaryaspor,Transfer,Serie A,Mevlid Kandili mesajları,Roland Sallai,Süper Lig,Kızılcık Şerbeti,Ruben Vargas,Show TV,LGS sonuçları,Ayşenur Ezgi Eygi,Star TV,Arka Sokaklar,Ghezzal
