@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "14-09-2024 , 23:35:29",
+  "lastUpdate": "15-09-2024 , 02:06:57",
   "data": [
     {
-      "title": "LSU Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20Football",
+      "title": "LSU football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20football",
       "pubdate": "Sat, 14 Sep 2024 08:00:00 -0700"
     },
     {
@@ -12,48 +12,23 @@
       "pubdate": "Sat, 14 Sep 2024 11:00:00 -0700"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
-      "pubdate": "Sat, 14 Sep 2024 00:00:00 -0700"
-    },
-    {
       "title": "Perry Farrell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Perry%20Farrell",
       "pubdate": "Sat, 14 Sep 2024 05:00:00 -0700"
     },
     {
+      "title": "Sean O'Malley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sean%20O'Malley",
+      "pubdate": "Sat, 14 Sep 2024 00:00:00 -0700"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
+      "pubdate": "Sat, 14 Sep 2024 00:00:00 -0700"
+    },
+    {
       "title": "Boston College football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20College%20football",
-      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
-    },
-    {
-      "title": "UFC 306",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC%20306",
-      "pubdate": "Sat, 14 Sep 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Man City vs Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Brentford",
-      "pubdate": "Sat, 14 Sep 2024 08:00:00 -0700"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
-      "pubdate": "Sat, 14 Sep 2024 08:00:00 -0700"
-    },
-    {
-      "title": "Southampton vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Southampton%20vs%20Man%20United",
-      "pubdate": "Sat, 14 Sep 2024 06:00:00 -0700"
-    },
-    {
-      "title": "Purdue football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20football",
       "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
     },
     {
@@ -62,14 +37,14 @@
       "pubdate": "Sat, 14 Sep 2024 11:00:00 -0700"
     },
     {
-      "title": "Christian McCaffrey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christian%20McCaffrey",
-      "pubdate": "Sat, 14 Sep 2024 11:00:00 -0700"
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
+      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
     },
     {
-      "title": "Oregon State football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20State%20football",
-      "pubdate": "Sat, 14 Sep 2024 13:00:00 -0700"
+      "title": "Purdue football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20football",
+      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
     },
     {
       "title": "Texas A&M vs Florida",
@@ -77,28 +52,53 @@
       "pubdate": "Sat, 14 Sep 2024 14:00:00 -0700"
     },
     {
+      "title": "Ar State vs Michigan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ar%20State%20vs%20Michigan",
+      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
+    },
+    {
+      "title": "Man City vs Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Brentford",
+      "pubdate": "Sat, 14 Sep 2024 08:00:00 -0700"
+    },
+    {
+      "title": "Southampton vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Southampton%20vs%20Man%20United",
+      "pubdate": "Sat, 14 Sep 2024 06:00:00 -0700"
+    },
+    {
+      "title": "Oregon vs Oregon State",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oregon%20vs%20Oregon%20State",
+      "pubdate": "Sat, 14 Sep 2024 13:00:00 -0700"
+    },
+    {
+      "title": "Colorado vs Colorado State",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20vs%20Colorado%20State",
+      "pubdate": "Sat, 14 Sep 2024 15:00:00 -0700"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
+      "pubdate": "Sat, 14 Sep 2024 12:00:00 -0700"
+    },
+    {
+      "title": "Real Sociedad vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Sociedad%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 14 Sep 2024 13:00:00 -0700"
+    },
+    {
+      "title": "Christian McCaffrey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christian%20McCaffrey",
+      "pubdate": "Sat, 14 Sep 2024 11:00:00 -0700"
+    },
+    {
       "title": "NC State football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NC%20State%20football",
       "pubdate": "Sat, 14 Sep 2024 13:00:00 -0700"
     },
     {
-      "title": "F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#F1",
-      "pubdate": "Sat, 14 Sep 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Illinois football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20football",
-      "pubdate": "Sat, 14 Sep 2024 10:00:00 -0700"
-    },
-    {
-      "title": "Aaron Judge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
-      "pubdate": "Sat, 14 Sep 2024 07:00:00 -0700"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bundesliga",
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
       "pubdate": "Sat, 14 Sep 2024 08:00:00 -0700"
     }
   ]
