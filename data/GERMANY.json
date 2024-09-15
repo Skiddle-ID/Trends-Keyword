@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2024 , 11:36:30",
+  "lastUpdate": "15-09-2024 , 12:53:49",
   "data": [
     {
       "title": "Taz",
@@ -17,19 +17,14 @@
       "pubdate": "Sat, 14 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "Hochwasser",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser",
-      "pubdate": "Sat, 14 Sep 2024 07:00:00 +0200"
-    },
-    {
       "title": "Formel 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
       "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
     },
     {
-      "title": "VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-      "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
+      "title": "Hochwasser",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser",
+      "pubdate": "Sat, 14 Sep 2024 07:00:00 +0200"
     },
     {
       "title": "RB Leipzig",
@@ -40,6 +35,11 @@
       "title": "Japan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Japan",
       "pubdate": "Sat, 14 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "VfB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+      "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "VfL Bochum",

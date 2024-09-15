@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2024 , 11:36:35",
+  "lastUpdate": "15-09-2024 , 12:53:55",
   "data": [
     {
       "title": "Baby pygmy hippo",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 15 Sep 2024 07:00:00 +0200"
     },
     {
+      "title": "Barcelona FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
+      "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
+    },
+    {
       "title": "AmaZulu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AmaZulu",
       "pubdate": "Sun, 15 Sep 2024 05:00:00 +0200"
-    },
-    {
-      "title": "UEFA champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20champions%20League",
-      "pubdate": "Sun, 15 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Champions League",
@@ -32,19 +32,14 @@
       "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
-      "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
-    },
-    {
       "title": "Gallants vs Kaizer Chiefs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gallants%20vs%20Kaizer%20Chiefs",
       "pubdate": "Sat, 14 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Kaizer Chiefs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
-      "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
+      "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Premier League",
@@ -52,19 +47,9 @@
       "pubdate": "Sat, 14 Sep 2024 08:00:00 +0200"
     },
     {
-      "title": "Real Sociedad vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad%20vs%20Real%20Madrid",
-      "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Man City vs Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Brentford",
-      "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
-      "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
+      "title": "Kaizer Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs",
+      "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Orlando Pirates",
@@ -72,14 +57,29 @@
       "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
     },
     {
+      "title": "Man City vs Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Brentford",
+      "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Real Sociedad vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
+      "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Liverpool vs nottm Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20nottm%20Forest",
+      "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
+    },
+    {
       "title": "Sundowns",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
       "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "PSL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
-      "pubdate": "Sat, 14 Sep 2024 13:00:00 +0200"
     },
     {
       "title": "Aston Villa vs Everton",
@@ -97,9 +97,9 @@
       "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Liverpool fc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20fc",
-      "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
+      "title": "Inter Miami vs Philadelphia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami%20vs%20Philadelphia",
+      "pubdate": "Sat, 14 Sep 2024 08:00:00 +0200"
     }
   ]
 }
