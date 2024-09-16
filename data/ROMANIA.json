@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 20:37:30",
+  "lastUpdate": "16-09-2024 , 21:59:12",
   "data": [
     {
       "title": "Rapid",
@@ -10,11 +10,6 @@
       "title": "UTA Arad  Hermannstadt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UTA%20Arad%20%20Hermannstadt",
       "pubdate": "Mon, 16 Sep 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Parma - Udinese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma%20-%20Udinese",
-      "pubdate": "Mon, 16 Sep 2024 20:00:00 +0300"
     },
     {
       "title": "Shogun",
@@ -30,6 +25,11 @@
       "title": "Ovidiu Hațegan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ovidiu%20Ha%C8%9Began",
       "pubdate": "Mon, 16 Sep 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Ozana Barabancea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ozana%20Barabancea",
+      "pubdate": "Mon, 16 Sep 2024 00:00:00 +0300"
     },
     {
       "title": "Jodie Foster",
@@ -72,11 +72,6 @@
       "pubdate": "Mon, 16 Sep 2024 07:00:00 +0300"
     },
     {
-      "title": "FC arges",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20arges",
-      "pubdate": "Mon, 16 Sep 2024 20:00:00 +0300"
-    },
-    {
       "title": "Thierry Breton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Thierry%20Breton",
       "pubdate": "Mon, 16 Sep 2024 20:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Girona Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Girona%20Barcelona",
       "pubdate": "Sun, 15 Sep 2024 17:00:00 +0300"
+    },
+    {
+      "title": "Poli Iași  Universitatea Craiova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poli%20Ia%C8%99i%20%20Universitatea%20Craiova",
+      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0300"
     }
   ]
 }
