@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2024 , 23:35:32",
+  "lastUpdate": "16-09-2024 , 02:00:58",
   "data": [
     {
       "title": "Trump",
@@ -9,7 +9,7 @@
     {
       "title": "Noah Holm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Noah%20Holm",
-      "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
+      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Jakob Ingebrigtsen",
@@ -22,19 +22,14 @@
       "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
     },
     {
+      "title": "Formel 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
+      "pubdate": "Sun, 15 Sep 2024 12:00:00 +0200"
+    },
+    {
       "title": "Brann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
       "pubdate": "Sun, 15 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "RBK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#RBK",
-      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Oscar Piastri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oscar%20Piastri",
-      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Endometriose",
@@ -52,6 +47,11 @@
       "pubdate": "Sun, 15 Sep 2024 20:00:00 +0200"
     },
     {
+      "title": "Sarpsborg 08",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
+      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
+    },
+    {
       "title": "Dina Bli hos meg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dina%20Bli%20hos%20meg",
       "pubdate": "Sun, 15 Sep 2024 10:00:00 +0200"
@@ -67,14 +67,14 @@
       "pubdate": "Sat, 14 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Marius Borg Høiby",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marius%20Borg%20H%C3%B8iby",
-      "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
-    },
-    {
       "title": "Man City mot brentford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City%20mot%20brentford",
       "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Marius Borg Høiby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marius%20Borg%20H%C3%B8iby",
+      "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Arsenal",

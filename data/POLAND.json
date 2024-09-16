@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2024 , 23:35:33",
+  "lastUpdate": "16-09-2024 , 02:00:58",
   "data": [
     {
       "title": "Messi",
@@ -42,29 +42,24 @@
       "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "Korona Kielce – Zagłębie Lubin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korona%20Kielce%20%E2%80%93%20Zag%C5%82%C4%99bie%20Lubin",
-      "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
-    },
-    {
       "title": "Maciej Zakościelny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Zako%C5%9Bcielny",
       "pubdate": "Sun, 15 Sep 2024 23:00:00 +0200"
     },
     {
+      "title": "Rolnik szuka żony",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rolnik%20szuka%20%C5%BCony",
+      "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Korona Kielce – Zagłębie Lubin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korona%20Kielce%20%E2%80%93%20Zag%C5%82%C4%99bie%20Lubin",
+      "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
+    },
+    {
       "title": "Piast Gliwice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piast%20Gliwice",
       "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Wielka woda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20woda",
-      "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Rolnik szuka żony",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rolnik%20szuka%20%C5%BCony",
-      "pubdate": "Sun, 15 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Julia Żugaj",
@@ -75,16 +70,6 @@
       "title": "Vanessa Aleksander",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vanessa%20Aleksander",
       "pubdate": "Sun, 15 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Arka Gdynia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
-      "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Jelenia gora powodz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jelenia%20gora%20powodz",
-      "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Jeżowska",
@@ -100,6 +85,21 @@
       "title": "Nykiel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nykiel",
       "pubdate": "Sun, 15 Sep 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Jelenia gora powodz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jelenia%20gora%20powodz",
+      "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Prezydent Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Duda",
+      "pubdate": "Sun, 15 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Cieszyn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cieszyn",
+      "pubdate": "Sun, 15 Sep 2024 08:00:00 +0200"
     }
   ]
 }
