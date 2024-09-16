@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 11:35:44",
+  "lastUpdate": "16-09-2024 , 12:58:07",
   "data": [
     {
       "title": "Trump",
@@ -17,8 +17,13 @@
       "pubdate": "Mon, 16 Sep 2024 15:00:00 +1000"
     },
     {
-      "title": "Davis Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Davis%20Cup",
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Formula%201",
+      "pubdate": "Mon, 16 Sep 2024 01:00:00 +1000"
+    },
+    {
+      "title": "England vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Australia",
       "pubdate": "Mon, 16 Sep 2024 00:00:00 +1000"
     },
     {
@@ -27,19 +32,34 @@
       "pubdate": "Mon, 16 Sep 2024 16:00:00 +1000"
     },
     {
+      "title": "Davis Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Davis%20Cup",
+      "pubdate": "Mon, 16 Sep 2024 00:00:00 +1000"
+    },
+    {
+      "title": "XEC Covid variant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#XEC%20Covid%20variant",
+      "pubdate": "Mon, 16 Sep 2024 14:00:00 +1000"
+    },
+    {
+      "title": "iOS 18 release date",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#iOS%2018%20release%20date",
+      "pubdate": "Mon, 16 Sep 2024 12:00:00 +1000"
+    },
+    {
       "title": "Elizabeth Debicki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elizabeth%20Debicki",
       "pubdate": "Mon, 16 Sep 2024 13:00:00 +1000"
     },
     {
-      "title": "Manly Sea Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20Sea%20Eagles",
-      "pubdate": "Mon, 16 Sep 2024 16:00:00 +1000"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
       "pubdate": "Mon, 16 Sep 2024 11:00:00 +1000"
+    },
+    {
+      "title": "Manly Sea Eagles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20Sea%20Eagles",
+      "pubdate": "Mon, 16 Sep 2024 16:00:00 +1000"
     },
     {
       "title": "Moira Deeming",
@@ -52,14 +72,9 @@
       "pubdate": "Mon, 16 Sep 2024 00:00:00 +1000"
     },
     {
-      "title": "iOS 18",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#iOS%2018",
-      "pubdate": "Mon, 16 Sep 2024 14:00:00 +1000"
-    },
-    {
-      "title": "Olivia Gadecki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Gadecki",
-      "pubdate": "Mon, 16 Sep 2024 08:00:00 +1000"
+      "title": "Perth Airport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Airport",
+      "pubdate": "Mon, 16 Sep 2024 10:00:00 +1000"
     },
     {
       "title": "Bruce McAvaney",
@@ -72,34 +87,19 @@
       "pubdate": "Mon, 16 Sep 2024 16:00:00 +1000"
     },
     {
+      "title": "Luca Salvadori",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luca%20Salvadori",
+      "pubdate": "Mon, 16 Sep 2024 07:00:00 +1000"
+    },
+    {
+      "title": "Olivia Gadecki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Gadecki",
+      "pubdate": "Mon, 16 Sep 2024 08:00:00 +1000"
+    },
+    {
       "title": "Full moon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Full%20moon",
       "pubdate": "Mon, 16 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
-      "pubdate": "Sun, 15 Sep 2024 10:00:00 +1000"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-      "pubdate": "Sun, 15 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Bulldogs vs Sea Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs%20vs%20Sea%20Eagles",
-      "pubdate": "Sun, 15 Sep 2024 17:00:00 +1000"
-    },
-    {
-      "title": "GWS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GWS",
-      "pubdate": "Sun, 15 Sep 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-      "pubdate": "Sun, 15 Sep 2024 01:00:00 +1000"
     }
   ]
 }

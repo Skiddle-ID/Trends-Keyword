@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 11:35:55",
+  "lastUpdate": "16-09-2024 , 12:58:17",
   "data": [
     {
       "title": "葡萄桑",
@@ -32,14 +32,19 @@
       "pubdate": "Mon, 16 Sep 2024 10:00:00 +0800"
     },
     {
+      "title": "月亮",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%88%E4%BA%AE",
+      "pubdate": "Mon, 16 Sep 2024 00:00:00 +0800"
+    },
+    {
       "title": "徐若熙",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%90%E8%8B%A5%E7%86%99",
       "pubdate": "Mon, 16 Sep 2024 01:00:00 +0800"
     },
     {
-      "title": "月亮",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%88%E4%BA%AE",
-      "pubdate": "Mon, 16 Sep 2024 00:00:00 +0800"
+      "title": "陳智菡",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E6%99%BA%E8%8F%A1",
+      "pubdate": "Mon, 16 Sep 2024 19:00:00 +0800"
     },
     {
       "title": "謝龍介",
@@ -50,6 +55,11 @@
       "title": "小甜甜",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E7%94%9C%E7%94%9C",
       "pubdate": "Mon, 16 Sep 2024 14:00:00 +0800"
+    },
+    {
+      "title": "金管會",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E7%AE%A1%E6%9C%83",
+      "pubdate": "Mon, 16 Sep 2024 20:00:00 +0800"
     },
     {
       "title": "梧棲中港夜市",
@@ -90,16 +100,6 @@
       "title": "李敏鎬",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E6%95%8F%E9%8E%AC",
       "pubdate": "Sun, 15 Sep 2024 15:00:00 +0800"
-    },
-    {
-      "title": "楊麗花",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A5%8A%E9%BA%97%E8%8A%B1",
-      "pubdate": "Sun, 15 Sep 2024 20:00:00 +0800"
-    },
-    {
-      "title": "GeoGuessr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#GeoGuessr",
-      "pubdate": "Sun, 15 Sep 2024 17:00:00 +0800"
     }
   ]
 }

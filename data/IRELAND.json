@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 11:35:49",
+  "lastUpdate": "16-09-2024 , 12:58:12",
   "data": [
     {
       "title": "Tito Jackson",
@@ -12,19 +12,39 @@
       "pubdate": "Mon, 16 Sep 2024 00:00:00 +0100"
     },
     {
+      "title": "Eoin Macken",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eoin%20Macken",
+      "pubdate": "Mon, 16 Sep 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Huw Edwards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Huw%20Edwards",
+      "pubdate": "Mon, 16 Sep 2024 12:00:00 +0100"
+    },
+    {
       "title": "iOS 18 release date",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#iOS%2018%20release%20date",
       "pubdate": "Mon, 16 Sep 2024 09:00:00 +0100"
     },
     {
-      "title": "Chiefs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chiefs",
+      "title": "Laytown races",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Laytown%20races",
+      "pubdate": "Mon, 16 Sep 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Gary Shaw",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gary%20Shaw",
       "pubdate": "Mon, 16 Sep 2024 09:00:00 +0100"
     },
     {
       "title": "Ravens vs Raiders",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ravens%20vs%20Raiders",
       "pubdate": "Mon, 16 Sep 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Baby Reindeer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Baby%20Reindeer",
+      "pubdate": "Mon, 16 Sep 2024 13:00:00 +0100"
     },
     {
       "title": "Trump",
@@ -52,11 +72,6 @@
       "pubdate": "Sun, 15 Sep 2024 17:00:00 +0100"
     },
     {
-      "title": "Amgen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Amgen",
-      "pubdate": "Sun, 15 Sep 2024 12:00:00 +0100"
-    },
-    {
       "title": "Shogun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shogun",
       "pubdate": "Sun, 15 Sep 2024 22:00:00 +0100"
@@ -65,6 +80,11 @@
       "title": "Solheim Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Solheim%20Cup",
       "pubdate": "Sun, 15 Sep 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Amgen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Amgen",
+      "pubdate": "Sun, 15 Sep 2024 12:00:00 +0100"
     },
     {
       "title": "Troy Parrott",
@@ -77,29 +97,9 @@
       "pubdate": "Sun, 15 Sep 2024 06:00:00 +0100"
     },
     {
-      "title": "Eamonn Holmes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Eamonn%20Holmes",
-      "pubdate": "Sun, 15 Sep 2024 10:00:00 +0100"
-    },
-    {
       "title": "Ploughing Championships",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ploughing%20Championships",
       "pubdate": "Sun, 15 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Nightsleeper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nightsleeper",
-      "pubdate": "Sun, 15 Sep 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Weather Ireland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20Ireland",
-      "pubdate": "Sun, 15 Sep 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Kevin Dundon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kevin%20Dundon",
-      "pubdate": "Sun, 15 Sep 2024 14:00:00 +0100"
     }
   ]
 }

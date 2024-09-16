@@ -1,1 +1,1 @@
-Shogun,CNN,iOS 18,Köln,Runtastic,Tito Jackson,Martin Hinteregger,Himberg,Vollmond,WorldSkills 2024,Bad Vöslau,LEOBEN,Grenzkontrollen Deutschland,Donald Trump,Ralf Schumacher,ÖAMTC,Laura Loomer,Lilian de Carvalho Monteiro,Tatort Deine Mutter,Thörl
+Shogun,Köln Explosion,Runtastic,iOS 18,CNN,Tito Jackson,Martin Hinteregger,Anton,Hochwassersituation,Vollmond,Thierry Breton,Neulengbach Hochwasser,WorldSkills 2024,Bad Vöslau,Leoben,Grenzkontrollen Deutschland,Wiener Linien,Donald Trump,Baku,Ralf Schumacher
