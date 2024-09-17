@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 23:37:02",
+  "lastUpdate": "17-09-2024 , 01:34:47",
   "data": [
     {
       "title": "LLM",
@@ -47,11 +47,6 @@
       "pubdate": "Mon, 16 Sep 2024 21:00:00 +0800"
     },
     {
-      "title": "Monza vs Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Monza%20vs%20Inter",
-      "pubdate": "Mon, 16 Sep 2024 04:00:00 +0800"
-    },
-    {
       "title": "16 September 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#16%20September%202024",
       "pubdate": "Mon, 16 Sep 2024 00:00:00 +0800"
@@ -67,9 +62,9 @@
       "pubdate": "Mon, 16 Sep 2024 14:00:00 +0800"
     },
     {
-      "title": "Shah Rukh Khan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Shah%20Rukh%20Khan",
-      "pubdate": "Mon, 16 Sep 2024 01:00:00 +0800"
+      "title": "Leaked",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Leaked",
+      "pubdate": "Mon, 16 Sep 2024 22:00:00 +0800"
     },
     {
       "title": "Pearly-Thinaah",
@@ -100,6 +95,11 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal",
       "pubdate": "Sun, 15 Sep 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Girona vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Girona%20vs%20Barcelona",
+      "pubdate": "Sun, 15 Sep 2024 22:00:00 +0800"
     }
   ]
 }
