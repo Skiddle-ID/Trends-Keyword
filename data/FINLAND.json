@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 11:37:10",
+  "lastUpdate": "17-09-2024 , 12:57:22",
   "data": [
     {
       "title": "Perry Farrell",
@@ -7,19 +7,9 @@
       "pubdate": "Tue, 17 Sep 2024 06:00:00 +0300"
     },
     {
-      "title": "Nordea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nordea",
-      "pubdate": "Mon, 16 Sep 2024 14:00:00 +0300"
-    },
-    {
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
       "pubdate": "Mon, 16 Sep 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Shogun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shogun",
-      "pubdate": "Mon, 16 Sep 2024 09:00:00 +0300"
     },
     {
       "title": "iOS 18",
@@ -27,9 +17,9 @@
       "pubdate": "Mon, 16 Sep 2024 11:00:00 +0300"
     },
     {
-      "title": "CNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
-      "pubdate": "Mon, 16 Sep 2024 07:00:00 +0300"
+      "title": "Shogun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shogun",
+      "pubdate": "Mon, 16 Sep 2024 09:00:00 +0300"
     },
     {
       "title": "Helen",
@@ -55,11 +45,6 @@
       "title": "Pap",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pap",
       "pubdate": "Mon, 16 Sep 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Pks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pks",
-      "pubdate": "Mon, 16 Sep 2024 12:00:00 +0300"
     },
     {
       "title": "Psoriasis",
@@ -100,6 +85,21 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
       "pubdate": "Sun, 15 Sep 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Chad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chad",
+      "pubdate": "Sun, 15 Sep 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Sri Lanka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sri%20Lanka",
+      "pubdate": "Sun, 15 Sep 2024 21:00:00 +0300"
+    },
+    {
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
+      "pubdate": "Sun, 15 Sep 2024 20:00:00 +0300"
     }
   ]
 }

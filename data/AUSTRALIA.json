@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 11:37:07",
+  "lastUpdate": "17-09-2024 , 12:57:20",
   "data": [
     {
       "title": "Peat",
@@ -7,14 +7,19 @@
       "pubdate": "Tue, 17 Sep 2024 07:00:00 +1000"
     },
     {
-      "title": "Mid-Autumn Festival 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mid-Autumn%20Festival%202024",
+      "title": "Mid-Autumn Festival",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mid-Autumn%20Festival",
       "pubdate": "Tue, 17 Sep 2024 01:00:00 +1000"
     },
     {
       "title": "Diddy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diddy",
       "pubdate": "Tue, 17 Sep 2024 14:00:00 +1000"
+    },
+    {
+      "title": "Rupert Murdoch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rupert%20Murdoch",
+      "pubdate": "Tue, 17 Sep 2024 18:00:00 +1000"
     },
     {
       "title": "Matte",
@@ -27,19 +32,9 @@
       "pubdate": "Tue, 17 Sep 2024 06:00:00 +1000"
     },
     {
-      "title": "Tim Tams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tams",
-      "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
-    },
-    {
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
       "pubdate": "Tue, 17 Sep 2024 19:00:00 +1000"
-    },
-    {
-      "title": "AMP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AMP",
-      "pubdate": "Tue, 17 Sep 2024 14:00:00 +1000"
     },
     {
       "title": "UCL",
@@ -47,19 +42,9 @@
       "pubdate": "Tue, 17 Sep 2024 01:00:00 +1000"
     },
     {
-      "title": "Kylian mbappé",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kylian%20mbapp%C3%A9",
-      "pubdate": "Tue, 17 Sep 2024 13:00:00 +1000"
-    },
-    {
-      "title": "Dan Andrews",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dan%20Andrews",
-      "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
-    },
-    {
-      "title": "Mooncake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mooncake",
-      "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
+      "title": "AMP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AMP",
+      "pubdate": "Tue, 17 Sep 2024 14:00:00 +1000"
     },
     {
       "title": "Germany",
@@ -67,9 +52,29 @@
       "pubdate": "Tue, 17 Sep 2024 20:00:00 +1000"
     },
     {
+      "title": "Kylian mbappé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kylian%20mbapp%C3%A9",
+      "pubdate": "Tue, 17 Sep 2024 13:00:00 +1000"
+    },
+    {
+      "title": "Adam Goodes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Goodes",
+      "pubdate": "Tue, 17 Sep 2024 22:00:00 +1000"
+    },
+    {
+      "title": "Mooncake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mooncake",
+      "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
+    },
+    {
       "title": "Titan submersible",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Titan%20submersible",
       "pubdate": "Tue, 17 Sep 2024 20:00:00 +1000"
+    },
+    {
+      "title": "Double dissolution",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Double%20dissolution",
+      "pubdate": "Tue, 17 Sep 2024 21:00:00 +1000"
     },
     {
       "title": "Trump",
@@ -95,11 +100,6 @@
       "title": "Andrew O'Keefe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20O'Keefe",
       "pubdate": "Mon, 16 Sep 2024 15:00:00 +1000"
-    },
-    {
-      "title": "Jackson 5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jackson%205",
-      "pubdate": "Mon, 16 Sep 2024 16:00:00 +1000"
     }
   ]
 }

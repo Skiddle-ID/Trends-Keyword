@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 11:37:11",
+  "lastUpdate": "17-09-2024 , 12:57:23",
   "data": [
     {
       "title": "Kisoroszi",
@@ -27,9 +27,29 @@
       "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
     },
     {
+      "title": "Várhelyi Olivér",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1rhelyi%20Oliv%C3%A9r",
+      "pubdate": "Tue, 17 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Endrick",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Endrick",
+      "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
+    },
+    {
       "title": "Lazio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lazio",
       "pubdate": "Tue, 17 Sep 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Mészáros Bende",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%A9sz%C3%A1ros%20Bende",
+      "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Bermuda-háromszög",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bermuda-h%C3%A1romsz%C3%B6g",
+      "pubdate": "Tue, 17 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Dancing with the Stars",
@@ -57,14 +77,14 @@
       "pubdate": "Mon, 16 Sep 2024 09:00:00 +0200"
     },
     {
-      "title": "Terézváros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ter%C3%A9zv%C3%A1ros",
-      "pubdate": "Mon, 16 Sep 2024 09:00:00 +0200"
-    },
-    {
       "title": "Pokorny Lia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pokorny%20Lia",
       "pubdate": "Mon, 16 Sep 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Terézváros",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ter%C3%A9zv%C3%A1ros",
+      "pubdate": "Mon, 16 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Maria Callas",
@@ -80,26 +100,6 @@
       "title": "Whisperton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Whisperton",
       "pubdate": "Mon, 16 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Kazincbarcika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kazincbarcika",
-      "pubdate": "Mon, 16 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "BL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL",
-      "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Emmy 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Emmy%202024",
-      "pubdate": "Mon, 16 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Havasi János",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havasi%20J%C3%A1nos",
-      "pubdate": "Mon, 16 Sep 2024 06:00:00 +0200"
     }
   ]
 }

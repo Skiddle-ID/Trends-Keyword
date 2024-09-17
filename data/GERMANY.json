@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 11:37:10",
+  "lastUpdate": "17-09-2024 , 12:57:23",
   "data": [
     {
       "title": "Reinhold Messner",
@@ -10,11 +10,6 @@
       "title": "Intel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
       "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Amazon Homeoffice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Homeoffice",
-      "pubdate": "Tue, 17 Sep 2024 07:00:00 +0200"
     },
     {
       "title": "Tupperware",
@@ -37,11 +32,6 @@
       "pubdate": "Mon, 16 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Emmys 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Emmys%202024",
-      "pubdate": "Mon, 16 Sep 2024 09:00:00 +0200"
-    },
-    {
       "title": "Tempeh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tempeh",
       "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
@@ -62,8 +52,8 @@
       "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Hendrik Wüst",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hendrik%20W%C3%BCst",
+      "title": "Friedrich Merz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
       "pubdate": "Sun, 15 Sep 2024 23:00:00 +0200"
     },
     {
@@ -75,6 +65,11 @@
       "title": "Hochwasser Österreich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser%20%C3%96sterreich",
       "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Werder Bremen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+      "pubdate": "Sun, 15 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Hertha BSC",
@@ -100,6 +95,11 @@
       "title": "Energie Cottbus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Energie%20Cottbus",
       "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Hertha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
+      "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
     }
   ]
 }
