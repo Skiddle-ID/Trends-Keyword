@@ -1,1 +1,1 @@
-Azambuja,Liverpool,Manchester United  Barnsley,Juventus  PSV,Pagers,Castro Daire,Bayern,Joao Palhinha,Sporting clube de Portugal,Qualidade do ar,Coimbra,Titan,Aston Villa,Povoa de Lanhoso,Diddy,TSF,Jornal da Madeira,Dominique Pelicot,Tupperware,Benfica Champions
+Azambuja,Liverpool,Pagers,Manchester United  Barnsley,Juventus  PSV,Castro Daire,Bayern  Dínamo,Joao Palhinha,Sporting clube de Portugal,Qualidade do ar,UEFA Champions League,Titan,Coimbra,Aston Villa,Ribeira de Fráguas,Diddy,Povoa de Lanhoso,Antena 1,Dominique Pelicot,TSF

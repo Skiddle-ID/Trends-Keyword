@@ -1,19 +1,24 @@
 {
-  "lastUpdate": "17-09-2024 , 23:36:41",
+  "lastUpdate": "18-09-2024 , 01:53:05",
   "data": [
+    {
+      "title": "Marieke Groen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marieke%20Groen",
+      "pubdate": "Wed, 18 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Jong Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
       "pubdate": "Wed, 18 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
       "pubdate": "Tue, 17 Sep 2024 07:00:00 +0200"
     },
     {
-      "title": "Twente  Heerenveen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente%20%20Heerenveen",
+      "title": "FC Twente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
       "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
     },
     {
@@ -24,11 +29,6 @@
     {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-      "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
       "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
     },
     {
@@ -50,21 +50,6 @@
       "title": "Ziggo Sport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziggo%20Sport",
       "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Troonrede",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Troonrede",
-      "pubdate": "Tue, 17 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Jan Roos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20Roos",
-      "pubdate": "Tue, 17 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Sc Heerenveen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
-      "pubdate": "Tue, 17 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "Diddy",
@@ -99,6 +84,21 @@
     {
       "title": "Vitesse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+      "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Carlo Boszhard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carlo%20Boszhard",
+      "pubdate": "Mon, 16 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Roda JC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
+      "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Excelsior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
       "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
     }
   ]
