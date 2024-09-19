@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "18-09-2024 , 23:35:37",
+  "lastUpdate": "19-09-2024 , 01:55:10",
   "data": [
     {
       "title": "UCL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
       "pubdate": "Thu, 19 Sep 2024 01:00:00 +1000"
+    },
+    {
+      "title": "Nova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nova",
+      "pubdate": "Thu, 19 Sep 2024 06:00:00 +1000"
     },
     {
       "title": "Tottenham",
@@ -17,14 +22,24 @@
       "pubdate": "Thu, 19 Sep 2024 01:00:00 +1000"
     },
     {
-      "title": "Nova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nova",
-      "pubdate": "Thu, 19 Sep 2024 06:00:00 +1000"
-    },
-    {
       "title": "Anna Delvey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anna%20Delvey",
       "pubdate": "Thu, 19 Sep 2024 00:00:00 +1000"
+    },
+    {
+      "title": "Hayden Panettiere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hayden%20Panettiere",
+      "pubdate": "Thu, 19 Sep 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Parkway Drive",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parkway%20Drive",
+      "pubdate": "Thu, 19 Sep 2024 07:00:00 +1000"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
+      "pubdate": "Thu, 19 Sep 2024 09:00:00 +1000"
     },
     {
       "title": "Hezbollah",
@@ -37,11 +52,6 @@
       "pubdate": "Wed, 18 Sep 2024 11:00:00 +1000"
     },
     {
-      "title": "Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20utd",
-      "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
-    },
-    {
       "title": "Luke Combs Australia 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Combs%20Australia%202025",
       "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
@@ -50,6 +60,11 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
       "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+      "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
     },
     {
       "title": "Harvest Moon",
@@ -72,6 +87,11 @@
       "pubdate": "Wed, 18 Sep 2024 09:00:00 +1000"
     },
     {
+      "title": "Tupperware",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tupperware",
+      "pubdate": "Wed, 18 Sep 2024 20:00:00 +1000"
+    },
+    {
       "title": "EFL Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#EFL%20Cup",
       "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
@@ -80,26 +100,6 @@
       "title": "Bayern Munich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
       "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
-    },
-    {
-      "title": "Tupperware",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tupperware",
-      "pubdate": "Wed, 18 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Prince Harry Meghan Markle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Prince%20Harry%20Meghan%20Markle",
-      "pubdate": "Wed, 18 Sep 2024 19:00:00 +1000"
-    },
-    {
-      "title": "The Office Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Office%20Australia",
-      "pubdate": "Wed, 18 Sep 2024 15:00:00 +1000"
-    },
-    {
-      "title": "UEFA champions league games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20champions%20league%20games",
-      "pubdate": "Wed, 18 Sep 2024 07:00:00 +1000"
     }
   ]
 }

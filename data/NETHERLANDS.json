@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 23:35:44",
+  "lastUpdate": "19-09-2024 , 01:55:15",
   "data": [
     {
       "title": "Ajax",
@@ -7,9 +7,9 @@
       "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Susan Smit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Susan%20Smit",
-      "pubdate": "Wed, 18 Sep 2024 17:00:00 +0200"
+      "title": "Tim Hofman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tim%20Hofman",
+      "pubdate": "Wed, 18 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Ernst Jansz",
@@ -22,29 +22,24 @@
       "pubdate": "Wed, 18 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Algemene Politieke Beschouwingen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Algemene%20Politieke%20Beschouwingen",
+      "pubdate": "Wed, 18 Sep 2024 16:00:00 +0200"
+    },
+    {
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
       "pubdate": "Tue, 17 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
-      "pubdate": "Tue, 17 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Twente  Heerenveen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente%20%20Heerenveen",
+      "title": "FC Twente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
       "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Hezbollah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hezbollah",
       "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Juventus",
-      "pubdate": "Tue, 17 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Ziggo Sport",
@@ -55,11 +50,6 @@
       "title": "Tupperware",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tupperware",
       "pubdate": "Tue, 17 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Alexia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alexia",
-      "pubdate": "Tue, 17 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Beatrix",
@@ -74,6 +64,11 @@
     {
       "title": "Diddy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Diddy",
+      "pubdate": "Tue, 17 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Belastingplan 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Belastingplan%202025",
       "pubdate": "Tue, 17 Sep 2024 18:00:00 +0200"
     },
     {
@@ -99,6 +94,11 @@
     {
       "title": "Vitesse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+      "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Excelsior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
       "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
     }
   ]

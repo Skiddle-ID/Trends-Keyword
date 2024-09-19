@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 23:35:47",
+  "lastUpdate": "19-09-2024 , 01:55:18",
   "data": [
     {
       "title": "Demi Moore",
@@ -22,6 +22,11 @@
       "pubdate": "Wed, 18 Sep 2024 07:00:00 +0200"
     },
     {
+      "title": "Rockbjörnen 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rockbj%C3%B6rnen%202024",
+      "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
+    },
+    {
       "title": "Superettan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
       "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
@@ -35,11 +40,6 @@
       "title": "Adventskalender 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Adventskalender%202024",
       "pubdate": "Wed, 18 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Girona",
-      "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "John Mellberg",
@@ -67,9 +67,9 @@
       "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Tupperware",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tupperware",
-      "pubdate": "Wed, 18 Sep 2024 10:00:00 +0200"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+      "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Katrin Zytomierska",
@@ -82,14 +82,14 @@
       "pubdate": "Wed, 18 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Fed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fed",
-      "pubdate": "Wed, 18 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Melania Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melania%20Trump",
       "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Fed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fed",
+      "pubdate": "Wed, 18 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Zlatan",
