@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "19-09-2024 , 11:35:45",
+  "lastUpdate": "19-09-2024 , 12:57:30",
   "data": [
     {
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elon%20Musk",
       "pubdate": "Thu, 19 Sep 2024 01:00:00 -0500"
+    },
+    {
+      "title": "Beatriz Haddad Maia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Beatriz%20Haddad%20Maia",
+      "pubdate": "Thu, 19 Sep 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+      "pubdate": "Thu, 19 Sep 2024 06:00:00 -0500"
     },
     {
       "title": "Estevao",
@@ -42,14 +52,14 @@
       "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
     },
     {
+      "title": "Selic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
+      "pubdate": "Wed, 18 Sep 2024 13:00:00 -0500"
+    },
+    {
       "title": "SPFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
       "pubdate": "Wed, 18 Sep 2024 20:00:00 -0500"
-    },
-    {
-      "title": "Taxa Selic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taxa%20Selic",
-      "pubdate": "Wed, 18 Sep 2024 17:00:00 -0500"
     },
     {
       "title": "Amazonas FC",
@@ -90,16 +100,6 @@
       "title": "Debate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate",
       "pubdate": "Wed, 18 Sep 2024 07:00:00 -0500"
-    },
-    {
-      "title": "Agatha Desde Sempre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agatha%20Desde%20Sempre",
-      "pubdate": "Wed, 18 Sep 2024 10:00:00 -0500"
-    },
-    {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MLS",
-      "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
     }
   ]
 }
