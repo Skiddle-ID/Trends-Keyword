@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "19-09-2024 , 23:35:54",
+  "lastUpdate": "20-09-2024 , 01:55:10",
   "data": [
+    {
+      "title": "Sport TV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20TV",
+      "pubdate": "Fri, 20 Sep 2024 01:00:00 +0100"
+    },
     {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
       "pubdate": "Thu, 19 Sep 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Benfica hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20hoje",
+      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0100"
     },
     {
       "title": "Catarina Gouveia",
@@ -47,9 +57,14 @@
       "pubdate": "Thu, 19 Sep 2024 15:00:00 +0100"
     },
     {
-      "title": "Atalanta  Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atalanta%20%20Arsenal",
-      "pubdate": "Thu, 19 Sep 2024 19:00:00 +0100"
+      "title": "Flamengo  Peñarol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Pe%C3%B1arol",
+      "pubdate": "Thu, 19 Sep 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Moeda Cristiano Ronaldo Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moeda%20Cristiano%20Ronaldo%20Portugal",
+      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0100"
     },
     {
       "title": "Iron Maiden",
@@ -62,19 +77,19 @@
       "pubdate": "Thu, 19 Sep 2024 22:00:00 +0100"
     },
     {
-      "title": "Youth League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Youth%20League",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0100"
+      "title": "Sport Lisboa e Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
+      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0100"
     },
     {
-      "title": "Moeda Cristiano Ronaldo Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Moeda%20Cristiano%20Ronaldo%20Portugal",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0100"
+      "title": "Atalanta  Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atalanta%20%20Arsenal",
+      "pubdate": "Thu, 19 Sep 2024 20:00:00 +0100"
     },
     {
-      "title": "Michael Jordan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Jordan",
-      "pubdate": "Thu, 19 Sep 2024 08:00:00 +0100"
+      "title": "Isabel Figueira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Isabel%20Figueira",
+      "pubdate": "Thu, 19 Sep 2024 00:00:00 +0100"
     },
     {
       "title": "Vacinação",
@@ -82,24 +97,9 @@
       "pubdate": "Thu, 19 Sep 2024 13:00:00 +0100"
     },
     {
-      "title": "Flamengo  Peñarol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Pe%C3%B1arol",
-      "pubdate": "Thu, 19 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Benfica FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20FC",
-      "pubdate": "Thu, 19 Sep 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Haiti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Haiti",
-      "pubdate": "Thu, 19 Sep 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
-      "pubdate": "Thu, 19 Sep 2024 04:00:00 +0100"
+      "title": "Michael Jordan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Jordan",
+      "pubdate": "Thu, 19 Sep 2024 08:00:00 +0100"
     }
   ]
 }

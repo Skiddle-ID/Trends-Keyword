@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 23:35:48",
+  "lastUpdate": "20-09-2024 , 01:55:01",
   "data": [
     {
       "title": "Lamine Yamal",
@@ -42,9 +42,9 @@
       "pubdate": "Thu, 19 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Schwanberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schwanberg",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
+      "title": "Atalanta – Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Atalanta%20%E2%80%93%20Arsenal",
+      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Desiree nosbusch",
@@ -72,11 +72,6 @@
       "pubdate": "Thu, 19 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Atalanta – Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Atalanta%20%E2%80%93%20Arsenal",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Agatha All Along",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Agatha%20All%20Along",
       "pubdate": "Thu, 19 Sep 2024 20:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Abu-Nidal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Abu-Nidal",
       "pubdate": "Thu, 19 Sep 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Unfall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall",
+      "pubdate": "Thu, 19 Sep 2024 14:00:00 +0200"
     }
   ]
 }

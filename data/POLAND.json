@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-09-2024 , 23:35:54",
+  "lastUpdate": "20-09-2024 , 01:55:10",
   "data": [
+    {
+      "title": "Wojciech Pyłka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojciech%20Py%C5%82ka",
+      "pubdate": "Fri, 20 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Lech Sołuba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lech%20So%C5%82uba",
@@ -57,16 +62,6 @@
       "pubdate": "Thu, 19 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Benfica",
-      "pubdate": "Thu, 19 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Medjugorie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Medjugorie",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-    },
-    {
       "title": "God of War Ragnarok",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#God%20of%20War%20Ragnarok",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
@@ -87,9 +82,9 @@
       "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Bartosz Gelner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bartosz%20Gelner",
-      "pubdate": "Thu, 19 Sep 2024 15:00:00 +0200"
+      "title": "Dominika Ostałowska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dominika%20Osta%C5%82owska",
+      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Andrzej Duda USA",
@@ -97,9 +92,14 @@
       "pubdate": "Thu, 19 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Dominika Ostałowska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dominika%20Osta%C5%82owska",
-      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
+      "title": "Hubert Różyk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hubert%20R%C3%B3%C5%BCyk",
+      "pubdate": "Thu, 19 Sep 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Felicjan Andrzejczak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Felicjan%20Andrzejczak",
+      "pubdate": "Wed, 18 Sep 2024 19:00:00 +0200"
     }
   ]
 }

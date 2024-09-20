@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "19-09-2024 , 23:35:56",
+  "lastUpdate": "20-09-2024 , 01:55:13",
   "data": [
     {
-      "title": "Fenerbahçe-Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e-Galatasaray",
+      "title": "Fenerbahçe - Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20-%20Galatasaray",
       "pubdate": "Fri, 20 Sep 2024 01:00:00 +0300"
     },
     {
@@ -12,14 +12,14 @@
       "pubdate": "Fri, 20 Sep 2024 01:00:00 +0300"
     },
     {
-      "title": "Trabzonspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzonspor",
-      "pubdate": "Thu, 19 Sep 2024 20:00:00 +0300"
-    },
-    {
       "title": "Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benfica",
       "pubdate": "Thu, 19 Sep 2024 19:00:00 +0300"
+    },
+    {
+      "title": "Trabzonspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzonspor",
+      "pubdate": "Thu, 19 Sep 2024 20:00:00 +0300"
     },
     {
       "title": "Barcelona",
@@ -37,9 +37,9 @@
       "pubdate": "Thu, 19 Sep 2024 19:00:00 +0300"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0300"
+      "title": "Dolar/TL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dolar/TL",
+      "pubdate": "Thu, 19 Sep 2024 04:00:00 +0300"
     },
     {
       "title": "Hamsi kuşu",
@@ -50,6 +50,16 @@
       "title": "KPSS önlisans sonuçları",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS%20%C3%B6nlisans%20sonu%C3%A7lar%C4%B1",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Atalanta-Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atalanta-Arsenal",
+      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arsenal",
+      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0300"
     },
     {
       "title": "Mülakat sonuçları",
@@ -77,29 +87,19 @@
       "pubdate": "Thu, 19 Sep 2024 04:00:00 +0300"
     },
     {
-      "title": "Tülay Baydar Bilgihan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BClay%20Baydar%20Bilgihan",
-      "pubdate": "Thu, 19 Sep 2024 09:00:00 +0300"
-    },
-    {
       "title": "Ahmetcan Kaplan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ahmetcan%20Kaplan",
       "pubdate": "Thu, 19 Sep 2024 14:00:00 +0300"
     },
     {
+      "title": "Tülay Baydar Bilgihan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BClay%20Baydar%20Bilgihan",
+      "pubdate": "Thu, 19 Sep 2024 09:00:00 +0300"
+    },
+    {
       "title": "İsmet Özel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0smet%20%C3%96zel",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0300"
-    },
-    {
-      "title": "Bayer Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayer%20Leverkusen",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Trabzon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzon",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0300"
     }
   ]
 }

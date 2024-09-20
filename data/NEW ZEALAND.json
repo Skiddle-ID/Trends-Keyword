@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 23:35:53",
+  "lastUpdate": "20-09-2024 , 01:55:09",
   "data": [
     {
       "title": "Arsenal",
@@ -12,8 +12,18 @@
       "pubdate": "Fri, 20 Sep 2024 06:00:00 +1200"
     },
     {
+      "title": "Menendez brothers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Menendez%20brothers",
+      "pubdate": "Fri, 20 Sep 2024 01:00:00 +1200"
+    },
+    {
       "title": "DP World Tour",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DP%20World%20Tour",
+      "pubdate": "Fri, 20 Sep 2024 07:00:00 +1200"
+    },
+    {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Carter",
       "pubdate": "Fri, 20 Sep 2024 07:00:00 +1200"
     },
     {
@@ -22,19 +32,34 @@
       "pubdate": "Fri, 20 Sep 2024 09:00:00 +1200"
     },
     {
+      "title": "Lydia Ko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
+      "pubdate": "Fri, 20 Sep 2024 09:00:00 +1200"
+    },
+    {
       "title": "Bluebridge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bluebridge",
       "pubdate": "Fri, 20 Sep 2024 09:00:00 +1200"
     },
     {
-      "title": "Menendez brothers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Menendez%20brothers",
-      "pubdate": "Fri, 20 Sep 2024 01:00:00 +1200"
+      "title": "Metallica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Metallica",
+      "pubdate": "Fri, 20 Sep 2024 12:00:00 +1200"
     },
     {
       "title": "The Substance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Substance",
       "pubdate": "Fri, 20 Sep 2024 06:00:00 +1200"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barcelona",
+      "pubdate": "Fri, 20 Sep 2024 11:00:00 +1200"
+    },
+    {
+      "title": "BMW PGA Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BMW%20PGA%20Championship",
+      "pubdate": "Fri, 20 Sep 2024 12:00:00 +1200"
     },
     {
       "title": "New Zealand Women vs Australia Women",
@@ -67,39 +92,14 @@
       "pubdate": "Thu, 19 Sep 2024 17:00:00 +1200"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham",
-      "pubdate": "Thu, 19 Sep 2024 09:00:00 +1200"
-    },
-    {
       "title": "Agatha All Along",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Agatha%20All%20Along",
       "pubdate": "Thu, 19 Sep 2024 20:00:00 +1200"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +1200"
-    },
-    {
-      "title": "Angers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Angers",
-      "pubdate": "Thu, 19 Sep 2024 12:00:00 +1200"
-    },
-    {
-      "title": "Hayden Panettiere",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hayden%20Panettiere",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +1200"
-    },
-    {
-      "title": "Entrust",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Entrust",
-      "pubdate": "Thu, 19 Sep 2024 10:00:00 +1200"
-    },
-    {
-      "title": "Senator John Kennedy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Senator%20John%20Kennedy",
-      "pubdate": "Thu, 19 Sep 2024 19:00:00 +1200"
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham",
+      "pubdate": "Thu, 19 Sep 2024 09:00:00 +1200"
     }
   ]
 }
