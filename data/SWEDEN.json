@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "20-09-2024 , 11:36:06",
+  "lastUpdate": "20-09-2024 , 12:57:02",
   "data": [
     {
-      "title": "Hockeyallsvenskan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hockeyallsvenskan",
+      "title": "HockeyAllsvenskan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HockeyAllsvenskan",
       "pubdate": "Fri, 20 Sep 2024 11:00:00 +0200"
     },
     {
@@ -20,11 +20,6 @@
       "title": "DIF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
       "pubdate": "Fri, 20 Sep 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Häcken mot Djurgården",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20Djurg%C3%A5rden",
-      "pubdate": "Thu, 19 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Hallstahammar",
@@ -62,6 +57,11 @@
       "pubdate": "Thu, 19 Sep 2024 12:00:00 +0200"
     },
     {
+      "title": "Djurgården",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
+    },
+    {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
       "pubdate": "Thu, 19 Sep 2024 17:00:00 +0200"
@@ -72,14 +72,19 @@
       "pubdate": "Thu, 19 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "The Penguin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Penguin",
-      "pubdate": "Thu, 19 Sep 2024 23:00:00 +0200"
+      "title": "Grynet Molvig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grynet%20Molvig",
+      "pubdate": "Thu, 19 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Robinson 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson%202024",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Jaromir Jagr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jaromir%20Jagr",
+      "pubdate": "Thu, 19 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "Olle Jönsson",
@@ -90,11 +95,6 @@
       "title": "HIF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
       "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Degerfors IF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Degerfors%20IF",
-      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Demi Moore",

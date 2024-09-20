@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 11:35:57",
+  "lastUpdate": "20-09-2024 , 12:56:51",
   "data": [
     {
       "title": "PlayStation",
@@ -27,6 +27,11 @@
       "pubdate": "Fri, 20 Sep 2024 07:00:00 +0200"
     },
     {
+      "title": "The Penguin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Penguin",
+      "pubdate": "Fri, 20 Sep 2024 14:00:00 +0200"
+    },
+    {
       "title": "Monaco – Barcelone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Monaco%20%E2%80%93%20Barcelone",
       "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
@@ -52,6 +57,11 @@
       "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
     },
     {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
+      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
+    },
+    {
       "title": "David Hubert",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Hubert",
       "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
@@ -60,11 +70,6 @@
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Atletico Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
-      "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "Lyle and Erik Menendez",
@@ -95,11 +100,6 @@
       "title": "Sturm Graz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sturm%20Graz",
       "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Bruges Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruges%20Dortmund",
-      "pubdate": "Thu, 19 Sep 2024 01:00:00 +0200"
     }
   ]
 }

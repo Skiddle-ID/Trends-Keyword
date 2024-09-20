@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 11:36:08",
+  "lastUpdate": "20-09-2024 , 12:57:03",
   "data": [
     {
       "title": "Agatha All Along",
@@ -17,8 +17,18 @@
       "pubdate": "Fri, 20 Sep 2024 11:00:00 +0100"
     },
     {
+      "title": "Transformers One",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Transformers%20One",
+      "pubdate": "Fri, 20 Sep 2024 08:00:00 +0100"
+    },
+    {
       "title": "Sophia Loren",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sophia%20Loren",
+      "pubdate": "Fri, 20 Sep 2024 11:00:00 +0100"
+    },
+    {
+      "title": "PlayStation",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#PlayStation",
       "pubdate": "Fri, 20 Sep 2024 11:00:00 +0100"
     },
     {
@@ -77,11 +87,6 @@
       "pubdate": "Thu, 19 Sep 2024 14:00:00 +0100"
     },
     {
-      "title": "A Very Royal Scandal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#A%20Very%20Royal%20Scandal",
-      "pubdate": "Thu, 19 Sep 2024 10:00:00 +0100"
-    },
-    {
       "title": "The Substance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Substance",
       "pubdate": "Thu, 19 Sep 2024 18:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Emma Raducanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emma%20Raducanu",
       "pubdate": "Thu, 19 Sep 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Bank of England base rate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bank%20of%20England%20base%20rate",
-      "pubdate": "Thu, 19 Sep 2024 14:00:00 +0100"
     }
   ]
 }

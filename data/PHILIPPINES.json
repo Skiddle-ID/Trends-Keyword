@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 11:36:04",
+  "lastUpdate": "20-09-2024 , 12:57:00",
   "data": [
     {
       "title": "WNBA",
@@ -27,14 +27,14 @@
       "pubdate": "Fri, 20 Sep 2024 12:00:00 +0800"
     },
     {
-      "title": "Teamsters union",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Teamsters%20union",
-      "pubdate": "Fri, 20 Sep 2024 08:00:00 +0800"
-    },
-    {
       "title": "Shohei Ohtani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Shohei%20Ohtani",
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0800"
+    },
+    {
+      "title": "Teamsters union",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Teamsters%20union",
+      "pubdate": "Fri, 20 Sep 2024 08:00:00 +0800"
     },
     {
       "title": "Monaco vs Barcelona",
@@ -47,19 +47,29 @@
       "pubdate": "Fri, 20 Sep 2024 01:00:00 +0800"
     },
     {
+      "title": "Monsters Menendez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Monsters%20Menendez",
+      "pubdate": "Fri, 20 Sep 2024 18:00:00 +0800"
+    },
+    {
       "title": "Jericho Rosales",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jericho%20Rosales",
       "pubdate": "Thu, 19 Sep 2024 21:00:00 +0800"
     },
     {
-      "title": "SMART",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#SMART",
+      "title": "Smart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Smart",
       "pubdate": "Thu, 19 Sep 2024 00:00:00 +0800"
     },
     {
       "title": "Excessive heat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Excessive%20heat",
       "pubdate": "Thu, 19 Sep 2024 14:00:00 +0800"
+    },
+    {
+      "title": "Hotel101",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hotel101",
+      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0800"
     },
     {
       "title": "Sara Duterte",
@@ -72,19 +82,14 @@
       "pubdate": "Thu, 19 Sep 2024 14:00:00 +0800"
     },
     {
-      "title": "Hotel101",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hotel101",
-      "pubdate": "Thu, 19 Sep 2024 18:00:00 +0800"
+      "title": "Lyle and Erik Menendez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lyle%20and%20Erik%20Menendez",
+      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0800"
     },
     {
       "title": "Lera Abova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lera%20Abova",
       "pubdate": "Thu, 19 Sep 2024 08:00:00 +0800"
-    },
-    {
-      "title": "Lyle and Erik Menendez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lyle%20and%20Erik%20Menendez",
-      "pubdate": "Thu, 19 Sep 2024 21:00:00 +0800"
     },
     {
       "title": "Mel Gibson",
@@ -95,11 +100,6 @@
       "title": "NAIA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NAIA",
       "pubdate": "Thu, 19 Sep 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Ricardo Cepeda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ricardo%20Cepeda",
-      "pubdate": "Thu, 19 Sep 2024 17:00:00 +0800"
     }
   ]
 }
