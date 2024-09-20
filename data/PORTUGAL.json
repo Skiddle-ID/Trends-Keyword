@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 18:42:11",
+  "lastUpdate": "20-09-2024 , 19:35:59",
   "data": [
     {
       "title": "MotoGP",
@@ -10,6 +10,11 @@
       "title": "Outono",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Outono",
       "pubdate": "Fri, 20 Sep 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Hoquei em patins Mundial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins%20Mundial",
+      "pubdate": "Fri, 20 Sep 2024 18:00:00 +0100"
     },
     {
       "title": "PlayStation",
@@ -32,9 +37,9 @@
       "pubdate": "Fri, 20 Sep 2024 13:00:00 +0100"
     },
     {
-      "title": "Sport TV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20TV",
-      "pubdate": "Fri, 20 Sep 2024 01:00:00 +0100"
+      "title": "Mafalda Castro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Castro",
+      "pubdate": "Fri, 20 Sep 2024 17:00:00 +0100"
     },
     {
       "title": "Antonio Mexia",
@@ -42,14 +47,19 @@
       "pubdate": "Fri, 20 Sep 2024 10:00:00 +0100"
     },
     {
-      "title": "Huawei Watch GT 5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Huawei%20Watch%20GT%205",
-      "pubdate": "Fri, 20 Sep 2024 07:00:00 +0100"
-    },
-    {
       "title": "ACIDENTE (Braga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ACIDENTE%20(Braga",
       "pubdate": "Fri, 20 Sep 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Sport TV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20TV",
+      "pubdate": "Fri, 20 Sep 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Huawei Watch GT 5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Huawei%20Watch%20GT%205",
+      "pubdate": "Fri, 20 Sep 2024 07:00:00 +0100"
     },
     {
       "title": "Lamine Yamal",
@@ -57,9 +67,9 @@
       "pubdate": "Fri, 20 Sep 2024 16:00:00 +0100"
     },
     {
-      "title": "Mafalda Castro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Castro",
-      "pubdate": "Fri, 20 Sep 2024 17:00:00 +0100"
+      "title": "Sophia Loren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sophia%20Loren",
+      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0100"
     },
     {
       "title": "Fernanda Serrano",
@@ -67,14 +77,14 @@
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0100"
     },
     {
+      "title": "Laver Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Laver%20Cup",
+      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0100"
+    },
+    {
       "title": "Ricardo araujo Pereira",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ricardo%20araujo%20Pereira",
       "pubdate": "Fri, 20 Sep 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Sophia Loren",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sophia%20Loren",
-      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0100"
     },
     {
       "title": "Incendio Castro Daire",
@@ -90,16 +100,6 @@
       "title": "Estrela Vermelha-Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estrela%20Vermelha-Benfica",
       "pubdate": "Thu, 19 Sep 2024 02:00:00 +0100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona",
-      "pubdate": "Thu, 19 Sep 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Aviso de chuva",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aviso%20de%20chuva",
-      "pubdate": "Thu, 19 Sep 2024 16:00:00 +0100"
     }
   ]
 }

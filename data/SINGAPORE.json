@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-09-2024 , 18:42:12",
+  "lastUpdate": "20-09-2024 , 19:36:00",
   "data": [
+    {
+      "title": "F1 Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20Singapore",
+      "pubdate": "Fri, 20 Sep 2024 20:00:00 +0800"
+    },
     {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
@@ -32,6 +37,11 @@
       "pubdate": "Fri, 20 Sep 2024 00:00:00 +0800"
     },
     {
+      "title": "Jared Leto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jared%20Leto",
+      "pubdate": "Fri, 20 Sep 2024 21:00:00 +0800"
+    },
+    {
       "title": "Shohei Ohtani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shohei%20Ohtani",
       "pubdate": "Fri, 20 Sep 2024 12:00:00 +0800"
@@ -49,11 +59,6 @@
     {
       "title": "F1 Academy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20Academy",
-      "pubdate": "Fri, 20 Sep 2024 20:00:00 +0800"
-    },
-    {
-      "title": "Singapore Grand Prix 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Grand%20Prix%202024",
       "pubdate": "Fri, 20 Sep 2024 20:00:00 +0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "NOVA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NOVA",
       "pubdate": "Thu, 19 Sep 2024 11:00:00 +0800"
-    },
-    {
-      "title": "Titan submersible",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Titan%20submersible",
-      "pubdate": "Thu, 19 Sep 2024 00:00:00 +0800"
     }
   ]
 }
