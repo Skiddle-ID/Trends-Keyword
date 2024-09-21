@@ -1,1 +1,1 @@
-ANO,Jagr,OKTAGON,Jaromír Soukup,Sophia Loren,Billie Eilish,Kandidáti do senátu 2024,Jakub Seidler,PSP,Radko Gudas,Palworld,God of War ragnarok,SPD,Jak volit v krajských volbách,Laver Cup,ODS,Inkognito,Sylvia Likens,Fiala,Volby 2024
+Extraliga,ANO,OKTAGON,ODS,Senatni volby 2024,Sophia Loren,Billie Eilish,Kandidáti do senátu 2024,Jakub Seidler,PSP,Radko Gudas,Palworld,God of War ragnarok,Šilhavý,Jagr,SPD,Laver Cup,Jak volit v krajských volbách,Inkognito,Volby do Senátu 2024

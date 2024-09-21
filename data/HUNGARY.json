@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 23:35:58",
+  "lastUpdate": "21-09-2024 , 01:52:49",
   "data": [
     {
       "title": "FTC",
@@ -22,6 +22,11 @@
       "pubdate": "Fri, 20 Sep 2024 00:00:00 +0200"
     },
     {
+      "title": "CUPRA Terramar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CUPRA%20Terramar",
+      "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
+    },
+    {
       "title": "Wednesday",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wednesday",
       "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
@@ -30,11 +35,6 @@
       "title": "Sebestyén balázs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebesty%C3%A9n%20bal%C3%A1zs",
       "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
-    },
-    {
-      "title": "CUPRA Terramar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CUPRA%20Terramar",
-      "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
     },
     {
       "title": "MTK",
@@ -47,6 +47,11 @@
       "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
     },
     {
+      "title": "Pingvin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pingvin",
+      "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Lady Gaga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lady%20Gaga",
       "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
@@ -57,11 +62,6 @@
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Pingvin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pingvin",
-      "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Korall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korall",
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
@@ -70,6 +70,11 @@
       "title": "ETO PARK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ETO%20PARK",
       "pubdate": "Fri, 20 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Blaha Lujza tér",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Blaha%20Lujza%20t%C3%A9r",
+      "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Xzibit",
@@ -95,11 +100,6 @@
       "title": "Franciaország",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franciaorsz%C3%A1g",
       "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Iron Maiden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iron%20Maiden",
-      "pubdate": "Thu, 19 Sep 2024 12:00:00 +0200"
     }
   ]
 }

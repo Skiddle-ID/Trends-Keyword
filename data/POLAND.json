@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "20-09-2024 , 23:36:01",
+  "lastUpdate": "21-09-2024 , 01:52:53",
   "data": [
-    {
-      "title": "Natasza Urbańska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natasza%20Urba%C5%84ska",
-      "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
-    },
     {
       "title": "Pogoń Szczecin – Legia Warszawa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogo%C5%84%20Szczecin%20%E2%80%93%20Legia%20Warszawa",
@@ -27,9 +22,19 @@
       "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
     },
     {
+      "title": "Prezydent Andrzej Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Andrzej%20Duda",
+      "pubdate": "Fri, 20 Sep 2024 07:00:00 +0200"
+    },
+    {
       "title": "Antoni Fałat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Antoni%20Fa%C5%82at",
       "pubdate": "Fri, 20 Sep 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Ścinawa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Acinawa",
+      "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Southwestern Poland floods",
@@ -39,11 +44,6 @@
     {
       "title": "Ursula von der Leyen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ursula%20von%20der%20Leyen",
-      "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Ścinawa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Acinawa",
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
     },
     {
@@ -92,14 +92,14 @@
       "pubdate": "Fri, 20 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Magdalena Wójcik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20W%C3%B3jcik",
-      "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
-    },
-    {
       "title": "Pingwin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pingwin",
       "pubdate": "Fri, 20 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Magdalena Wójcik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20W%C3%B3jcik",
+      "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
     }
   ]
 }
