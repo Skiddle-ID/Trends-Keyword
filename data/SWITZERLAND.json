@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2024 , 11:36:02",
+  "lastUpdate": "21-09-2024 , 12:53:23",
   "data": [
     {
       "title": "Neue Blutgruppe entdeckt",
@@ -15,6 +15,11 @@
       "title": "Schalke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schalke",
       "pubdate": "Sat, 21 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "LHC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
+      "pubdate": "Sat, 21 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Michelle Hunziker",
@@ -47,8 +52,8 @@
       "pubdate": "Fri, 20 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "HESO Solothurn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HESO%20Solothurn",
+      "title": "Heso Solothurn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heso%20Solothurn",
       "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Sophie Charnavel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophie%20Charnavel",
       "pubdate": "Fri, 20 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Ihag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ihag",
-      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0200"
     }
   ]
 }
