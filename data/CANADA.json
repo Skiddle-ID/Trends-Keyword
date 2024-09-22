@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:46",
+  "lastUpdate": "22-09-2024 , 17:36:32",
   "data": [
     {
       "title": "Jean Pascal",
@@ -82,14 +82,14 @@
       "pubdate": "Sat, 21 Sep 2024 20:00:00 -0400"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern%20Munich",
-      "pubdate": "Sat, 21 Sep 2024 12:00:00 -0400"
-    },
-    {
       "title": "Kevin Lankinen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kevin%20Lankinen",
       "pubdate": "Sat, 21 Sep 2024 20:00:00 -0400"
+    },
+    {
+      "title": "WHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHL",
+      "pubdate": "Sat, 21 Sep 2024 01:00:00 -0400"
     },
     {
       "title": "Tottenham",
@@ -97,9 +97,9 @@
       "pubdate": "Sat, 21 Sep 2024 13:00:00 -0400"
     },
     {
-      "title": "The resident",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20resident",
-      "pubdate": "Sat, 21 Sep 2024 02:00:00 -0400"
+      "title": "RFK Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RFK%20Jr",
+      "pubdate": "Fri, 20 Sep 2024 00:00:00 -0400"
     }
   ]
 }

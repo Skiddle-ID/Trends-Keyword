@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:54",
+  "lastUpdate": "22-09-2024 , 17:36:40",
   "data": [
     {
       "title": "Gais",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
       "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Klarälvsloppet 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klar%C3%A4lvsloppet%202024",
-      "pubdate": "Sun, 22 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Björn Ulvaeus",
@@ -47,11 +42,6 @@
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Kalmar FF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
-      "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
-    },
-    {
       "title": "AIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
       "pubdate": "Sat, 21 Sep 2024 17:00:00 +0200"
@@ -62,11 +52,6 @@
       "pubdate": "Sat, 21 Sep 2024 16:00:00 +0200"
     },
     {
-      "title": "Carolina Gynning",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carolina%20Gynning",
-      "pubdate": "Sat, 21 Sep 2024 10:00:00 +0200"
-    },
-    {
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
       "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
@@ -75,6 +60,16 @@
       "title": "Färjestad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
       "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Brynäs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "AIK Kalmar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Kalmar",
+      "pubdate": "Sat, 21 Sep 2024 17:00:00 +0200"
     },
     {
       "title": "Singapore",
@@ -95,6 +90,11 @@
       "title": "Youtube Premium",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Youtube%20Premium",
       "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Carolina Gynning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carolina%20Gynning",
+      "pubdate": "Sat, 21 Sep 2024 10:00:00 +0200"
     },
     {
       "title": "Amanda Ilestedt",

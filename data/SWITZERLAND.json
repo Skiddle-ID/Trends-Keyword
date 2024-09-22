@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:54",
+  "lastUpdate": "22-09-2024 , 17:36:41",
   "data": [
     {
       "title": "Votations 22 septembre 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Votations%2022%20septembre%202024",
       "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Abstimmung September 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20September%202024",
-      "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
     },
     {
       "title": "Schnee in Südafrika",
@@ -92,14 +87,19 @@
       "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Abstimmungsresultate Heute",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate%20Heute",
-      "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
-    },
-    {
       "title": "Kerstin Ott",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kerstin%20Ott",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "WM Zürich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM%20Z%C3%BCrich",
+      "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Abstimmung Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Schweiz",
+      "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
     }
   ]
 }

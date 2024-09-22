@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:45",
+  "lastUpdate": "22-09-2024 , 17:36:32",
   "data": [
     {
       "title": "Club Brugge  Gent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Gent",
       "pubdate": "Sun, 22 Sep 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Lotte Kopecky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lotte%20Kopecky",
-      "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Zurich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zurich",
-      "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "WK tijdrijden",
@@ -100,6 +90,16 @@
       "title": "Oktoberfest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oktoberfest",
       "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Journee sans voiture",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Journee%20sans%20voiture",
+      "pubdate": "Sat, 21 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Real Madrid – Espanyol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20Espanyol",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:51",
+  "lastUpdate": "22-09-2024 , 17:36:38",
   "data": [
     {
       "title": "Man Utd",
@@ -42,6 +42,11 @@
       "pubdate": "Sat, 21 Sep 2024 03:00:00 +0100"
     },
     {
+      "title": "Man City vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Arsenal",
+      "pubdate": "Sat, 21 Sep 2024 08:00:00 +0100"
+    },
+    {
       "title": "Real Madrid vs Espanyol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Espanyol",
       "pubdate": "Sat, 21 Sep 2024 14:00:00 +0100"
@@ -50,11 +55,6 @@
       "title": "Liverpool vs Bournemouth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Bournemouth",
       "pubdate": "Sat, 21 Sep 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Man City vs Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20Arsenal",
-      "pubdate": "Sat, 21 Sep 2024 08:00:00 +0100"
     },
     {
       "title": "Aston Villa vs Wolves",

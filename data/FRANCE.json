@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 16:39:48",
+  "lastUpdate": "22-09-2024 , 17:36:34",
   "data": [
     {
       "title": "Maud Bregeon",
@@ -72,11 +72,6 @@
       "pubdate": "Sun, 22 Sep 2024 09:00:00 +0200"
     },
     {
-      "title": "Olga Givernet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olga%20Givernet",
-      "pubdate": "Sun, 22 Sep 2024 08:00:00 +0200"
-    },
-    {
       "title": "UBB Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB%20Racing",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Accident chasse ardeche",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Accident%20chasse%20ardeche",
       "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "François Durovray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Durovray",
+      "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
     }
   ]
 }
