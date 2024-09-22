@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 11:36:17",
+  "lastUpdate": "22-09-2024 , 12:54:13",
   "data": [
     {
       "title": "LA Galaxy  Whitecaps",
@@ -10,6 +10,11 @@
       "title": "Flor Amargo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Flor%20Amargo",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 -0600"
+    },
+    {
+      "title": "F1 Singapur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Singapur",
+      "pubdate": "Sun, 22 Sep 2024 05:00:00 -0600"
     },
     {
       "title": "Real Madrid  RCD Espanyol",
@@ -62,6 +67,11 @@
       "pubdate": "Sat, 21 Sep 2024 20:00:00 -0600"
     },
     {
+      "title": "Reims - PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Reims%20-%20PSG",
+      "pubdate": "Sat, 21 Sep 2024 14:00:00 -0600"
+    },
+    {
       "title": "MLS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
       "pubdate": "Sat, 21 Sep 2024 15:00:00 -0600"
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 21 Sep 2024 11:00:00 -0600"
     },
     {
-      "title": "Valencia CF  Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Girona",
-      "pubdate": "Sat, 21 Sep 2024 11:00:00 -0600"
-    },
-    {
-      "title": "River",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#River",
-      "pubdate": "Sat, 21 Sep 2024 15:00:00 -0600"
-    },
-    {
-      "title": "Equinoccio de otoño",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Equinoccio%20de%20oto%C3%B1o",
-      "pubdate": "Sat, 21 Sep 2024 14:00:00 -0600"
+      "title": "Aston Villa  Wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Wolves",
+      "pubdate": "Sat, 21 Sep 2024 10:00:00 -0600"
     }
   ]
 }

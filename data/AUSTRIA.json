@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 11:36:10",
+  "lastUpdate": "22-09-2024 , 12:54:07",
   "data": [
     {
       "title": "Brandenburg",
@@ -7,8 +7,28 @@
       "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
     },
     {
+      "title": "Amstetten – Ried",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Amstetten%20%E2%80%93%20Ried",
+      "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+    },
+    {
       "title": "Kindergarten",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kindergarten",
+      "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Kollmitzberger Kirtag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kollmitzberger%20Kirtag",
+      "pubdate": "Sun, 22 Sep 2024 08:00:00 +0200"
+    },
+    {
+      "title": "WSG Tirol – rb Salzburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WSG%20Tirol%20%E2%80%93%20rb%20Salzburg",
+      "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Rapid Austria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Austria",
       "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
     },
     {
@@ -47,11 +67,6 @@
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Austria Klagenfurt – Hartberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20%E2%80%93%20Hartberg",
-      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
-    },
-    {
       "title": "MotoGP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP",
       "pubdate": "Sat, 21 Sep 2024 09:00:00 +0200"
@@ -60,6 +75,16 @@
       "title": "Anthony Joshua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anthony%20Joshua",
       "pubdate": "Sat, 21 Sep 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Austria Klagenfurt – Hartberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Klagenfurt%20%E2%80%93%20Hartberg",
+      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Fenerbahce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "SCR Altach – Blau-Weiß Linz",
@@ -72,34 +97,9 @@
       "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
-    },
-    {
       "title": "West Ham – Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#West%20Ham%20%E2%80%93%20Chelsea",
       "pubdate": "Sat, 21 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Liverpool – Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20%E2%80%93%20Bournemouth",
-      "pubdate": "Sat, 21 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "GAK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
-      "pubdate": "Sat, 21 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Dieter Bohlen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dieter%20Bohlen",
-      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Crystal Palace – ManUnited",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Crystal%20Palace%20%E2%80%93%20ManUnited",
-      "pubdate": "Sat, 21 Sep 2024 19:00:00 +0200"
     }
   ]
 }
