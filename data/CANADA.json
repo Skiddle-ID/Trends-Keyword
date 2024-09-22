@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2024 , 23:35:33",
+  "lastUpdate": "22-09-2024 , 02:07:25",
   "data": [
     {
       "title": "Anthony Joshua",
@@ -7,14 +7,14 @@
       "pubdate": "Sat, 21 Sep 2024 14:00:00 -0400"
     },
     {
-      "title": "West Ham vs Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Ham%20vs%20Chelsea",
-      "pubdate": "Sat, 21 Sep 2024 09:00:00 -0400"
-    },
-    {
       "title": "Real Madrid vs Espanyol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Espanyol",
       "pubdate": "Sat, 21 Sep 2024 15:00:00 -0400"
+    },
+    {
+      "title": "West Ham vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Ham%20vs%20Chelsea",
+      "pubdate": "Sat, 21 Sep 2024 09:00:00 -0400"
     },
     {
       "title": "Crystal Palace vs Man United",
@@ -22,9 +22,29 @@
       "pubdate": "Sat, 21 Sep 2024 12:00:00 -0400"
     },
     {
+      "title": "Liverpool vs Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool%20vs%20Bournemouth",
+      "pubdate": "Sat, 21 Sep 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Alouettes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alouettes",
+      "pubdate": "Sat, 21 Sep 2024 19:00:00 -0400"
+    },
+    {
+      "title": "Winnipeg Blue Bombers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Blue%20Bombers",
+      "pubdate": "Sat, 21 Sep 2024 20:00:00 -0400"
+    },
+    {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
       "pubdate": "Sat, 21 Sep 2024 15:00:00 -0400"
+    },
+    {
+      "title": "Sri Lanka election results 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sri%20Lanka%20election%20results%202024",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 -0400"
     },
     {
       "title": "Bayern Munich",
@@ -32,9 +52,19 @@
       "pubdate": "Sat, 21 Sep 2024 12:00:00 -0400"
     },
     {
+      "title": "Arch Manning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arch%20Manning",
+      "pubdate": "Sat, 21 Sep 2024 19:00:00 -0400"
+    },
+    {
       "title": "WHL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHL",
       "pubdate": "Sat, 21 Sep 2024 01:00:00 -0400"
+    },
+    {
+      "title": "EDMONTON ELKS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#EDMONTON%20ELKS",
+      "pubdate": "Sat, 21 Sep 2024 20:00:00 -0400"
     },
     {
       "title": "Tottenham",
@@ -47,59 +77,29 @@
       "pubdate": "Sat, 21 Sep 2024 12:00:00 -0400"
     },
     {
+      "title": "Kevin Lankinen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kevin%20Lankinen",
+      "pubdate": "Sat, 21 Sep 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Texas Longhorns",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Texas%20Longhorns",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 -0400"
+    },
+    {
       "title": "The resident",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20resident",
       "pubdate": "Sat, 21 Sep 2024 02:00:00 -0400"
     },
     {
-      "title": "Matt Gaetz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Gaetz",
-      "pubdate": "Fri, 20 Sep 2024 18:00:00 -0400"
-    },
-    {
-      "title": "RFK Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RFK%20Jr",
+      "title": "Cheryl Hines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cheryl%20Hines",
       "pubdate": "Fri, 20 Sep 2024 00:00:00 -0400"
     },
     {
-      "title": "Marathon montreal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marathon%20montreal",
-      "pubdate": "Fri, 20 Sep 2024 12:00:00 -0400"
-    },
-    {
-      "title": "COVID-19 XEC variant symptoms",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#COVID-19%20XEC%20variant%20symptoms",
-      "pubdate": "Fri, 20 Sep 2024 14:00:00 -0400"
-    },
-    {
-      "title": "Laver Cup 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Laver%20Cup%202024",
-      "pubdate": "Fri, 20 Sep 2024 11:00:00 -0400"
-    },
-    {
-      "title": "Calgary Stampeders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Stampeders",
-      "pubdate": "Fri, 20 Sep 2024 23:00:00 -0400"
-    },
-    {
-      "title": "Ibrahim Aqil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ibrahim%20Aqil",
+      "title": "Matt Gaetz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Gaetz",
       "pubdate": "Fri, 20 Sep 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Laver Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Laver%20Cup",
-      "pubdate": "Fri, 20 Sep 2024 13:00:00 -0400"
-    },
-    {
-      "title": "LeBreton Flats",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LeBreton%20Flats",
-      "pubdate": "Fri, 20 Sep 2024 15:00:00 -0400"
-    },
-    {
-      "title": "His Three Daughters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#His%20Three%20Daughters",
-      "pubdate": "Fri, 20 Sep 2024 20:00:00 -0400"
     }
   ]
 }

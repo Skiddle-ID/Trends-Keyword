@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-09-2024 , 23:35:40",
+  "lastUpdate": "22-09-2024 , 02:07:33",
   "data": [
+    {
+      "title": "SHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
+      "pubdate": "Sat, 21 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "AIK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
@@ -32,13 +37,13 @@
       "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     },
     {
-      "title": "Färjestad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
+      "title": "Brynäs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
       "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     },
     {
-      "title": "Brynäs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+      "title": "Färjestad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
       "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     },
     {
@@ -57,14 +62,14 @@
       "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
     },
     {
-      "title": "Mohamed Al Fayed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mohamed%20Al%20Fayed",
-      "pubdate": "Sat, 21 Sep 2024 08:00:00 +0200"
-    },
-    {
       "title": "Amanda Ilestedt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amanda%20Ilestedt",
       "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Kristoffer Olsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristoffer%20Olsson",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Carina Berg",
@@ -77,19 +82,9 @@
       "pubdate": "Sat, 21 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "Kristoffer Olsson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristoffer%20Olsson",
-      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Hockeyettan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hockeyettan",
-      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "HockeyAllsvenskan",
@@ -100,6 +95,11 @@
       "title": "Peter Haber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Haber",
       "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Nour El Refai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nour%20El%20Refai",
+      "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2024 , 23:35:35",
+  "lastUpdate": "22-09-2024 , 02:07:27",
   "data": [
     {
       "title": "Maud Bregeon",
@@ -12,13 +12,18 @@
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Andy Carroll",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andy%20Carroll",
+      "title": "Annie Genevard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Annie%20Genevard",
+      "pubdate": "Sun, 22 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Astrid Panosyan-Bouvet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Astrid%20Panosyan-Bouvet",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Astrid Panosyan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Astrid%20Panosyan",
+      "title": "Andy Carroll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Andy%20Carroll",
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
     },
     {
@@ -35,11 +40,6 @@
       "title": "PSG Reims",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20Reims",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Anne Genetet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Genetet",
-      "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Real Madrid – Espanyol",
@@ -67,23 +67,13 @@
       "pubdate": "Sat, 21 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Bruno Retailleau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruno%20Retailleau",
-      "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
-    },
-    {
       "title": "Geneviève Darrieussecq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Genevi%C3%A8ve%20Darrieussecq",
       "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Journee du Patrimoine 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Journee%20du%20Patrimoine%202024",
-      "pubdate": "Sat, 21 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Joshua - Dubois",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joshua%20-%20Dubois",
+      "title": "Daniel Dubois",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Daniel%20Dubois",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     },
     {
@@ -97,9 +87,19 @@
       "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
+      "title": "Guillaume Kasbarian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guillaume%20Kasbarian",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Metz – Lorient",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Metz%20%E2%80%93%20Lorient",
+      "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Agnes Pannier-Runacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Agnes%20Pannier-Runacher",
+      "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
     }
   ]
 }

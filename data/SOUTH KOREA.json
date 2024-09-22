@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-09-2024 , 23:35:40",
+  "lastUpdate": "22-09-2024 , 02:07:33",
   "data": [
     {
       "title": "토트넘",
@@ -32,11 +32,6 @@
       "pubdate": "Sun, 22 Sep 2024 00:00:00 +0900"
     },
     {
-      "title": "울버햄튼",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B8%EB%B2%84%ED%96%84%ED%8A%BC",
-      "pubdate": "Sun, 22 Sep 2024 03:00:00 +0900"
-    },
-    {
       "title": "지옥에서 온 판사",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C%20%EC%98%A8%20%ED%8C%90%EC%82%AC",
       "pubdate": "Sat, 21 Sep 2024 23:00:00 +0900"
@@ -57,14 +52,9 @@
       "pubdate": "Sat, 21 Sep 2024 06:00:00 +0900"
     },
     {
-      "title": "아이유 콘서트",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%EC%9C%A0%20%EC%BD%98%EC%84%9C%ED%8A%B8",
-      "pubdate": "Sat, 21 Sep 2024 23:00:00 +0900"
-    },
-    {
       "title": "태풍",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%83%9C%ED%92%8D",
-      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0900"
+      "pubdate": "Fri, 20 Sep 2024 19:00:00 +0900"
     },
     {
       "title": "삼시세끼",
@@ -72,14 +62,19 @@
       "pubdate": "Fri, 20 Sep 2024 21:00:00 +0900"
     },
     {
-      "title": "황인범",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EC%9D%B8%EB%B2%94",
-      "pubdate": "Fri, 20 Sep 2024 09:00:00 +0900"
+      "title": "이재명",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%9E%AC%EB%AA%85",
+      "pubdate": "Fri, 20 Sep 2024 16:00:00 +0900"
     },
     {
       "title": "오타니 50 50",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%A4%ED%83%80%EB%8B%88%2050%2050",
       "pubdate": "Fri, 20 Sep 2024 10:00:00 +0900"
+    },
+    {
+      "title": "황인범",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EC%9D%B8%EB%B2%94",
+      "pubdate": "Fri, 20 Sep 2024 11:00:00 +0900"
     },
     {
       "title": "피프티피프티",
@@ -100,6 +95,11 @@
       "title": "강인권",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%95%EC%9D%B8%EA%B6%8C",
       "pubdate": "Fri, 20 Sep 2024 20:00:00 +0900"
+    },
+    {
+      "title": "박신혜",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%8B%A0%ED%98%9C",
+      "pubdate": "Fri, 20 Sep 2024 07:00:00 +0900"
     }
   ]
 }
