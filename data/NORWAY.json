@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "22-09-2024 , 23:37:02",
+  "lastUpdate": "23-09-2024 , 01:57:48",
   "data": [
+    {
+      "title": "Man City mot Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City%20mot%20Arsenal",
+      "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
+    },
     {
       "title": "Brann mot Bodø/Glimt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20mot%20Bod%C3%B8/Glimt",
@@ -10,11 +15,6 @@
       "title": "Oslo Maraton 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Maraton%202024",
       "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-      "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Tomine Harket",
@@ -47,6 +47,11 @@
       "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Daniel Ricciardo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Ricciardo",
+      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Cosmopolite",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cosmopolite",
       "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
@@ -57,9 +62,19 @@
       "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
     },
     {
+      "title": "sykkel-VM 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#sykkel-VM%202024",
+      "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+    },
+    {
       "title": "Lando Norris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lando%20Norris",
       "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Strømsgodset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
+      "pubdate": "Sun, 22 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Leonard Cohen",
@@ -85,21 +100,6 @@
       "title": "Fredrikstad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fredrikstad",
       "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-      "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "YouTube premium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#YouTube%20premium",
-      "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
-    },
-    {
-      "title": "HamKam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-      "pubdate": "Sat, 21 Sep 2024 20:00:00 +0200"
     }
   ]
 }

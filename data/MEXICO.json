@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 23:37:01",
+  "lastUpdate": "23-09-2024 , 01:57:48",
   "data": [
     {
       "title": "Villarreal  Barcelona",
@@ -12,6 +12,11 @@
       "pubdate": "Sun, 22 Sep 2024 09:00:00 -0600"
     },
     {
+      "title": "Pumas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas",
+      "pubdate": "Sun, 22 Sep 2024 11:00:00 -0600"
+    },
+    {
       "title": "Feyenoord  NAC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Feyenoord%20%20NAC",
       "pubdate": "Sun, 22 Sep 2024 07:00:00 -0600"
@@ -22,24 +27,19 @@
       "pubdate": "Sun, 22 Sep 2024 13:00:00 -0600"
     },
     {
-      "title": "Pumas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pumas",
-      "pubdate": "Sun, 22 Sep 2024 11:00:00 -0600"
+      "title": "Juárez - Tigres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ju%C3%A1rez%20-%20Tigres",
+      "pubdate": "Sun, 22 Sep 2024 08:00:00 -0600"
     },
     {
-      "title": "Steelers  Chargers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Steelers%20%20Chargers",
-      "pubdate": "Sun, 22 Sep 2024 12:00:00 -0600"
+      "title": "Cowboys vs Ravens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys%20vs%20Ravens",
+      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0600"
     },
     {
-      "title": "Leverkusen - Wolfsburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leverkusen%20-%20Wolfsburg",
-      "pubdate": "Sun, 22 Sep 2024 09:00:00 -0600"
-    },
-    {
-      "title": "Travis Scott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Travis%20Scott",
-      "pubdate": "Sun, 22 Sep 2024 00:00:00 -0600"
+      "title": "Santos - Toluca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20-%20Toluca",
+      "pubdate": "Sun, 22 Sep 2024 14:00:00 -0600"
     },
     {
       "title": "Rayo Vallecano  Atlético Madrid",
@@ -47,8 +47,13 @@
       "pubdate": "Sun, 22 Sep 2024 13:00:00 -0600"
     },
     {
-      "title": "Cowboys  Ravens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cowboys%20%20Ravens",
+      "title": "Steelers  Chargers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Steelers%20%20Chargers",
+      "pubdate": "Sun, 22 Sep 2024 12:00:00 -0600"
+    },
+    {
+      "title": "Rams  49ers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rams%20%2049ers",
       "pubdate": "Sun, 22 Sep 2024 15:00:00 -0600"
     },
     {
@@ -57,19 +62,19 @@
       "pubdate": "Sun, 22 Sep 2024 11:00:00 -0600"
     },
     {
-      "title": "F1 Singapur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Singapur",
-      "pubdate": "Sun, 22 Sep 2024 05:00:00 -0600"
+      "title": "Seahawks  Dolphins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seahawks%20%20Dolphins",
+      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0600"
     },
     {
-      "title": "Athletic  Celta de Vigo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Athletic%20%20Celta%20de%20Vigo",
+      "title": "Raiders  Panthers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Raiders%20%20Panthers",
+      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0600"
+    },
+    {
+      "title": "Bayer Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayer%20Leverkusen",
       "pubdate": "Sun, 22 Sep 2024 10:00:00 -0600"
-    },
-    {
-      "title": "Leones Negros  Atlante",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leones%20Negros%20%20Atlante",
-      "pubdate": "Sun, 22 Sep 2024 13:00:00 -0600"
     },
     {
       "title": "Sporting Lisboa  AVS",
@@ -77,9 +82,14 @@
       "pubdate": "Sun, 22 Sep 2024 16:00:00 -0600"
     },
     {
-      "title": "Roma - Udinese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20-%20Udinese",
-      "pubdate": "Sun, 22 Sep 2024 12:00:00 -0600"
+      "title": "Athletic  Celta de Vigo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Athletic%20%20Celta%20de%20Vigo",
+      "pubdate": "Sun, 22 Sep 2024 10:00:00 -0600"
+    },
+    {
+      "title": "Falcons  Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Falcons%20%20Chiefs",
+      "pubdate": "Sun, 22 Sep 2024 19:00:00 -0600"
     },
     {
       "title": "Ter Stegen",
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 22 Sep 2024 14:00:00 -0600"
     },
     {
-      "title": "Swarovski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Swarovski",
-      "pubdate": "Sun, 22 Sep 2024 01:00:00 -0600"
-    },
-    {
-      "title": "Buccaneers  Broncos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Buccaneers%20%20Broncos",
-      "pubdate": "Sun, 22 Sep 2024 13:00:00 -0600"
-    },
-    {
-      "title": "LA Galaxy  Whitecaps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LA%20Galaxy%20%20Whitecaps",
-      "pubdate": "Sun, 22 Sep 2024 00:00:00 -0600"
+      "title": "Justin Bieber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Justin%20Bieber",
+      "pubdate": "Sun, 22 Sep 2024 14:00:00 -0600"
     }
   ]
 }
