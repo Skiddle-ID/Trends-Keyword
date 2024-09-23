@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 11:35:55",
+  "lastUpdate": "23-09-2024 , 12:58:17",
   "data": [
     {
       "title": "GPT",
@@ -32,14 +32,19 @@
       "pubdate": "Mon, 23 Sep 2024 12:00:00 +0900"
     },
     {
-      "title": "맨유",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
-      "pubdate": "Mon, 23 Sep 2024 00:00:00 +0900"
-    },
-    {
       "title": "대한항공",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%ED%95%9C%ED%95%AD%EA%B3%B5",
       "pubdate": "Mon, 23 Sep 2024 17:00:00 +0900"
+    },
+    {
+      "title": "환율",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%98%EC%9C%A8",
+      "pubdate": "Mon, 23 Sep 2024 20:00:00 +0900"
+    },
+    {
+      "title": "기업은행",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%97%85%EC%9D%80%ED%96%89",
+      "pubdate": "Mon, 23 Sep 2024 10:00:00 +0900"
     },
     {
       "title": "하나은행",
@@ -52,14 +57,19 @@
       "pubdate": "Mon, 23 Sep 2024 12:00:00 +0900"
     },
     {
+      "title": "건강보험공단",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8",
+      "pubdate": "Mon, 23 Sep 2024 12:00:00 +0900"
+    },
+    {
       "title": "신한카드",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%ED%95%9C%EC%B9%B4%EB%93%9C",
       "pubdate": "Mon, 23 Sep 2024 12:00:00 +0900"
     },
     {
-      "title": "건강보험공단",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98%EA%B3%B5%EB%8B%A8",
-      "pubdate": "Mon, 23 Sep 2024 12:00:00 +0900"
+      "title": "우체국",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B0%EC%B2%B4%EA%B5%AD",
+      "pubdate": "Mon, 23 Sep 2024 11:00:00 +0900"
     },
     {
       "title": "현대카드",
@@ -87,19 +97,9 @@
       "pubdate": "Mon, 23 Sep 2024 13:00:00 +0900"
     },
     {
-      "title": "AWS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#AWS",
-      "pubdate": "Mon, 23 Sep 2024 14:00:00 +0900"
-    },
-    {
       "title": "고려아연",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B3%A0%EB%A0%A4%EC%95%84%EC%97%B0",
       "pubdate": "Mon, 23 Sep 2024 02:00:00 +0900"
-    },
-    {
-      "title": "모두투어",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AA%A8%EB%91%90%ED%88%AC%EC%96%B4",
-      "pubdate": "Mon, 23 Sep 2024 13:00:00 +0900"
     }
   ]
 }

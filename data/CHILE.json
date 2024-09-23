@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 11:35:48",
+  "lastUpdate": "23-09-2024 , 12:58:09",
   "data": [
     {
       "title": "Junior  Águilas Doradas",
@@ -12,9 +12,19 @@
       "pubdate": "Mon, 23 Sep 2024 00:00:00 -0300"
     },
     {
+      "title": "Terremoto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto",
+      "pubdate": "Mon, 23 Sep 2024 00:00:00 -0300"
+    },
+    {
       "title": "Daniel Ricciardo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniel%20Ricciardo",
       "pubdate": "Mon, 23 Sep 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Negro Piñera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Negro%20Pi%C3%B1era",
+      "pubdate": "Mon, 23 Sep 2024 08:00:00 -0300"
     },
     {
       "title": "Manchester City - Arsenal",
@@ -52,14 +62,14 @@
       "pubdate": "Sun, 22 Sep 2024 02:00:00 -0300"
     },
     {
+      "title": "Justin Bieber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Justin%20Bieber",
+      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
+    },
+    {
       "title": "Talleres  Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Talleres%20%20Racing",
       "pubdate": "Sun, 22 Sep 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Terremoto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto",
-      "pubdate": "Sun, 22 Sep 2024 17:00:00 -0300"
     },
     {
       "title": "Nicolás Jarry",
@@ -67,9 +77,9 @@
       "pubdate": "Sun, 22 Sep 2024 14:00:00 -0300"
     },
     {
-      "title": "Colo Colo hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20hoy",
-      "pubdate": "Sun, 22 Sep 2024 17:00:00 -0300"
+      "title": "Ter Stegen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ter%20Stegen",
+      "pubdate": "Sun, 22 Sep 2024 18:00:00 -0300"
     },
     {
       "title": "Leverkusen",
@@ -77,14 +87,9 @@
       "pubdate": "Sun, 22 Sep 2024 13:00:00 -0300"
     },
     {
-      "title": "Ter Stegen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ter%20Stegen",
-      "pubdate": "Sun, 22 Sep 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Justin Bieber",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Justin%20Bieber",
-      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
+      "title": "Pichidangui",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pichidangui",
+      "pubdate": "Sun, 22 Sep 2024 17:00:00 -0300"
     },
     {
       "title": "Stuttgart  Dortmund",
@@ -95,11 +100,6 @@
       "title": "Brighton  Nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Nottingham%20Forest",
       "pubdate": "Sun, 22 Sep 2024 13:00:00 -0300"
-    },
-    {
-      "title": "Transformers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Transformers",
-      "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
     }
   ]
 }
