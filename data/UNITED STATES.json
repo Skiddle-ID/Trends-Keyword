@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2024 , 11:35:45",
+  "lastUpdate": "24-09-2024 , 12:58:51",
   "data": [
     {
       "title": "Kyle Chandler",
@@ -14,11 +14,11 @@
     {
       "title": "Bengals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
-      "pubdate": "Mon, 23 Sep 2024 17:00:00 -0700"
+      "pubdate": "Mon, 23 Sep 2024 18:00:00 -0700"
     },
     {
-      "title": "Kansas City chiefs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kansas%20City%20chiefs",
+      "title": "Commanders vs Bengals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Commanders%20vs%20Bengals",
       "pubdate": "Mon, 23 Sep 2024 17:00:00 -0700"
     },
     {
@@ -27,9 +27,9 @@
       "pubdate": "Mon, 23 Sep 2024 14:00:00 -0700"
     },
     {
-      "title": "Joe Burrow",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Burrow",
-      "pubdate": "Mon, 23 Sep 2024 18:00:00 -0700"
+      "title": "Kansas City Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kansas%20City%20Chiefs",
+      "pubdate": "Mon, 23 Sep 2024 17:00:00 -0700"
     },
     {
       "title": "Marcellus Williams",
@@ -47,8 +47,13 @@
       "pubdate": "Mon, 23 Sep 2024 16:00:00 -0700"
     },
     {
-      "title": "Thunderbolts*",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Thunderbolts*",
+      "title": "KC Chiefs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#KC%20Chiefs",
+      "pubdate": "Mon, 23 Sep 2024 17:00:00 -0700"
+    },
+    {
+      "title": "Thunderbolts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Thunderbolts",
       "pubdate": "Mon, 23 Sep 2024 09:00:00 -0700"
     },
     {
@@ -62,8 +67,8 @@
       "pubdate": "Mon, 23 Sep 2024 08:00:00 -0700"
     },
     {
-      "title": "Parcel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Parcel",
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
       "pubdate": "Mon, 23 Sep 2024 08:00:00 -0700"
     },
     {
@@ -75,11 +80,6 @@
       "title": "Snoop Dogg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Snoop%20Dogg",
       "pubdate": "Mon, 23 Sep 2024 18:00:00 -0700"
-    },
-    {
-      "title": "NOAA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NOAA",
-      "pubdate": "Mon, 23 Sep 2024 11:00:00 -0700"
     },
     {
       "title": "California banning plastic bags",
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 23 Sep 2024 07:00:00 -0700"
     },
     {
-      "title": "The Voice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Voice",
-      "pubdate": "Mon, 23 Sep 2024 18:00:00 -0700"
+      "title": "Damar Hamlin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Damar%20Hamlin",
+      "pubdate": "Mon, 23 Sep 2024 19:00:00 -0700"
     }
   ]
 }
