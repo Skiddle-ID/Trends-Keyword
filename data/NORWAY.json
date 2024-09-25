@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "24-09-2024 , 23:35:41",
+  "lastUpdate": "25-09-2024 , 02:00:47",
   "data": [
     {
       "title": "Ian Somerhalder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ian%20Somerhalder",
       "pubdate": "Wed, 25 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Bubs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bubs",
-      "pubdate": "Tue, 24 Sep 2024 15:00:00 +0200"
     },
     {
       "title": "Thomas Seltzer",
@@ -20,6 +15,11 @@
       "title": "Iver Knotten",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iver%20Knotten",
       "pubdate": "Tue, 24 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Marcellus Williams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marcellus%20Williams",
+      "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Iben Akerlie",
@@ -37,14 +37,14 @@
       "pubdate": "Tue, 24 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Thunderbolts*",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thunderbolts*",
-      "pubdate": "Tue, 24 Sep 2024 02:00:00 +0200"
-    },
-    {
       "title": "Kari Vogt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kari%20Vogt",
       "pubdate": "Tue, 24 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Thunderbolts*",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thunderbolts*",
+      "pubdate": "Tue, 24 Sep 2024 02:00:00 +0200"
     },
     {
       "title": "Sally Rooney",
@@ -62,18 +62,13 @@
       "pubdate": "Mon, 23 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Israel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Israel",
-      "pubdate": "Mon, 23 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "Anders Danielsen Lie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anders%20Danielsen%20Lie",
       "pubdate": "Mon, 23 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "KFUM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM",
+      "title": "Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Israel",
       "pubdate": "Mon, 23 Sep 2024 19:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Vinterdekk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vinterdekk",
       "pubdate": "Mon, 23 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Northvolt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Northvolt",
+      "pubdate": "Mon, 23 Sep 2024 18:00:00 +0200"
     }
   ]
 }
