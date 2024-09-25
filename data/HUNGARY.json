@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "25-09-2024 , 11:35:52",
+  "lastUpdate": "25-09-2024 , 12:59:15",
   "data": [
+    {
+      "title": "Iron Maiden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iron%20Maiden",
+      "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
+    },
     {
       "title": "Teddy Swims",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Teddy%20Swims",
       "pubdate": "Wed, 25 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Margot%20Robbie",
-      "pubdate": "Wed, 25 Sep 2024 02:00:00 +0200"
     },
     {
       "title": "Ghost of Yotei",
@@ -22,14 +22,14 @@
       "pubdate": "Wed, 25 Sep 2024 09:00:00 +0200"
     },
     {
+      "title": "Varane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varane",
+      "pubdate": "Wed, 25 Sep 2024 12:00:00 +0200"
+    },
+    {
       "title": "Ferencváros",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
       "pubdate": "Wed, 25 Sep 2024 08:00:00 +0200"
-    },
-    {
-      "title": "NOBU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NOBU",
-      "pubdate": "Wed, 25 Sep 2024 07:00:00 +0200"
     },
     {
       "title": "Orbán",
@@ -37,9 +37,9 @@
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Varane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varane",
-      "pubdate": "Wed, 25 Sep 2024 12:00:00 +0200"
+      "title": "NOBU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NOBU",
+      "pubdate": "Wed, 25 Sep 2024 07:00:00 +0200"
     },
     {
       "title": "Real Madrid–Alavés",
@@ -47,9 +47,19 @@
       "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
     },
     {
+      "title": "Mihályi Győző",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mih%C3%A1lyi%20Gy%C5%91z%C5%91",
+      "pubdate": "Tue, 24 Sep 2024 18:00:00 +0200"
+    },
+    {
       "title": "Yaakobishvili Áron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yaakobishvili%20%C3%81ron",
       "pubdate": "Tue, 24 Sep 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Margot Robbie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Margot%20Robbie",
+      "pubdate": "Tue, 24 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Kovi",
@@ -77,11 +87,6 @@
       "pubdate": "Tue, 24 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Kempf zozó, baleset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kempf%20zoz%C3%B3,%20baleset",
-      "pubdate": "Tue, 24 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
       "pubdate": "Tue, 24 Sep 2024 22:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Megyeri Csilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megyeri%20Csilla",
       "pubdate": "Tue, 24 Sep 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Sárközi Ákos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1rk%C3%B6zi%20%C3%81kos",
-      "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
     }
   ]
 }

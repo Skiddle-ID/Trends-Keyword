@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2024 , 11:35:56",
+  "lastUpdate": "25-09-2024 , 12:59:19",
   "data": [
     {
       "title": "TikTok",
@@ -7,14 +7,9 @@
       "pubdate": "Wed, 25 Sep 2024 12:00:00 +0300"
     },
     {
-      "title": "Sever muresan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sever%20muresan",
-      "pubdate": "Wed, 25 Sep 2024 08:00:00 +0300"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
-      "pubdate": "Wed, 25 Sep 2024 00:00:00 +0300"
+      "title": "Cupa romaniei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20romaniei",
+      "pubdate": "Wed, 25 Sep 2024 13:00:00 +0300"
     },
     {
       "title": "Furtună Ashley",
@@ -22,19 +17,19 @@
       "pubdate": "Wed, 25 Sep 2024 09:00:00 +0300"
     },
     {
-      "title": "Cupa Romaniei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cupa%20Romaniei",
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
+      "pubdate": "Wed, 25 Sep 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Varane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Varane",
       "pubdate": "Wed, 25 Sep 2024 13:00:00 +0300"
     },
     {
       "title": "Iubire cu parfum de lavanda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iubire%20cu%20parfum%20de%20lavanda",
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Varane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Varane",
-      "pubdate": "Wed, 25 Sep 2024 13:00:00 +0300"
     },
     {
       "title": "Islanda",
@@ -72,24 +67,19 @@
       "pubdate": "Tue, 24 Sep 2024 17:00:00 +0300"
     },
     {
-      "title": "Thunderbolts",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Thunderbolts",
-      "pubdate": "Tue, 24 Sep 2024 10:00:00 +0300"
-    },
-    {
       "title": "UVT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#UVT",
       "pubdate": "Tue, 24 Sep 2024 12:00:00 +0300"
     },
     {
+      "title": "RXF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#RXF",
+      "pubdate": "Mon, 23 Sep 2024 20:00:00 +0300"
+    },
+    {
       "title": "Unirea Slobozia - Rapid bucureşti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Unirea%20Slobozia%20-%20Rapid%20bucure%C5%9Fti",
       "pubdate": "Mon, 23 Sep 2024 21:00:00 +0300"
-    },
-    {
-      "title": "RXF 47",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#RXF%2047",
-      "pubdate": "Mon, 23 Sep 2024 20:00:00 +0300"
     },
     {
       "title": "UTA Arad - Poli Iași",
@@ -100,6 +90,16 @@
       "title": "AFM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AFM",
       "pubdate": "Mon, 23 Sep 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Atalanta - Como",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atalanta%20-%20Como",
+      "pubdate": "Mon, 23 Sep 2024 23:00:00 +0300"
+    },
+    {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AC%20Milan",
+      "pubdate": "Mon, 23 Sep 2024 08:00:00 +0300"
     }
   ]
 }

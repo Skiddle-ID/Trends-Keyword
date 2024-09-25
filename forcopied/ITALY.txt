@@ -1,1 +1,1 @@
-Matteo Berrettini,Varane,Torino fc,Popcorn,Nuoro,Giorgio Moroder,Enzo Zidane,Vicenza-Renate,Sestri Levante  Torres,Ghost of Yotei,Padova-Virtus Verona,Davide Bonolis,Genoa-Sampdoria,Fabrizio Corona,Turris  Avellino,Cilic,Leapmotor,Empoli,Lecce-Sassuolo,Real Madrid  alavés
+Coppa italia,Matteo Berrettini,Varane,Nuoro,Popcorn,Torino fc,Enzo Zidane,Giorgio Moroder,Ghost of Yotei,Vicenza-Renate,Seghetti Empoli,Sestri Levante  Torres,Padova-Virtus Verona,Fabrizio Corona,Davide Bonolis,Anna Lou Castoldi,Turris  Avellino,Cilic,Zappacosta,Leapmotor
