@@ -1,20 +1,30 @@
 {
-  "lastUpdate": "25-09-2024 , 23:35:42",
+  "lastUpdate": "26-09-2024 , 01:57:08",
   "data": [
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Europa%20League",
-      "pubdate": "Thu, 26 Sep 2024 06:00:00 +1000"
-    },
     {
       "title": "Liverpool vs West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20West%20Ham",
       "pubdate": "Thu, 26 Sep 2024 06:00:00 +1000"
     },
     {
-      "title": "Arsenal vs Bolton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Bolton",
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Europa%20League",
       "pubdate": "Thu, 26 Sep 2024 06:00:00 +1000"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+      "pubdate": "Thu, 26 Sep 2024 06:00:00 +1000"
+    },
+    {
+      "title": "Ebgames",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ebgames",
+      "pubdate": "Thu, 26 Sep 2024 11:00:00 +1000"
+    },
+    {
+      "title": "Melbourne Royal Show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Royal%20Show",
+      "pubdate": "Thu, 26 Sep 2024 11:00:00 +1000"
     },
     {
       "title": "Katy Perry",
@@ -22,19 +32,24 @@
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +1000"
     },
     {
-      "title": "Ghost of Yotei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ghost%20of%20Yotei",
-      "pubdate": "Wed, 25 Sep 2024 11:00:00 +1000"
-    },
-    {
       "title": "Tsunami warning Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tsunami%20warning%20Australia",
       "pubdate": "Wed, 25 Sep 2024 12:00:00 +1000"
     },
     {
+      "title": "Ghost of Yotei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ghost%20of%20Yotei",
+      "pubdate": "Wed, 25 Sep 2024 11:00:00 +1000"
+    },
+    {
       "title": "Popcorn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Popcorn",
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +1000"
+    },
+    {
+      "title": "Woolloongabba fire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Woolloongabba%20fire",
+      "pubdate": "Wed, 25 Sep 2024 19:00:00 +1000"
     },
     {
       "title": "Chelsea",
@@ -47,11 +62,6 @@
       "pubdate": "Wed, 25 Sep 2024 11:00:00 +1000"
     },
     {
-      "title": "Woolloongabba fire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Woolloongabba%20fire",
-      "pubdate": "Wed, 25 Sep 2024 19:00:00 +1000"
-    },
-    {
       "title": "Katy Perry Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katy%20Perry%20Australia",
       "pubdate": "Wed, 25 Sep 2024 16:00:00 +1000"
@@ -60,6 +70,11 @@
       "title": "Inside Out 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inside%20Out%202",
       "pubdate": "Wed, 25 Sep 2024 20:00:00 +1000"
+    },
+    {
+      "title": "Three-Peat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Three-Peat",
+      "pubdate": "Wed, 25 Sep 2024 09:00:00 +1000"
     },
     {
       "title": "Inflation rate Australia",
@@ -85,21 +100,6 @@
       "title": "Charlie Dixon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charlie%20Dixon",
       "pubdate": "Wed, 25 Sep 2024 20:00:00 +1000"
-    },
-    {
-      "title": "Radar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-      "pubdate": "Wed, 25 Sep 2024 09:00:00 +1000"
-    },
-    {
-      "title": "Kentucky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kentucky",
-      "pubdate": "Wed, 25 Sep 2024 13:00:00 +1000"
-    },
-    {
-      "title": "Google Doodle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Google%20Doodle",
-      "pubdate": "Wed, 25 Sep 2024 15:00:00 +1000"
     }
   ]
 }

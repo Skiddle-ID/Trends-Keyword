@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "25-09-2024 , 23:35:46",
+  "lastUpdate": "26-09-2024 , 01:57:12",
   "data": [
     {
-      "title": "Franziska Brantner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franziska%20Brantner",
+      "title": "Grüne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gr%C3%BCne",
       "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
     },
     {
@@ -12,9 +12,9 @@
       "pubdate": "Wed, 25 Sep 2024 10:00:00 +0200"
     },
     {
-      "title": "Michael Douglas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Douglas",
-      "pubdate": "Wed, 25 Sep 2024 13:00:00 +0200"
+      "title": "Dynamo Dresden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
+      "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Deutscher Fernsehpreis 2024",
@@ -22,9 +22,24 @@
       "pubdate": "Wed, 25 Sep 2024 20:00:00 +0200"
     },
     {
+      "title": "Ghost of Yotei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ghost%20of%20Yotei",
+      "pubdate": "Wed, 25 Sep 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Baerbock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
+      "pubdate": "Wed, 25 Sep 2024 14:00:00 +0200"
+    },
+    {
       "title": "Bettina Orlopp",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bettina%20Orlopp",
       "pubdate": "Wed, 25 Sep 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Angela Merkel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Angela%20Merkel",
+      "pubdate": "Wed, 25 Sep 2024 23:00:00 +0200"
     },
     {
       "title": "Europa League",
@@ -40,16 +55,6 @@
       "title": "Jens Lehmann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jens%20Lehmann",
       "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
-    },
-    {
-      "title": "VfL Osnabrück",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
-      "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Bürgergeld",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCrgergeld",
-      "pubdate": "Tue, 24 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Deutschlandticket",
@@ -95,11 +100,6 @@
       "title": "KSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
       "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
-      "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
     }
   ]
 }
