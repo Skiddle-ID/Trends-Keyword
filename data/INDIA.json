@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "26-09-2024 , 23:36:46",
+  "lastUpdate": "27-09-2024 , 01:58:01",
   "data": [
+    {
+      "title": "Paracetamol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Paracetamol",
+      "pubdate": "Fri, 27 Sep 2024 06:30:00 +0530"
+    },
     {
       "title": "iPhone 15",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#iPhone%2015",
       "pubdate": "Thu, 26 Sep 2024 12:30:00 +0530"
+    },
+    {
+      "title": "IPO Allotment Status",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPO%20Allotment%20Status",
+      "pubdate": "Thu, 26 Sep 2024 09:30:00 +0530"
     },
     {
       "title": "Flipkart Big Billion Days",
@@ -12,19 +22,14 @@
       "pubdate": "Thu, 26 Sep 2024 11:30:00 +0530"
     },
     {
-      "title": "IPO Allotment status",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPO%20Allotment%20status",
-      "pubdate": "Thu, 26 Sep 2024 09:30:00 +0530"
-    },
-    {
       "title": "Ranveer Allahbadia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ranveer%20Allahbadia",
       "pubdate": "Thu, 26 Sep 2024 14:30:00 +0530"
     },
     {
-      "title": "Narendra Modi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Narendra%20Modi",
-      "pubdate": "Thu, 26 Sep 2024 23:30:00 +0530"
+      "title": "Devara Review",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Devara%20Review",
+      "pubdate": "Thu, 26 Sep 2024 20:30:00 +0530"
     },
     {
       "title": "Vladimir Putin",
@@ -42,11 +47,6 @@
       "pubdate": "Thu, 26 Sep 2024 17:30:00 +0530"
     },
     {
-      "title": "Coldplay Abu Dhabi tickets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Coldplay%20Abu%20Dhabi%20tickets",
-      "pubdate": "Thu, 26 Sep 2024 01:30:00 +0530"
-    },
-    {
       "title": "Popcorn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Popcorn",
       "pubdate": "Wed, 25 Sep 2024 07:30:00 +0530"
@@ -57,9 +57,14 @@
       "pubdate": "Wed, 25 Sep 2024 12:30:00 +0530"
     },
     {
-      "title": "Mumbai Rains",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mumbai%20Rains",
+      "title": "Mumbai weather",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mumbai%20weather",
       "pubdate": "Wed, 25 Sep 2024 21:30:00 +0530"
+    },
+    {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Europa%20League",
+      "pubdate": "Wed, 25 Sep 2024 23:30:00 +0530"
     },
     {
       "title": "Brunei",
@@ -95,11 +100,6 @@
       "title": "Siddaramaiah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Siddaramaiah",
       "pubdate": "Tue, 24 Sep 2024 16:30:00 +0530"
-    },
-    {
-      "title": "Manba Finance IPO GMP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manba%20Finance%20IPO%20GMP",
-      "pubdate": "Mon, 23 Sep 2024 12:30:00 +0530"
     }
   ]
 }
