@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "27-09-2024 , 11:35:39",
+  "lastUpdate": "27-09-2024 , 12:58:26",
   "data": [
+    {
+      "title": "Miguel Oliveira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Oliveira",
+      "pubdate": "Fri, 27 Sep 2024 08:00:00 +0100"
+    },
     {
       "title": "Cruzeiro x Libertad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro%20x%20Libertad",
@@ -17,13 +22,23 @@
       "pubdate": "Fri, 27 Sep 2024 00:00:00 +0100"
     },
     {
+      "title": "Lana Del Rey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lana%20Del%20Rey",
+      "pubdate": "Fri, 27 Sep 2024 11:00:00 +0100"
+    },
+    {
       "title": "Rodrigo Varanda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rodrigo%20Varanda",
       "pubdate": "Fri, 27 Sep 2024 00:00:00 +0100"
     },
     {
-      "title": "Lana Del Rey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lana%20Del%20Rey",
+      "title": "Mariana Van Zeller",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mariana%20Van%20Zeller",
+      "pubdate": "Fri, 27 Sep 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Horário de inverno",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hor%C3%A1rio%20de%20inverno",
       "pubdate": "Fri, 27 Sep 2024 11:00:00 +0100"
     },
     {
@@ -37,14 +52,14 @@
       "pubdate": "Thu, 26 Sep 2024 18:00:00 +0100"
     },
     {
-      "title": "Alexandra Lencastre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alexandra%20Lencastre",
-      "pubdate": "Thu, 26 Sep 2024 12:00:00 +0100"
-    },
-    {
       "title": "Peñarol  Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pe%C3%B1arol%20%20Flamengo",
       "pubdate": "Thu, 26 Sep 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Alexandra Lencastre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alexandra%20Lencastre",
+      "pubdate": "Thu, 26 Sep 2024 12:00:00 +0100"
     },
     {
       "title": "Xiaomi 14T Pro",
@@ -57,6 +72,11 @@
       "pubdate": "Thu, 26 Sep 2024 03:00:00 +0100"
     },
     {
+      "title": "Atlético-MG x Fluminense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20x%20Fluminense",
+      "pubdate": "Thu, 26 Sep 2024 00:00:00 +0100"
+    },
+    {
       "title": "Joana Aguiar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Aguiar",
       "pubdate": "Thu, 26 Sep 2024 23:00:00 +0100"
@@ -65,11 +85,6 @@
       "title": "João Adelino Faria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Adelino%20Faria",
       "pubdate": "Thu, 26 Sep 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Atlético-MG x Fluminense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20x%20Fluminense",
-      "pubdate": "Thu, 26 Sep 2024 00:00:00 +0100"
     },
     {
       "title": "Daniel Ricciardo",
@@ -85,21 +100,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
       "pubdate": "Thu, 26 Sep 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Segredos Casa dos Segredos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Segredos%20Casa%20dos%20Segredos",
-      "pubdate": "Thu, 26 Sep 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Futsal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futsal",
-      "pubdate": "Thu, 26 Sep 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
-      "pubdate": "Thu, 26 Sep 2024 00:00:00 +0100"
     }
   ]
 }
