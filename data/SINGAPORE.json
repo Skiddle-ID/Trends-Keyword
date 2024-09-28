@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2024 , 23:35:50",
+  "lastUpdate": "28-09-2024 , 01:56:52",
   "data": [
     {
       "title": "Megalopolis",
@@ -32,16 +32,6 @@
       "pubdate": "Fri, 27 Sep 2024 10:00:00 +0800"
     },
     {
-      "title": "Xiaomi 14T Pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xiaomi%2014T%20Pro",
-      "pubdate": "Fri, 27 Sep 2024 12:00:00 +0800"
-    },
-    {
-      "title": "SMCI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SMCI",
-      "pubdate": "Fri, 27 Sep 2024 01:00:00 +0800"
-    },
-    {
       "title": "Shigeru Ishiba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shigeru%20Ishiba",
       "pubdate": "Fri, 27 Sep 2024 16:00:00 +0800"
@@ -57,14 +47,14 @@
       "pubdate": "Fri, 27 Sep 2024 12:00:00 +0800"
     },
     {
-      "title": "Iris Koh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iris%20Koh",
-      "pubdate": "Fri, 27 Sep 2024 11:00:00 +0800"
-    },
-    {
       "title": "Nobody Wants This",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nobody%20Wants%20This",
       "pubdate": "Fri, 27 Sep 2024 16:00:00 +0800"
+    },
+    {
+      "title": "Xiaomi 14T",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xiaomi%2014T",
+      "pubdate": "Fri, 27 Sep 2024 14:00:00 +0800"
     },
     {
       "title": "Kamindu Mendis",
@@ -82,11 +72,6 @@
       "pubdate": "Thu, 26 Sep 2024 21:00:00 +0800"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
-      "pubdate": "Thu, 26 Sep 2024 08:00:00 +0800"
-    },
-    {
       "title": "Eric Adams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Eric%20Adams",
       "pubdate": "Thu, 26 Sep 2024 16:00:00 +0800"
@@ -100,6 +85,21 @@
       "title": "The Wild Robot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Wild%20Robot",
       "pubdate": "Thu, 26 Sep 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Iran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
+      "pubdate": "Thu, 26 Sep 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Micron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
+      "pubdate": "Thu, 26 Sep 2024 12:00:00 +0800"
+    },
+    {
+      "title": "MRT",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MRT",
+      "pubdate": "Wed, 25 Sep 2024 12:00:00 +0800"
     }
   ]
 }

@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "27-09-2024 , 23:35:49",
+  "lastUpdate": "28-09-2024 , 01:56:51",
   "data": [
     {
-      "title": "Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting",
+      "title": "MC Ryan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MC%20Ryan",
+      "pubdate": "Sat, 28 Sep 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Garantia publica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Garantia%20publica",
+      "pubdate": "Sat, 28 Sep 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Estoril  Sporting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estoril%20%20Sporting",
       "pubdate": "Fri, 27 Sep 2024 14:00:00 +0100"
     },
     {
@@ -17,19 +27,19 @@
       "pubdate": "Fri, 27 Sep 2024 14:00:00 +0100"
     },
     {
-      "title": "Al-Nassr  Al Wehda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al%20Wehda",
+      "title": "Al-Nassr  Al-Wehda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al-Wehda",
       "pubdate": "Fri, 27 Sep 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Licença parental",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Licen%C3%A7a%20parental",
-      "pubdate": "Fri, 27 Sep 2024 15:00:00 +0100"
     },
     {
       "title": "PSG  Rennes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Rennes",
       "pubdate": "Fri, 27 Sep 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Licença parental",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Licen%C3%A7a%20parental",
+      "pubdate": "Fri, 27 Sep 2024 15:00:00 +0100"
     },
     {
       "title": "Miguel Oliveira",
@@ -40,6 +50,11 @@
       "title": "Lana Del Rey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lana%20Del%20Rey",
       "pubdate": "Fri, 27 Sep 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
+      "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
     },
     {
       "title": "Filipa Calvão",
@@ -62,13 +77,18 @@
       "pubdate": "Fri, 27 Sep 2024 22:00:00 +0100"
     },
     {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
-      "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
+      "title": "Jogo Sporting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Sporting",
+      "pubdate": "Fri, 27 Sep 2024 20:00:00 +0100"
     },
     {
       "title": "Sporting CP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20CP",
+      "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dortmund",
       "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
     },
     {
@@ -77,29 +97,9 @@
       "pubdate": "Fri, 27 Sep 2024 12:00:00 +0100"
     },
     {
-      "title": "Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dortmund",
-      "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Cruzeiro x Libertad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro%20x%20Libertad",
-      "pubdate": "Fri, 27 Sep 2024 08:00:00 +0100"
-    },
-    {
-      "title": "CPLP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CPLP",
-      "pubdate": "Fri, 27 Sep 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Simao Sabrosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simao%20Sabrosa",
-      "pubdate": "Fri, 27 Sep 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Ian Cathro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ian%20Cathro",
-      "pubdate": "Fri, 27 Sep 2024 18:00:00 +0100"
+      "title": "Nasrallah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nasrallah",
+      "pubdate": "Fri, 27 Sep 2024 23:00:00 +0100"
     }
   ]
 }
