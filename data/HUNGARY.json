@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "28-09-2024 , 23:36:46",
+  "lastUpdate": "29-09-2024 , 02:09:09",
   "data": [
+    {
+      "title": "Karsai Dániel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Karsai%20D%C3%A1niel",
+      "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UFC",
+      "pubdate": "Sun, 29 Sep 2024 03:00:00 +0200"
+    },
     {
       "title": "Pamela Anderson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pamela%20Anderson",
@@ -15,11 +25,6 @@
       "title": "Newcastle–manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Newcastle%E2%80%93manchester%20City",
       "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Bayern münchen–leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93leverkusen",
-      "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
       "title": "Gubik Petra",
@@ -52,14 +57,19 @@
       "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     },
     {
+      "title": "Szuna Roland baleset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szuna%20Roland%20baleset",
+      "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
+    },
+    {
       "title": "Pál Dénes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1l%20D%C3%A9nes",
       "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
     },
     {
-      "title": "Szuna Roland baleset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szuna%20Roland%20baleset",
-      "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
+      "title": "Puskás Peti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s%20Peti",
+      "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
     },
     {
       "title": "Viszlát nyár",
@@ -67,14 +77,14 @@
       "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Andre Rieu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andre%20Rieu",
-      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
-    },
-    {
       "title": "Hezbollah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hezbollah",
       "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Andre Rieu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andre%20Rieu",
+      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Majka",
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Zalatnay Sarolta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalatnay%20Sarolta",
-      "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
-    },
-    {
       "title": "Harry Potter és a bölcsek köve",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Potter%20%C3%A9s%20a%20b%C3%B6lcsek%20k%C3%B6ve",
       "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
     },
     {
-      "title": "Moziműsor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mozim%C5%B1sor",
-      "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Balog Zoltán",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balog%20Zolt%C3%A1n",
-      "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
+      "title": "Zalatnay Sarolta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zalatnay%20Sarolta",
+      "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
     }
   ]
 }
