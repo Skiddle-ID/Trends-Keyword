@@ -1,9 +1,39 @@
 {
-  "lastUpdate": "29-09-2024 , 11:35:45",
+  "lastUpdate": "29-09-2024 , 12:54:59",
   "data": [
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
+      "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
+    },
     {
       "title": "Udo Jürgens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Udo%20J%C3%BCrgens",
+      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Gina Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gina%20Schumacher",
+      "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Wahlen Österreich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20%C3%96sterreich",
+      "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "SIG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SIG",
+      "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Essen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Essen",
+      "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Jason Bourne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jason%20Bourne",
       "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
     },
     {
@@ -12,9 +42,19 @@
       "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
     },
     {
+      "title": "Didier Kaminka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Didier%20Kaminka",
+      "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+    },
+    {
       "title": "Bayern – Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20%E2%80%93%20Leverkusen",
       "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
+    },
+    {
+      "title": "YB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "UFC",
@@ -37,19 +77,9 @@
       "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
     },
     {
-      "title": "YB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-      "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
       "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Servette – Lausanne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20Lausanne",
-      "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
     },
     {
       "title": "Gotthard Stau",
@@ -67,38 +97,8 @@
       "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     },
     {
-      "title": "Seuche deutschland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Seuche%20deutschland",
-      "pubdate": "Sat, 28 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-      "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Servette FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
-      "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-      "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Poupette Kenza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poupette%20Kenza",
-      "pubdate": "Sat, 28 Sep 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Beirut",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beirut",
-      "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Lotte Kopecky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lotte%20Kopecky",
+      "title": "Servette – Lausanne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20Lausanne",
       "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
     }
   ]

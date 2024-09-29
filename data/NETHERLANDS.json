@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-09-2024 , 11:35:42",
+  "lastUpdate": "29-09-2024 , 12:54:56",
   "data": [
+    {
+      "title": "PEC Zwolle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+      "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+    },
     {
       "title": "Loting KNVB-beker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Loting%20KNVB-beker",
@@ -10,6 +15,11 @@
       "title": "Demi Vollering",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Demi%20Vollering",
       "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
+    },
+    {
+      "title": "KNVB Beker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB%20Beker",
+      "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
     },
     {
       "title": "Feyenoord",
@@ -90,16 +100,6 @@
       "title": "Boer zoekt Vrouw",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
       "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Musical 40-45",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Musical%2040-45",
-      "pubdate": "Sun, 22 Sep 2024 00:00:00 +0200"
-    },
-    {
-      "title": "FC Twente",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-      "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
     }
   ]
 }
