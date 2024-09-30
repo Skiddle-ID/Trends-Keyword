@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "29-09-2024 , 23:35:36",
+  "lastUpdate": "30-09-2024 , 02:06:06",
   "data": [
     {
-      "title": "Atlético Madrid Vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid",
+      "title": "Atlético Madrid vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Atl%C3%A9tico%20Madrid%20vs%20Real%20Madrid",
       "pubdate": "Mon, 30 Sep 2024 04:00:00 +0800"
+    },
+    {
+      "title": "England vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#England%20vs%20Australia",
+      "pubdate": "Mon, 30 Sep 2024 08:00:00 +0800"
     },
     {
       "title": "Bayern Munich",
@@ -52,6 +57,11 @@
       "pubdate": "Sun, 29 Sep 2024 22:00:00 +0800"
     },
     {
+      "title": "Ukraine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ukraine",
+      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0800"
+    },
+    {
       "title": "Presidents Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Presidents%20Cup",
       "pubdate": "Sun, 29 Sep 2024 14:00:00 +0800"
@@ -60,11 +70,6 @@
       "title": "Berlin Marathon 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Berlin%20Marathon%202024",
       "pubdate": "Sun, 29 Sep 2024 22:00:00 +0800"
-    },
-    {
-      "title": "Iran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
-      "pubdate": "Sun, 29 Sep 2024 12:00:00 +0800"
     },
     {
       "title": "Hassan Nasrallah",
@@ -82,24 +87,19 @@
       "pubdate": "Sat, 28 Sep 2024 21:00:00 +0800"
     },
     {
+      "title": "England vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#England%20vs%20Australia",
+      "pubdate": "Sat, 28 Sep 2024 08:00:00 +0800"
+    },
+    {
       "title": "Cole Palmer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cole%20Palmer",
       "pubdate": "Sat, 28 Sep 2024 23:00:00 +0800"
     },
     {
-      "title": "Karl-Anthony Towns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Karl-Anthony%20Towns",
-      "pubdate": "Sat, 28 Sep 2024 14:00:00 +0800"
-    },
-    {
       "title": "Zerobaseone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zerobaseone",
       "pubdate": "Sat, 28 Sep 2024 16:00:00 +0800"
-    },
-    {
-      "title": "Maggie Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Maggie%20Smith",
-      "pubdate": "Fri, 27 Sep 2024 22:00:00 +0800"
     }
   ]
 }

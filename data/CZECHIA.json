@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-09-2024 , 23:35:30",
+  "lastUpdate": "30-09-2024 , 02:05:59",
   "data": [
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+      "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "John Ashton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Ashton",
@@ -15,6 +20,11 @@
       "title": "Viktoria Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktoria%20Plze%C5%88",
       "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "Woox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Woox",
+      "pubdate": "Sun, 29 Sep 2024 09:00:00 +0200"
     },
     {
       "title": "Leo Brichta",
@@ -32,14 +42,14 @@
       "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
+      "title": "Volby rakousko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20rakousko",
+      "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
+    },
+    {
       "title": "Banik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Banik",
       "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Volby Rakousko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20Rakousko",
-      "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Manchester United",
@@ -77,11 +87,6 @@
       "pubdate": "Sat, 28 Sep 2024 19:00:00 +0200"
     },
     {
-      "title": "Slovácko – Karviná",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Karvin%C3%A1",
-      "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
-    },
-    {
       "title": "Svaty vaclav",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svaty%20vaclav",
       "pubdate": "Sat, 28 Sep 2024 14:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Šlachta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0lachta",
       "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-      "pubdate": "Sat, 28 Sep 2024 23:00:00 +0200"
     }
   ]
 }

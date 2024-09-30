@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "29-09-2024 , 23:35:33",
+  "lastUpdate": "30-09-2024 , 02:06:03",
   "data": [
+    {
+      "title": "Theo Hernandez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Theo%20Hernandez",
+      "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
+    },
     {
       "title": "Potenza-Crotone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Potenza-Crotone",
       "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
+    },
+    {
+      "title": "John Ashton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#John%20Ashton",
+      "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
       "title": "Como-Verona",
@@ -47,14 +57,9 @@
       "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
-      "title": "Manchester United  Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United%20%20Tottenham",
+      "title": "Manchester United-Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United-Tottenham",
       "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Mattarella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mattarella",
-      "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Giovanni Terzi",
@@ -62,14 +67,14 @@
       "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
     },
     {
+      "title": "Mattarella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mattarella",
+      "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
+    },
+    {
       "title": "Amici",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amici",
       "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Montesano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Montesano",
-      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
     },
     {
       "title": "Francobollo Silvio Berlusconi",
@@ -77,9 +82,9 @@
       "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
     },
     {
-      "title": "Nina Zilli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Zilli",
-      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
+      "title": "Montesano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Montesano",
+      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
     },
     {
       "title": "Federica Pellegrini",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 29 Sep 2024 01:00:00 +0200"
     },
     {
+      "title": "Nina Zilli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nina%20Zilli",
+      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0200"
+    },
+    {
       "title": "Santo del giorno",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santo%20del%20giorno",
       "pubdate": "Sun, 29 Sep 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Juve Stabia-Pisa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve%20Stabia-Pisa",
-      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Romina Power",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Romina%20Power",
-      "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2024 , 23:35:31",
+  "lastUpdate": "30-09-2024 , 02:06:00",
   "data": [
     {
       "title": "Österreich Wahl",
@@ -27,6 +27,11 @@
       "pubdate": "Sun, 29 Sep 2024 04:00:00 +0200"
     },
     {
+      "title": "FC-Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC-Bayern",
+      "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+    },
+    {
       "title": "Tatort Frankfurt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Frankfurt",
       "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
@@ -37,11 +42,6 @@
       "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
-      "pubdate": "Sun, 29 Sep 2024 21:00:00 +0200"
-    },
-    {
       "title": "Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
       "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
@@ -50,11 +50,6 @@
       "title": "Holstein Kiel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
       "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Hannover 96",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
-      "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
     },
     {
       "title": "Jutta Speidel",
@@ -82,24 +77,29 @@
       "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
     },
     {
-      "title": "Hsv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hsv",
-      "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
-    },
-    {
-      "title": "VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-      "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
-    },
-    {
       "title": "St. Pauli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
       "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     },
     {
+      "title": "Bundesvision Comedy Contest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesvision%20Comedy%20Contest",
+      "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
+    },
+    {
       "title": "Niklas-Wilson Sommer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niklas-Wilson%20Sommer",
       "pubdate": "Sat, 28 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Iran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran",
+      "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
+    },
+    {
+      "title": "VfL Wolfsburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Wolfsburg",
+      "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
     }
   ]
 }

@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "29-09-2024 , 23:35:36",
+  "lastUpdate": "30-09-2024 , 02:06:05",
   "data": [
     {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
+      "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Napoli  Monza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Napoli%20%20Monza",
       "pubdate": "Mon, 30 Sep 2024 01:00:00 +0300"
     },
     {
@@ -17,24 +22,24 @@
       "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
     },
     {
-      "title": "Gloria Buzău - Farul Constanța",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gloria%20Buz%C4%83u%20-%20Farul%20Constan%C8%9Ba",
-      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Man utd  - Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Man%20utd%20%20-%20Tottenham",
-      "pubdate": "Sun, 29 Sep 2024 18:00:00 +0300"
-    },
-    {
       "title": "Atlético Madrid - Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atl%C3%A9tico%20Madrid%20-%20Real%20Madrid",
       "pubdate": "Sun, 29 Sep 2024 22:00:00 +0300"
     },
     {
+      "title": "Gloria Buzău - Farul Constanța",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gloria%20Buz%C4%83u%20-%20Farul%20Constan%C8%9Ba",
+      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0300"
+    },
+    {
       "title": "Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
       "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Galati",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galati",
+      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0300"
     },
     {
       "title": "Chelsea",
@@ -57,11 +62,6 @@
       "pubdate": "Sun, 29 Sep 2024 11:00:00 +0300"
     },
     {
-      "title": "Galati",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Galati",
-      "pubdate": "Sun, 29 Sep 2024 19:00:00 +0300"
-    },
-    {
       "title": "Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
       "pubdate": "Sun, 29 Sep 2024 19:00:00 +0300"
@@ -77,11 +77,6 @@
       "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
     },
     {
-      "title": "Dorinel Munteanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dorinel%20Munteanu",
-      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0300"
-    },
-    {
       "title": "Nepal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nepal",
       "pubdate": "Sun, 29 Sep 2024 17:00:00 +0300"
@@ -92,14 +87,19 @@
       "pubdate": "Sun, 29 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "Accident Arad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20Arad",
-      "pubdate": "Sun, 29 Sep 2024 18:00:00 +0300"
+      "title": "Ziua mondiala a Inimii",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20mondiala%20a%20Inimii",
+      "pubdate": "Sun, 29 Sep 2024 22:00:00 +0300"
     },
     {
-      "title": "Raluca Moianu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raluca%20Moianu",
-      "pubdate": "Sun, 29 Sep 2024 21:00:00 +0300"
+      "title": "Rapid Bucureşti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti",
+      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Balea Lac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Balea%20Lac",
+      "pubdate": "Sun, 29 Sep 2024 22:00:00 +0300"
     }
   ]
 }
