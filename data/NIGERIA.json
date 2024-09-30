@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2024 , 11:35:40",
+  "lastUpdate": "30-09-2024 , 13:00:33",
   "data": [
     {
       "title": "Beverly Hills Cop",
@@ -17,6 +17,11 @@
       "pubdate": "Sun, 29 Sep 2024 10:00:00 +0100"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea",
+      "pubdate": "Sun, 29 Sep 2024 15:00:00 +0100"
+    },
+    {
       "title": "Ipswich Town vs Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ipswich%20Town%20vs%20Aston%20Villa",
       "pubdate": "Sun, 29 Sep 2024 14:00:00 +0100"
@@ -32,14 +37,14 @@
       "pubdate": "Sun, 29 Sep 2024 21:00:00 +0100"
     },
     {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ajax",
-      "pubdate": "Sun, 29 Sep 2024 20:00:00 +0100"
-    },
-    {
       "title": "Rangers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers",
       "pubdate": "Sun, 29 Sep 2024 14:00:00 +0100"
+    },
+    {
+      "title": "DNA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#DNA",
+      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0100"
     },
     {
       "title": "Atlético Madrid vs Real Madrid lineups",
@@ -47,9 +52,9 @@
       "pubdate": "Sun, 29 Sep 2024 21:00:00 +0100"
     },
     {
-      "title": "DNA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#DNA",
-      "pubdate": "Sun, 29 Sep 2024 16:00:00 +0100"
+      "title": "2025 Social Security COLA increase",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#2025%20Social%20Security%20COLA%20increase",
+      "pubdate": "Sun, 29 Sep 2024 00:00:00 +0100"
     },
     {
       "title": "Bayern",
@@ -95,11 +100,6 @@
       "title": "Arsenal vs Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Leicester%20City",
       "pubdate": "Sat, 28 Sep 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Osasuna vs Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Osasuna%20vs%20Barcelona",
-      "pubdate": "Sat, 28 Sep 2024 14:00:00 +0100"
     }
   ]
 }
