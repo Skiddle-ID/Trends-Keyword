@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2024 , 11:36:04",
+  "lastUpdate": "01-10-2024 , 12:59:51",
   "data": [
     {
       "title": "Al Nassr",
@@ -7,9 +7,19 @@
       "pubdate": "Tue, 01 Oct 2024 01:00:00 +0300"
     },
     {
-      "title": "Liga Campionilor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liga%20Campionilor",
-      "pubdate": "Tue, 01 Oct 2024 11:00:00 +0300"
+      "title": "Octombrie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Octombrie",
+      "pubdate": "Tue, 01 Oct 2024 08:00:00 +0300"
+    },
+    {
+      "title": "CSU Craiova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSU%20Craiova",
+      "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Visa Waiver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Visa%20Waiver",
+      "pubdate": "Tue, 01 Oct 2024 14:00:00 +0300"
     },
     {
       "title": "October",
@@ -62,19 +72,24 @@
       "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
     },
     {
+      "title": "Roberta Anastase",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Roberta%20Anastase",
+      "pubdate": "Mon, 30 Sep 2024 12:00:00 +0300"
+    },
+    {
       "title": "Iuliana Tudor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iuliana%20Tudor",
       "pubdate": "Mon, 30 Sep 2024 00:00:00 +0300"
     },
     {
-      "title": "Al Nasr Dubai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nasr%20Dubai",
-      "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
-    },
-    {
       "title": "Halep",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep",
       "pubdate": "Mon, 30 Sep 2024 19:00:00 +0300"
+    },
+    {
+      "title": "Al Nasr Dubai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Nasr%20Dubai",
+      "pubdate": "Mon, 30 Sep 2024 23:00:00 +0300"
     },
     {
       "title": "30 septembrie",
@@ -85,21 +100,6 @@
       "title": "Diana enache",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20enache",
       "pubdate": "Mon, 30 Sep 2024 17:00:00 +0300"
-    },
-    {
-      "title": "CNAS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CNAS",
-      "pubdate": "Mon, 30 Sep 2024 16:00:00 +0300"
-    },
-    {
-      "title": "PAOK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PAOK",
-      "pubdate": "Mon, 30 Sep 2024 00:00:00 +0300"
-    },
-    {
-      "title": "USV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#USV",
-      "pubdate": "Mon, 30 Sep 2024 12:00:00 +0300"
     }
   ]
 }

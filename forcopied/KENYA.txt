@@ -1,1 +1,1 @@
-TSC,Careers,Villarreal,October,Antoine Griezmann,The star newspaper,URL,SHA,Bournemouth vs Southampton,Morara,Gachagua impeachment,Al-Nassr vs Al Rayyan,Dikembe Mutombo,Arsenal vs PSG,UEFA Champions League,Waititu,UCL,Real madrid FC,Wayne Rooney,Kylian mbappé
+TSC,Careers,October,Villarreal,Samuel Eto,Uefa,The star newspaper,URL,Antoine Griezmann,SHA,Bournemouth vs Southampton,Gachagua impeachment,Morara,Al-Nassr vs Al Rayyan,Dikembe Mutombo,Arsenal vs PSG,UEFA Champions League,Waititu,Real madrid FC,UCL
