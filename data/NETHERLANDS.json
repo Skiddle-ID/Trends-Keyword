@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2024 , 23:36:32",
+  "lastUpdate": "01-10-2024 , 02:11:34",
   "data": [
     {
       "title": "Kris Kristofferson",
@@ -32,16 +32,6 @@
       "pubdate": "Mon, 30 Sep 2024 01:00:00 +0200"
     },
     {
-      "title": "Jong Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
-      "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Griezmann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griezmann",
-      "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
-    },
-    {
       "title": "Wegenbelasting elektrische auto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wegenbelasting%20elektrische%20auto",
       "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
@@ -52,14 +42,9 @@
       "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
-      "title": "AZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-      "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
-    },
-    {
       "title": "Vitesse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-      "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
+      "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
     },
     {
       "title": "FC Utrecht",
@@ -70,6 +55,11 @@
       "title": "Cambuur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
       "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Ihattaren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ihattaren",
+      "pubdate": "Sun, 29 Sep 2024 20:00:00 +0200"
     },
     {
       "title": "Reinout Oerlemans",
@@ -100,6 +90,16 @@
       "title": "Nasrallah",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nasrallah",
       "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Storm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+      "pubdate": "Fri, 27 Sep 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Roda JC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
+      "pubdate": "Fri, 27 Sep 2024 23:00:00 +0200"
     }
   ]
 }
