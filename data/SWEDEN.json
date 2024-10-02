@@ -1,20 +1,35 @@
 {
-  "lastUpdate": "02-10-2024 , 11:35:58",
+  "lastUpdate": "02-10-2024 , 12:58:34",
   "data": [
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-      "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
-    },
     {
       "title": "JD Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
       "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
+      "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
+    },
+    {
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michael%20Schumacher",
       "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Ljusdals kommun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ljusdals%20kommun",
+      "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Jordanien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jordanien",
+      "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Förrädarna 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna%202024",
+      "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Champions League",
@@ -27,14 +42,9 @@
       "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Arsenal mot PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal%20mot%20PSG",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Israel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel",
-      "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "CNN",
@@ -57,29 +67,24 @@
       "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Oskar Vuollet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oskar%20Vuollet",
-      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Isa Östling",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Isa%20%C3%96stling",
       "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Anna Kinberg Batras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Kinberg%20Batras",
+      "title": "Oskar Vuollet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Oskar%20Vuollet",
+      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Tel Aviv",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tel%20Aviv",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Sollentuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sollentuna",
-      "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Maximilian Ibrahimović",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maximilian%20Ibrahimovi%C4%87",
-      "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
+      "title": "Anna Kinberg Batras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Kinberg%20Batras",
+      "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Mackmyra",
@@ -90,11 +95,6 @@
       "title": "Kajsa Ekis Ekman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kajsa%20Ekis%20Ekman",
       "pubdate": "Tue, 01 Oct 2024 01:00:00 +0200"
-    },
-    {
-      "title": "News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#News",
-      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
       "title": "Palestina",

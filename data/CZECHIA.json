@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 11:35:49",
+  "lastUpdate": "02-10-2024 , 12:58:27",
   "data": [
     {
       "title": "John Amos",
@@ -12,8 +12,8 @@
       "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Skoda Elroq",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Elroq",
+      "title": "Elroq",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elroq",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
@@ -52,14 +52,14 @@
       "pubdate": "Tue, 01 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Joker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joker",
-      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
-    },
-    {
       "title": "CNN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CNN",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Joker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joker",
+      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
       "title": "Gavin Creel",
@@ -82,14 +82,9 @@
       "pubdate": "Tue, 01 Oct 2024 10:00:00 +0200"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
-      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Írán",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%8Dr%C3%A1n",
-      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+      "title": "Irán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ir%C3%A1n",
+      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
       "title": "Mark Rutte",
@@ -100,6 +95,11 @@
       "title": "ALS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ALS",
       "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Katka Říhová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katka%20%C5%98%C3%ADhov%C3%A1",
+      "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
     }
   ]
 }

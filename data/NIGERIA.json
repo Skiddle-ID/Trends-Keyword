@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 11:35:55",
+  "lastUpdate": "02-10-2024 , 12:58:32",
   "data": [
     {
       "title": "Israel",
@@ -17,8 +17,13 @@
       "pubdate": "Wed, 02 Oct 2024 11:00:00 +0100"
     },
     {
-      "title": "Barcelona vs Young",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Young",
+      "title": "Liverpool vs Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Bologna",
+      "pubdate": "Wed, 02 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
     },
     {
@@ -32,11 +37,6 @@
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0100"
-    },
-    {
       "title": "Dortmund vs Celtic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20Celtic",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
@@ -45,6 +45,11 @@
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr",
       "pubdate": "Tue, 01 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Zenith Bank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Zenith%20Bank",
+      "pubdate": "Tue, 01 Oct 2024 17:00:00 +0100"
     },
     {
       "title": "Barca",
@@ -72,9 +77,9 @@
       "pubdate": "Tue, 01 Oct 2024 21:00:00 +0100"
     },
     {
-      "title": "Mahmoud Ahmadinejad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mahmoud%20Ahmadinejad",
-      "pubdate": "Tue, 01 Oct 2024 10:00:00 +0100"
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
+      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0100"
     },
     {
       "title": "PSV",
@@ -90,11 +95,6 @@
       "title": "October",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#October",
       "pubdate": "Tue, 01 Oct 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Jimmy Carter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jimmy%20Carter",
-      "pubdate": "Tue, 01 Oct 2024 18:00:00 +0100"
     },
     {
       "title": "John Amos",
