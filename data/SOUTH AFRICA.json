@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2024 , 23:35:48",
+  "lastUpdate": "02-10-2024 , 01:57:38",
   "data": [
     {
       "title": "Arsenal vs PSG",
@@ -32,14 +32,14 @@
       "pubdate": "Tue, 01 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Newcastle vs AFC Wimbledon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20AFC%20Wimbledon",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Israel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Israel",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Barcelona FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
+      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Inter Milan",
@@ -52,9 +52,14 @@
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Duma Ndlovu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Duma%20Ndlovu",
-      "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
+      "title": "Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
+      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Inter vs Crvena zvezda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20vs%20Crvena%20zvezda",
+      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "October",
@@ -65,11 +70,6 @@
       "title": "Champions League fixtures",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Champions%20League%20fixtures",
       "pubdate": "Tue, 01 Oct 2024 14:00:00 +0200"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
-      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
     },
     {
       "title": "Sparta Prague",
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 01 Oct 2024 07:00:00 +0200"
     },
     {
-      "title": "Burnley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnley",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Michael%20Schumacher",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Duma Ndlovu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Duma%20Ndlovu",
+      "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
     }
   ]
 }

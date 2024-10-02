@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-10-2024 , 23:35:45",
+  "lastUpdate": "02-10-2024 , 01:57:34",
   "data": [
     {
-      "title": "ארסנל",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A8%D7%A1%D7%A0%D7%9C",
+      "title": "התרת נדרים",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%AA%D7%A8%D7%AA%20%D7%A0%D7%93%D7%A8%D7%99%D7%9D",
       "pubdate": "Wed, 02 Oct 2024 01:00:00 +0300"
+    },
+    {
+      "title": "גדרה",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%92%D7%93%D7%A8%D7%94",
+      "pubdate": "Wed, 02 Oct 2024 00:00:00 +0300"
     },
     {
       "title": "Jimmy Carter",
@@ -17,6 +22,11 @@
       "pubdate": "Tue, 01 Oct 2024 17:00:00 +0300"
     },
     {
+      "title": "חדשות",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%93%D7%A9%D7%95%D7%AA",
+      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0300"
+    },
+    {
       "title": "איראן",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%A8%D7%90%D7%9F",
       "pubdate": "Tue, 01 Oct 2024 18:00:00 +0300"
@@ -27,13 +37,13 @@
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0300"
     },
     {
-      "title": "פיקוד העורף התרעות",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%99%D7%A7%D7%95%D7%93%20%D7%94%D7%A2%D7%95%D7%A8%D7%A3%20%D7%94%D7%AA%D7%A8%D7%A2%D7%95%D7%AA",
+      "title": "פיגוע ביפו",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%99%D7%92%D7%95%D7%A2%20%D7%91%D7%99%D7%A4%D7%95",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0300"
     },
     {
-      "title": "פיגוע ביפו",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%99%D7%92%D7%95%D7%A2%20%D7%91%D7%99%D7%A4%D7%95",
+      "title": "פיקוד העורף התרעות",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%99%D7%A7%D7%95%D7%93%20%D7%94%D7%A2%D7%95%D7%A8%D7%A3%20%D7%94%D7%AA%D7%A8%D7%A2%D7%95%D7%AA",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0300"
     },
     {
@@ -45,11 +55,6 @@
       "title": "אוגדה 98",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%92%D7%93%D7%94%2098",
       "pubdate": "Tue, 01 Oct 2024 00:00:00 +0300"
-    },
-    {
-      "title": "BBC news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#BBC%20news",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0300"
     },
     {
       "title": "Israel news",
@@ -95,11 +100,6 @@
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#New%20York%20Times",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0300"
-    },
-    {
-      "title": "13",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#13",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0300"
     }
   ]
 }
