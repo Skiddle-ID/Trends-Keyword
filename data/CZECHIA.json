@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 23:35:51",
+  "lastUpdate": "03-10-2024 , 01:58:01",
   "data": [
     {
       "title": "Sára Rychlíková",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Girona – Feyenoord",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Feyenoord",
-      "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "Marek Ztracený",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Ztracen%C3%BD",
       "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Jiří Dienstbier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Dienstbier",
+      "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
       "title": "John Amos",
@@ -22,9 +22,9 @@
       "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Liverpool – Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool%20%E2%80%93%20Bologna",
-      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+      "title": "Antonie Formanová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Antonie%20Formanov%C3%A1",
+      "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
     },
     {
       "title": "Paulová",
@@ -42,11 +42,6 @@
       "pubdate": "Wed, 02 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Prsteny moci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prsteny%20moci",
-      "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Embraer C-390 Millennium",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Embraer%20C-390%20Millennium",
       "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
@@ -62,9 +57,19 @@
       "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
+      "title": "Epstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Epstein",
+      "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
+    },
+    {
       "title": "Elroq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elroq",
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Liga mistrů",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
+      "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Jan Lipavský",
@@ -82,11 +87,6 @@
       "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
     },
     {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Barcelona",
-      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Throne and Liberty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Throne%20and%20Liberty",
       "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Kalousek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kalousek",
-      "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
+      "title": "AC Sparta Praha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Sparta%20Praha",
+      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     }
   ]
 }

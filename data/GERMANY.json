@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 23:35:52",
+  "lastUpdate": "03-10-2024 , 01:58:02",
   "data": [
     {
       "title": "Marburg-Virus",
@@ -12,14 +12,24 @@
       "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Tag der Deutschen Einheit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit",
-      "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+      "title": "Tessa Ganserer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tessa%20Ganserer",
+      "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juventus",
-      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+      "title": "Michael Ballweg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Ballweg",
+      "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+    },
+    {
+      "title": "Guterres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Guterres",
+      "pubdate": "Wed, 02 Oct 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Schwerin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwerin",
+      "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Champions League",
@@ -29,7 +39,12 @@
     {
       "title": "Israel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
-      "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+      "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+    },
+    {
+      "title": "BVB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "VfB Stuttgart",
@@ -37,9 +52,9 @@
       "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Adeyemi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adeyemi",
-      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+      "title": "VfB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+      "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Skoda Elroq",
@@ -47,9 +62,14 @@
       "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "John Amos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#John%20Amos",
-      "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
+      "title": "Tel Aviv",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tel%20Aviv",
+      "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Israel Krieg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel%20Krieg",
+      "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Covestro",
@@ -67,11 +87,6 @@
       "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Iran greift Israel an",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran%20greift%20Israel%20an",
-      "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Kris Kristofferson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kris%20Kristofferson",
       "pubdate": "Mon, 30 Sep 2024 04:00:00 +0200"
@@ -85,21 +100,6 @@
       "title": "Essen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Essen",
       "pubdate": "Sun, 29 Sep 2024 04:00:00 +0200"
-    },
-    {
-      "title": "Werder Bremen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-      "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Eintracht Frankfurt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-      "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Hertha BSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-      "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
     }
   ]
 }
