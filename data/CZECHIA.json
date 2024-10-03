@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 11:35:47",
+  "lastUpdate": "03-10-2024 , 12:58:35",
   "data": [
     {
       "title": "Marburg",
@@ -12,14 +12,14 @@
       "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "3.10",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#3.10",
-      "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
-    },
-    {
       "title": "Fondee",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fondee",
       "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Michael Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Schumacher",
+      "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
     },
     {
       "title": "Marek Ztracený",
@@ -39,16 +39,6 @@
     {
       "title": "John Amos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Amos",
-      "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Schumacher",
-      "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
       "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
     },
     {
@@ -92,14 +82,24 @@
       "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Prsteny moci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prsteny%20moci",
-      "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Jd Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jd%20Vance",
       "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Elroq",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elroq",
+      "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Liga mistrů",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
+      "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Jan Lipavský",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Lipavsk%C3%BD",
+      "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
     }
   ]
 }

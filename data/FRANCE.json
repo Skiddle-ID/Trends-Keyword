@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "03-10-2024 , 11:35:48",
+  "lastUpdate": "03-10-2024 , 12:58:37",
   "data": [
-    {
-      "title": "Golden Bachelor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Golden%20Bachelor",
-      "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
-    },
     {
       "title": "Chouette d'or",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chouette%20d'or",
       "pubdate": "Thu, 03 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Golden Bachelor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Golden%20Bachelor",
+      "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
     },
     {
       "title": "Inter Miami",
@@ -17,9 +17,24 @@
       "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
     },
     {
+      "title": "Poiscaille",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Poiscaille",
+      "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
+    },
+    {
       "title": "Villers cotterets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Villers%20cotterets",
       "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Thibault de Montaigu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thibault%20de%20Montaigu",
+      "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Banksy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Banksy",
+      "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
     },
     {
       "title": "Neyrpic",
@@ -32,11 +47,6 @@
       "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Aston Villa – Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aston%20Villa%20%E2%80%93%20Bayern",
-      "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "Joker 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joker%202",
       "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
@@ -47,14 +57,19 @@
       "pubdate": "Wed, 02 Oct 2024 11:00:00 +0200"
     },
     {
+      "title": "Aston Villa – Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aston%20Villa%20%E2%80%93%20Bayern",
+      "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
+    },
+    {
       "title": "Laurent Gerra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Gerra",
       "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Un pere ideal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Un%20pere%20ideal",
-      "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
+      "title": "Millie Bobby Brown",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Millie%20Bobby%20Brown",
+      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Luis Enrique",
@@ -72,8 +87,8 @@
       "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
     },
     {
-      "title": "Millie Bobby Brown",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Millie%20Bobby%20Brown",
+      "title": "Claude Malhuret",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Malhuret",
       "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     },
     {
@@ -82,24 +97,9 @@
       "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
     },
     {
-      "title": "Claude Malhuret",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Malhuret",
-      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Coperni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coperni",
-      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Roselyne Bachelot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roselyne%20Bachelot",
       "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Hedi Slimane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hedi%20Slimane",
-      "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
     }
   ]
 }
