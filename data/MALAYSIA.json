@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2024 , 11:36:12",
+  "lastUpdate": "04-10-2024 , 12:58:02",
   "data": [
     {
       "title": "Manchester United",
@@ -47,6 +47,11 @@
       "pubdate": "Fri, 04 Oct 2024 06:00:00 +0800"
     },
     {
+      "title": "Chagos Islands Diego Garcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chagos%20Islands%20Diego%20Garcia",
+      "pubdate": "Fri, 04 Oct 2024 15:00:00 +0800"
+    },
+    {
       "title": "Porto vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Porto%20vs%20Man%20United",
       "pubdate": "Thu, 03 Oct 2024 01:00:00 +0800"
@@ -69,7 +74,7 @@
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid",
-      "pubdate": "Thu, 03 Oct 2024 10:00:00 +0800"
+      "pubdate": "Thu, 03 Oct 2024 09:00:00 +0800"
     },
     {
       "title": "Inter Miami",
@@ -95,11 +100,6 @@
       "title": "Pakistan Women vs Sri Lanka Women",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pakistan%20Women%20vs%20Sri%20Lanka%20Women",
       "pubdate": "Thu, 03 Oct 2024 23:00:00 +0800"
-    },
-    {
-      "title": "Real Madrid CF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid%20CF",
-      "pubdate": "Thu, 03 Oct 2024 09:00:00 +0800"
     }
   ]
 }
