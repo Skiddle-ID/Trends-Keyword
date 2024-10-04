@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "03-10-2024 , 23:36:12",
+  "lastUpdate": "04-10-2024 , 01:58:03",
   "data": [
+    {
+      "title": "Paul van Gorcum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paul%20van%20Gorcum",
+      "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+    },
     {
       "title": "Enschede",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Enschede",
       "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
+      "title": "FC Twente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+      "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
+    },
+    {
       "title": "Slavia Praag  Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Slavia%20Praag%20%20Ajax",
       "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Twente",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
-      "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
     },
     {
       "title": "AZ",
@@ -35,11 +40,6 @@
       "title": "Andrew Tate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andrew%20Tate",
       "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Marburgvirus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marburgvirus",
-      "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
     },
     {
       "title": "Melania Trump",
@@ -65,11 +65,6 @@
       "title": "Martin Schröder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Martin%20Schr%C3%B6der",
       "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Louis Vuitton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Louis%20Vuitton",
-      "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Oekraïne",
@@ -100,6 +95,11 @@
       "title": "Anna Gimbrere",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbrere",
       "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Amersfoort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+      "pubdate": "Mon, 30 Sep 2024 13:00:00 +0200"
     }
   ]
 }

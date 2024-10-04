@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-10-2024 , 23:36:14",
+  "lastUpdate": "04-10-2024 , 01:58:05",
   "data": [
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray",
+      "pubdate": "Fri, 04 Oct 2024 01:00:00 +0200"
+    },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
-      "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
+      "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Porto vs Man United",
@@ -17,14 +22,14 @@
       "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Ferencváros vs Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ferencv%C3%A1ros%20vs%20Tottenham",
-      "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "Columbus vs Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Columbus%20vs%20Inter%20Miami",
       "pubdate": "Thu, 03 Oct 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Ferencváros vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ferencv%C3%A1ros%20vs%20Tottenham",
+      "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "National Boyfriend Day",
@@ -40,11 +45,6 @@
       "title": "Bafana Bafana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
       "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Europa Conference League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20Conference%20League",
-      "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Real Sociedad",
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
     },
     {
+      "title": "Rangers vs Lyon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rangers%20vs%20Lyon",
+      "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
+    },
+    {
       "title": "Vitiligo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vitiligo",
       "pubdate": "Thu, 03 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Chagos Islands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chagos%20Islands",
-      "pubdate": "Thu, 03 Oct 2024 23:00:00 +0200"
     }
   ]
 }

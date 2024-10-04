@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 23:36:09",
+  "lastUpdate": "04-10-2024 , 01:57:59",
   "data": [
     {
       "title": "Heartstopper",
@@ -32,14 +32,14 @@
       "pubdate": "Thu, 03 Oct 2024 17:00:00 +0300"
     },
     {
-      "title": "Maradona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maradona",
-      "pubdate": "Thu, 03 Oct 2024 20:00:00 +0300"
-    },
-    {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eminem",
       "pubdate": "Thu, 03 Oct 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Maradona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maradona",
+      "pubdate": "Thu, 03 Oct 2024 20:00:00 +0300"
     },
     {
       "title": "Joker: Folie à Deux",
