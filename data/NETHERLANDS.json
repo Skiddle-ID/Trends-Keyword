@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "04-10-2024 , 23:35:30",
+  "lastUpdate": "05-10-2024 , 01:56:21",
   "data": [
-    {
-      "title": "Eveline Stallaart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eveline%20Stallaart",
-      "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
-    },
     {
       "title": "Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
@@ -22,23 +17,18 @@
       "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "FC Den Bosch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
-      "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Robert ten Brink",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robert%20ten%20Brink",
       "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
     },
     {
-      "title": "Cambuur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+      "title": "FC Den Bosch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
       "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Helmond Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport",
+      "title": "Cambuur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
       "pubdate": "Fri, 04 Oct 2024 21:00:00 +0200"
     },
     {
@@ -52,14 +42,14 @@
       "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Enschede",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Enschede",
-      "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
-    },
-    {
       "title": "Susanne De Roy van Zuidewijn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Susanne%20De%20Roy%20van%20Zuidewijn",
       "pubdate": "Fri, 04 Oct 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Enschede",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Enschede",
+      "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
     },
     {
       "title": "Dierendag",
@@ -100,6 +90,16 @@
       "title": "Anna Gimbrere",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbrere",
       "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Amersfoort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+      "pubdate": "Mon, 30 Sep 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atletico%20Madrid",
+      "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
     }
   ]
 }

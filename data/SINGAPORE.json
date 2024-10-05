@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-10-2024 , 23:35:32",
+  "lastUpdate": "05-10-2024 , 01:56:23",
   "data": [
+    {
+      "title": "Car Expo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Car%20Expo",
+      "pubdate": "Sat, 05 Oct 2024 09:00:00 +0800"
+    },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
@@ -42,6 +47,11 @@
       "pubdate": "Fri, 04 Oct 2024 00:00:00 +0800"
     },
     {
+      "title": "Tina Peters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tina%20Peters",
+      "pubdate": "Fri, 04 Oct 2024 22:00:00 +0800"
+    },
+    {
       "title": "Iswaran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iswaran",
       "pubdate": "Thu, 03 Oct 2024 10:00:00 +0800"
@@ -60,11 +70,6 @@
       "title": "Port FC vs Lion City Sailors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Port%20FC%20vs%20Lion%20City%20Sailors",
       "pubdate": "Thu, 03 Oct 2024 21:00:00 +0800"
-    },
-    {
-      "title": "Coldplay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Coldplay",
-      "pubdate": "Thu, 03 Oct 2024 08:00:00 +0800"
     },
     {
       "title": "Alcaraz",
@@ -95,11 +100,6 @@
       "title": "Iran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
       "pubdate": "Tue, 01 Oct 2024 23:00:00 +0800"
-    },
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
-      "pubdate": "Tue, 01 Oct 2024 04:00:00 +0800"
     }
   ]
 }

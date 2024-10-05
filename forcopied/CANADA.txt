@@ -1,1 +1,1 @@
-Joker 2,Earthquake Vancouver,Michel Blanc,Apple cider,Mike Lawler,Sabrina Kauldhar,Nuit Blanche,NHL regular-season,Dale,Bat rabies death,CEGEP Valleyfield,Jack Campbell,Kayla Harrison,Bruce Springsteen,Incendie Vieux montreal,Robin Lehner,Rings of Power season 3,Tyson Barrie,Saoirse Ronan,FEMA
+Joker 2,Earthquake Vancouver,Michel Blanc,Apple cider,NBA,Mike Lawler,Sabrina Kauldhar,Jacob Hoggard,Jack Campbell,New Jersey Devils,Dale,Bat rabies death,CEGEP Valleyfield,The Platform 2,Joy Behar,Bruce Springsteen,Tom Selleck,Incendie Vieux montreal,Saoirse Ronan,Robin Lehner
