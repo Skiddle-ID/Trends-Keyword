@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2024 , 23:35:56",
+  "lastUpdate": "06-10-2024 , 02:09:14",
   "data": [
     {
       "title": "Inter vs Torino",
@@ -12,6 +12,26 @@
       "pubdate": "Sun, 06 Oct 2024 03:00:00 +0700"
     },
     {
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Nassr",
+      "pubdate": "Sun, 06 Oct 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund",
+      "pubdate": "Sun, 06 Oct 2024 07:00:00 +0700"
+    },
+    {
+      "title": "KV Mechelen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#KV%20Mechelen",
+      "pubdate": "Sun, 06 Oct 2024 06:00:00 +0700"
+    },
+    {
+      "title": "Madrid vs Villarreal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Villarreal",
+      "pubdate": "Sat, 05 Oct 2024 16:00:00 +0700"
+    },
+    {
       "title": "Crystal Palace vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crystal%20Palace%20vs%20Liverpool",
       "pubdate": "Sat, 05 Oct 2024 18:00:00 +0700"
@@ -20,11 +40,6 @@
       "title": "Man City vs Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Fulham",
       "pubdate": "Sat, 05 Oct 2024 21:00:00 +0700"
-    },
-    {
-      "title": "Madrid vs Villarreal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20Villarreal",
-      "pubdate": "Sat, 05 Oct 2024 16:00:00 +0700"
     },
     {
       "title": "Arsenal vs Southampton",
@@ -40,11 +55,6 @@
       "title": "Leverkusen vs Holstein Kiel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leverkusen%20vs%20Holstein%20Kiel",
       "pubdate": "Sat, 05 Oct 2024 20:00:00 +0700"
-    },
-    {
-      "title": "Romo Benny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Romo%20Benny",
-      "pubdate": "Sat, 05 Oct 2024 09:00:00 +0700"
     },
     {
       "title": "Everton vs Newcastle",
@@ -77,29 +87,19 @@
       "pubdate": "Sat, 05 Oct 2024 01:00:00 +0700"
     },
     {
-      "title": "Hashem Safieddine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hashem%20Safieddine",
-      "pubdate": "Sat, 05 Oct 2024 12:00:00 +0700"
-    },
-    {
       "title": "Brisbane Roar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brisbane%20Roar",
       "pubdate": "Sat, 05 Oct 2024 15:00:00 +0700"
     },
     {
+      "title": "Hashem Safieddine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Hashem%20Safieddine",
+      "pubdate": "Sat, 05 Oct 2024 12:00:00 +0700"
+    },
+    {
       "title": "Nike Ardilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nike%20Ardilla",
       "pubdate": "Sat, 05 Oct 2024 15:00:00 +0700"
-    },
-    {
-      "title": "Jese Rodriguez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jese%20Rodriguez",
-      "pubdate": "Sat, 05 Oct 2024 19:00:00 +0700"
-    },
-    {
-      "title": "NBA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#NBA",
-      "pubdate": "Sat, 05 Oct 2024 09:00:00 +0700"
     }
   ]
 }
