@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 11:36:43",
+  "lastUpdate": "06-10-2024 , 12:55:04",
   "data": [
     {
       "title": "UFC",
@@ -22,9 +22,14 @@
       "pubdate": "Sun, 06 Oct 2024 11:00:00 +0800"
     },
     {
-      "title": "Arsenal vs Southampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Southampton",
-      "pubdate": "Sat, 05 Oct 2024 22:00:00 +0800"
+      "title": "Golden apple snail",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Golden%20apple%20snail",
+      "pubdate": "Sun, 06 Oct 2024 19:00:00 +0800"
+    },
+    {
+      "title": "Aston Villa vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa%20vs%20Man%20United",
+      "pubdate": "Sun, 06 Oct 2024 20:00:00 +0800"
     },
     {
       "title": "Glenda Chong",
@@ -95,11 +100,6 @@
       "title": "Ong Beng Seng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ong%20Beng%20Seng",
       "pubdate": "Thu, 03 Oct 2024 18:00:00 +0800"
-    },
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
-      "pubdate": "Thu, 03 Oct 2024 04:00:00 +0800"
     }
   ]
 }
