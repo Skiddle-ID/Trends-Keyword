@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 23:36:50",
+  "lastUpdate": "07-10-2024 , 02:05:44",
   "data": [
     {
       "title": "Alavés - Barcelona",
@@ -7,9 +7,9 @@
       "pubdate": "Sun, 06 Oct 2024 08:00:00 -0600"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City",
-      "pubdate": "Sun, 06 Oct 2024 07:00:00 -0600"
+      "title": "Steelers  Cowboys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Steelers%20%20Cowboys",
+      "pubdate": "Sun, 06 Oct 2024 13:00:00 -0600"
     },
     {
       "title": "Frankfurt  Bayern",
@@ -27,6 +27,11 @@
       "pubdate": "Sun, 06 Oct 2024 08:00:00 -0600"
     },
     {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City",
+      "pubdate": "Sun, 06 Oct 2024 07:00:00 -0600"
+    },
+    {
       "title": "Niza  PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Niza%20%20PSG",
       "pubdate": "Sun, 06 Oct 2024 13:00:00 -0600"
@@ -35,6 +40,16 @@
       "title": "Vikings  Jets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Vikings%20%20Jets",
       "pubdate": "Sun, 06 Oct 2024 09:00:00 -0600"
+    },
+    {
+      "title": "Sammy Basso progeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sammy%20Basso%20progeria",
+      "pubdate": "Sun, 06 Oct 2024 11:00:00 -0600"
+    },
+    {
+      "title": "Bengals  Ravens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals%20%20Ravens",
+      "pubdate": "Sun, 06 Oct 2024 12:00:00 -0600"
     },
     {
       "title": "Omar chavez vs Misael rodriguez",
@@ -47,9 +62,14 @@
       "pubdate": "Sun, 06 Oct 2024 14:00:00 -0600"
     },
     {
-      "title": "Bengals  Ravens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals%20%20Ravens",
-      "pubdate": "Sun, 06 Oct 2024 12:00:00 -0600"
+      "title": "49ers  Cardinals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#49ers%20%20Cardinals",
+      "pubdate": "Sun, 06 Oct 2024 15:00:00 -0600"
+    },
+    {
+      "title": "Texans,  Bills",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Texans,%20%20Bills",
+      "pubdate": "Sun, 06 Oct 2024 13:00:00 -0600"
     },
     {
       "title": "Juventus",
@@ -62,11 +82,6 @@
       "pubdate": "Sun, 06 Oct 2024 08:00:00 -0600"
     },
     {
-      "title": "Sammy Basso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sammy%20Basso",
-      "pubdate": "Sun, 06 Oct 2024 11:00:00 -0600"
-    },
-    {
       "title": "Brighton  Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Tottenham",
       "pubdate": "Sun, 06 Oct 2024 11:00:00 -0600"
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 06 Oct 2024 08:00:00 -0600"
     },
     {
-      "title": "Texans,  Bills",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Texans,%20%20Bills",
-      "pubdate": "Sun, 06 Oct 2024 13:00:00 -0600"
-    },
-    {
       "title": "Sevilla vs Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sevilla%20vs%20Betis",
       "pubdate": "Sun, 06 Oct 2024 12:00:00 -0600"
     },
     {
-      "title": "Patriots  Dolphins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Patriots%20%20Dolphins",
-      "pubdate": "Sun, 06 Oct 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Box Azteca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Box%20Azteca",
-      "pubdate": "Sun, 06 Oct 2024 00:00:00 -0600"
-    },
-    {
-      "title": "Michael Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Michael%20Schumacher",
-      "pubdate": "Sun, 06 Oct 2024 08:00:00 -0600"
+      "title": "Seahawks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seahawks",
+      "pubdate": "Sun, 06 Oct 2024 16:00:00 -0600"
     }
   ]
 }
