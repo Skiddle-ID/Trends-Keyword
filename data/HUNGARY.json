@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2024 , 11:36:07",
+  "lastUpdate": "09-10-2024 , 12:58:09",
   "data": [
     {
       "title": "Tesla",
@@ -12,8 +12,28 @@
       "pubdate": "Wed, 09 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "Florida",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Florida",
+      "title": "Andrew garfield",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andrew%20garfield",
+      "pubdate": "Wed, 09 Oct 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Manfred Weber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manfred%20Weber",
+      "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Ilaria Salis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ilaria%20Salis",
+      "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Orbán Viktor strasbourg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor%20strasbourg",
+      "pubdate": "Wed, 09 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Milton hurrikán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milton%20hurrik%C3%A1n",
       "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
     },
     {
@@ -27,11 +47,6 @@
       "pubdate": "Tue, 08 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Eltűnt Jenő polgármestere",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elt%C5%B1nt%20Jen%C5%91%20polg%C3%A1rmestere",
-      "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
-    },
-    {
       "title": "Kirk hurrikán",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kirk%20hurrik%C3%A1n",
       "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
@@ -42,9 +57,19 @@
       "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     },
     {
+      "title": "Pankotai Lili",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pankotai%20Lili",
+      "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
+    },
+    {
       "title": "Lisa Marie Presley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lisa%20Marie%20Presley",
       "pubdate": "Tue, 08 Oct 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Eltűnt Jenő polgármestere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elt%C5%B1nt%20Jen%C5%91%20polg%C3%A1rmestere",
+      "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Sammy Basso",
@@ -75,31 +100,6 @@
       "title": "Al Pacino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Pacino",
       "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Erőművek Éjszakája",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Er%C5%91m%C5%B1vek%20%C3%89jszak%C3%A1ja",
-      "pubdate": "Tue, 08 Oct 2024 10:00:00 +0200"
-    },
-    {
-      "title": "A tehetség",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20tehets%C3%A9g",
-      "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Ördög Nóra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%96rd%C3%B6g%20N%C3%B3ra",
-      "pubdate": "Tue, 08 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sárközi Ákos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1rk%C3%B6zi%20%C3%81kos",
-      "pubdate": "Tue, 08 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Deryck Whibley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Deryck%20Whibley",
-      "pubdate": "Tue, 08 Oct 2024 16:00:00 +0200"
     }
   ]
 }

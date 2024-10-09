@@ -1,19 +1,14 @@
 {
-  "lastUpdate": "09-10-2024 , 11:36:05",
+  "lastUpdate": "09-10-2024 , 12:58:07",
   "data": [
     {
-      "title": "NHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NHL",
-      "pubdate": "Wed, 09 Oct 2024 00:00:00 -0400"
+      "title": "Dodgers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
+      "pubdate": "Wed, 09 Oct 2024 01:00:00 -0400"
     },
     {
       "title": "B.C debate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#B.C%20debate",
-      "pubdate": "Wed, 09 Oct 2024 00:00:00 -0400"
-    },
-    {
-      "title": "The Housemaid movie Sydney Sweeney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Housemaid%20movie%20Sydney%20Sweeney",
       "pubdate": "Wed, 09 Oct 2024 00:00:00 -0400"
     },
     {
@@ -22,14 +17,24 @@
       "pubdate": "Wed, 09 Oct 2024 01:00:00 -0400"
     },
     {
-      "title": "Geoffrey Hinton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Geoffrey%20Hinton",
-      "pubdate": "Tue, 08 Oct 2024 09:00:00 -0400"
+      "title": "LNH",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LNH",
+      "pubdate": "Wed, 09 Oct 2024 08:00:00 -0400"
+    },
+    {
+      "title": "NHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NHL",
+      "pubdate": "Tue, 08 Oct 2024 23:00:00 -0400"
     },
     {
       "title": "Coldplay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coldplay",
       "pubdate": "Tue, 08 Oct 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Geoffrey Hinton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Geoffrey%20Hinton",
+      "pubdate": "Tue, 08 Oct 2024 09:00:00 -0400"
     },
     {
       "title": "Robert Saleh",
@@ -57,6 +62,11 @@
       "pubdate": "Tue, 08 Oct 2024 18:00:00 -0400"
     },
     {
+      "title": "Wind warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wind%20warning",
+      "pubdate": "Tue, 08 Oct 2024 20:00:00 -0400"
+    },
+    {
       "title": "Nell Smith",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nell%20Smith",
       "pubdate": "Tue, 08 Oct 2024 07:00:00 -0400"
@@ -67,14 +77,19 @@
       "pubdate": "Tue, 08 Oct 2024 15:00:00 -0400"
     },
     {
-      "title": "Ouragan Floride",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ouragan%20Floride",
+      "title": "Floride",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Floride",
       "pubdate": "Tue, 08 Oct 2024 09:00:00 -0400"
     },
     {
       "title": "Lisa Marie Presley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lisa%20Marie%20Presley",
       "pubdate": "Tue, 08 Oct 2024 21:00:00 -0400"
+    },
+    {
+      "title": "Disney World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Disney%20World",
+      "pubdate": "Tue, 08 Oct 2024 00:00:00 -0400"
     },
     {
       "title": "Vladimir Putin",
@@ -85,21 +100,6 @@
       "title": "Northern lights",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northern%20lights",
       "pubdate": "Tue, 08 Oct 2024 01:00:00 -0400"
-    },
-    {
-      "title": "Aurora borealis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurora%20borealis",
-      "pubdate": "Tue, 08 Oct 2024 02:00:00 -0400"
-    },
-    {
-      "title": "Ali Wong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ali%20Wong",
-      "pubdate": "Tue, 08 Oct 2024 19:00:00 -0400"
-    },
-    {
-      "title": "Garth Brooks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Garth%20Brooks",
-      "pubdate": "Tue, 08 Oct 2024 17:00:00 -0400"
     }
   ]
 }

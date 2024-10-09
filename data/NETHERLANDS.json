@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-10-2024 , 11:36:10",
+  "lastUpdate": "09-10-2024 , 12:58:12",
   "data": [
+    {
+      "title": "Astrid Holleeder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Astrid%20Holleeder",
+      "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
+    },
     {
       "title": "Dennis van Aarssen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dennis%20van%20Aarssen",
@@ -22,13 +27,13 @@
       "pubdate": "Tue, 08 Oct 2024 14:00:00 +0200"
     },
     {
-      "title": "Halsema",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halsema",
-      "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
+      "title": "Joy Beune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joy%20Beune",
+      "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Wilders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilders",
+      "title": "Halsema",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halsema",
       "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     },
     {
@@ -37,14 +42,14 @@
       "pubdate": "Tue, 08 Oct 2024 21:00:00 +0200"
     },
     {
+      "title": "Wilders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilders",
+      "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
+    },
+    {
       "title": "Johan Neeskens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Neeskens",
       "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Hans van Hemert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hans%20van%20Hemert",
-      "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Heracles",
@@ -95,11 +100,6 @@
       "title": "Oktober",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oktober",
       "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Anna Gimbrere",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anna%20Gimbrere",
-      "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
     }
   ]
 }
