@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "08-10-2024 , 23:36:18",
+  "lastUpdate": "09-10-2024 , 01:57:03",
   "data": [
     {
       "title": "Robert Saleh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Saleh",
       "pubdate": "Tue, 08 Oct 2024 08:00:00 -0700"
+    },
+    {
+      "title": "Phillies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phillies",
+      "pubdate": "Tue, 08 Oct 2024 16:00:00 -0700"
     },
     {
       "title": "Taylor Swift",
@@ -17,24 +22,19 @@
       "pubdate": "Tue, 08 Oct 2024 08:00:00 -0700"
     },
     {
+      "title": "Lisa Marie Presley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lisa%20Marie%20Presley",
+      "pubdate": "Tue, 08 Oct 2024 14:00:00 -0700"
+    },
+    {
+      "title": "NHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL",
+      "pubdate": "Tue, 08 Oct 2024 16:00:00 -0700"
+    },
+    {
       "title": "Coldplay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coldplay",
       "pubdate": "Tue, 08 Oct 2024 10:00:00 -0700"
-    },
-    {
-      "title": "NY Jets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NY%20Jets",
-      "pubdate": "Tue, 08 Oct 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Luis Tiant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luis%20Tiant",
-      "pubdate": "Tue, 08 Oct 2024 10:00:00 -0700"
-    },
-    {
-      "title": "Nell Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nell%20Smith",
-      "pubdate": "Tue, 08 Oct 2024 09:00:00 -0700"
     },
     {
       "title": "Utah Hockey Club",
@@ -42,14 +42,34 @@
       "pubdate": "Tue, 08 Oct 2024 10:00:00 -0700"
     },
     {
+      "title": "Luis Tiant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Luis%20Tiant",
+      "pubdate": "Tue, 08 Oct 2024 10:00:00 -0700"
+    },
+    {
+      "title": "Bruins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bruins",
+      "pubdate": "Tue, 08 Oct 2024 16:00:00 -0700"
+    },
+    {
+      "title": "Nell Smith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nell%20Smith",
+      "pubdate": "Tue, 08 Oct 2024 09:00:00 -0700"
+    },
+    {
+      "title": "Spirit Christmas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spirit%20Christmas",
+      "pubdate": "Tue, 08 Oct 2024 08:00:00 -0700"
+    },
+    {
       "title": "Khalen Saunders",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Khalen%20Saunders",
       "pubdate": "Tue, 08 Oct 2024 02:00:00 -0700"
     },
     {
-      "title": "Lisa Marie Presley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lisa%20Marie%20Presley",
-      "pubdate": "Tue, 08 Oct 2024 14:00:00 -0700"
+      "title": "Melania Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Melania%20Trump",
+      "pubdate": "Tue, 08 Oct 2024 17:00:00 -0700"
     },
     {
       "title": "Rwanda Marburg virus disease outbreak",
@@ -57,49 +77,29 @@
       "pubdate": "Tue, 08 Oct 2024 14:00:00 -0700"
     },
     {
-      "title": "Aaron Judge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
-      "pubdate": "Tue, 08 Oct 2024 06:00:00 -0700"
-    },
-    {
       "title": "Colbie Young",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colbie%20Young",
       "pubdate": "Tue, 08 Oct 2024 14:00:00 -0700"
     },
     {
-      "title": "Hurricane Milton tracker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hurricane%20Milton%20tracker",
-      "pubdate": "Mon, 07 Oct 2024 05:00:00 -0700"
+      "title": "Devin White",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Devin%20White",
+      "pubdate": "Tue, 08 Oct 2024 17:00:00 -0700"
     },
     {
-      "title": "Saints vs Chiefs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Saints%20vs%20Chiefs",
-      "pubdate": "Mon, 07 Oct 2024 11:00:00 -0700"
+      "title": "Drake Maye",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20Maye",
+      "pubdate": "Tue, 08 Oct 2024 16:00:00 -0700"
     },
     {
-      "title": "Yankees",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees",
-      "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
+      "title": "Bob Woodward",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20Woodward",
+      "pubdate": "Tue, 08 Oct 2024 17:00:00 -0700"
     },
     {
-      "title": "Whitney Houston",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Whitney%20Houston",
-      "pubdate": "Mon, 07 Oct 2024 13:00:00 -0700"
-    },
-    {
-      "title": "Detroit Tigers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Tigers",
-      "pubdate": "Mon, 07 Oct 2024 16:00:00 -0700"
-    },
-    {
-      "title": "Tigers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tigers",
-      "pubdate": "Mon, 07 Oct 2024 17:00:00 -0700"
-    },
-    {
-      "title": "Amazon Prime Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Amazon%20Prime%20Day",
-      "pubdate": "Mon, 07 Oct 2024 19:00:00 -0700"
+      "title": "Ilona Maher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ilona%20Maher",
+      "pubdate": "Tue, 08 Oct 2024 01:00:00 -0700"
     }
   ]
 }

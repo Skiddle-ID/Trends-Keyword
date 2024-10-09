@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2024 , 23:36:27",
+  "lastUpdate": "09-10-2024 , 01:57:12",
   "data": [
     {
       "title": "Nordea",
@@ -37,14 +37,14 @@
       "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "JLC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JLC",
-      "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
-    },
-    {
       "title": "Geoffrey Hinton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Geoffrey%20Hinton",
       "pubdate": "Tue, 08 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "JLC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JLC",
+      "pubdate": "Tue, 08 Oct 2024 09:00:00 +0200"
     },
     {
       "title": "Maria Weimer",
