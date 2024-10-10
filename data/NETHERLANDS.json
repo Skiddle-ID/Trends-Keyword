@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "09-10-2024 , 23:36:44",
+  "lastUpdate": "10-10-2024 , 01:57:49",
   "data": [
+    {
+      "title": "George Baldock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#George%20Baldock",
+      "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Acteur Hugo Koolschijn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Acteur%20Hugo%20Koolschijn",
+      "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
+    },
     {
       "title": "Astrid Holleeder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Astrid%20Holleeder",
       "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Ratan Tata",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ratan%20Tata",
+      "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Andre Hazes",
@@ -15,21 +30,6 @@
       "title": "Henk Schiffmacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Schiffmacher",
       "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Hugo Koolschijn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hugo%20Koolschijn",
-      "pubdate": "Wed, 09 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Tetris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tetris",
-      "pubdate": "Wed, 09 Oct 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Ugchelen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ugchelen",
-      "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Dacia Bigster",
@@ -52,13 +52,13 @@
       "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     },
     {
-      "title": "Femke Halsema",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Femke%20Halsema",
-      "pubdate": "Tue, 08 Oct 2024 17:00:00 +0200"
-    },
-    {
       "title": "Halsema",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halsema",
+      "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Wilders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilders",
       "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     },
     {

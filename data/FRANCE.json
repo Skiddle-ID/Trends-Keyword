@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-10-2024 , 23:36:40",
+  "lastUpdate": "10-10-2024 , 01:57:46",
   "data": [
+    {
+      "title": "Tariq Ramadan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tariq%20Ramadan",
+      "pubdate": "Thu, 10 Oct 2024 01:00:00 +0200"
+    },
     {
       "title": "Hugo Prevost",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Prevost",
@@ -20,11 +25,6 @@
       "title": "Paris FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC",
       "pubdate": "Wed, 09 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Bernard Cazeneuve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20Cazeneuve",
-      "pubdate": "Wed, 09 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Avion Air France missiles iraniens",
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Mort emile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mort%20emile",
-      "pubdate": "Wed, 09 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Aurélie Trouvé",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aur%C3%A9lie%20Trouv%C3%A9",
       "pubdate": "Wed, 09 Oct 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Trump Donald",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trump%20Donald",
+      "pubdate": "Wed, 09 Oct 2024 12:00:00 +0200"
     }
   ]
 }
