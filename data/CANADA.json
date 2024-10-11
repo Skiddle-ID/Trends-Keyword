@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "11-10-2024 , 11:35:46",
+  "lastUpdate": "11-10-2024 , 12:57:20",
   "data": [
-    {
-      "title": "Aurora lights",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurora%20lights",
-      "pubdate": "Fri, 11 Oct 2024 00:00:00 -0400"
-    },
     {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
@@ -17,14 +12,19 @@
       "pubdate": "Fri, 11 Oct 2024 01:00:00 -0400"
     },
     {
+      "title": "Yom Kippur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yom%20Kippur",
+      "pubdate": "Fri, 11 Oct 2024 07:00:00 -0400"
+    },
+    {
       "title": "El Taiger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#El%20Taiger",
       "pubdate": "Fri, 11 Oct 2024 00:00:00 -0400"
     },
     {
-      "title": "Geno Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Geno%20Smith",
-      "pubdate": "Fri, 11 Oct 2024 00:00:00 -0400"
+      "title": "What are the northern lights",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What%20are%20the%20northern%20lights",
+      "pubdate": "Fri, 11 Oct 2024 08:00:00 -0400"
     },
     {
       "title": "Harry Brook",
@@ -32,8 +32,8 @@
       "pubdate": "Fri, 11 Oct 2024 02:00:00 -0400"
     },
     {
-      "title": "Aurora forecast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurora%20forecast",
+      "title": "Northern lights",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northern%20lights",
       "pubdate": "Thu, 10 Oct 2024 18:00:00 -0400"
     },
     {
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 10 Oct 2024 08:00:00 -0400"
     },
     {
-      "title": "Ottawa Senators",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
-      "pubdate": "Thu, 10 Oct 2024 22:00:00 -0400"
-    },
-    {
       "title": "Canadiens – Bruins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Bruins",
       "pubdate": "Thu, 10 Oct 2024 20:00:00 -0400"
+    },
+    {
+      "title": "Northern lights Ottawa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northern%20lights%20Ottawa",
+      "pubdate": "Thu, 10 Oct 2024 21:00:00 -0400"
     }
   ]
 }

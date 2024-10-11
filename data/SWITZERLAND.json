@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "11-10-2024 , 11:35:54",
+  "lastUpdate": "11-10-2024 , 12:57:27",
   "data": [
     {
       "title": "Tesla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla",
       "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Haaland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haaland",
+      "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
     },
     {
       "title": "Putin",
@@ -17,8 +22,8 @@
       "pubdate": "Fri, 11 Oct 2024 01:00:00 +0200"
     },
     {
-      "title": "Kaisten Gemeindeammann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kaisten%20Gemeindeammann",
+      "title": "Kaisten: Gemeindeammann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kaisten:%20Gemeindeammann",
       "pubdate": "Fri, 11 Oct 2024 06:00:00 +0200"
     },
     {
@@ -32,9 +37,14 @@
       "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haaland",
-      "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
+      "title": "Sarah Engels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Engels",
+      "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Italia",
+      "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
     },
     {
       "title": "France",
@@ -52,11 +62,6 @@
       "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Israël – France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isra%C3%ABl%20%E2%80%93%20France",
-      "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Han Kang",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Han%20Kang",
       "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
@@ -72,14 +77,14 @@
       "pubdate": "Thu, 10 Oct 2024 23:00:00 +0200"
     },
     {
-      "title": "Sancta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sancta",
-      "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
-    },
-    {
       "title": "Lukas Podolski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukas%20Podolski",
       "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Sancta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sancta",
+      "pubdate": "Thu, 10 Oct 2024 07:00:00 +0200"
     },
     {
       "title": "Italie – Belgique",
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Outer Banks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Outer%20Banks",
-      "pubdate": "Thu, 10 Oct 2024 10:00:00 +0200"
+      "title": "Andres Ambühl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andres%20Amb%C3%BChl",
+      "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Polarlichter Schweiz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polarlichter%20Schweiz",
       "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Andres Ambühl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andres%20Amb%C3%BChl",
-      "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
     }
   ]
 }
