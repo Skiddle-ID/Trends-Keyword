@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-10-2024 , 23:35:49",
+  "lastUpdate": "11-10-2024 , 01:57:10",
   "data": [
     {
       "title": "England vs Greece",
@@ -7,9 +7,9 @@
       "pubdate": "Fri, 11 Oct 2024 07:00:00 +1100"
     },
     {
-      "title": "Meat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Meat",
-      "pubdate": "Fri, 11 Oct 2024 00:00:00 +1100"
+      "title": "Laura Dern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Laura%20Dern",
+      "pubdate": "Fri, 11 Oct 2024 08:00:00 +1100"
     },
     {
       "title": "Han Kang",
@@ -22,6 +22,16 @@
       "pubdate": "Fri, 11 Oct 2024 09:00:00 +1100"
     },
     {
+      "title": "Meat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Meat",
+      "pubdate": "Fri, 11 Oct 2024 00:00:00 +1100"
+    },
+    {
+      "title": "Ethel Kennedy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ethel%20Kennedy",
+      "pubdate": "Fri, 11 Oct 2024 10:00:00 +1100"
+    },
+    {
       "title": "Soccer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer",
       "pubdate": "Fri, 11 Oct 2024 00:00:00 +1100"
@@ -30,6 +40,11 @@
       "title": "Lieutenant Dan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lieutenant%20Dan",
       "pubdate": "Fri, 11 Oct 2024 02:00:00 +1100"
+    },
+    {
+      "title": "Aurora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aurora",
+      "pubdate": "Fri, 11 Oct 2024 10:00:00 +1100"
     },
     {
       "title": "Socceroos",
@@ -47,24 +62,24 @@
       "pubdate": "Thu, 10 Oct 2024 06:00:00 +1100"
     },
     {
-      "title": "George Baldock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#George%20Baldock",
-      "pubdate": "Thu, 10 Oct 2024 09:00:00 +1100"
-    },
-    {
       "title": "Rafael Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rafael%20Nadal",
       "pubdate": "Thu, 10 Oct 2024 22:00:00 +1100"
     },
     {
-      "title": "Outer Banks season 4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Outer%20Banks%20season%204",
+      "title": "George Baldock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#George%20Baldock",
       "pubdate": "Thu, 10 Oct 2024 09:00:00 +1100"
     },
     {
-      "title": "Joe Root",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Root",
+      "title": "Harry Brook",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20Brook",
       "pubdate": "Thu, 10 Oct 2024 00:00:00 +1100"
+    },
+    {
+      "title": "Outer Banks season 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Outer%20Banks%20season%204",
+      "pubdate": "Thu, 10 Oct 2024 09:00:00 +1100"
     },
     {
       "title": "Trent Robinson",
@@ -82,24 +97,9 @@
       "pubdate": "Thu, 10 Oct 2024 16:00:00 +1100"
     },
     {
-      "title": "DOE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DOE",
-      "pubdate": "Thu, 10 Oct 2024 11:00:00 +1100"
-    },
-    {
       "title": "Craig Goodwin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Craig%20Goodwin",
       "pubdate": "Thu, 10 Oct 2024 22:00:00 +1100"
-    },
-    {
-      "title": "Richard Marles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Richard%20Marles",
-      "pubdate": "Thu, 10 Oct 2024 16:00:00 +1100"
-    },
-    {
-      "title": "World Mental Health Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#World%20Mental%20Health%20Day",
-      "pubdate": "Thu, 10 Oct 2024 11:00:00 +1100"
     }
   ]
 }
