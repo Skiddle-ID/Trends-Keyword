@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "12-10-2024 , 11:35:24",
+  "lastUpdate": "12-10-2024 , 12:54:34",
   "data": [
+    {
+      "title": "Martinica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Martinica",
+      "pubdate": "Sat, 12 Oct 2024 10:00:00 +0300"
+    },
     {
       "title": "Stefan Busnatu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stefan%20Busnatu",
       "pubdate": "Sat, 12 Oct 2024 07:00:00 +0300"
     },
     {
-      "title": "Martinica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Martinica",
-      "pubdate": "Sat, 12 Oct 2024 10:00:00 +0300"
+      "title": "Alerta Ambasada SUA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alerta%20Ambasada%20SUA",
+      "pubdate": "Sat, 12 Oct 2024 09:00:00 +0300"
     },
     {
       "title": "Sahara",
@@ -32,19 +37,14 @@
       "pubdate": "Sat, 12 Oct 2024 10:00:00 +0300"
     },
     {
-      "title": "SRI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SRI",
-      "pubdate": "Sat, 12 Oct 2024 09:00:00 +0300"
-    },
-    {
       "title": "Muntenegru U21 - România U21",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Muntenegru%20U21%20-%20Rom%C3%A2nia%20U21",
       "pubdate": "Fri, 11 Oct 2024 16:00:00 +0300"
     },
     {
-      "title": "Telegram",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Telegram",
-      "pubdate": "Fri, 11 Oct 2024 00:00:00 +0300"
+      "title": "Ungaria  Olanda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ungaria%20%20Olanda",
+      "pubdate": "Fri, 11 Oct 2024 22:00:00 +0300"
     },
     {
       "title": "Senatorul Eugen Pîrvulescu",
@@ -52,9 +52,19 @@
       "pubdate": "Fri, 11 Oct 2024 12:00:00 +0300"
     },
     {
+      "title": "Telegram",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Telegram",
+      "pubdate": "Fri, 11 Oct 2024 00:00:00 +0300"
+    },
+    {
       "title": "Kursk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kursk",
       "pubdate": "Fri, 11 Oct 2024 08:00:00 +0300"
+    },
+    {
+      "title": "Elena Lasconi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elena%20Lasconi",
+      "pubdate": "Fri, 11 Oct 2024 17:00:00 +0300"
     },
     {
       "title": "Cutremur romania",
@@ -70,11 +80,6 @@
       "title": "Spotlight",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spotlight",
       "pubdate": "Fri, 11 Oct 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Tolea Ciumac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tolea%20Ciumac",
-      "pubdate": "Fri, 11 Oct 2024 10:00:00 +0300"
     },
     {
       "title": "Ucraina  Georgia",
@@ -95,11 +100,6 @@
       "title": "Bolt Food",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bolt%20Food",
       "pubdate": "Fri, 11 Oct 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haaland",
-      "pubdate": "Fri, 11 Oct 2024 18:00:00 +0300"
     }
   ]
 }

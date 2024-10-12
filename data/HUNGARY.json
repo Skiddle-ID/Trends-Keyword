@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "12-10-2024 , 11:35:19",
+  "lastUpdate": "12-10-2024 , 12:54:30",
   "data": [
-    {
-      "title": "McDonald's TheVR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's%20TheVR",
-      "pubdate": "Sat, 12 Oct 2024 02:00:00 +0200"
-    },
     {
       "title": "Demi Moore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demi%20Moore",
@@ -32,8 +27,18 @@
       "pubdate": "Fri, 11 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Bosznia-hercegovina–németország",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bosznia-hercegovina%E2%80%93n%C3%A9metorsz%C3%A1g",
+      "title": "McDonald's",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McDonald's",
+      "pubdate": "Fri, 11 Oct 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Béres Anett",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A9res%20Anett",
+      "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "M4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
       "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
     },
     {
@@ -42,14 +47,14 @@
       "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
     },
     {
-      "title": "M4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-      "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
-    },
-    {
       "title": "Ázsia Expressz 2024 nyertese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81zsia%20Expressz%202024%20nyertese",
       "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Van Dijk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Van%20Dijk",
+      "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Chile–brazília",
@@ -60,6 +65,11 @@
       "title": "Kísértés",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADs%C3%A9rt%C3%A9s",
       "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Puskás Aréna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s%20Ar%C3%A9na",
+      "pubdate": "Fri, 11 Oct 2024 16:00:00 +0200"
     },
     {
       "title": "Tündérhegyi Pszichiátria",
@@ -87,19 +97,9 @@
       "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
     },
     {
-      "title": "Sarki fény",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sarki%20f%C3%A9ny",
-      "pubdate": "Fri, 11 Oct 2024 02:00:00 +0200"
-    },
-    {
       "title": "Halálos baleset Valkó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20baleset%20Valk%C3%B3",
       "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Üstökös",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Cst%C3%B6k%C3%B6s",
-      "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2024 , 11:35:16",
+  "lastUpdate": "12-10-2024 , 12:54:27",
   "data": [
     {
       "title": "Romper el circulo",
@@ -52,6 +52,11 @@
       "pubdate": "Fri, 11 Oct 2024 15:00:00 -0300"
     },
     {
+      "title": "Amores de Mercado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amores%20de%20Mercado",
+      "pubdate": "Fri, 11 Oct 2024 22:00:00 -0300"
+    },
+    {
       "title": "Tesla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tesla",
       "pubdate": "Fri, 11 Oct 2024 23:00:00 -0300"
@@ -60,11 +65,6 @@
       "title": "Barnechea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barnechea",
       "pubdate": "Fri, 11 Oct 2024 20:00:00 -0300"
-    },
-    {
-      "title": "Amores de Mercado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amores%20de%20Mercado",
-      "pubdate": "Fri, 11 Oct 2024 22:00:00 -0300"
     },
     {
       "title": "Hungría - Países Bajos",
@@ -82,14 +82,14 @@
       "pubdate": "Fri, 11 Oct 2024 20:00:00 -0300"
     },
     {
-      "title": "El Lugar de la Otra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Lugar%20de%20la%20Otra",
-      "pubdate": "Fri, 11 Oct 2024 22:00:00 -0300"
-    },
-    {
       "title": "12 de octubre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#12%20de%20octubre",
       "pubdate": "Fri, 11 Oct 2024 21:00:00 -0300"
+    },
+    {
+      "title": "El Lugar de la Otra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20Lugar%20de%20la%20Otra",
+      "pubdate": "Fri, 11 Oct 2024 22:00:00 -0300"
     },
     {
       "title": "Cepeda",

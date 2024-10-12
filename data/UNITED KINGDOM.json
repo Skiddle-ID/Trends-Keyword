@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "12-10-2024 , 11:35:27",
+  "lastUpdate": "12-10-2024 , 12:54:36",
   "data": [
+    {
+      "title": "Stanley Tucci",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Stanley%20Tucci",
+      "pubdate": "Sat, 12 Oct 2024 11:00:00 +0100"
+    },
     {
       "title": "Selena Gomez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Selena%20Gomez",
@@ -12,9 +17,19 @@
       "pubdate": "Sat, 12 Oct 2024 09:00:00 +0100"
     },
     {
+      "title": "Martin Lewis Child Trust Fund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Martin%20Lewis%20Child%20Trust%20Fund",
+      "pubdate": "Sat, 12 Oct 2024 08:00:00 +0100"
+    },
+    {
       "title": "Joel Matip",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joel%20Matip",
       "pubdate": "Sat, 12 Oct 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Conor Benn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Conor%20Benn",
+      "pubdate": "Sat, 12 Oct 2024 10:00:00 +0100"
     },
     {
       "title": "Charli XCX",
@@ -27,19 +42,24 @@
       "pubdate": "Sat, 12 Oct 2024 04:00:00 +0100"
     },
     {
+      "title": "Covid XEC strain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Covid%20XEC%20strain",
+      "pubdate": "Sat, 12 Oct 2024 11:00:00 +0100"
+    },
+    {
       "title": "Virginia McCullough",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Virginia%20McCullough",
       "pubdate": "Fri, 11 Oct 2024 17:00:00 +0100"
     },
     {
-      "title": "Tesla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesla",
-      "pubdate": "Fri, 11 Oct 2024 09:00:00 +0100"
-    },
-    {
       "title": "Bivol vs Beterbiev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bivol%20vs%20Beterbiev",
       "pubdate": "Fri, 11 Oct 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Tesla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesla",
+      "pubdate": "Fri, 11 Oct 2024 09:00:00 +0100"
     },
     {
       "title": "Vladimir Putin",
@@ -55,11 +75,6 @@
       "title": "Yom Kippur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Yom%20Kippur",
       "pubdate": "Fri, 11 Oct 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Victoria Monet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victoria%20Monet",
-      "pubdate": "Fri, 11 Oct 2024 23:00:00 +0100"
     },
     {
       "title": "Sandy Irvine",
@@ -85,21 +100,6 @@
       "title": "Capital gains tax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Capital%20gains%20tax",
       "pubdate": "Fri, 11 Oct 2024 10:00:00 +0100"
-    },
-    {
-      "title": "HAARP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#HAARP",
-      "pubdate": "Fri, 11 Oct 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Winter Fuel Payment",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Winter%20Fuel%20Payment",
-      "pubdate": "Fri, 11 Oct 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Peter Cormack",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Peter%20Cormack",
-      "pubdate": "Fri, 11 Oct 2024 21:00:00 +0100"
     }
   ]
 }

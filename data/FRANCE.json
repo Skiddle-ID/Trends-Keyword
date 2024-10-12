@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2024 , 11:35:18",
+  "lastUpdate": "12-10-2024 , 12:54:29",
   "data": [
     {
       "title": "Star Academy",
@@ -10,6 +10,11 @@
       "title": "Tremblement de terre Vannes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tremblement%20de%20terre%20Vannes",
       "pubdate": "Sat, 12 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Argenton-sur-Creuse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Argenton-sur-Creuse",
+      "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Marc Lavoine",
@@ -29,11 +34,6 @@
     {
       "title": "Pro D2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pro%20D2",
-      "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "David Hallyday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Hallyday",
       "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
     },
     {
@@ -57,6 +57,11 @@
       "pubdate": "Fri, 11 Oct 2024 19:00:00 +0200"
     },
     {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
+      "pubdate": "Fri, 11 Oct 2024 16:00:00 +0200"
+    },
+    {
       "title": "Doliprane",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Doliprane",
       "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
@@ -67,18 +72,8 @@
       "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Algerie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Algerie",
-      "pubdate": "Fri, 11 Oct 2024 12:00:00 +0200"
-    },
-    {
       "title": "Finul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Finul",
-      "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Abou Sangare acteur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Abou%20Sangare%20acteur",
       "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nadal",
       "pubdate": "Thu, 10 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Crecy la-Chapelle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crecy%20la-Chapelle",
+      "pubdate": "Thu, 10 Oct 2024 21:00:00 +0200"
     }
   ]
 }
