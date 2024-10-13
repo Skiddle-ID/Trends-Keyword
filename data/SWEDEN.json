@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "12-10-2024 , 23:35:50",
+  "lastUpdate": "13-10-2024 , 02:08:16",
   "data": [
-    {
-      "title": "Per Carlén",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Carl%C3%A9n",
-      "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
-    },
     {
       "title": "Idol 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idol%202024",
       "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Bivol vs Beterbiev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bivol%20vs%20Beterbiev",
+      "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Lotta Engberg",
@@ -17,9 +17,19 @@
       "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Bivol vs Beterbiev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bivol%20vs%20Beterbiev",
-      "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
+      "title": "Stockholm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stockholm",
+      "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "The Apprentice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Apprentice",
+      "pubdate": "Sat, 12 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Sverige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige",
+      "pubdate": "Sat, 12 Oct 2024 03:00:00 +0200"
     },
     {
       "title": "Anders Bagge",
@@ -42,14 +52,14 @@
       "pubdate": "Sat, 12 Oct 2024 02:00:00 +0200"
     },
     {
-      "title": "Sverige Slovakien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Slovakien",
-      "pubdate": "Fri, 11 Oct 2024 09:00:00 +0200"
-    },
-    {
       "title": "Ant Wan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ant%20Wan",
       "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Slovakien mot Sverige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Slovakien%20mot%20Sverige",
+      "pubdate": "Fri, 11 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Yasin Ayari",
@@ -90,16 +100,6 @@
       "title": "Han Kang",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Han%20Kang",
       "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Sl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sl",
-      "pubdate": "Thu, 10 Oct 2024 09:00:00 +0200"
-    },
-    {
-      "title": "George Baldock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#George%20Baldock",
-      "pubdate": "Thu, 10 Oct 2024 00:00:00 +0200"
     }
   ]
 }

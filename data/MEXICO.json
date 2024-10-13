@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2024 , 23:35:47",
+  "lastUpdate": "13-10-2024 , 02:08:13",
   "data": [
     {
       "title": "Mexico vs Valencia",
@@ -12,19 +12,9 @@
       "pubdate": "Sat, 12 Oct 2024 09:00:00 -0600"
     },
     {
-      "title": "Croacia  Escocia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Croacia%20%20Escocia",
-      "pubdate": "Sat, 12 Oct 2024 11:00:00 -0600"
-    },
-    {
-      "title": "Romper el circulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Romper%20el%20circulo",
-      "pubdate": "Sat, 12 Oct 2024 00:00:00 -0600"
-    },
-    {
-      "title": "Taylor Rousseau Grigg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Rousseau%20Grigg",
-      "pubdate": "Sat, 12 Oct 2024 02:00:00 -0600"
+      "title": "Liga MX Femenil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Liga%20MX%20Femenil",
+      "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
     },
     {
       "title": "America vs Chivas",
@@ -32,14 +22,24 @@
       "pubdate": "Sat, 12 Oct 2024 12:00:00 -0600"
     },
     {
-      "title": "Tigres Femenil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20Femenil",
+      "title": "Croacia  Escocia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Croacia%20%20Escocia",
+      "pubdate": "Sat, 12 Oct 2024 11:00:00 -0600"
+    },
+    {
+      "title": "Taylor Rousseau Grigg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Taylor%20Rousseau%20Grigg",
+      "pubdate": "Sat, 12 Oct 2024 02:00:00 -0600"
+    },
+    {
+      "title": "Romper el circulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Romper%20el%20circulo",
       "pubdate": "Sat, 12 Oct 2024 00:00:00 -0600"
     },
     {
-      "title": "Manuel Espino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manuel%20Espino",
-      "pubdate": "Sat, 12 Oct 2024 08:00:00 -0600"
+      "title": "Mr Olympia 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mr%20Olympia%202024",
+      "pubdate": "Sat, 12 Oct 2024 18:00:00 -0600"
     },
     {
       "title": "DAZN",
@@ -47,14 +47,49 @@
       "pubdate": "Sat, 12 Oct 2024 13:00:00 -0600"
     },
     {
+      "title": "Manuel Espino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manuel%20Espino",
+      "pubdate": "Sat, 12 Oct 2024 08:00:00 -0600"
+    },
+    {
+      "title": "Temblor HOY",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20HOY",
+      "pubdate": "Sat, 12 Oct 2024 17:00:00 -0600"
+    },
+    {
+      "title": "Maria la del barrio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maria%20la%20del%20barrio",
+      "pubdate": "Sat, 12 Oct 2024 16:00:00 -0600"
+    },
+    {
+      "title": "Estados Unidos  Panamá",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estados%20Unidos%20%20Panam%C3%A1",
+      "pubdate": "Sat, 12 Oct 2024 19:00:00 -0600"
+    },
+    {
+      "title": "Tigres Femenil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20Femenil",
+      "pubdate": "Sat, 12 Oct 2024 00:00:00 -0600"
+    },
+    {
       "title": "Alfredo Talavera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alfredo%20Talavera",
       "pubdate": "Sat, 12 Oct 2024 08:00:00 -0600"
     },
     {
-      "title": "Chivas Femenil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20Femenil",
-      "pubdate": "Sat, 12 Oct 2024 00:00:00 -0600"
+      "title": "Jimin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jimin",
+      "pubdate": "Sat, 12 Oct 2024 15:00:00 -0600"
+    },
+    {
+      "title": "Guardians  Tigers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Guardians%20%20Tigers",
+      "pubdate": "Sat, 12 Oct 2024 17:00:00 -0600"
+    },
+    {
+      "title": "Lindsay Lohan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lindsay%20Lohan",
+      "pubdate": "Sat, 12 Oct 2024 03:00:00 -0600"
     },
     {
       "title": "Serbia - Suiza",
@@ -65,41 +100,6 @@
       "title": "Blake Lively",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Blake%20Lively",
       "pubdate": "Sat, 12 Oct 2024 01:00:00 -0600"
-    },
-    {
-      "title": "Jesica Jurado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jesica%20Jurado",
-      "pubdate": "Sat, 12 Oct 2024 16:00:00 -0600"
-    },
-    {
-      "title": "Lamine Yamal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lamine%20Yamal",
-      "pubdate": "Sat, 12 Oct 2024 16:00:00 -0600"
-    },
-    {
-      "title": "Polonia  Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Polonia%20%20Portugal",
-      "pubdate": "Fri, 11 Oct 2024 07:00:00 -0600"
-    },
-    {
-      "title": "Dodgers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dodgers",
-      "pubdate": "Fri, 11 Oct 2024 19:00:00 -0600"
-    },
-    {
-      "title": "España - Dinamarca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Espa%C3%B1a%20-%20Dinamarca",
-      "pubdate": "Fri, 11 Oct 2024 12:00:00 -0600"
-    },
-    {
-      "title": "Perú - Uruguay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Per%C3%BA%20-%20Uruguay",
-      "pubdate": "Fri, 11 Oct 2024 19:00:00 -0600"
-    },
-    {
-      "title": "Bivol vs Beterbiev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bivol%20vs%20Beterbiev",
-      "pubdate": "Fri, 11 Oct 2024 16:00:00 -0600"
     }
   ]
 }
