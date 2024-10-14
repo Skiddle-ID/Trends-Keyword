@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2024 , 23:38:26",
+  "lastUpdate": "14-10-2024 , 02:05:17",
   "data": [
     {
       "title": "Bryan Adams",
@@ -27,14 +27,14 @@
       "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Bíró Bea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%ADr%C3%B3%20Bea",
-      "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "Für Anikó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%BCr%20Anik%C3%B3",
       "pubdate": "Sun, 13 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Törőcsik Dániel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C5%91csik%20D%C3%A1niel",
+      "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Beterbiev",
@@ -89,16 +89,16 @@
     {
       "title": "Allegro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Allegro",
-      "pubdate": "Sat, 12 Oct 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Noszály Sándor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nosz%C3%A1ly%20S%C3%A1ndor",
-      "pubdate": "Sat, 12 Oct 2024 20:00:00 +0200"
+      "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Puskás Peti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pusk%C3%A1s%20Peti",
+      "pubdate": "Sat, 12 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Noszály Sándor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nosz%C3%A1ly%20S%C3%A1ndor",
       "pubdate": "Sat, 12 Oct 2024 20:00:00 +0200"
     }
   ]

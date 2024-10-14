@@ -1,1 +1,1 @@
-Bryan Adams,Szecsei Valter,Mészáros András,Németh Kristóf,Sárközi Ákos,Bíró Bea,Für Anikó,Beterbiev,Kolumbusz Kristóf,SpaceX,Bosznia Magyarország,NanoPhone,Harrison Ford,Balla Eszter,Magyar holland,Majka,Óraátállítás,Allegro,Noszály Sándor,Puskás Peti
+Bryan Adams,Szecsei Valter,Mészáros András,Németh Kristóf,Sárközi Ákos,Für Anikó,Törőcsik Dániel,Beterbiev,Kolumbusz Kristóf,SpaceX,Bosznia Magyarország,NanoPhone,Harrison Ford,Balla Eszter,Magyar holland,Majka,Óraátállítás,Allegro,Puskás Peti,Noszály Sándor

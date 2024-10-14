@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "13-10-2024 , 23:38:26",
+  "lastUpdate": "14-10-2024 , 02:05:17",
   "data": [
+    {
+      "title": "北韓",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8C%97%E9%9F%93",
+      "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
+    },
     {
       "title": "汪建民",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%AA%E5%BB%BA%E6%B0%91",
       "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
     },
     {
-      "title": "北韓",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8C%97%E9%9F%93",
-      "pubdate": "Mon, 14 Oct 2024 00:00:00 +0800"
+      "title": "RIIZE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#RIIZE",
+      "pubdate": "Mon, 14 Oct 2024 02:00:00 +0800"
     },
     {
       "title": "英格蘭",
@@ -22,6 +27,11 @@
       "pubdate": "Mon, 14 Oct 2024 01:00:00 +0800"
     },
     {
+      "title": "江旻憓",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%9F%E6%97%BB%E6%86%93",
+      "pubdate": "Mon, 14 Oct 2024 07:00:00 +0800"
+    },
+    {
       "title": "岑浩輝",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%B2%91%E6%B5%A9%E8%BC%9D",
       "pubdate": "Sun, 13 Oct 2024 13:00:00 +0800"
@@ -32,14 +42,9 @@
       "pubdate": "Sun, 13 Oct 2024 16:00:00 +0800"
     },
     {
-      "title": "森美",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A3%AE%E7%BE%8E",
-      "pubdate": "Sun, 13 Oct 2024 09:00:00 +0800"
-    },
-    {
-      "title": "羅淑佩",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%85%E6%B7%91%E4%BD%A9",
-      "pubdate": "Sun, 13 Oct 2024 10:00:00 +0800"
+      "title": "SpaceX",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#SpaceX",
+      "pubdate": "Sun, 13 Oct 2024 22:00:00 +0800"
     },
     {
       "title": "蕭敬騰",
@@ -47,9 +52,14 @@
       "pubdate": "Sun, 13 Oct 2024 22:00:00 +0800"
     },
     {
-      "title": "SpaceX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#SpaceX",
-      "pubdate": "Sun, 13 Oct 2024 22:00:00 +0800"
+      "title": "羅淑佩",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%85%E6%B7%91%E4%BD%A9",
+      "pubdate": "Sun, 13 Oct 2024 10:00:00 +0800"
+    },
+    {
+      "title": "森美",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A3%AE%E7%BE%8E",
+      "pubdate": "Sun, 13 Oct 2024 09:00:00 +0800"
     },
     {
       "title": "謝國樑",
@@ -72,8 +82,8 @@
       "pubdate": "Sun, 13 Oct 2024 21:00:00 +0800"
     },
     {
-      "title": "單車節封路",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%96%AE%E8%BB%8A%E7%AF%80%E5%B0%81%E8%B7%AF",
+      "title": "單車節2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%96%AE%E8%BB%8A%E7%AF%802024",
       "pubdate": "Sat, 12 Oct 2024 19:00:00 +0800"
     },
     {
@@ -90,16 +100,6 @@
       "title": "魯班先師廟",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%AD%AF%E7%8F%AD%E5%85%88%E5%B8%AB%E5%BB%9F",
       "pubdate": "Sat, 12 Oct 2024 21:00:00 +0800"
-    },
-    {
-      "title": "吳邦國",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%90%B3%E9%82%A6%E5%9C%8B",
-      "pubdate": "Sat, 12 Oct 2024 20:00:00 +0800"
-    },
-    {
-      "title": "袁富華",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A2%81%E5%AF%8C%E8%8F%AF",
-      "pubdate": "Sat, 12 Oct 2024 23:00:00 +0800"
     }
   ]
 }
