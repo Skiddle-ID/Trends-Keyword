@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2024 , 11:35:33",
+  "lastUpdate": "14-10-2024 , 12:59:03",
   "data": [
     {
       "title": "Nana Mouskouri",
@@ -72,24 +72,9 @@
       "pubdate": "Sun, 13 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "Ralf Schumacher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ralf%20Schumacher",
-      "pubdate": "Sun, 13 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "ORF Vorarlberg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20Vorarlberg",
-      "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
-    },
-    {
       "title": "Bombendrohung Leoben Bahnhof",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Leoben%20Bahnhof",
       "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Erling Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erling%20Haaland",
-      "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Marko arnautović",
@@ -100,6 +85,21 @@
       "title": "Der untergang",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20untergang",
       "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Mick Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mick%20Schumacher",
+      "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Neuseeland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neuseeland",
+      "pubdate": "Sun, 13 Oct 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Rudolf Nurejew",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rudolf%20Nurejew",
+      "pubdate": "Sun, 13 Oct 2024 10:00:00 +0200"
     }
   ]
 }

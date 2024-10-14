@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "14-10-2024 , 11:35:36",
+  "lastUpdate": "14-10-2024 , 12:59:07",
   "data": [
+    {
+      "title": "Magyar labdarúgó-válogatott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20labdar%C3%BAg%C3%B3-v%C3%A1logatott",
+      "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Világháború",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vil%C3%A1gh%C3%A1bor%C3%BA",
+      "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
+    },
     {
       "title": "Spider Mentőcsoport Lehoczki László",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Spider%20Ment%C5%91csoport%20Lehoczki%20L%C3%A1szl%C3%B3",
@@ -12,14 +22,14 @@
       "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "Világháború",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vil%C3%A1gh%C3%A1bor%C3%BA",
-      "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
-    },
-    {
       "title": "Bryan Adams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bryan%20Adams",
       "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Bruce Willis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
+      "pubdate": "Mon, 14 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Nyerő Páros",
@@ -35,6 +45,11 @@
       "title": "Donald Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
       "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump",
+      "pubdate": "Mon, 14 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Szecsei Valter",
@@ -57,14 +72,14 @@
       "pubdate": "Sun, 13 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "SpaceX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SpaceX",
-      "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
-    },
-    {
       "title": "Kolumbusz Kristóf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kolumbusz%20Krist%C3%B3f",
       "pubdate": "Sun, 13 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "SpaceX",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SpaceX",
+      "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
     },
     {
       "title": "Für Anikó",
@@ -85,21 +100,6 @@
       "title": "Bíró Bea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%ADr%C3%B3%20Bea",
       "pubdate": "Sun, 13 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Kovács koko István",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20koko%20Istv%C3%A1n",
-      "pubdate": "Sun, 13 Oct 2024 01:00:00 +0200"
-    },
-    {
-      "title": "NanoPhone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NanoPhone",
-      "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Balla Eszter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balla%20Eszter",
-      "pubdate": "Sun, 13 Oct 2024 23:00:00 +0200"
     }
   ]
 }
