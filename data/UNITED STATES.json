@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "15-10-2024 , 11:36:21",
+  "lastUpdate": "15-10-2024 , 12:59:26",
   "data": [
+    {
+      "title": "DEI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DEI",
+      "pubdate": "Tue, 15 Oct 2024 01:00:00 -0700"
+    },
     {
       "title": "SoFi stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SoFi%20stock",
@@ -37,6 +42,11 @@
       "pubdate": "Mon, 14 Oct 2024 17:00:00 -0700"
     },
     {
+      "title": "Ray Davis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ray%20Davis",
+      "pubdate": "Mon, 14 Oct 2024 18:00:00 -0700"
+    },
+    {
       "title": "Bill Clinton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bill%20Clinton",
       "pubdate": "Mon, 14 Oct 2024 15:00:00 -0700"
@@ -47,9 +57,9 @@
       "pubdate": "Mon, 14 Oct 2024 13:00:00 -0700"
     },
     {
-      "title": "Pokemon leaks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pokemon%20leaks",
-      "pubdate": "Mon, 14 Oct 2024 05:00:00 -0700"
+      "title": "Paul George",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20George",
+      "pubdate": "Mon, 14 Oct 2024 22:00:00 -0700"
     },
     {
       "title": "Bret Baier",
@@ -57,19 +67,14 @@
       "pubdate": "Mon, 14 Oct 2024 19:00:00 -0700"
     },
     {
-      "title": "Paul George",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20George",
-      "pubdate": "Mon, 14 Oct 2024 22:00:00 -0700"
-    },
-    {
       "title": "Warriors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
       "pubdate": "Mon, 14 Oct 2024 09:00:00 -0700"
     },
     {
-      "title": "Pamela Anderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pamela%20Anderson",
-      "pubdate": "Mon, 14 Oct 2024 23:00:00 -0700"
+      "title": "Sean Manaea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sean%20Manaea",
+      "pubdate": "Mon, 14 Oct 2024 17:00:00 -0700"
     },
     {
       "title": "Allen Lazard",
@@ -77,29 +82,24 @@
       "pubdate": "Mon, 14 Oct 2024 20:00:00 -0700"
     },
     {
-      "title": "Lilly Ledbetter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lilly%20Ledbetter",
-      "pubdate": "Mon, 14 Oct 2024 15:00:00 -0700"
-    },
-    {
       "title": "Comet Tsuchinshan-ATLAS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Comet%20Tsuchinshan-ATLAS",
       "pubdate": "Mon, 14 Oct 2024 19:00:00 -0700"
     },
     {
+      "title": "Meta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meta",
+      "pubdate": "Mon, 14 Oct 2024 18:00:00 -0700"
+    },
+    {
+      "title": "Lilly Ledbetter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lilly%20Ledbetter",
+      "pubdate": "Mon, 14 Oct 2024 15:00:00 -0700"
+    },
+    {
       "title": "Aiden Hutchinson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aiden%20Hutchinson",
       "pubdate": "Sun, 13 Oct 2024 15:00:00 -0700"
-    },
-    {
-      "title": "Dodgers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dodgers",
-      "pubdate": "Sun, 13 Oct 2024 18:00:00 -0700"
-    },
-    {
-      "title": "Bengals",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
-      "pubdate": "Sun, 13 Oct 2024 18:00:00 -0700"
     }
   ]
 }
