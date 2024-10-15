@@ -1,19 +1,29 @@
 {
-  "lastUpdate": "14-10-2024 , 23:35:34",
+  "lastUpdate": "15-10-2024 , 02:01:52",
   "data": [
+    {
+      "title": "Urban Outfitters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Urban%20Outfitters",
+      "pubdate": "Tue, 15 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Ozempic alcohol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ozempic%20alcohol",
+      "pubdate": "Tue, 15 Oct 2024 01:00:00 +0100"
+    },
     {
       "title": "Countdown stabbing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Countdown%20stabbing",
       "pubdate": "Mon, 14 Oct 2024 08:00:00 +0100"
     },
     {
-      "title": "Belgium vs France",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Belgium%20vs%20France",
+      "title": "Germany vs Netherlands",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Germany%20vs%20Netherlands",
       "pubdate": "Mon, 14 Oct 2024 20:00:00 +0100"
     },
     {
-      "title": "Germany vs Netherlands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Germany%20vs%20Netherlands",
+      "title": "Belgium vs France",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Belgium%20vs%20France",
       "pubdate": "Mon, 14 Oct 2024 20:00:00 +0100"
     },
     {
@@ -32,19 +42,9 @@
       "pubdate": "Mon, 14 Oct 2024 16:00:00 +0100"
     },
     {
-      "title": "The Fugitive",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Fugitive",
-      "pubdate": "Mon, 14 Oct 2024 00:00:00 +0100"
-    },
-    {
       "title": "Lilly Ledbetter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lilly%20Ledbetter",
       "pubdate": "Mon, 14 Oct 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Mark Ruffalo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mark%20Ruffalo",
-      "pubdate": "Mon, 14 Oct 2024 12:00:00 +0100"
     },
     {
       "title": "Italy vs Israel",
@@ -52,14 +52,29 @@
       "pubdate": "Mon, 14 Oct 2024 22:00:00 +0100"
     },
     {
-      "title": "Cowboys vs Lions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cowboys%20vs%20Lions",
-      "pubdate": "Mon, 14 Oct 2024 07:00:00 +0100"
+      "title": "Mark Ruffalo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mark%20Ruffalo",
+      "pubdate": "Mon, 14 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Wordle hint",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wordle%20hint",
+      "pubdate": "Mon, 14 Oct 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Mater Hospital",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mater%20Hospital",
+      "pubdate": "Mon, 14 Oct 2024 23:00:00 +0100"
     },
     {
       "title": "Sligo Rovers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sligo%20Rovers",
       "pubdate": "Mon, 14 Oct 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Cowboys vs Lions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cowboys%20vs%20Lions",
+      "pubdate": "Mon, 14 Oct 2024 07:00:00 +0100"
     },
     {
       "title": "Donald Trump",
@@ -70,11 +85,6 @@
       "title": "Harrison Ford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harrison%20Ford",
       "pubdate": "Mon, 14 Oct 2024 02:00:00 +0100"
-    },
-    {
-      "title": "Mater Hospital",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mater%20Hospital",
-      "pubdate": "Mon, 14 Oct 2024 23:00:00 +0100"
     },
     {
       "title": "Picture This",
@@ -90,16 +100,6 @@
       "title": "Aidan Hutchinson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aidan%20Hutchinson",
       "pubdate": "Mon, 14 Oct 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Dennis Quaid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dennis%20Quaid",
-      "pubdate": "Mon, 14 Oct 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Pádraig Harrington",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#P%C3%A1draig%20Harrington",
-      "pubdate": "Mon, 14 Oct 2024 00:00:00 +0100"
     }
   ]
 }

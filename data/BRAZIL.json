@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2024 , 23:35:29",
+  "lastUpdate": "15-10-2024 , 02:01:49",
   "data": [
     {
       "title": "Bélgica x França",
@@ -12,24 +12,14 @@
       "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
     },
     {
-      "title": "Pix",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pix",
-      "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Itália x Israel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#It%C3%A1lia%20x%20Israel",
-      "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
-    },
-    {
       "title": "Brusque x Ituano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brusque%20x%20Ituano",
       "pubdate": "Mon, 14 Oct 2024 16:00:00 -0500"
     },
     {
-      "title": "Daniel Rocha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Daniel%20Rocha",
-      "pubdate": "Mon, 14 Oct 2024 06:00:00 -0500"
+      "title": "Pix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pix",
+      "pubdate": "Mon, 14 Oct 2024 09:00:00 -0500"
     },
     {
       "title": "Valores a Receber",
@@ -40,6 +30,16 @@
       "title": "Guarani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
       "pubdate": "Mon, 14 Oct 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Itália x Israel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#It%C3%A1lia%20x%20Israel",
+      "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Daniel Rocha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Daniel%20Rocha",
+      "pubdate": "Mon, 14 Oct 2024 06:00:00 -0500"
     },
     {
       "title": "Taiwan",
@@ -62,9 +62,9 @@
       "pubdate": "Mon, 14 Oct 2024 12:00:00 -0500"
     },
     {
-      "title": "City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City",
-      "pubdate": "Mon, 14 Oct 2024 00:00:00 -0500"
+      "title": "Cláudio Castro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cl%C3%A1udio%20Castro",
+      "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
     },
     {
       "title": "Cachorro morreu eletrocutado",
@@ -72,14 +72,19 @@
       "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
     },
     {
-      "title": "Dia do Servidor Público",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Servidor%20P%C3%BAblico",
-      "pubdate": "Mon, 14 Oct 2024 08:00:00 -0500"
+      "title": "INPI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#INPI",
+      "pubdate": "Mon, 14 Oct 2024 10:00:00 -0500"
     },
     {
-      "title": "Aneel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aneel",
-      "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
+      "title": "Once caldas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Once%20caldas",
+      "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
+    },
+    {
+      "title": "14 de outubro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#14%20de%20outubro",
+      "pubdate": "Mon, 14 Oct 2024 06:00:00 -0500"
     },
     {
       "title": "Adriana Lima",
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 14 Oct 2024 16:00:00 -0500"
     },
     {
-      "title": "HIV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#HIV",
-      "pubdate": "Mon, 14 Oct 2024 14:00:00 -0500"
+      "title": "Jennifer Lopez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jennifer%20Lopez",
+      "pubdate": "Mon, 14 Oct 2024 18:00:00 -0500"
     },
     {
-      "title": "Cláudio Castro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cl%C3%A1udio%20Castro",
-      "pubdate": "Mon, 14 Oct 2024 17:00:00 -0500"
-    },
-    {
-      "title": "China",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#China",
-      "pubdate": "Mon, 14 Oct 2024 15:00:00 -0500"
+      "title": "Dia do Servidor Público",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Servidor%20P%C3%BAblico",
+      "pubdate": "Mon, 14 Oct 2024 08:00:00 -0500"
     }
   ]
 }
