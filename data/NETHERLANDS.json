@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-10-2024 , 23:36:33",
+  "lastUpdate": "16-10-2024 , 02:02:06",
   "data": [
     {
       "title": "Nations League",
@@ -17,14 +17,19 @@
       "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     },
     {
+      "title": "Dedert IJs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dedert%20IJs",
+      "pubdate": "Tue, 15 Oct 2024 23:00:00 +0200"
+    },
+    {
       "title": "Faber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Faber",
       "pubdate": "Tue, 15 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Dedert IJs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dedert%20IJs",
-      "pubdate": "Tue, 15 Oct 2024 23:00:00 +0200"
+      "title": "Nederlands elftal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
+      "pubdate": "Mon, 14 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Floor Jansen",
@@ -95,11 +100,6 @@
       "title": "Florida",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Florida",
       "pubdate": "Tue, 08 Oct 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Halsema",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halsema",
-      "pubdate": "Tue, 08 Oct 2024 20:00:00 +0200"
     }
   ]
 }
