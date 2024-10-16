@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2024 , 11:36:03",
+  "lastUpdate": "16-10-2024 , 12:58:36",
   "data": [
     {
       "title": "Nations League",
@@ -27,6 +27,11 @@
       "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
     },
     {
+      "title": "Cher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cher",
+      "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
+    },
+    {
       "title": "Victoria Secret",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Victoria%20Secret",
       "pubdate": "Tue, 15 Oct 2024 14:00:00 +0200"
@@ -42,9 +47,9 @@
       "pubdate": "Tue, 15 Oct 2024 14:00:00 +0200"
     },
     {
-      "title": "Denmark Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Denmark%20Open",
-      "pubdate": "Tue, 15 Oct 2024 19:00:00 +0200"
+      "title": "Bill Clinton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bill%20Clinton",
+      "pubdate": "Tue, 15 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Alien: Romulus",
@@ -95,11 +100,6 @@
       "title": "Longboard Pharmaceuticals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Longboard%20Pharmaceuticals",
       "pubdate": "Mon, 14 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Aqua",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aqua",
-      "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
     }
   ]
 }
