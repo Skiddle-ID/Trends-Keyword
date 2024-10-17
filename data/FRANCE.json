@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "17-10-2024 , 11:35:38",
+  "lastUpdate": "17-10-2024 , 12:58:43",
   "data": [
     {
       "title": "One Direction",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#One%20Direction",
       "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Givors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Givors",
+      "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Guadeloupe",
@@ -15,6 +20,11 @@
       "title": "Airbus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Airbus",
       "pubdate": "Thu, 17 Oct 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Flat tax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Flat%20tax",
+      "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Lina",
@@ -37,14 +47,14 @@
       "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
     },
     {
-      "title": "Cycliste écrasé Paris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cycliste%20%C3%A9cras%C3%A9%20Paris",
-      "pubdate": "Wed, 16 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "Gilbert Bouchet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gilbert%20Bouchet",
       "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Cycliste écrasé Paris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cycliste%20%C3%A9cras%C3%A9%20Paris",
+      "pubdate": "Wed, 16 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Samuel Paty",
@@ -90,16 +100,6 @@
       "title": "Edouard Louis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Louis",
       "pubdate": "Wed, 16 Oct 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Bérengère Krief",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#B%C3%A9reng%C3%A8re%20Krief",
-      "pubdate": "Wed, 16 Oct 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mbappe",
-      "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
     }
   ]
 }

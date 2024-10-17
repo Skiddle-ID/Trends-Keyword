@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "17-10-2024 , 11:35:41",
+  "lastUpdate": "17-10-2024 , 12:58:46",
   "data": [
+    {
+      "title": "One Direction",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#One%20Direction",
+      "pubdate": "Thu, 17 Oct 2024 02:00:00 +0300"
+    },
     {
       "title": "Elisabeth Finch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Elisabeth%20Finch",
       "pubdate": "Thu, 17 Oct 2024 08:00:00 +0300"
-    },
-    {
-      "title": "Conveyancing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Conveyancing",
-      "pubdate": "Thu, 17 Oct 2024 09:00:00 +0300"
     },
     {
       "title": "Register",
@@ -17,9 +17,9 @@
       "pubdate": "Thu, 17 Oct 2024 12:00:00 +0300"
     },
     {
-      "title": "One Direction",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#One%20Direction",
-      "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
+      "title": "Cheryl Cole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cheryl%20Cole",
+      "pubdate": "Thu, 17 Oct 2024 14:00:00 +0300"
     },
     {
       "title": "Gachagua impeachment",
@@ -52,14 +52,14 @@
       "pubdate": "Wed, 16 Oct 2024 12:00:00 +0300"
     },
     {
-      "title": "Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Portugal",
-      "pubdate": "Wed, 16 Oct 2024 13:00:00 +0300"
-    },
-    {
       "title": "Lawyer Elisha Ongoya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lawyer%20Elisha%20Ongoya",
       "pubdate": "Wed, 16 Oct 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Portugal",
+      "pubdate": "Wed, 16 Oct 2024 13:00:00 +0300"
     },
     {
       "title": "Mexico vs USA",
@@ -67,9 +67,9 @@
       "pubdate": "Wed, 16 Oct 2024 07:00:00 +0300"
     },
     {
-      "title": "Weather Today",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Weather%20Today",
-      "pubdate": "Wed, 16 Oct 2024 08:00:00 +0300"
+      "title": "Blue Economy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blue%20Economy",
+      "pubdate": "Wed, 16 Oct 2024 22:00:00 +0300"
     },
     {
       "title": "Tuchel",
@@ -77,19 +77,14 @@
       "pubdate": "Wed, 16 Oct 2024 15:00:00 +0300"
     },
     {
-      "title": "Blue Economy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Blue%20Economy",
-      "pubdate": "Wed, 16 Oct 2024 22:00:00 +0300"
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
+      "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
     },
     {
       "title": "ICPAK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#ICPAK",
       "pubdate": "Wed, 16 Oct 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Alien: Romulus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alien:%20Romulus",
-      "pubdate": "Wed, 16 Oct 2024 00:00:00 +0300"
     },
     {
       "title": "Scotland vs Portugal",
@@ -100,6 +95,11 @@
       "title": "Kylian Mbappé",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kylian%20Mbapp%C3%A9",
       "pubdate": "Tue, 15 Oct 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Benjamin Mendy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Benjamin%20Mendy",
+      "pubdate": "Tue, 15 Oct 2024 07:00:00 +0300"
     }
   ]
 }

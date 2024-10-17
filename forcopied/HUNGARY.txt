@@ -1,1 +1,1 @@
-One Direction,Szoboszlai Dominik,Kozma Imre atya,Hír,Földrengés Törökországban,Messi,Kormányinfó,Thomas Tuchel,Noszály Andrea,Fazekas László,Jenei István testépítő baleset,Millenáris,Cher,Kariko Katalin,Top gun,Péterffy tamás,Gera Zoltán,Békés Márton,Szuperhold,Monet-kiállítás
+One Direction,Szoboszlai Dominik,Kozma Imre atya,Földrengés Törökországban,Hír,Messi,Noszály Andrea,Thomas Tuchel,Fazekas László,Jenei István testépítő baleset,Kormányinfó,Családi adókedvezmény,Millenáris,Cher,Kariko Katalin,Top Gun,Péterffy tamás,Gera Zoltán,Békés Márton,Szuperhold

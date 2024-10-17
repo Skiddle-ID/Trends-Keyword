@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2024 , 11:35:37",
+  "lastUpdate": "17-10-2024 , 12:58:42",
   "data": [
     {
       "title": "One Direction",
@@ -17,6 +17,16 @@
       "pubdate": "Thu, 17 Oct 2024 09:00:00 +0200"
     },
     {
+      "title": "Klára Cibulková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
+      "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Digitalizace stavebního řízení",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Digitalizace%20stavebn%C3%ADho%20%C5%99%C3%ADzen%C3%AD",
+      "pubdate": "Thu, 17 Oct 2024 13:00:00 +0200"
+    },
+    {
       "title": "Vodafone vypadky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20vypadky",
       "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
@@ -25,6 +35,11 @@
       "title": "Victoria Secret",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Victoria%20Secret",
       "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Melanie Martinez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Melanie%20Martinez",
+      "pubdate": "Wed, 16 Oct 2024 10:00:00 +0200"
     },
     {
       "title": "Jonas Brothers",
@@ -62,9 +77,9 @@
       "pubdate": "Wed, 16 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "Madeta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madeta",
-      "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
+      "title": "Ondřej Sokol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Sokol",
+      "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
     },
     {
       "title": "iPad mini",
@@ -82,24 +97,9 @@
       "pubdate": "Wed, 16 Oct 2024 12:00:00 +0200"
     },
     {
-      "title": "Clint Eastwood",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clint%20Eastwood",
-      "pubdate": "Wed, 16 Oct 2024 17:00:00 +0200"
-    },
-    {
       "title": "Tuchel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tuchel",
       "pubdate": "Wed, 16 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Ondřej Sokol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Sokol",
-      "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Jiří Hromada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Hromada",
-      "pubdate": "Tue, 15 Oct 2024 16:00:00 +0200"
     }
   ]
 }
