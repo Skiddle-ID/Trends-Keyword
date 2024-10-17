@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2024 , 23:36:26",
+  "lastUpdate": "17-10-2024 , 01:58:13",
   "data": [
     {
       "title": "Argentina vs Bolivia",
@@ -10,6 +10,11 @@
       "title": "Libya vs Nigeria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Libya%20vs%20Nigeria",
       "pubdate": "Wed, 16 Oct 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
+      "pubdate": "Wed, 16 Oct 2024 04:00:00 +0100"
     },
     {
       "title": "Brazil vs Peru",
@@ -27,13 +32,13 @@
       "pubdate": "Wed, 16 Oct 2024 03:00:00 +0100"
     },
     {
-      "title": "Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
-      "pubdate": "Wed, 16 Oct 2024 04:00:00 +0100"
-    },
-    {
       "title": "Ayobami Olabiyi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ayobami%20Olabiyi",
+      "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Kano Pillars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kano%20Pillars",
       "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
     },
     {
@@ -57,16 +62,6 @@
       "pubdate": "Wed, 16 Oct 2024 17:00:00 +0100"
     },
     {
-      "title": "NPFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NPFL",
-      "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Kano Pillars",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kano%20Pillars",
-      "pubdate": "Wed, 16 Oct 2024 20:00:00 +0100"
-    },
-    {
       "title": "Kunle Afolayan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kunle%20Afolayan",
       "pubdate": "Wed, 16 Oct 2024 15:00:00 +0100"
@@ -85,6 +80,11 @@
       "title": "Kylian Mbappé",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kylian%20Mbapp%C3%A9",
       "pubdate": "Tue, 15 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portugal",
+      "pubdate": "Tue, 15 Oct 2024 22:00:00 +0100"
     },
     {
       "title": "Egypt",

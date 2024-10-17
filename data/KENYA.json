@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2024 , 23:36:25",
+  "lastUpdate": "17-10-2024 , 01:58:12",
   "data": [
     {
       "title": "Argentina vs Bolivia",
@@ -22,8 +22,13 @@
       "pubdate": "Wed, 16 Oct 2024 11:00:00 +0300"
     },
     {
-      "title": "Arsenal vs vålerenga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20v%C3%A5lerenga",
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
+      "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Arsenal vs Vålerenga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20V%C3%A5lerenga",
       "pubdate": "Wed, 16 Oct 2024 22:00:00 +0300"
     },
     {
@@ -35,11 +40,6 @@
       "title": "Mexico vs USA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mexico%20vs%20USA",
       "pubdate": "Wed, 16 Oct 2024 07:00:00 +0300"
-    },
-    {
-      "title": "Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
-      "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
     },
     {
       "title": "World Cup Qualifiers",
@@ -87,8 +87,8 @@
       "pubdate": "Tue, 15 Oct 2024 14:00:00 +0300"
     },
     {
-      "title": "THAAD) missile defense system",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#THAAD)%20missile%20defense%20system",
+      "title": "THAAD missile defense system",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#THAAD%20missile%20defense%20system",
       "pubdate": "Tue, 15 Oct 2024 18:00:00 +0300"
     },
     {
