@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "18-10-2024 , 11:35:59",
+  "lastUpdate": "18-10-2024 , 12:58:23",
   "data": [
-    {
-      "title": "Lincoln Lawyer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lincoln%20Lawyer",
-      "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-    },
     {
       "title": "Kip Moore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kip%20Moore",
       "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Lincoln Lawyer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lincoln%20Lawyer",
+      "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
     },
     {
       "title": "IND vs NZ",
@@ -57,14 +57,14 @@
       "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Bronkhorstspruit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bronkhorstspruit",
-      "pubdate": "Thu, 17 Oct 2024 18:00:00 +0200"
-    },
-    {
       "title": "Carl Niehaus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carl%20Niehaus",
       "pubdate": "Thu, 17 Oct 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Bronkhorstspruit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bronkhorstspruit",
+      "pubdate": "Thu, 17 Oct 2024 18:00:00 +0200"
     },
     {
       "title": "Mark Robinson",
@@ -75,11 +75,6 @@
       "title": "Cedric Kaze",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cedric%20Kaze",
       "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Patrick Maswanganyi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Patrick%20Maswanganyi",
-      "pubdate": "Thu, 17 Oct 2024 16:00:00 +0200"
     },
     {
       "title": "Big Meech",
@@ -100,6 +95,11 @@
       "title": "Bosses Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bosses%20Day",
       "pubdate": "Wed, 16 Oct 2024 06:00:00 +0200"
+    },
+    {
+      "title": "India vs New Zealand",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20New%20Zealand",
+      "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
     }
   ]
 }
