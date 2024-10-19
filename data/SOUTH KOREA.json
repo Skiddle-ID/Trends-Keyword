@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "18-10-2024 , 23:35:37",
+  "lastUpdate": "19-10-2024 , 01:56:51",
   "data": [
     {
       "title": "문다혜",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B8%EB%8B%A4%ED%98%9C",
       "pubdate": "Sat, 19 Oct 2024 02:00:00 +0900"
+    },
+    {
+      "title": "사카구치 켄타로",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%82%AC%EC%B9%B4%EA%B5%AC%EC%B9%98%20%EC%BC%84%ED%83%80%EB%A1%9C",
+      "pubdate": "Sat, 19 Oct 2024 00:00:00 +0900"
     },
     {
       "title": "아이콘매치",
@@ -22,11 +27,6 @@
       "pubdate": "Fri, 18 Oct 2024 15:00:00 +0900"
     },
     {
-      "title": "기상청",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%83%81%EC%B2%AD",
-      "pubdate": "Fri, 18 Oct 2024 14:00:00 +0900"
-    },
-    {
       "title": "신와르",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%EC%99%80%EB%A5%B4",
       "pubdate": "Fri, 18 Oct 2024 08:00:00 +0900"
@@ -40,6 +40,11 @@
       "title": "BLG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#BLG",
       "pubdate": "Fri, 18 Oct 2024 22:00:00 +0900"
+    },
+    {
+      "title": "이주빈",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A3%BC%EB%B9%88",
+      "pubdate": "Fri, 18 Oct 2024 02:00:00 +0900"
     },
     {
       "title": "LNG",
@@ -57,14 +62,14 @@
       "pubdate": "Fri, 18 Oct 2024 10:00:00 +0900"
     },
     {
+      "title": "Yahya Sinwar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#Yahya%20Sinwar",
+      "pubdate": "Fri, 18 Oct 2024 18:00:00 +0900"
+    },
+    {
       "title": "최동석",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EB%8F%99%EC%84%9D",
       "pubdate": "Thu, 17 Oct 2024 15:00:00 +0900"
-    },
-    {
-      "title": "삼성 대 LG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%82%BC%EC%84%B1%20%EB%8C%80%20LG",
-      "pubdate": "Thu, 17 Oct 2024 19:00:00 +0900"
     },
     {
       "title": "리암 페인",
@@ -72,14 +77,14 @@
       "pubdate": "Thu, 17 Oct 2024 09:00:00 +0900"
     },
     {
-      "title": "TSMC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TSMC",
-      "pubdate": "Thu, 17 Oct 2024 15:00:00 +0900"
-    },
-    {
       "title": "슈퍼문",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8A%88%ED%8D%BC%EB%AC%B8",
       "pubdate": "Thu, 17 Oct 2024 10:00:00 +0900"
+    },
+    {
+      "title": "TSMC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TSMC",
+      "pubdate": "Thu, 17 Oct 2024 15:00:00 +0900"
     },
     {
       "title": "정은채",
@@ -95,11 +100,6 @@
       "title": "김재중",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9E%AC%EC%A4%91",
       "pubdate": "Thu, 17 Oct 2024 15:00:00 +0900"
-    },
-    {
-      "title": "제이홉",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%9C%EC%9D%B4%ED%99%89",
-      "pubdate": "Thu, 17 Oct 2024 17:00:00 +0900"
     }
   ]
 }

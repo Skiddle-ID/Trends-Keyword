@@ -1,1 +1,1 @@
-Al-shabab  al-nassr,Dortmund  St Pauli,Alavés  Valladolid,Bundesliga,La Liga,Bucaramanga,Liga española,Walter Mercado,Centro Felicidad Chapinero,Inpec,Duvan Vergara,Sevdaliza,LaLiga,Alvaro Uribe Vélez,América  Deportivo Cali,Pasto  Bucaramanga,Sofia,LATAM,Copa Colombia,Flamengo  Fluminense
+Al-shabab  al-nassr,Santa Fe  Medellín,Dortmund  St. Pauli,River Plate  Vélez,Alavés  Valladolid,Bundesliga,La Liga,Inpec,Bucaramanga,Alvaro Uribe Vélez,F1,LaLiga,Walter Mercado,Centro Felicidad Chapinero,Botafogo,Sevdaliza,Duvan Vergara,Al-Hilal,América  Deportivo Cali,Pasto  Bucaramanga
