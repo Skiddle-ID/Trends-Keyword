@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2024 , 11:37:14",
+  "lastUpdate": "19-10-2024 , 12:55:11",
   "data": [
     {
       "title": "Oregon football",
@@ -52,11 +52,6 @@
       "pubdate": "Fri, 18 Oct 2024 15:00:00 -0700"
     },
     {
-      "title": "Fire Country",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fire%20Country",
-      "pubdate": "Fri, 18 Oct 2024 18:00:00 -0700"
-    },
-    {
       "title": "Cuba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cuba",
       "pubdate": "Fri, 18 Oct 2024 20:00:00 -0700"
@@ -100,6 +95,11 @@
       "title": "WNBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WNBA",
       "pubdate": "Thu, 17 Oct 2024 08:00:00 -0700"
+    },
+    {
+      "title": "Al Smith dinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Al%20Smith%20dinner",
+      "pubdate": "Thu, 17 Oct 2024 19:00:00 -0700"
     }
   ]
 }

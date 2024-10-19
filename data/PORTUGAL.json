@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2024 , 11:37:22",
+  "lastUpdate": "19-10-2024 , 12:55:20",
   "data": [
     {
       "title": "Botafogo",
@@ -12,9 +12,14 @@
       "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Premier%20League",
-      "pubdate": "Sat, 19 Oct 2024 10:00:00 +0100"
+      "title": "Belenenses  Gil Vicente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Belenenses%20%20Gil%20Vicente",
+      "pubdate": "Sat, 19 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "IRONMAN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IRONMAN",
+      "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
     },
     {
       "title": "Cruzeiro",
@@ -52,8 +57,8 @@
       "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
     },
     {
-      "title": "Pevidem Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pevidem%20Benfica",
+      "title": "Pevidem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pevidem",
       "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
     },
     {
@@ -77,14 +82,14 @@
       "pubdate": "Fri, 18 Oct 2024 01:00:00 +0100"
     },
     {
-      "title": "Lenny Kravitz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lenny%20Kravitz",
-      "pubdate": "Fri, 18 Oct 2024 11:00:00 +0100"
-    },
-    {
       "title": "Nani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nani",
       "pubdate": "Fri, 18 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Vespa asiatica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vespa%20asiatica",
+      "pubdate": "Fri, 18 Oct 2024 17:00:00 +0100"
     },
     {
       "title": "Brasileirão série a",
@@ -95,11 +100,6 @@
       "title": "Al-Hilal -Al Feiha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Hilal%20-Al%20Feiha",
       "pubdate": "Fri, 18 Oct 2024 17:00:00 +0100"
-    },
-    {
-      "title": "MotoGP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
-      "pubdate": "Fri, 18 Oct 2024 12:00:00 +0100"
     }
   ]
 }

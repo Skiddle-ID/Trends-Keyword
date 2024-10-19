@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2024 , 11:37:18",
+  "lastUpdate": "19-10-2024 , 12:55:16",
   "data": [
     {
       "title": "Herczeg Zoltán",
@@ -17,11 +17,6 @@
       "pubdate": "Sat, 19 Oct 2024 10:00:00 +0200"
     },
     {
-      "title": "Al Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Nassr",
-      "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
-    },
-    {
       "title": "Andrew Garfield",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andrew%20Garfield",
       "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
@@ -32,19 +27,24 @@
       "pubdate": "Sat, 19 Oct 2024 09:00:00 +0200"
     },
     {
+      "title": "Al Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Al%20Nassr",
+      "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
+    },
+    {
       "title": "OTP Bank Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank%20Liga",
       "pubdate": "Sat, 19 Oct 2024 08:00:00 +0200"
     },
     {
+      "title": "Koton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koton",
+      "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
+    },
+    {
       "title": "Zimbardo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zimbardo",
       "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Dortmund–St. Pauli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund%E2%80%93St.%20Pauli",
-      "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "F1",
@@ -62,14 +62,14 @@
       "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "Shane Tusup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shane%20Tusup",
-      "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
-    },
-    {
       "title": "Alavés–Valladolid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alav%C3%A9s%E2%80%93Valladolid",
       "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Shane Tusup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shane%20Tusup",
+      "pubdate": "Fri, 18 Oct 2024 10:00:00 +0200"
     },
     {
       "title": "Bajner Bálint",
