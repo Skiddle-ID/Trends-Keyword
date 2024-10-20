@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "20-10-2024 , 11:36:47",
+  "lastUpdate": "20-10-2024 , 12:55:48",
   "data": [
     {
       "title": "Cyril Hanouna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Hanouna",
       "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Girondins de Bordeaux",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Girondins%20de%20Bordeaux",
-      "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
     },
     {
       "title": "Inter Miami",
@@ -27,9 +22,9 @@
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Roi Charles Australie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roi%20Charles%20Australie",
-      "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
+      "title": "Celta Vigo – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celta%20Vigo%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Simon Fieschi",
@@ -37,14 +32,14 @@
       "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
-      "title": "Michel Klein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Klein",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1",
       "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Michel Klein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michel%20Klein",
+      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Felix Lebrun",
@@ -65,11 +60,6 @@
       "title": "Cassandre Beaugrand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cassandre%20Beaugrand",
       "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Soldats nord-coréens Ukraine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soldats%20nord-cor%C3%A9ens%20Ukraine",
-      "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     },
     {
       "title": "AC Milan – Udinese",
@@ -97,9 +87,19 @@
       "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
+      "title": "Lucie Castets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lucie%20Castets",
+      "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
+    },
+    {
       "title": "Netanyahu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Netanyahu",
       "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Soldats nord coreens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soldats%20nord%20coreens",
+      "pubdate": "Sat, 19 Oct 2024 02:00:00 +0200"
     }
   ]
 }

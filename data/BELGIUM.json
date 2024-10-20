@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "20-10-2024 , 11:36:44",
+  "lastUpdate": "20-10-2024 , 12:55:45",
   "data": [
+    {
+      "title": "Genk  STVV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%20STVV",
+      "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
+    },
+    {
+      "title": "KRC Genk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+      "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
+    },
     {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Miami",
@@ -17,11 +27,6 @@
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Nikos Aliagas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nikos%20Aliagas",
-      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
       "title": "Semi-marathon liege",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Semi-marathon%20liege",
       "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
@@ -30,6 +35,11 @@
       "title": "MLS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MLS",
       "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Nikos Aliagas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nikos%20Aliagas",
+      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
       "title": "Manchester City",
@@ -47,9 +57,14 @@
       "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
     },
     {
-      "title": "Westerlo  Club Brugge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo%20%20Club%20Brugge",
-      "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
+      "title": "Marathon Amsterdam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marathon%20Amsterdam",
+      "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
+    },
+    {
+      "title": "Francois valery",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Francois%20valery",
+      "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
     },
     {
       "title": "Ngannou vs Ferreira",
@@ -67,6 +82,11 @@
       "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
+      "title": "Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
+      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+    },
+    {
       "title": "Union  Gent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Gent",
       "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
@@ -80,26 +100,6 @@
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
       "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Retinal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Retinal",
-      "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Jean-Louis Aubert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Louis%20Aubert",
-      "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Manchester United – Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Brentford",
-      "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "AC Milan – Udinese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan%20%E2%80%93%20Udinese",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     }
   ]
 }

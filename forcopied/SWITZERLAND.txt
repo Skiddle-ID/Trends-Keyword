@@ -1,1 +1,1 @@
-Zeitumstellung,Martin Sellner,Unwetter Italien,Inter Miami,MLS,Wahlen Aargau,Chris Hoy,Noe Ponti,Liverpool,Liga,Premier League,Servette FC,Serie a,Ngannou vs Ferreira,F1,Grasshoppers – Zürich,Milan  Udinese,YB,Benfica,YB Luzern
+Zeitumstellung,Wahlen Aargau,Martin Sellner,Unwetter Italien,Inter Miami,Changement d'heure,Noe Ponti,MLS,Chris Hoy,Bologna,Wahlen Basel-Stadt,Liverpool,Liga,YB,Grasshoppers – Zürich,Premier League,Servette FC,Serie a,Ngannou vs Ferreira,F1

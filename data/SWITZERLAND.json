@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "20-10-2024 , 11:36:54",
+  "lastUpdate": "20-10-2024 , 12:55:53",
   "data": [
     {
       "title": "Zeitumstellung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zeitumstellung",
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Wahlen Aargau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Aargau",
+      "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
     },
     {
       "title": "Martin Sellner",
@@ -22,14 +27,19 @@
       "pubdate": "Sun, 20 Oct 2024 06:00:00 +0200"
     },
     {
+      "title": "Changement d'heure",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Changement%20d'heure",
+      "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Noe Ponti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Noe%20Ponti",
+      "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
+    },
+    {
       "title": "MLS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MLS",
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Wahlen Aargau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Aargau",
-      "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
     },
     {
       "title": "Chris Hoy",
@@ -37,9 +47,14 @@
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "Noe Ponti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Noe%20Ponti",
+      "title": "Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna",
       "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Wahlen Basel-Stadt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Basel-Stadt",
+      "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Liverpool",
@@ -50,6 +65,16 @@
       "title": "Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liga",
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
+    },
+    {
+      "title": "YB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
+      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Grasshoppers – Zürich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20%E2%80%93%20Z%C3%BCrich",
+      "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
     },
     {
       "title": "Premier League",
@@ -75,31 +100,6 @@
       "title": "F1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1",
       "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Grasshoppers – Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grasshoppers%20%E2%80%93%20Z%C3%BCrich",
-      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Milan  Udinese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20%20Udinese",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "YB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "YB Luzern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB%20Luzern",
-      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     }
   ]
 }
