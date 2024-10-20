@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "19-10-2024 , 23:35:30",
+  "lastUpdate": "20-10-2024 , 02:10:25",
   "data": [
     {
       "title": "KAA Gent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
-      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
@@ -17,9 +12,19 @@
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
+      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
       "title": "Bayern munchen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20munchen",
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Miami",
+      "pubdate": "Sun, 20 Oct 2024 03:00:00 +0200"
     },
     {
       "title": "Westerlo  Club Brugge",
@@ -27,14 +32,14 @@
       "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
-      "pubdate": "Sat, 19 Oct 2024 03:00:00 +0200"
-    },
-    {
       "title": "Ngannou vs Ferreira",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ngannou%20vs%20Ferreira",
       "pubdate": "Sat, 19 Oct 2024 05:00:00 +0200"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
+      "pubdate": "Sat, 19 Oct 2024 03:00:00 +0200"
     },
     {
       "title": "Ranst",
@@ -42,9 +47,9 @@
       "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     },
     {
-      "title": "Cercle  Dender",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20Dender",
-      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+      "title": "Bayern – Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20Stuttgart",
+      "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Union Saint-Gilloise – La Gantoise",
@@ -52,19 +57,24 @@
       "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
+      "title": "Cercle  Dender",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20Dender",
+      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+    },
+    {
       "title": "Union  Gent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Gent",
       "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Tottenham – West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham%20%E2%80%93%20West%20Ham",
-      "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
-    },
-    {
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
       "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Tottenham – West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham%20%E2%80%93%20West%20Ham",
+      "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Manchester United – Brentford",
@@ -77,29 +87,19 @@
       "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Simon Fieschi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Simon%20Fieschi",
-      "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
+      "title": "Formule 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Formule%201",
+      "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
     },
     {
-      "title": "Retinal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Retinal",
+      "title": "Simon Fieschi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Simon%20Fieschi",
       "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
       "title": "David Goffin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
       "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Bruant masqué",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruant%20masqu%C3%A9",
-      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-      "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
     }
   ]
 }

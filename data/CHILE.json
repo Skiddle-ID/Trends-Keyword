@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "19-10-2024 , 23:35:30",
+  "lastUpdate": "20-10-2024 , 02:10:26",
   "data": [
     {
-      "title": "U Católica . U. de Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20Cat%C3%B3lica%20.%20U.%20de%20Chile",
+      "title": "U Católica  U. de Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20Cat%C3%B3lica%20%20U.%20de%20Chile",
       "pubdate": "Sat, 19 Oct 2024 03:00:00 -0300"
+    },
+    {
+      "title": "Celta de Vigo - Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celta%20de%20Vigo%20-%20Real%20Madrid",
+      "pubdate": "Sat, 19 Oct 2024 09:00:00 -0300"
+    },
+    {
+      "title": "Campeonato Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Campeonato%20Nacional",
+      "pubdate": "Sat, 19 Oct 2024 19:00:00 -0300"
     },
     {
       "title": "O'Higgins  Ñublense",
@@ -17,14 +27,29 @@
       "pubdate": "Sat, 19 Oct 2024 13:00:00 -0300"
     },
     {
-      "title": "Manchester United - Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20-%20Brentford",
+      "title": "Manchester United  Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United%20%20Brentford",
       "pubdate": "Sat, 19 Oct 2024 11:00:00 -0300"
     },
     {
       "title": "Bournemouth - Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20-%20Arsenal",
       "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
+    },
+    {
+      "title": "Inter Miami - New England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20Miami%20-%20New%20England",
+      "pubdate": "Sat, 19 Oct 2024 20:00:00 -0300"
+    },
+    {
+      "title": "Magallanes  San Luis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20%20San%20Luis",
+      "pubdate": "Sat, 19 Oct 2024 13:00:00 -0300"
+    },
+    {
+      "title": "Tigre  Boca Juniors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tigre%20%20Boca%20Juniors",
+      "pubdate": "Sat, 19 Oct 2024 20:00:00 -0300"
     },
     {
       "title": "Tottenham  West Ham",
@@ -42,64 +67,39 @@
       "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
     },
     {
-      "title": "Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20A",
-      "pubdate": "Sat, 19 Oct 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Fulham. Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham.%20Aston%20Villa",
-      "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
-    },
-    {
       "title": "Tomas gonzalez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tomas%20gonzalez",
       "pubdate": "Sat, 19 Oct 2024 09:00:00 -0300"
     },
     {
+      "title": "Fulham  (Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20%20(Aston%20Villa",
+      "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
+    },
+    {
+      "title": "Serie a",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Serie%20a",
+      "pubdate": "Sat, 19 Oct 2024 10:00:00 -0300"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+      "pubdate": "Sat, 19 Oct 2024 20:00:00 -0300"
+    },
+    {
+      "title": "Campeonato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Campeonato",
+      "pubdate": "Sat, 19 Oct 2024 21:00:00 -0300"
+    },
+    {
+      "title": "Colo Colo vs Palestino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20vs%20Palestino",
+      "pubdate": "Sat, 19 Oct 2024 20:00:00 -0300"
+    },
+    {
       "title": "Staurikosaurus dinosaurio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Staurikosaurus%20dinosaurio",
       "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
-    },
-    {
-      "title": "Clasico universitario",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clasico%20universitario",
-      "pubdate": "Sat, 19 Oct 2024 13:00:00 -0300"
-    },
-    {
-      "title": "Barcelona vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs",
-      "pubdate": "Sat, 19 Oct 2024 14:00:00 -0300"
-    },
-    {
-      "title": "Magallanes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes",
-      "pubdate": "Sat, 19 Oct 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Athletic  rcd Espanyol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Athletic%20%20rcd%20Espanyol",
-      "pubdate": "Sat, 19 Oct 2024 11:00:00 -0300"
-    },
-    {
-      "title": "Girona  Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Girona%20%20Real%20Sociedad",
-      "pubdate": "Sat, 19 Oct 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Ben Brereton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben%20Brereton",
-      "pubdate": "Sat, 19 Oct 2024 13:00:00 -0300"
-    },
-    {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City",
-      "pubdate": "Sat, 19 Oct 2024 12:00:00 -0300"
-    },
-    {
-      "title": "Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
-      "pubdate": "Sat, 19 Oct 2024 15:00:00 -0300"
     }
   ]
 }

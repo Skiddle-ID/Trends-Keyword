@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2024 , 23:35:34",
+  "lastUpdate": "20-10-2024 , 02:10:30",
   "data": [
     {
       "title": "Freddo",
@@ -12,14 +12,19 @@
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Allerta meteo Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allerta%20meteo%20Bologna",
+      "title": "Pisa Calcio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa%20Calcio",
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "Situazione fiumi Emilia-Romagna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Situazione%20fiumi%20Emilia-Romagna",
-      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
+      "title": "Juventus-Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus-Lazio",
+      "pubdate": "Sat, 19 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Genoa-Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa-Bologna",
+      "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Como-Parma",
@@ -30,11 +35,6 @@
       "title": "Nadal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
       "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Juve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve",
-      "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Pesce spada",
@@ -52,19 +52,24 @@
       "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Premier%20League",
+      "title": "Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna",
+      "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Cambio orario ora solare",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cambio%20orario%20ora%20solare",
+      "pubdate": "Sat, 19 Oct 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Premier league",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Premier%20league",
       "pubdate": "Sat, 19 Oct 2024 04:00:00 +0200"
     },
     {
       "title": "Brescia-Sassuolo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia-Sassuolo",
       "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Palermo calcio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20calcio",
-      "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Salernitana-Spezia",
@@ -87,19 +92,14 @@
       "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Alan Friedman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alan%20Friedman",
-      "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+      "title": "Risultati Serie B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Serie%20B",
+      "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Sintomi variante Covid Xec",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sintomi%20variante%20Covid%20Xec",
       "pubdate": "Sat, 19 Oct 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Risultati Serie B",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Serie%20B",
-      "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
     }
   ]
 }
