@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 05:39:04",
+  "lastUpdate": "21-10-2024 , 06:45:38",
   "data": [
     {
       "title": "Georgia",
@@ -12,14 +12,9 @@
       "pubdate": "Sun, 20 Oct 2024 16:00:00 +0300"
     },
     {
-      "title": "Barcelona  Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Sevilla",
+      "title": "Barcelona - Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Sevilla",
       "pubdate": "Sun, 20 Oct 2024 22:00:00 +0300"
-    },
-    {
-      "title": "Wolverhampton  Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wolverhampton%20%20Man%20City",
-      "pubdate": "Sun, 20 Oct 2024 16:00:00 +0300"
     },
     {
       "title": "AEK - PAOK",
@@ -27,14 +22,14 @@
       "pubdate": "Sun, 20 Oct 2024 20:00:00 +0300"
     },
     {
-      "title": "Dinamo bucurești",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20bucure%C8%99ti",
-      "pubdate": "Sun, 20 Oct 2024 21:00:00 +0300"
-    },
-    {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
       "pubdate": "Sun, 20 Oct 2024 09:00:00 +0300"
+    },
+    {
+      "title": "Dinamo București",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti",
+      "pubdate": "Sun, 20 Oct 2024 21:00:00 +0300"
     },
     {
       "title": "Cristina Săvulescu",
@@ -42,9 +37,9 @@
       "pubdate": "Sun, 20 Oct 2024 17:00:00 +0300"
     },
     {
-      "title": "Mallorca - Rayo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mallorca%20-%20Rayo",
-      "pubdate": "Sun, 20 Oct 2024 15:00:00 +0300"
+      "title": "Steaua",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
+      "pubdate": "Sun, 20 Oct 2024 20:00:00 +0300"
     },
     {
       "title": "Roma - Inter",
@@ -52,19 +47,29 @@
       "pubdate": "Sun, 20 Oct 2024 22:00:00 +0300"
     },
     {
+      "title": "Mallorca - Rayo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mallorca%20-%20Rayo",
+      "pubdate": "Sun, 20 Oct 2024 15:00:00 +0300"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
+      "pubdate": "Sun, 20 Oct 2024 18:00:00 +0300"
+    },
+    {
       "title": "Sfantul Dumitru",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Dumitru",
       "pubdate": "Sun, 20 Oct 2024 21:00:00 +0300"
     },
     {
-      "title": "Irinel Columbeanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
-      "pubdate": "Sun, 20 Oct 2024 22:00:00 +0300"
-    },
-    {
       "title": "Bernadette Szocs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bernadette%20Szocs",
       "pubdate": "Sun, 20 Oct 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Irinel Columbeanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
+      "pubdate": "Sun, 20 Oct 2024 22:00:00 +0300"
     },
     {
       "title": "Chris Hoy",
@@ -80,11 +85,6 @@
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Juventus",
       "pubdate": "Sun, 20 Oct 2024 09:00:00 +0300"
-    },
-    {
-      "title": "Ligue 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ligue%201",
-      "pubdate": "Sun, 20 Oct 2024 13:00:00 +0300"
     },
     {
       "title": "Dinamo București  FCSB",

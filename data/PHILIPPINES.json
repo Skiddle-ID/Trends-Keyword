@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-10-2024 , 05:39:03",
+  "lastUpdate": "21-10-2024 , 06:45:38",
   "data": [
+    {
+      "title": "WNBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#WNBA",
+      "pubdate": "Mon, 21 Oct 2024 12:00:00 +0800"
+    },
     {
       "title": "Dodgers vs Mets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dodgers%20vs%20Mets",
@@ -12,14 +17,14 @@
       "pubdate": "Mon, 21 Oct 2024 10:00:00 +0800"
     },
     {
-      "title": "Ginebra vs San Miguel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ginebra%20vs%20San%20Miguel",
-      "pubdate": "Sun, 20 Oct 2024 20:00:00 +0800"
-    },
-    {
       "title": "PAGASA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PAGASA",
       "pubdate": "Sun, 20 Oct 2024 18:00:00 +0800"
+    },
+    {
+      "title": "Ginebra vs San Miguel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ginebra%20vs%20San%20Miguel",
+      "pubdate": "Sun, 20 Oct 2024 20:00:00 +0800"
     },
     {
       "title": "Lotto result October 20, 2024",
@@ -29,7 +34,7 @@
     {
       "title": "Weather forecast",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Weather%20forecast",
-      "pubdate": "Sun, 20 Oct 2024 19:00:00 +0800"
+      "pubdate": "Sun, 20 Oct 2024 23:00:00 +0800"
     },
     {
       "title": "Windy",
@@ -52,11 +57,6 @@
       "pubdate": "Sun, 20 Oct 2024 15:00:00 +0800"
     },
     {
-      "title": "North Korean South Korea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#North%20Korean%20South%20Korea",
-      "pubdate": "Sun, 20 Oct 2024 19:00:00 +0800"
-    },
-    {
       "title": "Caviar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Caviar",
       "pubdate": "Sun, 20 Oct 2024 16:00:00 +0800"
@@ -70,6 +70,11 @@
       "title": "Francis Ngannou",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Francis%20Ngannou",
       "pubdate": "Sun, 20 Oct 2024 17:00:00 +0800"
+    },
+    {
+      "title": "South Korean",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#South%20Korean",
+      "pubdate": "Sun, 20 Oct 2024 06:00:00 +0800"
     },
     {
       "title": "Tim Tszyu",
@@ -95,11 +100,6 @@
       "title": "North Korea South Korea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#North%20Korea%20South%20Korea",
       "pubdate": "Sat, 19 Oct 2024 21:00:00 +0800"
-    },
-    {
-      "title": "JM Bravo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#JM%20Bravo",
-      "pubdate": "Sat, 19 Oct 2024 15:00:00 +0800"
     }
   ]
 }
