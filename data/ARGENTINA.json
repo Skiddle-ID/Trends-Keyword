@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-10-2024 , 11:36:28",
+  "lastUpdate": "21-10-2024 , 12:58:52",
   "data": [
+    {
+      "title": "Bonelli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bonelli",
+      "pubdate": "Mon, 21 Oct 2024 00:00:00 -0300"
+    },
     {
       "title": "Valeria lynch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Valeria%20lynch",
@@ -62,11 +67,6 @@
       "pubdate": "Sun, 20 Oct 2024 16:00:00 -0300"
     },
     {
-      "title": "Verstappen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Verstappen",
-      "pubdate": "Sun, 20 Oct 2024 17:00:00 -0300"
-    },
-    {
       "title": "Pez aguja",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pez%20aguja",
       "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 20 Oct 2024 20:00:00 -0300"
     },
     {
-      "title": "Libertad  Olimpia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Libertad%20%20Olimpia",
-      "pubdate": "Sun, 20 Oct 2024 21:00:00 -0300"
+      "title": "Lando Norris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lando%20Norris",
+      "pubdate": "Sun, 20 Oct 2024 18:00:00 -0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 11:36:38",
+  "lastUpdate": "21-10-2024 , 12:58:59",
   "data": [
     {
       "title": "Toto",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 21 Oct 2024 09:00:00 +0800"
     },
     {
+      "title": "Lidia Thorpe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lidia%20Thorpe",
+      "pubdate": "Mon, 21 Oct 2024 20:00:00 +0800"
+    },
+    {
       "title": "Liverpool vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Chelsea",
       "pubdate": "Sun, 20 Oct 2024 18:00:00 +0800"
@@ -45,11 +50,6 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
       "pubdate": "Sun, 20 Oct 2024 01:00:00 +0800"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
-      "pubdate": "Sun, 20 Oct 2024 04:00:00 +0800"
     },
     {
       "title": "Prabowo",
