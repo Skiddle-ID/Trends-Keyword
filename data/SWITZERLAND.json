@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 23:36:02",
+  "lastUpdate": "21-10-2024 , 02:05:37",
   "data": [
     {
       "title": "Charles Leclerc",
@@ -7,13 +7,13 @@
       "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
     },
     {
-      "title": "FCB – St. Gallen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB%20%E2%80%93%20St.%20Gallen",
+      "title": "Wahlen Aargau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Aargau",
       "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
     },
     {
-      "title": "Wahlen Aargau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Aargau",
+      "title": "FCB – St. Gallen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB%20%E2%80%93%20St.%20Gallen",
       "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
     },
     {
@@ -42,24 +42,24 @@
       "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
     },
     {
-      "title": "Unwetter Italien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Italien",
-      "pubdate": "Sun, 20 Oct 2024 07:00:00 +0200"
-    },
-    {
       "title": "Barcelone – Séville",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelone%20%E2%80%93%20S%C3%A9ville",
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "Wolves – Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wolves%20%E2%80%93%20Manchester%20City",
-      "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
+      "title": "Unwetter Italien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Italien",
+      "pubdate": "Sun, 20 Oct 2024 07:00:00 +0200"
     },
     {
       "title": "Martin Sellner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Martin%20Sellner",
       "pubdate": "Sun, 20 Oct 2024 01:00:00 +0200"
+    },
+    {
+      "title": "FC Winterthur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
+      "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
       "title": "Noe Ponti",
@@ -72,24 +72,19 @@
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "FC Winterthur",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Winterthur",
-      "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
-    },
-    {
       "title": "Matthias Reim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthias%20Reim",
       "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
     },
     {
+      "title": "Wolves – Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wolves%20%E2%80%93%20Manchester%20City",
+      "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
+    },
+    {
       "title": "Ulrich Tukur Tatort",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ulrich%20Tukur%20Tatort",
       "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Aargauer zeitung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aargauer%20zeitung",
-      "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
     },
     {
       "title": "Inter Miami",
@@ -100,6 +95,11 @@
       "title": "Wolverhampton – Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wolverhampton%20%E2%80%93%20Man%20City",
       "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Montpellier – Marseille",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Montpellier%20%E2%80%93%20Marseille",
+      "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
     }
   ]
 }

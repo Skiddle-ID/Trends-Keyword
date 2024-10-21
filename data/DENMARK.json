@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-10-2024 , 23:35:56",
+  "lastUpdate": "21-10-2024 , 02:05:30",
   "data": [
+    {
+      "title": "Superliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Superliga",
+      "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
+    },
     {
       "title": "Liverpool  Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Chelsea",
@@ -22,14 +27,14 @@
       "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
     },
     {
-      "title": "Francis Ngannou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Francis%20Ngannou",
-      "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
-    },
-    {
       "title": "Cooke Maroney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cooke%20Maroney",
       "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Francis Ngannou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Francis%20Ngannou",
+      "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
     },
     {
       "title": "Cher",
@@ -95,11 +100,6 @@
       "title": "Tottenham  West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham%20%20West%20Ham",
       "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Formula 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formula%201",
-      "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
     }
   ]
 }

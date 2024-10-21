@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "20-10-2024 , 23:36:01",
+  "lastUpdate": "21-10-2024 , 02:05:36",
   "data": [
-    {
-      "title": "리버풀",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
-      "pubdate": "Mon, 21 Oct 2024 02:00:00 +0900"
-    },
     {
       "title": "남보라",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%A8%EB%B3%B4%EB%9D%BC",
       "pubdate": "Mon, 21 Oct 2024 00:00:00 +0900"
+    },
+    {
+      "title": "바르셀로나",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98",
+      "pubdate": "Mon, 21 Oct 2024 10:00:00 +0900"
     },
     {
       "title": "김영철",
@@ -22,18 +22,18 @@
       "pubdate": "Sun, 20 Oct 2024 00:00:00 +0900"
     },
     {
+      "title": "첼시",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%BC%EC%8B%9C",
+      "pubdate": "Sun, 20 Oct 2024 10:00:00 +0900"
+    },
+    {
       "title": "조세호",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EC%84%B8%ED%98%B8",
       "pubdate": "Sun, 20 Oct 2024 21:00:00 +0900"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
-      "pubdate": "Sun, 20 Oct 2024 06:00:00 +0900"
-    },
-    {
-      "title": "축구",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%95%EA%B5%AC",
+      "title": "박지성",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%A7%80%EC%84%B1",
       "pubdate": "Sun, 20 Oct 2024 19:00:00 +0900"
     },
     {
@@ -42,14 +42,9 @@
       "pubdate": "Sun, 20 Oct 2024 20:00:00 +0900"
     },
     {
-      "title": "한능검",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EB%8A%A5%EA%B2%80",
-      "pubdate": "Sun, 20 Oct 2024 08:00:00 +0900"
-    },
-    {
-      "title": "바이에른 뮌헨",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8%20%EB%AE%8C%ED%97%A8",
-      "pubdate": "Sun, 20 Oct 2024 10:00:00 +0900"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
+      "pubdate": "Sun, 20 Oct 2024 06:00:00 +0900"
     },
     {
       "title": "지예은",
@@ -57,9 +52,9 @@
       "pubdate": "Sun, 20 Oct 2024 11:00:00 +0900"
     },
     {
-      "title": "신예은",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%EC%98%88%EC%9D%80",
-      "pubdate": "Sun, 20 Oct 2024 21:00:00 +0900"
+      "title": "바이에른 뮌헨",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EC%9D%B4%EC%97%90%EB%A5%B8%20%EB%AE%8C%ED%97%A8",
+      "pubdate": "Sun, 20 Oct 2024 10:00:00 +0900"
     },
     {
       "title": "토트넘 대 웨스트햄",
@@ -72,9 +67,14 @@
       "pubdate": "Sat, 19 Oct 2024 01:00:00 +0900"
     },
     {
-      "title": "TES",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TES",
+      "title": "젠지",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%A0%EC%A7%80",
       "pubdate": "Sat, 19 Oct 2024 18:00:00 +0900"
+    },
+    {
+      "title": "정년이",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%95%EB%85%84%EC%9D%B4",
+      "pubdate": "Sat, 19 Oct 2024 23:00:00 +0900"
     },
     {
       "title": "강민호",
@@ -82,8 +82,8 @@
       "pubdate": "Sat, 19 Oct 2024 18:00:00 +0900"
     },
     {
-      "title": "정년이",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%95%EB%85%84%EC%9D%B4",
+      "title": "맨유",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
       "pubdate": "Sat, 19 Oct 2024 23:00:00 +0900"
     },
     {

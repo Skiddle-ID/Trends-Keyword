@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 23:36:02",
+  "lastUpdate": "21-10-2024 , 02:05:37",
   "data": [
     {
       "title": "Hammarby Djurgården",
@@ -37,14 +37,19 @@
       "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
     },
     {
-      "title": "Carola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola",
-      "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
+      "title": "Kolera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kolera",
+      "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Jennifer Lawrence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jennifer%20Lawrence",
       "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
+    },
+    {
+      "title": "Carola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carola",
+      "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
     },
     {
       "title": "Agnes Wold",
@@ -59,11 +64,6 @@
     {
       "title": "DIF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DIF",
-      "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Nahir Besara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nahir%20Besara",
       "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
     },
     {
@@ -82,11 +82,6 @@
       "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
     },
     {
-      "title": "AFN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFN",
-      "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
-    },
-    {
       "title": "Atlético Madrid mot Leganés",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Atl%C3%A9tico%20Madrid%20mot%20Legan%C3%A9s",
       "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
@@ -100,6 +95,11 @@
       "title": "Allsvenskan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
       "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Malmö FF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+      "pubdate": "Sat, 19 Oct 2024 15:00:00 +0200"
     }
   ]
 }

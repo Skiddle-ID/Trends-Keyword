@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "20-10-2024 , 23:35:56",
+  "lastUpdate": "21-10-2024 , 02:05:31",
   "data": [
+    {
+      "title": "Wolfsburg – Werder Bremen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolfsburg%20%E2%80%93%20Werder%20Bremen",
+      "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+    },
     {
       "title": "HSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
       "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Werder Bremen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-      "pubdate": "Sun, 20 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "Holstein Kiel",
@@ -20,11 +20,6 @@
       "title": "Anne Applebaum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anne%20Applebaum",
       "pubdate": "Sun, 20 Oct 2024 12:00:00 +0200"
-    },
-    {
-      "title": "Boniface",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Boniface",
-      "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Moldau",
@@ -100,6 +95,11 @@
       "title": "Tuchel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
       "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Deutschland Niederlande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Niederlande",
+      "pubdate": "Sat, 12 Oct 2024 17:00:00 +0200"
     }
   ]
 }
