@@ -1,20 +1,30 @@
 {
-  "lastUpdate": "22-10-2024 , 11:36:04",
+  "lastUpdate": "22-10-2024 , 12:58:57",
   "data": [
+    {
+      "title": "Caixa Geral de depositos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20de%20depositos",
+      "pubdate": "Tue, 22 Oct 2024 10:00:00 +0100"
+    },
     {
       "title": "BRICS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BRICS",
       "pubdate": "Tue, 22 Oct 2024 02:00:00 +0100"
     },
     {
-      "title": "Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valencia",
-      "pubdate": "Tue, 22 Oct 2024 02:00:00 +0100"
+      "title": "Putin Guterres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Putin%20Guterres",
+      "pubdate": "Tue, 22 Oct 2024 11:00:00 +0100"
     },
     {
-      "title": "Maiara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maiara",
-      "pubdate": "Tue, 22 Oct 2024 01:00:00 +0100"
+      "title": "Greve",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve",
+      "pubdate": "Tue, 22 Oct 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Rita Guerra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Guerra",
+      "pubdate": "Tue, 22 Oct 2024 11:00:00 +0100"
     },
     {
       "title": "Linha Vermelha Metro",
@@ -22,9 +32,19 @@
       "pubdate": "Tue, 22 Oct 2024 11:00:00 +0100"
     },
     {
-      "title": "Rita Guerra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Guerra",
-      "pubdate": "Tue, 22 Oct 2024 11:00:00 +0100"
+      "title": "Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valencia",
+      "pubdate": "Tue, 22 Oct 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Sporting hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20hoje",
+      "pubdate": "Tue, 22 Oct 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Maiara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maiara",
+      "pubdate": "Tue, 22 Oct 2024 01:00:00 +0100"
     },
     {
       "title": "Tom Brady",
@@ -37,14 +57,14 @@
       "pubdate": "Mon, 21 Oct 2024 16:00:00 +0100"
     },
     {
-      "title": "Passe ferroviario verde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Passe%20ferroviario%20verde",
-      "pubdate": "Mon, 21 Oct 2024 09:00:00 +0100"
-    },
-    {
       "title": "Zambujal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zambujal",
       "pubdate": "Mon, 21 Oct 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Passe ferroviario verde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Passe%20ferroviario%20verde",
+      "pubdate": "Mon, 21 Oct 2024 09:00:00 +0100"
     },
     {
       "title": "Palmeiras",
@@ -77,29 +97,9 @@
       "pubdate": "Mon, 21 Oct 2024 16:00:00 +0100"
     },
     {
-      "title": "Sara Carreira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sara%20Carreira",
-      "pubdate": "Mon, 21 Oct 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Rosa do Canto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosa%20do%20Canto",
-      "pubdate": "Mon, 21 Oct 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Moçambique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mo%C3%A7ambique",
-      "pubdate": "Mon, 21 Oct 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Blueticket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Blueticket",
-      "pubdate": "Mon, 21 Oct 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Cidadania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cidadania",
-      "pubdate": "Mon, 21 Oct 2024 21:00:00 +0100"
+      "title": "Velorio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Velorio",
+      "pubdate": "Mon, 21 Oct 2024 10:00:00 +0100"
     }
   ]
 }

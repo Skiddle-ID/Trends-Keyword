@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 11:35:58",
+  "lastUpdate": "22-10-2024 , 12:58:52",
   "data": [
     {
       "title": "Canva",
@@ -22,11 +22,6 @@
       "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
-      "title": "OUTLOOK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#OUTLOOK",
-      "pubdate": "Mon, 21 Oct 2024 12:00:00 -0500"
-    },
-    {
       "title": "Maps",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Maps",
       "pubdate": "Mon, 21 Oct 2024 15:00:00 -0500"
@@ -47,19 +42,14 @@
       "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
-      "title": "Nottingham Forest  Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nottingham%20Forest%20%20Crystal%20Palace",
-      "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
-    },
-    {
       "title": "Champions",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Champions",
       "pubdate": "Mon, 21 Oct 2024 07:00:00 -0500"
     },
     {
-      "title": "Rama Judicial",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rama%20Judicial",
-      "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
+      "title": "Nottingham Forest  Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nottingham%20Forest%20%20Crystal%20Palace",
+      "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
     },
     {
       "title": "Claro",
@@ -77,9 +67,9 @@
       "pubdate": "Mon, 21 Oct 2024 08:00:00 -0500"
     },
     {
-      "title": "Dorado Mañana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dorado%20Ma%C3%B1ana",
-      "pubdate": "Mon, 21 Oct 2024 14:00:00 -0500"
+      "title": "Rama Judicial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rama%20Judicial",
+      "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
       "title": "Sena",
@@ -87,9 +77,9 @@
       "pubdate": "Mon, 21 Oct 2024 16:00:00 -0500"
     },
     {
-      "title": "Meet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Meet",
-      "pubdate": "Mon, 21 Oct 2024 18:00:00 -0500"
+      "title": "Nueva EPS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nueva%20EPS",
+      "pubdate": "Mon, 21 Oct 2024 11:00:00 -0500"
     },
     {
       "title": "Paul Di'Anno",
@@ -100,6 +90,16 @@
       "title": "BBVA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#BBVA",
       "pubdate": "Mon, 21 Oct 2024 12:00:00 -0500"
+    },
+    {
+      "title": "Miguel Uribe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Miguel%20Uribe",
+      "pubdate": "Mon, 21 Oct 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Dorado Tarde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dorado%20Tarde",
+      "pubdate": "Mon, 21 Oct 2024 18:00:00 -0500"
     }
   ]
 }

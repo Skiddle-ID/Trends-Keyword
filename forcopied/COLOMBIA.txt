@@ -1,1 +1,1 @@
-Canva,WhatsApp,Barcelona,Liverpool,OUTLOOK,Maps,Davivienda,Metro de medellin,Sura,Nottingham Forest  Crystal Palace,Champions,Rama Judicial,Claro,Banco de bogota,Al Hilal,Dorado Mañana,Sena,Meet,Paul Di'Anno,BBVA
+Canva,WhatsApp,Barcelona,Liverpool,Maps,Davivienda,Metro de medellin,Sura,Champions,Nottingham Forest  Crystal Palace,Claro,Banco de bogota,Al Hilal,Rama Judicial,Sena,Nueva EPS,Paul Di'Anno,BBVA,Miguel Uribe,Dorado Tarde

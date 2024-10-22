@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 11:35:59",
+  "lastUpdate": "22-10-2024 , 12:58:52",
   "data": [
     {
       "title": "Uniqlo",
@@ -10,6 +10,16 @@
       "title": "London",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#London",
       "pubdate": "Tue, 22 Oct 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Mike Van Wyck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mike%20Van%20Wyck",
+      "pubdate": "Tue, 22 Oct 2024 13:00:00 +0300"
+    },
+    {
+      "title": "Oura",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Oura",
+      "pubdate": "Tue, 22 Oct 2024 14:00:00 +0300"
     },
     {
       "title": "Champions League",
@@ -37,11 +47,6 @@
       "pubdate": "Mon, 21 Oct 2024 10:00:00 +0300"
     },
     {
-      "title": "MrBeast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MrBeast",
-      "pubdate": "Mon, 21 Oct 2024 06:00:00 +0300"
-    },
-    {
       "title": "Docs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
       "pubdate": "Mon, 21 Oct 2024 17:00:00 +0300"
@@ -62,6 +67,11 @@
       "pubdate": "Mon, 21 Oct 2024 21:00:00 +0300"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
+      "pubdate": "Mon, 21 Oct 2024 08:00:00 +0300"
+    },
+    {
       "title": "Jennifer Lawrence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Lawrence",
       "pubdate": "Mon, 21 Oct 2024 17:00:00 +0300"
@@ -70,11 +80,6 @@
       "title": "Bullets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bullets",
       "pubdate": "Mon, 21 Oct 2024 00:00:00 +0300"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
-      "pubdate": "Mon, 21 Oct 2024 10:00:00 +0300"
     },
     {
       "title": "Lauri Markkanen",
@@ -95,11 +100,6 @@
       "title": "Liverpool – Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Chelsea",
       "pubdate": "Sun, 20 Oct 2024 19:00:00 +0300"
-    },
-    {
-      "title": "Audemars Piguet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Audemars%20Piguet",
-      "pubdate": "Sun, 20 Oct 2024 14:00:00 +0300"
     }
   ]
 }

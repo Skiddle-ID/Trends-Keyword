@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 11:36:02",
+  "lastUpdate": "22-10-2024 , 12:58:56",
   "data": [
     {
       "title": "Champions League",
@@ -32,8 +32,8 @@
       "pubdate": "Mon, 21 Oct 2024 11:00:00 -0600"
     },
     {
-      "title": "Valencia CF  UD Las Palmas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20UD%20Las%20Palmas",
+      "title": "Valencia c f  UD Las Palmas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20c%20f%20%20UD%20Las%20Palmas",
       "pubdate": "Mon, 21 Oct 2024 13:00:00 -0600"
     },
     {
@@ -77,11 +77,6 @@
       "pubdate": "Mon, 21 Oct 2024 00:00:00 -0600"
     },
     {
-      "title": "Martha Acevedo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Martha%20Acevedo",
-      "pubdate": "Mon, 21 Oct 2024 15:00:00 -0600"
-    },
-    {
       "title": "Papas por Conveniencia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Papas%20por%20Conveniencia",
       "pubdate": "Mon, 21 Oct 2024 21:00:00 -0600"
@@ -100,6 +95,11 @@
       "title": "Fernando Valenzuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fernando%20Valenzuela",
       "pubdate": "Mon, 21 Oct 2024 10:00:00 -0600"
+    },
+    {
+      "title": "America Femenil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20Femenil",
+      "pubdate": "Mon, 21 Oct 2024 08:00:00 -0600"
     }
   ]
 }
