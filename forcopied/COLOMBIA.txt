@@ -1,1 +1,1 @@
-Canva,Chat GPT,WhatsApp,Barcelona,Liverpool,OUTLOOK,Maps,Davivienda,Sura,Nottingham Forest  Crystal Palace,Banco de bogota,Al Hilal,Sena,Porvenir,365,Valencia CF  UD Las Palmas,Microsoft 365,Champions,BBVA,Champions League
+Canva,Chat GPT,WhatsApp,Barcelona,OUTLOOK,Bancolombia,Maps,Davivienda,Boyacá Chicó  Medellín,Sura,Nottingham Forest  Crystal Palace,Metro de medellin,Champions,Claro,Banco de bogota,Al Hilal,Dorado Mañana,Sena,Porvenir,LinkedIn

@@ -1,1 +1,1 @@
-Al Hilal,ARCA,Paul Di'Anno,Tararira,IPS,Nottingham Forest  Crystal Palace,Donald Trump McDonald's,Bonelli,Adam Sandler,Champions League,Ocon,Valencia CF,Valentina Zenere,Williams Racing,Alonso,Colapinto,San Lorenzo,Barcelona  Sevilla,Argentinos jrs.  Talleres,Atlético Madrid  Leganés
+ARCA,Al Hilal,Copa Libertadores,Paul Di'Anno,Libertadores,IPS,Tararira,Nottingham Forest  Crystal Palace,Milei,Marcelo Bonelli,Donald Trump McDonald's,Valencia CF,Champions League,Adam Sandler,Cristina Kirchner,All Boys,Ocon,Valentina Zenere,Clima San Juan,Copa Sudamericana

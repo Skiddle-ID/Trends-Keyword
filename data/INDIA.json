@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 23:36:38",
+  "lastUpdate": "22-10-2024 , 02:01:42",
   "data": [
     {
       "title": "Bangladesh vs South Africa",
@@ -7,14 +7,14 @@
       "pubdate": "Mon, 21 Oct 2024 09:30:00 +0530"
     },
     {
-      "title": "Hyundai IPO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20IPO",
-      "pubdate": "Mon, 21 Oct 2024 09:30:00 +0530"
-    },
-    {
       "title": "Waaree Energies IPO GMP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Waaree%20Energies%20IPO%20GMP",
       "pubdate": "Mon, 21 Oct 2024 11:30:00 +0530"
+    },
+    {
+      "title": "Hyundai IPO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20IPO",
+      "pubdate": "Mon, 21 Oct 2024 09:30:00 +0530"
     },
     {
       "title": "Cyclone Dana",
@@ -27,11 +27,6 @@
       "pubdate": "Mon, 21 Oct 2024 18:30:00 +0530"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-      "pubdate": "Mon, 21 Oct 2024 01:30:00 +0530"
-    },
-    {
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FC%20Barcelona",
       "pubdate": "Mon, 21 Oct 2024 01:30:00 +0530"
@@ -42,19 +37,14 @@
       "pubdate": "Mon, 21 Oct 2024 14:30:00 +0530"
     },
     {
-      "title": "Deepak Builders and Engineers IPO GMP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Deepak%20Builders%20and%20Engineers%20IPO%20GMP",
-      "pubdate": "Mon, 21 Oct 2024 11:30:00 +0530"
-    },
-    {
-      "title": "India A vs UAE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20A%20vs%20UAE",
-      "pubdate": "Mon, 21 Oct 2024 21:30:00 +0530"
-    },
-    {
       "title": "Mohammed Shami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Shami",
       "pubdate": "Mon, 21 Oct 2024 16:30:00 +0530"
+    },
+    {
+      "title": "Sophie Devine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sophie%20Devine",
+      "pubdate": "Mon, 21 Oct 2024 08:30:00 +0530"
     },
     {
       "title": "Delhi",
@@ -62,18 +52,23 @@
       "pubdate": "Mon, 21 Oct 2024 02:30:00 +0530"
     },
     {
-      "title": "CJI Chandrachud",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CJI%20Chandrachud",
-      "pubdate": "Mon, 21 Oct 2024 20:30:00 +0530"
-    },
-    {
       "title": "Adar Poonawalla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adar%20Poonawalla",
       "pubdate": "Mon, 21 Oct 2024 18:30:00 +0530"
     },
     {
-      "title": "Kagiso Rabada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kagiso%20Rabada",
+      "title": "CJI Chandrachud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CJI%20Chandrachud",
+      "pubdate": "Mon, 21 Oct 2024 20:30:00 +0530"
+    },
+    {
+      "title": "IND-A vs UAE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND-A%20vs%20UAE",
+      "pubdate": "Mon, 21 Oct 2024 22:30:00 +0530"
+    },
+    {
+      "title": "Russia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Russia",
       "pubdate": "Mon, 21 Oct 2024 15:30:00 +0530"
     },
     {
@@ -100,6 +95,11 @@
       "title": "La Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#La%20Liga",
       "pubdate": "Sun, 20 Oct 2024 21:30:00 +0530"
+    },
+    {
+      "title": "Delhi Bomb Blast",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Bomb%20Blast",
+      "pubdate": "Sun, 20 Oct 2024 17:30:00 +0530"
     }
   ]
 }
