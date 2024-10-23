@@ -1,1 +1,1 @@
-NBA,Celtics,Haute,Fernando Valenzuela,Real Madrid,Timberwolves vs Lakers,Zach Bryan,E. coli,Arsenal,Cooper Kupp,Anthony Edwards,Tulsi Gabbard,Eminem,Michael Newman,Mike Evans injury,Karl-Anthony Towns,Rudy Giuliani,AC Milan,Desmond Ridder,What We Do In the shadows
+DeAndre Hopkins,NBA,Celtics,Fernando Valenzuela,Timberwolves vs Lakers,Zach Bryan,NBA games,E. coli,Arsenal,Cooper Kupp,Tulsi Gabbard,Anthony Edwards,Eminem,Tua Tagovailoa,Rudy Giuliani,Karl-Anthony Towns,AC Milan,Desmond Ridder,What We Do In the shadows,Azure
