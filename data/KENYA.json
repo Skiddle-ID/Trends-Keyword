@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 23:36:09",
+  "lastUpdate": "23-10-2024 , 01:57:41",
   "data": [
     {
       "title": "Europa League",
@@ -27,11 +27,6 @@
       "pubdate": "Tue, 22 Oct 2024 15:00:00 +0300"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
-      "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
-    },
-    {
       "title": "Aston Villa vs Bologna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aston%20Villa%20vs%20Bologna",
       "pubdate": "Tue, 22 Oct 2024 17:00:00 +0300"
@@ -47,9 +42,9 @@
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
     },
     {
-      "title": "UCL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UCL",
-      "pubdate": "Tue, 22 Oct 2024 10:00:00 +0300"
+      "title": "Arsenal f.c.",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20f.c.",
+      "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
       "title": "Juventus vs Stuttgart",
@@ -62,9 +57,19 @@
       "pubdate": "Tue, 22 Oct 2024 19:00:00 +0300"
     },
     {
+      "title": "John Khaminwa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#John%20Khaminwa",
+      "pubdate": "Tue, 22 Oct 2024 19:00:00 +0300"
+    },
+    {
       "title": "Swordfish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Swordfish",
       "pubdate": "Tue, 22 Oct 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Champions League table",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Champions%20League%20table",
+      "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
       "title": "Uefa",
@@ -72,8 +77,8 @@
       "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
     },
     {
-      "title": "Housing levy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Housing%20levy",
+      "title": "Housing Levy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Housing%20Levy",
       "pubdate": "Tue, 22 Oct 2024 18:00:00 +0300"
     },
     {
@@ -82,24 +87,19 @@
       "pubdate": "Tue, 22 Oct 2024 21:00:00 +0300"
     },
     {
-      "title": "Khaminwa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Khaminwa",
-      "pubdate": "Tue, 22 Oct 2024 19:00:00 +0300"
-    },
-    {
       "title": "NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NBA",
       "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
-      "title": "60 Minutes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#60%20Minutes",
-      "pubdate": "Tue, 22 Oct 2024 17:00:00 +0300"
-    },
-    {
       "title": "Monaco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Monaco",
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
+    },
+    {
+      "title": "60 Minutes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#60%20Minutes",
+      "pubdate": "Tue, 22 Oct 2024 17:00:00 +0300"
     }
   ]
 }

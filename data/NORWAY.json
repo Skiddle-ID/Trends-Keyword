@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 23:36:10",
+  "lastUpdate": "23-10-2024 , 01:57:42",
   "data": [
     {
       "title": "NBA",
@@ -20,6 +20,21 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "Sverdfisk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverdfisk",
+      "pubdate": "Tue, 22 Oct 2024 07:00:00 +0200"
+    },
+    {
+      "title": "Thomas Breen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Breen",
+      "pubdate": "Tue, 22 Oct 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Sleipner B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sleipner%20B",
+      "pubdate": "Tue, 22 Oct 2024 12:00:00 +0200"
     },
     {
       "title": "Grane kommune",
@@ -85,21 +100,6 @@
       "title": "Tv2.no",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no",
       "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
-    },
-    {
-      "title": "FN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
-      "pubdate": "Mon, 21 Oct 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Storm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Storm",
-      "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Bonnie Blue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bonnie%20Blue",
-      "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
     }
   ]
 }

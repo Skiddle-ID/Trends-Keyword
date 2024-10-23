@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 23:36:06",
+  "lastUpdate": "23-10-2024 , 01:57:38",
   "data": [
     {
       "title": "Champions League",
@@ -47,19 +47,24 @@
       "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
-      "title": "Bolt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bolt",
-      "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
-    },
-    {
       "title": "UCL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UCL",
       "pubdate": "Tue, 22 Oct 2024 23:00:00 +0300"
     },
     {
+      "title": "Bolt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bolt",
+      "pubdate": "Tue, 22 Oct 2024 20:00:00 +0300"
+    },
+    {
       "title": "Stanley Tucci",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stanley%20Tucci",
       "pubdate": "Tue, 22 Oct 2024 21:00:00 +0300"
+    },
+    {
+      "title": "NAS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NAS",
+      "pubdate": "Tue, 22 Oct 2024 22:00:00 +0300"
     },
     {
       "title": "Dior",
@@ -90,11 +95,6 @@
       "title": "Classroom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Classroom",
       "pubdate": "Mon, 21 Oct 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Docs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
-      "pubdate": "Mon, 21 Oct 2024 17:00:00 +0300"
     },
     {
       "title": "Liam Payne dead body",

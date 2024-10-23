@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "22-10-2024 , 23:36:04",
+  "lastUpdate": "23-10-2024 , 01:57:37",
   "data": [
-    {
-      "title": "Cmsp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cmsp",
-      "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
-    },
     {
       "title": "Fluminense x Athletico-PR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x%20Athletico-PR",
       "pubdate": "Tue, 22 Oct 2024 13:00:00 -0500"
     },
     {
-      "title": "Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+      "title": "Santos x Ceará SC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20x%20Cear%C3%A1%20SC",
+      "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Cmsp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cmsp",
       "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
     },
     {
-      "title": "Gov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gov",
-      "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
+      "title": "Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+      "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
     },
     {
       "title": "Arsenal x Shakhtar Donetsk",
@@ -32,9 +32,9 @@
       "pubdate": "Tue, 22 Oct 2024 10:00:00 -0500"
     },
     {
-      "title": "Santos x Ceará sc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20x%20Cear%C3%A1%20sc",
-      "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
+      "title": "NBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NBA",
+      "pubdate": "Tue, 22 Oct 2024 19:00:00 -0500"
     },
     {
       "title": "Juventus",
@@ -45,6 +45,11 @@
       "title": "Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20Villa",
       "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
+    },
+    {
+      "title": "Novorizontino x Avaí",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino%20x%20Ava%C3%AD",
+      "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
     },
     {
       "title": "Tonhao Palmeiras",
@@ -77,29 +82,24 @@
       "pubdate": "Tue, 22 Oct 2024 10:00:00 -0500"
     },
     {
+      "title": "Santos FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
+      "pubdate": "Tue, 22 Oct 2024 18:00:00 -0500"
+    },
+    {
       "title": "Lotofacil 3225",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lotofacil%203225",
       "pubdate": "Tue, 22 Oct 2024 07:00:00 -0500"
     },
     {
-      "title": "Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
-      "pubdate": "Tue, 22 Oct 2024 13:00:00 -0500"
+      "title": "Vila Nova x Amazonas fc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Amazonas%20fc",
+      "pubdate": "Tue, 22 Oct 2024 20:00:00 -0500"
     },
     {
-      "title": "Chiquinho Brazão",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chiquinho%20Braz%C3%A3o",
-      "pubdate": "Tue, 22 Oct 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Carla Zambelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carla%20Zambelli",
-      "pubdate": "Tue, 22 Oct 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Uefa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Uefa",
-      "pubdate": "Tue, 22 Oct 2024 16:00:00 -0500"
+      "title": "Mirassol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
+      "pubdate": "Tue, 22 Oct 2024 17:00:00 -0500"
     }
   ]
 }

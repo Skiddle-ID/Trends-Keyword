@@ -1,1 +1,1 @@
-Clima,Jorge Valdivia,Alejandro Tabilo,Milan  Club Brujas,PSG  PSV,Juventus,Arsenal - Shakhtar,Aston Villa  Bolonia,Chris Hoy,Al Nassr,Alejandro Toledo,Girona - Slovan Bratislava,Breaking Bad,Tomás Barrios,FloyyMenor,Real Madrid  Dortmund,Champions League,Copa Libertadores,Paul Di'Anno,JUNJI
+Clima,Jorge Valdivia,Atlético Mineiro  River Plate,Alejandro Tabilo,PSG - PSV,Juventus,Arsenal - Shakhtar,Aston Villa  Bolonia,Milan,NBA,Flagrancia,Chris Hoy,Al Nassr,Pisco sour,Alejandro Toledo,Girona - Slovan Bratislava,Breaking Bad,Barcelona vs Bayern,Tomás Barrios,FloyyMenor

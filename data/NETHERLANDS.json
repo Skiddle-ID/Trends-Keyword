@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "22-10-2024 , 23:36:10",
+  "lastUpdate": "23-10-2024 , 01:57:42",
   "data": [
+    {
+      "title": "Nol Havens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nol%20Havens",
+      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+    },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
@@ -40,11 +45,6 @@
       "title": "Ebusco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ebusco",
       "pubdate": "Mon, 21 Oct 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Helmond Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport",
-      "pubdate": "Mon, 21 Oct 2024 22:00:00 +0200"
     },
     {
       "title": "Fcgroningen",
