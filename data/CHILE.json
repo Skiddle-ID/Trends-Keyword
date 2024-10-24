@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 11:36:18",
+  "lastUpdate": "24-10-2024 , 12:59:01",
   "data": [
     {
       "title": "Eminem",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
     },
     {
-      "title": "Temblor hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
-      "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
-    },
-    {
       "title": "Instituto Nacional",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Instituto%20Nacional",
       "pubdate": "Thu, 24 Oct 2024 02:00:00 -0300"
+    },
+    {
+      "title": "Temblor hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+      "pubdate": "Thu, 24 Oct 2024 00:00:00 -0300"
     },
     {
       "title": "INBA",
@@ -52,24 +52,19 @@
       "pubdate": "Wed, 23 Oct 2024 00:00:00 -0300"
     },
     {
+      "title": "Paula Vial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paula%20Vial",
+      "pubdate": "Wed, 23 Oct 2024 14:00:00 -0300"
+    },
+    {
       "title": "Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
       "pubdate": "Wed, 23 Oct 2024 17:00:00 -0300"
     },
     {
-      "title": "Nicolas lopez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicolas%20lopez",
-      "pubdate": "Wed, 23 Oct 2024 14:00:00 -0300"
-    },
-    {
       "title": "Pailita",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pailita",
       "pubdate": "Wed, 23 Oct 2024 09:00:00 -0300"
-    },
-    {
-      "title": "Boca Juniors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors",
-      "pubdate": "Wed, 23 Oct 2024 23:00:00 -0300"
     },
     {
       "title": "Leverkusen",
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 23 Oct 2024 12:00:00 -0300"
     },
     {
-      "title": "Sporting Cristal  Universitario",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20Cristal%20%20Universitario",
+      "title": "Sporting Cristal Universitario",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20Cristal%20Universitario",
       "pubdate": "Wed, 23 Oct 2024 23:00:00 -0300"
     },
     {
       "title": "Charly garcia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Charly%20garcia",
       "pubdate": "Wed, 23 Oct 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Tiempo hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20hoy",
+      "pubdate": "Wed, 23 Oct 2024 01:00:00 -0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 11:36:24",
+  "lastUpdate": "24-10-2024 , 12:59:06",
   "data": [
     {
       "title": "Naciones Unidas",
@@ -57,6 +57,11 @@
       "pubdate": "Wed, 23 Oct 2024 14:00:00 -0600"
     },
     {
+      "title": "Que se celebra hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20hoy",
+      "pubdate": "Wed, 23 Oct 2024 14:00:00 -0600"
+    },
+    {
       "title": "Que se celebra el 23 de octubre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20el%2023%20de%20octubre",
       "pubdate": "Wed, 23 Oct 2024 11:00:00 -0600"
@@ -67,14 +72,14 @@
       "pubdate": "Wed, 23 Oct 2024 03:00:00 -0600"
     },
     {
-      "title": "Atletico de Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atletico%20de%20Madrid",
-      "pubdate": "Wed, 23 Oct 2024 14:00:00 -0600"
-    },
-    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Europa%20League",
       "pubdate": "Wed, 23 Oct 2024 03:00:00 -0600"
+    },
+    {
+      "title": "Atletico de Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atletico%20de%20Madrid",
+      "pubdate": "Wed, 23 Oct 2024 14:00:00 -0600"
     },
     {
       "title": "Barcelona vs Real Madrid",
@@ -95,11 +100,6 @@
       "title": "Warriors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Warriors",
       "pubdate": "Wed, 23 Oct 2024 00:00:00 -0600"
-    },
-    {
-      "title": "Que se celebra el 24 de octubre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Que%20se%20celebra%20el%2024%20de%20octubre",
-      "pubdate": "Wed, 23 Oct 2024 16:00:00 -0600"
     }
   ]
 }
