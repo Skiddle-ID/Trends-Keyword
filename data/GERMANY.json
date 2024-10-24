@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "23-10-2024 , 23:35:49",
+  "lastUpdate": "24-10-2024 , 01:58:01",
   "data": [
     {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
       "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Stade Brest – Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stade%20Brest%20%E2%80%93%20Leverkusen",
-      "pubdate": "Wed, 23 Oct 2024 18:00:00 +0200"
     },
     {
       "title": "RB Leipzig – Liverpool",
@@ -27,9 +22,9 @@
       "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
     },
     {
-      "title": "Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
-      "pubdate": "Wed, 23 Oct 2024 03:00:00 +0200"
+      "title": "Stade Brest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stade%20Brest",
+      "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "BVB",
@@ -37,13 +32,13 @@
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+      "title": "Prime Video",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Video",
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
-      "title": "Prime Video",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Video",
+      "title": "VfB",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Checker Tobi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Checker%20Tobi",
       "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+    },
+    {
+      "title": "VfL Bochum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
+      "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
     }
   ]
 }

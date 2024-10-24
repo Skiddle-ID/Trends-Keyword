@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 23:35:48",
+  "lastUpdate": "24-10-2024 , 01:58:00",
   "data": [
     {
       "title": "Barcelona – Bayern",
@@ -12,9 +12,9 @@
       "pubdate": "Wed, 23 Oct 2024 15:00:00 +0200"
     },
     {
-      "title": "Haaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Haaland",
-      "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+      "title": "Tyler, The Creator",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tyler,%20The%20Creator",
+      "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
     },
     {
       "title": "LeBron James",
@@ -22,14 +22,14 @@
       "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
     },
     {
-      "title": "Tyler, The Creator",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tyler,%20The%20Creator",
-      "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
-    },
-    {
       "title": "Sparta Praha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Praha",
       "pubdate": "Wed, 23 Oct 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Vojtěch Šilhan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vojt%C4%9Bch%20%C5%A0ilhan",
+      "pubdate": "Wed, 23 Oct 2024 16:00:00 +0200"
     },
     {
       "title": "NBA",
@@ -47,14 +47,14 @@
       "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
     },
     {
+      "title": "Atlético Madrid – Lille",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Lille",
+      "pubdate": "Wed, 23 Oct 2024 23:00:00 +0200"
+    },
+    {
       "title": "Britney Spears",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Britney%20Spears",
       "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
-    },
-    {
-      "title": "Kamarádi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamar%C3%A1di",
-      "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
     },
     {
       "title": "Cillian Murphy",
@@ -77,14 +77,19 @@
       "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "E.coli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#E.coli",
+      "title": "E. Coli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#E.%20Coli",
       "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
     },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
       "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Extraliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+      "pubdate": "Wed, 23 Oct 2024 13:00:00 +0200"
     },
     {
       "title": "Man City – Sparta",
@@ -95,11 +100,6 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
       "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Juventus – Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus%20%E2%80%93%20Stuttgart",
-      "pubdate": "Tue, 22 Oct 2024 21:00:00 +0200"
     }
   ]
 }

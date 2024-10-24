@@ -1,1 +1,1 @@
-Champions League,INBA,Chayanne,RB Leipzig - Liverpool,Manchester City,Peñarol,Stade Brestois  Leverkusen,Inter,Puerto Montt  Ñublense,Pailita,Atalanta,Lakers,Atletico de Madrid,Lakers  Timberwolves,Europa League,Maria Elena santibañez,City,Charly garcia,Benfica,Patricia Bullrich
+INBA,Peñarol,Puerto Montt  Ñublense,RB Leipzig - Liverpool,Chayanne,Manchester City,Boca Juniors  Gimnasia,Stade Brestois  Leverkusen,Inter,Pailita,Atalanta,Atletico de Madrid,Lakers,Europa League,Maria Elena santibañez,Charly garcia,City vs,Movistar Arena,Benfica,Escherichia coli

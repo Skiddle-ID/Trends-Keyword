@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "23-10-2024 , 23:35:53",
+  "lastUpdate": "24-10-2024 , 01:58:05",
   "data": [
+    {
+      "title": "Marcelo Rebelo de Sousa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
+      "pubdate": "Thu, 24 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Turquia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Turquia",
+      "pubdate": "Thu, 24 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Hoffenheim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoffenheim",
+      "pubdate": "Thu, 24 Oct 2024 01:00:00 +0100"
+    },
     {
       "title": "Braga  bodø/glimt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20%20bod%C3%B8/glimt",
@@ -12,16 +27,6 @@
       "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
     },
     {
-      "title": "Sorteio Taça Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sorteio%20Ta%C3%A7a%20Portugal",
-      "pubdate": "Wed, 23 Oct 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Lisboa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lisboa",
-      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
-    },
-    {
       "title": "Libertadores",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Libertadores",
       "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
@@ -30,6 +35,11 @@
       "title": "City  Sparta Praga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Sparta%20Praga",
       "pubdate": "Wed, 23 Oct 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Lisboa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lisboa",
+      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
     },
     {
       "title": "NBA",
@@ -47,9 +57,19 @@
       "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
     },
     {
+      "title": "Botafogo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+      "pubdate": "Wed, 23 Oct 2024 10:00:00 +0100"
+    },
+    {
       "title": "Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
       "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Odair",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Odair",
+      "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
     },
     {
       "title": "SL Benfica",
@@ -67,18 +87,8 @@
       "pubdate": "Wed, 23 Oct 2024 16:00:00 +0100"
     },
     {
-      "title": "McDonald's",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#McDonald's",
-      "pubdate": "Wed, 23 Oct 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Paulo Rangel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
-      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Botafogo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+      "title": "Escherichia coli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Escherichia%20coli",
       "pubdate": "Wed, 23 Oct 2024 12:00:00 +0100"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 23 Oct 2024 19:00:00 +0100"
     },
     {
-      "title": "Maniche",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maniche",
-      "pubdate": "Wed, 23 Oct 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Christopher Nolan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Christopher%20Nolan",
-      "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
-    },
-    {
-      "title": "LeBron James",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#LeBron%20James",
-      "pubdate": "Wed, 23 Oct 2024 14:00:00 +0100"
+      "title": "Paulo Rangel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
+      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
     }
   ]
 }
