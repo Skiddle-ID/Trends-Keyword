@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "25-10-2024 , 11:35:52",
+  "lastUpdate": "25-10-2024 , 12:58:11",
   "data": [
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
-      "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
-    },
     {
       "title": "MSB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MSB",
       "pubdate": "Fri, 25 Oct 2024 10:00:00 +0200"
     },
     {
+      "title": "Stina Wollter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stina%20Wollter",
+      "pubdate": "Fri, 25 Oct 2024 14:00:00 +0200"
+    },
+    {
       "title": "Förrädarna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
       "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
+    },
+    {
+      "title": "Disney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Disney",
+      "pubdate": "Fri, 25 Oct 2024 14:00:00 +0200"
     },
     {
       "title": "Halfdan Ullmann Tøndel",
@@ -52,19 +57,9 @@
       "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-      "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
-    },
-    {
       "title": "FN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FN",
       "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Jysk stänger butiker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jysk%20st%C3%A4nger%20butiker",
-      "pubdate": "Thu, 24 Oct 2024 17:00:00 +0200"
     },
     {
       "title": "Fascist",
@@ -72,14 +67,14 @@
       "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
     },
     {
+      "title": "Jysk stänger butiker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jysk%20st%C3%A4nger%20butiker",
+      "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
+    },
+    {
       "title": "Skims",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skims",
       "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Anna Kendrick",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Kendrick",
-      "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Den sista resan",
@@ -99,6 +94,11 @@
     {
       "title": "Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sri%20Lanka",
+      "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+    },
+    {
+      "title": "Vätternrundan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4tternrundan",
       "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
     }
   ]

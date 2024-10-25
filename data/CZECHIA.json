@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 11:35:45",
+  "lastUpdate": "25-10-2024 , 12:58:04",
   "data": [
     {
       "title": "Finale Love Island 2024",
@@ -7,24 +7,24 @@
       "pubdate": "Fri, 25 Oct 2024 07:00:00 +0200"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
-      "pubdate": "Fri, 25 Oct 2024 06:00:00 +0200"
-    },
-    {
       "title": "Call of Duty: Black Ops 6",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Call%20of%20Duty:%20Black%20Ops%206",
       "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
     },
     {
-      "title": "Vodojemy Brno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodojemy%20Brno",
-      "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
-    },
-    {
       "title": "Bachelor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bachelor",
       "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+      "pubdate": "Fri, 25 Oct 2024 06:00:00 +0200"
+    },
+    {
+      "title": "Vodojemy Brno",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodojemy%20Brno",
+      "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
     },
     {
       "title": "Hugh Jackman",
@@ -39,12 +39,17 @@
     {
       "title": "PAOK – Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PAOK%20%E2%80%93%20Plze%C5%88",
-      "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
+      "pubdate": "Thu, 24 Oct 2024 07:00:00 +0200"
     },
     {
       "title": "Boleslav – Lugano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Lugano",
       "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Slavia Praha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+      "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
     },
     {
       "title": "Ron Ely",
@@ -95,11 +100,6 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
       "pubdate": "Thu, 24 Oct 2024 10:00:00 +0200"
-    },
-    {
-      "title": "Man City – Sparta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City%20%E2%80%93%20Sparta",
-      "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
     }
   ]
 }
