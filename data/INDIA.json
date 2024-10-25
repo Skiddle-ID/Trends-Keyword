@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "24-10-2024 , 23:36:22",
+  "lastUpdate": "25-10-2024 , 02:00:37",
   "data": [
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manchester%20United",
+      "pubdate": "Fri, 25 Oct 2024 01:30:00 +0530"
+    },
+    {
+      "title": "IND vs NZ 2nd Test",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20NZ%202nd%20Test",
+      "pubdate": "Fri, 25 Oct 2024 02:30:00 +0530"
+    },
+    {
+      "title": "CID",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CID",
+      "pubdate": "Fri, 25 Oct 2024 06:30:00 +0530"
+    },
     {
       "title": "Priyanka Gandhi Wayanad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Priyanka%20Gandhi%20Wayanad",
@@ -37,6 +52,11 @@
       "pubdate": "Thu, 24 Oct 2024 01:30:00 +0530"
     },
     {
+      "title": "Arugam Bay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arugam%20Bay",
+      "pubdate": "Thu, 24 Oct 2024 09:30:00 +0530"
+    },
+    {
       "title": "Ahoi Ashtami Vrat Katha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ahoi%20Ashtami%20Vrat%20Katha",
       "pubdate": "Thu, 24 Oct 2024 10:30:00 +0530"
@@ -67,11 +87,6 @@
       "pubdate": "Thu, 24 Oct 2024 01:30:00 +0530"
     },
     {
-      "title": "Ind vs NZ, 2nd Test",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ind%20vs%20NZ,%202nd%20Test",
-      "pubdate": "Thu, 24 Oct 2024 17:30:00 +0530"
-    },
-    {
       "title": "Turkey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Turkey",
       "pubdate": "Thu, 24 Oct 2024 00:30:00 +0530"
@@ -82,24 +97,9 @@
       "pubdate": "Thu, 24 Oct 2024 15:30:00 +0530"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chelsea",
-      "pubdate": "Thu, 24 Oct 2024 22:30:00 +0530"
-    },
-    {
       "title": "HUL share price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HUL%20share%20price",
       "pubdate": "Thu, 24 Oct 2024 12:30:00 +0530"
-    },
-    {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nvidia",
-      "pubdate": "Thu, 24 Oct 2024 19:30:00 +0530"
-    },
-    {
-      "title": "Bangladesh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bangladesh",
-      "pubdate": "Thu, 24 Oct 2024 01:30:00 +0530"
     }
   ]
 }
