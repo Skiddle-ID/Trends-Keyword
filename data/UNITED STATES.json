@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 11:35:35",
+  "lastUpdate": "26-10-2024 , 12:54:48",
   "data": [
     {
       "title": "World Series",
@@ -27,14 +27,14 @@
       "pubdate": "Fri, 25 Oct 2024 21:00:00 -0700"
     },
     {
-      "title": "Freddie Freeman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Freddie%20Freeman",
-      "pubdate": "Fri, 25 Oct 2024 14:00:00 -0700"
-    },
-    {
       "title": "Boise State football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boise%20State%20football",
       "pubdate": "Fri, 25 Oct 2024 17:00:00 -0700"
+    },
+    {
+      "title": "Freddie Freeman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Freddie%20Freeman",
+      "pubdate": "Fri, 25 Oct 2024 21:00:00 -0700"
     },
     {
       "title": "USC football",
@@ -42,29 +42,24 @@
       "pubdate": "Fri, 25 Oct 2024 15:00:00 -0700"
     },
     {
-      "title": "Beyonce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beyonce",
-      "pubdate": "Fri, 25 Oct 2024 19:00:00 -0700"
-    },
-    {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inter%20Miami",
       "pubdate": "Fri, 25 Oct 2024 14:00:00 -0700"
     },
     {
-      "title": "Washington Post",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Post",
-      "pubdate": "Fri, 25 Oct 2024 14:00:00 -0700"
+      "title": "Shohei Ohtani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
+      "pubdate": "Fri, 25 Oct 2024 21:00:00 -0700"
+    },
+    {
+      "title": "Beyonce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beyonce",
+      "pubdate": "Fri, 25 Oct 2024 21:00:00 -0700"
     },
     {
       "title": "Celtics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
       "pubdate": "Fri, 25 Oct 2024 04:00:00 -0700"
-    },
-    {
-      "title": "Louisville football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
-      "pubdate": "Fri, 25 Oct 2024 18:00:00 -0700"
     },
     {
       "title": "Aaron Judge",
@@ -77,14 +72,14 @@
       "pubdate": "Fri, 25 Oct 2024 19:00:00 -0700"
     },
     {
-      "title": "Shohei Ohtani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shohei%20Ohtani",
-      "pubdate": "Fri, 25 Oct 2024 22:00:00 -0700"
-    },
-    {
       "title": "Knicks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
       "pubdate": "Fri, 25 Oct 2024 19:00:00 -0700"
+    },
+    {
+      "title": "Louisville football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louisville%20football",
+      "pubdate": "Fri, 25 Oct 2024 18:00:00 -0700"
     },
     {
       "title": "Mls",
@@ -100,6 +95,11 @@
       "title": "Juan Soto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Juan%20Soto",
       "pubdate": "Fri, 25 Oct 2024 17:00:00 -0700"
+    },
+    {
+      "title": "Walking pneumonia cases",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Walking%20pneumonia%20cases",
+      "pubdate": "Fri, 25 Oct 2024 19:00:00 -0700"
     }
   ]
 }
