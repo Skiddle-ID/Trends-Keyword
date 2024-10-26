@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 23:36:21",
+  "lastUpdate": "26-10-2024 , 01:55:23",
   "data": [
     {
       "title": "Leicester City vs nottm Forest",
@@ -12,6 +12,11 @@
       "pubdate": "Sat, 26 Oct 2024 00:00:00 +0800"
     },
     {
+      "title": "Iran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
+      "pubdate": "Sat, 26 Oct 2024 09:00:00 +0800"
+    },
+    {
       "title": "Hellbound",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hellbound",
       "pubdate": "Sat, 26 Oct 2024 00:00:00 +0800"
@@ -22,6 +27,11 @@
       "pubdate": "Sat, 26 Oct 2024 01:00:00 +0800"
     },
     {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#La%20Liga",
+      "pubdate": "Sat, 26 Oct 2024 09:00:00 +0800"
+    },
+    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
       "pubdate": "Fri, 25 Oct 2024 07:00:00 +0800"
@@ -30,21 +40,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
       "pubdate": "Fri, 25 Oct 2024 08:00:00 +0800"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-      "pubdate": "Fri, 25 Oct 2024 01:00:00 +0800"
-    },
-    {
-      "title": "SATS share price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SATS%20share%20price",
-      "pubdate": "Fri, 25 Oct 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
-      "pubdate": "Fri, 25 Oct 2024 04:00:00 +0800"
     },
     {
       "title": "Nava Grove",
@@ -62,9 +57,19 @@
       "pubdate": "Fri, 25 Oct 2024 12:00:00 +0800"
     },
     {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
+      "pubdate": "Fri, 25 Oct 2024 04:00:00 +0800"
+    },
+    {
       "title": "North Korea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korea",
       "pubdate": "Fri, 25 Oct 2024 22:00:00 +0800"
+    },
+    {
+      "title": "Sats",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sats",
+      "pubdate": "Fri, 25 Oct 2024 15:00:00 +0800"
     },
     {
       "title": "Anna Kendrick",
@@ -72,13 +77,13 @@
       "pubdate": "Fri, 25 Oct 2024 19:00:00 +0800"
     },
     {
-      "title": "Jose Mourinho",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jose%20Mourinho",
-      "pubdate": "Fri, 25 Oct 2024 19:00:00 +0800"
-    },
-    {
       "title": "Singtel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singtel",
+      "pubdate": "Thu, 24 Oct 2024 17:00:00 +0800"
+    },
+    {
+      "title": "MaNaDr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MaNaDr",
       "pubdate": "Thu, 24 Oct 2024 17:00:00 +0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "38 Oxley Road",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#38%20Oxley%20Road",
       "pubdate": "Thu, 24 Oct 2024 17:00:00 +0800"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
-      "pubdate": "Thu, 24 Oct 2024 04:00:00 +0800"
     }
   ]
 }
