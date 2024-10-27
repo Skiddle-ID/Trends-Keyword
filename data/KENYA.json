@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-10-2024 , 23:35:37",
+  "lastUpdate": "27-10-2024 , 02:09:40",
   "data": [
+    {
+      "title": "Safaricom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Safaricom",
+      "pubdate": "Sun, 27 Oct 2024 03:00:00 +0300"
+    },
     {
       "title": "Raphinha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raphinha",
@@ -27,24 +32,24 @@
       "pubdate": "Sat, 26 Oct 2024 03:00:00 +0300"
     },
     {
+      "title": "Brentford vs Ipswich Town",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford%20vs%20Ipswich%20Town",
+      "pubdate": "Sat, 26 Oct 2024 10:00:00 +0300"
+    },
+    {
       "title": "Brighton vs Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brighton%20vs%20Wolves",
       "pubdate": "Sat, 26 Oct 2024 08:00:00 +0300"
     },
     {
+      "title": "Barca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barca",
+      "pubdate": "Sat, 26 Oct 2024 20:00:00 +0300"
+    },
+    {
       "title": "West Ham vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham%20vs%20Man%20United",
       "pubdate": "Sat, 26 Oct 2024 07:00:00 +0300"
-    },
-    {
-      "title": "Real Madrid CF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20CF",
-      "pubdate": "Sat, 26 Oct 2024 23:00:00 +0300"
-    },
-    {
-      "title": "Napoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
-      "pubdate": "Sat, 26 Oct 2024 14:00:00 +0300"
     },
     {
       "title": "UFC",
@@ -55,11 +60,6 @@
       "title": "Ndindi Nyoro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ndindi%20Nyoro",
       "pubdate": "Sat, 26 Oct 2024 06:00:00 +0300"
-    },
-    {
-      "title": "Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford",
-      "pubdate": "Sat, 26 Oct 2024 18:00:00 +0300"
     },
     {
       "title": "Manchester City FC",
@@ -77,9 +77,9 @@
       "pubdate": "Sat, 26 Oct 2024 12:00:00 +0300"
     },
     {
-      "title": "Lakers vs Suns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lakers%20vs%20Suns",
-      "pubdate": "Sat, 26 Oct 2024 09:00:00 +0300"
+      "title": "Uhuru",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Uhuru",
+      "pubdate": "Sat, 26 Oct 2024 20:00:00 +0300"
     },
     {
       "title": "Coventry vs Luton Town",
@@ -87,18 +87,18 @@
       "pubdate": "Sat, 26 Oct 2024 15:00:00 +0300"
     },
     {
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
+      "pubdate": "Sat, 26 Oct 2024 18:00:00 +0300"
+    },
+    {
       "title": "Mike Jeffries",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mike%20Jeffries",
       "pubdate": "Sat, 26 Oct 2024 09:00:00 +0300"
     },
     {
-      "title": "Bristol City vs Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bristol%20City%20vs%20Leeds%20United",
-      "pubdate": "Sat, 26 Oct 2024 17:00:00 +0300"
-    },
-    {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#MLS",
+      "title": "Serie A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Serie%20A",
       "pubdate": "Sat, 26 Oct 2024 14:00:00 +0300"
     }
   ]

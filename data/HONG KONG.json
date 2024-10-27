@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 23:35:35",
+  "lastUpdate": "27-10-2024 , 02:09:39",
   "data": [
     {
       "title": "Beyonce",
@@ -10,6 +10,11 @@
       "title": "同仁堂",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%90%8C%E4%BB%81%E5%A0%82",
       "pubdate": "Sun, 27 Oct 2024 02:00:00 +0800"
+    },
+    {
+      "title": "炎明熹",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%82%8E%E6%98%8E%E7%86%B9",
+      "pubdate": "Sun, 27 Oct 2024 09:00:00 +0800"
     },
     {
       "title": "宋立功",
@@ -32,6 +37,11 @@
       "pubdate": "Sat, 26 Oct 2024 16:00:00 +0800"
     },
     {
+      "title": "汪明荃",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%AA%E6%98%8E%E8%8D%83",
+      "pubdate": "Sat, 26 Oct 2024 21:00:00 +0800"
+    },
+    {
       "title": "道奇",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%81%93%E5%A5%87",
       "pubdate": "Sat, 26 Oct 2024 15:00:00 +0800"
@@ -39,11 +49,6 @@
     {
       "title": "走鐘獎",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B5%B0%E9%90%98%E7%8D%8E",
-      "pubdate": "Sat, 26 Oct 2024 21:00:00 +0800"
-    },
-    {
-      "title": "汪明荃",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B1%AA%E6%98%8E%E8%8D%83",
       "pubdate": "Sat, 26 Oct 2024 21:00:00 +0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Big C",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Big%20C",
       "pubdate": "Fri, 25 Oct 2024 16:00:00 +0800"
-    },
-    {
-      "title": "王嘉爾",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%8E%8B%E5%98%89%E7%88%BE",
-      "pubdate": "Fri, 25 Oct 2024 11:00:00 +0800"
     }
   ]
 }
