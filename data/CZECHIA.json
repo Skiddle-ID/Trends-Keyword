@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "27-10-2024 , 11:35:29",
+  "lastUpdate": "27-10-2024 , 12:55:22",
   "data": [
+    {
+      "title": "Gruzie volby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Gruzie%20volby",
+      "pubdate": "Sun, 27 Oct 2024 00:00:00 +0200"
+    },
     {
       "title": "Emily Atack",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emily%20Atack",
@@ -47,9 +52,19 @@
       "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
     },
     {
+      "title": "Powerwolf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Powerwolf",
+      "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
+    },
+    {
       "title": "Pavel Zedníček",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Zedn%C3%AD%C4%8Dek",
       "pubdate": "Sat, 26 Oct 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Lamine Yamal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lamine%20Yamal",
+      "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
     },
     {
       "title": "Jana Bernášková",
@@ -57,14 +72,9 @@
       "pubdate": "Sat, 26 Oct 2024 16:00:00 +0200"
     },
     {
-      "title": "Powerwolf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Powerwolf",
-      "pubdate": "Sat, 26 Oct 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Lamine Yamal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lamine%20Yamal",
-      "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
+      "title": "Barbora Krejčíková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barbora%20Krej%C4%8D%C3%ADkov%C3%A1",
+      "pubdate": "Sat, 26 Oct 2024 21:00:00 +0200"
     },
     {
       "title": "Khamzat Chimaev",
@@ -90,16 +100,6 @@
       "title": "Dívka v pavoučí síti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C3%ADvka%20v%20pavou%C4%8D%C3%AD%20s%C3%ADti",
       "pubdate": "Fri, 25 Oct 2024 23:00:00 +0200"
-    },
-    {
-      "title": "Bachelor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bachelor",
-      "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
-    },
-    {
-      "title": "28 říjen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#28%20%C5%99%C3%ADjen",
-      "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
     }
   ]
 }
