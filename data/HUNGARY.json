@@ -1,20 +1,30 @@
 {
-  "lastUpdate": "27-10-2024 , 23:35:52",
+  "lastUpdate": "28-10-2024 , 02:07:31",
   "data": [
+    {
+      "title": "Carlos Sainz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Carlos%20Sainz",
+      "pubdate": "Mon, 28 Oct 2024 00:00:00 +0100"
+    },
     {
       "title": "Arsenal–liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93liverpool",
       "pubdate": "Sun, 27 Oct 2024 14:00:00 +0100"
     },
     {
-      "title": "Nyíregyháza–zalaegerszeg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ny%C3%ADregyh%C3%A1za%E2%80%93zalaegerszeg",
-      "pubdate": "Sun, 27 Oct 2024 13:00:00 +0100"
-    },
-    {
       "title": "Téli időszámítás",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20id%C5%91sz%C3%A1m%C3%ADt%C3%A1s",
       "pubdate": "Sun, 27 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Marseille–PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marseille%E2%80%93PSG",
+      "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Fiorentina–Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina%E2%80%93Roma",
+      "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
     },
     {
       "title": "Karsai Dániel",
@@ -32,11 +42,6 @@
       "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
     },
     {
-      "title": "Fiorentina–roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina%E2%80%93roma",
-      "pubdate": "Sun, 27 Oct 2024 21:00:00 +0100"
-    },
-    {
       "title": "Tankcsapda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tankcsapda",
       "pubdate": "Sun, 27 Oct 2024 07:00:00 +0100"
@@ -45,16 +50,6 @@
       "title": "Szilágyi Liliána",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szil%C3%A1gyi%20Lili%C3%A1na",
       "pubdate": "Sun, 27 Oct 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Holden Trent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Holden%20Trent",
-      "pubdate": "Sun, 27 Oct 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
-      "pubdate": "Sun, 27 Oct 2024 23:00:00 +0100"
     },
     {
       "title": "Hír",
@@ -77,13 +72,13 @@
       "pubdate": "Sun, 27 Oct 2024 22:00:00 +0100"
     },
     {
-      "title": "Fehérvár FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9rv%C3%A1r%20FC",
+      "title": "Óra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93ra",
       "pubdate": "Sun, 27 Oct 2024 11:00:00 +0100"
     },
     {
-      "title": "Óra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93ra",
+      "title": "Fehérvár FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9rv%C3%A1r%20FC",
       "pubdate": "Sun, 27 Oct 2024 11:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Óraátállítás 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93ra%C3%A1t%C3%A1ll%C3%ADt%C3%A1s%202024",
       "pubdate": "Sat, 26 Oct 2024 18:00:00 +0200"
+    },
+    {
+      "title": "Dancing with the Stars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dancing%20with%20the%20Stars",
+      "pubdate": "Sat, 26 Oct 2024 13:00:00 +0200"
     }
   ]
 }
