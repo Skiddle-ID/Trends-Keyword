@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 11:37:39",
+  "lastUpdate": "29-10-2024 , 12:59:29",
   "data": [
     {
       "title": "MLB",
@@ -7,19 +7,14 @@
       "pubdate": "Tue, 29 Oct 2024 13:00:00 +0800"
     },
     {
-      "title": "iMac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#iMac",
-      "pubdate": "Tue, 29 Oct 2024 10:00:00 +0800"
-    },
-    {
-      "title": "周正毅",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%AD%A3%E6%AF%85",
-      "pubdate": "Tue, 29 Oct 2024 09:00:00 +0800"
-    },
-    {
       "title": "小嶋陽菜",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%B0%8F%E5%B6%8B%E9%99%BD%E8%8F%9C",
       "pubdate": "Tue, 29 Oct 2024 15:00:00 +0800"
+    },
+    {
+      "title": "iMac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#iMac",
+      "pubdate": "Tue, 29 Oct 2024 10:00:00 +0800"
     },
     {
       "title": "PS5",
@@ -32,19 +27,14 @@
       "pubdate": "Tue, 29 Oct 2024 11:00:00 +0800"
     },
     {
-      "title": "黃仁勳",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E4%BB%81%E5%8B%B3",
-      "pubdate": "Tue, 29 Oct 2024 11:00:00 +0800"
-    },
-    {
       "title": "好特賣",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A5%BD%E7%89%B9%E8%B3%A3",
       "pubdate": "Tue, 29 Oct 2024 11:00:00 +0800"
     },
     {
-      "title": "Cafe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Cafe",
-      "pubdate": "Tue, 29 Oct 2024 03:00:00 +0800"
+      "title": "黃仁勳",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E4%BB%81%E5%8B%B3",
+      "pubdate": "Tue, 29 Oct 2024 11:00:00 +0800"
     },
     {
       "title": "HYBE",
@@ -52,9 +42,9 @@
       "pubdate": "Tue, 29 Oct 2024 15:00:00 +0800"
     },
     {
-      "title": "CHROMAKOPIA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CHROMAKOPIA",
-      "pubdate": "Tue, 29 Oct 2024 00:00:00 +0800"
+      "title": "Cafe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Cafe",
+      "pubdate": "Tue, 29 Oct 2024 03:00:00 +0800"
     },
     {
       "title": "Z世代",
@@ -62,9 +52,19 @@
       "pubdate": "Tue, 29 Oct 2024 17:00:00 +0800"
     },
     {
-      "title": "Gym",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Gym",
+      "title": "CHROMAKOPIA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CHROMAKOPIA",
+      "pubdate": "Tue, 29 Oct 2024 00:00:00 +0800"
+    },
+    {
+      "title": "GYM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#GYM",
       "pubdate": "Tue, 29 Oct 2024 12:00:00 +0800"
+    },
+    {
+      "title": "六合彩結果",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C",
+      "pubdate": "Mon, 28 Oct 2024 20:00:00 +0800"
     },
     {
       "title": "黑色月光",
@@ -87,11 +87,6 @@
       "pubdate": "Mon, 28 Oct 2024 01:00:00 +0800"
     },
     {
-      "title": "梁敏巧",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%A2%81%E6%95%8F%E5%B7%A7",
-      "pubdate": "Mon, 28 Oct 2024 10:00:00 +0800"
-    },
-    {
       "title": "iOS 18.1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#iOS%2018.1",
       "pubdate": "Mon, 28 Oct 2024 15:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "日元",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%97%A5%E5%85%83",
       "pubdate": "Mon, 28 Oct 2024 15:00:00 +0800"
+    },
+    {
+      "title": "T1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#T1",
+      "pubdate": "Mon, 28 Oct 2024 00:00:00 +0800"
     }
   ]
 }

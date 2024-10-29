@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 11:37:36",
+  "lastUpdate": "29-10-2024 , 12:59:27",
   "data": [
     {
       "title": "MLB",
@@ -12,19 +12,19 @@
       "pubdate": "Tue, 29 Oct 2024 02:00:00 -0400"
     },
     {
+      "title": "Yankees",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yankees",
+      "pubdate": "Tue, 29 Oct 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Dodgers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
+      "pubdate": "Tue, 29 Oct 2024 01:00:00 -0400"
+    },
+    {
       "title": "Freddie Freeman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Freddie%20Freeman",
       "pubdate": "Tue, 29 Oct 2024 02:00:00 -0400"
-    },
-    {
-      "title": "New York Yankees",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20York%20Yankees",
-      "pubdate": "Tue, 29 Oct 2024 03:00:00 -0400"
-    },
-    {
-      "title": "Lakers vs Suns",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers%20vs%20Suns",
-      "pubdate": "Tue, 29 Oct 2024 01:00:00 -0400"
     },
     {
       "title": "Ryan Girdusky",
@@ -32,9 +32,24 @@
       "pubdate": "Tue, 29 Oct 2024 03:00:00 -0400"
     },
     {
+      "title": "BTC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC",
+      "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
+    },
+    {
       "title": "Saskatchewan election",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saskatchewan%20election",
       "pubdate": "Mon, 28 Oct 2024 16:00:00 -0400"
+    },
+    {
+      "title": "Oilers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+      "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
+    },
+    {
+      "title": "Gisele Bündchen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gisele%20B%C3%BCndchen",
+      "pubdate": "Mon, 28 Oct 2024 18:00:00 -0400"
     },
     {
       "title": "Raptors",
@@ -47,19 +62,9 @@
       "pubdate": "Mon, 28 Oct 2024 14:00:00 -0400"
     },
     {
-      "title": "Gisele Bündchen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gisele%20B%C3%BCndchen",
-      "pubdate": "Mon, 28 Oct 2024 18:00:00 -0400"
-    },
-    {
-      "title": "Yankees",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yankees",
-      "pubdate": "Mon, 28 Oct 2024 23:00:00 -0400"
-    },
-    {
-      "title": "Connor McDavid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
-      "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
+      "title": "Maple Leafs vs Jets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Jets",
+      "pubdate": "Mon, 28 Oct 2024 20:00:00 -0400"
     },
     {
       "title": "Chromakopia",
@@ -77,6 +82,11 @@
       "pubdate": "Mon, 28 Oct 2024 18:00:00 -0400"
     },
     {
+      "title": "Dodgers vs Yankees",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers%20vs%20Yankees",
+      "pubdate": "Mon, 28 Oct 2024 23:00:00 -0400"
+    },
+    {
       "title": "Dwyane Wade statue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dwyane%20Wade%20statue",
       "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
@@ -90,16 +100,6 @@
       "title": "Dallas Cowboys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
       "pubdate": "Mon, 28 Oct 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Shazam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shazam",
-      "pubdate": "Mon, 28 Oct 2024 09:00:00 -0400"
-    },
-    {
-      "title": "Matthew Perry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matthew%20Perry",
-      "pubdate": "Mon, 28 Oct 2024 12:00:00 -0400"
     }
   ]
 }

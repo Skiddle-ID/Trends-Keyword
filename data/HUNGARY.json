@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 11:37:39",
+  "lastUpdate": "29-10-2024 , 12:59:29",
   "data": [
     {
       "title": "Séfek Séfe",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
-      "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
-    },
-    {
       "title": "Gisele Bündchen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gisele%20B%C3%BCndchen",
       "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Aitana Bonmatí",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aitana%20Bonmat%C3%AD",
+      "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
     },
     {
       "title": "Kötelező jogosítványcsere",
@@ -27,9 +27,19 @@
       "pubdate": "Tue, 29 Oct 2024 03:00:00 +0100"
     },
     {
-      "title": "Aitana Bonmatí",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aitana%20Bonmat%C3%AD",
-      "pubdate": "Tue, 29 Oct 2024 00:00:00 +0100"
+      "title": "Bitcoin árfolyam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin%20%C3%A1rfolyam",
+      "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Korea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korea",
+      "pubdate": "Tue, 29 Oct 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Matilde Lorenzi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Matilde%20Lorenzi",
+      "pubdate": "Tue, 29 Oct 2024 13:00:00 +0100"
     },
     {
       "title": "Dragon Age: Veilguard",
@@ -52,11 +62,6 @@
       "pubdate": "Mon, 28 Oct 2024 07:00:00 +0100"
     },
     {
-      "title": "RTL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
-      "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
-    },
-    {
       "title": "Sándor Fegyir",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ndor%20Fegyir",
       "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
@@ -70,6 +75,11 @@
       "title": "Kornis Mihály",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kornis%20Mih%C3%A1ly",
       "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Natalie portman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Natalie%20portman",
+      "pubdate": "Mon, 28 Oct 2024 23:00:00 +0100"
     },
     {
       "title": "Rúzsa Magdi",
@@ -87,19 +97,9 @@
       "pubdate": "Mon, 28 Oct 2024 17:00:00 +0100"
     },
     {
-      "title": "November 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#November%201",
-      "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
-    },
-    {
       "title": "Tiborcz István",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiborcz%20Istv%C3%A1n",
       "pubdate": "Mon, 28 Oct 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Vona Gábor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vona%20G%C3%A1bor",
-      "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
     }
   ]
 }

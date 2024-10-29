@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 11:37:37",
+  "lastUpdate": "29-10-2024 , 12:59:27",
   "data": [
     {
       "title": "Marca",
@@ -12,9 +12,9 @@
       "pubdate": "Tue, 29 Oct 2024 00:00:00 -0300"
     },
     {
-      "title": "Íñigo Errejón",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%8D%C3%B1igo%20Errej%C3%B3n",
-      "pubdate": "Tue, 29 Oct 2024 06:00:00 -0300"
+      "title": "Puerto Rico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puerto%20Rico",
+      "pubdate": "Tue, 29 Oct 2024 02:00:00 -0300"
     },
     {
       "title": "Top Chef",
@@ -22,9 +22,14 @@
       "pubdate": "Tue, 29 Oct 2024 02:00:00 -0300"
     },
     {
-      "title": "Puerto Rico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puerto%20Rico",
-      "pubdate": "Tue, 29 Oct 2024 02:00:00 -0300"
+      "title": "Íñigo Errejón",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%8D%C3%B1igo%20Errej%C3%B3n",
+      "pubdate": "Tue, 29 Oct 2024 06:00:00 -0300"
+    },
+    {
+      "title": "Francisco Orrego",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francisco%20Orrego",
+      "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
     },
     {
       "title": "Balon de Oro",
@@ -35,11 +40,6 @@
       "title": "Alejandro Tabilo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alejandro%20Tabilo",
       "pubdate": "Mon, 28 Oct 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Claudio Orrego",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Orrego",
-      "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
     },
     {
       "title": "Concejales electos 2024",
@@ -57,18 +57,18 @@
       "pubdate": "Mon, 28 Oct 2024 13:00:00 -0300"
     },
     {
-      "title": "Alcalde peñalolen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20pe%C3%B1alolen",
-      "pubdate": "Mon, 28 Oct 2024 01:00:00 -0300"
-    },
-    {
       "title": "Canal 13",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Canal%2013",
       "pubdate": "Mon, 28 Oct 2024 01:00:00 -0300"
     },
     {
-      "title": "Consejeros regionales 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Consejeros%20regionales%202024",
+      "title": "Alcalde peñalolen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20pe%C3%B1alolen",
+      "pubdate": "Mon, 28 Oct 2024 01:00:00 -0300"
+    },
+    {
+      "title": "Frente Amplio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Frente%20Amplio",
       "pubdate": "Mon, 28 Oct 2024 11:00:00 -0300"
     },
     {
@@ -77,14 +77,19 @@
       "pubdate": "Mon, 28 Oct 2024 12:00:00 -0300"
     },
     {
+      "title": "Príncipe Guillermo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pr%C3%ADncipe%20Guillermo",
+      "pubdate": "Mon, 28 Oct 2024 18:00:00 -0300"
+    },
+    {
       "title": "Partido Social Cristiano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20Social%20Cristiano",
       "pubdate": "Mon, 28 Oct 2024 10:00:00 -0300"
     },
     {
-      "title": "Príncipe Guillermo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pr%C3%ADncipe%20Guillermo",
-      "pubdate": "Mon, 28 Oct 2024 18:00:00 -0300"
+      "title": "Aventura en Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aventura%20en%20Chile",
+      "pubdate": "Mon, 28 Oct 2024 17:00:00 -0300"
     },
     {
       "title": "Jorge del Pozo",
@@ -92,14 +97,9 @@
       "pubdate": "Mon, 28 Oct 2024 13:00:00 -0300"
     },
     {
-      "title": "Alcalde Antofagasta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcalde%20Antofagasta",
-      "pubdate": "Mon, 28 Oct 2024 00:00:00 -0300"
-    },
-    {
-      "title": "Ganadores elecciones 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ganadores%20elecciones%202024",
-      "pubdate": "Mon, 28 Oct 2024 06:00:00 -0300"
+      "title": "Consejeros regionales 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Consejeros%20regionales%202024",
+      "pubdate": "Mon, 28 Oct 2024 15:00:00 -0300"
     }
   ]
 }

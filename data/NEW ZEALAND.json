@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-10-2024 , 11:37:41",
+  "lastUpdate": "29-10-2024 , 12:59:31",
   "data": [
+    {
+      "title": "North Korea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#North%20Korea",
+      "pubdate": "Wed, 30 Oct 2024 00:00:00 +1300"
+    },
     {
       "title": "Ballon d'Or 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ballon%20d'Or%202024",
@@ -22,14 +27,14 @@
       "pubdate": "Tue, 29 Oct 2024 19:00:00 +1300"
     },
     {
-      "title": "Dhanteras 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dhanteras%202024",
-      "pubdate": "Tue, 29 Oct 2024 14:00:00 +1300"
-    },
-    {
       "title": "South Africa vs Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Bangladesh",
       "pubdate": "Tue, 29 Oct 2024 19:00:00 +1300"
+    },
+    {
+      "title": "Dhanteras 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dhanteras%202024",
+      "pubdate": "Tue, 29 Oct 2024 14:00:00 +1300"
     },
     {
       "title": "Gisele Bündchen",
@@ -95,11 +100,6 @@
       "title": "West Ham vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Ham%20vs%20Man%20United",
       "pubdate": "Mon, 28 Oct 2024 08:00:00 +1300"
-    },
-    {
-      "title": "Shazam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shazam",
-      "pubdate": "Mon, 28 Oct 2024 09:00:00 +1300"
     }
   ]
 }
