@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "30-10-2024 , 11:35:46",
+  "lastUpdate": "30-10-2024 , 12:59:18",
   "data": [
+    {
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Biden",
+      "pubdate": "Wed, 30 Oct 2024 04:00:00 -0700"
+    },
+    {
+      "title": "Joe Flacco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Flacco",
+      "pubdate": "Wed, 30 Oct 2024 03:00:00 -0700"
+    },
     {
       "title": "Teri Garr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Teri%20Garr",
@@ -27,11 +37,6 @@
       "pubdate": "Tue, 29 Oct 2024 06:00:00 -0700"
     },
     {
-      "title": "Ted Cruz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Cruz",
-      "pubdate": "Tue, 29 Oct 2024 12:00:00 -0700"
-    },
-    {
       "title": "Diontae Johnson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Diontae%20Johnson",
       "pubdate": "Tue, 29 Oct 2024 12:00:00 -0700"
@@ -40,11 +45,6 @@
       "title": "Celtics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
       "pubdate": "Tue, 29 Oct 2024 04:00:00 -0700"
-    },
-    {
-      "title": "Nuggets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
-      "pubdate": "Tue, 29 Oct 2024 05:00:00 -0700"
     },
     {
       "title": "Charvarius Ward",
@@ -67,14 +67,14 @@
       "pubdate": "Tue, 29 Oct 2024 09:00:00 -0700"
     },
     {
-      "title": "Channing Tatum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Channing%20Tatum",
-      "pubdate": "Tue, 29 Oct 2024 20:00:00 -0700"
-    },
-    {
       "title": "AMD stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMD%20stock",
       "pubdate": "Tue, 29 Oct 2024 14:00:00 -0700"
+    },
+    {
+      "title": "Nuggets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
+      "pubdate": "Tue, 29 Oct 2024 05:00:00 -0700"
     },
     {
       "title": "Google stock",
