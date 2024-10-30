@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 23:35:59",
+  "lastUpdate": "30-10-2024 , 02:01:33",
   "data": [
     {
       "title": "MLB",
@@ -15,11 +15,6 @@
       "title": "Canucks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
       "pubdate": "Tue, 29 Oct 2024 02:00:00 -0400"
-    },
-    {
-      "title": "Winnipeg Jets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-      "pubdate": "Tue, 29 Oct 2024 07:00:00 -0400"
     },
     {
       "title": "Freddie Freeman",
@@ -42,8 +37,18 @@
       "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
     },
     {
+      "title": "Vancouver Canucks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vancouver%20Canucks",
+      "pubdate": "Tue, 29 Oct 2024 08:00:00 -0400"
+    },
+    {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin",
+      "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
+    },
+    {
+      "title": "Shawn Mendes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shawn%20Mendes",
       "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
     },
     {
@@ -52,14 +57,14 @@
       "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
     },
     {
-      "title": "Shawn Mendes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shawn%20Mendes",
-      "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
-    },
-    {
       "title": "AMD stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AMD%20stock",
       "pubdate": "Tue, 29 Oct 2024 17:00:00 -0400"
+    },
+    {
+      "title": "BTC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC",
+      "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
     },
     {
       "title": "Google stock",
@@ -67,9 +72,9 @@
       "pubdate": "Tue, 29 Oct 2024 17:00:00 -0400"
     },
     {
-      "title": "Flames",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
-      "pubdate": "Tue, 29 Oct 2024 07:00:00 -0400"
+      "title": "Wizards Beyond Waverly Place",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wizards%20Beyond%20Waverly%20Place",
+      "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
     },
     {
       "title": "UNRWA",
@@ -77,19 +82,14 @@
       "pubdate": "Tue, 29 Oct 2024 10:00:00 -0400"
     },
     {
-      "title": "Wizards Beyond Waverly Place",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wizards%20Beyond%20Waverly%20Place",
-      "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
-    },
-    {
       "title": "Mac mini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mac%20mini",
       "pubdate": "Tue, 29 Oct 2024 15:00:00 -0400"
     },
     {
-      "title": "Steven Stamkos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steven%20Stamkos",
-      "pubdate": "Tue, 29 Oct 2024 15:00:00 -0400"
+      "title": "Flames",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+      "pubdate": "Tue, 29 Oct 2024 07:00:00 -0400"
     },
     {
       "title": "Diontae Johnson",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 29 Oct 2024 16:00:00 -0400"
     },
     {
-      "title": "Taylor Hendricks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Hendricks",
-      "pubdate": "Tue, 29 Oct 2024 10:00:00 -0400"
+      "title": "Steven Stamkos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steven%20Stamkos",
+      "pubdate": "Tue, 29 Oct 2024 15:00:00 -0400"
     }
   ]
 }
