@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 11:36:05",
+  "lastUpdate": "31-10-2024 , 12:58:20",
   "data": [
     {
       "title": "Maquillaje Halloween",
@@ -9,12 +9,17 @@
     {
       "title": "Hijo de Catalina Pulido",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hijo%20de%20Catalina%20Pulido",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 -0300"
+      "pubdate": "Wed, 30 Oct 2024 19:00:00 -0300"
     },
     {
       "title": "Valencia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valencia",
       "pubdate": "Wed, 30 Oct 2024 04:00:00 -0300"
+    },
+    {
+      "title": "Halloween",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halloween",
+      "pubdate": "Wed, 30 Oct 2024 08:00:00 -0300"
     },
     {
       "title": "Tottenham  Manchester City",
@@ -32,11 +37,6 @@
       "pubdate": "Wed, 30 Oct 2024 15:00:00 -0300"
     },
     {
-      "title": "Halloween",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halloween",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 -0300"
-    },
-    {
       "title": "Venezia - Udinese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezia%20-%20Udinese",
       "pubdate": "Wed, 30 Oct 2024 15:00:00 -0300"
@@ -47,13 +47,8 @@
       "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
     },
     {
-      "title": "Cuando es Halloween",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuando%20es%20Halloween",
-      "pubdate": "Wed, 30 Oct 2024 08:00:00 -0300"
-    },
-    {
-      "title": "Brighton  Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Liverpool",
+      "title": "Newcastle  Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Chelsea",
       "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
     },
     {
@@ -62,8 +57,8 @@
       "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
     },
     {
-      "title": "Newcastle  Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Chelsea",
+      "title": "Brighton  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Liverpool",
       "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
     },
     {
@@ -77,6 +72,11 @@
       "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
     },
     {
+      "title": "31 de octubre es feriado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#31%20de%20octubre%20es%20feriado",
+      "pubdate": "Wed, 30 Oct 2024 18:00:00 -0300"
+    },
+    {
       "title": "Empoli - Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Empoli%20-%20Inter",
       "pubdate": "Wed, 30 Oct 2024 15:00:00 -0300"
@@ -84,11 +84,6 @@
     {
       "title": "Juventus  Parma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus%20%20Parma",
-      "pubdate": "Wed, 30 Oct 2024 18:00:00 -0300"
-    },
-    {
-      "title": "31 de octubre es feriado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#31%20de%20octubre%20es%20feriado",
       "pubdate": "Wed, 30 Oct 2024 18:00:00 -0300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Aston Villa  Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20Crystal%20Palace",
       "pubdate": "Wed, 30 Oct 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Universidad de Chile vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20de%20Chile%20vs",
+      "pubdate": "Wed, 30 Oct 2024 11:00:00 -0300"
     }
   ]
 }

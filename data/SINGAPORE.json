@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 11:36:12",
+  "lastUpdate": "31-10-2024 , 12:58:27",
   "data": [
     {
       "title": "Man United vs Leicester City",
@@ -12,9 +12,14 @@
       "pubdate": "Thu, 31 Oct 2024 13:00:00 +0800"
     },
     {
-      "title": "Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20Utd",
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
       "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
+    },
+    {
+      "title": "Amaran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amaran",
+      "pubdate": "Thu, 31 Oct 2024 08:00:00 +0800"
     },
     {
       "title": "Arsenal",
@@ -42,14 +47,14 @@
       "pubdate": "Thu, 31 Oct 2024 13:00:00 +0800"
     },
     {
-      "title": "Time Cut",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Time%20Cut",
-      "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
-    },
-    {
       "title": "Shohei Ohtani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shohei%20Ohtani",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0800"
+    },
+    {
+      "title": "Time Cut",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Time%20Cut",
+      "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
     },
     {
       "title": "Meta stock",
@@ -67,14 +72,19 @@
       "pubdate": "Thu, 31 Oct 2024 00:00:00 +0800"
     },
     {
-      "title": "Happy Deepavali 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Deepavali%202024",
+      "title": "Happy deepavali 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20deepavali%202024",
       "pubdate": "Wed, 30 Oct 2024 08:00:00 +0800"
     },
     {
       "title": "Deepavali",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Deepavali",
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0800"
+    },
+    {
+      "title": "Taiwan Typhoon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
+      "pubdate": "Wed, 30 Oct 2024 01:00:00 +0800"
     },
     {
       "title": "Halloween 2024",
@@ -90,16 +100,6 @@
       "title": "Mac mini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mac%20mini",
       "pubdate": "Wed, 30 Oct 2024 04:00:00 +0800"
-    },
-    {
-      "title": "AMD stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AMD%20stock",
-      "pubdate": "Wed, 30 Oct 2024 10:00:00 +0800"
-    },
-    {
-      "title": "Ong Beng Seng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ong%20Beng%20Seng",
-      "pubdate": "Wed, 30 Oct 2024 15:00:00 +0800"
     }
   ]
 }
