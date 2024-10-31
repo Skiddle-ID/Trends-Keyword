@@ -1,9 +1,49 @@
 {
-  "lastUpdate": "30-10-2024 , 23:37:01",
+  "lastUpdate": "31-10-2024 , 02:05:02",
   "data": [
+    {
+      "title": "Zaccagni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zaccagni",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Kean",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kean",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Ninetto Davoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ninetto%20Davoli",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "The Bad Guy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Bad%20Guy",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Aurora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aurora",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Bernabe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bernabe",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Pescara-Pontedera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pescara-Pontedera",
+      "pubdate": "Thu, 31 Oct 2024 02:00:00 +0100"
+    },
     {
       "title": "Venezia  Udinese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Venezia%20%20Udinese",
+      "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Atalanta  Monza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta%20%20Monza",
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
@@ -12,19 +52,9 @@
       "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
     },
     {
-      "title": "Atalanta  Monza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atalanta%20%20Monza",
-      "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
       "title": "Risultati Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Risultati%20Serie%20A",
       "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Daniele Scardina emorragia cerebrale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina%20emorragia%20cerebrale",
-      "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
     },
     {
       "title": "Sciopero 31 ottobre 2024",
@@ -32,23 +62,18 @@
       "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
+      "title": "Daniele Scardina emorragia cerebrale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina%20emorragia%20cerebrale",
+      "pubdate": "Wed, 30 Oct 2024 07:00:00 +0100"
+    },
+    {
       "title": "Serie C",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20C",
       "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
     },
     {
-      "title": "Marina Berlusconi Cavaliere",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marina%20Berlusconi%20Cavaliere",
-      "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Cittadella-Sampdoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cittadella-Sampdoria",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Il diritto di contare",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20diritto%20di%20contare",
+      "title": "Cittadella  Sampdoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cittadella%20%20Sampdoria",
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
@@ -57,49 +82,24 @@
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
-      "title": "Daniil Medvedev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
-      "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Maradona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maradona",
-      "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Steve Bannon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Steve%20Bannon",
-      "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
-    },
-    {
       "title": "Pasolini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pasolini",
       "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     },
     {
-      "title": "Cesare Gussoni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cesare%20Gussoni",
-      "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Lidia Poet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lidia%20Poet",
+      "title": "Daniil Medvedev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
       "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
     },
     {
-      "title": "Neonato morto pertosse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neonato%20morto%20pertosse",
-      "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
+      "title": "Marina Berlusconi Cavaliere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marina%20Berlusconi%20Cavaliere",
+      "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
     },
     {
-      "title": "Milan Futuro-Pineto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan%20Futuro-Pineto",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Campari",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Campari",
-      "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
+      "title": "Maradona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maradona",
+      "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 23:37:04",
+  "lastUpdate": "31-10-2024 , 02:05:06",
   "data": [
     {
       "title": "Valencia",
@@ -7,13 +7,23 @@
       "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
     },
     {
-      "title": "Översvämning Spanien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96versv%C3%A4mning%20Spanien",
-      "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
+      "title": "SHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
+      "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Elisabeth Ohlson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elisabeth%20Ohlson",
+      "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+      "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
       "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
     },
     {
@@ -32,16 +42,6 @@
       "pubdate": "Wed, 30 Oct 2024 06:00:00 +0100"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
-      "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Brynäs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-      "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
-    },
-    {
       "title": "Kroner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kroner",
       "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
@@ -55,16 +55,6 @@
       "title": "Securitas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Securitas",
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Getryggen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Getryggen",
-      "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Thomas Bodström",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thomas%20Bodstr%C3%B6m",
-      "pubdate": "Wed, 30 Oct 2024 11:00:00 +0100"
     },
     {
       "title": "Channing Tatum",
@@ -100,6 +90,16 @@
       "title": "Kristin Kaspersen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristin%20Kaspersen",
       "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Jessie Sommarström",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessie%20Sommarstr%C3%B6m",
+      "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Frölunda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
+      "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 23:36:59",
+  "lastUpdate": "31-10-2024 , 02:05:01",
   "data": [
     {
       "title": "Brighton–liverpool",
@@ -57,19 +57,29 @@
       "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
     },
     {
-      "title": "Trágyaszag Budapest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tr%C3%A1gyaszag%20Budapest",
-      "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
-    },
-    {
       "title": "Forint euro árfolyam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20euro%20%C3%A1rfolyam",
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
+      "title": "Trágyaszag Budapest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tr%C3%A1gyaszag%20Budapest",
+      "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
+    },
+    {
       "title": "Egerszegi Krisztina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Egerszegi%20Krisztina",
       "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
+    },
+    {
+      "title": "MOL Magyar Kupa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOL%20Magyar%20Kupa",
+      "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Channing Tatum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Channing%20Tatum",
+      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     },
     {
       "title": "Észak-korea",
@@ -82,11 +92,6 @@
       "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
     },
     {
-      "title": "Gyárfás Tamás",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy%C3%A1rf%C3%A1s%20Tam%C3%A1s",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
       "title": "Körszálló",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6rsz%C3%A1ll%C3%B3",
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Ördög Nóra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%96rd%C3%B6g%20N%C3%B3ra",
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Mindenszentek napja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mindenszentek%20napja",
-      "pubdate": "Wed, 30 Oct 2024 12:00:00 +0100"
     }
   ]
 }

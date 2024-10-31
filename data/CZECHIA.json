@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "30-10-2024 , 23:36:57",
+  "lastUpdate": "31-10-2024 , 02:04:59",
   "data": [
+    {
+      "title": "Dia de los Muertos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dia%20de%20los%20Muertos",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
     {
       "title": "Halloween",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Halloween",
       "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
     },
     {
-      "title": "Ústí – Plzeň",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Ast%C3%AD%20%E2%80%93%20Plze%C5%88",
-      "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
-    },
-    {
       "title": "Tomáš Bureš",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Bure%C5%A1",
       "pubdate": "Wed, 30 Oct 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Tottenham – Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Man%20City",
+      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
       "title": "MOL Cup",
@@ -32,13 +37,23 @@
       "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
     },
     {
+      "title": "Roman Kraus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Roman%20Kraus",
+      "pubdate": "Wed, 30 Oct 2024 23:00:00 +0100"
+    },
+    {
       "title": "Fico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fico",
       "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
     },
     {
-      "title": "Zápy – pardubice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1py%20%E2%80%93%20pardubice",
+      "title": "Janžurová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%C5%BEurov%C3%A1",
+      "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Channing Tatum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Channing%20Tatum",
       "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
     },
     {
@@ -50,6 +65,11 @@
       "title": "Brighton – Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brighton%20%E2%80%93%20Liverpool",
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Zápy – pardubice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1py%20%E2%80%93%20pardubice",
+      "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
     },
     {
       "title": "Kristína Kövešová",
@@ -67,39 +87,19 @@
       "pubdate": "Wed, 30 Oct 2024 15:00:00 +0100"
     },
     {
+      "title": "Divine Teah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Divine%20Teah",
+      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+    },
+    {
       "title": "Xiaomi 15",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Xiaomi%2015",
       "pubdate": "Wed, 30 Oct 2024 10:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
-      "pubdate": "Wed, 30 Oct 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Holubová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Holubov%C3%A1",
-      "pubdate": "Tue, 29 Oct 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Tap to Pay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tap%20to%20Pay",
-      "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
-      "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Mac mini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mac%20mini",
-      "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Jana Doleželová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Dole%C5%BEelov%C3%A1",
-      "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
+      "title": "Kodu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kodu",
+      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     }
   ]
 }

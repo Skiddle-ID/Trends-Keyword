@@ -1,15 +1,45 @@
 {
-  "lastUpdate": "30-10-2024 , 23:37:00",
+  "lastUpdate": "31-10-2024 , 02:05:02",
   "data": [
+    {
+      "title": "Ukraine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ukraine",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Wizards Beyond Waverly Place",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wizards%20Beyond%20Waverly%20Place",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Martha Stewart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Martha%20Stewart",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Paul Byrne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paul%20Byrne",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Ben Stokes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Stokes",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+    },
     {
       "title": "Valencia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Valencia",
       "pubdate": "Wed, 30 Oct 2024 00:00:00 +0000"
     },
     {
+      "title": "Man United vs Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20United%20vs%20Leicester%20City",
+      "pubdate": "Wed, 30 Oct 2024 19:00:00 +0000"
+    },
+    {
       "title": "Man Utd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20Utd",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0000"
+      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
     },
     {
       "title": "Brighton vs Liverpool",
@@ -17,28 +47,18 @@
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0000"
     },
     {
-      "title": "Tottenham vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tottenham%20vs%20Man%20City",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
-    },
-    {
       "title": "Ticketmaster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ticketmaster",
       "pubdate": "Wed, 30 Oct 2024 12:00:00 +0000"
     },
     {
-      "title": "Newcastle vs Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20vs%20Chelsea",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Manchester%20United",
+      "pubdate": "Wed, 30 Oct 2024 22:00:00 +0000"
     },
     {
       "title": "Halloween",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Halloween",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Manchester%20United",
       "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
     },
     {
@@ -47,9 +67,24 @@
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0000"
     },
     {
+      "title": "Newcastle vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20vs%20Chelsea",
+      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal",
+      "pubdate": "Wed, 30 Oct 2024 23:00:00 +0000"
+    },
+    {
       "title": "UK budget",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#UK%20budget",
       "pubdate": "Wed, 30 Oct 2024 15:00:00 +0000"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea",
+      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0000"
     },
     {
       "title": "Aston Villa vs Crystal Palace",
@@ -57,49 +92,14 @@
       "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
     },
     {
+      "title": "Aberdeen vs Rangers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aberdeen%20vs%20Rangers",
+      "pubdate": "Wed, 30 Oct 2024 23:00:00 +0000"
+    },
+    {
       "title": "Celtic vs Dundee",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic%20vs%20Dundee",
       "pubdate": "Wed, 30 Oct 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Whooping cough",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Whooping%20cough",
-      "pubdate": "Wed, 30 Oct 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Afghanistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Afghanistan",
-      "pubdate": "Wed, 30 Oct 2024 17:00:00 +0000"
-    },
-    {
-      "title": "Malaga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Malaga",
-      "pubdate": "Wed, 30 Oct 2024 12:00:00 +0000"
-    },
-    {
-      "title": "League Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#League%20Cup",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0000"
-    },
-    {
-      "title": "Dolly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dolly",
-      "pubdate": "Wed, 30 Oct 2024 15:00:00 +0000"
-    },
-    {
-      "title": "Man Utd fixtures",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20Utd%20fixtures",
-      "pubdate": "Wed, 30 Oct 2024 22:00:00 +0000"
-    },
-    {
-      "title": "Channing Tatum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Channing%20Tatum",
-      "pubdate": "Wed, 30 Oct 2024 18:00:00 +0000"
-    },
-    {
-      "title": "Joey Barton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joey%20Barton",
-      "pubdate": "Wed, 30 Oct 2024 14:00:00 +0000"
     }
   ]
 }

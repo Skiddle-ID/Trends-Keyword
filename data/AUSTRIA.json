@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "30-10-2024 , 23:36:56",
+  "lastUpdate": "31-10-2024 , 02:04:57",
   "data": [
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
     {
       "title": "Rapid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
@@ -27,9 +37,19 @@
       "pubdate": "Wed, 30 Oct 2024 08:00:00 +0100"
     },
     {
-      "title": "Horn – Austria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Horn%20%E2%80%93%20Austria",
+      "title": "Austria Wien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
       "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Halloween 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Halloween%202024",
+      "pubdate": "Wed, 30 Oct 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Drexler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Drexler",
+      "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
     },
     {
       "title": "Voitsberg – LASK",
@@ -37,8 +57,8 @@
       "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
     },
     {
-      "title": "VW Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VW%20Aktie",
+      "title": "VW-Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VW-Aktie",
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
@@ -62,24 +82,9 @@
       "pubdate": "Wed, 30 Oct 2024 17:00:00 +0100"
     },
     {
-      "title": "Austria Wien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
-      "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
-    },
-    {
       "title": "SC Paderborn – Werder Bremen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SC%20Paderborn%20%E2%80%93%20Werder%20Bremen",
       "pubdate": "Wed, 30 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Goldschakal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldschakal",
-      "pubdate": "Wed, 30 Oct 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Freiburg – HSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Freiburg%20%E2%80%93%20HSV",
-      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     },
     {
       "title": "WAC",
@@ -87,19 +92,14 @@
       "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
     },
     {
-      "title": "Vienna Capitals",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vienna%20Capitals",
-      "pubdate": "Wed, 30 Oct 2024 00:00:00 +0100"
-    },
-    {
       "title": "Alter weißer Mann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alter%20wei%C3%9Fer%20Mann",
       "pubdate": "Wed, 30 Oct 2024 23:00:00 +0100"
     },
     {
-      "title": "Alphabet-Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alphabet-Aktie",
-      "pubdate": "Wed, 30 Oct 2024 09:00:00 +0100"
+      "title": "Freiburg – HSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Freiburg%20%E2%80%93%20HSV",
+      "pubdate": "Wed, 30 Oct 2024 20:00:00 +0100"
     }
   ]
 }
