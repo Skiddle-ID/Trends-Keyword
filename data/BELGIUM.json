@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "31-10-2024 , 23:37:06",
+  "lastUpdate": "01-11-2024 , 02:10:47",
   "data": [
     {
-      "title": "Casa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Casa",
-      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+      "title": "The Substance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Substance",
+      "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Saw",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saw",
+      "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Heretic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Heretic",
+      "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Antwerp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+      "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
     },
     {
       "title": "Tubize Anderlecht",
@@ -12,14 +27,14 @@
       "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
     },
     {
+      "title": "Casa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Casa",
+      "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
+    },
+    {
       "title": "Sam Fender",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sam%20Fender",
       "pubdate": "Thu, 31 Oct 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Antwerp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
-      "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
     },
     {
       "title": "Danse Macabre",
@@ -32,9 +47,14 @@
       "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
     },
     {
-      "title": "Spirou et la Gorgone bleue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spirou%20et%20la%20Gorgone%20bleue",
+      "title": "Spirou et la gorgone bleue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spirou%20et%20la%20gorgone%20bleue",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Happy Halloween!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Happy%20Halloween!",
+      "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
     },
     {
       "title": "Allerheiligen",
@@ -52,18 +72,13 @@
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
     },
     {
-      "title": "Ahmed Selassi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ahmed%20Selassi",
-      "pubdate": "Thu, 31 Oct 2024 17:00:00 +0100"
-    },
-    {
-      "title": "1 november",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#1%20november",
-      "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
-    },
-    {
       "title": "Ets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ets",
+      "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
+    },
+    {
+      "title": "It",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#It",
       "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
     },
     {
@@ -72,19 +87,9 @@
       "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
     },
     {
-      "title": "It",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#It",
-      "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
-    },
-    {
       "title": "Koppenbergcross",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koppenbergcross",
       "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
-      "pubdate": "Thu, 31 Oct 2024 02:00:00 +0100"
     },
     {
       "title": "Toussaint",
@@ -92,13 +97,8 @@
       "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
     },
     {
-      "title": "Coco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coco",
-      "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Novembre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novembre",
+      "title": "Dragon Age : The Veilguard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dragon%20Age%20:%20The%20Veilguard",
       "pubdate": "Thu, 31 Oct 2024 23:00:00 +0100"
     }
   ]

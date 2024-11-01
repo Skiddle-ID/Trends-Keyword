@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 23:37:07",
+  "lastUpdate": "01-11-2024 , 02:10:47",
   "data": [
     {
       "title": "Deportes Concepcion",
@@ -7,8 +7,8 @@
       "pubdate": "Thu, 31 Oct 2024 12:00:00 -0300"
     },
     {
-      "title": "Vic - Atlético Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vic%20-%20Atl%C3%A9tico%20Madrid",
+      "title": "Vic  Atlético Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vic%20%20Atl%C3%A9tico%20Madrid",
       "pubdate": "Thu, 31 Oct 2024 15:00:00 -0300"
     },
     {
@@ -17,24 +17,34 @@
       "pubdate": "Thu, 31 Oct 2024 17:00:00 -0300"
     },
     {
+      "title": "Gévora  Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#G%C3%A9vora%20%20Betis",
+      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
+    },
+    {
       "title": "Maquillaje Halloween",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maquillaje%20Halloween",
       "pubdate": "Thu, 31 Oct 2024 00:00:00 -0300"
     },
     {
-      "title": "Gévora - Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#G%C3%A9vora%20-%20Betis",
-      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
-      "pubdate": "Thu, 31 Oct 2024 12:00:00 -0300"
+      "title": "It",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#It",
+      "pubdate": "Thu, 31 Oct 2024 20:00:00 -0300"
     },
     {
       "title": "Chucky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chucky",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Maquillaje de catrina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maquillaje%20de%20catrina",
+      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Coco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coco",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 -0300"
     },
     {
       "title": "Calabaza Halloween",
@@ -47,9 +57,19 @@
       "pubdate": "Thu, 31 Oct 2024 19:00:00 -0300"
     },
     {
-      "title": "Maquillaje de catrina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maquillaje%20de%20catrina",
+      "title": "Willy Sabor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Willy%20Sabor",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Roma - Torino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roma%20-%20Torino",
+      "pubdate": "Thu, 31 Oct 2024 20:00:00 -0300"
+    },
+    {
+      "title": "Listeria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Listeria",
+      "pubdate": "Thu, 31 Oct 2024 20:00:00 -0300"
     },
     {
       "title": "Lakers",
@@ -57,49 +77,29 @@
       "pubdate": "Thu, 31 Oct 2024 13:00:00 -0300"
     },
     {
-      "title": "Willy Sabor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Willy%20Sabor",
-      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
-    },
-    {
-      "title": "MUBI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MUBI",
-      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
-    },
-    {
       "title": "Katrina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Katrina",
       "pubdate": "Thu, 31 Oct 2024 19:00:00 -0300"
     },
     {
+      "title": "Peliculas de terror",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peliculas%20de%20terror",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 -0300"
+    },
+    {
+      "title": "Que se celebra el 31 de octubre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Que%20se%20celebra%20el%2031%20de%20octubre",
+      "pubdate": "Thu, 31 Oct 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Vampiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vampiro",
+      "pubdate": "Thu, 31 Oct 2024 20:00:00 -0300"
+    },
+    {
       "title": "Dia de los muertos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20los%20muertos",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Hijo de Catalina Pulido",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hijo%20de%20Catalina%20Pulido",
-      "pubdate": "Wed, 30 Oct 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valencia",
-      "pubdate": "Wed, 30 Oct 2024 04:00:00 -0300"
-    },
-    {
-      "title": "Tottenham  Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20%20Manchester%20City",
-      "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Halloween",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halloween",
-      "pubdate": "Wed, 30 Oct 2024 08:00:00 -0300"
-    },
-    {
-      "title": "Peñarol vs Botafogo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pe%C3%B1arol%20vs%20Botafogo",
-      "pubdate": "Wed, 30 Oct 2024 11:00:00 -0300"
     }
   ]
 }

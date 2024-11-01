@@ -1,10 +1,30 @@
 {
-  "lastUpdate": "31-10-2024 , 23:37:10",
+  "lastUpdate": "01-11-2024 , 02:10:50",
   "data": [
+    {
+      "title": "Young Thug",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Young%20Thug",
+      "pubdate": "Fri, 01 Nov 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Scissor Sisters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Scissor%20Sisters",
+      "pubdate": "Fri, 01 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "JD Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#JD%20Vance",
+      "pubdate": "Fri, 01 Nov 2024 01:00:00 +0000"
+    },
     {
       "title": "David Davin-Power",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#David%20Davin-Power",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0000"
+    },
+    {
+      "title": "Armie Hammer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Armie%20Hammer",
+      "pubdate": "Thu, 31 Oct 2024 14:00:00 +0000"
     },
     {
       "title": "Billy Zane Marlon Brando",
@@ -22,13 +42,13 @@
       "pubdate": "Thu, 31 Oct 2024 12:00:00 +0000"
     },
     {
-      "title": "Armie Hammer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Armie%20Hammer",
-      "pubdate": "Thu, 31 Oct 2024 14:00:00 +0000"
-    },
-    {
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 +0000"
+    },
+    {
+      "title": "Beetlejuice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Beetlejuice",
       "pubdate": "Thu, 31 Oct 2024 21:00:00 +0000"
     },
     {
@@ -47,14 +67,14 @@
       "pubdate": "Thu, 31 Oct 2024 10:00:00 +0000"
     },
     {
-      "title": "Paul Byrne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paul%20Byrne",
-      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
-    },
-    {
       "title": "Agatha All Along",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Agatha%20All%20Along",
       "pubdate": "Thu, 31 Oct 2024 04:00:00 +0000"
+    },
+    {
+      "title": "Paul Byrne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paul%20Byrne",
+      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
     },
     {
       "title": "Diablo",
@@ -72,34 +92,14 @@
       "pubdate": "Thu, 31 Oct 2024 20:00:00 +0000"
     },
     {
-      "title": "Rebecca Emmerdale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rebecca%20Emmerdale",
-      "pubdate": "Thu, 31 Oct 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Joker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joker",
-      "pubdate": "Thu, 31 Oct 2024 20:00:00 +0000"
-    },
-    {
       "title": "Niagara Falls",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Niagara%20Falls",
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0000"
     },
     {
-      "title": "Glenn Hoddle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Glenn%20Hoddle",
-      "pubdate": "Thu, 31 Oct 2024 18:00:00 +0000"
-    },
-    {
-      "title": "Ben Stokes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ben%20Stokes",
-      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
-    },
-    {
-      "title": "Martha Stewart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Martha%20Stewart",
-      "pubdate": "Thu, 31 Oct 2024 01:00:00 +0000"
+      "title": "Rebecca Emmerdale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rebecca%20Emmerdale",
+      "pubdate": "Thu, 31 Oct 2024 20:00:00 +0000"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "31-10-2024 , 23:37:13",
+  "lastUpdate": "01-11-2024 , 02:10:54",
   "data": [
+    {
+      "title": "Tip Top Curry Puff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tip%20Top%20Curry%20Puff",
+      "pubdate": "Fri, 01 Nov 2024 08:00:00 +0800"
+    },
     {
       "title": "G-Dragon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#G-Dragon",
@@ -12,24 +17,19 @@
       "pubdate": "Fri, 01 Nov 2024 02:00:00 +0800"
     },
     {
-      "title": "High Potential",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#High%20Potential",
-      "pubdate": "Fri, 01 Nov 2024 05:00:00 +0800"
-    },
-    {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-      "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
-    },
-    {
-      "title": "Man United vs Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Leicester%20City",
-      "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
+      "pubdate": "Thu, 31 Oct 2024 13:00:00 +0800"
     },
     {
       "title": "Taiwan Typhoon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
       "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
+    },
+    {
+      "title": "Man Utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20Utd",
+      "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
     },
     {
       "title": "Amaran",
@@ -47,24 +47,9 @@
       "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
     },
     {
-      "title": "Ruud van Nistelrooy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ruud%20van%20Nistelrooy",
-      "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
-    },
-    {
       "title": "Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
       "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
-    },
-    {
-      "title": "Diablo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Diablo",
-      "pubdate": "Thu, 31 Oct 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Cillian Murphy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cillian%20Murphy",
-      "pubdate": "Thu, 31 Oct 2024 21:00:00 +0800"
     },
     {
       "title": "Shohei Ohtani",
@@ -72,14 +57,14 @@
       "pubdate": "Thu, 31 Oct 2024 18:00:00 +0800"
     },
     {
+      "title": "Cillian Murphy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cillian%20Murphy",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 +0800"
+    },
+    {
       "title": "Emerald of Katong",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emerald%20of%20Katong",
       "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
-    },
-    {
-      "title": "Meta stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20stock",
-      "pubdate": "Thu, 31 Oct 2024 10:00:00 +0800"
     },
     {
       "title": "China halloween",
@@ -92,6 +77,11 @@
       "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
     },
     {
+      "title": "MSFT",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MSFT",
+      "pubdate": "Thu, 31 Oct 2024 22:00:00 +0800"
+    },
+    {
       "title": "When is Halloween 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#When%20is%20Halloween%202024",
       "pubdate": "Thu, 31 Oct 2024 00:00:00 +0800"
@@ -100,6 +90,16 @@
       "title": "FA Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FA%20Cup",
       "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
+    },
+    {
+      "title": "Happy Halloween",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Halloween",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Super Micro Computer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Super%20Micro%20Computer",
+      "pubdate": "Thu, 31 Oct 2024 21:00:00 +0800"
     }
   ]
 }
