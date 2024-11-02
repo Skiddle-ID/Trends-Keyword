@@ -1,6 +1,26 @@
 {
-  "lastUpdate": "01-11-2024 , 23:35:45",
+  "lastUpdate": "02-11-2024 , 01:56:43",
   "data": [
+    {
+      "title": "Bayer Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayer%20Leverkusen",
+      "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "SZADZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#SZADZ",
+      "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Krzysztof Banaszyk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krzysztof%20Banaszyk",
+      "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Monster Hunter Wilds",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monster%20Hunter%20Wilds",
+      "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
+    },
     {
       "title": "Zabka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zabka",
@@ -37,9 +57,19 @@
       "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
     },
     {
+      "title": "Anna Dymna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Dymna",
+      "pubdate": "Fri, 01 Nov 2024 12:00:00 +0100"
+    },
+    {
       "title": "Polsat program",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polsat%20program",
       "pubdate": "Fri, 01 Nov 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Bayer Leverkusen – Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayer%20Leverkusen%20%E2%80%93%20Stuttgart",
+      "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
     },
     {
       "title": "Ruben Amorim",
@@ -47,14 +77,14 @@
       "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "NNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#NNN",
-      "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
-    },
-    {
       "title": "Grzegorz Maj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grzegorz%20Maj",
       "pubdate": "Fri, 01 Nov 2024 15:00:00 +0100"
+    },
+    {
+      "title": "NNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#NNN",
+      "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
     },
     {
       "title": "Jennifer Lopez",
@@ -67,39 +97,9 @@
       "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
     },
     {
-      "title": "Zabka 1 listopada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zabka%201%20listopada",
-      "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
-    },
-    {
       "title": "Modlitwa za zmarłych",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Modlitwa%20za%20zmar%C5%82ych",
       "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Cmentarz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cmentarz",
-      "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Squid Game",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Squid%20Game",
-      "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Cmentarz Centralny Szczecin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cmentarz%20Centralny%20Szczecin",
-      "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "The Cure",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#The%20Cure",
-      "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Jose Castillejo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jose%20Castillejo",
-      "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
     }
   ]
 }
