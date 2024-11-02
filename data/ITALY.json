@@ -1,25 +1,15 @@
 {
-  "lastUpdate": "02-11-2024 , 11:35:44",
+  "lastUpdate": "02-11-2024 , 12:55:10",
   "data": [
+    {
+      "title": "Liz Cheney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Liz%20Cheney",
+      "pubdate": "Sat, 02 Nov 2024 02:00:00 +0100"
+    },
     {
       "title": "Gyokeres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gyokeres",
       "pubdate": "Sat, 02 Nov 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Sergio Endrigo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sergio%20Endrigo",
-      "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Emma Bonino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emma%20Bonino",
-      "pubdate": "Sat, 02 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Don Lurio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Don%20Lurio",
-      "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Fortnite",
@@ -27,9 +17,19 @@
       "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Commemorazione dei defunti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Commemorazione%20dei%20defunti",
-      "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+      "title": "Emma Bonino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emma%20Bonino",
+      "pubdate": "Sat, 02 Nov 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Sergio Endrigo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sergio%20Endrigo",
+      "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Don Lurio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Don%20Lurio",
+      "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Novi Sad",
@@ -37,9 +37,34 @@
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
+      "title": "Commemorazione dei defunti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Commemorazione%20dei%20defunti",
+      "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Ea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ea",
+      "pubdate": "Sat, 02 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Leao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leao",
+      "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+    },
+    {
       "title": "Leonardo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonardo",
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Bologna-Lecce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna-Lecce",
+      "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Amorim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amorim",
+      "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "The Cure",
@@ -47,9 +72,9 @@
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
     },
     {
-      "title": "Leao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leao",
-      "pubdate": "Sat, 02 Nov 2024 09:00:00 +0100"
+      "title": "Gigi Proietti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20Proietti",
+      "pubdate": "Sat, 02 Nov 2024 13:00:00 +0100"
     },
     {
       "title": "Heidi Klum",
@@ -62,44 +87,19 @@
       "pubdate": "Fri, 01 Nov 2024 06:00:00 +0100"
     },
     {
-      "title": "Jose Castillejo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jose%20Castillejo",
-      "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
-    },
-    {
       "title": "Formula 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Formula%201",
       "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
     },
     {
+      "title": "Jose Castillejo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jose%20Castillejo",
+      "pubdate": "Fri, 01 Nov 2024 13:00:00 +0100"
+    },
+    {
       "title": "Giovanni Tronchetti Provera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovanni%20Tronchetti%20Provera",
       "pubdate": "Fri, 01 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Berlinguer film",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berlinguer%20film",
-      "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Bianca Balti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bianca%20Balti",
-      "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
-    },
-    {
-      "title": "F1 oggi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#F1%20oggi",
-      "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Al-Nassr  Al Hilal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Al-Nassr%20%20Al%20Hilal",
-      "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Piccoli Brividi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Piccoli%20Brividi",
-      "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
     }
   ]
 }

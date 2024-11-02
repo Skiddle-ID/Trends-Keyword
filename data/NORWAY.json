@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-11-2024 , 11:35:46",
+  "lastUpdate": "02-11-2024 , 12:55:12",
   "data": [
+    {
+      "title": "Ruben Amorim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ruben%20Amorim",
+      "pubdate": "Sat, 02 Nov 2024 12:00:00 +0100"
+    },
     {
       "title": "Tangen dyrepark",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tangen%20dyrepark",
@@ -17,9 +22,19 @@
       "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
     },
     {
+      "title": "Jul med Astrid Lindgren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jul%20med%20Astrid%20Lindgren",
+      "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
+    },
+    {
       "title": "Finn Schjøll",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Finn%20Schj%C3%B8ll",
       "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Den store kinodagen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Den%20store%20kinodagen",
+      "pubdate": "Fri, 01 Nov 2024 18:00:00 +0100"
     },
     {
       "title": "JD Vance",
@@ -57,14 +72,14 @@
       "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Jul med Astrid Lindgren",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jul%20med%20Astrid%20Lindgren",
-      "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
-    },
-    {
       "title": "Vgs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vgs",
       "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Hello Kitty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hello%20Kitty",
+      "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
     },
     {
       "title": "November",
@@ -72,9 +87,9 @@
       "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Hello Kitty",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hello%20Kitty",
-      "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
+      "title": "Fjordingen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fjordingen",
+      "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Tonje Brenna",
@@ -85,21 +100,6 @@
       "title": "Lara Croft",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lara%20Croft",
       "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Ullensvang hotell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullensvang%20hotell",
-      "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
-    },
-    {
-      "title": "USS Harry S. Truman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#USS%20Harry%20S.%20Truman",
-      "pubdate": "Thu, 31 Oct 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Ba",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ba",
-      "pubdate": "Thu, 31 Oct 2024 16:00:00 +0100"
     }
   ]
 }

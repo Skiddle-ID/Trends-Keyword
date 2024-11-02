@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2024 , 11:35:41",
+  "lastUpdate": "02-11-2024 , 12:55:07",
   "data": [
     {
       "title": "Velez",
@@ -17,8 +17,8 @@
       "pubdate": "Sat, 02 Nov 2024 00:00:00 -0300"
     },
     {
-      "title": "MrBeast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MrBeast",
+      "title": "Emilia Dides",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Emilia%20Dides",
       "pubdate": "Sat, 02 Nov 2024 00:00:00 -0300"
     },
     {
@@ -55,11 +55,6 @@
       "title": "Cazzu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cazzu",
       "pubdate": "Fri, 01 Nov 2024 12:00:00 -0300"
-    },
-    {
-      "title": "Vibra Fest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vibra%20Fest",
-      "pubdate": "Fri, 01 Nov 2024 13:00:00 -0300"
     },
     {
       "title": "Billy Zane Marlon Brando",
@@ -100,6 +95,11 @@
       "title": "Tomás Barrios",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%C3%A1s%20Barrios",
       "pubdate": "Fri, 01 Nov 2024 22:00:00 -0300"
+    },
+    {
+      "title": "Día de Muertos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#D%C3%ADa%20de%20Muertos",
+      "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
     }
   ]
 }
