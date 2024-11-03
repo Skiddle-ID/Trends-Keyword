@@ -1,1 +1,1 @@
-Ajax,Feyenoord,Willem II  Twente,Liverpool,Vitesse,Heracles,Theo van Gogh,F1 kwalificatie,Fortuna  Heerenveen,Nina Warink,Kemi Badenoch,Farioli,FC Den Bosch,Blokker,Gert Jan Mulder,Peter Buwalda,Loting KNVB Beker,FC Utrecht,Cambuur,Magnussen
+Starlink,Kalvijn,Ajax,Feyenoord,PSV Ajax,Willem II  Twente,Kwalificatie f1 brazilie,Liverpool,Heracles,Vitesse,Theo van Gogh,Fortuna  Heerenveen,Nina Warink,Kemi Badenoch,Farioli,FC Den Bosch,Gert Jan Mulder,Idsinga,Peter Buwalda,FC Utrecht
