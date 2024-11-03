@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "03-11-2024 , 11:35:55",
+  "lastUpdate": "03-11-2024 , 12:54:21",
   "data": [
     {
       "title": "Goias",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
       "pubdate": "Sun, 03 Nov 2024 04:00:00 -0500"
+    },
+    {
+      "title": "Gp do Brasil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gp%20do%20Brasil",
+      "pubdate": "Sun, 03 Nov 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Racismo Ambiental",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Racismo%20Ambiental",
+      "pubdate": "Sun, 03 Nov 2024 07:00:00 -0500"
     },
     {
       "title": "Brasileirao",
@@ -52,6 +62,11 @@
       "pubdate": "Sat, 02 Nov 2024 15:00:00 -0500"
     },
     {
+      "title": "Local de prova Enem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Local%20de%20prova%20Enem",
+      "pubdate": "Sat, 02 Nov 2024 17:00:00 -0500"
+    },
+    {
       "title": "PSG x Lens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG%20x%20Lens",
       "pubdate": "Sat, 02 Nov 2024 02:00:00 -0500"
@@ -65,11 +80,6 @@
       "title": "Goiás x Guarani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Guarani",
       "pubdate": "Sat, 02 Nov 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Local de prova Enem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Local%20de%20prova%20Enem",
-      "pubdate": "Sat, 02 Nov 2024 17:00:00 -0500"
     },
     {
       "title": "Udinese x Juventus",
@@ -90,16 +100,6 @@
       "title": "Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
       "pubdate": "Sat, 02 Nov 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Santos FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-      "pubdate": "Sat, 02 Nov 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Flamengo x Atlético-MG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Atl%C3%A9tico-MG",
-      "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
     }
   ]
 }

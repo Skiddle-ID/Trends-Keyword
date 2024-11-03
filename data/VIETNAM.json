@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2024 , 11:36:03",
+  "lastUpdate": "03-11-2024 , 12:54:31",
   "data": [
     {
       "title": "Atlanta United đấu với Inter Miami",
@@ -12,9 +12,9 @@
       "pubdate": "Sun, 03 Nov 2024 07:00:00 +0700"
     },
     {
-      "title": "Udinese đấu với Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Udinese%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Juventus",
-      "pubdate": "Sun, 03 Nov 2024 01:00:00 +0700"
+      "title": "Thanh Hóa đấu với Hà Nội",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thanh%20H%C3%B3a%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20H%C3%A0%20N%E1%BB%99i",
+      "pubdate": "Sun, 03 Nov 2024 18:00:00 +0700"
     },
     {
       "title": "Rekkles",
@@ -22,14 +22,14 @@
       "pubdate": "Sun, 03 Nov 2024 06:00:00 +0700"
     },
     {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan",
-      "pubdate": "Sun, 03 Nov 2024 03:00:00 +0700"
-    },
-    {
       "title": "Bảng xếp hạng bóng đá Anh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20b%C3%B3ng%20%C4%91%C3%A1%20Anh",
       "pubdate": "Sun, 03 Nov 2024 02:00:00 +0700"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
+      "pubdate": "Sun, 03 Nov 2024 01:00:00 +0700"
     },
     {
       "title": "Thiếu tướng Nguyễn Ngọc Vân",
@@ -47,8 +47,8 @@
       "pubdate": "Sun, 03 Nov 2024 11:00:00 +0700"
     },
     {
-      "title": "Newcastle đấu với Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Arsenal",
+      "title": "Newcastle đấu Với Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle%20%C4%91%E1%BA%A5u%20V%E1%BB%9Bi%20Arsenal",
       "pubdate": "Sat, 02 Nov 2024 19:00:00 +0700"
     },
     {
@@ -82,6 +82,11 @@
       "pubdate": "Sat, 02 Nov 2024 18:00:00 +0700"
     },
     {
+      "title": "Leverkusen đấu với Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leverkusen%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Stuttgart",
+      "pubdate": "Sat, 02 Nov 2024 03:00:00 +0700"
+    },
+    {
       "title": "MU vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Chelsea",
       "pubdate": "Sat, 02 Nov 2024 00:00:00 +0700"
@@ -94,11 +99,6 @@
     {
       "title": "Quốc Cường Gia Lai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BB%91c%20C%C6%B0%E1%BB%9Dng%20Gia%20Lai",
-      "pubdate": "Sat, 02 Nov 2024 03:00:00 +0700"
-    },
-    {
-      "title": "Bayer Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayer%20Leverkusen",
       "pubdate": "Sat, 02 Nov 2024 03:00:00 +0700"
     }
   ]
