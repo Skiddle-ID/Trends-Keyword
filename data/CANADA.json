@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-11-2024 , 23:36:07",
+  "lastUpdate": "04-11-2024 , 02:05:37",
   "data": [
     {
       "title": "SNL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SNL",
       "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
+    },
+    {
+      "title": "Barcelona vs Espanyol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Espanyol",
+      "pubdate": "Sun, 03 Nov 2024 10:00:00 -0500"
     },
     {
       "title": "Man United vs Chelsea",
@@ -17,14 +22,14 @@
       "pubdate": "Sun, 03 Nov 2024 12:00:00 -0500"
     },
     {
+      "title": "Herby Moreau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Herby%20Moreau",
+      "pubdate": "Sun, 03 Nov 2024 20:00:00 -0500"
+    },
+    {
       "title": "Iowa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Iowa",
       "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Barcelona vs Espanyol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Espanyol",
-      "pubdate": "Sun, 03 Nov 2024 10:00:00 -0500"
     },
     {
       "title": "John Mulaney",
@@ -42,9 +47,14 @@
       "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
     },
     {
-      "title": "Dallas Cowboys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
-      "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
+      "title": "Harvey Epstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harvey%20Epstein",
+      "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Maple Leafs vs Wild",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Wild",
+      "pubdate": "Sun, 03 Nov 2024 19:00:00 -0500"
     },
     {
       "title": "Tottenham vs Aston Villa",
@@ -52,19 +62,24 @@
       "pubdate": "Sun, 03 Nov 2024 10:00:00 -0500"
     },
     {
+      "title": "Dallas Cowboys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
+      "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
+    },
+    {
       "title": "U.S election results",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#U.S%20election%20results",
+      "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Cowboys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cowboys",
       "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
     },
     {
       "title": "Berkshire Hathaway",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Berkshire%20Hathaway",
       "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
-    },
-    {
-      "title": "Harvey Epstein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harvey%20Epstein",
-      "pubdate": "Sun, 03 Nov 2024 16:00:00 -0500"
     },
     {
       "title": "Dolphins vs Bills",
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 03 Nov 2024 00:00:00 -0400"
     },
     {
-      "title": "Joel Embiid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joel%20Embiid",
-      "pubdate": "Sun, 03 Nov 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Jaxson Hayes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jaxson%20Hayes",
-      "pubdate": "Sun, 03 Nov 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Clock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Clock",
-      "pubdate": "Sun, 03 Nov 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Teddi Mellencamp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Teddi%20Mellencamp",
-      "pubdate": "Sun, 03 Nov 2024 12:00:00 -0500"
+      "title": "Lions vs Packers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lions%20vs%20Packers",
+      "pubdate": "Sun, 03 Nov 2024 19:00:00 -0500"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-11-2024 , 23:36:13",
+  "lastUpdate": "04-11-2024 , 02:05:42",
   "data": [
+    {
+      "title": "Nets vs Pistons",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nets%20vs%20Pistons",
+      "pubdate": "Mon, 04 Nov 2024 07:00:00 +0800"
+    },
     {
       "title": "Dst",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dst",
@@ -12,9 +17,29 @@
       "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
     },
     {
+      "title": "U.S election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#U.S%20election",
+      "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
+    },
+    {
+      "title": "Mavericks vs Magic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mavericks%20vs%20Magic",
+      "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
+    },
+    {
       "title": "Brazil GP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Brazil%20GP",
       "pubdate": "Mon, 04 Nov 2024 05:00:00 +0800"
+    },
+    {
+      "title": "F1 standings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1%20standings",
+      "pubdate": "Mon, 04 Nov 2024 07:00:00 +0800"
+    },
+    {
+      "title": "Little Things",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Little%20Things",
+      "pubdate": "Mon, 04 Nov 2024 08:00:00 +0800"
     },
     {
       "title": "Bucks vs Cavaliers",
@@ -42,11 +67,6 @@
       "pubdate": "Sun, 03 Nov 2024 12:00:00 +0800"
     },
     {
-      "title": "Suns vs Trail Blazers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Suns%20vs%20Trail%20Blazers",
-      "pubdate": "Sun, 03 Nov 2024 12:00:00 +0800"
-    },
-    {
       "title": "Raptors vs Kings",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Raptors%20vs%20Kings",
       "pubdate": "Sun, 03 Nov 2024 10:00:00 +0800"
@@ -57,8 +77,8 @@
       "pubdate": "Sun, 03 Nov 2024 12:00:00 +0800"
     },
     {
-      "title": "National Mourning day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#National%20Mourning%20day",
+      "title": "National Mourning Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#National%20Mourning%20Day",
       "pubdate": "Sun, 03 Nov 2024 00:00:00 +0800"
     },
     {
@@ -77,29 +97,9 @@
       "pubdate": "Sun, 03 Nov 2024 22:00:00 +0800"
     },
     {
-      "title": "Crown Jewel 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Crown%20Jewel%202024",
-      "pubdate": "Sun, 03 Nov 2024 06:00:00 +0800"
-    },
-    {
-      "title": "Peanut the squirrel euthanized",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Peanut%20the%20squirrel%20euthanized",
-      "pubdate": "Sun, 03 Nov 2024 07:00:00 +0800"
-    },
-    {
-      "title": "Tari Eason",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tari%20Eason",
-      "pubdate": "Sun, 03 Nov 2024 12:00:00 +0800"
-    },
-    {
-      "title": "Northern Luzon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Northern%20Luzon",
-      "pubdate": "Sun, 03 Nov 2024 22:00:00 +0800"
-    },
-    {
-      "title": "BLG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#BLG",
-      "pubdate": "Sun, 03 Nov 2024 00:00:00 +0800"
+      "title": "Mike Johnson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mike%20Johnson",
+      "pubdate": "Sun, 03 Nov 2024 16:00:00 +0800"
     }
   ]
 }
