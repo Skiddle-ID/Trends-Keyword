@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 11:36:55",
+  "lastUpdate": "04-11-2024 , 12:59:33",
   "data": [
     {
       "title": "미국 대선",
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0900"
     },
     {
-      "title": "맨유 첼시",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0%20%EC%B2%BC%EC%8B%9C",
-      "pubdate": "Mon, 04 Nov 2024 02:00:00 +0900"
+      "title": "김하온",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%95%98%EC%98%A8",
+      "pubdate": "Mon, 04 Nov 2024 18:00:00 +0900"
     },
     {
       "title": "이동윤",
@@ -27,14 +27,14 @@
       "pubdate": "Mon, 04 Nov 2024 16:00:00 +0900"
     },
     {
+      "title": "맨유 첼시",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0%20%EC%B2%BC%EC%8B%9C",
+      "pubdate": "Mon, 04 Nov 2024 02:00:00 +0900"
+    },
+    {
       "title": "클로이 모레츠",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%81%B4%EB%A1%9C%EC%9D%B4%20%EB%AA%A8%EB%A0%88%EC%B8%A0",
       "pubdate": "Mon, 04 Nov 2024 13:00:00 +0900"
-    },
-    {
-      "title": "과즙세연",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B3%BC%EC%A6%99%EC%84%B8%EC%97%B0",
-      "pubdate": "Mon, 04 Nov 2024 18:00:00 +0900"
     },
     {
       "title": "김민주",
@@ -82,16 +82,6 @@
       "pubdate": "Sun, 03 Nov 2024 10:00:00 +0900"
     },
     {
-      "title": "뉴캐슬",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%89%B4%EC%BA%90%EC%8A%AC",
-      "pubdate": "Sun, 03 Nov 2024 02:00:00 +0900"
-    },
-    {
-      "title": "나이트",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EC%9D%B4%ED%8A%B8",
-      "pubdate": "Sun, 03 Nov 2024 15:00:00 +0900"
-    },
-    {
       "title": "뮌헨",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8",
       "pubdate": "Sun, 03 Nov 2024 13:00:00 +0900"
@@ -100,6 +90,16 @@
       "title": "롤드컵",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5",
       "pubdate": "Sat, 02 Nov 2024 23:00:00 +0900"
+    },
+    {
+      "title": "롤드컵 결승",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5%20%EA%B2%B0%EC%8A%B9",
+      "pubdate": "Sat, 02 Nov 2024 02:00:00 +0900"
+    },
+    {
+      "title": "빅뱅",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B9%85%EB%B1%85",
+      "pubdate": "Sat, 02 Nov 2024 06:00:00 +0900"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-11-2024 , 11:36:53",
+  "lastUpdate": "04-11-2024 , 12:59:31",
   "data": [
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
+      "pubdate": "Mon, 04 Nov 2024 06:00:00 +0100"
+    },
     {
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
@@ -10,6 +15,11 @@
       "title": "Quincy Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Quincy%20Jones",
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Jackie Appiah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jackie%20Appiah",
+      "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Abia State local government elections",
@@ -72,6 +82,16 @@
       "pubdate": "Sun, 03 Nov 2024 11:00:00 +0100"
     },
     {
+      "title": "Equatorial Guinea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Equatorial%20Guinea",
+      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Eloswag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eloswag",
+      "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+    },
+    {
       "title": "Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves",
       "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "MLS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MLS",
       "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sevilla",
-      "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Olivia Rodrigo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olivia%20Rodrigo",
-      "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Marcelo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marcelo",
-      "pubdate": "Sun, 03 Nov 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Ruud van Nistelrooy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ruud%20van%20Nistelrooy",
-      "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
     }
   ]
 }

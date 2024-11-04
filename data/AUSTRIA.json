@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 11:36:47",
+  "lastUpdate": "04-11-2024 , 12:59:23",
   "data": [
     {
       "title": "Quincy Jones",
@@ -22,9 +22,9 @@
       "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "US wahlen 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#US%20wahlen%202024",
-      "pubdate": "Mon, 04 Nov 2024 07:00:00 +0100"
+      "title": "Lenovo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lenovo",
+      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "Helene Fischer",
@@ -62,6 +62,11 @@
       "pubdate": "Sun, 03 Nov 2024 15:00:00 +0100"
     },
     {
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Teams",
+      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
+    },
+    {
       "title": "Bauer sucht Frau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bauer%20sucht%20Frau",
       "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
@@ -75,11 +80,6 @@
       "title": "Cigarettes After",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cigarettes%20After",
       "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Teams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Teams",
-      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
     },
     {
       "title": "Inga Gehricke",
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
     },
     {
-      "title": "Jäger tot aufgefunden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J%C3%A4ger%20tot%20aufgefunden",
-      "pubdate": "Sun, 03 Nov 2024 07:00:00 +0100"
+      "title": "DFB-Pokal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DFB-Pokal",
+      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
     }
   ]
 }
