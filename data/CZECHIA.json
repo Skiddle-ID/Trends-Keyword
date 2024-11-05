@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "04-11-2024 , 23:36:29",
+  "lastUpdate": "05-11-2024 , 01:56:24",
   "data": [
+    {
+      "title": "Prezidentské volby USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prezidentsk%C3%A9%20volby%20USA",
+      "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
     {
       "title": "Volby USA 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20USA%202024",
-      "pubdate": "Mon, 04 Nov 2024 00:00:00 +0100"
+      "pubdate": "Mon, 04 Nov 2024 01:00:00 +0100"
     },
     {
       "title": "Fio",
@@ -20,11 +25,6 @@
       "title": "Justice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Justice",
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Cez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cez",
-      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "LinkedIn",
@@ -57,9 +57,19 @@
       "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
+      "title": "PS5 Pro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PS5%20Pro",
+      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
+    },
+    {
       "title": "Evropa 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropa%202",
       "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "ČEZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CEZ",
+      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "Maia Sandu",
@@ -72,8 +82,8 @@
       "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
     },
     {
-      "title": "PS5 Pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PS5%20Pro",
+      "title": "Zuzana Ondrouchová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zuzana%20Ondrouchov%C3%A1",
       "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "Zuzana Ondrouchová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zuzana%20Ondrouchov%C3%A1",
-      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
-    },
-    {
       "title": "Bachelor Česko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bachelor%20%C4%8Cesko",
       "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Shazam Band",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Shazam%20Band",
-      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
     }
   ]
 }

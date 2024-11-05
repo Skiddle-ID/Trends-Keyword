@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 23:36:35",
+  "lastUpdate": "05-11-2024 , 01:56:30",
   "data": [
     {
       "title": "Mugur Isărescu",
@@ -47,11 +47,6 @@
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0200"
     },
     {
-      "title": "Digi 24",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi%2024",
-      "pubdate": "Mon, 04 Nov 2024 06:00:00 +0200"
-    },
-    {
       "title": "Accident gornesti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20gornesti",
       "pubdate": "Mon, 04 Nov 2024 00:00:00 +0200"
@@ -70,11 +65,6 @@
       "title": "Ruben Amorim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ruben%20Amorim",
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Monedă",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Moned%C4%83",
-      "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
     },
     {
       "title": "MGK",
@@ -100,6 +90,16 @@
       "title": "Placido Domingo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Placido%20Domingo",
       "pubdate": "Mon, 04 Nov 2024 21:00:00 +0200"
+    },
+    {
+      "title": "Alexander Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexander%20Zverev",
+      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Horoscop noiembrie 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%20noiembrie%202024",
+      "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
     }
   ]
 }

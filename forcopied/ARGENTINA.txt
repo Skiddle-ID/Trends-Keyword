@@ -1,1 +1,1 @@
-Clima,Tiempo,Pronostico,Adidas,Nike,4 de noviembre,Servicio Meteorológico Nacional,Despegar,Clima Rosario,Samsung,Nathy Peluso,Barcelona,Clima Buenos Aires,El tiempo,Sporting,Quincy Jones,Chelsea,Megatone,Feriado noviembre,Manchester United
+Clima,Tiempo,Pronostico,Adidas,Nike,Independiente  Rosario Central,Servicio Meteorológico Nacional,Despegar,Pronostico del tiempo,Samsung,4 de noviembre,Nathy Peluso,Barcelona,Colon,Clima Buenos Aires,Atlético Tucumán  Sarmiento,Personal,Sporting,Quincy Jones,Megatone

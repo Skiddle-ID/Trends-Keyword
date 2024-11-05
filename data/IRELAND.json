@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 23:36:32",
+  "lastUpdate": "05-11-2024 , 01:56:27",
   "data": [
     {
       "title": "Gmail",
@@ -17,19 +17,24 @@
       "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
     },
     {
-      "title": "Maps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Maps",
-      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0000"
-    },
-    {
       "title": "Us election",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Us%20election",
       "pubdate": "Mon, 04 Nov 2024 12:00:00 +0000"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barcelona",
+      "title": "Maps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Maps",
+      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0000"
+    },
+    {
+      "title": "Barcelona weather",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barcelona%20weather",
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
+    },
+    {
+      "title": "Fulham vs Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fulham%20vs%20Brentford",
+      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0000"
     },
     {
       "title": "Revenue",
@@ -37,9 +42,9 @@
       "pubdate": "Mon, 04 Nov 2024 16:00:00 +0000"
     },
     {
-      "title": "LinkedIn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#LinkedIn",
-      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0000"
+      "title": "Stuart Hogg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stuart%20Hogg",
+      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0000"
     },
     {
       "title": "AIB",
@@ -49,17 +54,7 @@
     {
       "title": "American election",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#American%20election",
-      "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
-    },
-    {
-      "title": "Stuart Hogg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stuart%20Hogg",
-      "pubdate": "Mon, 04 Nov 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Outlook",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Outlook",
-      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0000"
+      "pubdate": "Mon, 04 Nov 2024 17:00:00 +0000"
     },
     {
       "title": "Electric Ireland",
@@ -67,9 +62,9 @@
       "pubdate": "Mon, 04 Nov 2024 19:00:00 +0000"
     },
     {
-      "title": "Fulham vs Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fulham%20vs%20Brentford",
-      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0000"
+      "title": "Outlook",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Outlook",
+      "pubdate": "Mon, 04 Nov 2024 12:00:00 +0000"
     },
     {
       "title": "Colorectal cancer",
@@ -77,9 +72,19 @@
       "pubdate": "Mon, 04 Nov 2024 10:00:00 +0000"
     },
     {
+      "title": "US election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#US%20election%20results",
+      "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
+    },
+    {
       "title": "Bank of Ireland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bank%20of%20Ireland",
       "pubdate": "Mon, 04 Nov 2024 11:00:00 +0000"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20League",
+      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0000"
     },
     {
       "title": "An Post",
@@ -90,11 +95,6 @@
       "title": "Teams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Teams",
       "pubdate": "Mon, 04 Nov 2024 09:00:00 +0000"
-    },
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20League",
-      "pubdate": "Mon, 04 Nov 2024 20:00:00 +0000"
     },
     {
       "title": "Garth Brooks",

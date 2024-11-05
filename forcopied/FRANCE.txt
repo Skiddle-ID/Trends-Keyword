@@ -1,1 +1,1 @@
-CAF,Nekfeu,Quincy Jones,Kamel Daoud,Yves Parlier,RER E,Yanis Marshall,Karl Olive,Sara Forestier,Jordan De Luxe,Piscine Yves Nayme,FC Barcelone,Allianz,11 novembre,Vols Air France mer Rouge,Samuel Paty,Ajaccio – Metz,Gael Faye,Neymar,Miss France 2025
+LDC,CAF,Nekfeu,Quincy Jones,Kamel Daoud,Yves Parlier,RER E,Yanis Marshall,Karl Olive,Sara Forestier,Piscine Yves Nayme,FC Barcelone,11 novembre,Neymar,Samuel Paty,Miss France 2025,James Van Der Beek,Taxe d'habitation,Mer Rouge,CFE
