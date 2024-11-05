@@ -1,1 +1,1 @@
-İrfan Alış,Bloomberg,QNB,L-Gante,SGK,Şirin Elmas,Imane Khelif,Türkiye Sigorta,BIST100,Borsa,Ankaralı Turgut,Talisca,Allianz,KAP,Kırgızistan,ABD,Asgari ücret zammı 2025,Samsunspor,ABD seçimleri,Enflasyon
+TÜPRAŞ,İrfan Alış,L-Gante,QNB,Bülent Ecevit,Imane Khelif,Ankaralı Turgut,SGK,Şirin Elmas,Devlet Bahçeli Ahmet Türk,Kırgızistan,Türkiye Sigorta,Talisca,Allianz,İSKİ,KAP,ABD,ASGARİ ÜCRET ZAMMI 2025,Samsunspor,ABD seçimleri

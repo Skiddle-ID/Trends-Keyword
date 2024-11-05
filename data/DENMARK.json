@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "05-11-2024 , 11:35:55",
+  "lastUpdate": "05-11-2024 , 12:56:25",
   "data": [
     {
-      "title": "US polls",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20polls",
+      "title": "CNN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+      "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "U.S election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#U.S%20election%20results",
       "pubdate": "Tue, 05 Nov 2024 09:00:00 +0100"
     },
     {
@@ -17,13 +22,13 @@
       "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
     },
     {
-      "title": "Melatonin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melatonin",
+      "title": "Vestas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vestas",
       "pubdate": "Tue, 05 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "Vestas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vestas",
+      "title": "Melatonin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melatonin",
       "pubdate": "Tue, 05 Nov 2024 09:00:00 +0100"
     },
     {
@@ -72,8 +77,13 @@
       "pubdate": "Mon, 04 Nov 2024 07:00:00 +0100"
     },
     {
-      "title": "Kamala Harris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kamala%20Harris",
+      "title": "Radius",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Radius",
+      "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Us election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Us%20election",
       "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Barcelona  Espanyol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Espanyol",
       "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Penny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Penny",
-      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Moldova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Moldova",
-      "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
     }
   ]
 }
