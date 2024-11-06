@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-11-2024 , 18:42:23",
+  "lastUpdate": "06-11-2024 , 19:36:21",
   "data": [
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
+      "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
+    },
     {
       "title": "Gold price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
@@ -12,19 +17,19 @@
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Ted Cruz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ted%20Cruz",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+      "title": "Club Brugge vs Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Club%20Brugge%20vs%20Aston%20Villa",
+      "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
     },
     {
-      "title": "The guardian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20guardian",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+      "title": "Usha Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Usha%20Vance",
+      "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
     },
     {
-      "title": "Jill Stein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jill%20Stein",
-      "pubdate": "Wed, 06 Nov 2024 05:00:00 +0800"
+      "title": "The Guardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
+      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
       "title": "Sporting vs Man City",
@@ -42,6 +47,11 @@
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
+      "title": "Tesla share price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20share%20price",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
+    },
+    {
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
       "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
@@ -50,11 +60,6 @@
       "title": "Real Madrid vs Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20Milan",
       "pubdate": "Wed, 06 Nov 2024 05:00:00 +0800"
-    },
-    {
-      "title": "Tesla stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
       "title": "Afghanistan vs Bangladesh",
@@ -67,19 +72,9 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
     },
     {
-      "title": "Trump win",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20win",
-      "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
-    },
-    {
       "title": "DJT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DJT",
       "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
-    },
-    {
-      "title": "Dua Lipa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dua%20Lipa",
-      "pubdate": "Wed, 06 Nov 2024 16:00:00 +0800"
     },
     {
       "title": "JD Vance",
@@ -87,13 +82,18 @@
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "Swing states 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Swing%20states%202024",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
+      "title": "Dua Lipa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dua%20Lipa",
+      "pubdate": "Wed, 06 Nov 2024 16:00:00 +0800"
     },
     {
       "title": "Republican Party",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Republican%20Party",
+      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
+    },
+    {
+      "title": "Swing states 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Swing%20states%202024",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
     },
     {

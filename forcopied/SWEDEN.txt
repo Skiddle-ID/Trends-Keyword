@@ -1,1 +1,1 @@
-SVT,SVT nyheter,DN,Bitcoin,Nyheter,Elon Musk,AP,Dagens Nyheter,Barron Trump,Dana White,Trump Harris,Jessika Roswall,6 november,Putin,Ebba Årsjö,Val,Robert Ohlsson,Philadelphia,New York,Betsson
+SVT,SVT nyheter,Besiktas mot Malmö FF,DN,Bitcoin,Elon Musk,AP,Dagens Nyheter,Barron Trump,Jessika Roswall,6 november,Trump Harris,Trump age,Putin,Ebba Årsjö,Robert Ohlsson,Börsen,Philadelphia,Washington DC,Reuters

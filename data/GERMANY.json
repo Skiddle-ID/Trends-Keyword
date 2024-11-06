@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "06-11-2024 , 18:42:18",
+  "lastUpdate": "06-11-2024 , 19:36:16",
   "data": [
-    {
-      "title": "News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#News",
-      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
       "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "DAX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
-      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "Elon Musk",
@@ -22,14 +12,24 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "ZEIT ONLINE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZEIT%20ONLINE",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      "title": "Ampel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ampel",
+      "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
     },
     {
-      "title": "Liverpool – Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool%20%E2%80%93%20Leverkusen",
-      "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
+      "title": "Til Schweiger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Til%20Schweiger",
+      "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
+    },
+    {
+      "title": "US-Wahl 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Wahl%202024",
+      "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
+    },
+    {
+      "title": "US wahlen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US%20wahlen",
+      "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Dortmund – Sturm Graz",
@@ -37,19 +37,19 @@
       "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
     },
     {
+      "title": "Liverpool – Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool%20%E2%80%93%20Leverkusen",
+      "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
+    },
+    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
       "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Melania trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania%20trump",
+      "title": "Melania Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania%20Trump",
       "pubdate": "Tue, 05 Nov 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Wahl in Amerika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20in%20Amerika",
-      "pubdate": "Tue, 05 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Schaeffler",
@@ -62,11 +62,6 @@
       "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Wahl USA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20USA",
-      "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
-    },
-    {
       "title": "USA Wahlen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA%20Wahlen",
       "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
@@ -75,6 +70,16 @@
       "title": "US-Wahlen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Wahlen",
       "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Trump vs Harris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20vs%20Harris",
+      "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "US Wahlen 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US%20Wahlen%202024",
+      "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
     },
     {
       "title": "Israel",
@@ -95,11 +100,6 @@
       "title": "Präsidentschaftswahl USA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pr%C3%A4sidentschaftswahl%20USA",
       "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Hertha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
-      "pubdate": "Sun, 03 Nov 2024 02:00:00 +0100"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Dr,Tesla stock,Bitcoin,Novo Nordisk,USA,JD Vance,Joe Biden,Trump Media stock,Elon Musk,Associated Press,Project 2025,Barron Trump,S&P 500,Iowa,Bernie Sanders,Dana White,De,Putin,Sporting,Barack Obama
+Dr,Tesla stock,Bitcoin,Fox News,Novo Nordisk,USA,JD Vance,Joe Biden,American election,Elon Musk,S&P 500,Nvidia stock,DJT stock,Project 2025,Dana White,Bernie Sanders,Iowa,House of Representatives,The Guardian,Putin
