@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 16:42:56",
+  "lastUpdate": "06-11-2024 , 17:37:34",
   "data": [
     {
       "title": "CBC News",
@@ -7,13 +7,23 @@
       "pubdate": "Wed, 06 Nov 2024 03:00:00 -0500"
     },
     {
-      "title": "TVA nouvelles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TVA%20nouvelles",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
+      "title": "Bitcoin price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bitcoin%20price",
+      "pubdate": "Wed, 06 Nov 2024 10:00:00 -0500"
     },
     {
       "title": "Tesla stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tesla%20stock",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
+    },
+    {
+      "title": "TVA Nouvelles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TVA%20Nouvelles",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
+    },
+    {
+      "title": "S&P 500",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#S%26P%20500",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
     },
     {
@@ -22,19 +32,14 @@
       "pubdate": "Wed, 06 Nov 2024 03:00:00 -0500"
     },
     {
-      "title": "Winnipeg Jets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0500"
-    },
-    {
       "title": "Pierre Poilievre",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Poilievre",
       "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
     },
     {
-      "title": "Justin Trudeau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Trudeau",
-      "pubdate": "Wed, 06 Nov 2024 07:00:00 -0500"
+      "title": "Winnipeg Jets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0500"
     },
     {
       "title": "Washington Post",
@@ -47,13 +52,8 @@
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
     },
     {
-      "title": "News today",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#News%20today",
-      "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
-    },
-    {
-      "title": "Arizona election results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arizona%20election%20results",
+      "title": "News Today",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#News%20Today",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
@@ -62,13 +62,8 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "CBC us election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CBC%20us%20election",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
-    },
-    {
-      "title": "Iowa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Iowa",
+      "title": "Arizona election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arizona%20election%20results",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
@@ -77,9 +72,14 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "Walking pneumonia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Walking%20pneumonia",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
+      "title": "RFK Jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RFK%20Jr",
+      "pubdate": "Wed, 06 Nov 2024 03:00:00 -0500"
+    },
+    {
+      "title": "Iowa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Iowa",
+      "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
       "title": "Nevada election results",
@@ -87,19 +87,19 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "Blue Wall states",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Wall%20states",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
+      "title": "The Guardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Guardian",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
     },
     {
-      "title": "Lapresse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lapresse",
-      "pubdate": "Wed, 06 Nov 2024 07:00:00 -0500"
+      "title": "Walking pneumonia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Walking%20pneumonia",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0500"
     },
     {
-      "title": "Sarah McBride",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sarah%20McBride",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 -0500"
+      "title": "House of Representatives",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#House%20of%20Representatives",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0500"
     }
   ]
 }

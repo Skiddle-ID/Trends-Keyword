@@ -1,1 +1,1 @@
-Bitcoin-Kurs,News,Tesla-Aktie,Elon Musk,Biden,DAX,Putin,Dow Jones,Sternzeichen,ARD,Rheinmetall-Aktie,Die Zeit,Dana White,Europa League,Trump Ukraine,Zeit,Gabriel Bortoleto,Der SPIEGEL,Real Madrid – Milan,Dubai-Schokolade Lindt
+Bitcoin-Kurs,Tesla-Aktie,News,J.D. Vance,Biden,DAX,Barron Trump,ZDF,Dow Jones,Ivanka Trump,Putin,Wahlen usa aktuell,Rheinmetall-Aktie,S&P 500,ATX,Dana White,Die Zeit,Europa League,Trump Ukraine,NASDAQ 100

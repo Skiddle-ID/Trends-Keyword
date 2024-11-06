@@ -1,1 +1,1 @@
-SRF,Bitcoin,Bitcoin-Kurs,NZZ,SMI,Tesla-Aktie,Elon Musk,Le monde,Biden,Barron Trump,Le temps,S&P 500,SPIEGEL,ARD,F.A.Z,ZDF,Warren Buffett,Zeit,ABC,Dana White
+SRF,Bitcoin,Bitcoin-Kurs,SMI,NZZ,RTS,Elon Musk,Tesla-Aktie,Le monde,Biden,Barron Trump,Dow Jones,S&P 500,SPIEGEL,Le Temps,ARD,ZDF,Wer ist Präsident von Amerika,Zeit,Warren Buffett

@@ -1,1 +1,1 @@
-VRT NWS,Bitcoin,RTBF,VRT,Bitcoin koers,Elon Musk,J.D. Vance,BTC,Waze,Ap,Valtteri Bottas,BFMTV,Nos,Ivanka Trump,Lemonde,Mbappe,Barca,PSG,Yoav Gallant,538
+Bitcoin,RTBF,Bitcoin koers,BBC,Elon Musk,J.D. Vance,BTC,Waze,Valtteri Bottas,Ap,S&P 500,Ivanka Trump,BFMTV,Mbappe,Barca,Lemonde,PSG,Yoav Gallant,Dogecoin,Dana White
