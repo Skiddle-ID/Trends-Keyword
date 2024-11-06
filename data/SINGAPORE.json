@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 20:36:48",
+  "lastUpdate": "06-11-2024 , 21:35:50",
   "data": [
     {
       "title": "Champions League",
@@ -12,14 +12,14 @@
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
       "title": "Club Brugge vs Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Club%20Brugge%20vs%20Aston%20Villa",
       "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
+    },
+    {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
+      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
       "title": "Usha Vance",
@@ -30,6 +30,11 @@
       "title": "The Guardian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Tesla share price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20share%20price",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     },
     {
       "title": "Sporting vs Man City",
@@ -45,16 +50,6 @@
       "title": "Bitcoin price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin%20price",
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Tesla share price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20share%20price",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
-    },
-    {
-      "title": "New York Times",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
-      "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
       "title": "Real Madrid vs Milan",
@@ -97,9 +92,14 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
     },
     {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
-      "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
+      "title": "Polymarket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Polymarket",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
+    },
+    {
+      "title": "New York Times",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20York%20Times",
+      "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Beşiktaş maçı,Bitcoin,Benfica,Başakşehir,JD Vance,Elon Musk,Aston Villa,Dilan Polat,Deniz Gül,Melania Trump,Soner Yalçın,Sami Uğurlu,PSG,Ecem Sultan Çamlı,Hull City,Daron Acemoğlu,Trefl Sopot  Beşiktaş,Beşiktaş,Real Madrid,  Milan,Ankaralı Turgut
+Dolar,Bayern Münih - Benfica,Beşiktaş maçı,Bitcoin,Fenerbahçe maçı,Aston Villa,Shakhtar Donetsk,Başakşehir,Elon Musk,Inter Arsenal,PSG Atletico Madrid,Joe Biden,Dilan Polat,Sami Uğurlu,Deniz Gül,Melania Trump,Vance,Daron Acemoğlu,Soner Yalçın,Ecem Sultan Çamlı

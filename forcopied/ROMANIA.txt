@@ -1,1 +1,1 @@
-AUR,Stirile protv,JD Vance,Bitcoin,Elon Musk,Tsunami marea neagra,Putin,Paracetamol,Waze,Barron Trump,Ivanka Trump,Club Brugge - Aston Villa,Reuters,Yoav Gallant,Hot news,Juventus,6 noiembrie,City,Politico,Roxana Mînzatu
+CNN,AUR,JD Vance,Stirile protv,Bitcoin,Elon Musk,Tsunami marea neagra,Man City,Putin,Barron Trump,Club Brugge - Aston Villa,Ivanka Trump,Waze,Protv,Bayern  Benfica,Inter - Arsenal,Reuters,Yoav Gallant,6 noiembrie,Juventus

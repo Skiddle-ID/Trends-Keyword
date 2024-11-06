@@ -1,1 +1,1 @@
-Bitcoin,Bitcoin-Kurs,News,SMI,NZZ,RTS,Tesla-Aktie,Elon Musk,Wahlen Amerika,Solana,Tages-Anzeiger,Le monde,Barron Trump,Dow Jones,S&P 500,SPIEGEL,Le Temps,Europa League,ARD,ZDF
+Bitcoin,News,Elon Musk,RTS,Tesla-Aktie,Solana,Dax,Barron Trump,Biden,Dow Jones,S&P 500,SPIEGEL,Europa League,Le Temps,F.A.Z,Putin,ARD,ZDF,Dana White,Zeit

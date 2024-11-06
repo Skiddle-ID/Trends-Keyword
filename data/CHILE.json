@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "06-11-2024 , 20:36:41",
+  "lastUpdate": "06-11-2024 , 21:35:43",
   "data": [
+    {
+      "title": "Dolar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 -0300"
+    },
+    {
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
+      "pubdate": "Wed, 06 Nov 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Eduardo Vergara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduardo%20Vergara",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 -0300"
+    },
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bitcoin",
@@ -12,19 +27,9 @@
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
-      "title": "Club Brujas  Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Club%20Brujas%20%20Aston%20Villa",
-      "pubdate": "Wed, 06 Nov 2024 15:00:00 -0300"
-    },
-    {
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elon%20Musk",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Carolina Leitao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carolina%20Leitao",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 -0300"
     },
     {
       "title": "Rafael Araneda",
@@ -37,11 +42,6 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
     },
     {
-      "title": "Joe biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joe%20biden",
-      "pubdate": "Wed, 06 Nov 2024 12:00:00 -0300"
-    },
-    {
       "title": "Independiente  Unión",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Independiente%20%20Uni%C3%B3n",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0300"
@@ -52,14 +52,29 @@
       "pubdate": "Wed, 06 Nov 2024 08:00:00 -0300"
     },
     {
+      "title": "PSG - Atlético Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG%20-%20Atl%C3%A9tico%20Madrid",
+      "pubdate": "Wed, 06 Nov 2024 17:00:00 -0300"
+    },
+    {
       "title": "Newell's  Huracán",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newell's%20%20Hurac%C3%A1n",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
+      "title": "Bayern  Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern%20%20Benfica",
+      "pubdate": "Wed, 06 Nov 2024 17:00:00 -0300"
+    },
+    {
       "title": "Visa Waiver",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Visa%20Waiver",
       "pubdate": "Wed, 06 Nov 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Amish",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amish",
+      "pubdate": "Wed, 06 Nov 2024 16:00:00 -0300"
     },
     {
       "title": "Elecciones EEUU",
@@ -74,7 +89,7 @@
     {
       "title": "Real Madrid  Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20%20Milan",
-      "pubdate": "Tue, 05 Nov 2024 01:00:00 -0300"
+      "pubdate": "Tue, 05 Nov 2024 17:00:00 -0300"
     },
     {
       "title": "Sporting Lisboa  Manchester City",
@@ -82,24 +97,9 @@
       "pubdate": "Tue, 05 Nov 2024 17:00:00 -0300"
     },
     {
-      "title": "Chris McMillan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chris%20McMillan",
-      "pubdate": "Tue, 05 Nov 2024 21:00:00 -0300"
-    },
-    {
-      "title": "Liverpool  Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Leverkusen",
-      "pubdate": "Tue, 05 Nov 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
-      "pubdate": "Tue, 05 Nov 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Robert Kennedy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Robert%20Kennedy",
-      "pubdate": "Tue, 05 Nov 2024 21:00:00 -0300"
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
+      "pubdate": "Tue, 05 Nov 2024 18:00:00 -0300"
     }
   ]
 }

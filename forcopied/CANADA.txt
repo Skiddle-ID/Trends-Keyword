@@ -1,1 +1,1 @@
-News,CBC News,Bitcoin price,Tesla stock,TVA Nouvelles,Elon Musk,Pierre Poilievre,Winnipeg Jets,Bread recall,Washington Post,Allan Lichtman,Barron Trump,News Today,Nevada election results,Arizona election results,Kari Lake,TVA,Jets,House of Representatives,Iowa
+Bitcoin price,CBC News,Tesla stock,TVA nouvelles,Pierre Poilievre,Winnipeg Jets,Bread recalls,Washington Post,House of Representatives,Barron Trump,Allan Lichtman,Kari Lake,Arizona election results,When is the Canadian election,Usha Vance,TVA,Jets,Nevada election results,Grover Cleveland,The View

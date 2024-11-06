@@ -1,1 +1,1 @@
-Bitcoin,Kristián Šebek,Elon Musk,Petr Pavel,Man City,S&P 500,Aktualne.cz,Palantir,Ap,Republikáni,NBC,Mpox,USD,Škoda Kylaq,News,Waze,Cnn prima,Kurzy.cz,NATO,Lucie
+Bitcoin,BTC,Elon Musk,Kristián Šebek,Petr Pavel,Man City,S&P 500,Putin,Aktualne.cz,Tesla akcie,Ap,Republikáni,Škoda Kylaq,USD,NBC,Waze,Seznam zpravy,News,Kurzy.cz,NATO
