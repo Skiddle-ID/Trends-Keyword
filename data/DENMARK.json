@@ -1,14 +1,24 @@
 {
-  "lastUpdate": "06-11-2024 , 14:38:53",
+  "lastUpdate": "06-11-2024 , 15:37:52",
   "data": [
+    {
+      "title": "Dr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dr",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "U.S.A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#U.S.A",
+      "title": "USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#USA",
+      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Novo Nordisk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
@@ -17,14 +27,19 @@
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Novo Nordisk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "JD Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#JD%20Vance",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Trump Media stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20Media%20stock",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Elon Musk",
@@ -37,34 +52,9 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
     },
     {
-      "title": "Trump Media stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20Media%20stock",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
       "title": "Project 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Project%202025",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Iowa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iowa",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "The guardian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
-      "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
-    },
-    {
-      "title": "Bernie Sanders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bernie%20Sanders",
-      "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
-    },
-    {
-      "title": "Dana White",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dana%20White",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "Barron Trump",
@@ -72,14 +62,34 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
-      "title": "Ivanka Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ivanka%20Trump",
+      "title": "Iowa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iowa",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Bernie Sanders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bernie%20Sanders",
+      "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
+    },
+    {
+      "title": "The guardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
+      "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
+    },
+    {
+      "title": "Dana White",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dana%20White",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "S&P 500",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#S%26P%20500",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "De",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#De",
+      "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
     },
     {
       "title": "Putin",
@@ -90,16 +100,6 @@
       "title": "Sporting",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sporting",
       "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Philadelphia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Philadelphia",
-      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Harvard University",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Harvard%20University",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
     }
   ]
 }

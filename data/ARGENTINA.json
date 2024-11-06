@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "06-11-2024 , 14:38:51",
+  "lastUpdate": "06-11-2024 , 15:37:49",
   "data": [
+    {
+      "title": "Huracan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Huracan",
+      "pubdate": "Wed, 06 Nov 2024 06:00:00 -0300"
+    },
     {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bitcoin",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
+    },
+    {
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
     },
     {
@@ -12,8 +22,18 @@
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
-      "title": "Triquinosis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Triquinosis",
+      "title": "Gustavo Vera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gustavo%20Vera",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0300"
+    },
+    {
+      "title": "Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elon%20Musk",
+      "pubdate": "Wed, 06 Nov 2024 11:00:00 -0300"
+    },
+    {
+      "title": "Jordi Wild",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jordi%20Wild",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0300"
     },
     {
@@ -22,19 +42,14 @@
       "pubdate": "Wed, 06 Nov 2024 03:00:00 -0300"
     },
     {
-      "title": "Atletico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atletico",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
+      "title": "Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Biden",
+      "pubdate": "Wed, 06 Nov 2024 10:00:00 -0300"
     },
     {
-      "title": "Smashing Pumpkins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Smashing%20Pumpkins",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0300"
-    },
-    {
-      "title": "Gustavo Vera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gustavo%20Vera",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0300"
+      "title": "Melania Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Melania%20Trump",
+      "pubdate": "Wed, 06 Nov 2024 11:00:00 -0300"
     },
     {
       "title": "Real Madrid  Milan",
@@ -50,11 +65,6 @@
       "title": "San Lorenzo  Estudiantes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo%20%20Estudiantes",
       "pubdate": "Tue, 05 Nov 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donald%20Trump",
-      "pubdate": "Tue, 05 Nov 2024 02:00:00 -0300"
     },
     {
       "title": "Champions",
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 05 Nov 2024 17:00:00 -0300"
     },
     {
-      "title": "Seleccion Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20Argentina",
-      "pubdate": "Tue, 05 Nov 2024 14:00:00 -0300"
-    },
-    {
       "title": "Dia del Bancario",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Bancario",
       "pubdate": "Tue, 05 Nov 2024 09:00:00 -0300"
     },
     {
-      "title": "Argentina vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20vs",
-      "pubdate": "Tue, 05 Nov 2024 16:00:00 -0300"
-    },
-    {
-      "title": "Jill Stein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jill%20Stein",
-      "pubdate": "Tue, 05 Nov 2024 22:00:00 -0300"
+      "title": "Seleccion Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20Argentina",
+      "pubdate": "Tue, 05 Nov 2024 14:00:00 -0300"
     }
   ]
 }

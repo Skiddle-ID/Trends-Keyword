@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 14:39:00",
+  "lastUpdate": "06-11-2024 , 15:38:00",
   "data": [
     {
       "title": "Sky News",
@@ -17,19 +17,19 @@
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
     },
     {
+      "title": "Project 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Project%202025",
+      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
+    },
+    {
       "title": "Trevor Sorbie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Trevor%20Sorbie",
       "pubdate": "Wed, 06 Nov 2024 06:00:00 +0000"
     },
     {
-      "title": "News today",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20today",
+      "title": "News Today",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20Today",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
-    },
-    {
-      "title": "Project 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Project%202025",
-      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
       "title": "JD Vance",
@@ -47,18 +47,8 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
-      "title": "Polymarket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Polymarket",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
-    },
-    {
       "title": "Joe Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joe%20Biden",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Republican Party",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Republican%20Party",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
@@ -67,14 +57,24 @@
       "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
+      "title": "Polymarket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Polymarket",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+    },
+    {
+      "title": "Republican Party",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Republican%20Party",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+    },
+    {
       "title": "Us presidents",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Us%20presidents",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
     },
     {
-      "title": "MSNBC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#MSNBC",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+      "title": "S&P 500",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#S%26P%20500",
+      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
     },
     {
       "title": "Barron Trump",
@@ -82,24 +82,24 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0000"
     },
     {
-      "title": "Democratic party",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Democratic%20party",
+      "title": "MSNBC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#MSNBC",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+    },
+    {
+      "title": "Swing states",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Swing%20states",
+      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Democratic Party",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Democratic%20Party",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "Associated Press",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Associated%20Press",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
-    },
-    {
-      "title": "Ivanka trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivanka%20trump",
+      "title": "Ivanka Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivanka%20Trump",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0000"
-    },
-    {
-      "title": "Nyt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nyt",
-      "pubdate": "Wed, 06 Nov 2024 07:00:00 +0000"
     }
   ]
 }

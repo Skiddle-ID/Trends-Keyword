@@ -1,1 +1,1 @@
-Bitcoin,News,Bitcoin-Kurs,NZZ,RTS,BBC news,Tesla-Aktie,Elon Musk,Le monde,Biden,Le temps,Barron Trump,Warren Buffett,ZDF,Nachrichten,ABC,Franceinfo,Dana White,Philadelphia,Louis Sarkozy
+SRF,Bitcoin,Bitcoin-Kurs,NZZ,SMI,Tesla-Aktie,Elon Musk,Le monde,Biden,Barron Trump,Le temps,S&P 500,SPIEGEL,ARD,F.A.Z,ZDF,Warren Buffett,Zeit,ABC,Dana White

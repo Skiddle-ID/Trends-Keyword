@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 14:38:58",
+  "lastUpdate": "06-11-2024 , 15:37:57",
   "data": [
     {
       "title": "Bitcoin",
@@ -7,29 +7,19 @@
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
     },
     {
-      "title": "Publico",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Publico",
-      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
-    },
-    {
-      "title": "CNN Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN%20Portugal",
-      "pubdate": "Wed, 06 Nov 2024 05:00:00 +0000"
-    },
-    {
       "title": "SIC NOTÍCIAS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20NOT%C3%8DCIAS",
       "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
-      "title": "SIC noticias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20noticias",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+      "title": "Publico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Publico",
+      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
     },
     {
-      "title": "RTP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0000"
+      "title": "Dolar real",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dolar%20real",
+      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
     },
     {
       "title": "Biden",
@@ -37,18 +27,8 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     },
     {
-      "title": "NBC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBC",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
-    },
-    {
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
-    },
-    {
-      "title": "Carris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carris",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
     },
     {
@@ -57,9 +37,14 @@
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
     },
     {
-      "title": "Dolar real",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dolar%20real",
-      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
+      "title": "Carris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carris",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+    },
+    {
+      "title": "Chave Euromilhões",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chave%20Euromilh%C3%B5es",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
     },
     {
       "title": "Publico.pt",
@@ -67,9 +52,14 @@
       "pubdate": "Wed, 06 Nov 2024 07:00:00 +0000"
     },
     {
-      "title": "Chave Euromilhões",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chave%20Euromilh%C3%B5es",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+      "title": "Waze",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Waze",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0000"
+    },
+    {
+      "title": "Francisca Laranjo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Francisca%20Laranjo",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
     },
     {
       "title": "Expresso.pt",
@@ -82,14 +72,14 @@
       "pubdate": "Wed, 06 Nov 2024 05:00:00 +0000"
     },
     {
+      "title": "NBC news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBC%20news",
+      "pubdate": "Wed, 06 Nov 2024 04:00:00 +0000"
+    },
+    {
       "title": "Pedro Machado",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Machado",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "The New York Times",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20New%20York%20Times",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
     },
     {
       "title": "Acidente Boticas",
@@ -100,6 +90,16 @@
       "title": "Ap",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ap",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+    },
+    {
+      "title": "Yoav Gallant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Yoav%20Gallant",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Steve Bannon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Steve%20Bannon",
+      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
     }
   ]
 }

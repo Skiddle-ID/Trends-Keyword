@@ -1,1 +1,1 @@
-Bitcoin-Kurs,Bitcoin,News,Tesla-Aktie,Elon Musk,Sternzeichen,Ivanka Trump,Rheinmetall-Aktie,Die Zeit,Dana White,Europa League,ZEIT,Real Madrid – Milan,Dubai-Schokolade: Lindt,Liverpool – Leverkusen,Hans Peter Doskozil,Election USA,BBC news,Vermisste Inga Gehricke,Arturo Vidal
+Bitcoin-Kurs,News,Tesla-Aktie,Elon Musk,Biden,DAX,Putin,Dow Jones,Sternzeichen,ARD,Rheinmetall-Aktie,Die Zeit,Dana White,Europa League,Trump Ukraine,Zeit,Gabriel Bortoleto,Der SPIEGEL,Real Madrid – Milan,Dubai-Schokolade Lindt
