@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "05-11-2024 , 23:36:13",
+  "lastUpdate": "06-11-2024 , 01:56:00",
   "data": [
+    {
+      "title": "NBC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBC",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Pedro Machado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Machado",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Yoav Gallant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Yoav%20Gallant",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+    },
     {
       "title": "Real Madrid  Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Milan",
@@ -12,9 +27,9 @@
       "pubdate": "Tue, 05 Nov 2024 09:00:00 +0000"
     },
     {
-      "title": "Al-Nassr  Al Ain",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al%20Ain",
-      "pubdate": "Tue, 05 Nov 2024 18:00:00 +0000"
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Donald%20Trump",
+      "pubdate": "Tue, 05 Nov 2024 19:00:00 +0000"
     },
     {
       "title": "CNN",
@@ -22,18 +37,23 @@
       "pubdate": "Tue, 05 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Donald%20Trump",
-      "pubdate": "Tue, 05 Nov 2024 19:00:00 +0000"
+      "title": "Al-Nassr  Al Ain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al%20Ain",
+      "pubdate": "Tue, 05 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+      "title": "Fertagus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fertagus",
+      "pubdate": "Tue, 05 Nov 2024 09:00:00 +0000"
+    },
+    {
+      "title": "Liverpool  Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Leverkusen",
       "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
     },
     {
-      "title": "City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City",
+      "title": "Joana Figueira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Figueira",
       "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
     },
     {
@@ -42,9 +62,9 @@
       "pubdate": "Tue, 05 Nov 2024 10:00:00 +0000"
     },
     {
-      "title": "Joana Figueira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Figueira",
-      "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
+      "title": "Usa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Usa",
+      "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
     },
     {
       "title": "Bernardo Silva",
@@ -57,9 +77,14 @@
       "pubdate": "Tue, 05 Nov 2024 19:00:00 +0000"
     },
     {
-      "title": "Usa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Usa",
-      "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
+      "title": "Melania trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Melania%20trump",
+      "pubdate": "Tue, 05 Nov 2024 18:00:00 +0000"
+    },
+    {
+      "title": "Fox News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fox%20News",
+      "pubdate": "Tue, 05 Nov 2024 15:00:00 +0000"
     },
     {
       "title": "Youth League",
@@ -72,34 +97,9 @@
       "pubdate": "Tue, 05 Nov 2024 22:00:00 +0000"
     },
     {
-      "title": "Melania trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Melania%20trump",
-      "pubdate": "Tue, 05 Nov 2024 18:00:00 +0000"
-    },
-    {
-      "title": "Pep Guardiola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pep%20Guardiola",
-      "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Comboios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Comboios",
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
       "pubdate": "Tue, 05 Nov 2024 22:00:00 +0000"
-    },
-    {
-      "title": "Fox News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fox%20News",
-      "pubdate": "Tue, 05 Nov 2024 15:00:00 +0000"
-    },
-    {
-      "title": "Neemias Queta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neemias%20Queta",
-      "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
-    },
-    {
-      "title": "Amigo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amigo",
-      "pubdate": "Tue, 05 Nov 2024 00:00:00 +0000"
     }
   ]
 }
