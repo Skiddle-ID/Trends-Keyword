@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 22:38:44",
+  "lastUpdate": "06-11-2024 , 23:35:33",
   "data": [
     {
       "title": "Stock market today",
@@ -17,6 +17,11 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 -0800"
     },
     {
+      "title": "Election news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20news",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 -0800"
+    },
+    {
       "title": "The View",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20View",
       "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
@@ -27,14 +32,14 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+      "pubdate": "Wed, 06 Nov 2024 13:00:00 -0800"
+    },
+    {
       "title": "Tim Walz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Walz",
       "pubdate": "Wed, 06 Nov 2024 02:00:00 -0800"
-    },
-    {
-      "title": "Prop. 36",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prop.%2036",
-      "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {
       "title": "Inauguration Day 2025",
@@ -47,8 +52,13 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
-      "title": "Nevada Senate race",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nevada%20Senate%20race",
+      "title": "Estrella Roja  Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Estrella%20Roja%20%20Barcelona",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 -0800"
+    },
+    {
+      "title": "Washington state election results 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20state%20election%20results%202024",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 -0800"
     },
     {
@@ -57,14 +67,24 @@
       "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {
+      "title": "Josh Shapiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Shapiro",
+      "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
+    },
+    {
+      "title": "Montana election results 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Montana%20election%20results%202024",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0800"
+    },
+    {
+      "title": "Handmaid's Tale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Handmaid's%20Tale",
+      "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
+    },
+    {
       "title": "Mark Cuban",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mark%20Cuban",
       "pubdate": "Wed, 06 Nov 2024 04:00:00 -0800"
-    },
-    {
-      "title": "Ukraine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ukraine",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
       "title": "Nasdaq",
@@ -72,34 +92,14 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
-      "title": "Ethereum price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ethereum%20price",
+      "title": "Ukraine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ukraine",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
-      "title": "House Results 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#House%20Results%202024",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
-    },
-    {
-      "title": "USA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
-    },
-    {
-      "title": "Ct election results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ct%20election%20results",
-      "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
-    },
-    {
-      "title": "Canada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canada",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 -0800"
-    },
-    {
-      "title": "Donald Trump Jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Donald%20Trump%20Jr",
-      "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
+      "title": "Jack Smith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jack%20Smith",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 -0800"
     }
   ]
 }

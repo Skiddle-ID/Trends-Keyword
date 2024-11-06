@@ -1,1 +1,1 @@
-BBC news,News,Bitcoin price,Club Brugge vs Aston Villa,Elon Musk,Project 2025,JD Vance,Trevor Sorbie,S&P 500,Gary Barlow son,Republican Party,New York Times,News Today,Us presidents,Polymarket,David Lammy,Ivanka Trump,Sporting,Red One,Afghanistan vs Bangladesh
+BBC news,Election,News,Bitcoin price,Aston Villa,Elon Musk,Project 2025,JD Vance,Gary Barlow son,Joe Biden,S&P 500,Trevor Sorbie,New York Times,Leeds United,News Today,Bayern vs Benfica,Crvena zvezda vs Barcelona,Us presidents,Republican Party,Polymarket

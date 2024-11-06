@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 22:38:51",
+  "lastUpdate": "06-11-2024 , 23:35:40",
   "data": [
     {
       "title": "McDonald's",
@@ -47,11 +47,6 @@
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Joe%20Biden",
-      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
-    },
-    {
       "title": "Republican vs Democrat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Republican%20vs%20Democrat",
       "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
@@ -62,6 +57,21 @@
       "pubdate": "Wed, 06 Nov 2024 18:00:00 +0800"
     },
     {
+      "title": "Harris",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Harris",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
+    },
+    {
+      "title": "Joe Biden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Joe%20Biden",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
+    },
+    {
+      "title": "Pennsylvania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pennsylvania",
+      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
+    },
+    {
       "title": "Project 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Project%202025",
       "pubdate": "Wed, 06 Nov 2024 16:00:00 +0800"
@@ -70,11 +80,6 @@
       "title": "JD Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#JD%20Vance",
       "pubdate": "Wed, 06 Nov 2024 16:00:00 +0800"
-    },
-    {
-      "title": "Pennsylvania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pennsylvania",
-      "pubdate": "Wed, 06 Nov 2024 12:00:00 +0800"
     },
     {
       "title": "BTC",
@@ -95,11 +100,6 @@
       "title": "Barron Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Barron%20Trump",
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +0800"
-    },
-    {
-      "title": "North Korean",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#North%20Korean",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
     }
   ]
 }

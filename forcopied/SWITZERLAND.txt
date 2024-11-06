@@ -1,1 +1,1 @@
-Bitcoin,News,Elon Musk,RTS,Tesla-Aktie,Solana,Dax,Barron Trump,Biden,Dow Jones,S&P 500,SPIEGEL,Europa League,Le Temps,F.A.Z,Putin,ARD,ZDF,Dana White,Zeit
+SRF,Bitcoin,News,Elon Musk,NZZ,Lindner,Tesla-Aktie,RTS,Schachtar Donezk,FC Barcelona,Solana,Inter – Arsenal,Dax,Barron Trump,Étoile Rouge – Barcelone,Biden,Project 2025,Dow Jones,Le monde,S&P 500
