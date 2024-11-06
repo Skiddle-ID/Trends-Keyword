@@ -1,25 +1,15 @@
 {
-  "lastUpdate": "06-11-2024 , 01:55:54",
+  "lastUpdate": "06-11-2024 , 02:57:58",
   "data": [
     {
       "title": "CNN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CNN",
-      "pubdate": "Tue, 05 Nov 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-      "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
-    },
-    {
-      "title": "Fox news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fox%20news",
-      "pubdate": "Tue, 05 Nov 2024 18:00:00 -0500"
-    },
-    {
-      "title": "Cnn live",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cnn%20live",
       "pubdate": "Tue, 05 Nov 2024 09:00:00 -0500"
+    },
+    {
+      "title": "Swing states",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Swing%20states",
+      "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     },
     {
       "title": "Sporting vs Man City",
@@ -32,19 +22,14 @@
       "pubdate": "Tue, 05 Nov 2024 00:00:00 -0500"
     },
     {
-      "title": "Republican Party",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Republican%20Party",
-      "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
+      "title": "DJT stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DJT%20stock",
+      "pubdate": "Tue, 05 Nov 2024 18:00:00 -0500"
     },
     {
-      "title": "Elections",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elections",
-      "pubdate": "Tue, 05 Nov 2024 03:00:00 -0500"
-    },
-    {
-      "title": "Election news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20news",
-      "pubdate": "Tue, 05 Nov 2024 11:00:00 -0500"
+      "title": "Polymarket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polymarket",
+      "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
       "title": "NBC News",
@@ -52,9 +37,9 @@
       "pubdate": "Tue, 05 Nov 2024 13:00:00 -0500"
     },
     {
-      "title": "Dixville Notch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dixville%20Notch",
-      "pubdate": "Tue, 05 Nov 2024 02:00:00 -0500"
+      "title": "New York Times",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20York%20Times",
+      "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
       "title": "Pennsylvania",
@@ -62,14 +47,19 @@
       "pubdate": "Tue, 05 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "Swing states",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Swing%20states",
+      "title": "Republican Party",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Republican%20Party",
       "pubdate": "Tue, 05 Nov 2024 14:00:00 -0500"
     },
     {
-      "title": "Russia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russia",
-      "pubdate": "Tue, 05 Nov 2024 02:00:00 -0500"
+      "title": "Democratic Party",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Democratic%20Party",
+      "pubdate": "Tue, 05 Nov 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Election Tracker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20Tracker",
+      "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
     },
     {
       "title": "Kalshi",
@@ -77,9 +67,24 @@
       "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
     },
     {
-      "title": "Election U.S",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Election%20U.S",
-      "pubdate": "Tue, 05 Nov 2024 10:00:00 -0500"
+      "title": "Dixville Notch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dixville%20Notch",
+      "pubdate": "Tue, 05 Nov 2024 02:00:00 -0500"
+    },
+    {
+      "title": "Electoral College",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Electoral%20College",
+      "pubdate": "Tue, 05 Nov 2024 03:00:00 -0500"
+    },
+    {
+      "title": "Associated Press",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Associated%20Press",
+      "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Russia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russia",
+      "pubdate": "Tue, 05 Nov 2024 02:00:00 -0500"
     },
     {
       "title": "Exit polls",
@@ -87,14 +92,9 @@
       "pubdate": "Tue, 05 Nov 2024 16:00:00 -0500"
     },
     {
-      "title": "Travis Kelce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Travis%20Kelce",
-      "pubdate": "Tue, 05 Nov 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Melania Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Melania%20Trump",
-      "pubdate": "Tue, 05 Nov 2024 17:00:00 -0500"
+      "title": "Bruins vs Maple Leafs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruins%20vs%20Maple%20Leafs",
+      "pubdate": "Tue, 05 Nov 2024 20:00:00 -0500"
     },
     {
       "title": "USA",

@@ -1,1 +1,1 @@
-CNN,Fox news,Sporting vs Man City,Real Madrid vs Milan,Robert Kennedy,Jill Stein,Chase Oliver,New York Time,MSNBC,Nytimes,Imane Khelif,Ariana Grande,Time in California,Dixville Notch,US election results,Melbourne Cup,Champions League,Guy Fawkes,Time in New York,Joe Rogan
+CNN,UEFA Champions League,Fox News,Sporting vs Man City,Trump,Robert Kennedy,Jill Stein,Swing states,Chase Oliver,Polymarket,Nytimes,Associated Press,Pennsylvania,Imane Khelif,Ariana Grande,Dixville Notch,USA,US election results,Election,Melbourne Cup
