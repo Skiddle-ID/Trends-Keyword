@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 20:36:24",
+  "lastUpdate": "07-11-2024 , 21:35:11",
   "data": [
     {
       "title": "Jill Stein",
@@ -7,9 +7,14 @@
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
     },
     {
-      "title": "Election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Election",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+      "title": "Man utd  PAOK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20PAOK",
+      "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Conference League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Conference%20League",
+      "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
     },
     {
       "title": "PS5 Pro",
@@ -27,14 +32,19 @@
       "pubdate": "Thu, 07 Nov 2024 13:00:00 +0100"
     },
     {
-      "title": "Conference League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Conference%20League",
-      "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
+      "title": "Kamala Harris speech",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kamala%20Harris%20speech",
+      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "Lenin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lenin",
       "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Outer Banks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Outer%20Banks",
+      "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
     },
     {
       "title": "Donald Trump",
@@ -67,6 +77,11 @@
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
     },
     {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
       "title": "JD Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#JD%20Vance",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -82,24 +97,9 @@
       "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
       "title": "Project 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Project%202025",
       "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Nvidia stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia%20stock",
-      "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Barron Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barron%20Trump",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     }
   ]
 }

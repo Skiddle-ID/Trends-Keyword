@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "07-11-2024 , 20:36:30",
+  "lastUpdate": "07-11-2024 , 21:35:18",
   "data": [
     {
       "title": "Galatasaray vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Galatasaray%20vs%20Tottenham",
       "pubdate": "Fri, 08 Nov 2024 02:00:00 +0800"
-    },
-    {
-      "title": "Citadel: Honey Bunny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Citadel:%20Honey%20Bunny",
-      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0800"
     },
     {
       "title": "Champions League",
@@ -20,6 +15,16 @@
       "title": "Gold price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Dow Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dow%20Jones",
+      "pubdate": "Thu, 07 Nov 2024 08:00:00 +0800"
+    },
+    {
+      "title": "FOMC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
     },
     {
       "title": "Aston Villa",
@@ -57,14 +62,14 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "Fomc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fomc",
-      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
-    },
-    {
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+      "title": "Us House Elections",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20House%20Elections",
+      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
     },
     {
       "title": "U.S. House",
@@ -72,13 +77,18 @@
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
     },
     {
+      "title": "Vladimir Putin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vladimir%20Putin",
+      "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
+    },
+    {
       "title": "Banksy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Banksy",
       "pubdate": "Thu, 07 Nov 2024 16:00:00 +0800"
     },
     {
-      "title": "The Guardian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
+      "title": "Theguardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Theguardian",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-    },
-    {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
-      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
-    },
-    {
-      "title": "Tesla stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     }
   ]
 }
