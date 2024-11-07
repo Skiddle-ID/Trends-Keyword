@@ -1,1 +1,1 @@
-9800X3D,Bitcoin-Kurs,Tesla-Aktie,Lindner,Bayern – Benfica,FC Barcelona,News,J.D. Vance,Putin,ZDF,Biden,DAX,Ivanka Trump,Barron Trump,Besiktas,NVIDIA-Aktie,Inter – Arsenal,Dow Jones,Vogelgrippe Bezirk Amstetten,S&P 500
+DSDS,9800X3D,Bitcoin-Kurs,Feyenoord – RB Salzburg,Tesla-Aktie,Bayern – Benfica,Lindner,FC Barcelona,News,J.D. Vance,Putin,Biden,DAX,Ivanka Trump,Inter – Arsenal,Barron Trump,Besiktas,NVIDIA-Aktie,Vogelgrippe Bezirk Amstetten,VfB Stuttgart – Atalanta

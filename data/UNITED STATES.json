@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "07-11-2024 , 06:42:45",
+  "lastUpdate": "07-11-2024 , 07:35:36",
   "data": [
-    {
-      "title": "Election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election",
-      "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
-    },
     {
       "title": "Stock market today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market%20today",
@@ -22,14 +17,14 @@
       "pubdate": "Wed, 06 Nov 2024 02:00:00 -0800"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+      "pubdate": "Wed, 06 Nov 2024 13:00:00 -0800"
+    },
+    {
       "title": "The View",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20View",
       "pubdate": "Wed, 06 Nov 2024 06:00:00 -0800"
-    },
-    {
-      "title": "Inauguration Day 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inauguration%20Day%202025",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
     },
     {
       "title": "Voting",
@@ -37,19 +32,19 @@
       "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-      "pubdate": "Wed, 06 Nov 2024 13:00:00 -0800"
-    },
-    {
-      "title": "Tim Walz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Walz",
-      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0800"
+      "title": "Inauguration Day 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inauguration%20Day%202025",
+      "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
     },
     {
       "title": "Is Trump a felon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Is%20Trump%20a%20felon",
       "pubdate": "Wed, 06 Nov 2024 00:00:00 -0800"
+    },
+    {
+      "title": "Tim Walz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tim%20Walz",
+      "pubdate": "Wed, 06 Nov 2024 02:00:00 -0800"
     },
     {
       "title": "Usha Vance",
@@ -67,19 +62,14 @@
       "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {
-      "title": "Stranger Things Season 5",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stranger%20Things%20Season%205",
-      "pubdate": "Wed, 06 Nov 2024 19:00:00 -0800"
-    },
-    {
-      "title": "Mortgage rates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mortgage%20rates",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 -0800"
-    },
-    {
       "title": "Warriors vs Celtics",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Celtics",
       "pubdate": "Wed, 06 Nov 2024 18:00:00 -0800"
+    },
+    {
+      "title": "Stranger Things season 5",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stranger%20Things%20season%205",
+      "pubdate": "Wed, 06 Nov 2024 19:00:00 -0800"
     },
     {
       "title": "Washington state election results 2024",
@@ -87,8 +77,18 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 -0800"
     },
     {
+      "title": "Michigan election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20election",
+      "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
+    },
+    {
       "title": "Dogecoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dogecoin",
+      "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
+    },
+    {
+      "title": "Ct election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ct%20election%20results",
       "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
     },
     {

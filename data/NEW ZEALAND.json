@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 06:42:52",
+  "lastUpdate": "07-11-2024 , 07:35:42",
   "data": [
     {
       "title": "Monte",
@@ -12,14 +12,14 @@
       "pubdate": "Thu, 07 Nov 2024 09:00:00 +1300"
     },
     {
-      "title": "Afghanistan vs Bangladesh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Afghanistan%20vs%20Bangladesh",
-      "pubdate": "Thu, 07 Nov 2024 07:00:00 +1300"
-    },
-    {
       "title": "Leonardo DiCaprio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leonardo%20DiCaprio",
       "pubdate": "Thu, 07 Nov 2024 15:00:00 +1300"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Afghanistan%20vs%20Bangladesh",
+      "pubdate": "Thu, 07 Nov 2024 07:00:00 +1300"
     },
     {
       "title": "Crvena Zvezda vs Barcelona",
@@ -32,6 +32,11 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +1300"
     },
     {
+      "title": "USD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#USD",
+      "pubdate": "Thu, 07 Nov 2024 10:00:00 +1300"
+    },
+    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Europa%20League",
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +1300"
@@ -42,9 +47,9 @@
       "pubdate": "Thu, 07 Nov 2024 12:00:00 +1300"
     },
     {
-      "title": "CBS News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CBS%20News",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +1300"
+      "title": "2016 Election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#2016%20Election%20results",
+      "pubdate": "Thu, 07 Nov 2024 08:00:00 +1300"
     },
     {
       "title": "Gold price",
@@ -52,24 +57,19 @@
       "pubdate": "Thu, 07 Nov 2024 16:00:00 +1300"
     },
     {
+      "title": "US election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election",
+      "pubdate": "Wed, 06 Nov 2024 04:00:00 +1300"
+    },
+    {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kamala%20Harris",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +1300"
     },
     {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 +1300"
-    },
-    {
       "title": "Robert Kennedy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Robert%20Kennedy",
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +1300"
-    },
-    {
-      "title": "Fox News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fox%20News",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +1300"
     },
     {
       "title": "Jill Stein",
@@ -84,7 +84,7 @@
     {
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Times",
-      "pubdate": "Wed, 06 Nov 2024 06:00:00 +1300"
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +1300"
     },
     {
       "title": "Chase Oliver",
@@ -92,13 +92,13 @@
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +1300"
     },
     {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elon%20Musk",
+      "title": "Barron Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barron%20Trump",
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +1300"
     },
     {
-      "title": "Barron Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barron%20Trump",
+      "title": "Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elon%20Musk",
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +1300"
     }
   ]
