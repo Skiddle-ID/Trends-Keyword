@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "07-11-2024 , 22:38:07",
+  "lastUpdate": "07-11-2024 , 23:36:58",
   "data": [
     {
       "title": "Galatasaray vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Galatasaray%20vs%20Tottenham",
       "pubdate": "Fri, 08 Nov 2024 02:00:00 +0800"
+    },
+    {
+      "title": "Citadel: Honey Bunny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Citadel:%20Honey%20Bunny",
+      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0800"
     },
     {
       "title": "Champions League",
@@ -37,11 +42,6 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "Red One",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Red%20One",
-      "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
-    },
-    {
       "title": "Lion City Sailors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
       "pubdate": "Thu, 07 Nov 2024 22:00:00 +0800"
@@ -67,14 +67,9 @@
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Us House Elections",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20House%20Elections",
+      "title": "Us House elections",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20House%20elections",
       "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
-    },
-    {
-      "title": "U.S. House",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20House",
-      "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
     },
     {
       "title": "Vladimir Putin",
@@ -94,12 +89,17 @@
     {
       "title": "US election 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20election%202024",
-      "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
+      "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
     },
     {
       "title": "Kamala Harris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
     }
   ]
 }
