@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "07-11-2024 , 08:41:43",
+  "lastUpdate": "07-11-2024 , 09:36:27",
   "data": [
     {
       "title": "DSDS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DSDS",
       "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Daniel Spoerri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Spoerri",
+      "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "9800X3D",
@@ -22,11 +27,6 @@
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
     },
     {
-      "title": "Tesla-Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla-Aktie",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
       "title": "Bayern – Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20Benfica",
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
@@ -35,6 +35,11 @@
       "title": "Lindner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lindner",
       "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Tesla-Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla-Aktie",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "FC Barcelona",
@@ -47,6 +52,11 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+      "title": "News ORF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#News%20ORF",
+      "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+    },
+    {
       "title": "J.D. Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J.D.%20Vance",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -57,19 +67,9 @@
       "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
-      "title": "Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biden",
-      "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-    },
-    {
       "title": "DAX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAX",
       "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Ivanka Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ivanka%20Trump",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
       "title": "Inter – Arsenal",
