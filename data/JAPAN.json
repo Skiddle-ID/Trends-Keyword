@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 18:41:53",
+  "lastUpdate": "07-11-2024 , 19:35:48",
   "data": [
     {
       "title": "レウォトビ火山",
@@ -27,11 +27,6 @@
       "pubdate": "Thu, 07 Nov 2024 17:00:00 +0900"
     },
     {
-      "title": "岡田紗佳",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B2%A1%E7%94%B0%E7%B4%97%E4%BD%B3",
-      "pubdate": "Thu, 07 Nov 2024 23:00:00 +0900"
-    },
-    {
       "title": "山田くんとLv999の恋をする",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B1%B1%E7%94%B0%E3%81%8F%E3%82%93%E3%81%A8Lv999%E3%81%AE%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B",
       "pubdate": "Thu, 07 Nov 2024 12:00:00 +0900"
@@ -40,6 +35,11 @@
       "title": "司法試験",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8F%B8%E6%B3%95%E8%A9%A6%E9%A8%93",
       "pubdate": "Thu, 07 Nov 2024 03:00:00 +0900"
+    },
+    {
+      "title": "バイデン",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%82%A4%E3%83%87%E3%83%B3",
+      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0900"
     },
     {
       "title": "アメリカ大統領選挙",
@@ -60,11 +60,6 @@
       "title": "勝田州彦",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%8B%9D%E7%94%B0%E5%B7%9E%E5%BD%A6",
       "pubdate": "Wed, 06 Nov 2024 15:00:00 +0900"
-    },
-    {
-      "title": "ハリス副大統領",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8F%E3%83%AA%E3%82%B9%E5%89%AF%E5%A4%A7%E7%B5%B1%E9%A0%98",
-      "pubdate": "Wed, 06 Nov 2024 20:00:00 +0900"
     },
     {
       "title": "為替",
@@ -100,6 +95,11 @@
       "title": "APEX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#APEX",
       "pubdate": "Wed, 06 Nov 2024 15:00:00 +0900"
+    },
+    {
+      "title": "大宮アルディージャ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E5%AE%AE%E3%82%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A3",
+      "pubdate": "Wed, 06 Nov 2024 16:00:00 +0900"
     }
   ]
 }

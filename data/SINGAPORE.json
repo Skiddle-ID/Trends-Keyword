@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "07-11-2024 , 18:41:56",
+  "lastUpdate": "07-11-2024 , 19:35:51",
   "data": [
+    {
+      "title": "Galatasaray vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Galatasaray%20vs%20Tottenham",
+      "pubdate": "Fri, 08 Nov 2024 02:00:00 +0800"
+    },
+    {
+      "title": "Citadel: Honey Bunny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Citadel:%20Honey%20Bunny",
+      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0800"
+    },
     {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
@@ -10,11 +20,6 @@
       "title": "Gold price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Dow Jones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dow%20Jones",
-      "pubdate": "Thu, 07 Nov 2024 08:00:00 +0800"
     },
     {
       "title": "Aston Villa",
@@ -52,14 +57,19 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
     },
     {
+      "title": "Fomc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fomc",
+      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
+    },
+    {
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Fomc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fomc",
-      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
+      "title": "U.S. House",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20House",
+      "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
     },
     {
       "title": "Banksy",
@@ -67,8 +77,8 @@
       "pubdate": "Thu, 07 Nov 2024 16:00:00 +0800"
     },
     {
-      "title": "Theguardian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Theguardian",
+      "title": "The Guardian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Guardian",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
@@ -89,16 +99,6 @@
     {
       "title": "Tesla stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
-    },
-    {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
-      "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
-    },
-    {
-      "title": "JD Vance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#JD%20Vance",
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
     }
   ]
