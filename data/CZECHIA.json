@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-11-2024 , 12:56:29",
+  "lastUpdate": "07-11-2024 , 13:37:42",
   "data": [
     {
-      "title": "Sáblíková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%C3%A1bl%C3%ADkov%C3%A1",
-      "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+      "title": "Sparta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
+      "pubdate": "Thu, 07 Nov 2024 13:00:00 +0100"
     },
     {
       "title": "Jozef Síkela",
@@ -12,8 +12,13 @@
       "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "PlayStation 5 pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PlayStation%205%20pro",
+      "title": "Sáblíková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%C3%A1bl%C3%ADkov%C3%A1",
+      "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+    },
+    {
+      "title": "VŘSR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C5%98SR",
       "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     },
     {
@@ -22,14 +27,14 @@
       "pubdate": "Thu, 07 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "VŘSR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C5%98SR",
-      "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
-    },
-    {
       "title": "Lorenzo Lamas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lorenzo%20Lamas",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Aneta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aneta",
+      "pubdate": "Thu, 07 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "Stuttgart – atalanta",
@@ -62,6 +67,11 @@
       "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
     },
     {
+      "title": "Ivana Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20Trump",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+    },
+    {
       "title": "Petr Pavel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Pavel",
       "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
@@ -77,11 +87,6 @@
       "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
-      "title": "Bayern – Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bayern%20%E2%80%93%20Benfica",
-      "pubdate": "Wed, 06 Nov 2024 21:00:00 +0100"
-    },
-    {
       "title": "Putin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Aktualne.cz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aktualne.cz",
       "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Škoda Kylaq",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0koda%20Kylaq",
-      "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
     }
   ]
 }
