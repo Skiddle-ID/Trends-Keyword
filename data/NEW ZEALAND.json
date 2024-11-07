@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "07-11-2024 , 16:43:10",
+  "lastUpdate": "07-11-2024 , 17:36:35",
   "data": [
-    {
-      "title": "4B movement",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#4B%20movement",
-      "pubdate": "Fri, 08 Nov 2024 01:00:00 +1300"
-    },
     {
       "title": "Anthony Albanese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anthony%20Albanese",
       "pubdate": "Fri, 08 Nov 2024 03:00:00 +1300"
     },
     {
+      "title": "4B movement",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#4B%20movement",
+      "pubdate": "Fri, 08 Nov 2024 01:00:00 +1300"
+    },
+    {
       "title": "Cabin Alone movie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cabin%20Alone%20movie",
       "pubdate": "Fri, 08 Nov 2024 03:00:00 +1300"
+    },
+    {
+      "title": "Election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Election",
+      "pubdate": "Thu, 07 Nov 2024 07:00:00 +1300"
     },
     {
       "title": "Monte",
@@ -57,8 +62,8 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +1300"
     },
     {
-      "title": "Outer Banks Season 4 Part 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Outer%20Banks%20Season%204%20Part%202",
+      "title": "Outer Banks Season 4, Part 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Outer%20Banks%20Season%204,%20Part%202",
       "pubdate": "Thu, 07 Nov 2024 21:00:00 +1300"
     },
     {
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 07 Nov 2024 22:00:00 +1300"
     },
     {
+      "title": "CBS News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CBS%20News",
+      "pubdate": "Thu, 07 Nov 2024 00:00:00 +1300"
+    },
+    {
       "title": "Gold price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gold%20price",
       "pubdate": "Thu, 07 Nov 2024 16:00:00 +1300"
-    },
-    {
-      "title": "America",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#America",
-      "pubdate": "Thu, 07 Nov 2024 12:00:00 +1300"
-    },
-    {
-      "title": "US election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election",
-      "pubdate": "Wed, 06 Nov 2024 04:00:00 +1300"
     }
   ]
 }
