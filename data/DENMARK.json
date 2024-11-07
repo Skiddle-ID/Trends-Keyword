@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 04:40:41",
+  "lastUpdate": "07-11-2024 , 05:37:41",
   "data": [
     {
       "title": "Jill Stein",
@@ -32,6 +32,11 @@
       "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
     },
     {
+      "title": "Fox News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
+      "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+    },
+    {
       "title": "JD Vance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#JD%20Vance",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -47,9 +52,9 @@
       "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
-      "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+      "title": "Pennsylvania",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pennsylvania",
+      "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
     },
     {
       "title": "Project 2025",
@@ -84,11 +89,6 @@
     {
       "title": "Dana White",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dana%20White",
-      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Ivanka Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ivanka%20Trump",
       "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     },
     {
