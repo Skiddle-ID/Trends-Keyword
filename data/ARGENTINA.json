@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 10:39:42",
+  "lastUpdate": "07-11-2024 , 11:35:53",
   "data": [
     {
       "title": "Talleres",
@@ -9,11 +9,6 @@
     {
       "title": "Club Atlético River Plate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20Atl%C3%A9tico%20River%20Plate",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 -0300"
-    },
-    {
-      "title": "Velez vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Velez%20vs",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 -0300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Huracan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Huracan",
       "pubdate": "Wed, 06 Nov 2024 06:00:00 -0300"
+    },
+    {
+      "title": "Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bitcoin",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
     }
   ]
 }
