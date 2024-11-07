@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 14:37:57",
+  "lastUpdate": "07-11-2024 , 15:37:37",
   "data": [
     {
       "title": "Champions League",
@@ -7,19 +7,14 @@
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
     },
     {
-      "title": "Club Brugge vs Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Club%20Brugge%20vs%20Aston%20Villa",
-      "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
-    },
-    {
       "title": "Gold price",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price",
       "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Saudi Arabia snowfall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Saudi%20Arabia%20snowfall",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
+      "pubdate": "Thu, 07 Nov 2024 04:00:00 +0800"
     },
     {
       "title": "Barcelona",
@@ -32,6 +27,11 @@
       "pubdate": "Thu, 07 Nov 2024 05:00:00 +0800"
     },
     {
+      "title": "Aupen bag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aupen%20bag",
+      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0800"
+    },
+    {
       "title": "Max Maeder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Max%20Maeder",
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
@@ -42,24 +42,24 @@
       "pubdate": "Thu, 07 Nov 2024 02:00:00 +0800"
     },
     {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
-      "title": "Gold Price Today",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20Price%20Today",
-      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
-    },
-    {
       "title": "DBS stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#DBS%20stock",
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "Us house",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20house",
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
+      "pubdate": "Thu, 07 Nov 2024 00:00:00 +0800"
+    },
+    {
+      "title": "U.S. House",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#U.S.%20House",
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
+    },
+    {
+      "title": "Fomc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fomc",
+      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0800"
     },
     {
       "title": "Banksy",
@@ -82,6 +82,11 @@
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
     },
     {
+      "title": "Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump",
+      "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
+    },
+    {
       "title": "CNA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CNA",
       "pubdate": "Wed, 06 Nov 2024 17:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
       "pubdate": "Wed, 06 Nov 2024 14:00:00 +0800"
-    },
-    {
-      "title": "S&P 500",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#S%26P%20500",
-      "pubdate": "Wed, 06 Nov 2024 15:00:00 +0800"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 14:37:53",
+  "lastUpdate": "07-11-2024 , 15:37:32",
   "data": [
     {
       "title": "Bayern vs Benfica",
@@ -27,6 +27,11 @@
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
     },
     {
+      "title": "IHSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#IHSG",
+      "pubdate": "Thu, 07 Nov 2024 10:00:00 +0700"
+    },
+    {
       "title": "Shakhtar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Shakhtar",
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
@@ -42,6 +47,16 @@
       "pubdate": "Thu, 07 Nov 2024 13:00:00 +0700"
     },
     {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Galatasaray",
+      "pubdate": "Thu, 07 Nov 2024 20:00:00 +0700"
+    },
+    {
+      "title": "Santet Segoro Pitu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Santet%20Segoro%20Pitu",
+      "pubdate": "Thu, 07 Nov 2024 20:00:00 +0700"
+    },
+    {
       "title": "Banjir di Sukabumi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Banjir%20di%20Sukabumi",
       "pubdate": "Thu, 07 Nov 2024 13:00:00 +0700"
@@ -50,6 +65,11 @@
       "title": "Red Star vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Red%20Star%20vs%20Barcelona",
       "pubdate": "Wed, 06 Nov 2024 16:00:00 +0700"
+    },
+    {
+      "title": "Lion City Sailors vs Persib Bandung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lion%20City%20Sailors%20vs%20Persib%20Bandung",
+      "pubdate": "Wed, 06 Nov 2024 06:00:00 +0700"
     },
     {
       "title": "Sporting CP vs Man City",
@@ -67,11 +87,6 @@
       "pubdate": "Wed, 06 Nov 2024 00:00:00 +0700"
     },
     {
-      "title": "Lion City Sailors vs Persib Bandung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lion%20City%20Sailors%20vs%20Persib%20Bandung",
-      "pubdate": "Wed, 06 Nov 2024 06:00:00 +0700"
-    },
-    {
       "title": "Al-Nassr vs Al Ain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al-Nassr%20vs%20Al%20Ain",
       "pubdate": "Wed, 06 Nov 2024 01:00:00 +0700"
@@ -85,21 +100,6 @@
       "title": "Club Brugge vs Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Club%20Brugge%20vs%20Aston%20Villa",
       "pubdate": "Wed, 06 Nov 2024 17:00:00 +0700"
-    },
-    {
-      "title": "Champions league",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Champions%20league",
-      "pubdate": "Wed, 06 Nov 2024 22:00:00 +0700"
-    },
-    {
-      "title": "Syakir Sulaiman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Syakir%20Sulaiman",
-      "pubdate": "Wed, 06 Nov 2024 11:00:00 +0700"
-    },
-    {
-      "title": "Jill Stein",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jill%20Stein",
-      "pubdate": "Wed, 06 Nov 2024 10:00:00 +0700"
     }
   ]
 }
