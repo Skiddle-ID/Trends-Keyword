@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-11-2024 , 11:35:49",
+  "lastUpdate": "08-11-2024 , 12:56:40",
   "data": [
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+      "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
+    },
     {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
@@ -10,6 +15,11 @@
       "title": "Susie Wiles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Susie%20Wiles",
       "pubdate": "Fri, 08 Nov 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Liam Payne",
@@ -22,11 +32,6 @@
       "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Maskorama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Maskorama",
-      "pubdate": "Fri, 08 Nov 2024 09:00:00 +0100"
-    },
-    {
       "title": "Molde",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde",
       "pubdate": "Fri, 08 Nov 2024 10:00:00 +0100"
@@ -37,14 +42,9 @@
       "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+      "title": "PAOK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PAOK",
       "pubdate": "Thu, 07 Nov 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Bernt Hulsker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bernt%20Hulsker",
-      "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
     },
     {
       "title": "Good Luck Guys",
@@ -52,19 +52,14 @@
       "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0100"
-    },
-    {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
       "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
     },
     {
-      "title": "Red One",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Red%20One",
-      "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
+      "title": "71 grader nord kjendis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#71%20grader%20nord%20kjendis",
+      "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
     },
     {
       "title": "Norges Bank",
@@ -72,14 +67,14 @@
       "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Subjekt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subjekt",
-      "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
-    },
-    {
       "title": "Sandra Borch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandra%20Borch",
       "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Subjekt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subjekt",
+      "pubdate": "Thu, 07 Nov 2024 11:00:00 +0100"
     },
     {
       "title": "Leah Behn",
@@ -100,6 +95,11 @@
       "title": "Tom Hanks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Hanks",
       "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
+      "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
     }
   ]
 }

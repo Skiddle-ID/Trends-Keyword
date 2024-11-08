@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "08-11-2024 , 11:35:51",
+  "lastUpdate": "08-11-2024 , 12:56:43",
   "data": [
     {
       "title": "Noemi Oberhauser",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Noemi%20Oberhauser",
       "pubdate": "Fri, 08 Nov 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Tyler Benson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tyler%20Benson",
+      "pubdate": "Fri, 08 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Hugh Grant",
@@ -17,14 +22,19 @@
       "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
-      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0100"
+      "title": "Räntebesked",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%A4ntebesked",
+      "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Djurgården mot Panathinaikos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20mot%20Panathinaikos",
       "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
+      "pubdate": "Thu, 07 Nov 2024 19:00:00 +0100"
     },
     {
       "title": "Elfsborg mot Braga",
@@ -52,11 +62,6 @@
       "pubdate": "Thu, 07 Nov 2024 14:00:00 +0100"
     },
     {
-      "title": "Boräntor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bor%C3%A4ntor",
-      "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
-    },
-    {
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mbappe",
       "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
@@ -70,11 +75,6 @@
       "title": "Noah Lyles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Noah%20Lyles",
       "pubdate": "Thu, 07 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Deniz Gül",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Deniz%20G%C3%BCl",
-      "pubdate": "Thu, 07 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Usha Vance",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
     },
     {
-      "title": "Riksbanken räntebesked",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Riksbanken%20r%C3%A4ntebesked",
-      "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
+      "title": "DN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DN",
+      "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
     }
   ]
 }
