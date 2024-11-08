@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2024 , 04:39:43",
+  "lastUpdate": "08-11-2024 , 05:38:14",
   "data": [
     {
       "title": "Oilers",
@@ -32,24 +32,14 @@
       "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
     },
     {
-      "title": "Hamas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hamas",
-      "pubdate": "Thu, 07 Nov 2024 10:00:00 -0500"
-    },
-    {
       "title": "Chick-fil-A calgary",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chick-fil-A%20calgary",
       "pubdate": "Thu, 07 Nov 2024 12:00:00 -0500"
     },
     {
-      "title": "Bengals vs Ravens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bengals%20vs%20Ravens",
-      "pubdate": "Thu, 07 Nov 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Outer Banks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Outer%20Banks",
-      "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
+      "title": "Hamas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hamas",
+      "pubdate": "Thu, 07 Nov 2024 10:00:00 -0500"
     },
     {
       "title": "Anthony Albanese",
@@ -57,9 +47,19 @@
       "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
     },
     {
-      "title": "PS5 Pro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PS5%20Pro",
-      "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
+      "title": "Outer Banks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Outer%20Banks",
+      "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Bengals vs Ravens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bengals%20vs%20Ravens",
+      "pubdate": "Thu, 07 Nov 2024 21:00:00 -0500"
+    },
+    {
+      "title": "Lamar Jackson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lamar%20Jackson",
+      "pubdate": "Thu, 07 Nov 2024 21:00:00 -0500"
     },
     {
       "title": "Zach Bryan",
@@ -67,9 +67,14 @@
       "pubdate": "Thu, 07 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "North Korean military",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Korean%20military",
-      "pubdate": "Thu, 07 Nov 2024 01:00:00 -0500"
+      "title": "PS5 Pro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PS5%20Pro",
+      "pubdate": "Thu, 07 Nov 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Canadiens – Devils",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Devils",
+      "pubdate": "Thu, 07 Nov 2024 21:00:00 -0500"
     },
     {
       "title": "AIMCo",
@@ -82,9 +87,9 @@
       "pubdate": "Thu, 07 Nov 2024 19:00:00 -0500"
     },
     {
-      "title": "Wayne Gretzky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wayne%20Gretzky",
-      "pubdate": "Thu, 07 Nov 2024 15:00:00 -0500"
+      "title": "North Korean military",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#North%20Korean%20military",
+      "pubdate": "Thu, 07 Nov 2024 01:00:00 -0500"
     },
     {
       "title": "Citadel: Honey Bunny",
@@ -95,11 +100,6 @@
       "title": "Raygun",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raygun",
       "pubdate": "Thu, 07 Nov 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Warriors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
-      "pubdate": "Thu, 07 Nov 2024 17:00:00 -0500"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2024 , 04:39:52",
+  "lastUpdate": "08-11-2024 , 05:38:22",
   "data": [
     {
       "title": "Chelsea đấu với Noah",
@@ -10,6 +10,11 @@
       "title": "Galatasaray đấu với Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Galatasaray%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Tottenham",
       "pubdate": "Fri, 08 Nov 2024 01:00:00 +0700"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
+      "pubdate": "Fri, 08 Nov 2024 06:00:00 +0700"
     },
     {
       "title": "Fed",
@@ -32,18 +37,8 @@
       "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     },
     {
-      "title": "Kamala Harris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kamala%20Harris",
-      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0700"
-    },
-    {
       "title": "Inter đấu với Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Arsenal",
-      "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
-    },
-    {
-      "title": "Bayern đấu với Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Benfica",
       "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
     },
     {
@@ -52,9 +47,19 @@
       "pubdate": "Thu, 07 Nov 2024 04:00:00 +0700"
     },
     {
+      "title": "Bayern đấu với Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Benfica",
+      "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
+    },
+    {
       "title": "Uefa europa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Uefa%20europa",
       "pubdate": "Thu, 07 Nov 2024 15:00:00 +0700"
+    },
+    {
+      "title": "Barca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Barca",
+      "pubdate": "Thu, 07 Nov 2024 04:00:00 +0700"
     },
     {
       "title": "Bão Yinxing",
@@ -87,19 +92,14 @@
       "pubdate": "Thu, 07 Nov 2024 22:00:00 +0700"
     },
     {
+      "title": "Bayern-munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern-munich",
+      "pubdate": "Thu, 07 Nov 2024 03:00:00 +0700"
+    },
+    {
       "title": "Arsenal vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20vs",
       "pubdate": "Thu, 07 Nov 2024 06:00:00 +0700"
-    },
-    {
-      "title": "Ngọc Trinh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%E1%BB%8Dc%20Trinh",
-      "pubdate": "Thu, 07 Nov 2024 09:00:00 +0700"
-    },
-    {
-      "title": "Hồng Đào",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%E1%BB%93ng%20%C4%90%C3%A0o",
-      "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
     }
   ]
 }
