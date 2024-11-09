@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2024 , 23:35:27",
+  "lastUpdate": "09-11-2024 , 01:53:06",
   "data": [
     {
       "title": "Man City vs Tottenham",
@@ -32,8 +32,13 @@
       "pubdate": "Fri, 08 Nov 2024 01:00:00 +0300"
     },
     {
-      "title": "Manchester United FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United%20FC",
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20utd",
+      "pubdate": "Fri, 08 Nov 2024 07:00:00 +0300"
+    },
+    {
+      "title": "Manchester United f.c.",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20United%20f.c.",
       "pubdate": "Fri, 08 Nov 2024 01:00:00 +0300"
     },
     {
@@ -77,19 +82,14 @@
       "pubdate": "Fri, 08 Nov 2024 19:00:00 +0300"
     },
     {
-      "title": "Australia vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Australia%20vs%20Pakistan",
-      "pubdate": "Fri, 08 Nov 2024 14:00:00 +0300"
-    },
-    {
       "title": "VPN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#VPN",
       "pubdate": "Fri, 08 Nov 2024 16:00:00 +0300"
     },
     {
-      "title": "Athletic Bilbao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Athletic%20Bilbao",
-      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0300"
+      "title": "Australia vs Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Australia%20vs%20Pakistan",
+      "pubdate": "Fri, 08 Nov 2024 14:00:00 +0300"
     },
     {
       "title": "Brentford vs Bournemouth",
@@ -97,9 +97,9 @@
       "pubdate": "Fri, 08 Nov 2024 21:00:00 +0300"
     },
     {
-      "title": "Coinbase",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Coinbase",
-      "pubdate": "Fri, 08 Nov 2024 20:00:00 +0300"
+      "title": "Athletic Bilbao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Athletic%20Bilbao",
+      "pubdate": "Fri, 08 Nov 2024 00:00:00 +0300"
     }
   ]
 }
