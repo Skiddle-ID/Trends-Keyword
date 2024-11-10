@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "10-11-2024 , 11:35:26",
+  "lastUpdate": "10-11-2024 , 12:53:15",
   "data": [
     {
       "title": "Inter Miami vs Atlanta United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami%20vs%20Atlanta%20United",
       "pubdate": "Sun, 10 Nov 2024 04:00:00 +0200"
+    },
+    {
+      "title": "Australia vs Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Pakistan",
+      "pubdate": "Sun, 10 Nov 2024 13:00:00 +0200"
     },
     {
       "title": "France vs Japan",
@@ -67,6 +72,11 @@
       "pubdate": "Sat, 09 Nov 2024 17:00:00 +0200"
     },
     {
+      "title": "Sa vs Scotland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sa%20vs%20Scotland",
+      "pubdate": "Sat, 09 Nov 2024 13:00:00 +0200"
+    },
+    {
       "title": "Bangladesh vs Afghanistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bangladesh%20vs%20Afghanistan",
       "pubdate": "Sat, 09 Nov 2024 13:00:00 +0200"
@@ -82,24 +92,14 @@
       "pubdate": "Sat, 09 Nov 2024 17:00:00 +0200"
     },
     {
-      "title": "Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford",
-      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0200"
-    },
-    {
-      "title": "Arcane Season 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arcane%20Season%202",
+      "title": "Chelsea vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Arsenal",
       "pubdate": "Sat, 09 Nov 2024 22:00:00 +0200"
     },
     {
-      "title": "43 monkeys escaped South Carolina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#43%20monkeys%20escaped%20South%20Carolina",
+      "title": "Brentford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford",
       "pubdate": "Sat, 09 Nov 2024 18:00:00 +0200"
-    },
-    {
-      "title": "RB Leipzig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Leipzig",
-      "pubdate": "Sat, 09 Nov 2024 21:00:00 +0200"
     }
   ]
 }

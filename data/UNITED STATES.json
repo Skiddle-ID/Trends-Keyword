@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2024 , 11:35:17",
+  "lastUpdate": "10-11-2024 , 12:53:06",
   "data": [
     {
       "title": "Thunderbolts*",
@@ -7,8 +7,8 @@
       "pubdate": "Sun, 10 Nov 2024 00:00:00 -0800"
     },
     {
-      "title": "LSU Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20Football",
+      "title": "LSU football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20football",
       "pubdate": "Sat, 09 Nov 2024 11:00:00 -0800"
     },
     {
@@ -22,14 +22,14 @@
       "pubdate": "Sat, 09 Nov 2024 19:00:00 -0800"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-      "pubdate": "Sat, 09 Nov 2024 05:00:00 -0800"
-    },
-    {
       "title": "Colorado vs Texas Tech",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colorado%20vs%20Texas%20Tech",
       "pubdate": "Sat, 09 Nov 2024 14:00:00 -0800"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
+      "pubdate": "Sat, 09 Nov 2024 06:00:00 -0800"
     },
     {
       "title": "Mizzou football",
@@ -37,14 +37,14 @@
       "pubdate": "Sat, 09 Nov 2024 18:00:00 -0800"
     },
     {
-      "title": "Arcane season 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arcane%20season%202",
-      "pubdate": "Sat, 09 Nov 2024 10:00:00 -0800"
-    },
-    {
       "title": "Georgia Tech football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Tech%20football",
       "pubdate": "Sat, 09 Nov 2024 11:00:00 -0800"
+    },
+    {
+      "title": "Arcane season 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arcane%20season%202",
+      "pubdate": "Sat, 09 Nov 2024 10:00:00 -0800"
     },
     {
       "title": "Mike Pompeo",
@@ -72,19 +72,9 @@
       "pubdate": "Sat, 09 Nov 2024 22:00:00 -0800"
     },
     {
-      "title": "Atlanta United vs Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlanta%20United%20vs%20Inter%20Miami",
-      "pubdate": "Sat, 09 Nov 2024 18:00:00 -0800"
-    },
-    {
       "title": "Purdue vs Ohio State",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20vs%20Ohio%20State",
       "pubdate": "Sat, 09 Nov 2024 10:00:00 -0800"
-    },
-    {
-      "title": "Brighton vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brighton%20vs%20Man%20City",
-      "pubdate": "Sat, 09 Nov 2024 11:00:00 -0800"
     },
     {
       "title": "Liverpool vs Aston Villa",
@@ -97,9 +87,19 @@
       "pubdate": "Sat, 09 Nov 2024 11:00:00 -0800"
     },
     {
+      "title": "Auburn basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20basketball",
+      "pubdate": "Sat, 09 Nov 2024 06:00:00 -0800"
+    },
+    {
       "title": "Washington vs Penn State",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20vs%20Penn%20State",
       "pubdate": "Sat, 09 Nov 2024 18:00:00 -0800"
+    },
+    {
+      "title": "Jake Paul Mike Tyson fight",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jake%20Paul%20Mike%20Tyson%20fight",
+      "pubdate": "Sat, 09 Nov 2024 19:00:00 -0800"
     }
   ]
 }
