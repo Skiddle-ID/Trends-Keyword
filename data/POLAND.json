@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2024 , 23:35:42",
+  "lastUpdate": "10-11-2024 , 02:05:57",
   "data": [
     {
       "title": "Ekstraklasa",
@@ -37,6 +37,11 @@
       "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
     },
     {
+      "title": "Brighton – Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Brighton%20%E2%80%93%20Man%20City",
+      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
+    },
+    {
       "title": "Sara Müldner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sara%20M%C3%BCldner",
       "pubdate": "Sat, 09 Nov 2024 06:00:00 +0100"
@@ -47,8 +52,8 @@
       "pubdate": "Sat, 09 Nov 2024 14:00:00 +0100"
     },
     {
-      "title": "Andrzej Duda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Duda",
+      "title": "Prezydent Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Duda",
       "pubdate": "Sat, 09 Nov 2024 08:00:00 +0100"
     },
     {
@@ -77,29 +82,24 @@
       "pubdate": "Sat, 09 Nov 2024 21:00:00 +0100"
     },
     {
-      "title": "Raúl Asencio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ra%C3%BAl%20Asencio",
+      "title": "Kuba Sienkiewicz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kuba%20Sienkiewicz",
+      "pubdate": "Sat, 09 Nov 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Klaudia Syguła",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Klaudia%20Sygu%C5%82a",
+      "pubdate": "Sat, 09 Nov 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Raul Asencio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Raul%20Asencio",
       "pubdate": "Sat, 09 Nov 2024 18:00:00 +0100"
     },
     {
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mbappe",
       "pubdate": "Sat, 09 Nov 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Lech Legia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lech%20Legia",
-      "pubdate": "Sat, 09 Nov 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Kabaret Nowaki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kabaret%20Nowaki",
-      "pubdate": "Sat, 09 Nov 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Zagłębie Sosnowiec",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zag%C5%82%C4%99bie%20Sosnowiec",
-      "pubdate": "Sat, 09 Nov 2024 15:00:00 +0100"
     }
   ]
 }

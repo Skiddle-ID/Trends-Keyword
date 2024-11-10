@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2024 , 23:35:43",
+  "lastUpdate": "10-11-2024 , 02:05:59",
   "data": [
     {
       "title": "아케인",
@@ -12,13 +12,18 @@
       "pubdate": "Sun, 10 Nov 2024 00:00:00 +0900"
     },
     {
-      "title": "광안리 불꽃축제",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B4%91%EC%95%88%EB%A6%AC%20%EB%B6%88%EA%BD%83%EC%B6%95%EC%A0%9C",
-      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0900"
+      "title": "레알마드리드",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A0%88%EC%95%8C%EB%A7%88%EB%93%9C%EB%A6%AC%EB%93%9C",
+      "pubdate": "Sun, 10 Nov 2024 00:00:00 +0900"
     },
     {
       "title": "신현빈",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%A0%ED%98%84%EB%B9%88",
+      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0900"
+    },
+    {
+      "title": "광안리 불꽃축제",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B4%91%EC%95%88%EB%A6%AC%20%EB%B6%88%EA%BD%83%EC%B6%95%EC%A0%9C",
       "pubdate": "Sat, 09 Nov 2024 18:00:00 +0900"
     },
     {
@@ -95,11 +100,6 @@
       "title": "아이온큐",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EC%9D%B4%EC%98%A8%ED%81%90",
       "pubdate": "Fri, 08 Nov 2024 09:00:00 +0900"
-    },
-    {
-      "title": "권나라",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B6%8C%EB%82%98%EB%9D%BC",
-      "pubdate": "Fri, 08 Nov 2024 15:00:00 +0900"
     }
   ]
 }

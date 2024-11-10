@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "09-11-2024 , 23:35:40",
+  "lastUpdate": "10-11-2024 , 02:05:56",
   "data": [
     {
       "title": "Monaco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Monaco",
       "pubdate": "Sun, 10 Nov 2024 00:00:00 +0300"
+    },
+    {
+      "title": "Arcane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arcane",
+      "pubdate": "Sun, 10 Nov 2024 02:00:00 +0300"
     },
     {
       "title": "Brighton vs Man City",
@@ -42,9 +47,9 @@
       "pubdate": "Sat, 09 Nov 2024 18:00:00 +0300"
     },
     {
-      "title": "Groningen vs Sparta rotterdam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Groningen%20vs%20Sparta%20rotterdam",
-      "pubdate": "Sat, 09 Nov 2024 08:00:00 +0300"
+      "title": "Roma vs Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roma%20vs%20Bologna",
+      "pubdate": "Sat, 09 Nov 2024 13:00:00 +0300"
     },
     {
       "title": "Acmilan",
@@ -52,9 +57,19 @@
       "pubdate": "Sat, 09 Nov 2024 22:00:00 +0300"
     },
     {
+      "title": "Mallorca vs Atlético Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mallorca%20vs%20Atl%C3%A9tico%20Madrid",
+      "pubdate": "Sat, 09 Nov 2024 23:00:00 +0300"
+    },
+    {
       "title": "43 monkeys escaped South Carolina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#43%20monkeys%20escaped%20South%20Carolina",
       "pubdate": "Sat, 09 Nov 2024 12:00:00 +0300"
+    },
+    {
+      "title": "Tony Todd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tony%20Todd",
+      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0300"
     },
     {
       "title": "Lakers vs 76ers",
@@ -67,9 +82,9 @@
       "pubdate": "Sat, 09 Nov 2024 11:00:00 +0300"
     },
     {
-      "title": "Tony Todd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tony%20Todd",
-      "pubdate": "Sat, 09 Nov 2024 18:00:00 +0300"
+      "title": "Fc Groningen vs Sparta rotterdam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fc%20Groningen%20vs%20Sparta%20rotterdam",
+      "pubdate": "Sat, 09 Nov 2024 08:00:00 +0300"
     },
     {
       "title": "The Day of the Jackal",
@@ -85,21 +100,6 @@
       "title": "Grammy nominations 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Grammy%20nominations%202025",
       "pubdate": "Sat, 09 Nov 2024 12:00:00 +0300"
-    },
-    {
-      "title": "Brentford vs Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford%20vs%20Bournemouth",
-      "pubdate": "Fri, 08 Nov 2024 21:00:00 +0300"
-    },
-    {
-      "title": "Chelsea vs Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20vs%20Arsenal",
-      "pubdate": "Fri, 08 Nov 2024 13:00:00 +0300"
-    },
-    {
-      "title": "Chelsea FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
-      "pubdate": "Fri, 08 Nov 2024 01:00:00 +0300"
     }
   ]
 }
