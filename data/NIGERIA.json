@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2024 , 23:35:26",
+  "lastUpdate": "11-11-2024 , 01:58:23",
   "data": [
     {
       "title": "Man United vs Leicester City",
@@ -7,8 +7,8 @@
       "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "MAN CITY",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MAN%20CITY",
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
       "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
     },
     {
@@ -37,14 +37,14 @@
       "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Galatasaray",
-      "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
-    },
-    {
       "title": "Inter vs Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20vs%20Napoli",
       "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Galatasaray",
+      "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Liverpool fc",
@@ -62,18 +62,8 @@
       "pubdate": "Sun, 10 Nov 2024 19:00:00 +0100"
     },
     {
-      "title": "Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leverkusen",
-      "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
-    },
-    {
       "title": "Sporting",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
-      "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus",
       "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
     },
     {
@@ -82,9 +72,24 @@
       "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
     },
     {
+      "title": "Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leverkusen",
+      "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus",
+      "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
+    },
+    {
       "title": "Web3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Web3",
       "pubdate": "Sun, 10 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Feyenoord",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Feyenoord",
+      "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
     },
     {
       "title": "Lazio",
@@ -95,11 +100,6 @@
       "title": "MC Oluomo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MC%20Oluomo",
       "pubdate": "Sun, 10 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
-      "pubdate": "Sun, 10 Nov 2024 00:00:00 +0100"
     }
   ]
 }
