@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "11-11-2024 , 11:35:45",
+  "lastUpdate": "11-11-2024 , 12:57:48",
   "data": [
+    {
+      "title": "Proclamação da republica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Proclama%C3%A7%C3%A3o%20da%20republica",
+      "pubdate": "Mon, 11 Nov 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Feriado 15 de novembro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feriado%2015%20de%20novembro",
+      "pubdate": "Mon, 11 Nov 2024 07:00:00 -0500"
+    },
     {
       "title": "Atlético-MG x Flamengo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Flamengo",
@@ -10,6 +20,11 @@
       "title": "Sport Recife x Chapecoense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20Chapecoense",
       "pubdate": "Sun, 10 Nov 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Real Sociedad x Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Sociedad%20x%20Barcelona",
+      "pubdate": "Sun, 10 Nov 2024 15:00:00 -0500"
     },
     {
       "title": "Gabarito Enem 2024",
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
     },
     {
-      "title": "Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
-      "pubdate": "Sun, 10 Nov 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Agnaldo Rayol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agnaldo%20Rayol",
-      "pubdate": "Sun, 10 Nov 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Acidente BR-116 Dois Irmãos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Acidente%20BR-116%20Dois%20Irm%C3%A3os",
-      "pubdate": "Sun, 10 Nov 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Resultado da Federal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20da%20Federal",
-      "pubdate": "Sun, 10 Nov 2024 01:00:00 -0500"
+      "title": "Putin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Putin",
+      "pubdate": "Sun, 10 Nov 2024 20:00:00 -0500"
     }
   ]
 }
