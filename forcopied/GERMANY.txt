@@ -1,1 +1,1 @@
-Bayer-Aktie,Zverev,Marco Rubio,Olaf Scholz,Vertrauensfrage,Alexander Zverev,IG Metall Einigung,Karneval,Robbie Williams,Bitcoin,VfB Stuttgart,Eintracht frankfurt,BTC,Ravennaschlucht,Amsterdam,Eintracht Braunschweig,Wissing,Bambi,Lindner,Europa League
+Neuwahlen,Bayer-Aktie,Zverev,Marco Rubio,IG Metall,Olaf Scholz,Tesla-Aktie,Megan Fox,Alexander Zverev,Karneval,Bitcoin,VfB Stuttgart,Ravennaschlucht,Amsterdam,Eintracht Braunschweig,Wissing,Bambi,Lindner,Europa League,Friedrich Merz
