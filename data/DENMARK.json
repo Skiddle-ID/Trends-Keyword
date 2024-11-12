@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 23:35:41",
+  "lastUpdate": "12-11-2024 , 01:55:07",
   "data": [
     {
       "title": "Tesla stock",
@@ -12,6 +12,11 @@
       "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
     },
     {
+      "title": "News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
+      "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+    },
+    {
       "title": "Singles' Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Singles'%20Day",
       "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
@@ -20,11 +25,6 @@
       "title": "Baku",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Baku",
       "pubdate": "Mon, 11 Nov 2024 15:00:00 +0100"
-    },
-    {
-      "title": "News",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
-      "pubdate": "Mon, 11 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "Robbie Williams",
@@ -42,9 +42,9 @@
       "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Elise Stefanik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elise%20Stefanik",
-      "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+      "title": "Daniel Day-Lewis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Daniel%20Day-Lewis",
+      "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Singles day 2024",
@@ -52,14 +52,14 @@
       "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
     },
     {
+      "title": "Tom Homan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Homan",
+      "pubdate": "Mon, 11 Nov 2024 14:00:00 +0100"
+    },
+    {
       "title": "Barca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barca",
       "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
-      "pubdate": "Mon, 11 Nov 2024 02:00:00 +0100"
     },
     {
       "title": "Nations League",
@@ -67,14 +67,14 @@
       "pubdate": "Mon, 11 Nov 2024 12:00:00 +0100"
     },
     {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Miami",
+      "pubdate": "Mon, 11 Nov 2024 02:00:00 +0100"
+    },
+    {
       "title": "Leonardo DiCaprio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leonardo%20DiCaprio",
       "pubdate": "Mon, 11 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Daniel Day-Lewis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Daniel%20Day-Lewis",
-      "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Man utd  Leicester",
@@ -87,11 +87,6 @@
       "pubdate": "Sun, 10 Nov 2024 23:00:00 +0100"
     },
     {
-      "title": "Chelsea  Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Arsenal",
-      "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
-    },
-    {
       "title": "Real Sociedad  Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Sociedad%20%20Barcelona",
       "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
       "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Jake Paul vs Mike Tyson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jake%20Paul%20vs%20Mike%20Tyson",
+      "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
     }
   ]
 }

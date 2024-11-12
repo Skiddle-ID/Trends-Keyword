@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 23:35:46",
+  "lastUpdate": "12-11-2024 , 01:55:15",
   "data": [
     {
       "title": "XXL",
@@ -17,14 +17,14 @@
       "pubdate": "Mon, 11 Nov 2024 21:00:00 +0100"
     },
     {
-      "title": "Serval",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serval",
-      "pubdate": "Mon, 11 Nov 2024 11:00:00 +0100"
-    },
-    {
       "title": "David Coote",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#David%20Coote",
       "pubdate": "Mon, 11 Nov 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Serval",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Serval",
+      "pubdate": "Mon, 11 Nov 2024 11:00:00 +0100"
     },
     {
       "title": "Elise Stefanik",
@@ -47,6 +47,11 @@
       "pubdate": "Mon, 11 Nov 2024 20:00:00 +0100"
     },
     {
+      "title": "Frosta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frosta",
+      "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
+    },
+    {
       "title": "Casper Ruud",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
       "pubdate": "Mon, 11 Nov 2024 17:00:00 +0100"
@@ -62,19 +67,14 @@
       "pubdate": "Mon, 11 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "Bodø",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8",
-      "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
-    },
-    {
       "title": "Folldal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Folldal",
       "pubdate": "Mon, 11 Nov 2024 23:00:00 +0100"
     },
     {
-      "title": "Tonje Brenna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tonje%20Brenna",
-      "pubdate": "Mon, 11 Nov 2024 16:00:00 +0100"
+      "title": "Bodø",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8",
+      "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "LOfavør",
@@ -87,19 +87,19 @@
       "pubdate": "Mon, 11 Nov 2024 20:00:00 +0100"
     },
     {
-      "title": "Bodø/Glimt mot FFK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20FFK",
-      "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-      "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
+      "title": "Man United mot Leicester",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20United%20mot%20Leicester",
+      "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Dead butt syndrome",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dead%20butt%20syndrome",
       "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Bodø/Glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
     }
   ]
 }
