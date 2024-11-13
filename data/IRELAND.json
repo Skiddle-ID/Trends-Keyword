@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2024 , 13:39:01",
+  "lastUpdate": "13-11-2024 , 14:39:19",
   "data": [
     {
       "title": "Ballyfin Demesne",
@@ -17,19 +17,24 @@
       "pubdate": "Wed, 13 Nov 2024 11:00:00 +0000"
     },
     {
+      "title": "Taylor Harwood-Bellis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Taylor%20Harwood-Bellis",
+      "pubdate": "Wed, 13 Nov 2024 10:00:00 +0000"
+    },
+    {
       "title": "Vinted",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vinted",
       "pubdate": "Wed, 13 Nov 2024 00:00:00 +0000"
     },
     {
-      "title": "Galway bay fm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Galway%20bay%20fm",
-      "pubdate": "Wed, 13 Nov 2024 11:00:00 +0000"
-    },
-    {
       "title": "Timothy West",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Timothy%20West",
       "pubdate": "Wed, 13 Nov 2024 12:00:00 +0000"
+    },
+    {
+      "title": "GalwayBayFm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#GalwayBayFm",
+      "pubdate": "Wed, 13 Nov 2024 11:00:00 +0000"
     },
     {
       "title": "Skai Jackson",
@@ -52,6 +57,11 @@
       "pubdate": "Tue, 12 Nov 2024 09:00:00 +0000"
     },
     {
+      "title": "Nick Cave",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nick%20Cave",
+      "pubdate": "Tue, 12 Nov 2024 13:00:00 +0000"
+    },
+    {
       "title": "Ireland weather forecast snow",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20weather%20forecast%20snow",
       "pubdate": "Tue, 12 Nov 2024 15:00:00 +0000"
@@ -72,16 +82,6 @@
       "pubdate": "Tue, 12 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Nick Cave",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nick%20Cave",
-      "pubdate": "Tue, 12 Nov 2024 13:00:00 +0000"
-    },
-    {
-      "title": "Vladimir Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vladimir%20Putin",
-      "pubdate": "Tue, 12 Nov 2024 11:00:00 +0000"
-    },
-    {
       "title": "Vivek Ramaswamy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Vivek%20Ramaswamy",
       "pubdate": "Tue, 12 Nov 2024 09:00:00 +0000"
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 12 Nov 2024 22:00:00 +0000"
     },
     {
-      "title": "Kristi Noem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kristi%20Noem",
-      "pubdate": "Tue, 12 Nov 2024 15:00:00 +0000"
+      "title": "The Voyage",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Voyage",
+      "pubdate": "Tue, 12 Nov 2024 23:00:00 +0000"
     }
   ]
 }
