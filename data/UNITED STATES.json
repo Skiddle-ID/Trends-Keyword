@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "13-11-2024 , 05:38:30",
+  "lastUpdate": "13-11-2024 , 06:43:28",
   "data": [
     {
       "title": "Kristi Noem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kristi%20Noem",
       "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
+    },
+    {
+      "title": "Duke basketball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20basketball",
+      "pubdate": "Tue, 12 Nov 2024 19:00:00 -0800"
     },
     {
       "title": "Kyle Singler",
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 12 Nov 2024 16:00:00 -0800"
     },
     {
-      "title": "Duke basketball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20basketball",
-      "pubdate": "Tue, 12 Nov 2024 19:00:00 -0800"
+      "title": "Mavericks vs Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mavericks%20vs%20Warriors",
+      "pubdate": "Tue, 12 Nov 2024 21:00:00 -0800"
     },
     {
       "title": "Mike Huckabee",
@@ -47,14 +52,19 @@
       "pubdate": "Tue, 12 Nov 2024 18:00:00 -0800"
     },
     {
+      "title": "Deadpool and Wolverine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deadpool%20and%20Wolverine",
+      "pubdate": "Tue, 12 Nov 2024 17:00:00 -0800"
+    },
+    {
       "title": "My Chemical Romance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#My%20Chemical%20Romance",
       "pubdate": "Tue, 12 Nov 2024 12:00:00 -0800"
     },
     {
-      "title": "Deadpool and Wolverine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deadpool%20and%20Wolverine",
-      "pubdate": "Tue, 12 Nov 2024 17:00:00 -0800"
+      "title": "Miami Heat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
+      "pubdate": "Tue, 12 Nov 2024 20:00:00 -0800"
     },
     {
       "title": "Kansas basketball",
@@ -82,24 +92,14 @@
       "pubdate": "Tue, 12 Nov 2024 04:00:00 -0800"
     },
     {
-      "title": "Cooper Flagg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cooper%20Flagg",
-      "pubdate": "Tue, 12 Nov 2024 20:00:00 -0800"
-    },
-    {
-      "title": "Chris Wallace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Wallace",
-      "pubdate": "Tue, 12 Nov 2024 10:00:00 -0800"
-    },
-    {
-      "title": "Miami Heat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
-      "pubdate": "Tue, 12 Nov 2024 20:00:00 -0800"
-    },
-    {
-      "title": "Marco Angulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marco%20Angulo",
+      "title": "Robe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robe",
       "pubdate": "Tue, 12 Nov 2024 11:00:00 -0800"
+    },
+    {
+      "title": "Bucks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
+      "pubdate": "Tue, 12 Nov 2024 22:00:00 -0800"
     }
   ]
 }
