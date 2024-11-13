@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2024 , 23:35:39",
+  "lastUpdate": "13-11-2024 , 01:57:23",
   "data": [
     {
       "title": "Amsterdam",
@@ -12,6 +12,11 @@
       "pubdate": "Tue, 12 Nov 2024 12:00:00 +0100"
     },
     {
+      "title": "Jeroen krabbe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeroen%20krabbe",
+      "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
+    },
+    {
       "title": "Shell",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Shell",
       "pubdate": "Tue, 12 Nov 2024 10:00:00 +0100"
@@ -22,14 +27,14 @@
       "pubdate": "Tue, 12 Nov 2024 16:00:00 +0100"
     },
     {
+      "title": "Pitbull Ziggo Dome",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pitbull%20Ziggo%20Dome",
+      "pubdate": "Tue, 12 Nov 2024 21:00:00 +0100"
+    },
+    {
       "title": "Bluesky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bluesky",
       "pubdate": "Tue, 12 Nov 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Miljuschka Witzenhausen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Miljuschka%20Witzenhausen",
-      "pubdate": "Tue, 12 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Sinterklaasjournaal",
@@ -42,14 +47,14 @@
       "pubdate": "Mon, 11 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "Plein '40-'45 Amsterdam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Plein%20'40-'45%20Amsterdam",
-      "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
-    },
-    {
       "title": "DUO",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#DUO",
       "pubdate": "Mon, 11 Nov 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Amsterdam rellen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amsterdam%20rellen",
+      "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
     },
     {
       "title": "Megan Fox",
@@ -95,11 +100,6 @@
       "title": "Amsterdam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amsterdam",
       "pubdate": "Fri, 08 Nov 2024 04:00:00 +0100"
-    },
-    {
-      "title": "FC Utrecht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-      "pubdate": "Fri, 08 Nov 2024 22:00:00 +0100"
     }
   ]
 }

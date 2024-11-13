@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-11-2024 , 23:35:36",
+  "lastUpdate": "13-11-2024 , 01:57:18",
   "data": [
     {
       "title": "Firma",
@@ -22,6 +22,11 @@
       "pubdate": "Wed, 13 Nov 2024 00:00:00 +0200"
     },
     {
+      "title": "Henna Virkkunen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henna%20Virkkunen",
+      "pubdate": "Wed, 13 Nov 2024 01:00:00 +0200"
+    },
+    {
       "title": "Machine Gun Kelly",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Machine%20Gun%20Kelly",
       "pubdate": "Tue, 12 Nov 2024 00:00:00 +0200"
@@ -42,9 +47,9 @@
       "pubdate": "Tue, 12 Nov 2024 19:00:00 +0200"
     },
     {
-      "title": "Zodiac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zodiac",
-      "pubdate": "Tue, 12 Nov 2024 00:00:00 +0200"
+      "title": "Owen Wilson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Owen%20Wilson",
+      "pubdate": "Tue, 12 Nov 2024 19:00:00 +0200"
     },
     {
       "title": "Christopher Nolan",
@@ -95,11 +100,6 @@
       "title": "Robbie Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robbie%20Williams",
       "pubdate": "Mon, 11 Nov 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Dogecoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dogecoin",
-      "pubdate": "Mon, 11 Nov 2024 12:00:00 +0200"
     }
   ]
 }

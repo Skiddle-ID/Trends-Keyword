@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "12-11-2024 , 23:35:34",
+  "lastUpdate": "13-11-2024 , 01:57:12",
   "data": [
+    {
+      "title": "Inflacion octubre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inflacion%20octubre",
+      "pubdate": "Tue, 12 Nov 2024 15:00:00 -0300"
+    },
     {
       "title": "Marco Angulo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marco%20Angulo",
@@ -15,6 +20,11 @@
       "title": "Song jae-rim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Song%20jae-rim",
       "pubdate": "Tue, 12 Nov 2024 16:00:00 -0300"
+    },
+    {
+      "title": "Sarna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sarna",
+      "pubdate": "Tue, 12 Nov 2024 17:00:00 -0300"
     },
     {
       "title": "Pierpaolo Barbieri",
@@ -37,11 +47,6 @@
       "pubdate": "Tue, 12 Nov 2024 07:00:00 -0300"
     },
     {
-      "title": "Sarna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sarna",
-      "pubdate": "Tue, 12 Nov 2024 17:00:00 -0300"
-    },
-    {
       "title": "Colombia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colombia",
       "pubdate": "Tue, 12 Nov 2024 13:00:00 -0300"
@@ -57,9 +62,29 @@
       "pubdate": "Tue, 12 Nov 2024 19:00:00 -0300"
     },
     {
-      "title": "Belgrano  Instituto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano%20%20Instituto",
-      "pubdate": "Mon, 11 Nov 2024 14:00:00 -0300"
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jannik%20Sinner",
+      "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
+    },
+    {
+      "title": "Giorgia Meloni y 'Javier Milei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Giorgia%20Meloni%20y%20'Javier%20Milei",
+      "pubdate": "Tue, 12 Nov 2024 12:00:00 -0300"
+    },
+    {
+      "title": "Wanda Nara embarazada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wanda%20Nara%20embarazada",
+      "pubdate": "Tue, 12 Nov 2024 21:00:00 -0300"
+    },
+    {
+      "title": "Procrear",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Procrear",
+      "pubdate": "Tue, 12 Nov 2024 20:00:00 -0300"
+    },
+    {
+      "title": "Duki y Emilia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Duki%20y%20Emilia",
+      "pubdate": "Tue, 12 Nov 2024 22:00:00 -0300"
     },
     {
       "title": "Spreen",
@@ -67,39 +92,14 @@
       "pubdate": "Mon, 11 Nov 2024 16:00:00 -0300"
     },
     {
+      "title": "Belgrano  Instituto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano%20%20Instituto",
+      "pubdate": "Mon, 11 Nov 2024 14:00:00 -0300"
+    },
+    {
       "title": "Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
       "pubdate": "Mon, 11 Nov 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Argentina vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20vs",
-      "pubdate": "Mon, 11 Nov 2024 10:00:00 -0300"
-    },
-    {
-      "title": "Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina",
-      "pubdate": "Mon, 11 Nov 2024 18:00:00 -0300"
-    },
-    {
-      "title": "Tigre  Defensa y Justicia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tigre%20%20Defensa%20y%20Justicia",
-      "pubdate": "Mon, 11 Nov 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Seleccion Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Seleccion%20Argentina",
-      "pubdate": "Mon, 11 Nov 2024 09:00:00 -0300"
-    },
-    {
-      "title": "Platense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Platense",
-      "pubdate": "Mon, 11 Nov 2024 19:00:00 -0300"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
-      "pubdate": "Mon, 11 Nov 2024 14:00:00 -0300"
     }
   ]
 }
