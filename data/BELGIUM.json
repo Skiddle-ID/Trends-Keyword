@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2024 , 09:37:52",
+  "lastUpdate": "14-11-2024 , 10:41:25",
   "data": [
     {
       "title": "Point median",
@@ -7,14 +7,14 @@
       "pubdate": "Thu, 14 Nov 2024 04:00:00 +0100"
     },
     {
+      "title": "Jake Paul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jake%20Paul",
+      "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
+    },
+    {
       "title": "France israel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France%20israel",
       "pubdate": "Thu, 14 Nov 2024 05:00:00 +0100"
-    },
-    {
-      "title": "Tulsi Gabbard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tulsi%20Gabbard",
-      "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Marine Le Pen",
@@ -27,14 +27,19 @@
       "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
-      "title": "Eruption volcan Bali",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eruption%20volcan%20Bali",
-      "pubdate": "Thu, 14 Nov 2024 08:00:00 +0100"
+      "title": "Agfa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Agfa",
+      "pubdate": "Thu, 14 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Carl De Keyzer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carl%20De%20Keyzer",
       "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Eruption volcan Bali",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eruption%20volcan%20Bali",
+      "pubdate": "Thu, 14 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Malaga",
@@ -47,16 +52,6 @@
       "pubdate": "Wed, 13 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Guido De Padt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guido%20De%20Padt",
-      "pubdate": "Wed, 13 Nov 2024 22:00:00 +0100"
-    },
-    {
-      "title": "John Krasinski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#John%20Krasinski",
-      "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
-    },
-    {
       "title": "Vivek Ramaswamy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vivek%20Ramaswamy",
       "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
@@ -65,6 +60,11 @@
       "title": "François Fillon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fran%C3%A7ois%20Fillon",
       "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
+    },
+    {
+      "title": "John Krasinski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#John%20Krasinski",
+      "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "Matt Gaetz",
@@ -87,11 +87,6 @@
       "pubdate": "Wed, 13 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "DOGE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#DOGE",
-      "pubdate": "Wed, 13 Nov 2024 10:00:00 +0100"
-    },
-    {
       "title": "Manifestation Bruxelles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manifestation%20Bruxelles",
       "pubdate": "Wed, 13 Nov 2024 11:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Paul Mescal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Mescal",
       "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Serge Pauwels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serge%20Pauwels",
+      "pubdate": "Wed, 13 Nov 2024 20:00:00 +0100"
     }
   ]
 }
