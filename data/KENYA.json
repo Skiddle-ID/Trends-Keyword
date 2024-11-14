@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-11-2024 , 23:36:50",
+  "lastUpdate": "14-11-2024 , 01:57:40",
   "data": [
     {
       "title": "Dogecoin",
@@ -72,11 +72,6 @@
       "pubdate": "Tue, 12 Nov 2024 21:00:00 +0300"
     },
     {
-      "title": "Zuchu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Zuchu",
-      "pubdate": "Tue, 12 Nov 2024 22:00:00 +0300"
-    },
-    {
       "title": "Belgium vs Italy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Belgium%20vs%20Italy",
       "pubdate": "Tue, 12 Nov 2024 18:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Song Jae Rim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Song%20Jae%20Rim",
       "pubdate": "Tue, 12 Nov 2024 23:00:00 +0300"
+    },
+    {
+      "title": "Spirit Airlines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Spirit%20Airlines",
+      "pubdate": "Tue, 12 Nov 2024 19:00:00 +0300"
     }
   ]
 }
