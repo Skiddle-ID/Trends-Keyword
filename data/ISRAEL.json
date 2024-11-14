@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2024 , 17:38:31",
+  "lastUpdate": "14-11-2024 , 18:44:02",
   "data": [
     {
       "title": "שפי פז",
@@ -7,9 +7,19 @@
       "pubdate": "Thu, 14 Nov 2024 09:00:00 +0200"
     },
     {
+      "title": "נבחרת ישראל",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%91%D7%97%D7%A8%D7%AA%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
+      "pubdate": "Thu, 14 Nov 2024 11:00:00 +0200"
+    },
+    {
       "title": "Matt Gaetz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Matt%20Gaetz",
       "pubdate": "Thu, 14 Nov 2024 00:00:00 +0200"
+    },
+    {
+      "title": "צחי ברוורמן",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%97%D7%99%20%D7%91%D7%A8%D7%95%D7%95%D7%A8%D7%9E%D7%9F",
+      "pubdate": "Thu, 14 Nov 2024 17:00:00 +0200"
     },
     {
       "title": "Tulsi Gabbard",
@@ -22,19 +32,9 @@
       "pubdate": "Thu, 14 Nov 2024 00:00:00 +0200"
     },
     {
-      "title": "ישראל, צרפת",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%A9%D7%A8%D7%90%D7%9C,%20%D7%A6%D7%A8%D7%A4%D7%AA",
-      "pubdate": "Thu, 14 Nov 2024 11:00:00 +0200"
-    },
-    {
       "title": "אום אל-חיראן",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%9D%20%D7%90%D7%9C-%D7%97%D7%99%D7%A8%D7%90%D7%9F",
       "pubdate": "Thu, 14 Nov 2024 13:00:00 +0200"
-    },
-    {
-      "title": "צחי ברוורמן",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%97%D7%99%20%D7%91%D7%A8%D7%95%D7%95%D7%A8%D7%9E%D7%9F",
-      "pubdate": "Thu, 14 Nov 2024 17:00:00 +0200"
     },
     {
       "title": "ספיר בורגיל",
@@ -45,6 +45,16 @@
       "title": "מריאל שאיוק",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A8%D7%99%D7%90%D7%9C%20%D7%A9%D7%90%D7%99%D7%95%D7%A7",
       "pubdate": "Thu, 14 Nov 2024 09:00:00 +0200"
+    },
+    {
+      "title": "אלי פלדשטיין",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%20%D7%A4%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F",
+      "pubdate": "Thu, 14 Nov 2024 12:00:00 +0200"
+    },
+    {
+      "title": "איטודיס",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%98%D7%95%D7%93%D7%99%D7%A1",
+      "pubdate": "Thu, 14 Nov 2024 19:00:00 +0200"
     },
     {
       "title": "נעמה לזימי",
@@ -89,16 +99,6 @@
     {
       "title": "Mike Tyson vs Jake Paul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Mike%20Tyson%20vs%20Jake%20Paul",
-      "pubdate": "Wed, 13 Nov 2024 20:00:00 +0200"
-    },
-    {
-      "title": "איתי אנגל",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%A0%D7%92%D7%9C",
-      "pubdate": "Wed, 13 Nov 2024 23:00:00 +0200"
-    },
-    {
-      "title": "DOGE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#DOGE",
       "pubdate": "Wed, 13 Nov 2024 20:00:00 +0200"
     }
   ]
