@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2024 , 15:38:30",
+  "lastUpdate": "14-11-2024 , 16:44:12",
   "data": [
     {
       "title": "Socceroos",
@@ -62,8 +62,8 @@
       "pubdate": "Thu, 14 Nov 2024 17:00:00 +1100"
     },
     {
-      "title": "VCAA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#VCAA",
+      "title": "Jared McCain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jared%20McCain",
       "pubdate": "Thu, 14 Nov 2024 15:00:00 +1100"
     },
     {
@@ -75,6 +75,11 @@
       "title": "Giannis Antetokounmpo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Giannis%20Antetokounmpo",
       "pubdate": "Thu, 14 Nov 2024 16:00:00 +1100"
+    },
+    {
+      "title": "Full moon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Full%20moon",
+      "pubdate": "Thu, 14 Nov 2024 21:00:00 +1100"
     },
     {
       "title": "John Horgan",
@@ -95,11 +100,6 @@
       "title": "Premonition",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Premonition",
       "pubdate": "Thu, 14 Nov 2024 22:00:00 +1100"
-    },
-    {
-      "title": "John Thune",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Thune",
-      "pubdate": "Thu, 14 Nov 2024 17:00:00 +1100"
     }
   ]
 }
