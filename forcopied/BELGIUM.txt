@@ -1,1 +1,1 @@
-Point median,Jake Paul,France israel,Marine Le Pen,The Line,Agfa,Carl De Keyzer,Eruption volcan Bali,Malaga,Pete Hegseth,Vivek Ramaswamy,François Fillon,John Krasinski,Matt Gaetz,Jean-Marie Le Pen,Jordan Bardella,Stefaan Degand,Manifestation Bruxelles,Paul Mescal,Serge Pauwels
+Point médian,Jake Paul,Agfa,Emma Heesters,France israel,Marine Le Pen,The Line,Linkin Park,Eruption volcan Bali,Carl De Keyzer,Xiaomi,Pedro Pascal,Malaga,Pete Hegseth,Vivek Ramaswamy,Guido De Padt,Matt Gaetz,François Fillon,John Krasinski,Jordan Bardella
