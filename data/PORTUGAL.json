@@ -1,6 +1,31 @@
 {
-  "lastUpdate": "14-11-2024 , 23:36:59",
+  "lastUpdate": "15-11-2024 , 02:08:54",
   "data": [
+    {
+      "title": "UZO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UZO",
+      "pubdate": "Fri, 15 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Paraguai  Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paraguai%20%20Argentina",
+      "pubdate": "Fri, 15 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina",
+      "pubdate": "Fri, 15 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Argentina FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina%20FC",
+      "pubdate": "Fri, 15 Nov 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Ruben Dias",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Dias",
+      "pubdate": "Fri, 15 Nov 2024 00:00:00 +0000"
+    },
     {
       "title": "Venezuela  Brasil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Venezuela%20%20Brasil",
@@ -22,9 +47,9 @@
       "pubdate": "Thu, 14 Nov 2024 20:00:00 +0000"
     },
     {
-      "title": "Albufeira",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Albufeira",
-      "pubdate": "Thu, 14 Nov 2024 14:00:00 +0000"
+      "title": "Bélgica  Itália",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#B%C3%A9lgica%20%20It%C3%A1lia",
+      "pubdate": "Thu, 14 Nov 2024 21:00:00 +0000"
     },
     {
       "title": "Cristina Kirchner",
@@ -37,49 +62,14 @@
       "pubdate": "Thu, 14 Nov 2024 16:00:00 +0000"
     },
     {
+      "title": "Albufeira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Albufeira",
+      "pubdate": "Thu, 14 Nov 2024 14:00:00 +0000"
+    },
+    {
       "title": "Grécia  Inglaterra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gr%C3%A9cia%20%20Inglaterra",
       "pubdate": "Thu, 14 Nov 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Bridget Jones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bridget%20Jones",
-      "pubdate": "Thu, 14 Nov 2024 15:00:00 +0000"
-    },
-    {
-      "title": "Marine Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marine%20Le%20Pen",
-      "pubdate": "Thu, 14 Nov 2024 12:00:00 +0000"
-    },
-    {
-      "title": "Nations League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nations%20League",
-      "pubdate": "Thu, 14 Nov 2024 17:00:00 +0000"
-    },
-    {
-      "title": "Helena Sacadura Cabral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Helena%20Sacadura%20Cabral",
-      "pubdate": "Thu, 14 Nov 2024 18:00:00 +0000"
-    },
-    {
-      "title": "Selecao Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Selecao%20Portugal",
-      "pubdate": "Thu, 14 Nov 2024 15:00:00 +0000"
-    },
-    {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
-      "pubdate": "Thu, 14 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Seul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seul",
-      "pubdate": "Thu, 14 Nov 2024 17:00:00 +0000"
-    },
-    {
-      "title": "Tate McRae",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tate%20McRae",
-      "pubdate": "Thu, 14 Nov 2024 19:00:00 +0000"
     },
     {
       "title": "Jogo Portugal",
@@ -87,19 +77,29 @@
       "pubdate": "Thu, 14 Nov 2024 22:00:00 +0000"
     },
     {
-      "title": "Pote",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pote",
-      "pubdate": "Thu, 14 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Yannick Djaló",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Yannick%20Djal%C3%B3",
-      "pubdate": "Thu, 14 Nov 2024 14:00:00 +0000"
-    },
-    {
-      "title": "David Coote",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Coote",
+      "title": "Nations League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nations%20League",
       "pubdate": "Thu, 14 Nov 2024 17:00:00 +0000"
+    },
+    {
+      "title": "Marine Le Pen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marine%20Le%20Pen",
+      "pubdate": "Thu, 14 Nov 2024 12:00:00 +0000"
+    },
+    {
+      "title": "Bridget Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bridget%20Jones",
+      "pubdate": "Thu, 14 Nov 2024 15:00:00 +0000"
+    },
+    {
+      "title": "Pedro Pascal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Pascal",
+      "pubdate": "Thu, 14 Nov 2024 22:00:00 +0000"
+    },
+    {
+      "title": "Helena Sacadura Cabral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Helena%20Sacadura%20Cabral",
+      "pubdate": "Thu, 14 Nov 2024 18:00:00 +0000"
     }
   ]
 }
