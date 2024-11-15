@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "15-11-2024 , 11:35:59",
+  "lastUpdate": "15-11-2024 , 12:59:40",
   "data": [
+    {
+      "title": "Meyer Burger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meyer%20Burger",
+      "pubdate": "Fri, 15 Nov 2024 12:00:00 +0100"
+    },
     {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
@@ -12,11 +17,6 @@
       "pubdate": "Fri, 15 Nov 2024 05:00:00 +0100"
     },
     {
-      "title": "Tschugger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tschugger",
-      "pubdate": "Fri, 15 Nov 2024 03:00:00 +0100"
-    },
-    {
       "title": "Thomas Müller Flugzeug",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thomas%20M%C3%BCller%20Flugzeug",
       "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
@@ -24,6 +24,21 @@
     {
       "title": "Sunrise-Aktie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sunrise-Aktie",
+      "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Alzheimer-Medikament",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alzheimer-Medikament",
+      "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Lisa Buckwitz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lisa%20Buckwitz",
+      "pubdate": "Fri, 15 Nov 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Swiss Steel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Steel",
       "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
     },
     {
@@ -52,11 +67,6 @@
       "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
     },
     {
-      "title": "Swiss Steel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Steel",
-      "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
-    },
-    {
       "title": "Arena geneve",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arena%20geneve",
       "pubdate": "Fri, 15 Nov 2024 09:00:00 +0100"
@@ -82,23 +92,13 @@
       "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     },
     {
-      "title": "Migros Rückruf Joghurt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Migros%20R%C3%BCckruf%20Joghurt",
-      "pubdate": "Thu, 14 Nov 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Tulsi Gabbard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tulsi%20Gabbard",
-      "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
+      "title": "Linkin Park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Linkin%20Park",
+      "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "Lindsey Vonn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lindsey%20Vonn",
-      "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Linkin Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Linkin%20Park",
       "pubdate": "Thu, 14 Nov 2024 14:00:00 +0100"
     }
   ]

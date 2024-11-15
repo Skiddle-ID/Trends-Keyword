@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "15-11-2024 , 11:35:49",
+  "lastUpdate": "15-11-2024 , 12:59:31",
   "data": [
     {
-      "title": "Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile",
+      "title": "Chile vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile%20vs",
       "pubdate": "Fri, 15 Nov 2024 00:00:00 -0300"
     },
     {
       "title": "Wicked",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Wicked",
+      "pubdate": "Fri, 15 Nov 2024 00:00:00 -0300"
+    },
+    {
+      "title": "Gustavo Alfaro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gustavo%20Alfaro",
       "pubdate": "Fri, 15 Nov 2024 00:00:00 -0300"
     },
     {
@@ -22,11 +27,6 @@
       "pubdate": "Thu, 14 Nov 2024 17:00:00 -0300"
     },
     {
-      "title": "Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina",
-      "pubdate": "Thu, 14 Nov 2024 20:00:00 -0300"
-    },
-    {
       "title": "Ecuador  Bolivia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador%20%20Bolivia",
       "pubdate": "Thu, 14 Nov 2024 21:00:00 -0300"
@@ -37,9 +37,9 @@
       "pubdate": "Thu, 14 Nov 2024 21:00:00 -0300"
     },
     {
-      "title": "Flow",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flow",
-      "pubdate": "Thu, 14 Nov 2024 22:00:00 -0300"
+      "title": "Eliminatorias Sudamericanas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Eliminatorias%20Sudamericanas",
+      "pubdate": "Thu, 14 Nov 2024 21:00:00 -0300"
     },
     {
       "title": "Emilia Mernes",
@@ -47,14 +47,14 @@
       "pubdate": "Thu, 14 Nov 2024 16:00:00 -0300"
     },
     {
+      "title": "Flow",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flow",
+      "pubdate": "Thu, 14 Nov 2024 22:00:00 -0300"
+    },
+    {
       "title": "Colombia vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colombia%20vs",
       "pubdate": "Thu, 14 Nov 2024 21:00:00 -0300"
-    },
-    {
-      "title": "Partidos de hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partidos%20de%20hoy",
-      "pubdate": "Thu, 14 Nov 2024 23:00:00 -0300"
     },
     {
       "title": "Bélgica  Italia",
@@ -62,19 +62,9 @@
       "pubdate": "Thu, 14 Nov 2024 17:00:00 -0300"
     },
     {
-      "title": "Nations League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nations%20League",
-      "pubdate": "Thu, 14 Nov 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Tabla de posiciones Eliminatorias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tabla%20de%20posiciones%20Eliminatorias",
+      "title": "Partidos de hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partidos%20de%20hoy",
       "pubdate": "Thu, 14 Nov 2024 23:00:00 -0300"
-    },
-    {
-      "title": "Tvpublica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tvpublica",
-      "pubdate": "Thu, 14 Nov 2024 21:00:00 -0300"
     },
     {
       "title": "Leptospirosis",
@@ -92,14 +82,24 @@
       "pubdate": "Thu, 14 Nov 2024 20:00:00 -0300"
     },
     {
-      "title": "Latin Grammys 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Latin%20Grammys%202024",
+      "title": "Latin grammys 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Latin%20grammys%202024",
       "pubdate": "Thu, 14 Nov 2024 18:00:00 -0300"
     },
     {
       "title": "Matt Gaetz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Matt%20Gaetz",
       "pubdate": "Thu, 14 Nov 2024 11:00:00 -0300"
+    },
+    {
+      "title": "Francia vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Francia%20vs",
+      "pubdate": "Thu, 14 Nov 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Primera Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Nacional",
+      "pubdate": "Thu, 14 Nov 2024 00:00:00 -0300"
     }
   ]
 }

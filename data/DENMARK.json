@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2024 , 11:35:51",
+  "lastUpdate": "15-11-2024 , 12:59:33",
   "data": [
     {
       "title": "Robert F. Kennedy Jr",
@@ -10,6 +10,11 @@
       "title": "Robbie Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robbie%20Williams",
       "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Bavarian Nordic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bavarian%20Nordic",
+      "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
     },
     {
       "title": "Mike Tyson vs Jake Paul",
@@ -67,14 +72,19 @@
       "pubdate": "Thu, 14 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Eva Longoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eva%20Longoria",
-      "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
+      "title": "The Onion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Onion",
+      "pubdate": "Thu, 14 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Starlink",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Starlink",
       "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Eva Longoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eva%20Longoria",
+      "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
     },
     {
       "title": "Prey",
@@ -87,19 +97,9 @@
       "pubdate": "Thu, 14 Nov 2024 19:00:00 +0100"
     },
     {
-      "title": "Pedro Pascal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pedro%20Pascal",
-      "pubdate": "Thu, 14 Nov 2024 12:00:00 +0100"
-    },
-    {
       "title": "Tate McRae",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tate%20McRae",
       "pubdate": "Thu, 14 Nov 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Matt Gaetz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Matt%20Gaetz",
-      "pubdate": "Wed, 13 Nov 2024 22:00:00 +0100"
     }
   ]
 }
