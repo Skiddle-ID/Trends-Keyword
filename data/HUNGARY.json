@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "15-11-2024 , 05:39:06",
+  "lastUpdate": "15-11-2024 , 06:47:18",
   "data": [
+    {
+      "title": "Herceg Erika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herceg%20Erika",
+      "pubdate": "Fri, 15 Nov 2024 07:00:00 +0100"
+    },
     {
       "title": "Mike Tyson Jake Paul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mike%20Tyson%20Jake%20Paul",
@@ -17,14 +22,14 @@
       "pubdate": "Thu, 14 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Sydney Sweeney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sydney%20Sweeney",
-      "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
-    },
-    {
       "title": "Mucsi János",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mucsi%20J%C3%A1nos",
       "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Sydney Sweeney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sydney%20Sweeney",
+      "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Nemzetek Ligája",
@@ -95,11 +100,6 @@
       "title": "Sebastian Kurz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sebastian%20Kurz",
       "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
-    },
-    {
-      "title": "John Krasinski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#John%20Krasinski",
-      "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
     }
   ]
 }
