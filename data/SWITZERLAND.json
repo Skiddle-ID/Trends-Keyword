@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "15-11-2024 , 23:36:24",
+  "lastUpdate": "16-11-2024 , 02:06:37",
   "data": [
+    {
+      "title": "Kosovo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kosovo",
+      "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Ice Spice",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ice%20Spice",
+      "pubdate": "Sat, 16 Nov 2024 00:00:00 +0100"
+    },
     {
       "title": "Mike Tyson vs Jake Paul",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mike%20Tyson%20vs%20Jake%20Paul",
@@ -27,6 +37,11 @@
       "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     },
     {
+      "title": "Kosovo Rumänien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kosovo%20Rum%C3%A4nien",
+      "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
+    },
+    {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
       "pubdate": "Fri, 15 Nov 2024 00:00:00 +0100"
@@ -37,13 +52,8 @@
       "pubdate": "Fri, 15 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "XRP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#XRP",
-      "pubdate": "Fri, 15 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "MotoGP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+      "title": "Carlos Alcaraz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
       "pubdate": "Fri, 15 Nov 2024 17:00:00 +0100"
     },
     {
@@ -52,9 +62,19 @@
       "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
     },
     {
+      "title": "XRP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#XRP",
+      "pubdate": "Fri, 15 Nov 2024 18:00:00 +0100"
+    },
+    {
       "title": "Stipe Miocic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stipe%20Miocic",
       "pubdate": "Fri, 15 Nov 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Dänemark – Spanien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#D%C3%A4nemark%20%E2%80%93%20Spanien",
+      "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
     },
     {
       "title": "Sunrise Aktie",
@@ -62,9 +82,14 @@
       "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Dänemark – Spanien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#D%C3%A4nemark%20%E2%80%93%20Spanien",
-      "pubdate": "Fri, 15 Nov 2024 21:00:00 +0100"
+      "title": "MotoGP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+      "pubdate": "Fri, 15 Nov 2024 19:00:00 +0100"
+    },
+    {
+      "title": "ZSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
+      "pubdate": "Fri, 15 Nov 2024 16:00:00 +0100"
     },
     {
       "title": "Infowars",
@@ -75,31 +100,6 @@
       "title": "Swiss Steel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Steel",
       "pubdate": "Fri, 15 Nov 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Romoos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Romoos",
-      "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Danemark – Espagne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Danemark%20%E2%80%93%20Espagne",
-      "pubdate": "Fri, 15 Nov 2024 22:00:00 +0100"
-    },
-    {
-      "title": "LHC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
-      "pubdate": "Fri, 15 Nov 2024 10:00:00 +0100"
-    },
-    {
-      "title": "ZSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
-      "pubdate": "Fri, 15 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Kosovo Rumänien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kosovo%20Rum%C3%A4nien",
-      "pubdate": "Fri, 15 Nov 2024 23:00:00 +0100"
     }
   ]
 }
