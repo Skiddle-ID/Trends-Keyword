@@ -1,1 +1,1 @@
-Betclic,SPORT,Olaf Scholz,Szlachetna Paczka,Olympique Lyon,Julia von Stein,Boks,Polska Portugalia,Szkocja – Chorwacja,Polska mecze,Tylko mnie kochaj,Dania – Hiszpania,Cristiano Ronaldo,KSW,UFC,Polska - Szkocja,TVP,Eurowizja Junior 2024,Opady śniegu,Tabela Ligi Narodów
+Sport,Szlachetnapaczka,Olaf Scholz,Karoline Leavitt,Olympique Lyon,Half-Life 2,Agnieszka Chylińska,Boks,Julia von Stein,Polska Portugalia,Szkocja – Chorwacja,Polska mecze,Tylko mnie kochaj,Dania – Hiszpania,KSW,UFC,Polska - Szkocja,TVP,Eurowizja Junior 2024,Marcin Bułka
