@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2024 , 11:35:46",
+  "lastUpdate": "17-11-2024 , 12:56:03",
   "data": [
     {
       "title": "Lisa",
@@ -27,14 +27,19 @@
       "pubdate": "Sun, 17 Nov 2024 00:00:00 +0800"
     },
     {
+      "title": "林千鈺",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%8D%83%E9%88%BA",
+      "pubdate": "Sun, 17 Nov 2024 15:00:00 +0800"
+    },
+    {
       "title": "KGMA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#KGMA",
       "pubdate": "Sun, 17 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "林千鈺",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%8D%83%E9%88%BA",
-      "pubdate": "Sun, 17 Nov 2024 15:00:00 +0800"
+      "title": "公車",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%AC%E8%BB%8A",
+      "pubdate": "Sun, 17 Nov 2024 14:00:00 +0800"
     },
     {
       "title": "APEC",
@@ -47,14 +52,9 @@
       "pubdate": "Sun, 17 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "公車",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%AC%E8%BB%8A",
-      "pubdate": "Sun, 17 Nov 2024 14:00:00 +0800"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#UFC",
-      "pubdate": "Sun, 17 Nov 2024 11:00:00 +0800"
+      "title": "棒球12強直播",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A3%92%E7%90%8312%E5%BC%B7%E7%9B%B4%E6%92%AD",
+      "pubdate": "Sat, 16 Nov 2024 21:00:00 +0800"
     },
     {
       "title": "地震",
@@ -64,11 +64,6 @@
     {
       "title": "韓國多明尼加",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E5%A4%9A%E6%98%8E%E5%B0%BC%E5%8A%A0",
-      "pubdate": "Sat, 16 Nov 2024 21:00:00 +0800"
-    },
-    {
-      "title": "郭俊麟",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E4%BF%8A%E9%BA%9F",
       "pubdate": "Sat, 16 Nov 2024 21:00:00 +0800"
     },
     {
@@ -90,6 +85,11 @@
       "title": "豪雨特報",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B1%AA%E9%9B%A8%E7%89%B9%E5%A0%B1",
       "pubdate": "Sat, 16 Nov 2024 05:00:00 +0800"
+    },
+    {
+      "title": "莊昕諺",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8E%8A%E6%98%95%E8%AB%BA",
+      "pubdate": "Sat, 16 Nov 2024 22:00:00 +0800"
     },
     {
       "title": "藤井風",

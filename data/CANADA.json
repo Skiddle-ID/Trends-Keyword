@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2024 , 11:35:39",
+  "lastUpdate": "17-11-2024 , 12:55:56",
   "data": [
     {
       "title": "Connor Bedard",
@@ -12,14 +12,14 @@
       "pubdate": "Sun, 17 Nov 2024 00:00:00 -0500"
     },
     {
+      "title": "Dana White",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dana%20White",
+      "pubdate": "Sun, 17 Nov 2024 02:00:00 -0500"
+    },
+    {
       "title": "Mathieu Olivier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mathieu%20Olivier",
       "pubdate": "Sun, 17 Nov 2024 01:00:00 -0500"
-    },
-    {
-      "title": "Madison Square Garden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Madison%20Square%20Garden",
-      "pubdate": "Sun, 17 Nov 2024 02:00:00 -0500"
     },
     {
       "title": "UFC",
@@ -77,6 +77,11 @@
       "pubdate": "Sat, 16 Nov 2024 09:00:00 -0500"
     },
     {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Carter",
+      "pubdate": "Sat, 16 Nov 2024 15:00:00 -0500"
+    },
+    {
       "title": "Why does Mike Tyson bite his glove",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Why%20does%20Mike%20Tyson%20bite%20his%20glove",
       "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
@@ -95,11 +100,6 @@
       "title": "Charlize Theron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Charlize%20Theron",
       "pubdate": "Sat, 16 Nov 2024 01:00:00 -0500"
-    },
-    {
-      "title": "Hotel Lac Carling",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hotel%20Lac%20Carling",
-      "pubdate": "Sat, 16 Nov 2024 15:00:00 -0500"
     }
   ]
 }
