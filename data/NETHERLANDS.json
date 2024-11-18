@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2024 , 15:39:35",
+  "lastUpdate": "18-11-2024 , 16:45:40",
   "data": [
     {
       "title": "Pogrom",
@@ -30,6 +30,11 @@
       "title": "Netflix",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Netflix",
       "pubdate": "Sat, 16 Nov 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Oranje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
+      "pubdate": "Sat, 16 Nov 2024 20:00:00 +0100"
     },
     {
       "title": "MotoGP",
@@ -67,11 +72,6 @@
       "pubdate": "Fri, 15 Nov 2024 12:00:00 +0100"
     },
     {
-      "title": "Mike Tyson vs Jake Paul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson%20vs%20Jake%20Paul",
-      "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
-    },
-    {
       "title": "Mike Tyson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson",
       "pubdate": "Thu, 14 Nov 2024 20:00:00 +0100"
@@ -87,6 +87,11 @@
       "pubdate": "Thu, 14 Nov 2024 00:00:00 +0100"
     },
     {
+      "title": "Mike Tyson Jake Paul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mike%20Tyson%20Jake%20Paul",
+      "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
+    },
+    {
       "title": "Wie is de Mol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wie%20is%20de%20Mol",
       "pubdate": "Thu, 14 Nov 2024 11:00:00 +0100"
@@ -94,11 +99,6 @@
     {
       "title": "Jong Oranje",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
-      "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Adriaan van Dis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Adriaan%20van%20Dis",
       "pubdate": "Thu, 14 Nov 2024 18:00:00 +0100"
     }
   ]
