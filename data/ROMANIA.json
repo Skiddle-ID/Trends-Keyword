@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-11-2024 , 11:35:35",
+  "lastUpdate": "19-11-2024 , 13:01:10",
   "data": [
     {
       "title": "Ziua barbatului",
@@ -7,23 +7,13 @@
       "pubdate": "Tue, 19 Nov 2024 08:00:00 +0200"
     },
     {
-      "title": "Dragusin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dragusin",
-      "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
-    },
-    {
       "title": "19 noiembrie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#19%20noiembrie",
       "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
     },
     {
-      "title": "Explozie Braila",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Explozie%20Braila",
-      "pubdate": "Tue, 19 Nov 2024 11:00:00 +0200"
-    },
-    {
-      "title": "Florin Niță",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florin%20Ni%C8%9B%C4%83",
+      "title": "Dragusin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dragusin",
       "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
     },
     {
@@ -32,9 +22,19 @@
       "pubdate": "Tue, 19 Nov 2024 09:00:00 +0200"
     },
     {
-      "title": "USR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#USR",
+      "title": "Florinel Coman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
+      "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Explozie braila",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Explozie%20braila",
       "pubdate": "Tue, 19 Nov 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Florin Niță",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florin%20Ni%C8%9B%C4%83",
+      "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
     },
     {
       "title": "Polovragi",
@@ -47,24 +47,19 @@
       "pubdate": "Tue, 19 Nov 2024 10:00:00 +0200"
     },
     {
-      "title": "Ciprian Porumbescu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciprian%20Porumbescu",
-      "pubdate": "Tue, 19 Nov 2024 00:00:00 +0200"
-    },
-    {
       "title": "Romania Cipru",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Cipru",
       "pubdate": "Mon, 18 Nov 2024 01:00:00 +0200"
     },
     {
-      "title": "Romania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania",
-      "pubdate": "Mon, 18 Nov 2024 19:00:00 +0200"
+      "title": "ROMANIA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ROMANIA",
+      "pubdate": "Mon, 18 Nov 2024 20:00:00 +0200"
     },
     {
       "title": "Ciuca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciuca",
-      "pubdate": "Mon, 18 Nov 2024 21:00:00 +0200"
+      "pubdate": "Mon, 18 Nov 2024 19:00:00 +0200"
     },
     {
       "title": "Cristian Diaconescu",
@@ -79,7 +74,7 @@
     {
       "title": "Croația - Portugalia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Croa%C8%9Bia%20-%20Portugalia",
-      "pubdate": "Mon, 18 Nov 2024 21:00:00 +0200"
+      "pubdate": "Mon, 18 Nov 2024 22:00:00 +0200"
     },
     {
       "title": "Ianis Hagi",
@@ -100,6 +95,11 @@
       "title": "Vortex polar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vortex%20polar",
       "pubdate": "Mon, 18 Nov 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Caravaggio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caravaggio",
+      "pubdate": "Mon, 18 Nov 2024 08:00:00 +0200"
     }
   ]
 }

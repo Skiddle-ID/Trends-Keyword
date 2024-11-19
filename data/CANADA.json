@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "19-11-2024 , 11:35:28",
+  "lastUpdate": "19-11-2024 , 13:01:04",
   "data": [
     {
-      "title": "Dallas Cowboys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
-      "pubdate": "Tue, 19 Nov 2024 00:00:00 -0500"
+      "title": "RJ Barrett",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RJ%20Barrett",
+      "pubdate": "Tue, 19 Nov 2024 01:00:00 -0500"
     },
     {
       "title": "Warriors",
@@ -37,19 +37,24 @@
       "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
     },
     {
+      "title": "CFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CFL",
+      "pubdate": "Mon, 18 Nov 2024 00:00:00 -0500"
+    },
+    {
       "title": "Poste Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Poste%20Canada",
       "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
-      "title": "Game Awards",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Game%20Awards",
-      "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
-    },
-    {
       "title": "Paul Teal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Teal",
       "pubdate": "Mon, 18 Nov 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Game Awards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Game%20Awards",
+      "pubdate": "Mon, 18 Nov 2024 14:00:00 -0500"
     },
     {
       "title": "Bomb cyclone",
@@ -72,11 +77,6 @@
       "pubdate": "Mon, 18 Nov 2024 10:00:00 -0500"
     },
     {
-      "title": "Joe Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Biden",
-      "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
-    },
-    {
       "title": "Croatia vs Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Croatia%20vs%20Portugal",
       "pubdate": "Mon, 18 Nov 2024 15:00:00 -0500"
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 18 Nov 2024 20:00:00 -0500"
     },
     {
-      "title": "SMCI stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SMCI%20stock",
-      "pubdate": "Mon, 18 Nov 2024 13:00:00 -0500"
+      "title": "Russia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russia",
+      "pubdate": "Mon, 18 Nov 2024 12:00:00 -0500"
     }
   ]
 }
