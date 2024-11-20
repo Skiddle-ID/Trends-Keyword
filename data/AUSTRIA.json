@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "20-11-2024 , 11:36:12",
+  "lastUpdate": "20-11-2024 , 13:00:41",
   "data": [
-    {
-      "title": "Wiener Linien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Linien",
-      "pubdate": "Wed, 20 Nov 2024 07:00:00 +0100"
-    },
     {
       "title": "Linda McMahon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linda%20McMahon",
@@ -22,19 +17,14 @@
       "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
     },
     {
+      "title": "Stalker 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stalker%202",
+      "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
+    },
+    {
       "title": "Lindsey Vonn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lindsey%20Vonn",
       "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Bosnien Niederlande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bosnien%20Niederlande",
-      "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Boris Pistorius",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Boris%20Pistorius",
-      "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Tiny House",
@@ -42,9 +32,9 @@
       "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "AirPods Pro 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AirPods%20Pro%202",
-      "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
+      "title": "Boris Pistorius",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Boris%20Pistorius",
+      "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Jaguar",
@@ -52,8 +42,18 @@
       "pubdate": "Wed, 20 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "U1 Störung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#U1%20St%C3%B6rung",
+      "title": "AirPods Pro 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AirPods%20Pro%202",
+      "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Angelo Conti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Angelo%20Conti",
+      "pubdate": "Wed, 20 Nov 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Wiener Linien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Linien",
       "pubdate": "Tue, 19 Nov 2024 19:00:00 +0100"
     },
     {
@@ -87,6 +87,11 @@
       "pubdate": "Tue, 19 Nov 2024 11:00:00 +0100"
     },
     {
+      "title": "Riemenfisch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Riemenfisch",
+      "pubdate": "Tue, 19 Nov 2024 13:00:00 +0100"
+    },
+    {
       "title": "Marius Borg Høiby",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marius%20Borg%20H%C3%B8iby",
       "pubdate": "Tue, 19 Nov 2024 13:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "TCG Unitech",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#TCG%20Unitech",
       "pubdate": "Tue, 19 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "San Marino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#San%20Marino",
-      "pubdate": "Tue, 19 Nov 2024 06:00:00 +0100"
     }
   ]
 }
