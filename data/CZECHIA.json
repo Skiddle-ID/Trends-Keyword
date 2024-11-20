@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-11-2024 , 23:37:44",
+  "lastUpdate": "20-11-2024 , 02:07:28",
   "data": [
+    {
+      "title": "Viktorie Mertová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktorie%20Mertov%C3%A1",
+      "pubdate": "Wed, 20 Nov 2024 00:00:00 +0100"
+    },
     {
       "title": "Česko – Gruzie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesko%20%E2%80%93%20Gruzie",
@@ -32,6 +37,11 @@
       "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
     },
     {
+      "title": "SpaceX",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SpaceX",
+      "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
+    },
+    {
       "title": "Marta Jandová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marta%20Jandov%C3%A1",
       "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
@@ -47,24 +57,19 @@
       "pubdate": "Tue, 19 Nov 2024 20:00:00 +0100"
     },
     {
-      "title": "Bryan Adams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bryan%20Adams",
-      "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
-    },
-    {
       "title": "Jak vycvičit draka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jak%20vycvi%C4%8Dit%20draka",
       "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
     },
     {
+      "title": "Bryan Adams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bryan%20Adams",
+      "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
+    },
+    {
       "title": "Billie Jean King Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Billie%20Jean%20King%20Cup",
       "pubdate": "Tue, 19 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "SpaceX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SpaceX",
-      "pubdate": "Tue, 19 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Miroslav Hrabě",
@@ -95,11 +100,6 @@
       "title": "Sabina Dračková",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sabina%20Dra%C4%8Dkov%C3%A1",
       "pubdate": "Mon, 18 Nov 2024 23:00:00 +0100"
-    },
-    {
-      "title": "ATACMS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ATACMS",
-      "pubdate": "Mon, 18 Nov 2024 08:00:00 +0100"
     }
   ]
 }
