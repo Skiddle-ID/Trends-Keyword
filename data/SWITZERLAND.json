@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2024 , 17:38:11",
+  "lastUpdate": "22-11-2024 , 18:44:36",
   "data": [
     {
       "title": "Pam Bondi",
@@ -12,14 +12,14 @@
       "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
     },
     {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga",
+      "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
+    },
+    {
       "title": "Bushido",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bushido",
       "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
-    },
-    {
-      "title": "News Heute",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#News%20Heute",
-      "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Linkin Park Tickets",
@@ -27,9 +27,19 @@
       "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
     },
     {
+      "title": "News Heute",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#News%20Heute",
+      "pubdate": "Fri, 22 Nov 2024 08:00:00 +0100"
+    },
+    {
       "title": "Uber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Uber",
       "pubdate": "Fri, 22 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Dielsdorf",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dielsdorf",
+      "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
     },
     {
       "title": "Boualem Sansal",
@@ -42,6 +52,11 @@
       "pubdate": "Fri, 22 Nov 2024 07:00:00 +0100"
     },
     {
+      "title": "Scarlett Johansson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Scarlett%20Johansson",
+      "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
+    },
+    {
       "title": "Dr. Martens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dr.%20Martens",
       "pubdate": "Fri, 22 Nov 2024 11:00:00 +0100"
@@ -52,34 +67,9 @@
       "pubdate": "Fri, 22 Nov 2024 01:00:00 +0100"
     },
     {
-      "title": "Scarlett Johansson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Scarlett%20Johansson",
-      "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Dielsdorf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dielsdorf",
-      "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
-    },
-    {
       "title": "Bob",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bob",
       "pubdate": "Fri, 22 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Schneechaos Schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schneechaos%20Schweiz",
-      "pubdate": "Fri, 22 Nov 2024 13:00:00 +0100"
-    },
-    {
-      "title": "When is Black Friday 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#When%20is%20Black%20Friday%202024",
-      "pubdate": "Fri, 22 Nov 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Éruption volcanique Islande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%89ruption%20volcanique%20Islande",
-      "pubdate": "Fri, 22 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "Boris Pistorius",
@@ -87,14 +77,24 @@
       "pubdate": "Fri, 22 Nov 2024 17:00:00 +0100"
     },
     {
-      "title": "Bitcoin Dollar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin%20Dollar",
-      "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
+      "title": "FCL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
+      "pubdate": "Fri, 22 Nov 2024 17:00:00 +0100"
     },
     {
-      "title": "Attilio Biasca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Attilio%20Biasca",
-      "pubdate": "Fri, 22 Nov 2024 16:00:00 +0100"
+      "title": "When is Black Friday 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#When%20is%20Black%20Friday%202024",
+      "pubdate": "Fri, 22 Nov 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Daniel Albrecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniel%20Albrecht",
+      "pubdate": "Fri, 22 Nov 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Schneechaos Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schneechaos%20Schweiz",
+      "pubdate": "Fri, 22 Nov 2024 13:00:00 +0100"
     },
     {
       "title": "Path of Exile 2",
