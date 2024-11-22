@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "22-11-2024 , 05:39:30",
+  "lastUpdate": "22-11-2024 , 06:45:04",
   "data": [
+    {
+      "title": "Pam Bondi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pam%20Bondi",
+      "pubdate": "Fri, 22 Nov 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Arlbergtunnel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arlbergtunnel",
+      "pubdate": "Fri, 22 Nov 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Path of Exile 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Path%20of%20Exile%202",
+      "pubdate": "Fri, 22 Nov 2024 07:00:00 +0100"
+    },
     {
       "title": "Baby verschwunden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Baby%20verschwunden",
@@ -22,14 +37,14 @@
       "pubdate": "Thu, 21 Nov 2024 07:00:00 +0100"
     },
     {
-      "title": "Keks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Keks",
-      "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
-    },
-    {
       "title": "Bitcoin Kurs Dollar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin%20Kurs%20Dollar",
       "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Keks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Keks",
+      "pubdate": "Thu, 21 Nov 2024 16:00:00 +0100"
     },
     {
       "title": "Marius Borg Høiby",
@@ -62,11 +77,6 @@
       "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Dnipro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dnipro",
-      "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
-    },
-    {
       "title": "Andreas Gabalier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andreas%20Gabalier",
       "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Mario Götze",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mario%20G%C3%B6tze",
       "pubdate": "Thu, 21 Nov 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Nvidia-Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia-Aktie",
-      "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Linda McMahon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linda%20McMahon",
-      "pubdate": "Wed, 20 Nov 2024 08:00:00 +0100"
     }
   ]
 }

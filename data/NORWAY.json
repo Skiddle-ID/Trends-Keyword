@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "22-11-2024 , 05:39:36",
+  "lastUpdate": "22-11-2024 , 06:45:10",
   "data": [
-    {
-      "title": "Pam Bondi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pam%20Bondi",
-      "pubdate": "Fri, 22 Nov 2024 02:00:00 +0100"
-    },
     {
       "title": "Håndball",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball",
@@ -22,14 +17,14 @@
       "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
     },
     {
+      "title": "Stian Hole",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stian%20Hole",
+      "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
+    },
+    {
       "title": "Lars Saabye Christensen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lars%20Saabye%20Christensen",
       "pubdate": "Thu, 21 Nov 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Ioniq 9",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ioniq%209",
-      "pubdate": "Thu, 21 Nov 2024 19:00:00 +0100"
     },
     {
       "title": "Brageprisen 2024",
@@ -40,6 +35,11 @@
       "title": "New York Times",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#New%20York%20Times",
       "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Ioniq 9",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ioniq%209",
+      "pubdate": "Thu, 21 Nov 2024 19:00:00 +0100"
     },
     {
       "title": "Bendik",

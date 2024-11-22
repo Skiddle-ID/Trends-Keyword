@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2024 , 05:39:31",
+  "lastUpdate": "22-11-2024 , 06:45:05",
   "data": [
     {
       "title": "Junior  América",
@@ -52,11 +52,6 @@
       "pubdate": "Thu, 21 Nov 2024 08:00:00 -0300"
     },
     {
-      "title": "Liga Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20Argentina",
-      "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
-    },
-    {
       "title": "Talleres  Sarmiento",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Talleres%20%20Sarmiento",
       "pubdate": "Thu, 21 Nov 2024 22:00:00 -0300"
@@ -82,8 +77,8 @@
       "pubdate": "Thu, 21 Nov 2024 14:00:00 -0300"
     },
     {
-      "title": "STALKER 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#STALKER%202",
+      "title": "S.T.A.L.K.E.R. 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#S.T.A.L.K.E.R.%202",
       "pubdate": "Thu, 21 Nov 2024 03:00:00 -0300"
     },
     {
@@ -92,14 +87,19 @@
       "pubdate": "Wed, 20 Nov 2024 00:00:00 -0300"
     },
     {
-      "title": "U de Chile vs Ñublense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile%20vs%20%C3%91ublense",
-      "pubdate": "Wed, 20 Nov 2024 15:00:00 -0300"
+      "title": "Universidad de Chile vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20de%20Chile%20vs",
+      "pubdate": "Wed, 20 Nov 2024 12:00:00 -0300"
     },
     {
       "title": "Boca Juniors  Unión",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors%20%20Uni%C3%B3n",
       "pubdate": "Wed, 20 Nov 2024 22:00:00 -0300"
+    },
+    {
+      "title": "Mexico vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs",
+      "pubdate": "Wed, 20 Nov 2024 00:00:00 -0300"
     }
   ]
 }
