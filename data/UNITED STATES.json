@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2024 , 11:35:22",
+  "lastUpdate": "23-11-2024 , 12:56:07",
   "data": [
     {
       "title": "Cher",
@@ -14,7 +14,7 @@
     {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-      "pubdate": "Fri, 22 Nov 2024 00:00:00 -0800"
+      "pubdate": "Fri, 22 Nov 2024 06:00:00 -0800"
     },
     {
       "title": "Conor McGregor",
@@ -62,11 +62,6 @@
       "pubdate": "Fri, 22 Nov 2024 11:00:00 -0800"
     },
     {
-      "title": "The Wizard of Oz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Wizard%20of%20Oz",
-      "pubdate": "Fri, 22 Nov 2024 15:00:00 -0800"
-    },
-    {
       "title": "Warriors vs Pelicans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Pelicans",
       "pubdate": "Fri, 22 Nov 2024 19:00:00 -0800"
@@ -75,6 +70,11 @@
       "title": "Bucks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
       "pubdate": "Fri, 22 Nov 2024 22:00:00 -0800"
+    },
+    {
+      "title": "Franz Wagner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Franz%20Wagner",
+      "pubdate": "Fri, 22 Nov 2024 00:00:00 -0800"
     },
     {
       "title": "Earthquake",
