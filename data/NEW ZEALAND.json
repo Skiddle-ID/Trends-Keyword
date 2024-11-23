@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-11-2024 , 23:37:54",
+  "lastUpdate": "23-11-2024 , 02:03:04",
   "data": [
     {
       "title": "F1",
@@ -12,19 +12,39 @@
       "pubdate": "Sat, 23 Nov 2024 09:00:00 +1300"
     },
     {
-      "title": "Cricket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
-      "pubdate": "Sat, 23 Nov 2024 00:00:00 +1300"
-    },
-    {
       "title": "France vs Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#France%20vs%20Argentina",
       "pubdate": "Sat, 23 Nov 2024 10:00:00 +1300"
     },
     {
+      "title": "Cricket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
+      "pubdate": "Sat, 23 Nov 2024 00:00:00 +1300"
+    },
+    {
       "title": "West Indies vs Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Bangladesh",
       "pubdate": "Sat, 23 Nov 2024 11:00:00 +1300"
+    },
+    {
+      "title": "Kendrick Lamar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kendrick%20Lamar",
+      "pubdate": "Sat, 23 Nov 2024 13:00:00 +1300"
+    },
+    {
+      "title": "Ground beef recalled",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ground%20beef%20recalled",
+      "pubdate": "Sat, 23 Nov 2024 14:00:00 +1300"
+    },
+    {
+      "title": "Santa Parade Auckland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Santa%20Parade%20Auckland",
+      "pubdate": "Sat, 23 Nov 2024 14:00:00 +1300"
+    },
+    {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
+      "pubdate": "Sat, 23 Nov 2024 14:00:00 +1300"
     },
     {
       "title": "Slack",
@@ -34,11 +54,16 @@
     {
       "title": "India vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Australia",
-      "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
+      "pubdate": "Fri, 22 Nov 2024 16:00:00 +1300"
     },
     {
       "title": "Whooping cough",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Whooping%20cough",
+      "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
+    },
+    {
+      "title": "Ind vs Aus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ind%20vs%20Aus",
       "pubdate": "Fri, 22 Nov 2024 13:00:00 +1300"
     },
     {
@@ -62,11 +87,6 @@
       "pubdate": "Fri, 22 Nov 2024 14:00:00 +1300"
     },
     {
-      "title": "AUS vs IND",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AUS%20vs%20IND",
-      "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
-    },
-    {
       "title": "Lydia Ko",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
       "pubdate": "Fri, 22 Nov 2024 03:00:00 +1300"
@@ -80,26 +100,6 @@
       "title": "Nitish Kumar Reddy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nitish%20Kumar%20Reddy",
       "pubdate": "Fri, 22 Nov 2024 23:00:00 +1300"
-    },
-    {
-      "title": "ICC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC",
-      "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
-    },
-    {
-      "title": "Pamela Hayden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pamela%20Hayden",
-      "pubdate": "Fri, 22 Nov 2024 00:00:00 +1300"
-    },
-    {
-      "title": "Charlie Hunnam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Charlie%20Hunnam",
-      "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
-    },
-    {
-      "title": "John Prescott",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Prescott",
-      "pubdate": "Fri, 22 Nov 2024 15:00:00 +1300"
     }
   ]
 }
