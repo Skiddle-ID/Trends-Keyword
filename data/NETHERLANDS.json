@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2024 , 23:37:22",
+  "lastUpdate": "24-11-2024 , 02:15:02",
   "data": [
     {
       "title": "Feyenoord",
@@ -42,13 +42,13 @@
       "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
     },
     {
-      "title": "Rafael van der Vaart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rafael%20van%20der%20Vaart",
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
       "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+      "title": "Rafael van der Vaart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rafael%20van%20der%20Vaart",
       "pubdate": "Sat, 23 Nov 2024 22:00:00 +0100"
     },
     {
@@ -72,11 +72,6 @@
       "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
     },
     {
-      "title": "Las Vegas F1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Las%20Vegas%20F1",
-      "pubdate": "Sat, 23 Nov 2024 12:00:00 +0100"
-    },
-    {
       "title": "FC Den Bosch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
       "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
@@ -85,6 +80,11 @@
       "title": "Wendy van Dijk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wendy%20van%20Dijk",
       "pubdate": "Sat, 23 Nov 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Eredivisie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
+      "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
     },
     {
       "title": "Davis Cup",

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-11-2024 , 23:37:25",
+  "lastUpdate": "24-11-2024 , 02:15:06",
   "data": [
+    {
+      "title": "Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20United",
+      "pubdate": "Sun, 24 Nov 2024 01:00:00 +0000"
+    },
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
@@ -27,14 +32,14 @@
       "pubdate": "Sat, 23 Nov 2024 15:00:00 +0000"
     },
     {
-      "title": "Hearts vs Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hearts%20vs%20Celtic",
+      "title": "Celta Vigo vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celta%20Vigo%20vs%20Barcelona",
       "pubdate": "Sat, 23 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Millwall vs Sunderland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Millwall%20vs%20Sunderland",
-      "pubdate": "Sat, 23 Nov 2024 17:00:00 +0000"
+      "title": "Hearts vs Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hearts%20vs%20Celtic",
+      "pubdate": "Sat, 23 Nov 2024 18:00:00 +0000"
     },
     {
       "title": "F1",
@@ -42,14 +47,24 @@
       "pubdate": "Sat, 23 Nov 2024 08:00:00 +0000"
     },
     {
-      "title": "Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Everton",
-      "pubdate": "Sat, 23 Nov 2024 16:00:00 +0000"
+      "title": "Millwall vs Sunderland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Millwall%20vs%20Sunderland",
+      "pubdate": "Sat, 23 Nov 2024 17:00:00 +0000"
     },
     {
       "title": "Aston Villa vs Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aston%20Villa%20vs%20Crystal%20Palace",
       "pubdate": "Sat, 23 Nov 2024 15:00:00 +0000"
+    },
+    {
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Everton",
+      "pubdate": "Sat, 23 Nov 2024 16:00:00 +0000"
+    },
+    {
+      "title": "Kate Nash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kate%20Nash",
+      "pubdate": "Sat, 23 Nov 2024 10:00:00 +0000"
     },
     {
       "title": "Cynthia Erivo",
@@ -67,14 +82,9 @@
       "pubdate": "Sat, 23 Nov 2024 16:00:00 +0000"
     },
     {
-      "title": "Premier League games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20games",
-      "pubdate": "Sat, 23 Nov 2024 13:00:00 +0000"
-    },
-    {
-      "title": "Liverpool fixtures",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20fixtures",
-      "pubdate": "Sat, 23 Nov 2024 20:00:00 +0000"
+      "title": "Ireland vs Fiji",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ireland%20vs%20Fiji",
+      "pubdate": "Sat, 23 Nov 2024 18:00:00 +0000"
     },
     {
       "title": "Sam Campbell",
@@ -89,16 +99,6 @@
     {
       "title": "PL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#PL",
-      "pubdate": "Sat, 23 Nov 2024 13:00:00 +0000"
-    },
-    {
-      "title": "Bournemouth vs Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bournemouth%20vs%20Brighton",
-      "pubdate": "Sat, 23 Nov 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Premier League fixtures",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20fixtures",
       "pubdate": "Sat, 23 Nov 2024 13:00:00 +0000"
     }
   ]
