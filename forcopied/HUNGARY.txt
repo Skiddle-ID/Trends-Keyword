@@ -1,1 +1,1 @@
-Real Madrid,Szabó Bence X-Faktor,Pogány Judit,Freddie Mercury,Juventus,Manchester City–Tottenham,Premier League,Mihályfi Luca,F1,Barcelona,Mtk–eto,Liverpool,Gorka Sebestyén,Atlético madrid–alavés,PL,Serie A,FC Barcelona,OTP Bank Liga,Sasvári Sándor,Tóth Gabi
+Real Madrid,Pogány Judit,Szabó Bence X-Faktor,Freddie Mercury,Juventus,Manchester City–Tottenham,F1,Liverpool,Barcelona,Gorka Sebestyén,Atlético Madrid–Alavés,PL,Serie A,Laliga,FC Barcelona,OTP Bank Liga,Tóth Gabi,Sasvári Sándor,Szamárköhögés,Birkás Márta

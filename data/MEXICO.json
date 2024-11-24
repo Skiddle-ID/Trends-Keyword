@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "24-11-2024 , 11:35:48",
+  "lastUpdate": "24-11-2024 , 12:57:13",
   "data": [
-    {
-      "title": "Lakers  Nuggets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers%20%20Nuggets",
-      "pubdate": "Sun, 24 Nov 2024 00:00:00 -0600"
-    },
     {
       "title": "Murió Julio cesar gonzalez locutor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Muri%C3%B3%20Julio%20cesar%20gonzalez%20locutor",
@@ -32,11 +27,6 @@
       "pubdate": "Sat, 23 Nov 2024 12:00:00 -0600"
     },
     {
-      "title": "Milan  Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Milan%20%20Juventus",
-      "pubdate": "Sat, 23 Nov 2024 11:00:00 -0600"
-    },
-    {
       "title": "Racing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Racing",
       "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
@@ -55,6 +45,11 @@
       "title": "Arsenal - Nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20-%20Nottingham%20Forest",
       "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
+    },
+    {
+      "title": "MLS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+      "pubdate": "Sat, 23 Nov 2024 21:00:00 -0600"
     },
     {
       "title": "PSV  Groningen",
@@ -77,6 +72,11 @@
       "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
     },
     {
+      "title": "Premier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier",
+      "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
+    },
+    {
       "title": "Hellas Verona  Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hellas%20Verona%20%20Inter",
       "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
@@ -87,11 +87,6 @@
       "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
     },
     {
-      "title": "MLS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
-      "pubdate": "Sat, 23 Nov 2024 21:00:00 -0600"
-    },
-    {
       "title": "Aston Villa  Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Crystal%20Palace",
       "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
@@ -99,6 +94,11 @@
     {
       "title": "Huracán  Boca Juniors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hurac%C3%A1n%20%20Boca%20Juniors",
+      "pubdate": "Sat, 23 Nov 2024 20:00:00 -0600"
+    },
+    {
+      "title": "Jasper",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jasper",
       "pubdate": "Sat, 23 Nov 2024 20:00:00 -0600"
     }
   ]
