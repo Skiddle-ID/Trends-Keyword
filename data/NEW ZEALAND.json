@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:39",
+  "lastUpdate": "25-11-2024 , 02:10:49",
   "data": [
     {
       "title": "Chess",
@@ -10,6 +10,11 @@
       "title": "IPL Auction 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IPL%20Auction%202024",
       "pubdate": "Mon, 25 Nov 2024 00:00:00 +1300"
+    },
+    {
+      "title": "Ipswich Town vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ipswich%20Town%20vs%20Man%20United",
+      "pubdate": "Mon, 25 Nov 2024 07:00:00 +1300"
     },
     {
       "title": "Liverpool",
@@ -37,11 +42,6 @@
       "pubdate": "Sun, 24 Nov 2024 01:00:00 +1300"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
-      "pubdate": "Sun, 24 Nov 2024 06:00:00 +1300"
-    },
-    {
       "title": "Auckland FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
       "pubdate": "Sun, 24 Nov 2024 19:00:00 +1300"
@@ -52,6 +52,11 @@
       "pubdate": "Sun, 24 Nov 2024 08:00:00 +1300"
     },
     {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
+      "pubdate": "Sun, 24 Nov 2024 06:00:00 +1300"
+    },
+    {
       "title": "Wales vs South Africa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wales%20vs%20South%20Africa",
       "pubdate": "Sun, 24 Nov 2024 08:00:00 +1300"
@@ -60,6 +65,16 @@
       "title": "Scotland vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scotland%20vs%20Australia",
       "pubdate": "Sun, 24 Nov 2024 18:00:00 +1300"
+    },
+    {
+      "title": "IShowSpeed",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IShowSpeed",
+      "pubdate": "Sun, 24 Nov 2024 14:00:00 +1300"
+    },
+    {
+      "title": "Wellington Phoenix vs Melbourne Victory",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Melbourne%20Victory",
+      "pubdate": "Sun, 24 Nov 2024 16:00:00 +1300"
     },
     {
       "title": "Ireland vs Fiji",
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 24 Nov 2024 01:00:00 +1300"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
-      "pubdate": "Sun, 24 Nov 2024 09:00:00 +1300"
-    },
-    {
       "title": "Virat Kohli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Virat%20Kohli",
       "pubdate": "Sun, 24 Nov 2024 20:00:00 +1300"
-    },
-    {
-      "title": "TJ Perenara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TJ%20Perenara",
-      "pubdate": "Sun, 24 Nov 2024 15:00:00 +1300"
-    },
-    {
-      "title": "UFC Fight Night",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC%20Fight%20Night",
-      "pubdate": "Sun, 24 Nov 2024 06:00:00 +1300"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:40",
+  "lastUpdate": "25-11-2024 , 02:10:50",
   "data": [
+    {
+      "title": "Zambia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zambia",
+      "pubdate": "Mon, 25 Nov 2024 01:00:00 +0100"
+    },
     {
       "title": "Ipswich mot Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ipswich%20mot%20Man%20United",
@@ -22,9 +27,19 @@
       "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
     },
     {
-      "title": "Mjøndalen - Jerv",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mj%C3%B8ndalen%20-%20Jerv",
+      "title": "Brad Pitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brad%20Pitt",
+      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Mjøndalen Jerv",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mj%C3%B8ndalen%20Jerv",
       "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Haugesund Avis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haugesund%20Avis",
+      "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
     },
     {
       "title": "Baku",
@@ -32,14 +47,14 @@
       "pubdate": "Sun, 24 Nov 2024 08:00:00 +0100"
     },
     {
-      "title": "Angelina Jolie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angelina%20Jolie",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-    },
-    {
       "title": "Sleipner Ulykken",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sleipner%20Ulykken",
       "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Cher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cher",
+      "pubdate": "Sun, 24 Nov 2024 23:00:00 +0100"
     },
     {
       "title": "Trine Rein",
@@ -57,16 +72,6 @@
       "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
-      "title": "Cher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cher",
-      "pubdate": "Sun, 24 Nov 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Brann",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-      "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
-    },
-    {
       "title": "Eliteserien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
       "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
@@ -75,6 +80,11 @@
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Premier%20League",
       "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Bodø/Glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+      "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Heidi Weng",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
     },
     {
-      "title": "Viking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-      "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-      "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Rosenborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
-      "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+      "title": "Brann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+      "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
     }
   ]
 }

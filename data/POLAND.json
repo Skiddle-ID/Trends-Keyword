@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:40",
+  "lastUpdate": "25-11-2024 , 02:10:50",
   "data": [
+    {
+      "title": "Katarzynki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzynki",
+      "pubdate": "Mon, 25 Nov 2024 00:00:00 +0100"
+    },
     {
       "title": "Leganés – Real Madryt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legan%C3%A9s%20%E2%80%93%20Real%20Madryt",
@@ -17,11 +22,6 @@
       "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
     },
     {
-      "title": "Ipswich Town – Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ipswich%20Town%20%E2%80%93%20Man%20utd",
-      "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
-    },
-    {
       "title": "Radomiak – Stal Mielec",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radomiak%20%E2%80%93%20Stal%20Mielec",
       "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
@@ -35,6 +35,11 @@
       "title": "Dominik Tarczyński",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dominik%20Tarczy%C5%84ski",
       "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Southampton – Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Southampton%20%E2%80%93%20Liverpool",
+      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Dzień Pluszowego Misia",
@@ -67,24 +72,14 @@
       "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
     },
     {
-      "title": "Arka – Stal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20%E2%80%93%20Stal",
-      "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Arka gdynia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20gdynia",
+      "title": "Arka Gdynia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
       "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "Max Verstappen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Max%20Verstappen",
       "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20utd",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
       "title": "Mamma Mia",
@@ -100,6 +95,11 @@
       "title": "Vito Bambino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vito%20Bambino",
       "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Stasiek Kukulski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stasiek%20Kukulski",
+      "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
     }
   ]
 }

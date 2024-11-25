@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:37",
+  "lastUpdate": "25-11-2024 , 02:10:47",
   "data": [
+    {
+      "title": "Chess",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chess",
+      "pubdate": "Mon, 25 Nov 2024 01:00:00 +0000"
+    },
     {
       "title": "Scotland vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Scotland%20vs%20Australia",
@@ -17,9 +22,9 @@
       "pubdate": "Sun, 24 Nov 2024 17:00:00 +0000"
     },
     {
-      "title": "Swansea vs Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Swansea%20vs%20Leeds%20United",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0000"
+      "title": "Max Verstappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Max%20Verstappen",
+      "pubdate": "Sun, 24 Nov 2024 12:00:00 +0000"
     },
     {
       "title": "IPL Auction 2024",
@@ -32,9 +37,14 @@
       "pubdate": "Sun, 24 Nov 2024 02:00:00 +0000"
     },
     {
-      "title": "Kieran McKenna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kieran%20McKenna",
-      "pubdate": "Sun, 24 Nov 2024 20:00:00 +0000"
+      "title": "Calin Georgescu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Calin%20Georgescu",
+      "pubdate": "Sun, 24 Nov 2024 21:00:00 +0000"
+    },
+    {
+      "title": "DB Cooper",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#DB%20Cooper",
+      "pubdate": "Sun, 24 Nov 2024 22:00:00 +0000"
     },
     {
       "title": "Steve Cooper",
@@ -67,11 +77,6 @@
       "pubdate": "Sun, 24 Nov 2024 01:00:00 +0000"
     },
     {
-      "title": "DB Cooper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#DB%20Cooper",
-      "pubdate": "Sun, 24 Nov 2024 22:00:00 +0000"
-    },
-    {
       "title": "Zimbabwe vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Zimbabwe%20vs%20Pakistan",
       "pubdate": "Sun, 24 Nov 2024 20:00:00 +0000"
@@ -82,9 +87,9 @@
       "pubdate": "Sat, 23 Nov 2024 11:00:00 +0000"
     },
     {
-      "title": "Southampton vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Southampton%20vs%20Liverpool",
-      "pubdate": "Sat, 23 Nov 2024 20:00:00 +0000"
+      "title": "Ipswich Town vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ipswich%20Town%20vs%20Man%20United",
+      "pubdate": "Sat, 23 Nov 2024 21:00:00 +0000"
     },
     {
       "title": "Man City vs Tottenham",
@@ -95,11 +100,6 @@
       "title": "Leicester City vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leicester%20City%20vs%20Chelsea",
       "pubdate": "Sat, 23 Nov 2024 12:00:00 +0000"
-    },
-    {
-      "title": "Arsenal vs nottm Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal%20vs%20nottm%20Forest",
-      "pubdate": "Sat, 23 Nov 2024 15:00:00 +0000"
     }
   ]
 }

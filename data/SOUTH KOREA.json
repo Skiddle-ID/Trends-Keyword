@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:41",
+  "lastUpdate": "25-11-2024 , 02:10:51",
   "data": [
     {
-      "title": "리버풀",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
-      "pubdate": "Sun, 24 Nov 2024 08:00:00 +0900"
+      "title": "맨유",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
+      "pubdate": "Sun, 24 Nov 2024 11:00:00 +0900"
+    },
+    {
+      "title": "F1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#F1",
+      "pubdate": "Sun, 24 Nov 2024 20:00:00 +0900"
     },
     {
       "title": "사랑은 외나무다리에서",
@@ -95,11 +100,6 @@
       "title": "MAMA 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#MAMA%202024",
       "pubdate": "Fri, 22 Nov 2024 19:00:00 +0900"
-    },
-    {
-      "title": "이지아",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%A7%80%EC%95%84",
-      "pubdate": "Fri, 22 Nov 2024 22:00:00 +0900"
     }
   ]
 }

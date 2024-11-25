@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "24-11-2024 , 23:36:42",
+  "lastUpdate": "25-11-2024 , 02:10:52",
   "data": [
-    {
-      "title": "Abstimmungsresultate heute",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate%20heute",
-      "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
-    },
     {
       "title": "Wahlen Bern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Bern",
@@ -17,13 +12,18 @@
       "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
     },
     {
+      "title": "FC Basel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+      "pubdate": "Sun, 24 Nov 2024 07:00:00 +0100"
+    },
+    {
       "title": "Abstimmungen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen",
       "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
     },
     {
-      "title": "EFAS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EFAS",
+      "title": "Efas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Efas",
       "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
     },
     {
@@ -32,8 +32,8 @@
       "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "Abstimmung schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20schweiz",
+      "title": "Abstimmung Schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Schweiz",
       "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
@@ -62,19 +62,9 @@
       "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
     },
     {
-      "title": "FC Aarau – FC Wil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau%20%E2%80%93%20FC%20Wil",
-      "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
-    },
-    {
       "title": "Napoli Roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli%20Roma",
       "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Star Academy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy",
-      "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Abstimmung Zürich",
@@ -82,9 +72,24 @@
       "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "Wahlen Abstimmungen schweiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Abstimmungen%20schweiz",
-      "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
+      "title": "FC Aarau – FC Wil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau%20%E2%80%93%20FC%20Wil",
+      "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Star Academy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy",
+      "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Abstimmungsresultate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate",
+      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Star Academy 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy%202024",
+      "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Virginie Grimaldi",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
     },
     {
-      "title": "Autobahnausbau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Autobahnausbau",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Resultate Abstimmung Heute",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Resultate%20Abstimmung%20Heute",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+      "title": "Abstimmungen schweiz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen%20schweiz",
+      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
     }
   ]
 }
