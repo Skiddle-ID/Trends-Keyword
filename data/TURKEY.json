@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2024 , 11:35:56",
+  "lastUpdate": "25-11-2024 , 13:01:29",
   "data": [
     {
       "title": "Bursaspor",
@@ -7,9 +7,19 @@
       "pubdate": "Mon, 25 Nov 2024 02:00:00 +0300"
     },
     {
+      "title": "25 Kasım",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#25%20Kas%C4%B1m",
+      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0300"
+    },
+    {
       "title": "Gizli Bahçe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gizli%20Bah%C3%A7e",
       "pubdate": "Mon, 25 Nov 2024 10:00:00 +0300"
+    },
+    {
+      "title": "Doğu Ekspresi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Do%C4%9Fu%20Ekspresi",
+      "pubdate": "Mon, 25 Nov 2024 15:00:00 +0300"
     },
     {
       "title": "Hande Erçel",
@@ -17,9 +27,9 @@
       "pubdate": "Mon, 25 Nov 2024 04:00:00 +0300"
     },
     {
-      "title": "25 Kasım",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#25%20Kas%C4%B1m",
-      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0300"
+      "title": "Bahtiyar Aladağ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bahtiyar%20Alada%C4%9F",
+      "pubdate": "Mon, 25 Nov 2024 13:00:00 +0300"
     },
     {
       "title": "Akdeniz Üniversitesi",
@@ -32,18 +42,18 @@
       "pubdate": "Mon, 25 Nov 2024 01:00:00 +0300"
     },
     {
-      "title": "Bahtiyar Aladağ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bahtiyar%20Alada%C4%9F",
-      "pubdate": "Mon, 25 Nov 2024 13:00:00 +0300"
+      "title": "Tarım ve Orman bakanlığı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tar%C4%B1m%20ve%20Orman%20bakanl%C4%B1%C4%9F%C4%B1",
+      "pubdate": "Mon, 25 Nov 2024 14:00:00 +0300"
     },
     {
-      "title": "Ankara Valiliği",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ankara%20Valili%C4%9Fi",
-      "pubdate": "Mon, 25 Nov 2024 09:00:00 +0300"
+      "title": "Antalya Havalimanı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalya%20Havaliman%C4%B1",
+      "pubdate": "Mon, 25 Nov 2024 15:00:00 +0300"
     },
     {
-      "title": "Beşiktaş - Göztepe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F%20-%20G%C3%B6ztepe",
+      "title": "Beşiktaş  Göztepe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F%20%20G%C3%B6ztepe",
       "pubdate": "Sun, 24 Nov 2024 06:00:00 +0300"
     },
     {
@@ -62,14 +72,14 @@
       "pubdate": "Sun, 24 Nov 2024 20:00:00 +0300"
     },
     {
-      "title": "Kocaelispor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor",
-      "pubdate": "Sun, 24 Nov 2024 00:00:00 +0300"
-    },
-    {
       "title": "Mahmut Arıkan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mahmut%20Ar%C4%B1kan",
       "pubdate": "Sun, 24 Nov 2024 19:00:00 +0300"
+    },
+    {
+      "title": "Kocaelispor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor",
+      "pubdate": "Sun, 24 Nov 2024 00:00:00 +0300"
     },
     {
       "title": "Manchester United",
@@ -90,16 +100,6 @@
       "title": "Adanaspor-Sakaryaspor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Adanaspor-Sakaryaspor",
       "pubdate": "Sun, 24 Nov 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Hakan Fidan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hakan%20Fidan",
-      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Safran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Safran",
-      "pubdate": "Sun, 24 Nov 2024 22:00:00 +0300"
     }
   ]
 }

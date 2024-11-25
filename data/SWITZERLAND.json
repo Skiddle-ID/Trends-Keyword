@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "25-11-2024 , 11:35:55",
+  "lastUpdate": "25-11-2024 , 13:01:28",
   "data": [
+    {
+      "title": "DHL Flugzeugabsturz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DHL%20Flugzeugabsturz",
+      "pubdate": "Mon, 25 Nov 2024 12:00:00 +0100"
+    },
     {
       "title": "AirPods Pro 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AirPods%20Pro%202",
       "pubdate": "Mon, 25 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Tribune de geneve",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tribune%20de%20geneve",
-      "pubdate": "Mon, 25 Nov 2024 08:00:00 +0100"
+      "title": "Cyber Monday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyber%20Monday",
+      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Charles Leclerc",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Leclerc",
       "pubdate": "Mon, 25 Nov 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Cyber Monday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyber%20Monday",
-      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0100"
     },
     {
       "title": "Parfait Coulibaly",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 25 Nov 2024 09:00:00 +0100"
     },
     {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
+      "pubdate": "Mon, 25 Nov 2024 11:00:00 +0100"
+    },
+    {
       "title": "Servette",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette",
       "pubdate": "Mon, 25 Nov 2024 11:00:00 +0100"
@@ -39,7 +44,12 @@
     {
       "title": "Wahlen Bern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Bern",
-      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+      "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Abstimmungen November 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen%20November%202024",
+      "pubdate": "Sun, 24 Nov 2024 04:00:00 +0100"
     },
     {
       "title": "Leganés – Real Madrid",
@@ -50,6 +60,11 @@
       "title": "Abstimmungsresultate heute",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate%20heute",
       "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Votation 24 novembre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Votation%2024%20novembre",
+      "pubdate": "Sun, 24 Nov 2024 12:00:00 +0100"
     },
     {
       "title": "FC Basel",
@@ -72,34 +87,19 @@
       "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
     },
     {
-      "title": "Genderstern Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genderstern%20Z%C3%BCrich",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Lugano – Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Z%C3%BCrich",
-      "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Zibelemärit Bern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zibelem%C3%A4rit%20Bern",
-      "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Vreni Schneider",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vreni%20Schneider",
-      "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
-    },
-    {
       "title": "Abstimmung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung",
       "pubdate": "Sun, 24 Nov 2024 11:00:00 +0100"
     },
     {
-      "title": "Abstimmung Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Z%C3%BCrich",
+      "title": "Genderstern Zürich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genderstern%20Z%C3%BCrich",
       "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Zibelemärit bern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zibelem%C3%A4rit%20bern",
+      "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
     }
   ]
 }
