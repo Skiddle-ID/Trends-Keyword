@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "25-11-2024 , 23:37:01",
+  "lastUpdate": "26-11-2024 , 02:09:44",
   "data": [
-    {
-      "title": "Al nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al%20nassr",
-      "pubdate": "Tue, 26 Nov 2024 01:00:00 +0700"
-    },
     {
       "title": "Hòa Minzy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%B2a%20Minzy",
@@ -15,6 +10,16 @@
       "title": "C1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C1",
       "pubdate": "Tue, 26 Nov 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Champions League châu Á",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League%20ch%C3%A2u%20%C3%81",
+      "pubdate": "Tue, 26 Nov 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Champions%20League",
+      "pubdate": "Tue, 26 Nov 2024 02:00:00 +0700"
     },
     {
       "title": "Cờ vua",
@@ -27,6 +32,11 @@
       "pubdate": "Mon, 25 Nov 2024 08:00:00 +0700"
     },
     {
+      "title": "Al-gharafa đấu với al-nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al-gharafa%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20al-nassr",
+      "pubdate": "Mon, 25 Nov 2024 23:00:00 +0700"
+    },
+    {
       "title": "Leganés đấu với Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Legan%C3%A9s%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
       "pubdate": "Mon, 25 Nov 2024 00:00:00 +0700"
@@ -35,11 +45,6 @@
       "title": "Mu vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mu%20vs",
       "pubdate": "Mon, 25 Nov 2024 21:00:00 +0700"
-    },
-    {
-      "title": "Al-Gharafa đấu với Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Al-Gharafa%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Al-Nassr",
-      "pubdate": "Mon, 25 Nov 2024 23:00:00 +0700"
     },
     {
       "title": "Napoli đấu với Roma",
@@ -67,14 +72,14 @@
       "pubdate": "Mon, 25 Nov 2024 08:00:00 +0700"
     },
     {
-      "title": "Lee Ji Ah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lee%20Ji%20Ah",
-      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0700"
-    },
-    {
       "title": "Clash of clans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Clash%20of%20clans",
       "pubdate": "Mon, 25 Nov 2024 20:00:00 +0700"
+    },
+    {
+      "title": "Lee Ji Ah",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lee%20Ji%20Ah",
+      "pubdate": "Mon, 25 Nov 2024 10:00:00 +0700"
     },
     {
       "title": "Liver",
@@ -82,24 +87,19 @@
       "pubdate": "Mon, 25 Nov 2024 00:00:00 +0700"
     },
     {
-      "title": "Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fiorentina",
-      "pubdate": "Mon, 25 Nov 2024 12:00:00 +0700"
-    },
-    {
       "title": "Nguyễn Văn Thể",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20V%C4%83n%20Th%E1%BB%83",
       "pubdate": "Mon, 25 Nov 2024 21:00:00 +0700"
     },
     {
+      "title": "Phim Wicked",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Phim%20Wicked",
+      "pubdate": "Mon, 25 Nov 2024 15:00:00 +0700"
+    },
+    {
       "title": "Ipswich Town đấu với Man Utd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ipswich%20Town%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
       "pubdate": "Sun, 24 Nov 2024 07:00:00 +0700"
-    },
-    {
-      "title": "Southampton đấu với Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Southampton%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Liverpool",
-      "pubdate": "Sun, 24 Nov 2024 21:00:00 +0700"
     }
   ]
 }
