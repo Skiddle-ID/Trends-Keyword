@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2024 , 11:35:48",
+  "lastUpdate": "26-11-2024 , 13:01:57",
   "data": [
     {
       "title": "Ruto",
@@ -7,19 +7,14 @@
       "pubdate": "Tue, 26 Nov 2024 10:00:00 +0300"
     },
     {
-      "title": "Liverpool vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Real%20Madrid",
-      "pubdate": "Tue, 26 Nov 2024 11:00:00 +0300"
+      "title": "Sporting vs Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sporting%20vs%20Arsenal",
+      "pubdate": "Tue, 26 Nov 2024 12:00:00 +0300"
     },
     {
       "title": "Warriors vs Nets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Warriors%20vs%20Nets",
       "pubdate": "Tue, 26 Nov 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Sporting vs Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sporting%20vs%20Arsenal",
-      "pubdate": "Tue, 26 Nov 2024 12:00:00 +0300"
     },
     {
       "title": "Newcastle vs West Ham",
@@ -57,11 +52,6 @@
       "pubdate": "Mon, 25 Nov 2024 20:00:00 +0300"
     },
     {
-      "title": "Adani Group Kenya deal cancellation",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adani%20Group%20Kenya%20deal%20cancellation",
-      "pubdate": "Mon, 25 Nov 2024 00:00:00 +0300"
-    },
-    {
       "title": "Man u vs Ipswich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20u%20vs%20Ipswich",
       "pubdate": "Sun, 24 Nov 2024 14:00:00 +0300"
@@ -92,6 +82,11 @@
       "pubdate": "Sun, 24 Nov 2024 12:00:00 +0300"
     },
     {
+      "title": "Liverpool vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Real%20Madrid",
+      "pubdate": "Sun, 24 Nov 2024 20:00:00 +0300"
+    },
+    {
       "title": "Manchester",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester",
       "pubdate": "Sun, 24 Nov 2024 21:00:00 +0300"
@@ -100,6 +95,11 @@
       "title": "Steve Cooper",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Steve%20Cooper",
       "pubdate": "Sun, 24 Nov 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Formula 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Formula%201",
+      "pubdate": "Sun, 24 Nov 2024 14:00:00 +0300"
     }
   ]
 }
