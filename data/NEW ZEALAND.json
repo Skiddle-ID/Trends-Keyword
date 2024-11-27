@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "26-11-2024 , 23:37:41",
+  "lastUpdate": "27-11-2024 , 02:11:01",
   "data": [
-    {
-      "title": "UEFA Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UEFA%20Champions%20League",
-      "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
-    },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
       "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
     },
     {
-      "title": "Grille",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grille",
-      "pubdate": "Wed, 27 Nov 2024 09:00:00 +1300"
+      "title": "OCR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
+      "pubdate": "Wed, 27 Nov 2024 11:00:00 +1300"
     },
     {
       "title": "UCL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UCL",
       "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
+    },
+    {
+      "title": "Grille",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grille",
+      "pubdate": "Wed, 27 Nov 2024 09:00:00 +1300"
     },
     {
       "title": "Zimbabwe vs Pakistan",
@@ -32,9 +32,19 @@
       "pubdate": "Wed, 27 Nov 2024 01:00:00 +1300"
     },
     {
+      "title": "Earthquake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+      "pubdate": "Wed, 27 Nov 2024 12:00:00 +1300"
+    },
+    {
       "title": "Nicky Kaye",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicky%20Kaye",
       "pubdate": "Tue, 26 Nov 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
+      "pubdate": "Tue, 26 Nov 2024 15:00:00 +1300"
     },
     {
       "title": "Eloise",
@@ -42,9 +52,9 @@
       "pubdate": "Tue, 26 Nov 2024 06:00:00 +1300"
     },
     {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
-      "pubdate": "Tue, 26 Nov 2024 15:00:00 +1300"
+      "title": "SolarZero",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SolarZero",
+      "pubdate": "Tue, 26 Nov 2024 23:00:00 +1300"
     },
     {
       "title": "Lululemon",
@@ -90,16 +100,6 @@
       "title": "Kate Nash",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kate%20Nash",
       "pubdate": "Tue, 26 Nov 2024 21:00:00 +1300"
-    },
-    {
-      "title": "Chess",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chess",
-      "pubdate": "Mon, 25 Nov 2024 01:00:00 +1300"
-    },
-    {
-      "title": "Ipswich Town vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ipswich%20Town%20vs%20Man%20United",
-      "pubdate": "Mon, 25 Nov 2024 07:00:00 +1300"
     }
   ]
 }

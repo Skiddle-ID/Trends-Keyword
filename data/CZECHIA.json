@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-11-2024 , 23:37:35",
+  "lastUpdate": "27-11-2024 , 02:10:57",
   "data": [
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+      "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
+    },
     {
       "title": "Národní divadlo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#N%C3%A1rodn%C3%AD%20divadlo",
@@ -17,9 +22,9 @@
       "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Ivan Trojan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Trojan",
-      "pubdate": "Tue, 26 Nov 2024 08:00:00 +0100"
+      "title": "Slovan Bratislava – AC Milán",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovan%20Bratislava%20%E2%80%93%20AC%20Mil%C3%A1n",
+      "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
     },
     {
       "title": "JIP",
@@ -27,9 +32,9 @@
       "pubdate": "Tue, 26 Nov 2024 15:00:00 +0100"
     },
     {
-      "title": "Slovan Bratislava – AC Milán",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovan%20Bratislava%20%E2%80%93%20AC%20Mil%C3%A1n",
-      "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
+      "title": "Ivan Trojan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Trojan",
+      "pubdate": "Tue, 26 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Jana Boušková",
@@ -95,11 +100,6 @@
       "title": "Leganes – Real",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leganes%20%E2%80%93%20Real",
       "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Slavia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
-      "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
     }
   ]
 }
