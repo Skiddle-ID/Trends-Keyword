@@ -1,1 +1,1 @@
-Palmeiras,Desporto,Atlético-MG  Juventude,Fluminense,Inflação,Ponte Vasco da Gama,Gabriel Magalhães,Santana Lopes,Sporting FC,Dolly Parton,Inter  RB Leipzig,Neemias Queta,City  Feyenoord,City,Bayern  PSG,Flamengo,Benfica jogos,Sparta Praga  Atlético Madrid,Slovan Bratislava  Milan,Barcelona
+Palmeiras,Desporto,Liga Europa,Ponte Vasco da Gama,Atlético-MG  Juventude,Fluminense,Inflação,Gabriel Magalhães,Monaco fc,Santana Lopes,Sporting FC,João Pereira,Dolly Parton,Inter  RB Leipzig,UEFA,Neemias Queta,City  Feyenoord,City,Bayern  PSG,Flamengo
