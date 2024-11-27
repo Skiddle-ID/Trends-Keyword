@@ -1,1 +1,1 @@
-Brasileirao,Ponte Vasco da Gama,Liga Europa,Atlético-MG  Juventude,Antena 1,Fluminense,Gabriel Magalhães,Inflação,Santana Lopes,João Pereira,Sporting FC,Dolly Parton,Inter  RB Leipzig,UEFA,Boaventura de Sousa Santos,Maria Botelho Moniz,Neemias Queta,Benfica,City  Feyenoord,Sporting Clube de Portugal
+Brasileirao,Flamengo,Ponte Vasco da Gama,Real Madrid,Liga Europa,Desporto,Atlético-MG  Juventude,Antena 1,Sport Lisboa e Benfica,Fluminense,Monaco fc,Gabriel Magalhães,Patricia Tavares,Inflação,Maria Botelho Moniz,Santana Lopes,João Pereira,Sporting FC,Hjulmand,SAPO Desporto
