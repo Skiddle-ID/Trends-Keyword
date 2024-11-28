@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "27-11-2024 , 23:37:17",
+  "lastUpdate": "28-11-2024 , 02:10:53",
   "data": [
+    {
+      "title": "New Zealand vs England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20England",
+      "pubdate": "Thu, 28 Nov 2024 11:00:00 +1300"
+    },
     {
       "title": "Candace Owens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Candace%20Owens",
-      "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
-    },
-    {
-      "title": "Chock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chock",
       "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
@@ -17,9 +17,9 @@
       "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
-      "title": "New Zealand vs England",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20England",
-      "pubdate": "Thu, 28 Nov 2024 11:00:00 +1300"
+      "title": "Chock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chock",
+      "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
       "title": "Arsenic",
@@ -27,9 +27,14 @@
       "pubdate": "Thu, 28 Nov 2024 10:00:00 +1300"
     },
     {
-      "title": "Liverpool vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Real%20Madrid",
-      "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
+      "title": "Highly Suspect",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highly%20Suspect",
+      "pubdate": "Thu, 28 Nov 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
+      "pubdate": "Wed, 27 Nov 2024 11:00:00 +1300"
     },
     {
       "title": "Arsenal",
@@ -37,19 +42,9 @@
       "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
     },
     {
-      "title": "Grille",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grille",
-      "pubdate": "Wed, 27 Nov 2024 09:00:00 +1300"
-    },
-    {
       "title": "South Africa vs Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Sri%20Lanka",
       "pubdate": "Wed, 27 Nov 2024 22:00:00 +1300"
-    },
-    {
-      "title": "Zimbabwe vs Pakistan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zimbabwe%20vs%20Pakistan",
-      "pubdate": "Wed, 27 Nov 2024 01:00:00 +1300"
     },
     {
       "title": "Spotify Wrapped 2024",
@@ -57,9 +52,9 @@
       "pubdate": "Wed, 27 Nov 2024 18:00:00 +1300"
     },
     {
-      "title": "Kiwibank mortgage rates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kiwibank%20mortgage%20rates",
-      "pubdate": "Wed, 27 Nov 2024 19:00:00 +1300"
+      "title": "Zimbabwe vs Pakistan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zimbabwe%20vs%20Pakistan",
+      "pubdate": "Wed, 27 Nov 2024 01:00:00 +1300"
     },
     {
       "title": "Earthquake",
@@ -82,8 +77,8 @@
       "pubdate": "Wed, 27 Nov 2024 16:00:00 +1300"
     },
     {
-      "title": "Mortgage Rates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortgage%20Rates",
+      "title": "Interest Rates",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Interest%20Rates",
       "pubdate": "Wed, 27 Nov 2024 22:00:00 +1300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Nicky Kaye",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicky%20Kaye",
       "pubdate": "Tue, 26 Nov 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
+      "pubdate": "Tue, 26 Nov 2024 15:00:00 +1300"
     }
   ]
 }
