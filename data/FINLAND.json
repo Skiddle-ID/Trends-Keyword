@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 11:36:21",
+  "lastUpdate": "28-11-2024 , 13:02:15",
   "data": [
     {
       "title": "Thanksgiving",
@@ -7,9 +7,19 @@
       "pubdate": "Thu, 28 Nov 2024 02:00:00 +0200"
     },
     {
+      "title": "HUS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HUS",
+      "pubdate": "Thu, 28 Nov 2024 14:00:00 +0200"
+    },
+    {
       "title": "Sami Pajari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sami%20Pajari",
       "pubdate": "Thu, 28 Nov 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Keith Kellogg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Keith%20Kellogg",
+      "pubdate": "Thu, 28 Nov 2024 13:00:00 +0200"
     },
     {
       "title": "Manchester City – Feyenoord",
@@ -90,16 +100,6 @@
       "title": "Newcastle United – West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20West%20Ham",
       "pubdate": "Tue, 26 Nov 2024 08:00:00 +0200"
-    },
-    {
-      "title": "Sea Story",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sea%20Story",
-      "pubdate": "Tue, 26 Nov 2024 13:00:00 +0200"
-    },
-    {
-      "title": "Outlook",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Outlook",
-      "pubdate": "Mon, 25 Nov 2024 13:00:00 +0200"
     }
   ]
 }

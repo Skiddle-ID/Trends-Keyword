@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 11:36:24",
+  "lastUpdate": "28-11-2024 , 13:02:19",
   "data": [
     {
       "title": "Silvia Pinal",
@@ -27,14 +27,9 @@
       "pubdate": "Thu, 28 Nov 2024 00:00:00 -0600"
     },
     {
-      "title": "Frente frío",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Frente%20fr%C3%ADo",
+      "title": "Frente Frío",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Frente%20Fr%C3%ADo",
       "pubdate": "Thu, 28 Nov 2024 00:00:00 -0600"
-    },
-    {
-      "title": "Fallece Claudio Isaac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fallece%20Claudio%20Isaac",
-      "pubdate": "Thu, 28 Nov 2024 04:00:00 -0600"
     },
     {
       "title": "América  Toluca",
@@ -54,12 +49,17 @@
     {
       "title": "Partidos de Liga MX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Partidos%20de%20Liga%20MX",
-      "pubdate": "Wed, 27 Nov 2024 22:00:00 -0600"
+      "pubdate": "Wed, 27 Nov 2024 19:00:00 -0600"
     },
     {
       "title": "Aston Villa - Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20-%20Juventus",
       "pubdate": "Wed, 27 Nov 2024 14:00:00 -0600"
+    },
+    {
+      "title": "Tigres",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres",
+      "pubdate": "Wed, 27 Nov 2024 21:00:00 -0600"
     },
     {
       "title": "PSV  Shakhtar",
@@ -87,11 +87,6 @@
       "pubdate": "Wed, 27 Nov 2024 14:00:00 -0600"
     },
     {
-      "title": "Tigres vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs",
-      "pubdate": "Wed, 27 Nov 2024 21:00:00 -0600"
-    },
-    {
       "title": "Sturm  Girona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sturm%20%20Girona",
       "pubdate": "Wed, 27 Nov 2024 13:00:00 -0600"
@@ -100,6 +95,11 @@
       "title": "Resultados beca de aprovechamiento",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Resultados%20beca%20de%20aprovechamiento",
       "pubdate": "Wed, 27 Nov 2024 14:00:00 -0600"
+    },
+    {
+      "title": "Reik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Reik",
+      "pubdate": "Wed, 27 Nov 2024 00:00:00 -0600"
     }
   ]
 }
