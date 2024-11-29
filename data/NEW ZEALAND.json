@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 23:36:42",
+  "lastUpdate": "29-11-2024 , 02:10:39",
   "data": [
     {
       "title": "Europa League",
@@ -7,13 +7,23 @@
       "pubdate": "Fri, 29 Nov 2024 08:00:00 +1300"
     },
     {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NFL",
+      "pubdate": "Fri, 29 Nov 2024 12:00:00 +1300"
+    },
+    {
+      "title": "Tottenham vs Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Roma",
+      "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
+    },
+    {
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
       "pubdate": "Fri, 29 Nov 2024 09:00:00 +1300"
     },
     {
-      "title": "Tottenham vs Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Roma",
+      "title": "Gregg Wallace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gregg%20Wallace",
       "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
     },
     {
@@ -22,9 +32,9 @@
       "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
     },
     {
-      "title": "Gregg Wallace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gregg%20Wallace",
-      "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
+      "title": "Liz Hatton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liz%20Hatton",
+      "pubdate": "Fri, 29 Nov 2024 13:00:00 +1300"
     },
     {
       "title": "The Spinoff",
@@ -32,9 +42,9 @@
       "pubdate": "Fri, 29 Nov 2024 00:00:00 +1300"
     },
     {
-      "title": "New Zealand vs England",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%20vs%20England",
-      "pubdate": "Thu, 28 Nov 2024 11:00:00 +1300"
+      "title": "Black Caps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
+      "pubdate": "Thu, 28 Nov 2024 12:00:00 +1300"
     },
     {
       "title": "Liverpool vs Real Madrid",
@@ -47,13 +57,13 @@
       "pubdate": "Thu, 28 Nov 2024 14:00:00 +1300"
     },
     {
-      "title": "Candace Owens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Candace%20Owens",
+      "title": "Chock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chock",
       "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
-      "title": "Alexandra vincent Martelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alexandra%20vincent%20Martelli",
+      "title": "Candace Owens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Candace%20Owens",
       "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Highly Suspect",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highly%20Suspect",
       "pubdate": "Thu, 28 Nov 2024 12:00:00 +1300"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-      "pubdate": "Wed, 27 Nov 2024 11:00:00 +1300"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-      "pubdate": "Wed, 27 Nov 2024 10:00:00 +1300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 23:36:35",
+  "lastUpdate": "29-11-2024 , 02:10:34",
   "data": [
     {
       "title": "NFL",
@@ -12,29 +12,54 @@
       "pubdate": "Thu, 28 Nov 2024 01:00:00 -0500"
     },
     {
-      "title": "Detroit Lions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20Lions",
+      "title": "Bears vs Lions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bears%20vs%20Lions",
+      "pubdate": "Thu, 28 Nov 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Detroit lions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Detroit%20lions",
       "pubdate": "Thu, 28 Nov 2024 12:00:00 -0500"
     },
     {
-      "title": "Man United vs bodø/glimt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20bod%C3%B8/glimt",
-      "pubdate": "Thu, 28 Nov 2024 15:00:00 -0500"
+      "title": "Giants vs Cowboys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Giants%20vs%20Cowboys",
+      "pubdate": "Thu, 28 Nov 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Snowfall warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snowfall%20warning",
+      "pubdate": "Thu, 28 Nov 2024 05:00:00 -0500"
     },
     {
       "title": "Winnipeg Jets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-      "pubdate": "Thu, 28 Nov 2024 07:00:00 -0500"
+      "pubdate": "Thu, 28 Nov 2024 09:00:00 -0500"
     },
     {
-      "title": "Heidenheim vs Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Heidenheim%20vs%20Chelsea",
+      "title": "Tottenham vs Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Roma",
+      "pubdate": "Thu, 28 Nov 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Catherine Fournier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Catherine%20Fournier",
+      "pubdate": "Thu, 28 Nov 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Snow squall warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snow%20squall%20warning",
+      "pubdate": "Thu, 28 Nov 2024 08:00:00 -0500"
+    },
+    {
+      "title": "When is Thanksgiving in Canada",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#When%20is%20Thanksgiving%20in%20Canada",
       "pubdate": "Thu, 28 Nov 2024 13:00:00 -0500"
     },
     {
-      "title": "Lindsay Lohan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lindsay%20Lohan",
-      "pubdate": "Thu, 28 Nov 2024 00:00:00 -0500"
+      "title": "DAZN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DAZN",
+      "pubdate": "Thu, 28 Nov 2024 17:00:00 -0500"
     },
     {
       "title": "Flames",
@@ -47,19 +72,14 @@
       "pubdate": "Thu, 28 Nov 2024 00:00:00 -0500"
     },
     {
-      "title": "DAZN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DAZN",
-      "pubdate": "Thu, 28 Nov 2024 17:00:00 -0500"
-    },
-    {
-      "title": "When is Thanksgiving in Canada",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#When%20is%20Thanksgiving%20in%20Canada",
-      "pubdate": "Thu, 28 Nov 2024 13:00:00 -0500"
-    },
-    {
       "title": "Happy thanksgiving",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Happy%20thanksgiving",
       "pubdate": "Thu, 28 Nov 2024 09:00:00 -0500"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chelsea",
+      "pubdate": "Thu, 28 Nov 2024 13:00:00 -0500"
     },
     {
       "title": "Shaboozey",
@@ -67,39 +87,19 @@
       "pubdate": "Thu, 28 Nov 2024 15:00:00 -0500"
     },
     {
+      "title": "Macy's Thanksgiving parade",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Macy's%20Thanksgiving%20parade",
+      "pubdate": "Thu, 28 Nov 2024 18:00:00 -0500"
+    },
+    {
       "title": "Costco eggs recall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Costco%20eggs%20recall",
       "pubdate": "Thu, 28 Nov 2024 13:00:00 -0500"
     },
     {
-      "title": "Connor Bedard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20Bedard",
-      "pubdate": "Thu, 28 Nov 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Sidney Crosby",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sidney%20Crosby",
-      "pubdate": "Thu, 28 Nov 2024 02:00:00 -0500"
-    },
-    {
-      "title": "Canadian Thanksgiving",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadian%20Thanksgiving",
-      "pubdate": "Thu, 28 Nov 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mbappe",
-      "pubdate": "Thu, 28 Nov 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Karine Vanasse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Karine%20Vanasse",
-      "pubdate": "Thu, 28 Nov 2024 15:00:00 -0500"
-    },
-    {
-      "title": "David Montgomery",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Montgomery",
-      "pubdate": "Thu, 28 Nov 2024 15:00:00 -0500"
+      "title": "Drew Lock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drew%20Lock",
+      "pubdate": "Thu, 28 Nov 2024 18:00:00 -0500"
     }
   ]
 }

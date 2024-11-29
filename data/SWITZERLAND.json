@@ -1,9 +1,19 @@
 {
-  "lastUpdate": "28-11-2024 , 23:36:45",
+  "lastUpdate": "29-11-2024 , 02:10:42",
   "data": [
     {
-      "title": "St.Gallen – Backa Topola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20Backa%20Topola",
+      "title": "Black Friday Deals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Black%20Friday%20Deals",
+      "pubdate": "Fri, 29 Nov 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Apple Black Friday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20Black%20Friday",
+      "pubdate": "Fri, 29 Nov 2024 01:00:00 +0100"
+    },
+    {
+      "title": "St. Gallen – Backa Topola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.%20Gallen%20%E2%80%93%20Backa%20Topola",
       "pubdate": "Thu, 28 Nov 2024 18:00:00 +0100"
     },
     {
@@ -27,8 +37,8 @@
       "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
     },
     {
-      "title": "FC Lugano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
+      "title": "Lugano – Gent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Gent",
       "pubdate": "Thu, 28 Nov 2024 21:00:00 +0100"
     },
     {
@@ -47,14 +57,19 @@
       "pubdate": "Thu, 28 Nov 2024 10:00:00 +0100"
     },
     {
-      "title": "Keith Kellogg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Keith%20Kellogg",
-      "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
+      "title": "Marcus Signer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marcus%20Signer",
+      "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
     },
     {
       "title": "Marine Vlahovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marine%20Vlahovic",
       "pubdate": "Thu, 28 Nov 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Keith Kellogg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Keith%20Kellogg",
+      "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
     },
     {
       "title": "Gerard Darmon",
@@ -85,21 +100,6 @@
       "title": "Sion sous les étoiles 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sion%20sous%20les%20%C3%A9toiles%202025",
       "pubdate": "Thu, 28 Nov 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Liverpool – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Wed, 27 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa",
-      "pubdate": "Wed, 27 Nov 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-      "pubdate": "Wed, 27 Nov 2024 13:00:00 +0100"
     }
   ]
 }
