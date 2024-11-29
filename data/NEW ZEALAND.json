@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2024 , 11:35:57",
+  "lastUpdate": "29-11-2024 , 13:01:23",
   "data": [
     {
       "title": "Europa League",
@@ -32,14 +32,14 @@
       "pubdate": "Fri, 29 Nov 2024 09:00:00 +1300"
     },
     {
-      "title": "Silicon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silicon",
-      "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
-    },
-    {
       "title": "Auckland Airport security breach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Airport%20security%20breach",
       "pubdate": "Fri, 29 Nov 2024 18:00:00 +1300"
+    },
+    {
+      "title": "Silicon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Silicon",
+      "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
     },
     {
       "title": "NCEA",
@@ -52,13 +52,8 @@
       "pubdate": "Fri, 29 Nov 2024 13:00:00 +1300"
     },
     {
-      "title": "Australian open Golf",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australian%20open%20Golf",
-      "pubdate": "Fri, 29 Nov 2024 11:00:00 +1300"
-    },
-    {
-      "title": "Black Friday deals",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Friday%20deals",
+      "title": "Christmas in the Park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christmas%20in%20the%20Park",
       "pubdate": "Fri, 29 Nov 2024 19:00:00 +1300"
     },
     {
@@ -67,8 +62,8 @@
       "pubdate": "Fri, 29 Nov 2024 16:00:00 +1300"
     },
     {
-      "title": "Christmas in the Park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christmas%20in%20the%20Park",
+      "title": "Black Friday deals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Friday%20deals",
       "pubdate": "Fri, 29 Nov 2024 19:00:00 +1300"
     },
     {
@@ -99,6 +94,11 @@
     {
       "title": "Chock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chock",
+      "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
+    },
+    {
+      "title": "Candace Owens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Candace%20Owens",
       "pubdate": "Thu, 28 Nov 2024 08:00:00 +1300"
     }
   ]
