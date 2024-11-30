@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2024 , 11:35:57",
+  "lastUpdate": "30-11-2024 , 12:57:16",
   "data": [
     {
       "title": "ByteDance food poisoning Singapore",
@@ -7,9 +7,24 @@
       "pubdate": "Sat, 30 Nov 2024 09:00:00 +0800"
     },
     {
+      "title": "Bob Bryar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bob%20Bryar",
+      "pubdate": "Sat, 30 Nov 2024 20:00:00 +0800"
+    },
+    {
+      "title": "Tapir",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tapir",
+      "pubdate": "Sat, 30 Nov 2024 19:00:00 +0800"
+    },
+    {
       "title": "Man United vs bodø/glimt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20bod%C3%B8/glimt",
       "pubdate": "Fri, 29 Nov 2024 04:00:00 +0800"
+    },
+    {
+      "title": "Man Utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20Utd",
+      "pubdate": "Fri, 29 Nov 2024 07:00:00 +0800"
     },
     {
       "title": "Justin Sun",
@@ -72,11 +87,6 @@
       "pubdate": "Thu, 28 Nov 2024 14:00:00 +0800"
     },
     {
-      "title": "Happy thanksgiving",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20thanksgiving",
-      "pubdate": "Thu, 28 Nov 2024 21:00:00 +0800"
-    },
-    {
       "title": "Moana 2 Singapore",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Moana%202%20Singapore",
       "pubdate": "Thu, 28 Nov 2024 09:00:00 +0800"
@@ -90,16 +100,6 @@
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
       "pubdate": "Wed, 27 Nov 2024 10:00:00 +0800"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-      "pubdate": "Wed, 27 Nov 2024 07:00:00 +0800"
-    },
-    {
-      "title": "Seoul",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Seoul",
-      "pubdate": "Wed, 27 Nov 2024 21:00:00 +0800"
     }
   ]
 }

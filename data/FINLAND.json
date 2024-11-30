@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "30-11-2024 , 11:35:51",
+  "lastUpdate": "30-11-2024 , 12:57:11",
   "data": [
+    {
+      "title": "Bob Bryar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bob%20Bryar",
+      "pubdate": "Sat, 30 Nov 2024 13:00:00 +0200"
+    },
     {
       "title": "Aleppo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aleppo",
@@ -12,9 +17,9 @@
       "pubdate": "Sat, 30 Nov 2024 02:00:00 +0200"
     },
     {
-      "title": "Elisa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elisa",
-      "pubdate": "Fri, 29 Nov 2024 07:00:00 +0200"
+      "title": "Coop",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coop",
+      "pubdate": "Sat, 30 Nov 2024 14:00:00 +0200"
     },
     {
       "title": "ANI",
@@ -47,14 +52,19 @@
       "pubdate": "Fri, 29 Nov 2024 08:00:00 +0200"
     },
     {
-      "title": "Manu – bodø/glimt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manu%20%E2%80%93%20bod%C3%B8/glimt",
-      "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
+      "pubdate": "Fri, 29 Nov 2024 08:00:00 +0200"
     },
     {
       "title": "Thanksgiving 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Thanksgiving%202024",
       "pubdate": "Thu, 28 Nov 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Manu – bodø/glimt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manu%20%E2%80%93%20bod%C3%B8/glimt",
+      "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
     },
     {
       "title": "Thanksgiving",
@@ -65,11 +75,6 @@
       "title": "Whitney Houston",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Whitney%20Houston",
       "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Sanni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sanni",
-      "pubdate": "Thu, 28 Nov 2024 19:00:00 +0200"
     },
     {
       "title": "Liz Hatton",
@@ -95,11 +100,6 @@
       "title": "Rodney Alcala",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rodney%20Alcala",
       "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Liverpool – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Wed, 27 Nov 2024 16:00:00 +0200"
     }
   ]
 }

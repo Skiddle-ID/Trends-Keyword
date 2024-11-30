@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "30-11-2024 , 11:35:55",
+  "lastUpdate": "30-11-2024 , 12:57:14",
   "data": [
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
-      "pubdate": "Sat, 30 Nov 2024 00:00:00 -0600"
-    },
     {
       "title": "Bob Bryar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bob%20Bryar",
+      "pubdate": "Sat, 30 Nov 2024 00:00:00 -0600"
+    },
+    {
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
       "pubdate": "Sat, 30 Nov 2024 00:00:00 -0600"
     },
     {
@@ -42,11 +42,6 @@
       "pubdate": "Fri, 29 Nov 2024 01:00:00 -0600"
     },
     {
-      "title": "Silvia Pinal de joven",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Silvia%20Pinal%20de%20joven",
-      "pubdate": "Fri, 29 Nov 2024 12:00:00 -0600"
-    },
-    {
       "title": "RCD Mallorca - Valencia CF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#RCD%20Mallorca%20-%20Valencia%20CF",
       "pubdate": "Fri, 29 Nov 2024 15:00:00 -0600"
@@ -55,6 +50,11 @@
       "title": "Brighton  Southampton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Southampton",
       "pubdate": "Fri, 29 Nov 2024 15:00:00 -0600"
+    },
+    {
+      "title": "Silvia Pinal de joven",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Silvia%20Pinal%20de%20joven",
+      "pubdate": "Fri, 29 Nov 2024 13:00:00 -0600"
     },
     {
       "title": "Josh Allen",

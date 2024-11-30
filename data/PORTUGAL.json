@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "30-11-2024 , 11:35:56",
+  "lastUpdate": "30-11-2024 , 12:57:15",
   "data": [
-    {
-      "title": "Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga",
-      "pubdate": "Sat, 30 Nov 2024 07:00:00 +0000"
-    },
     {
       "title": "Brighton  Southampton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brighton%20%20Southampton",
@@ -47,6 +42,16 @@
       "pubdate": "Fri, 29 Nov 2024 23:00:00 +0000"
     },
     {
+      "title": "Liga nos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20nos",
+      "pubdate": "Fri, 29 Nov 2024 23:00:00 +0000"
+    },
+    {
+      "title": "Botafogo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+      "pubdate": "Fri, 29 Nov 2024 14:00:00 +0000"
+    },
+    {
       "title": "Mario",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mario",
       "pubdate": "Fri, 29 Nov 2024 21:00:00 +0000"
@@ -67,18 +72,8 @@
       "pubdate": "Fri, 29 Nov 2024 08:00:00 +0000"
     },
     {
-      "title": "Liga nos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20nos",
-      "pubdate": "Fri, 29 Nov 2024 23:00:00 +0000"
-    },
-    {
       "title": "Assembleia da República",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Assembleia%20da%20Rep%C3%BAblica",
-      "pubdate": "Fri, 29 Nov 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Libertadores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Libertadores",
       "pubdate": "Fri, 29 Nov 2024 14:00:00 +0000"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Quando sai o Spotify Wrapped 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quando%20sai%20o%20Spotify%20Wrapped%202024",
       "pubdate": "Fri, 29 Nov 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Antonio Costa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antonio%20Costa",
+      "pubdate": "Fri, 29 Nov 2024 18:00:00 +0000"
     }
   ]
 }
