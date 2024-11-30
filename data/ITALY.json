@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "29-11-2024 , 23:36:40",
+  "lastUpdate": "30-11-2024 , 02:07:10",
   "data": [
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Europa%20League",
-      "pubdate": "Fri, 29 Nov 2024 20:00:00 +0100"
-    },
     {
       "title": "Cagliari Calcio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cagliari%20Calcio",
       "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Europa%20League",
+      "pubdate": "Fri, 29 Nov 2024 20:00:00 +0100"
     },
     {
       "title": "Conference League",
@@ -27,6 +27,11 @@
       "pubdate": "Fri, 29 Nov 2024 20:00:00 +0100"
     },
     {
+      "title": "KTM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#KTM",
+      "pubdate": "Fri, 29 Nov 2024 23:00:00 +0100"
+    },
+    {
       "title": "Francamente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francamente",
       "pubdate": "Fri, 29 Nov 2024 07:00:00 +0100"
@@ -37,19 +42,9 @@
       "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
     },
     {
-      "title": "KTM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#KTM",
-      "pubdate": "Fri, 29 Nov 2024 23:00:00 +0100"
-    },
-    {
       "title": "Ayrton Senna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ayrton%20Senna",
       "pubdate": "Fri, 29 Nov 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Puccini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Puccini",
-      "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
     },
     {
       "title": "Theo Hernandez",
@@ -57,9 +52,19 @@
       "pubdate": "Fri, 29 Nov 2024 21:00:00 +0100"
     },
     {
+      "title": "Puccini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Puccini",
+      "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
+    },
+    {
       "title": "Alaska Baby Cesare Cremonini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alaska%20Baby%20Cesare%20Cremonini",
       "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Verratti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verratti",
+      "pubdate": "Fri, 29 Nov 2024 14:00:00 +0100"
     },
     {
       "title": "Salmonella",
@@ -67,14 +72,14 @@
       "pubdate": "Fri, 29 Nov 2024 09:00:00 +0100"
     },
     {
-      "title": "Virtus Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna",
-      "pubdate": "Fri, 29 Nov 2024 06:00:00 +0100"
-    },
-    {
       "title": "Pino Daniele",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pino%20Daniele",
       "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Virtus Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna",
+      "pubdate": "Fri, 29 Nov 2024 06:00:00 +0100"
     },
     {
       "title": "Diesel",
@@ -95,11 +100,6 @@
       "title": "Estrazioni Lotto 10eLotto SuperEnalotto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Estrazioni%20Lotto%2010eLotto%20SuperEnalotto",
       "pubdate": "Fri, 29 Nov 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Carmen Consoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carmen%20Consoli",
-      "pubdate": "Fri, 29 Nov 2024 00:00:00 +0100"
     }
   ]
 }

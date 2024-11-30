@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "29-11-2024 , 23:36:44",
+  "lastUpdate": "30-11-2024 , 02:07:15",
   "data": [
+    {
+      "title": "Halep",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Halep",
+      "pubdate": "Sat, 30 Nov 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Hüseyin Yücel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#H%C3%BCseyin%20Y%C3%BCcel",
+      "pubdate": "Sat, 30 Nov 2024 02:00:00 +0300"
+    },
     {
       "title": "Süt helvası",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%BCt%20helvas%C4%B1",
@@ -67,14 +77,14 @@
       "pubdate": "Fri, 29 Nov 2024 14:00:00 +0300"
     },
     {
-      "title": "İl Emniyet Müdürü",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Emniyet%20M%C3%BCd%C3%BCr%C3%BC",
-      "pubdate": "Fri, 29 Nov 2024 10:00:00 +0300"
-    },
-    {
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Nassr",
       "pubdate": "Fri, 29 Nov 2024 20:00:00 +0300"
+    },
+    {
+      "title": "İl Emniyet Müdürü",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0l%20Emniyet%20M%C3%BCd%C3%BCr%C3%BC",
+      "pubdate": "Fri, 29 Nov 2024 10:00:00 +0300"
     },
     {
       "title": "En-Nesyri",
@@ -90,16 +100,6 @@
       "title": "Tadic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tadic",
       "pubdate": "Fri, 29 Nov 2024 02:00:00 +0300"
-    },
-    {
-      "title": "Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Roma",
-      "pubdate": "Fri, 29 Nov 2024 00:00:00 +0300"
-    },
-    {
-      "title": "Bayhan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayhan",
-      "pubdate": "Fri, 29 Nov 2024 11:00:00 +0300"
     }
   ]
 }

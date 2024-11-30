@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "29-11-2024 , 23:36:41",
+  "lastUpdate": "30-11-2024 , 02:07:11",
   "data": [
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Nassr",
-      "pubdate": "Sat, 30 Nov 2024 00:00:00 +0800"
-    },
     {
       "title": "Brighton vs Southampton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Southampton",
       "pubdate": "Sat, 30 Nov 2024 04:00:00 +0800"
+    },
+    {
+      "title": "Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Nassr",
+      "pubdate": "Sat, 30 Nov 2024 00:00:00 +0800"
     },
     {
       "title": "Heidenheim vs Chelsea",
@@ -22,14 +22,19 @@
       "pubdate": "Fri, 29 Nov 2024 04:00:00 +0800"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea",
+      "pubdate": "Fri, 29 Nov 2024 03:00:00 +0800"
+    },
+    {
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20utd",
+      "pubdate": "Fri, 29 Nov 2024 07:00:00 +0800"
+    },
+    {
       "title": "Syed Saddiq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Syed%20Saddiq",
       "pubdate": "Fri, 29 Nov 2024 17:00:00 +0800"
-    },
-    {
-      "title": "MU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU",
-      "pubdate": "Fri, 29 Nov 2024 05:00:00 +0800"
     },
     {
       "title": "UEFA Europa League",
@@ -37,14 +42,14 @@
       "pubdate": "Fri, 29 Nov 2024 00:00:00 +0800"
     },
     {
-      "title": "Conference League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Conference%20League",
-      "pubdate": "Fri, 29 Nov 2024 04:00:00 +0800"
-    },
-    {
       "title": "The Trunk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#The%20Trunk",
       "pubdate": "Fri, 29 Nov 2024 21:00:00 +0800"
+    },
+    {
+      "title": "Conference League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Conference%20League",
+      "pubdate": "Fri, 29 Nov 2024 04:00:00 +0800"
     },
     {
       "title": "Sophie Rain",
@@ -77,14 +82,14 @@
       "pubdate": "Thu, 28 Nov 2024 05:00:00 +0800"
     },
     {
-      "title": "New Zealand vs England",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20England",
-      "pubdate": "Thu, 28 Nov 2024 07:00:00 +0800"
-    },
-    {
       "title": "NewJeans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#NewJeans",
       "pubdate": "Thu, 28 Nov 2024 21:00:00 +0800"
+    },
+    {
+      "title": "New Zealand vs England",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20England",
+      "pubdate": "Thu, 28 Nov 2024 07:00:00 +0800"
     },
     {
       "title": "Thanksgiving 2024",
@@ -95,11 +100,6 @@
       "title": "Spotify Wrapped 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Spotify%20Wrapped%202024",
       "pubdate": "Thu, 28 Nov 2024 12:00:00 +0800"
-    },
-    {
-      "title": "Thanksgiving",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thanksgiving",
-      "pubdate": "Thu, 28 Nov 2024 11:00:00 +0800"
     }
   ]
 }
