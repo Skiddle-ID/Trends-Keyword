@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 09:36:36",
+  "lastUpdate": "01-12-2024 , 10:40:47",
   "data": [
     {
       "title": "Advent",
@@ -47,11 +47,6 @@
       "pubdate": "Sat, 30 Nov 2024 16:00:00 +0100"
     },
     {
-      "title": "Eintracht Braunschweig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
-      "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
-    },
-    {
       "title": "Franca Lehfeldt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franca%20Lehfeldt",
       "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
@@ -97,8 +92,13 @@
       "pubdate": "Wed, 27 Nov 2024 22:00:00 +0100"
     },
     {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+      "title": "Angela Merkel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Angela%20Merkel",
+      "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
+    },
+    {
+      "title": "UEFA Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Champions%20League",
       "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
     }
   ]
