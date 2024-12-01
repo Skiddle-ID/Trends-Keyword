@@ -1,6 +1,31 @@
 {
-  "lastUpdate": "30-11-2024 , 23:36:56",
+  "lastUpdate": "01-12-2024 , 02:27:59",
   "data": [
+    {
+      "title": "Dun Laoghaire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dun%20Laoghaire",
+      "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Waterford election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Waterford%20election%20results",
+      "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Brian Stanley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brian%20Stanley",
+      "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Sunny Edwards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sunny%20Edwards",
+      "pubdate": "Sun, 01 Dec 2024 01:00:00 +0000"
+    },
+    {
+      "title": "Miriam O'Callaghan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Miriam%20O'Callaghan",
+      "pubdate": "Sun, 01 Dec 2024 01:00:00 +0000"
+    },
     {
       "title": "Gerry Hutch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gerry%20Hutch",
@@ -12,9 +37,19 @@
       "pubdate": "Sat, 30 Nov 2024 17:00:00 +0000"
     },
     {
+      "title": "Dublin Central",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20Central",
+      "pubdate": "Sat, 30 Nov 2024 12:00:00 +0000"
+    },
+    {
       "title": "Stephen Donnelly",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stephen%20Donnelly",
       "pubdate": "Sat, 30 Nov 2024 12:00:00 +0000"
+    },
+    {
+      "title": "Grainne Seoige",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Grainne%20Seoige",
+      "pubdate": "Sat, 30 Nov 2024 14:00:00 +0000"
     },
     {
       "title": "Barcelona vs Las Palmas",
@@ -32,14 +67,29 @@
       "pubdate": "Sat, 30 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Mary Lou McDonald",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mary%20Lou%20McDonald",
-      "pubdate": "Sat, 30 Nov 2024 20:00:00 +0000"
+      "title": "Kerry election",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kerry%20election",
+      "pubdate": "Sat, 30 Nov 2024 18:00:00 +0000"
     },
     {
-      "title": "Roderic O'Gorman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Roderic%20O'Gorman",
+      "title": "Michael Lowry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Michael%20Lowry",
+      "pubdate": "Sat, 30 Nov 2024 21:00:00 +0000"
+    },
+    {
+      "title": "Helen McEntee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Helen%20McEntee",
       "pubdate": "Sat, 30 Nov 2024 14:00:00 +0000"
+    },
+    {
+      "title": "Dublin South Central",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20South%20Central",
+      "pubdate": "Sat, 30 Nov 2024 15:00:00 +0000"
+    },
+    {
+      "title": "Dublin Central Election Results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20Central%20Election%20Results",
+      "pubdate": "Sat, 30 Nov 2024 19:00:00 +0000"
     },
     {
       "title": "Highlandradio",
@@ -47,59 +97,9 @@
       "pubdate": "Sat, 30 Nov 2024 22:00:00 +0000"
     },
     {
-      "title": "Cian Healy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cian%20Healy",
-      "pubdate": "Sat, 30 Nov 2024 15:00:00 +0000"
-    },
-    {
-      "title": "Cork South Central",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cork%20South%20Central",
-      "pubdate": "Sat, 30 Nov 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Cuala vs Ardee",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cuala%20vs%20Ardee",
-      "pubdate": "Sat, 30 Nov 2024 19:00:00 +0000"
-    },
-    {
-      "title": "Brentford vs Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Brentford%20vs%20Leicester%20City",
-      "pubdate": "Sat, 30 Nov 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Galway West",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Galway%20West",
-      "pubdate": "Sat, 30 Nov 2024 17:00:00 +0000"
-    },
-    {
       "title": "Josh Brolin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Josh%20Brolin",
       "pubdate": "Sat, 30 Nov 2024 00:00:00 +0000"
-    },
-    {
-      "title": "Dublin Bay North",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20Bay%20North",
-      "pubdate": "Sat, 30 Nov 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Cork North-West",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cork%20North-West",
-      "pubdate": "Sat, 30 Nov 2024 14:00:00 +0000"
-    },
-    {
-      "title": "Celtic vs Ross County",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic%20vs%20Ross%20County",
-      "pubdate": "Sat, 30 Nov 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Midwest Radio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Midwest%20Radio",
-      "pubdate": "Sat, 30 Nov 2024 19:00:00 +0000"
-    },
-    {
-      "title": "Crystal Palace vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Crystal%20Palace%20vs%20Newcastle",
-      "pubdate": "Sat, 30 Nov 2024 16:00:00 +0000"
     }
   ]
 }

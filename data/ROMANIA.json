@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "30-11-2024 , 23:36:59",
+  "lastUpdate": "01-12-2024 , 02:28:02",
   "data": [
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
+      "pubdate": "Sun, 01 Dec 2024 03:00:00 +0200"
+    },
     {
       "title": "Barcelona  Las Palmas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Las%20Palmas",
@@ -17,8 +22,8 @@
       "pubdate": "Sat, 30 Nov 2024 01:00:00 +0200"
     },
     {
-      "title": "Partide Alegeri parlamentare 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Partide%20Alegeri%20parlamentare%202024",
+      "title": "Partide alegeri parlamentare 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Partide%20alegeri%20parlamentare%202024",
       "pubdate": "Sat, 30 Nov 2024 00:00:00 +0200"
     },
     {
@@ -32,11 +37,6 @@
       "pubdate": "Sat, 30 Nov 2024 17:00:00 +0200"
     },
     {
-      "title": "Parada 1 decembrie 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parada%201%20decembrie%202024",
-      "pubdate": "Sat, 30 Nov 2024 15:00:00 +0200"
-    },
-    {
       "title": "Dortmund  Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dortmund%20%20Bayern",
       "pubdate": "Sat, 30 Nov 2024 19:00:00 +0200"
@@ -47,18 +47,18 @@
       "pubdate": "Sat, 30 Nov 2024 21:00:00 +0200"
     },
     {
+      "title": "Klaus Iohannis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Klaus%20Iohannis",
+      "pubdate": "Sat, 30 Nov 2024 22:00:00 +0200"
+    },
+    {
       "title": "West Ham - Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#West%20Ham%20-%20Arsenal",
       "pubdate": "Sat, 30 Nov 2024 19:00:00 +0200"
     },
     {
-      "title": "Parada 1 Decembrie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parada%201%20Decembrie",
-      "pubdate": "Sat, 30 Nov 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Iohannis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis",
+      "title": "Buletin vot parlamentare 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Buletin%20vot%20parlamentare%202024",
       "pubdate": "Sat, 30 Nov 2024 22:00:00 +0200"
     },
     {
@@ -70,6 +70,11 @@
       "title": "Valea Oltului",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Valea%20Oltului",
       "pubdate": "Sat, 30 Nov 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Renumărarea voturilor 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Renum%C4%83rarea%20voturilor%202024",
+      "pubdate": "Sat, 30 Nov 2024 20:00:00 +0200"
     },
     {
       "title": "Ana Blandiana",
@@ -95,11 +100,6 @@
       "title": "Ayrton Senna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ayrton%20Senna",
       "pubdate": "Sat, 30 Nov 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Proteste Georgia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Proteste%20Georgia",
-      "pubdate": "Sat, 30 Nov 2024 11:00:00 +0200"
     }
   ]
 }
