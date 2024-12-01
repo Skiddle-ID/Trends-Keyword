@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 11:35:45",
+  "lastUpdate": "01-12-2024 , 12:58:12",
   "data": [
     {
       "title": "Naya facil",
@@ -12,14 +12,14 @@
       "pubdate": "Sat, 30 Nov 2024 10:00:00 -0300"
     },
     {
-      "title": "Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
-      "pubdate": "Sat, 30 Nov 2024 19:00:00 -0300"
-    },
-    {
       "title": "Magallanes , Deportes Limache",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20,%20Deportes%20Limache",
       "pubdate": "Sat, 30 Nov 2024 18:00:00 -0300"
+    },
+    {
+      "title": "Rangers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
+      "pubdate": "Sat, 30 Nov 2024 19:00:00 -0300"
     },
     {
       "title": "Dortmund  Bayern",
@@ -39,6 +39,11 @@
     {
       "title": "West Ham - Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham%20-%20Arsenal",
+      "pubdate": "Sat, 30 Nov 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Final Libertadores 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Final%20Libertadores%202024",
       "pubdate": "Sat, 30 Nov 2024 15:00:00 -0300"
     },
     {
@@ -80,11 +85,6 @@
       "title": "Milan - Empoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan%20-%20Empoli",
       "pubdate": "Sat, 30 Nov 2024 15:00:00 -0300"
-    },
-    {
-      "title": "Libertadores 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Libertadores%202024",
-      "pubdate": "Sat, 30 Nov 2024 18:00:00 -0300"
     },
     {
       "title": "Red Bull Internacional 2024",
