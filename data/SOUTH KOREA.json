@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 23:36:38",
+  "lastUpdate": "02-12-2024 , 02:14:51",
   "data": [
     {
       "title": "리버풀 맨시티",
@@ -12,6 +12,11 @@
       "pubdate": "Mon, 02 Dec 2024 01:00:00 +0900"
     },
     {
+      "title": "시바이누",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8B%9C%EB%B0%94%EC%9D%B4%EB%88%84",
+      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0900"
+    },
+    {
       "title": "토트넘 대 풀럼",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98%20%EB%8C%80%20%ED%92%80%EB%9F%BC",
       "pubdate": "Sun, 01 Dec 2024 22:00:00 +0900"
@@ -19,11 +24,6 @@
     {
       "title": "로또1148회당첨번호",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901148%ED%9A%8C%EB%8B%B9%EC%B2%A8%EB%B2%88%ED%98%B8",
-      "pubdate": "Sun, 01 Dec 2024 04:00:00 +0900"
-    },
-    {
-      "title": "로또1148",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901148",
       "pubdate": "Sun, 01 Dec 2024 01:00:00 +0900"
     },
     {
@@ -50,6 +50,11 @@
       "title": "바르셀로나",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98",
       "pubdate": "Sun, 01 Dec 2024 00:00:00 +0900"
+    },
+    {
+      "title": "뮌헨",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8",
+      "pubdate": "Sun, 01 Dec 2024 09:00:00 +0900"
     },
     {
       "title": "박서진",
@@ -95,11 +100,6 @@
       "title": "김고은",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EA%B3%A0%EC%9D%80",
       "pubdate": "Sat, 30 Nov 2024 02:00:00 +0900"
-    },
-    {
-      "title": "고수",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B3%A0%EC%88%98",
-      "pubdate": "Sat, 30 Nov 2024 22:00:00 +0900"
     }
   ]
 }

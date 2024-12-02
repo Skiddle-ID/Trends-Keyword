@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 23:36:34",
+  "lastUpdate": "02-12-2024 , 02:14:48",
   "data": [
     {
       "title": "Juventus",
@@ -57,9 +57,19 @@
       "pubdate": "Sun, 01 Dec 2024 13:00:00 +0300"
     },
     {
+      "title": "Leicester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City",
+      "pubdate": "Sun, 01 Dec 2024 16:00:00 +0300"
+    },
+    {
       "title": "Advent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Advent",
       "pubdate": "Sun, 01 Dec 2024 15:00:00 +0300"
+    },
+    {
+      "title": "World AIDS Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#World%20AIDS%20Day",
+      "pubdate": "Sun, 01 Dec 2024 18:00:00 +0300"
     },
     {
       "title": "Mackenzie",
@@ -90,16 +100,6 @@
       "title": "West Ham vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#West%20Ham%20vs%20Arsenal",
       "pubdate": "Sat, 30 Nov 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Barcelona vs Las Palmas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20vs%20Las%20Palmas",
-      "pubdate": "Sat, 30 Nov 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Real Madrid vs Getafe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Getafe",
-      "pubdate": "Sat, 30 Nov 2024 19:00:00 +0300"
     }
   ]
 }
