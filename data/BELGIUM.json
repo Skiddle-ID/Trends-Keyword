@@ -1,19 +1,14 @@
 {
-  "lastUpdate": "03-12-2024 , 11:36:08",
+  "lastUpdate": "03-12-2024 , 13:02:03",
   "data": [
-    {
-      "title": "Telenet storing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet%20storing",
-      "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
-    },
     {
       "title": "Telenet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet",
-      "pubdate": "Tue, 03 Dec 2024 10:00:00 +0100"
+      "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Base",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Base",
+      "title": "BASE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BASE",
       "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
     },
     {
@@ -27,6 +22,16 @@
       "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Remco Evenepoel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
+      "pubdate": "Tue, 03 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Travel Tuesday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Travel%20Tuesday",
+      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
+    },
+    {
       "title": "Censure gouvernement Barnier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Censure%20gouvernement%20Barnier",
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
@@ -37,19 +42,14 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Travel Tuesday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Travel%20Tuesday",
-      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Brain rot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brain%20rot",
       "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Warmste Week 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warmste%20Week%202024",
-      "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
+      "title": "Bernard Quintin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Quintin",
+      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Sanglier des Ardennes",
@@ -57,9 +57,19 @@
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
     },
     {
+      "title": "Warmste Week 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Warmste%20Week%202024",
+      "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
+    },
+    {
       "title": "XRP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#XRP",
       "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "De Warmste Week 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Warmste%20Week%202024",
+      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Stellantis",
@@ -87,18 +97,8 @@
       "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
     },
     {
-      "title": "Csc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Csc",
-      "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Kinderwoord van het Jaar 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kinderwoord%20van%20het%20Jaar%202024",
-      "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Union Saint-Gilloise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
       "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
     }
   ]
