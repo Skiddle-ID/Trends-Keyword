@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2024 , 05:40:24",
+  "lastUpdate": "03-12-2024 , 06:47:36",
   "data": [
     {
       "title": "Roma",
@@ -27,8 +27,8 @@
       "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
     },
     {
-      "title": "Tommaso Foti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tommaso%20Foti",
+      "title": "Foti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Foti",
       "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
     },
     {
@@ -47,24 +47,24 @@
       "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Sofia Viscardi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sofia%20Viscardi",
-      "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
-    },
-    {
       "title": "Zaniolo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zaniolo",
       "pubdate": "Mon, 02 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City",
-      "pubdate": "Mon, 02 Dec 2024 01:00:00 +0100"
+      "title": "Sofia Viscardi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sofia%20Viscardi",
+      "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Elton John",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elton%20John",
       "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City",
+      "pubdate": "Mon, 02 Dec 2024 01:00:00 +0100"
     },
     {
       "title": "Sondaggi politici",
@@ -75,11 +75,6 @@
       "title": "Zeudi Di Palma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zeudi%20Di%20Palma",
       "pubdate": "Mon, 02 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Germania 'Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Germania%20'Italia",
-      "pubdate": "Mon, 02 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Atm",
@@ -100,6 +95,11 @@
       "title": "Canzone di Natale Radio Deejay 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Canzone%20di%20Natale%20Radio%20Deejay%202024",
       "pubdate": "Mon, 02 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Ti mangio il cuore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ti%20mangio%20il%20cuore",
+      "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
     }
   ]
 }

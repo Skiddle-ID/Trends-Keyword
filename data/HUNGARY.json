@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "03-12-2024 , 05:40:23",
+  "lastUpdate": "03-12-2024 , 06:47:34",
   "data": [
     {
-      "title": "Kézilabda Eb",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda%20Eb",
-      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Szalai Szabolcs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20Szabolcs",
+      "title": "Kézilabda eb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda%20eb",
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
@@ -17,9 +12,19 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Szalai Szabolcs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20Szabolcs",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "FTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
       "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Családi pótlék",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csal%C3%A1di%20p%C3%B3tl%C3%A9k",
+      "pubdate": "Mon, 02 Dec 2024 06:00:00 +0100"
     },
     {
       "title": "Kovács Dániel",
@@ -32,11 +37,6 @@
       "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "Roma–atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93atalanta",
-      "pubdate": "Mon, 02 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
       "pubdate": "Mon, 02 Dec 2024 07:00:00 +0100"
@@ -45,6 +45,11 @@
       "title": "Sevilla–Osasuna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%E2%80%93Osasuna",
       "pubdate": "Mon, 02 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "December 3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%203",
+      "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Cyber Monday",
@@ -60,11 +65,6 @@
       "title": "Hunter Biden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hunter%20Biden",
       "pubdate": "Mon, 02 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "December 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%203",
-      "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Tiszavasvári",
@@ -92,14 +92,14 @@
       "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Lewis Hamilton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lewis%20Hamilton",
-      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
-    },
-    {
       "title": "Kiss Ramóna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss%20Ram%C3%B3na",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Baranyi Krisztina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Baranyi%20Krisztina",
+      "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
     }
   ]
 }

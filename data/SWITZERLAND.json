@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-12-2024 , 05:40:28",
+  "lastUpdate": "03-12-2024 , 06:47:40",
   "data": [
+    {
+      "title": "Travel Tuesday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Travel%20Tuesday",
+      "pubdate": "Tue, 03 Dec 2024 01:00:00 +0100"
+    },
     {
       "title": "XRP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#XRP",
@@ -27,11 +32,6 @@
       "pubdate": "Mon, 02 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Sabrina Carpenter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sabrina%20Carpenter",
-      "pubdate": "Mon, 02 Dec 2024 12:00:00 +0100"
-    },
-    {
       "title": "Referenzzinssatz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Referenzzinssatz",
       "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
@@ -52,14 +52,14 @@
       "pubdate": "Mon, 02 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Laurel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laurel",
-      "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
-    },
-    {
       "title": "Didier Castella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Didier%20Castella",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Laurel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Laurel",
+      "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Guacamole",
@@ -67,9 +67,9 @@
       "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "E-vignette",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#E-vignette",
-      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
+      "title": "Caren Miosga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Caren%20Miosga",
+      "pubdate": "Mon, 02 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Stadt Zürich",
