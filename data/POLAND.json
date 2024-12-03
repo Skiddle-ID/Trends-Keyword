@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "02-12-2024 , 23:38:20",
+  "lastUpdate": "03-12-2024 , 02:12:59",
   "data": [
+    {
+      "title": "3 grudnia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#3%20grudnia",
+      "pubdate": "Tue, 03 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Atalanta",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Motor Lublin – Radomiak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Motor%20Lublin%20%E2%80%93%20Radomiak",
@@ -20,11 +30,6 @@
       "title": "Hilary Koprowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hilary%20Koprowski",
       "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Legia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Legia",
-      "pubdate": "Mon, 02 Dec 2024 01:00:00 +0100"
     },
     {
       "title": "XRP",
@@ -62,6 +67,11 @@
       "pubdate": "Mon, 02 Dec 2024 12:00:00 +0100"
     },
     {
+      "title": "Fuzja Alior Banku",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fuzja%20Alior%20Banku",
+      "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
+    },
+    {
       "title": "Mikołaj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miko%C5%82aj",
       "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
@@ -69,11 +79,6 @@
     {
       "title": "Ziobro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ziobro",
-      "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Fuzja Alior Banku",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fuzja%20Alior%20Banku",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Mon, 02 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Polski kierowca ciężarówki",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polski%20kierowca%20ci%C4%99%C5%BCar%C3%B3wki",
-      "pubdate": "Mon, 02 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Pappaisjappa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pappaisjappa",
-      "pubdate": "Mon, 02 Dec 2024 16:00:00 +0100"
+      "title": "Polio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polio",
+      "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
     }
   ]
 }
