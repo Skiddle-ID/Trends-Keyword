@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 17:39:40",
+  "lastUpdate": "04-12-2024 , 18:47:19",
   "data": [
     {
       "title": "Spotify Wrapped 2024",
@@ -22,6 +22,16 @@
       "pubdate": "Wed, 04 Dec 2024 15:00:00 +0100"
     },
     {
+      "title": "Pakjesavond!",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pakjesavond!",
+      "pubdate": "Wed, 04 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Zandvoort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zandvoort",
+      "pubdate": "Wed, 04 Dec 2024 19:00:00 +0100"
+    },
+    {
       "title": "Dieuwertje Blok",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dieuwertje%20Blok",
       "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
@@ -32,11 +42,6 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Suzanne Schulting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzanne%20Schulting",
-      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Ongeluk A16",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ongeluk%20A16",
       "pubdate": "Tue, 03 Dec 2024 10:00:00 +0100"
@@ -45,6 +50,11 @@
       "title": "Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leicester%20City",
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Suzanne Schulting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Suzanne%20Schulting",
+      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Ik Vertrek",
@@ -90,16 +100,6 @@
       "title": "Graafschap",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
       "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "December",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#December",
-      "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Tom Waes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Waes",
-      "pubdate": "Sat, 30 Nov 2024 09:00:00 +0100"
     }
   ]
 }

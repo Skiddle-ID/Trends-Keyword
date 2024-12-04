@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 17:39:36",
+  "lastUpdate": "04-12-2024 , 18:47:14",
   "data": [
     {
       "title": "Spotify Wrapped 2024",
@@ -7,9 +7,9 @@
       "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Eminem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eminem",
-      "pubdate": "Wed, 04 Dec 2024 01:00:00 +0100"
+      "title": "Brian Thompson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brian%20Thompson",
+      "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "ADHD",
@@ -17,8 +17,23 @@
       "pubdate": "Wed, 04 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Brian Thompson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brian%20Thompson",
+      "title": "Eminem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eminem",
+      "pubdate": "Wed, 04 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
+      "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Vestas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vestas",
+      "pubdate": "Wed, 04 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Add",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Add",
       "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Harvey Weinstein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Harvey%20Weinstein",
       "pubdate": "Tue, 03 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "White Christmas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#White%20Christmas",
-      "pubdate": "Tue, 03 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Sabrina Carpenter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabrina%20Carpenter",
-      "pubdate": "Mon, 02 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Hunter Biden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Biden",
-      "pubdate": "Mon, 02 Dec 2024 08:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 17:39:35",
+  "lastUpdate": "04-12-2024 , 18:47:12",
   "data": [
     {
       "title": "Spotify Wrapped 2024",
@@ -10,6 +10,11 @@
       "title": "Didier Reynders",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Didier%20Reynders",
       "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Club brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20brugge",
+      "pubdate": "Wed, 04 Dec 2024 05:00:00 +0100"
     },
     {
       "title": "Koh-Lanta",
@@ -27,9 +32,9 @@
       "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Eminem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eminem",
-      "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+      "title": "Wrapped 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wrapped%202024",
+      "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Alain Prost",
@@ -37,14 +42,14 @@
       "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
     },
     {
+      "title": "Eminem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eminem",
+      "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "Sainte-Barbe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sainte-Barbe",
       "pubdate": "Wed, 04 Dec 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Donatella Versace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donatella%20Versace",
-      "pubdate": "Wed, 04 Dec 2024 04:00:00 +0100"
     },
     {
       "title": "Leicester City",
@@ -52,14 +57,9 @@
       "pubdate": "Wed, 04 Dec 2024 10:00:00 +0100"
     },
     {
-      "title": "Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liga",
-      "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Okta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Okta",
-      "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
+      "title": "Donatella Versace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donatella%20Versace",
+      "pubdate": "Wed, 04 Dec 2024 04:00:00 +0100"
     },
     {
       "title": "Coupe de Belgique",
@@ -67,9 +67,19 @@
       "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
     },
     {
+      "title": "Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liga",
+      "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
+    },
+    {
       "title": "Panne reseau Telenet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Panne%20reseau%20Telenet",
       "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Brian Thompson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brian%20Thompson",
+      "pubdate": "Wed, 04 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "44",
@@ -90,16 +100,6 @@
       "title": "Telenet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet",
       "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Patro Eisden  Club Brugge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patro%20Eisden%20%20Club%20Brugge",
-      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Tom Waes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Waes",
-      "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
     }
   ]
 }

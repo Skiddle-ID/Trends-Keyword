@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 17:39:37",
+  "lastUpdate": "04-12-2024 , 18:47:15",
   "data": [
     {
       "title": "Spotify Wrapped",
@@ -7,14 +7,14 @@
       "pubdate": "Wed, 04 Dec 2024 10:00:00 +0100"
     },
     {
+      "title": "Corona Ausbruch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Corona%20Ausbruch",
+      "pubdate": "Wed, 04 Dec 2024 01:00:00 +0100"
+    },
+    {
       "title": "Südkorea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%BCdkorea",
       "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Jahn Regensburg – VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jahn%20Regensburg%20%E2%80%93%20VfB%20Stuttgart",
-      "pubdate": "Tue, 03 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Werder Bremen – Darmstadt 98",
@@ -22,9 +22,14 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Daniel Peretz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Daniel%20Peretz",
-      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
+      "title": "DFB-Pokal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+      "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
+    },
+    {
+      "title": "VfB Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "VfB",
@@ -37,9 +42,9 @@
       "pubdate": "Tue, 03 Dec 2024 12:00:00 +0100"
     },
     {
-      "title": "Golden Bachelor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Golden%20Bachelor",
-      "pubdate": "Tue, 03 Dec 2024 15:00:00 +0100"
+      "title": "Bares für Rares",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bares%20f%C3%BCr%20Rares",
+      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Bielefeld",
@@ -95,11 +100,6 @@
       "title": "Lindner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
       "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Hertha BSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-      "pubdate": "Fri, 29 Nov 2024 22:00:00 +0100"
     }
   ]
 }
