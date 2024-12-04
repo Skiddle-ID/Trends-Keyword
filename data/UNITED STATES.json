@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-12-2024 , 23:37:02",
+  "lastUpdate": "04-12-2024 , 02:13:06",
   "data": [
     {
       "title": "South Korea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#South%20Korea",
       "pubdate": "Tue, 03 Dec 2024 07:00:00 -0800"
+    },
+    {
+      "title": "Apple Music Replay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20Music%20Replay",
+      "pubdate": "Tue, 03 Dec 2024 09:00:00 -0800"
     },
     {
       "title": "Eminem",
@@ -20,6 +25,16 @@
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
       "pubdate": "Tue, 03 Dec 2024 11:00:00 -0800"
+    },
+    {
+      "title": "CFP rankings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CFP%20rankings",
+      "pubdate": "Tue, 03 Dec 2024 17:00:00 -0800"
+    },
+    {
+      "title": "Asteroid hitting Earth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Asteroid%20hitting%20Earth",
+      "pubdate": "Tue, 03 Dec 2024 14:00:00 -0800"
     },
     {
       "title": "Hannah Kobayashi update",
@@ -42,14 +57,19 @@
       "pubdate": "Tue, 03 Dec 2024 12:00:00 -0800"
     },
     {
+      "title": "O.J. Simpson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#O.J.%20Simpson",
+      "pubdate": "Tue, 03 Dec 2024 16:00:00 -0800"
+    },
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bayern%20Munich",
+      "pubdate": "Tue, 03 Dec 2024 14:00:00 -0800"
+    },
+    {
       "title": "Superman and Lois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Superman%20and%20Lois",
       "pubdate": "Tue, 03 Dec 2024 07:00:00 -0800"
-    },
-    {
-      "title": "Asteroid hitting Earth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Asteroid%20hitting%20Earth",
-      "pubdate": "Tue, 03 Dec 2024 14:00:00 -0800"
     },
     {
       "title": "Aroldis Chapman",
@@ -62,9 +82,9 @@
       "pubdate": "Tue, 03 Dec 2024 12:00:00 -0800"
     },
     {
-      "title": "Pamela Anderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pamela%20Anderson",
-      "pubdate": "Tue, 03 Dec 2024 13:00:00 -0800"
+      "title": "Leicester City vs West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leicester%20City%20vs%20West%20Ham",
+      "pubdate": "Tue, 03 Dec 2024 16:00:00 -0800"
     },
     {
       "title": "Giving Tuesday 2024",
@@ -77,29 +97,9 @@
       "pubdate": "Tue, 03 Dec 2024 13:00:00 -0800"
     },
     {
-      "title": "Browns vs Broncos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Browns%20vs%20Broncos",
-      "pubdate": "Mon, 02 Dec 2024 08:00:00 -0800"
-    },
-    {
-      "title": "Laurel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Laurel",
-      "pubdate": "Mon, 02 Dec 2024 02:00:00 -0800"
-    },
-    {
-      "title": "Denver Broncos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Denver%20Broncos",
-      "pubdate": "Mon, 02 Dec 2024 18:00:00 -0800"
-    },
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-      "pubdate": "Mon, 02 Dec 2024 08:00:00 -0800"
-    },
-    {
-      "title": "Tampa Bay Buccaneers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tampa%20Bay%20Buccaneers",
-      "pubdate": "Mon, 02 Dec 2024 10:00:00 -0800"
+      "title": "Pierce the Veil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pierce%20the%20Veil",
+      "pubdate": "Tue, 03 Dec 2024 16:00:00 -0800"
     }
   ]
 }

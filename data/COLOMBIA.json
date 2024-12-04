@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2024 , 23:37:04",
+  "lastUpdate": "04-12-2024 , 02:13:08",
   "data": [
     {
       "title": "Barcelona",
@@ -12,9 +12,24 @@
       "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
     },
     {
+      "title": "Llaneros  Unión Magdalena",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Llaneros%20%20Uni%C3%B3n%20Magdalena",
+      "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
+    },
+    {
       "title": "Ipswich , Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ipswich%20,%20Crystal%20Palace",
       "pubdate": "Tue, 03 Dec 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Milan  Sassuolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Milan%20%20Sassuolo",
+      "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
+    },
+    {
+      "title": "La Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Liga",
+      "pubdate": "Tue, 03 Dec 2024 19:00:00 -0500"
     },
     {
       "title": "Coordinadora",
@@ -22,23 +37,13 @@
       "pubdate": "Tue, 03 Dec 2024 11:00:00 -0500"
     },
     {
-      "title": "MilanSassuolo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#MilanSassuolo",
-      "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
-    },
-    {
       "title": "Ley marcial",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Ley%20marcial",
       "pubdate": "Tue, 03 Dec 2024 13:00:00 -0500"
     },
     {
-      "title": "Dia del medico 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20medico%202024",
-      "pubdate": "Tue, 03 Dec 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Europa  UD Las Palmas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Europa%20%20UD%20Las%20Palmas",
+      "title": "Europa - UD Las Palmas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Europa%20-%20UD%20Las%20Palmas",
       "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
     },
     {
@@ -47,14 +52,9 @@
       "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
     },
     {
-      "title": "Park Min Jae",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Park%20Min%20Jae",
-      "pubdate": "Tue, 03 Dec 2024 00:00:00 -0500"
-    },
-    {
-      "title": "Copa del Rey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20del%20Rey",
-      "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
+      "title": "Dia del medico 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dia%20del%20medico%202024",
+      "pubdate": "Tue, 03 Dec 2024 09:00:00 -0500"
     },
     {
       "title": "Salamanca  Celta de Vigo",
@@ -62,9 +62,14 @@
       "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
     },
     {
-      "title": "Llaneros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Llaneros",
-      "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
+      "title": "Copa del Rey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20del%20Rey",
+      "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Park Min Jae",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Park%20Min%20Jae",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 -0500"
     },
     {
       "title": "Accidente bus Francia colombianos",
@@ -77,29 +82,24 @@
       "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
     },
     {
+      "title": "Dofus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dofus",
+      "pubdate": "Tue, 03 Dec 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Copa Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Italia",
+      "pubdate": "Tue, 03 Dec 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Pico y placa vehículos particulares",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pico%20y%20placa%20veh%C3%ADculos%20particulares",
+      "pubdate": "Tue, 03 Dec 2024 01:00:00 -0500"
+    },
+    {
       "title": "Atlético Nacional  Millonarios",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional%20%20Millonarios",
       "pubdate": "Mon, 02 Dec 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Santa Fe  Pasto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Santa%20Fe%20%20Pasto",
-      "pubdate": "Mon, 02 Dec 2024 18:00:00 -0500"
-    },
-    {
-      "title": "Atlético Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Nacional",
-      "pubdate": "Mon, 02 Dec 2024 20:00:00 -0500"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liverpool",
-      "pubdate": "Mon, 02 Dec 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Roma - Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Roma%20-%20Atalanta",
-      "pubdate": "Mon, 02 Dec 2024 15:00:00 -0500"
     }
   ]
 }
