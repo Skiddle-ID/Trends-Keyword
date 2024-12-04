@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-12-2024 , 05:40:31",
+  "lastUpdate": "04-12-2024 , 06:47:02",
   "data": [
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bundesliga",
+      "pubdate": "Wed, 04 Dec 2024 05:00:00 +0100"
+    },
     {
       "title": "Phoebe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Phoebe",
@@ -32,6 +37,11 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "Martial law",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Martial%20law",
+      "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
+    },
+    {
       "title": "Aero",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aero",
       "pubdate": "Tue, 03 Dec 2024 18:00:00 +0100"
@@ -42,14 +52,14 @@
       "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Pastor Adeboye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pastor%20Adeboye",
-      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Pastor Bolaji Idowu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pastor%20Bolaji%20Idowu",
       "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Pastor Adeboye",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pastor%20Adeboye",
+      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Dele Farotimi",
@@ -57,19 +67,14 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Park Min Jae",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Park%20Min%20Jae",
-      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
-    },
-    {
       "title": "Apple Music Replay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Apple%20Music%20Replay",
       "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "EFCC asset recovery Abuja estate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#EFCC%20asset%20recovery%20Abuja%20estate",
-      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
+      "title": "Park Min Jae",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Park%20Min%20Jae",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Arsenal vs Man United",
@@ -77,13 +82,13 @@
       "pubdate": "Tue, 03 Dec 2024 18:00:00 +0100"
     },
     {
-      "title": "Belgium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Belgium",
+      "title": "EFCC asset recovery Abuja estate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#EFCC%20asset%20recovery%20Abuja%20estate",
       "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Kraven the Hunter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kraven%20the%20Hunter",
+      "title": "Belgium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Belgium",
       "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     },
     {
@@ -92,14 +97,9 @@
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Liverpool vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Man%20City",
-      "pubdate": "Mon, 02 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Martial law",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Martial%20law",
-      "pubdate": "Mon, 02 Dec 2024 14:00:00 +0100"
+      "title": "CBN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CBN",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     }
   ]
 }

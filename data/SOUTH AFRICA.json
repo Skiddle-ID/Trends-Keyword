@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 05:40:33",
+  "lastUpdate": "04-12-2024 , 06:47:04",
   "data": [
     {
       "title": "Arsenal vs Man United",
@@ -19,7 +19,7 @@
     {
       "title": "Leicester City vs West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leicester%20City%20vs%20West%20Ham",
-      "pubdate": "Tue, 03 Dec 2024 18:00:00 +0200"
+      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "Bayern vs Leverkusen",
@@ -47,19 +47,14 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0200"
     },
     {
-      "title": "Porto FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Porto%20FC",
-      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0200"
-    },
-    {
       "title": "Barcelona FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
       "pubdate": "Tue, 03 Dec 2024 20:00:00 +0200"
     },
     {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
-      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0200"
+      "title": "Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace",
+      "pubdate": "Tue, 03 Dec 2024 18:00:00 +0200"
     },
     {
       "title": "Roma",
@@ -67,9 +62,9 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0200"
     },
     {
-      "title": "Severe thunderstorm warning",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Severe%20thunderstorm%20warning",
-      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0200"
+      "title": "FC Porto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Porto",
+      "pubdate": "Tue, 03 Dec 2024 00:00:00 +0200"
     },
     {
       "title": "FA Cup fixtures",
@@ -100,6 +95,11 @@
       "title": "Sevilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevilla",
       "pubdate": "Mon, 02 Dec 2024 20:00:00 +0200"
+    },
+    {
+      "title": "BRICS countries",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BRICS%20countries",
+      "pubdate": "Mon, 02 Dec 2024 12:00:00 +0200"
     }
   ]
 }

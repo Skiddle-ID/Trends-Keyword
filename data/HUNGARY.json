@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 05:40:27",
+  "lastUpdate": "04-12-2024 , 06:47:00",
   "data": [
     {
       "title": "Aszteroida",
@@ -27,9 +27,9 @@
       "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Mtk–paks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mtk%E2%80%93paks",
-      "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
+      "title": "Bayern münchen–leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20m%C3%BCnchen%E2%80%93leverkusen",
+      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Orbán Balázs",
@@ -37,9 +37,19 @@
       "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
     },
     {
+      "title": "Korea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korea",
+      "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
+    },
+    {
       "title": "Varju László",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varju%20L%C3%A1szl%C3%B3",
       "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Windisch László",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Windisch%20L%C3%A1szl%C3%B3",
+      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Kézilabda Eb",
@@ -52,18 +62,8 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Windisch László",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Windisch%20L%C3%A1szl%C3%B3",
-      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
-    },
-    {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eminem",
-      "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Korea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korea",
       "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
     },
     {
@@ -92,13 +92,13 @@
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Indiana Jones and the Great Circle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Indiana%20Jones%20and%20the%20Great%20Circle",
-      "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
+      "title": "Német Kupa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9met%20Kupa",
+      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Star Wars: Kóbor alakulat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Star%20Wars:%20K%C3%B3bor%20alakulat",
+      "title": "Nosferatu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nosferatu",
       "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 05:40:24",
+  "lastUpdate": "04-12-2024 , 06:46:57",
   "data": [
     {
       "title": "Koh-Lanta",
@@ -22,6 +22,11 @@
       "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Coupe de Belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
+      "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
+    },
+    {
       "title": "Alain Prost",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alain%20Prost",
       "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
@@ -30,11 +35,6 @@
       "title": "Cargill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cargill",
       "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Coupe de Belgique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
-      "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
     },
     {
       "title": "Telenet",

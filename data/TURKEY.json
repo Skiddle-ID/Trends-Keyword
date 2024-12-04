@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 05:40:34",
+  "lastUpdate": "04-12-2024 , 06:47:05",
   "data": [
     {
       "title": "Son depremler",
@@ -22,14 +22,14 @@
       "pubdate": "Wed, 04 Dec 2024 02:00:00 +0300"
     },
     {
-      "title": "Güney Kore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCney%20Kore",
-      "pubdate": "Tue, 03 Dec 2024 18:00:00 +0300"
-    },
-    {
       "title": "Mallorca Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mallorca%20Barcelona",
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0300"
+    },
+    {
+      "title": "Güney Kore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#G%C3%BCney%20Kore",
+      "pubdate": "Tue, 03 Dec 2024 18:00:00 +0300"
     },
     {
       "title": "Adana Demirspor, Sebat Gençlik Spor",
@@ -37,14 +37,14 @@
       "pubdate": "Tue, 03 Dec 2024 18:00:00 +0300"
     },
     {
-      "title": "Samsunspor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor",
-      "pubdate": "Tue, 03 Dec 2024 10:00:00 +0300"
-    },
-    {
       "title": "Memur zammı",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Memur%20zamm%C4%B1",
       "pubdate": "Tue, 03 Dec 2024 11:00:00 +0300"
+    },
+    {
+      "title": "Samsunspor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor",
+      "pubdate": "Tue, 03 Dec 2024 10:00:00 +0300"
     },
     {
       "title": "Antalyaspor - Küçükçekmece Sinopspor",
@@ -67,19 +67,24 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0300"
     },
     {
+      "title": "Ziraat Türkiye Kupası",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ziraat%20T%C3%BCrkiye%20Kupas%C4%B1",
+      "pubdate": "Tue, 03 Dec 2024 16:00:00 +0300"
+    },
+    {
       "title": "Anadolu Efes, Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Efes,%20Bayern",
       "pubdate": "Tue, 03 Dec 2024 22:00:00 +0300"
     },
     {
-      "title": "Fatih Altaylı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20Altayl%C4%B1",
-      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0300"
-    },
-    {
       "title": "Benzine indirim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benzine%20indirim",
       "pubdate": "Tue, 03 Dec 2024 20:00:00 +0300"
+    },
+    {
+      "title": "Fatih Altaylı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fatih%20Altayl%C4%B1",
+      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0300"
     },
     {
       "title": "Bandırmaspor  Karacabey Belediye Spor",
@@ -95,11 +100,6 @@
       "title": "A spor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#A%20spor",
       "pubdate": "Tue, 03 Dec 2024 16:00:00 +0300"
-    },
-    {
-      "title": "Ayhan Bora Kaplan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ayhan%20Bora%20Kaplan",
-      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0300"
     }
   ]
 }
