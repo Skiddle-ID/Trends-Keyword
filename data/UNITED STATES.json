@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 09:39:58",
+  "lastUpdate": "04-12-2024 , 10:43:37",
   "data": [
     {
       "title": "Bucks vs Pistons",
@@ -19,11 +19,6 @@
     {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eminem",
-      "pubdate": "Tue, 03 Dec 2024 10:00:00 -0800"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
       "pubdate": "Tue, 03 Dec 2024 10:00:00 -0800"
     },
     {
@@ -47,6 +42,11 @@
       "pubdate": "Tue, 03 Dec 2024 14:00:00 -0800"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
+      "pubdate": "Tue, 03 Dec 2024 11:00:00 -0800"
+    },
+    {
       "title": "Grand National Tour",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Grand%20National%20Tour",
       "pubdate": "Tue, 03 Dec 2024 12:00:00 -0800"
@@ -65,11 +65,6 @@
       "title": "O.J. Simpson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#O.J.%20Simpson",
       "pubdate": "Tue, 03 Dec 2024 16:00:00 -0800"
-    },
-    {
-      "title": "NBA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20Cup",
-      "pubdate": "Tue, 03 Dec 2024 19:00:00 -0800"
     },
     {
       "title": "FC Barcelona",
@@ -99,6 +94,11 @@
     {
       "title": "Barca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barca",
+      "pubdate": "Tue, 03 Dec 2024 12:00:00 -0800"
+    },
+    {
+      "title": "Aroldis Chapman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aroldis%20Chapman",
       "pubdate": "Tue, 03 Dec 2024 12:00:00 -0800"
     }
   ]
