@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-12-2024 , 07:37:30",
+  "lastUpdate": "04-12-2024 , 08:45:56",
   "data": [
+    {
+      "title": "Heilige Barbara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heilige%20Barbara",
+      "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
+    },
     {
       "title": "Marcel Hirscher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marcel%20Hirscher",
@@ -57,11 +62,6 @@
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "ARD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
-      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Skeleton Crew",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Skeleton%20Crew",
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
@@ -70,6 +70,11 @@
       "title": "Salzburger Festspiele 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Salzburger%20Festspiele%202025",
       "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "ARD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
+      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Mohamed Salah",
@@ -82,14 +87,9 @@
       "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Österreich - Polen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20-%20Polen",
+      "title": "Österreich Polen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20Polen",
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Harry Kane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Kane",
-      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Zürich",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Bayern – Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20Leverkusen",
-      "pubdate": "Mon, 02 Dec 2024 16:00:00 +0100"
+      "title": "Harry Kane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Kane",
+      "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
     }
   ]
 }

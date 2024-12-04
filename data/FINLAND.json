@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 07:37:31",
+  "lastUpdate": "04-12-2024 , 08:45:58",
   "data": [
     {
       "title": "Perplexity",
@@ -17,14 +17,14 @@
       "pubdate": "Wed, 04 Dec 2024 01:00:00 +0200"
     },
     {
+      "title": "LaLiga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LaLiga",
+      "pubdate": "Wed, 04 Dec 2024 10:00:00 +0200"
+    },
+    {
       "title": "Mallorca – Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mallorca%20%E2%80%93%20Barcelona",
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Margot Robbie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Margot%20Robbie",
-      "pubdate": "Tue, 03 Dec 2024 06:00:00 +0200"
     },
     {
       "title": "Patrik Laine",
@@ -32,14 +32,19 @@
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0200"
     },
     {
-      "title": "Coinbase",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coinbase",
-      "pubdate": "Tue, 03 Dec 2024 08:00:00 +0200"
+      "title": "Margot Robbie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Margot%20Robbie",
+      "pubdate": "Tue, 03 Dec 2024 06:00:00 +0200"
     },
     {
       "title": "Eminem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eminem",
       "pubdate": "Tue, 03 Dec 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Coinbase",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coinbase",
+      "pubdate": "Tue, 03 Dec 2024 08:00:00 +0200"
     },
     {
       "title": "Skeleton Crew",
@@ -95,11 +100,6 @@
       "title": "Elton John",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elton%20John",
       "pubdate": "Mon, 02 Dec 2024 23:00:00 +0200"
-    },
-    {
-      "title": "SS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SS",
-      "pubdate": "Mon, 02 Dec 2024 17:00:00 +0200"
     }
   ]
 }

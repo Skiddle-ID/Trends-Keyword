@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "04-12-2024 , 07:37:32",
+  "lastUpdate": "04-12-2024 , 08:45:59",
   "data": [
+    {
+      "title": "La liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#La%20liga",
+      "pubdate": "Wed, 04 Dec 2024 07:00:00 +0100"
+    },
     {
       "title": "Aszteroida",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aszteroida",
       "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Koltai Dániel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koltai%20D%C3%A1niel",
-      "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+      "title": "Varga Judit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit",
+      "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "OTP Bank Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank%20Liga",
+      "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Demján Sándor",
@@ -32,6 +42,16 @@
       "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "Mtk–paks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mtk%E2%80%93paks",
+      "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
+    },
+    {
+      "title": "Leicester–west Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leicester%E2%80%93west%20Ham",
+      "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
+    },
+    {
       "title": "Orbán Balázs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Bal%C3%A1zs",
       "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
@@ -47,9 +67,9 @@
       "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Windisch László",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Windisch%20L%C3%A1szl%C3%B3",
-      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
+      "title": "Eminem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eminem",
+      "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Kézilabda Eb",
@@ -62,9 +82,9 @@
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Eminem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eminem",
-      "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
+      "title": "13. havi nyugdíj 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#13.%20havi%20nyugd%C3%ADj%202025",
+      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "SOCCA",
@@ -80,26 +100,6 @@
       "title": "Szalai Szabolcs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20Szabolcs",
       "pubdate": "Tue, 03 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "József Attila",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%B3zsef%20Attila",
-      "pubdate": "Tue, 03 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "13. havi nyugdíj 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#13.%20havi%20nyugd%C3%ADj%202025",
-      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Német Kupa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9met%20Kupa",
-      "pubdate": "Tue, 03 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Nosferatu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nosferatu",
-      "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
     }
   ]
 }
