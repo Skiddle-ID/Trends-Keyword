@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2024 , 11:36:00",
+  "lastUpdate": "05-12-2024 , 13:02:53",
   "data": [
     {
       "title": "Man City",
@@ -7,8 +7,8 @@
       "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
     },
     {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bitcoin",
+      "title": "Bitcoin price",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bitcoin%20price",
       "pubdate": "Thu, 05 Dec 2024 09:00:00 +0000"
     },
     {
@@ -17,14 +17,24 @@
       "pubdate": "Thu, 05 Dec 2024 08:00:00 +0000"
     },
     {
+      "title": "Starbucks free drinks NHS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Starbucks%20free%20drinks%20NHS",
+      "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
+    },
+    {
       "title": "Jimmy Somerville",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jimmy%20Somerville",
       "pubdate": "Thu, 05 Dec 2024 00:00:00 +0000"
     },
     {
-      "title": "Starbucks free drinks NHS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Starbucks%20free%20drinks%20NHS",
-      "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
+      "title": "Prince Harry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Prince%20Harry",
+      "pubdate": "Thu, 05 Dec 2024 12:00:00 +0000"
+    },
+    {
+      "title": "Pushpa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pushpa",
+      "pubdate": "Thu, 05 Dec 2024 12:00:00 +0000"
     },
     {
       "title": "Spotify Wrapped 2024",
@@ -37,11 +47,6 @@
       "pubdate": "Wed, 04 Dec 2024 20:00:00 +0000"
     },
     {
-      "title": "Arsenal vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal%20vs%20Man%20United",
-      "pubdate": "Wed, 04 Dec 2024 17:00:00 +0000"
-    },
-    {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
       "pubdate": "Wed, 04 Dec 2024 22:00:00 +0000"
@@ -52,6 +57,11 @@
       "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
     },
     {
+      "title": "Arsenal vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal%20vs%20Man%20United",
+      "pubdate": "Wed, 04 Dec 2024 17:00:00 +0000"
+    },
+    {
       "title": "Southampton vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Southampton%20vs%20Chelsea",
       "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
@@ -59,11 +69,6 @@
     {
       "title": "Man City vs nottm Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20nottm%20Forest",
-      "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
-    },
-    {
-      "title": "Everton vs Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Everton%20vs%20Wolves",
       "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
     },
     {
@@ -82,24 +87,19 @@
       "pubdate": "Wed, 04 Dec 2024 17:00:00 +0000"
     },
     {
-      "title": "Athletic Club vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Athletic%20Club%20vs%20Real%20Madrid",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0000"
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Everton",
+      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0000"
+    },
+    {
+      "title": "German helicopter Russian warship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#German%20helicopter%20Russian%20warship",
+      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0000"
     },
     {
       "title": "Melvin Odoom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Melvin%20Odoom",
       "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
-    },
-    {
-      "title": "Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
-      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0000"
-    },
-    {
-      "title": "Aston Villa vs Brentford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aston%20Villa%20vs%20Brentford",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0000"
     }
   ]
 }

@@ -1,1 +1,1 @@
-HPV-test,Joy Beune,Sabrina Carpenter,Hélicoptère allemand,STVV,Flakka,Antwerp FC,Spotify Wrapped 2024,Croky Cup,Ath Bilbao – Real Madrid,Premier League,Manchester City – nottm Forest,Michel Barnier,Didier Reynders,Kortrijk  Antwerp,Union  Gent,Club brugge,Beerschot,Koh-Lanta,Brian Thompson
+Bitcoin,HPV-test,BTC,Joy Beune,Sabrina Carpenter,Hélicoptère allemand,Flakka,Genk voetbal,Antwerp FC,Spotify Wrapped 2024,Croky Cup,Ath Bilbao – Real Madrid,Premier League,Michel Barnier,Manchester City – nottm Forest,Didier Reynders,Kortrijk  Antwerp,Union  Gent,Club brugge,Beerschot

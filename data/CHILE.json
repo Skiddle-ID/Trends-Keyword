@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "05-12-2024 , 11:35:51",
+  "lastUpdate": "05-12-2024 , 13:02:45",
   "data": [
+    {
+      "title": "Brasileirao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasileirao",
+      "pubdate": "Thu, 05 Dec 2024 08:00:00 -0300"
+    },
+    {
+      "title": "Valentin Vidal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valentin%20Vidal",
+      "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
+    },
     {
       "title": "Liga Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20Argentina",
       "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
     },
     {
-      "title": "Valentin Vidal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valentin%20Vidal",
-      "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
+      "title": "Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bitcoin",
+      "pubdate": "Thu, 05 Dec 2024 09:00:00 -0300"
     },
     {
       "title": "Once Caldas  América",
@@ -42,24 +52,24 @@
       "pubdate": "Wed, 04 Dec 2024 16:00:00 -0300"
     },
     {
-      "title": "Newcastle  Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Liverpool",
-      "pubdate": "Wed, 04 Dec 2024 16:00:00 -0300"
-    },
-    {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
       "pubdate": "Wed, 04 Dec 2024 17:00:00 -0300"
     },
     {
-      "title": "Racing  Estudiantes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20Estudiantes",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 -0300"
+      "title": "Newcastle  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Liverpool",
+      "pubdate": "Wed, 04 Dec 2024 16:00:00 -0300"
     },
     {
       "title": "River Plate  San Lorenzo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20San%20Lorenzo",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 -0300"
+    },
+    {
+      "title": "Racing  Estudiantes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20Estudiantes",
+      "pubdate": "Wed, 04 Dec 2024 20:00:00 -0300"
     },
     {
       "title": "Arsenal  Manchester United",
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 04 Dec 2024 14:00:00 -0300"
     },
     {
-      "title": "Sant Andreu,  Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sant%20Andreu,%20%20Betis",
+      "title": "Sant Andreu - Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sant%20Andreu%20-%20Betis",
       "pubdate": "Wed, 04 Dec 2024 01:00:00 -0300"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
-      "pubdate": "Wed, 04 Dec 2024 17:00:00 -0300"
-    },
-    {
-      "title": "Vasco da Gama  Atlético Mineiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vasco%20da%20Gama%20%20Atl%C3%A9tico%20Mineiro",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 -0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2024 , 11:35:58",
+  "lastUpdate": "05-12-2024 , 13:02:52",
   "data": [
     {
       "title": "Epl",
@@ -47,6 +47,11 @@
       "pubdate": "Thu, 05 Dec 2024 00:00:00 +0200"
     },
     {
+      "title": "Intuit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Intuit",
+      "pubdate": "Thu, 05 Dec 2024 13:00:00 +0200"
+    },
+    {
       "title": "Newcastle vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle%20vs%20Liverpool",
       "pubdate": "Wed, 04 Dec 2024 18:00:00 +0200"
@@ -62,6 +67,11 @@
       "pubdate": "Wed, 04 Dec 2024 01:00:00 +0200"
     },
     {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20United",
+      "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
+    },
+    {
       "title": "Southampton vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Southampton%20vs%20Chelsea",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0200"
@@ -69,17 +79,7 @@
     {
       "title": "Athletic Club vs Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Athletic%20Club%20vs%20Real%20Madrid",
-      "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United",
-      "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Jan Bloukaas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jan%20Bloukaas",
-      "pubdate": "Wed, 04 Dec 2024 07:00:00 +0200"
+      "pubdate": "Wed, 04 Dec 2024 04:00:00 +0200"
     },
     {
       "title": "Everton vs Wolves",
