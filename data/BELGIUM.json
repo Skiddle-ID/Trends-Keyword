@@ -1,25 +1,20 @@
 {
-  "lastUpdate": "04-12-2024 , 23:37:17",
+  "lastUpdate": "05-12-2024 , 02:13:29",
   "data": [
+    {
+      "title": "Sabrina Carpenter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sabrina%20Carpenter",
+      "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Spotify Wrapped 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spotify%20Wrapped%202024",
       "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Genk – Standard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk%20%E2%80%93%20Standard",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Didier Reynders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Didier%20Reynders",
-      "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Ath Bilbao – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ath%20Bilbao%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Wed, 04 Dec 2024 09:00:00 +0100"
+      "title": "Croky Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Croky%20Cup",
+      "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
     },
     {
       "title": "Premier League",
@@ -27,9 +22,19 @@
       "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Koh-Lanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koh-Lanta",
-      "pubdate": "Wed, 04 Dec 2024 02:00:00 +0100"
+      "title": "Ath Bilbao – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ath%20Bilbao%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Wed, 04 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Didier Reynders",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Didier%20Reynders",
+      "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Barnier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barnier",
+      "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Club brugge",
@@ -37,13 +42,8 @@
       "pubdate": "Wed, 04 Dec 2024 05:00:00 +0100"
     },
     {
-      "title": "Kortrijk - Antwerp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk%20-%20Antwerp",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Manchester City – nottm Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City%20%E2%80%93%20nottm%20Forest",
+      "title": "Kortrijk  Antwerp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk%20%20Antwerp",
       "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
     },
     {
@@ -57,9 +57,14 @@
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "OHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
-      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+      "title": "Koh-Lanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koh-Lanta",
+      "pubdate": "Wed, 04 Dec 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Manchester City – nottm Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City%20%E2%80%93%20nottm%20Forest",
+      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Newcastle – Liverpool",
@@ -67,8 +72,8 @@
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea",
+      "title": "Cercle  STVV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20STVV",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
@@ -77,29 +82,24 @@
       "pubdate": "Wed, 04 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "OHL.  zulte-waregem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL.%20%20zulte-waregem",
-      "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Coupe de Belgique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
-      "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
-    },
-    {
       "title": "KRC Genk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "KAA Gent",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+      "title": "Zulte Waregem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zulte%20Waregem",
       "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Young Hearts",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Young%20Hearts",
       "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Ajax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
     }
   ]
 }
