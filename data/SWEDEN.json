@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "06-12-2024 , 11:35:53",
+  "lastUpdate": "06-12-2024 , 13:01:49",
   "data": [
     {
       "title": "Path of Exile 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Path%20of%20Exile%202",
       "pubdate": "Fri, 06 Dec 2024 05:00:00 +0100"
+    },
+    {
+      "title": "Kelly Piquet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kelly%20Piquet",
+      "pubdate": "Fri, 06 Dec 2024 10:00:00 +0100"
+    },
+    {
+      "title": "AMF",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AMF",
+      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Indiana Jones and the great circle",
@@ -17,24 +27,14 @@
       "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "Kelly Piquet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kelly%20Piquet",
-      "pubdate": "Fri, 06 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Gustav Hemming",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustav%20Hemming",
-      "pubdate": "Thu, 05 Dec 2024 13:00:00 +0100"
-    },
-    {
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bitcoin",
       "pubdate": "Thu, 05 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-      "pubdate": "Thu, 05 Dec 2024 05:00:00 +0100"
+      "title": "Gustav Hemming Centerpartiet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustav%20Hemming%20Centerpartiet",
+      "pubdate": "Thu, 05 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Man City",
@@ -50,11 +50,6 @@
       "title": "Mellerud",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mellerud",
       "pubdate": "Thu, 05 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Alexander Isak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Isak",
-      "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Four Nations",
@@ -77,11 +72,6 @@
       "pubdate": "Thu, 05 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Hunkemöller",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hunkem%C3%B6ller",
-      "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Spotify Wrapped 2024",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spotify%20Wrapped%202024",
       "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
@@ -100,6 +90,16 @@
       "title": "Flashback",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Flashback",
       "pubdate": "Wed, 04 Dec 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
+      "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+      "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2024 , 11:35:51",
+  "lastUpdate": "06-12-2024 , 13:01:47",
   "data": [
     {
       "title": "Stanisław Tym",
@@ -9,17 +9,12 @@
     {
       "title": "Mikołajki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miko%C5%82ajki",
-      "pubdate": "Fri, 06 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Mikolajki 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mikolajki%202024",
-      "pubdate": "Fri, 06 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Mikolaj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mikolaj",
       "pubdate": "Fri, 06 Dec 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Zyczenia na mikolajki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zyczenia%20na%20mikolajki",
+      "pubdate": "Fri, 06 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Marvel Rivals",
@@ -37,9 +32,9 @@
       "pubdate": "Fri, 06 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "6 grudnia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#6%20grudnia",
-      "pubdate": "Fri, 06 Dec 2024 07:00:00 +0100"
+      "title": "Syria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Syria",
+      "pubdate": "Fri, 06 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Nowy sondaz partyjny",
@@ -52,6 +47,11 @@
       "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Max Verstappen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Max%20Verstappen",
+      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
+    },
+    {
       "title": "Korona Czeska",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korona%20Czeska",
       "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
@@ -62,14 +62,14 @@
       "pubdate": "Fri, 06 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bitcoin",
-      "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
-    },
-    {
       "title": "ŁKS Łódź – Legia Warszawa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81KS%20%C5%81%C3%B3d%C5%BA%20%E2%80%93%20Legia%20Warszawa",
       "pubdate": "Thu, 05 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bitcoin",
+      "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
     },
     {
       "title": "Olimpia Grudziądz – Jagiellonia Białystok",

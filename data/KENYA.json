@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2024 , 11:35:50",
+  "lastUpdate": "06-12-2024 , 13:01:45",
   "data": [
     {
       "title": "India vs Australia",
@@ -10,6 +10,11 @@
       "title": "French government collapse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#French%20government%20collapse",
       "pubdate": "Fri, 06 Dec 2024 01:00:00 +0300"
+    },
+    {
+      "title": "Burnley vs Middlesbrough",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Burnley%20vs%20Middlesbrough",
+      "pubdate": "Fri, 06 Dec 2024 10:00:00 +0300"
     },
     {
       "title": "Kylian Mbappé",
@@ -27,14 +32,14 @@
       "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
     },
     {
+      "title": "FPL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
+      "pubdate": "Thu, 05 Dec 2024 21:00:00 +0300"
+    },
+    {
       "title": "Asbestos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Asbestos",
       "pubdate": "Thu, 05 Dec 2024 20:00:00 +0300"
-    },
-    {
-      "title": "Live",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
-      "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
     },
     {
       "title": "Bitcoin",
@@ -42,14 +47,19 @@
       "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
     },
     {
-      "title": "Sports",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sports",
-      "pubdate": "Thu, 05 Dec 2024 09:00:00 +0300"
+      "title": "Live",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
+      "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
     },
     {
       "title": "Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham",
       "pubdate": "Thu, 05 Dec 2024 18:00:00 +0300"
+    },
+    {
+      "title": "Sports",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sports",
+      "pubdate": "Thu, 05 Dec 2024 09:00:00 +0300"
     },
     {
       "title": "South Korean President",
@@ -72,34 +82,24 @@
       "pubdate": "Thu, 05 Dec 2024 23:00:00 +0300"
     },
     {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
+      "pubdate": "Thu, 05 Dec 2024 23:00:00 +0300"
+    },
+    {
       "title": "Nairobi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nairobi",
       "pubdate": "Thu, 05 Dec 2024 12:00:00 +0300"
     },
     {
-      "title": "Table",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Table",
-      "pubdate": "Thu, 05 Dec 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Cole Palmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cole%20Palmer",
-      "pubdate": "Thu, 05 Dec 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Brian Thompson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brian%20Thompson",
-      "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
-    },
-    {
-      "title": "Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves",
+      "title": "Manchester",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester",
       "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
     },
     {
-      "title": "Arsenal vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Man%20United",
-      "pubdate": "Wed, 04 Dec 2024 08:00:00 +0300"
+      "title": "Table",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Table",
+      "pubdate": "Thu, 05 Dec 2024 10:00:00 +0300"
     }
   ]
 }
