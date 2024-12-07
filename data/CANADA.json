@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "07-12-2024 , 11:36:00",
+  "lastUpdate": "07-12-2024 , 12:58:01",
   "data": [
     {
       "title": "That Christmas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#That%20Christmas",
       "pubdate": "Sat, 07 Dec 2024 03:00:00 -0500"
+    },
+    {
+      "title": "Everton vs Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Everton%20vs%20Liverpool",
+      "pubdate": "Sat, 07 Dec 2024 07:00:00 -0500"
+    },
+    {
+      "title": "Syria news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Syria%20news",
+      "pubdate": "Sat, 07 Dec 2024 07:00:00 -0500"
     },
     {
       "title": "Igor Shesterkin",
@@ -42,24 +52,29 @@
       "pubdate": "Fri, 06 Dec 2024 10:00:00 -0500"
     },
     {
-      "title": "Polytechnique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polytechnique",
-      "pubdate": "Fri, 06 Dec 2024 11:00:00 -0500"
-    },
-    {
       "title": "TikTok banned",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TikTok%20banned",
       "pubdate": "Fri, 06 Dec 2024 21:00:00 -0500"
     },
     {
-      "title": "Lions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lions",
-      "pubdate": "Fri, 06 Dec 2024 16:00:00 -0500"
+      "title": "Polytechnique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polytechnique",
+      "pubdate": "Fri, 06 Dec 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Rex",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rex",
+      "pubdate": "Fri, 06 Dec 2024 08:00:00 -0500"
     },
     {
       "title": "Noel Hoefenmayer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Noel%20Hoefenmayer",
       "pubdate": "Fri, 06 Dec 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Taylor Swift concert Vancouver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift%20concert%20Vancouver",
+      "pubdate": "Fri, 06 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Daniel Penny",
@@ -70,11 +85,6 @@
       "title": "Canada unemployment rate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20unemployment%20rate",
       "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Taylor Swift concert Vancouver",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift%20concert%20Vancouver",
-      "pubdate": "Fri, 06 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Dick Van Dyke",
@@ -90,16 +100,6 @@
       "title": "Messi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Messi",
       "pubdate": "Fri, 06 Dec 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Max Verstappen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Max%20Verstappen",
-      "pubdate": "Fri, 06 Dec 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Serie%20A",
-      "pubdate": "Fri, 06 Dec 2024 17:00:00 -0500"
     }
   ]
 }

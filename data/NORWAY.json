@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "07-12-2024 , 11:36:06",
+  "lastUpdate": "07-12-2024 , 12:58:06",
   "data": [
     {
       "title": "Salmonella",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Salmonella",
       "pubdate": "Sat, 07 Dec 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Everton - Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton%20-%20Liverpool",
+      "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+      "pubdate": "Sat, 07 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Romania",
@@ -32,19 +42,14 @@
       "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "Keira Knightley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Keira%20Knightley",
-      "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Martin Ødegaard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
       "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Kaggestad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kaggestad",
-      "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
+      "title": "Keira Knightley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Keira%20Knightley",
+      "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Tellus",
@@ -95,11 +100,6 @@
       "title": "Kristian Valen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
       "pubdate": "Thu, 05 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Sverre Anker Ousdal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sverre%20Anker%20Ousdal",
-      "pubdate": "Thu, 05 Dec 2024 16:00:00 +0100"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "07-12-2024 , 11:35:59",
+  "lastUpdate": "07-12-2024 , 12:58:00",
   "data": [
     {
-      "title": "Travis Head",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Travis%20Head",
-      "pubdate": "Sat, 07 Dec 2024 17:00:00 +1100"
+      "title": "Matildas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+      "pubdate": "Sat, 07 Dec 2024 20:00:00 +1100"
+    },
+    {
+      "title": "Everton vs Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Liverpool",
+      "pubdate": "Sat, 07 Dec 2024 21:00:00 +1100"
     },
     {
       "title": "Dick Van Dyke",
@@ -12,19 +17,9 @@
       "pubdate": "Sat, 07 Dec 2024 09:00:00 +1100"
     },
     {
-      "title": "Steve Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steve%20Smith",
-      "pubdate": "Sat, 07 Dec 2024 16:00:00 +1100"
-    },
-    {
       "title": "Syria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Syria",
       "pubdate": "Sat, 07 Dec 2024 03:00:00 +1100"
-    },
-    {
-      "title": "Serie A",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serie%20A",
-      "pubdate": "Sat, 07 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "Daniel Penny",
@@ -35,6 +30,11 @@
       "title": "Miho Nakayama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Miho%20Nakayama",
       "pubdate": "Sat, 07 Dec 2024 05:00:00 +1100"
+    },
+    {
+      "title": "Christmas Pageant Perth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christmas%20Pageant%20Perth",
+      "pubdate": "Sat, 07 Dec 2024 17:00:00 +1100"
     },
     {
       "title": "Liberty",
@@ -57,6 +57,11 @@
       "pubdate": "Sat, 07 Dec 2024 20:00:00 +1100"
     },
     {
+      "title": "Storm Darragh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20Darragh",
+      "pubdate": "Sat, 07 Dec 2024 22:00:00 +1100"
+    },
+    {
       "title": "Jaime Chapman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jaime%20Chapman",
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +1100"
@@ -72,9 +77,9 @@
       "pubdate": "Sat, 07 Dec 2024 19:00:00 +1100"
     },
     {
-      "title": "Everton vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Liverpool",
-      "pubdate": "Sat, 07 Dec 2024 21:00:00 +1100"
+      "title": "Cricket scores",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket%20scores",
+      "pubdate": "Fri, 06 Dec 2024 15:00:00 +1100"
     },
     {
       "title": "Cricket",
@@ -87,19 +92,14 @@
       "pubdate": "Fri, 06 Dec 2024 14:00:00 +1100"
     },
     {
-      "title": "Test Cricket scores",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Test%20Cricket%20scores",
-      "pubdate": "Fri, 06 Dec 2024 18:00:00 +1100"
-    },
-    {
       "title": "Gout Gout",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gout%20Gout",
       "pubdate": "Fri, 06 Dec 2024 17:00:00 +1100"
     },
     {
-      "title": "Synagogue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Synagogue",
-      "pubdate": "Fri, 06 Dec 2024 12:00:00 +1100"
+      "title": "Aus vs India Test",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aus%20vs%20India%20Test",
+      "pubdate": "Fri, 06 Dec 2024 19:00:00 +1100"
     }
   ]
 }

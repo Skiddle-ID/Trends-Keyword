@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "07-12-2024 , 11:36:08",
+  "lastUpdate": "07-12-2024 , 12:58:08",
   "data": [
-    {
-      "title": "Comic Con Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Comic%20Con%20Singapore",
-      "pubdate": "Sat, 07 Dec 2024 00:00:00 +0800"
-    },
     {
       "title": "Everton vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Everton%20vs%20Liverpool",
       "pubdate": "Sat, 07 Dec 2024 17:00:00 +0800"
     },
     {
+      "title": "Comic Con Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Comic%20Con%20Singapore",
+      "pubdate": "Sat, 07 Dec 2024 00:00:00 +0800"
+    },
+    {
       "title": "Serie A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Serie%20A",
       "pubdate": "Sat, 07 Dec 2024 12:00:00 +0800"
+    },
+    {
+      "title": "Storm Darragh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Storm%20Darragh",
+      "pubdate": "Sat, 07 Dec 2024 19:00:00 +0800"
     },
     {
       "title": "Syria",
@@ -25,6 +30,11 @@
       "title": "Travis Head",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Travis%20Head",
       "pubdate": "Sat, 07 Dec 2024 18:00:00 +0800"
+    },
+    {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
+      "pubdate": "Sat, 07 Dec 2024 20:00:00 +0800"
     },
     {
       "title": "India vs Australia",
@@ -57,14 +67,14 @@
       "pubdate": "Fri, 06 Dec 2024 18:00:00 +0800"
     },
     {
-      "title": "California earthquake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#California%20earthquake",
-      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0800"
-    },
-    {
       "title": "Black Doves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Black%20Doves",
       "pubdate": "Fri, 06 Dec 2024 02:00:00 +0800"
+    },
+    {
+      "title": "California earthquake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#California%20earthquake",
+      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0800"
     },
     {
       "title": "Max Verstappen",
@@ -90,16 +100,6 @@
       "title": "Starbucks Miffy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Starbucks%20Miffy",
       "pubdate": "Fri, 06 Dec 2024 11:00:00 +0800"
-    },
-    {
-      "title": "Hawk Tuah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hawk%20Tuah",
-      "pubdate": "Fri, 06 Dec 2024 22:00:00 +0800"
-    },
-    {
-      "title": "Club World Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Club%20World%20Cup",
-      "pubdate": "Fri, 06 Dec 2024 20:00:00 +0800"
     }
   ]
 }

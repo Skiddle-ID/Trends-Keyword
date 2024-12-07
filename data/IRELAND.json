@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-12-2024 , 11:36:04",
+  "lastUpdate": "07-12-2024 , 12:58:04",
   "data": [
     {
-      "title": "Electricity outage",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Electricity%20outage",
-      "pubdate": "Sat, 07 Dec 2024 01:00:00 +0000"
+      "title": "Everton vs Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20vs%20Liverpool",
+      "pubdate": "Sat, 07 Dec 2024 10:00:00 +0000"
     },
     {
       "title": "ESB Networks",
@@ -32,6 +32,11 @@
       "pubdate": "Sat, 07 Dec 2024 00:00:00 +0000"
     },
     {
+      "title": "Sigourney Weaver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sigourney%20Weaver",
+      "pubdate": "Sat, 07 Dec 2024 01:00:00 +0000"
+    },
+    {
       "title": "Dublin Bus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20Bus",
       "pubdate": "Sat, 07 Dec 2024 06:00:00 +0000"
@@ -40,11 +45,6 @@
       "title": "Daniel Penny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Daniel%20Penny",
       "pubdate": "Sat, 07 Dec 2024 01:00:00 +0000"
-    },
-    {
-      "title": "Everton vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Everton%20vs%20Liverpool",
-      "pubdate": "Sat, 07 Dec 2024 10:00:00 +0000"
     },
     {
       "title": "Katherine Zappone",
@@ -57,14 +57,9 @@
       "pubdate": "Fri, 06 Dec 2024 22:00:00 +0000"
     },
     {
-      "title": "Toy show 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Toy%20show%202024",
-      "pubdate": "Fri, 06 Dec 2024 01:00:00 +0000"
-    },
-    {
       "title": "Barry McGuigan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Barry%20McGuigan",
-      "pubdate": "Fri, 06 Dec 2024 18:00:00 +0000"
+      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0000"
     },
     {
       "title": "Dublin Airport",
@@ -77,16 +72,6 @@
       "pubdate": "Fri, 06 Dec 2024 22:00:00 +0000"
     },
     {
-      "title": "Maura Higgins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Maura%20Higgins",
-      "pubdate": "Fri, 06 Dec 2024 12:00:00 +0000"
-    },
-    {
-      "title": "India vs Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#India%20vs%20Australia",
-      "pubdate": "Fri, 06 Dec 2024 07:00:00 +0000"
-    },
-    {
       "title": "Pete Wicks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Pete%20Wicks",
       "pubdate": "Fri, 06 Dec 2024 16:00:00 +0000"
@@ -97,9 +82,24 @@
       "pubdate": "Fri, 06 Dec 2024 20:00:00 +0000"
     },
     {
+      "title": "India vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#India%20vs%20Australia",
+      "pubdate": "Fri, 06 Dec 2024 07:00:00 +0000"
+    },
+    {
       "title": "Champions Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20Cup",
       "pubdate": "Fri, 06 Dec 2024 18:00:00 +0000"
+    },
+    {
+      "title": "Leinster Rugby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leinster%20Rugby",
+      "pubdate": "Fri, 06 Dec 2024 18:00:00 +0000"
+    },
+    {
+      "title": "Rte Toy Show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rte%20Toy%20Show",
+      "pubdate": "Fri, 06 Dec 2024 21:00:00 +0000"
     }
   ]
 }

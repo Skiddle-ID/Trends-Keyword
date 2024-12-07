@@ -1,1 +1,1 @@
-Super Lig,Adana Demirspor,Serie A,SüperLig,Mahsun Kırmızıgül,Beşar Esad,Bibimbap,Meryem Boz,Trabzonspor  Kasımpaşa,Inter  Parma,Fenerbahçe Beşiktaş,Somer Sivrioğlu,Fenerbahçe Beko,Sertab Erener,Path of Exile 2,Emekli maaşı,Esad,Halka arz,Cıstak,Trabzon
+Konyaspor  Antalyaspor,Everton  Liverpool,Super Lig,Atalanta,Adana Demirspor,Serie A,Uğur Akkuş,Erzurumspor,Meryem Boz,Bibimbap,Trabzonspor,  Kasımpaşa,Fenerbahçe Beşiktaş,Somer Sivrioğlu,Serdar Erener,Sertab Erener,Inter,Esad,Emekli maaşı,Halka arz,Cıstak
