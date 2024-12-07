@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-12-2024 , 23:36:59",
+  "lastUpdate": "07-12-2024 , 02:10:59",
   "data": [
+    {
+      "title": "Bath – La Rochelle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bath%20%E2%80%93%20La%20Rochelle",
+      "pubdate": "Sat, 07 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Auxerre – paris-sg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Auxerre%20%E2%80%93%20paris-sg",
@@ -12,19 +17,14 @@
       "pubdate": "Fri, 06 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Seisme Californie tsunami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Seisme%20Californie%20tsunami",
-      "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Veronique Sanson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Veronique%20Sanson",
-      "pubdate": "Fri, 06 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Mercosur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mercosur",
       "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Seisme Californie tsunami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Seisme%20Californie%20tsunami",
+      "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Ligue 2",
@@ -42,19 +42,9 @@
       "pubdate": "Fri, 06 Dec 2024 02:00:00 +0100"
     },
     {
-      "title": "Balavoine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Balavoine",
-      "pubdate": "Fri, 06 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Marvel Rivals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marvel%20Rivals",
       "pubdate": "Fri, 06 Dec 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Chaines payantes Canal Plus TNT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chaines%20payantes%20Canal%20Plus%20TNT",
-      "pubdate": "Fri, 06 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Path of Exile 2",
@@ -62,14 +52,19 @@
       "pubdate": "Fri, 06 Dec 2024 13:00:00 +0100"
     },
     {
+      "title": "Chaines payantes Canal Plus TNT",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chaines%20payantes%20Canal%20Plus%20TNT",
+      "pubdate": "Fri, 06 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Balavoine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Balavoine",
+      "pubdate": "Fri, 06 Dec 2024 22:00:00 +0100"
+    },
+    {
       "title": "Kelly Piquet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kelly%20Piquet",
       "pubdate": "Fri, 06 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Syrie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Syrie",
-      "pubdate": "Fri, 06 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Indiana Jones et le Cercle Ancien",
@@ -82,9 +77,9 @@
       "pubdate": "Fri, 06 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "SCH",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#SCH",
-      "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
+      "title": "Atos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Atos",
+      "pubdate": "Fri, 06 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Philippe Bouvard",
@@ -92,14 +87,19 @@
       "pubdate": "Fri, 06 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Cyril Lignac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Lignac",
+      "title": "SCH",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#SCH",
       "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "L'Agence",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Agence",
-      "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
+      "title": "Furiosa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Furiosa",
+      "pubdate": "Fri, 06 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Karine Le Marchand",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karine%20Le%20Marchand",
+      "pubdate": "Fri, 06 Dec 2024 21:00:00 +0100"
     }
   ]
 }

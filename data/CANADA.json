@@ -1,25 +1,45 @@
 {
-  "lastUpdate": "06-12-2024 , 23:36:57",
+  "lastUpdate": "07-12-2024 , 02:10:57",
   "data": [
-    {
-      "title": "Oilers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-      "pubdate": "Fri, 06 Dec 2024 01:00:00 -0500"
-    },
     {
       "title": "Jacob Trouba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jacob%20Trouba",
       "pubdate": "Fri, 06 Dec 2024 11:00:00 -0500"
     },
     {
-      "title": "Patrik Laine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patrik%20Laine",
-      "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
+      "title": "Oilers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+      "pubdate": "Fri, 06 Dec 2024 01:00:00 -0500"
+    },
+    {
+      "title": "Winnipeg Jets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+      "pubdate": "Fri, 06 Dec 2024 09:00:00 -0500"
     },
     {
       "title": "Noel Hoefenmayer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Noel%20Hoefenmayer",
       "pubdate": "Fri, 06 Dec 2024 16:00:00 -0500"
+    },
+    {
+      "title": "Polytechnique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polytechnique",
+      "pubdate": "Fri, 06 Dec 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Canada unemployment rate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20unemployment%20rate",
+      "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Daniel Penny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daniel%20Penny",
+      "pubdate": "Fri, 06 Dec 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Patrik Laine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patrik%20Laine",
+      "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
     },
     {
       "title": "Ottawa Senators",
@@ -32,24 +52,19 @@
       "pubdate": "Fri, 06 Dec 2024 12:00:00 -0500"
     },
     {
-      "title": "Canada unemployment rate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20unemployment%20rate",
-      "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
-    },
-    {
       "title": "The Sticky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Sticky",
       "pubdate": "Fri, 06 Dec 2024 10:00:00 -0500"
     },
     {
-      "title": "Flames",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
-      "pubdate": "Fri, 06 Dec 2024 01:00:00 -0500"
+      "title": "Dick Van Dyke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dick%20Van%20Dyke",
+      "pubdate": "Fri, 06 Dec 2024 18:00:00 -0500"
     },
     {
-      "title": "FBI warning iPhone Android text Messages",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FBI%20warning%20iPhone%20Android%20text%20Messages",
-      "pubdate": "Fri, 06 Dec 2024 09:00:00 -0500"
+      "title": "Eras Tour Vancouver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eras%20Tour%20Vancouver",
+      "pubdate": "Fri, 06 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Max Verstappen",
@@ -57,9 +72,9 @@
       "pubdate": "Fri, 06 Dec 2024 09:00:00 -0500"
     },
     {
-      "title": "Polytechnique",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polytechnique",
-      "pubdate": "Fri, 06 Dec 2024 11:00:00 -0500"
+      "title": "Flames",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+      "pubdate": "Fri, 06 Dec 2024 01:00:00 -0500"
     },
     {
       "title": "Serie A",
@@ -67,39 +82,24 @@
       "pubdate": "Fri, 06 Dec 2024 17:00:00 -0500"
     },
     {
+      "title": "FBI warning iPhone Android text Messages",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FBI%20warning%20iPhone%20Android%20text%20Messages",
+      "pubdate": "Fri, 06 Dec 2024 09:00:00 -0500"
+    },
+    {
       "title": "Kelly Piquet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kelly%20Piquet",
       "pubdate": "Fri, 06 Dec 2024 12:00:00 -0500"
     },
     {
+      "title": "Capitals vs Maple Leafs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Capitals%20vs%20Maple%20Leafs",
+      "pubdate": "Fri, 06 Dec 2024 20:00:00 -0500"
+    },
+    {
       "title": "David Sacks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Sacks",
       "pubdate": "Fri, 06 Dec 2024 08:00:00 -0500"
-    },
-    {
-      "title": "Emma Dumont",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Emma%20Dumont",
-      "pubdate": "Fri, 06 Dec 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Luke Richardson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Luke%20Richardson",
-      "pubdate": "Fri, 06 Dec 2024 00:00:00 -0500"
-    },
-    {
-      "title": "Amber Heard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amber%20Heard",
-      "pubdate": "Fri, 06 Dec 2024 00:00:00 -0500"
-    },
-    {
-      "title": "Mania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mania",
-      "pubdate": "Fri, 06 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Grace Lore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Grace%20Lore",
-      "pubdate": "Fri, 06 Dec 2024 01:00:00 -0500"
     }
   ]
 }

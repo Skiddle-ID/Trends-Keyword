@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "06-12-2024 , 23:37:01",
+  "lastUpdate": "07-12-2024 , 02:11:03",
   "data": [
-    {
-      "title": "Al-Ittihad vs Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Ittihad%20vs%20Al-Nassr",
-      "pubdate": "Sat, 07 Dec 2024 01:00:00 +0800"
-    },
     {
       "title": "Marvel Rivals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Marvel%20Rivals",
@@ -15,6 +10,11 @@
       "title": "Inter Vs Parma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Vs%20Parma",
       "pubdate": "Sat, 07 Dec 2024 02:00:00 +0800"
+    },
+    {
+      "title": "Serie A",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Serie%20A",
+      "pubdate": "Sat, 07 Dec 2024 07:00:00 +0800"
     },
     {
       "title": "India vs Australia",
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 05 Dec 2024 07:00:00 +0800"
     },
     {
-      "title": "Brian Thompson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brian%20Thompson",
-      "pubdate": "Thu, 05 Dec 2024 09:00:00 +0800"
-    },
-    {
       "title": "Mu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu",
       "pubdate": "Thu, 05 Dec 2024 06:00:00 +0800"
+    },
+    {
+      "title": "Brian Thompson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brian%20Thompson",
+      "pubdate": "Thu, 05 Dec 2024 09:00:00 +0800"
     }
   ]
 }
