@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 11:36:02",
+  "lastUpdate": "08-12-2024 , 12:58:55",
   "data": [
     {
       "title": "Syria",
@@ -10,6 +10,16 @@
       "title": "Fulham vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham%20vs%20Arsenal",
       "pubdate": "Sun, 08 Dec 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid match",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20match",
+      "pubdate": "Sun, 08 Dec 2024 02:00:00 +0100"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UFC",
+      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Man United vs nottm Forest",
@@ -37,6 +47,11 @@
       "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
     },
     {
+      "title": "Man Utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd",
+      "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
+    },
+    {
       "title": "Brentford vs Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brentford%20vs%20Newcastle",
       "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
@@ -52,14 +67,14 @@
       "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Juventus vs Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus%20vs%20Bologna",
-      "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
-    },
-    {
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr",
       "pubdate": "Sat, 07 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Juventus vs Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus%20vs%20Bologna",
+      "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Liverpool FC",
@@ -67,14 +82,14 @@
       "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20Munich",
-      "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
-    },
-    {
       "title": "Chelsea vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Tottenham",
       "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Juventus",
+      "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Benfica",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "NNPC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NNPC",
-      "pubdate": "Sat, 07 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma",
-      "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Ghana Election 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ghana%20Election%202024",
+      "title": "Ghana election 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ghana%20election%202024",
       "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Michail Antonio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Michail%20Antonio",
-      "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
     }
   ]
 }
