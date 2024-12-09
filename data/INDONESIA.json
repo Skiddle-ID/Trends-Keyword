@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-12-2024 , 17:39:31",
+  "lastUpdate": "09-12-2024 , 18:46:45",
   "data": [
+    {
+      "title": "Getafe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Getafe",
+      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0700"
+    },
     {
       "title": "PSS vs Persib Bandung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSS%20vs%20Persib%20Bandung",
@@ -42,14 +47,19 @@
       "pubdate": "Mon, 09 Dec 2024 19:00:00 +0700"
     },
     {
-      "title": "Jurassic World",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jurassic%20World",
-      "pubdate": "Mon, 09 Dec 2024 12:00:00 +0700"
+      "title": "Jadon Sancho",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jadon%20Sancho",
+      "pubdate": "Mon, 09 Dec 2024 08:00:00 +0700"
     },
     {
       "title": "Vietnam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Vietnam",
       "pubdate": "Mon, 09 Dec 2024 22:00:00 +0700"
+    },
+    {
+      "title": "Jurassic World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jurassic%20World",
+      "pubdate": "Mon, 09 Dec 2024 12:00:00 +0700"
     },
     {
       "title": "Hari Antikorupsi Sedunia 2024",
@@ -59,7 +69,7 @@
     {
       "title": "Myanmar vs Indonesia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Myanmar%20vs%20Indonesia",
-      "pubdate": "Sun, 08 Dec 2024 15:00:00 +0700"
+      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0700"
     },
     {
       "title": "Man utd vs Nottingham Forest",
@@ -77,29 +87,19 @@
       "pubdate": "Sun, 08 Dec 2024 21:00:00 +0700"
     },
     {
+      "title": "Kamboja vs Malaysia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kamboja%20vs%20Malaysia",
+      "pubdate": "Sun, 08 Dec 2024 18:00:00 +0700"
+    },
+    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Real%20Madrid",
       "pubdate": "Sun, 08 Dec 2024 05:00:00 +0700"
     },
     {
-      "title": "Timor Leste vs Thailand",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Timor%20Leste%20vs%20Thailand",
-      "pubdate": "Sun, 08 Dec 2024 20:00:00 +0700"
-    },
-    {
       "title": "Juventus vs Bologna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Juventus%20vs%20Bologna",
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0700"
-    },
-    {
-      "title": "Persita vs Persis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita%20vs%20Persis",
-      "pubdate": "Sun, 08 Dec 2024 19:00:00 +0700"
-    },
-    {
-      "title": "Barito Putera vs PSBS Biak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barito%20Putera%20vs%20PSBS%20Biak",
-      "pubdate": "Sun, 08 Dec 2024 15:00:00 +0700"
     }
   ]
 }

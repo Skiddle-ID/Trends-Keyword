@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-12-2024 , 17:39:33",
+  "lastUpdate": "09-12-2024 , 18:46:47",
   "data": [
+    {
+      "title": "Vipps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vipps",
+      "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
+    },
     {
       "title": "Jay-Z",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jay-Z",
@@ -27,24 +32,14 @@
       "pubdate": "Mon, 09 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "The Brutalist",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Brutalist",
+      "title": "Mona Fastvold",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mona%20Fastvold",
       "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Heidi Weng",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Heidi%20Weng",
       "pubdate": "Mon, 09 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Mona Fastvold",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mona%20Fastvold",
-      "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Tæppe med Vipps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#T%C3%A6ppe%20med%20Vipps",
-      "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "REMA 1000",
@@ -90,6 +85,11 @@
       "title": "Dan Ashworth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dan%20Ashworth",
       "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Lewis Hamilton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lewis%20Hamilton",
+      "pubdate": "Sun, 08 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Israel",
