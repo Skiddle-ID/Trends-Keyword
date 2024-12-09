@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "09-12-2024 , 11:36:01",
+  "lastUpdate": "09-12-2024 , 13:03:49",
   "data": [
     {
       "title": "Jay-Z",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jay-Z",
       "pubdate": "Mon, 09 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Roi du Maroc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roi%20du%20Maroc",
+      "pubdate": "Mon, 09 Dec 2024 11:00:00 +0100"
     },
     {
       "title": "Patro Eisden",
@@ -15,6 +20,16 @@
       "title": "Celine Van Ouytsel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celine%20Van%20Ouytsel",
       "pubdate": "Mon, 09 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "HTS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#HTS",
+      "pubdate": "Mon, 09 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Team Spirit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Team%20Spirit",
+      "pubdate": "Mon, 09 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Syrie",
@@ -52,19 +67,14 @@
       "pubdate": "Sun, 08 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-      "pubdate": "Sun, 08 Dec 2024 15:00:00 +0100"
-    },
-    {
       "title": "Anderlecht Beerschot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20Beerschot",
       "pubdate": "Sun, 08 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Wereldlichtjesdag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wereldlichtjesdag",
-      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+      "pubdate": "Sun, 08 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Atlético Madrid – Séville",
@@ -72,14 +82,14 @@
       "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
     },
     {
+      "title": "Wereldlichtjesdag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wereldlichtjesdag",
+      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
+    },
+    {
       "title": "Nicko McBrain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicko%20McBrain",
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
-      "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Lewis Hamilton",
@@ -87,18 +97,8 @@
       "pubdate": "Sun, 08 Dec 2024 18:00:00 +0100"
     },
     {
-      "title": "Macron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Macron",
-      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Spiking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spiking",
-      "pubdate": "Sun, 08 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Saint-Étienne – Marseille",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saint-%C3%89tienne%20%E2%80%93%20Marseille",
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
       "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
     }
   ]
