@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "08-12-2024 , 23:35:55",
+  "lastUpdate": "09-12-2024 , 02:16:12",
   "data": [
+    {
+      "title": "Botafogo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo",
+      "pubdate": "Sun, 08 Dec 2024 08:00:00 -0500"
+    },
     {
       "title": "Palmeiras x Fluminense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Fluminense",
       "pubdate": "Sun, 08 Dec 2024 05:00:00 -0500"
-    },
-    {
-      "title": "Atlético-MG x Athletico-PR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Athletico-PR",
-      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
     },
     {
       "title": "Grêmio x Corinthians",
@@ -17,9 +17,19 @@
       "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
     },
     {
-      "title": "Botafogo x São Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20S%C3%A3o%20Paulo",
-      "pubdate": "Sun, 08 Dec 2024 08:00:00 -0500"
+      "title": "Atlético-MG x Athletico-PR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Athletico-PR",
+      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Flamengo x ec Vitória",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20ec%20Vit%C3%B3ria",
+      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
+    },
+    {
+      "title": "Bahia x Atlético-GO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Atl%C3%A9tico-GO",
+      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
     },
     {
       "title": "Bragantino x Criciúma",
@@ -42,9 +52,14 @@
       "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
     },
     {
-      "title": "Bahia x Atlético-GO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Atl%C3%A9tico-GO",
-      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
+      "title": "The Line",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Line",
+      "pubdate": "Sun, 08 Dec 2024 18:00:00 -0500"
+    },
+    {
+      "title": "Fulham x Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham%20x%20Arsenal",
+      "pubdate": "Sun, 08 Dec 2024 09:00:00 -0500"
     },
     {
       "title": "Tottenham x Chelsea",
@@ -52,14 +67,19 @@
       "pubdate": "Sun, 08 Dec 2024 11:00:00 -0500"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
-      "pubdate": "Sun, 08 Dec 2024 12:00:00 -0500"
-    },
-    {
       "title": "Nossa Senhora da Conceição",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nossa%20Senhora%20da%20Concei%C3%A7%C3%A3o",
       "pubdate": "Sun, 08 Dec 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Artilheiro do Brasileirão",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Artilheiro%20do%20Brasileir%C3%A3o",
+      "pubdate": "Sun, 08 Dec 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Futebol Ao Vivo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Futebol%20Ao%20Vivo",
+      "pubdate": "Sun, 08 Dec 2024 19:00:00 -0500"
     },
     {
       "title": "Lewis Hamilton",
@@ -72,34 +92,14 @@
       "pubdate": "Sun, 08 Dec 2024 09:00:00 -0500"
     },
     {
+      "title": "F1 classificação",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#F1%20classifica%C3%A7%C3%A3o",
+      "pubdate": "Sun, 08 Dec 2024 10:00:00 -0500"
+    },
+    {
       "title": "Acai",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Acai",
       "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Dia da familia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20da%20familia",
-      "pubdate": "Sun, 08 Dec 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Selton Mello",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selton%20Mello",
-      "pubdate": "Sun, 08 Dec 2024 05:00:00 -0500"
-    },
-    {
-      "title": "GTA 6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GTA%206",
-      "pubdate": "Sun, 08 Dec 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Dudu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dudu",
-      "pubdate": "Sun, 08 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Cap",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cap",
-      "pubdate": "Sun, 08 Dec 2024 16:00:00 -0500"
     }
   ]
 }

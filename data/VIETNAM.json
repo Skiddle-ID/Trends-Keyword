@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "08-12-2024 , 23:36:05",
+  "lastUpdate": "09-12-2024 , 02:16:22",
   "data": [
     {
       "title": "Leicester",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Leicester",
       "pubdate": "Mon, 09 Dec 2024 01:00:00 +0700"
+    },
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
+      "pubdate": "Mon, 09 Dec 2024 07:00:00 +0700"
     },
     {
       "title": "Tổng thống Hàn Quốc Yoon Suk-yeol",
@@ -17,11 +22,6 @@
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0700"
     },
     {
-      "title": "Girona đấu với Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Girona%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
-      "pubdate": "Sun, 08 Dec 2024 03:00:00 +0700"
-    },
-    {
       "title": "Fulham đấu với Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fulham%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Arsenal",
       "pubdate": "Sun, 08 Dec 2024 21:00:00 +0700"
@@ -30,6 +30,11 @@
       "title": "Tottenham đấu với Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Chelsea",
       "pubdate": "Sun, 08 Dec 2024 23:00:00 +0700"
+    },
+    {
+      "title": "Girona đấu với Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Girona%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
+      "pubdate": "Sun, 08 Dec 2024 03:00:00 +0700"
     },
     {
       "title": "Đông Timor đấu với Thái Lan",
@@ -52,8 +57,8 @@
       "pubdate": "Sun, 08 Dec 2024 09:00:00 +0700"
     },
     {
-      "title": "MC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
+      "title": "Mc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mc",
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0700"
     },
     {
@@ -67,6 +72,16 @@
       "pubdate": "Sun, 08 Dec 2024 07:00:00 +0700"
     },
     {
+      "title": "Việt Nam vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vi%E1%BB%87t%20Nam%20vs",
+      "pubdate": "Sun, 08 Dec 2024 18:00:00 +0700"
+    },
+    {
+      "title": "12 chiến sĩ hy sinh Nguyên nhân",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#12%20chi%E1%BA%BFn%20s%C4%A9%20hy%20sinh%20Nguy%C3%AAn%20nh%C3%A2n",
+      "pubdate": "Sun, 08 Dec 2024 16:00:00 +0700"
+    },
+    {
       "title": "XSMN hôm xổ số miền Nam 7/12",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#XSMN%20h%C3%B4m%20x%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%207/12",
       "pubdate": "Sun, 08 Dec 2024 11:00:00 +0700"
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0700"
     },
     {
-      "title": "Aston villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20villa",
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa",
       "pubdate": "Sun, 08 Dec 2024 00:00:00 +0700"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
-      "pubdate": "Sun, 08 Dec 2024 02:00:00 +0700"
-    },
-    {
-      "title": "Việt nam vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vi%E1%BB%87t%20nam%20vs",
+      "title": "8Wonder",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#8Wonder",
       "pubdate": "Sun, 08 Dec 2024 18:00:00 +0700"
-    },
-    {
-      "title": "Dangrangto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dangrangto",
-      "pubdate": "Sun, 08 Dec 2024 11:00:00 +0700"
-    },
-    {
-      "title": "Luxshare",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Luxshare",
-      "pubdate": "Sun, 08 Dec 2024 12:00:00 +0700"
     }
   ]
 }
