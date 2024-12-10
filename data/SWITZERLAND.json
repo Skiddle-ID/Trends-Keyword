@@ -1,10 +1,35 @@
 {
-  "lastUpdate": "09-12-2024 , 23:37:51",
+  "lastUpdate": "10-12-2024 , 02:15:11",
   "data": [
+    {
+      "title": "Ferrari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ferrari",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Accident autoroute A1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Accident%20autoroute%20A1",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Hellfest 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hellfest%202025",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Vollmond",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vollmond",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Covid-19",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Covid-19",
       "pubdate": "Mon, 09 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Luigi Mangione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luigi%20Mangione",
+      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Bankomat gesprengt Hünibach",
@@ -22,6 +47,11 @@
       "pubdate": "Mon, 09 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Adele Haenel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adele%20Haenel",
+      "pubdate": "Mon, 09 Dec 2024 15:00:00 +0100"
+    },
+    {
       "title": "Hape Kerkeling",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hape%20Kerkeling",
       "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
@@ -30,11 +60,6 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
       "pubdate": "Mon, 09 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Adele Haenel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adele%20Haenel",
-      "pubdate": "Mon, 09 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Trenitalia",
@@ -52,9 +77,9 @@
       "pubdate": "Mon, 09 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "James Bond",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Bond",
-      "pubdate": "Mon, 09 Dec 2024 16:00:00 +0100"
+      "title": "Sora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sora",
+      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Israel",
@@ -67,11 +92,6 @@
       "pubdate": "Mon, 09 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Sora",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sora",
-      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Asma al-Assad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Asma%20al-Assad",
       "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "Nani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nani",
       "pubdate": "Mon, 09 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Lara Fabian",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Fabian",
-      "pubdate": "Mon, 09 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Haiti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Haiti",
-      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Neapel – Lazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Neapel%20%E2%80%93%20Lazio",
-      "pubdate": "Mon, 09 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Assad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Assad",
-      "pubdate": "Sun, 08 Dec 2024 09:00:00 +0100"
     }
   ]
 }

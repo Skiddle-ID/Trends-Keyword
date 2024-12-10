@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "09-12-2024 , 23:37:47",
+  "lastUpdate": "10-12-2024 , 02:15:07",
   "data": [
+    {
+      "title": "Marco Garofalo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Garofalo",
+      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Hoara Borselli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Hoara%20Borselli",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Golden Globes 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Golden%20Globes%202025",
+      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0100"
+    },
     {
       "title": "Calenzano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calenzano",
@@ -22,14 +37,19 @@
       "pubdate": "Mon, 09 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Luigi Mangione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luigi%20Mangione",
+      "pubdate": "Mon, 09 Dec 2024 20:00:00 +0100"
+    },
+    {
       "title": "Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
       "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Luigi Mangione",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luigi%20Mangione",
-      "pubdate": "Mon, 09 Dec 2024 20:00:00 +0100"
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Champions%20League",
+      "pubdate": "Mon, 09 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Terremoto oggi",
@@ -62,11 +82,6 @@
       "pubdate": "Mon, 09 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "INGV terremoti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#INGV%20terremoti",
-      "pubdate": "Mon, 09 Dec 2024 11:00:00 +0100"
-    },
-    {
       "title": "Pellegri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pellegri",
       "pubdate": "Mon, 09 Dec 2024 14:00:00 +0100"
@@ -77,29 +92,14 @@
       "pubdate": "Mon, 09 Dec 2024 14:00:00 +0100"
     },
     {
+      "title": "Stefano Casiraghi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stefano%20Casiraghi",
+      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
+    },
+    {
       "title": "Valeria Bruni Tedeschi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valeria%20Bruni%20Tedeschi",
       "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Problemi banca Monte dei Paschi di Siena",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Problemi%20banca%20Monte%20dei%20Paschi%20di%20Siena",
-      "pubdate": "Mon, 09 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Vannacci",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vannacci",
-      "pubdate": "Mon, 09 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Singapore",
-      "pubdate": "Mon, 09 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Taylor%20Swift",
-      "pubdate": "Mon, 09 Dec 2024 22:00:00 +0100"
     }
   ]
 }

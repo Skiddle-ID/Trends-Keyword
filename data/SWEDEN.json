@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "09-12-2024 , 23:37:51",
+  "lastUpdate": "10-12-2024 , 02:15:11",
   "data": [
+    {
+      "title": "Malmö",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6",
+      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Luigi Mangione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luigi%20Mangione",
+      "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
+    },
     {
       "title": "Reflexväst barn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reflexv%C3%A4st%20barn",
@@ -10,6 +20,11 @@
       "title": "Jay-Z",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jay-Z",
       "pubdate": "Mon, 09 Dec 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Julgransflygning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julgransflygning",
+      "pubdate": "Mon, 09 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Lucia",
@@ -42,9 +57,9 @@
       "pubdate": "Mon, 09 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Cole Palmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cole%20Palmer",
-      "pubdate": "Mon, 09 Dec 2024 09:00:00 +0100"
+      "title": "Hallands Nyheter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hallands%20Nyheter",
+      "pubdate": "Mon, 09 Dec 2024 06:00:00 +0100"
     },
     {
       "title": "Brand-varberg",
@@ -62,14 +77,14 @@
       "pubdate": "Sun, 08 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Syrien Bashar al-Assad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Syrien%20Bashar%20al-Assad",
-      "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
       "pubdate": "Sun, 08 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Syrien Bashar al-Assad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Syrien%20Bashar%20al-Assad",
+      "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Alzheimers sjukdom",
@@ -85,21 +100,6 @@
       "title": "Camilla Läckberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Camilla%20L%C3%A4ckberg",
       "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Asma al-Assad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Asma%20al-Assad",
-      "pubdate": "Sun, 08 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Israel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel",
-      "pubdate": "Sun, 08 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Tottenham. Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham.%20Chelsea",
-      "pubdate": "Sun, 08 Dec 2024 21:00:00 +0100"
     }
   ]
 }
