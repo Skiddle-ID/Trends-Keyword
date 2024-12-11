@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 07:37:35",
+  "lastUpdate": "11-12-2024 , 08:45:38",
   "data": [
     {
       "title": "Secret Level",
@@ -12,9 +12,29 @@
       "pubdate": "Wed, 11 Dec 2024 02:00:00 +0100"
     },
     {
-      "title": "Atalanta vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta%20vs%20Real%20Madrid",
-      "pubdate": "Tue, 10 Dec 2024 11:00:00 +0100"
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Europa%20League",
+      "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Arsenal vs Monaco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Monaco",
+      "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Kylian Mbappé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kylian%20Mbapp%C3%A9",
+      "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "28 Years Later",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#28%20Years%20Later",
+      "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Girona vs Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Girona%20vs%20Liverpool",
+      "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "RB Leipzig vs Aston Villa",
@@ -47,14 +67,14 @@
       "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Luigi Mangione",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luigi%20Mangione",
-      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
-    },
-    {
       "title": "UEFA Champions League standings",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA%20Champions%20League%20standings",
       "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Luigi Mangione",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luigi%20Mangione",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Dele Farotimi",
@@ -67,6 +87,11 @@
       "pubdate": "Tue, 10 Dec 2024 23:00:00 +0100"
     },
     {
+      "title": "Realmadrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Realmadrid",
+      "pubdate": "Tue, 10 Dec 2024 23:00:00 +0100"
+    },
+    {
       "title": "Burnley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley",
       "pubdate": "Tue, 10 Dec 2024 23:00:00 +0100"
@@ -75,31 +100,6 @@
       "title": "Yahaya Bello",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Yahaya%20Bello",
       "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Ariana Grande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ariana%20Grande",
-      "pubdate": "Tue, 10 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Girona vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Girona%20vs%20Liverpool",
-      "pubdate": "Mon, 09 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea",
-      "pubdate": "Mon, 09 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "West Ham vs Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Ham%20vs%20Wolves",
-      "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "UEFA Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA%20Champions%20League",
-      "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
     }
   ]
 }

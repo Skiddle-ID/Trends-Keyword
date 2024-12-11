@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 07:37:38",
+  "lastUpdate": "11-12-2024 , 08:45:41",
   "data": [
     {
       "title": "UEFA Avrupa Ligi",
@@ -12,6 +12,11 @@
       "pubdate": "Wed, 11 Dec 2024 00:00:00 +0300"
     },
     {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus",
+      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0300"
+    },
+    {
       "title": "Marmaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Marmaray",
       "pubdate": "Wed, 11 Dec 2024 01:00:00 +0300"
@@ -22,9 +27,19 @@
       "pubdate": "Wed, 11 Dec 2024 00:00:00 +0300"
     },
     {
+      "title": "Keanu Reeves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Keanu%20Reeves",
+      "pubdate": "Wed, 11 Dec 2024 10:00:00 +0300"
+    },
+    {
       "title": "Secret Level",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Secret%20Level",
       "pubdate": "Wed, 11 Dec 2024 05:00:00 +0300"
+    },
+    {
+      "title": "Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Club%20Brugge",
+      "pubdate": "Wed, 11 Dec 2024 10:00:00 +0300"
     },
     {
       "title": "Atalanta  Real Madrid",
@@ -39,7 +54,7 @@
     {
       "title": "HGS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#HGS",
-      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0300"
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0300"
     },
     {
       "title": "Ehliyet yaş sınırı",
@@ -62,9 +77,19 @@
       "pubdate": "Tue, 10 Dec 2024 21:00:00 +0300"
     },
     {
+      "title": "Anadolu Sigorta hacklendi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Anadolu%20Sigorta%20hacklendi",
+      "pubdate": "Tue, 10 Dec 2024 00:00:00 +0300"
+    },
+    {
       "title": "Sora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sora",
       "pubdate": "Tue, 10 Dec 2024 02:00:00 +0300"
+    },
+    {
+      "title": "Sednaya Hapishanesi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sednaya%20Hapishanesi",
+      "pubdate": "Tue, 10 Dec 2024 06:00:00 +0300"
     },
     {
       "title": "Sağlık Bakanlığı personel alımı",
@@ -72,34 +97,9 @@
       "pubdate": "Tue, 10 Dec 2024 00:00:00 +0300"
     },
     {
-      "title": "Bülent Polat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#B%C3%BClent%20Polat",
-      "pubdate": "Tue, 10 Dec 2024 10:00:00 +0300"
-    },
-    {
-      "title": "Serdal Adalı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Serdal%20Adal%C4%B1",
-      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0300"
-    },
-    {
       "title": "Van",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Van",
       "pubdate": "Tue, 10 Dec 2024 17:00:00 +0300"
-    },
-    {
-      "title": "Guns N' Roses",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Guns%20N'%20Roses",
-      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Yayladağı Sınır Kapısı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yaylada%C4%9F%C4%B1%20S%C4%B1n%C4%B1r%20Kap%C4%B1s%C4%B1",
-      "pubdate": "Tue, 10 Dec 2024 11:00:00 +0300"
-    },
-    {
-      "title": "Suriye Beşar Esad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Suriye%20Be%C5%9Far%20Esad",
-      "pubdate": "Tue, 10 Dec 2024 10:00:00 +0300"
     }
   ]
 }

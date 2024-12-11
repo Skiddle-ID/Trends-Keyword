@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-12-2024 , 07:37:32",
+  "lastUpdate": "11-12-2024 , 08:45:35",
   "data": [
+    {
+      "title": "Pajta étterem",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pajta%20%C3%A9tterem",
+      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
+    },
     {
       "title": "Girona–liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Girona%E2%80%93liverpool",
@@ -22,14 +27,9 @@
       "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Jászai Gellért",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#J%C3%A1szai%20Gell%C3%A9rt",
-      "pubdate": "Tue, 10 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Ónodi Henrietta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nodi%20Henrietta",
-      "pubdate": "Tue, 10 Dec 2024 09:00:00 +0100"
+      "title": "Női kézilabda Eb",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20k%C3%A9zilabda%20Eb",
+      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "28 nappal később",
@@ -37,9 +37,19 @@
       "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     },
     {
+      "title": "Ónodi Henrietta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nodi%20Henrietta",
+      "pubdate": "Tue, 10 Dec 2024 09:00:00 +0100"
+    },
+    {
       "title": "Blue Ivy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Blue%20Ivy",
       "pubdate": "Tue, 10 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Törőcsik Franciska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C5%91csik%20Franciska",
+      "pubdate": "Tue, 10 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Dobó Kata",
@@ -49,6 +59,11 @@
     {
       "title": "Havazás",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havaz%C3%A1s",
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Megan Fox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megan%20Fox",
       "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
@@ -77,28 +92,13 @@
       "pubdate": "Tue, 10 Dec 2024 02:00:00 +0100"
     },
     {
-      "title": "Megan Fox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megan%20Fox",
-      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Politico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Politico",
       "pubdate": "Tue, 10 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Busz villamos baleset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Busz%20villamos%20baleset",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Nagy Márton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20M%C3%A1rton",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Egészségbiztosítási Kártya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eg%C3%A9szs%C3%A9gbiztos%C3%ADt%C3%A1si%20K%C3%A1rtya",
+      "title": "Kékessy Andrea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9kessy%20Andrea",
       "pubdate": "Tue, 10 Dec 2024 23:00:00 +0100"
     }
   ]
