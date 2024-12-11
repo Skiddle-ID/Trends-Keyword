@@ -1,1 +1,1 @@
-Fenerbahçe,Soli Özel,TRT,Halka arz,Inter,Comnet,Fener,Juventus,Hakan Fidan,Marmaray,Keanu Reeves,UEFA Avrupa Ligi puan durumu,Okan Dericioğlu,Bodo/Glimt,Tom Barrack,VAR kayıtları,Süleyman Şah Türbesi,Sen Ağlama İstanbul dizisi oyuncuları,Galatasaray Malmö maçı ne zaman,Haldun Dormen
+Fenerbahçe,Beşiktaş,Soli Özel,Avrupa Ligi puan durumu,GS maçı,TRT,Fener,Halka arz,Beşiktaş maçı,Comnet,Başakşehir,Juventus,POMEM başvuru sonuçları,Hakan Fidan,Marmaray,Tom Barrack,Okan Dericioğlu,Süleyman Şah Türbesi,VAR kayıtları,Sen Ağlama İstanbul dizisi oyuncuları

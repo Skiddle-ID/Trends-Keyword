@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 17:39:17",
+  "lastUpdate": "11-12-2024 , 18:46:56",
   "data": [
     {
       "title": "Sol Heilo",
@@ -17,6 +17,11 @@
       "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
     },
     {
+      "title": "Jazzercise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jazzercise",
+      "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
+    },
+    {
       "title": "Teco 2030",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Teco%202030",
       "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
@@ -30,6 +35,11 @@
       "title": "Mariah Carey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mariah%20Carey",
       "pubdate": "Wed, 11 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Anne B. Ragde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20B.%20Ragde",
+      "pubdate": "Wed, 11 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Europa League",
@@ -52,9 +62,9 @@
       "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Girona",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
+      "title": "Girona mot Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Girona%20mot%20Liverpool",
+      "pubdate": "Tue, 10 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Salma-laks",
@@ -87,19 +97,9 @@
       "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Nobels fredspris",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nobels%20fredspris",
-      "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Apple Pay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Apple%20Pay",
-      "pubdate": "Tue, 10 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Hans Erik Ødegaard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hans%20Erik%20%C3%98degaard",
-      "pubdate": "Tue, 10 Dec 2024 07:00:00 +0100"
+      "title": "Tobias Santelmann",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tobias%20Santelmann",
+      "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
     }
   ]
 }
