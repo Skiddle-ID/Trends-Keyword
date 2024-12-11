@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 11:35:42",
+  "lastUpdate": "11-12-2024 , 13:03:07",
   "data": [
     {
       "title": "Atalanta vs Real Madrid",
@@ -57,6 +57,11 @@
       "pubdate": "Wed, 11 Dec 2024 14:00:00 +0800"
     },
     {
+      "title": "Ebit Lew",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ebit%20Lew",
+      "pubdate": "Wed, 11 Dec 2024 12:00:00 +0800"
+    },
+    {
       "title": "Girona vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Girona%20vs%20Liverpool",
       "pubdate": "Tue, 10 Dec 2024 08:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Sora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sora",
       "pubdate": "Tue, 10 Dec 2024 13:00:00 +0800"
-    },
-    {
-      "title": "Tesla Model Q",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla%20Model%20Q",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0800"
     }
   ]
 }
