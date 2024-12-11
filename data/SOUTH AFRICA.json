@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "10-12-2024 , 23:36:53",
+  "lastUpdate": "11-12-2024 , 02:13:03",
   "data": [
     {
-      "title": "Girona vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Girona%20vs%20Liverpool",
-      "pubdate": "Tue, 10 Dec 2024 05:00:00 +0200"
+      "title": "Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Club%20Brugge",
+      "pubdate": "Wed, 11 Dec 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Nikki Giovanni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nikki%20Giovanni",
+      "pubdate": "Wed, 11 Dec 2024 01:00:00 +0200"
+    },
+    {
+      "title": "28 Years Later",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#28%20Years%20Later",
+      "pubdate": "Wed, 11 Dec 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Secret Level",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Secret%20Level",
+      "pubdate": "Wed, 11 Dec 2024 03:00:00 +0200"
     },
     {
       "title": "Atalanta vs Real Madrid",
@@ -22,19 +37,9 @@
       "pubdate": "Tue, 10 Dec 2024 18:00:00 +0200"
     },
     {
-      "title": "Dinamo Zagreb vs Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dinamo%20Zagreb%20vs%20Celtic",
-      "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
-    },
-    {
       "title": "RB Leipzig vs Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Leipzig%20vs%20Aston%20Villa",
       "pubdate": "Tue, 10 Dec 2024 20:00:00 +0200"
-    },
-    {
-      "title": "Thulani Mngomezulu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thulani%20Mngomezulu",
-      "pubdate": "Tue, 10 Dec 2024 17:00:00 +0200"
     },
     {
       "title": "Leverkusen vs Inter",
@@ -47,18 +52,18 @@
       "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
-      "pubdate": "Tue, 10 Dec 2024 20:00:00 +0200"
+      "title": "Celtic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic",
+      "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
+    },
+    {
+      "title": "RB Salzburg vs PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Salzburg%20vs%20PSG",
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
-      "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
-    },
-    {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
       "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
     },
     {
@@ -77,14 +82,14 @@
       "pubdate": "Tue, 10 Dec 2024 23:00:00 +0200"
     },
     {
-      "title": "Championship",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Championship",
-      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
-    },
-    {
       "title": "Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
       "pubdate": "Tue, 10 Dec 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Championship",
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "Heatwave",
@@ -95,11 +100,6 @@
       "title": "Getafe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
       "pubdate": "Tue, 10 Dec 2024 07:00:00 +0200"
-    },
-    {
-      "title": "Sora",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sora",
-      "pubdate": "Tue, 10 Dec 2024 14:00:00 +0200"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-12-2024 , 23:36:50",
+  "lastUpdate": "11-12-2024 , 02:12:58",
   "data": [
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
+      "pubdate": "Wed, 11 Dec 2024 04:30:00 +0530"
+    },
     {
       "title": "South Africa vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Africa%20vs%20Pakistan",
@@ -12,9 +17,9 @@
       "pubdate": "Tue, 10 Dec 2024 08:30:00 +0530"
     },
     {
-      "title": "Girona vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Girona%20vs%20Liverpool",
-      "pubdate": "Tue, 10 Dec 2024 13:30:00 +0530"
+      "title": "UEFA Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Champions%20League",
+      "pubdate": "Tue, 10 Dec 2024 23:30:00 +0530"
     },
     {
       "title": "Atul Subhash",
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 10 Dec 2024 15:30:00 +0530"
     },
     {
-      "title": "UEFA Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Champions%20League",
-      "pubdate": "Tue, 10 Dec 2024 23:30:00 +0530"
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Champions%20League",
+      "pubdate": "Tue, 10 Dec 2024 13:30:00 +0530"
     },
     {
       "title": "Luigi Mangione",
@@ -37,8 +42,8 @@
       "pubdate": "Tue, 10 Dec 2024 04:30:00 +0530"
     },
     {
-      "title": "Kurla Bus accident",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kurla%20Bus%20accident",
+      "title": "Kurla Bus Accident",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kurla%20Bus%20Accident",
       "pubdate": "Tue, 10 Dec 2024 13:30:00 +0530"
     },
     {
@@ -50,11 +55,6 @@
       "title": "Human Rights Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Human%20Rights%20Day",
       "pubdate": "Tue, 10 Dec 2024 10:30:00 +0530"
-    },
-    {
-      "title": "Andrew Garfield",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Andrew%20Garfield",
-      "pubdate": "Tue, 10 Dec 2024 16:30:00 +0530"
     },
     {
       "title": "28 Years Later",
@@ -74,7 +74,7 @@
     {
       "title": "UGC NET",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UGC%20NET",
-      "pubdate": "Mon, 09 Dec 2024 23:30:00 +0530"
+      "pubdate": "Mon, 09 Dec 2024 21:30:00 +0530"
     },
     {
       "title": "RBI governor",
