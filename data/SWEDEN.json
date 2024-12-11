@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 05:40:22",
+  "lastUpdate": "11-12-2024 , 06:47:00",
   "data": [
     {
       "title": "CL",
@@ -19,7 +19,7 @@
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+      "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Liverpool",
@@ -30,6 +30,11 @@
       "title": "SSAB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SSAB",
       "pubdate": "Tue, 10 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Nya körkortet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nya%20k%C3%B6rkortet",
+      "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "28 Years Later",
@@ -52,14 +57,14 @@
       "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Elitstyrkans hemligheter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elitstyrkans%20hemligheter",
-      "pubdate": "Tue, 10 Dec 2024 08:00:00 +0100"
-    },
-    {
       "title": "Elpris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elpris",
       "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Elitstyrkans hemligheter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elitstyrkans%20hemligheter",
+      "pubdate": "Tue, 10 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Megan Fox",
@@ -95,11 +100,6 @@
       "title": "Emil Hansius",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emil%20Hansius",
       "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Alfred Nobel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alfred%20Nobel",
-      "pubdate": "Mon, 09 Dec 2024 09:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 05:40:16",
+  "lastUpdate": "11-12-2024 , 06:46:53",
   "data": [
     {
       "title": "Europa League",
@@ -15,6 +15,16 @@
       "title": "Megan Fox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Megan%20Fox",
       "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
+      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Patrick Lefevere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Lefevere",
+      "pubdate": "Wed, 11 Dec 2024 06:00:00 +0100"
     },
     {
       "title": "Real Madrid",
@@ -42,8 +52,13 @@
       "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "LDC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LDC",
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atalanta",
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "LdC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LdC",
       "pubdate": "Tue, 10 Dec 2024 18:00:00 +0100"
     },
     {
@@ -67,13 +82,13 @@
       "pubdate": "Tue, 10 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+      "title": "Brugge voetbal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brugge%20voetbal",
       "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Brugge voetbal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brugge%20voetbal",
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
       "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     },
     {
@@ -85,21 +100,6 @@
       "title": "Tesla Model Q",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tesla%20Model%20Q",
       "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Relmuis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Relmuis",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Enseignement",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Enseignement",
-      "pubdate": "Tue, 10 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Jims",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jims",
-      "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 05:40:23",
+  "lastUpdate": "11-12-2024 , 06:47:01",
   "data": [
     {
       "title": "Girona đấu với Liverpool",
@@ -27,19 +27,19 @@
       "pubdate": "Wed, 11 Dec 2024 07:00:00 +0700"
     },
     {
-      "title": "Dưới tán cây khô hoa nở",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%C6%B0%E1%BB%9Bi%20t%C3%A1n%20c%C3%A2y%20kh%C3%B4%20hoa%20n%E1%BB%9F",
-      "pubdate": "Wed, 11 Dec 2024 08:00:00 +0700"
-    },
-    {
       "title": "28 Years Later",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#28%20Years%20Later",
       "pubdate": "Wed, 11 Dec 2024 09:00:00 +0700"
     },
     {
-      "title": "Vàng SJC Giá vàng hôm nay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay",
+      "title": "Vàng SJC giá vàng hôm nay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay",
       "pubdate": "Wed, 11 Dec 2024 11:00:00 +0700"
+    },
+    {
+      "title": "Dog",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dog",
+      "pubdate": "Wed, 11 Dec 2024 13:00:00 +0700"
     },
     {
       "title": "Trần Thị Thanh Thúy",
@@ -52,9 +52,19 @@
       "pubdate": "Wed, 11 Dec 2024 11:00:00 +0700"
     },
     {
+      "title": "Shannon Lofland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Shannon%20Lofland",
+      "pubdate": "Wed, 11 Dec 2024 12:00:00 +0700"
+    },
+    {
       "title": "Atalanta đấu với Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atalanta%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Real%20Madrid",
       "pubdate": "Tue, 10 Dec 2024 13:00:00 +0700"
+    },
+    {
+      "title": "Trực tiếp bóng đá hôm nay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%E1%BB%B1c%20ti%E1%BA%BFp%20b%C3%B3ng%20%C4%91%C3%A1%20h%C3%B4m%20nay",
+      "pubdate": "Tue, 10 Dec 2024 01:00:00 +0700"
     },
     {
       "title": "Phó Đức Nam",
@@ -90,16 +100,6 @@
       "title": "Luigi Mangione",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Luigi%20Mangione",
       "pubdate": "Tue, 10 Dec 2024 10:00:00 +0700"
-    },
-    {
-      "title": "BTC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#BTC",
-      "pubdate": "Tue, 10 Dec 2024 10:00:00 +0700"
-    },
-    {
-      "title": "Sora",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sora",
-      "pubdate": "Tue, 10 Dec 2024 14:00:00 +0700"
     }
   ]
 }
