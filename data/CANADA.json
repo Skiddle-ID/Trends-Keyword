@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 09:39:21",
+  "lastUpdate": "11-12-2024 , 10:43:32",
   "data": [
     {
       "title": "The Voice winner 2024",
@@ -57,6 +57,11 @@
       "pubdate": "Tue, 10 Dec 2024 19:00:00 -0500"
     },
     {
+      "title": "Montreal Canadiens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montreal%20Canadiens",
+      "pubdate": "Tue, 10 Dec 2024 03:00:00 -0500"
+    },
+    {
       "title": "Blue Ivy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blue%20Ivy",
       "pubdate": "Tue, 10 Dec 2024 08:00:00 -0500"
@@ -65,16 +70,6 @@
       "title": "Secret Level",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Secret%20Level",
       "pubdate": "Tue, 10 Dec 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Google stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Google%20stock",
-      "pubdate": "Tue, 10 Dec 2024 04:00:00 -0500"
-    },
-    {
-      "title": "Tears for Fears",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tears%20for%20Fears",
-      "pubdate": "Tue, 10 Dec 2024 23:00:00 -0500"
     },
     {
       "title": "Mark Gastineau",
@@ -92,14 +87,19 @@
       "pubdate": "Tue, 10 Dec 2024 19:00:00 -0500"
     },
     {
-      "title": "Bettina Anderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bettina%20Anderson",
-      "pubdate": "Tue, 10 Dec 2024 20:00:00 -0500"
-    },
-    {
       "title": "Nikki Giovanni",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nikki%20Giovanni",
       "pubdate": "Tue, 10 Dec 2024 11:00:00 -0500"
+    },
+    {
+      "title": "Kimberly Guilfoyle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kimberly%20Guilfoyle",
+      "pubdate": "Tue, 10 Dec 2024 22:00:00 -0500"
+    },
+    {
+      "title": "Max Fried",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Max%20Fried",
+      "pubdate": "Tue, 10 Dec 2024 19:00:00 -0500"
     }
   ]
 }

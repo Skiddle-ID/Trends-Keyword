@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 09:39:21",
+  "lastUpdate": "11-12-2024 , 10:43:32",
   "data": [
     {
       "title": "Rayane Figliuzzi",
@@ -7,13 +7,23 @@
       "pubdate": "Wed, 11 Dec 2024 03:00:00 -0500"
     },
     {
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+      "pubdate": "Wed, 11 Dec 2024 04:00:00 -0500"
+    },
+    {
       "title": "Lula",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lula",
       "pubdate": "Tue, 10 Dec 2024 05:00:00 -0500"
     },
     {
-      "title": "Girona x Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona%20x%20Liverpool",
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League",
+      "pubdate": "Tue, 10 Dec 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
       "pubdate": "Tue, 10 Dec 2024 11:00:00 -0500"
     },
     {
@@ -47,14 +57,14 @@
       "pubdate": "Tue, 10 Dec 2024 12:00:00 -0500"
     },
     {
-      "title": "Seduc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Seduc",
-      "pubdate": "Tue, 10 Dec 2024 08:00:00 -0500"
-    },
-    {
       "title": "Botafogo x Pachuca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20Pachuca",
       "pubdate": "Tue, 10 Dec 2024 22:00:00 -0500"
+    },
+    {
+      "title": "Seduc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Seduc",
+      "pubdate": "Tue, 10 Dec 2024 08:00:00 -0500"
     },
     {
       "title": "Club Brugge x Sporting",
@@ -90,16 +100,6 @@
       "title": "Esclerose multipla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esclerose%20multipla",
       "pubdate": "Tue, 10 Dec 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Mega-Sena 2806",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202806",
-      "pubdate": "Tue, 10 Dec 2024 19:00:00 -0500"
-    },
-    {
-      "title": "Gugu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gugu",
-      "pubdate": "Tue, 10 Dec 2024 09:00:00 -0500"
     }
   ]
 }
