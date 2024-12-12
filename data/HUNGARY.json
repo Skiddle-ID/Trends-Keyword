@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 15:40:21",
+  "lastUpdate": "12-12-2024 , 16:46:47",
   "data": [
     {
       "title": "Benny Blanco",
@@ -17,9 +17,9 @@
       "pubdate": "Thu, 12 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "iOS 18.2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018.2",
-      "pubdate": "Thu, 12 Dec 2024 09:00:00 +0100"
+      "title": "PAOK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PAOK",
+      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Manuel",
@@ -27,14 +27,9 @@
       "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "PAOK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PAOK",
-      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Benfica–bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica%E2%80%93bologna",
-      "pubdate": "Thu, 12 Dec 2024 05:00:00 +0100"
+      "title": "iOS 18.2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018.2",
+      "pubdate": "Thu, 12 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Kormányinfó",
@@ -42,14 +37,19 @@
       "pubdate": "Thu, 12 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Stuttgart–young Boys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stuttgart%E2%80%93young%20Boys",
-      "pubdate": "Thu, 12 Dec 2024 07:00:00 +0100"
+      "title": "OBT",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OBT",
+      "pubdate": "Thu, 12 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Európa-liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eur%C3%B3pa-liga",
       "pubdate": "Thu, 12 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Molnár Dorina Külügyi Intézet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Dorina%20K%C3%BCl%C3%BCgyi%20Int%C3%A9zet",
+      "pubdate": "Thu, 12 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "ACMilan",
@@ -72,14 +72,19 @@
       "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Shein bolt Budapest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shein%20bolt%20Budapest",
+      "title": "SHEIN store Sugár",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SHEIN%20store%20Sug%C3%A1r",
       "pubdate": "Wed, 11 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Lidl Dubai csoki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lidl%20Dubai%20csoki",
       "pubdate": "Wed, 11 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Fehér János Till Tamás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9r%20J%C3%A1nos%20Till%20Tam%C3%A1s",
+      "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Pedagógusok év végi jutalom",
@@ -95,11 +100,6 @@
       "title": "Cserhalmi György",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cserhalmi%20Gy%C3%B6rgy",
       "pubdate": "Wed, 11 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Tom Cruise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
-      "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
     }
   ]
 }

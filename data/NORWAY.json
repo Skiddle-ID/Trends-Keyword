@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "12-12-2024 , 15:40:24",
+  "lastUpdate": "12-12-2024 , 16:46:49",
   "data": [
-    {
-      "title": "Strømpriser nå",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8mpriser%20n%C3%A5",
-      "pubdate": "Thu, 12 Dec 2024 13:00:00 +0100"
-    },
     {
       "title": "Safran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Safran",
@@ -22,11 +17,6 @@
       "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Slottsfjell 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Slottsfjell%202025",
-      "pubdate": "Thu, 12 Dec 2024 15:00:00 +0100"
-    },
-    {
       "title": "Matilda Djerf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matilda%20Djerf",
       "pubdate": "Thu, 12 Dec 2024 14:00:00 +0100"
@@ -35,6 +25,11 @@
       "title": "Dua Lipa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dua%20Lipa",
       "pubdate": "Thu, 12 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Tyla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tyla",
+      "pubdate": "Thu, 12 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Meta",
@@ -67,14 +62,14 @@
       "pubdate": "Wed, 11 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Anne B. Ragde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20B.%20Ragde",
-      "pubdate": "Wed, 11 Dec 2024 18:00:00 +0100"
-    },
-    {
       "title": "Lily phillips",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lily%20phillips",
       "pubdate": "Wed, 11 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Anne B. Ragde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anne%20B.%20Ragde",
+      "pubdate": "Wed, 11 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Jazzercise",
@@ -82,14 +77,14 @@
       "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Hiroshima",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hiroshima",
-      "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
-    },
-    {
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
       "pubdate": "Wed, 11 Dec 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Hiroshima",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hiroshima",
+      "pubdate": "Wed, 11 Dec 2024 11:00:00 +0100"
     },
     {
       "title": "Teco 2030",
@@ -100,6 +95,11 @@
       "title": "Mariah Carey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mariah%20Carey",
       "pubdate": "Wed, 11 Dec 2024 16:00:00 +0100"
+    },
+    {
+      "title": "Strøm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8m",
+      "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
     }
   ]
 }
