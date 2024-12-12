@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 09:39:27",
+  "lastUpdate": "12-12-2024 , 10:43:47",
   "data": [
     {
       "title": "조국",
@@ -7,9 +7,14 @@
       "pubdate": "Thu, 12 Dec 2024 10:00:00 +0900"
     },
     {
-      "title": "윤석열 담화",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%8B%B4%ED%99%94",
-      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0900"
+      "title": "김태호",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%83%9C%ED%98%B8",
+      "pubdate": "Thu, 12 Dec 2024 16:00:00 +0900"
+    },
+    {
+      "title": "한지아",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EC%A7%80%EC%95%84",
+      "pubdate": "Thu, 12 Dec 2024 14:00:00 +0900"
     },
     {
       "title": "제미나이",
@@ -17,9 +22,19 @@
       "pubdate": "Thu, 12 Dec 2024 11:00:00 +0900"
     },
     {
-      "title": "한지아",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EC%A7%80%EC%95%84",
-      "pubdate": "Thu, 12 Dec 2024 14:00:00 +0900"
+      "title": "이철규",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%B2%A0%EA%B7%9C",
+      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0900"
+    },
+    {
+      "title": "윤석열 담화",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%8B%B4%ED%99%94",
+      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0900"
+    },
+    {
+      "title": "하연수",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%98%EC%97%B0%EC%88%98",
+      "pubdate": "Thu, 12 Dec 2024 00:00:00 +0900"
     },
     {
       "title": "로제",
@@ -42,14 +57,9 @@
       "pubdate": "Thu, 12 Dec 2024 11:00:00 +0900"
     },
     {
-      "title": "이철규",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%B2%A0%EA%B7%9C",
-      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0900"
-    },
-    {
-      "title": "대통령 담화",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%ED%86%B5%EB%A0%B9%20%EB%8B%B4%ED%99%94",
-      "pubdate": "Thu, 12 Dec 2024 13:00:00 +0900"
+      "title": "배승희",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%B0%EC%8A%B9%ED%9D%AC",
+      "pubdate": "Thu, 12 Dec 2024 15:00:00 +0900"
     },
     {
       "title": "하윤수",
@@ -60,11 +70,6 @@
       "title": "윈터",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%88%ED%84%B0",
       "pubdate": "Wed, 11 Dec 2024 03:00:00 +0900"
-    },
-    {
-      "title": "윤상현",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%83%81%ED%98%84",
-      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0900"
     },
     {
       "title": "양자컴퓨터",
@@ -82,6 +87,11 @@
       "pubdate": "Wed, 11 Dec 2024 01:00:00 +0900"
     },
     {
+      "title": "CPI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#CPI",
+      "pubdate": "Wed, 11 Dec 2024 16:00:00 +0900"
+    },
+    {
       "title": "유영재",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%98%81%EC%9E%AC",
       "pubdate": "Wed, 11 Dec 2024 10:00:00 +0900"
@@ -90,16 +100,6 @@
       "title": "조배숙",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EB%B0%B0%EC%88%99",
       "pubdate": "Wed, 11 Dec 2024 12:00:00 +0900"
-    },
-    {
-      "title": "여자친구",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC",
-      "pubdate": "Wed, 11 Dec 2024 00:00:00 +0900"
-    },
-    {
-      "title": "김문수",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%AC%B8%EC%88%98",
-      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0900"
     }
   ]
 }
