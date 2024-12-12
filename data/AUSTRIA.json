@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "11-12-2024 , 23:37:09",
+  "lastUpdate": "12-12-2024 , 02:12:56",
   "data": [
+    {
+      "title": "Sebastian Prödl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Pr%C3%B6dl",
+      "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Generation Z",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Generation%20Z",
+      "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Champions%20League",
+      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
+    },
     {
       "title": "Hannes Androsch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hannes%20Androsch",
@@ -42,16 +57,6 @@
       "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Die unendliche Geschichte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20unendliche%20Geschichte",
-      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Hannes Koza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hannes%20Koza",
-      "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "VfB Stuttgart – Young Boys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VfB%20Stuttgart%20%E2%80%93%20Young%20Boys",
       "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
@@ -65,11 +70,6 @@
       "title": "Atlético Madrid – Slovan Bratislava",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Slovan%20Bratislava",
       "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Venom",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Venom",
-      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Captagon",
@@ -87,11 +87,6 @@
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA",
-      "pubdate": "Wed, 11 Dec 2024 06:00:00 +0100"
-    },
-    {
       "title": "OMV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#OMV",
       "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Kickl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kickl",
       "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Herr der Ringe Schlacht der Rohirrim",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herr%20der%20Ringe%20Schlacht%20der%20Rohirrim",
+      "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
     }
   ]
 }
