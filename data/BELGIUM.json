@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "12-12-2024 , 05:40:31",
+  "lastUpdate": "12-12-2024 , 06:47:31",
   "data": [
+    {
+      "title": "Kate Moss",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kate%20Moss",
+      "pubdate": "Thu, 12 Dec 2024 06:00:00 +0100"
+    },
     {
       "title": "Juventus – Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Manchester%20City",
@@ -42,6 +47,11 @@
       "pubdate": "Wed, 11 Dec 2024 17:00:00 +0100"
     },
     {
+      "title": "Atlético Madrid – Slovan Bratislava",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Slovan%20Bratislava",
+      "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
+    },
+    {
       "title": "Meta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meta",
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
@@ -57,24 +67,9 @@
       "pubdate": "Wed, 11 Dec 2024 06:00:00 +0100"
     },
     {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
-      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "AC Milan – Étoile Rouge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan%20%E2%80%93%20%C3%89toile%20Rouge",
-      "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Witte kerst",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Witte%20kerst",
       "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Arsenal – Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%E2%80%93%20Monaco",
-      "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Feyenoord",
@@ -82,8 +77,8 @@
       "pubdate": "Wed, 11 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Atlético Madrid – Slovan Bratislava",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Slovan%20Bratislava",
+      "title": "LOSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LOSC",
       "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
     },
     {
@@ -95,6 +90,11 @@
       "title": "Conclave",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conclave",
       "pubdate": "Wed, 11 Dec 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Mbappe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
+      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
     },
     {
       "title": "Megan Fox",
