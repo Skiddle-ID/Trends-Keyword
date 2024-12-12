@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "12-12-2024 , 11:35:44",
+  "lastUpdate": "12-12-2024 , 13:03:00",
   "data": [
     {
       "title": "Benny Blanco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benny%20Blanco",
-      "pubdate": "Thu, 12 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Captagon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Captagon",
       "pubdate": "Thu, 12 Dec 2024 10:00:00 +0100"
     },
     {
@@ -17,9 +12,14 @@
       "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Borussia – FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Borussia%20%E2%80%93%20FC%20Barcelona",
-      "pubdate": "Thu, 12 Dec 2024 06:00:00 +0100"
+      "title": "Radja Nainggolan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Radja%20Nainggolan",
+      "pubdate": "Thu, 12 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Duranville",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Duranville",
+      "pubdate": "Thu, 12 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Digi",
@@ -42,24 +42,9 @@
       "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-      "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Problemen Facebook",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Problemen%20Facebook",
+      "title": "WhatsApp storing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WhatsApp%20storing",
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
-      "pubdate": "Wed, 11 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
-      "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "10 Miles antwerpen",
@@ -67,9 +52,24 @@
       "pubdate": "Wed, 11 Dec 2024 10:00:00 +0100"
     },
     {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
+      "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "Meta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meta",
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+      "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Fenerbahce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
+      "pubdate": "Wed, 11 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "KMSK Deinze",
@@ -87,14 +87,14 @@
       "pubdate": "Wed, 11 Dec 2024 06:00:00 +0100"
     },
     {
-      "title": "Feyenoord",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-      "pubdate": "Wed, 11 Dec 2024 19:00:00 +0100"
-    },
-    {
       "title": "Raven van Dorst",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Raven%20van%20Dorst",
       "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Feyenoord",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+      "pubdate": "Wed, 11 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Witte kerst",

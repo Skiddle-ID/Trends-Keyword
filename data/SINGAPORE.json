@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 11:35:51",
+  "lastUpdate": "12-12-2024 , 13:03:07",
   "data": [
     {
       "title": "Gemini",
@@ -17,14 +17,14 @@
       "pubdate": "Thu, 12 Dec 2024 05:00:00 +0800"
     },
     {
-      "title": "Instagram down",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Instagram%20down",
-      "pubdate": "Thu, 12 Dec 2024 03:00:00 +0800"
-    },
-    {
       "title": "Benny Blanco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benny%20Blanco",
       "pubdate": "Thu, 12 Dec 2024 15:00:00 +0800"
+    },
+    {
+      "title": "Instagram Down",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Instagram%20Down",
+      "pubdate": "Thu, 12 Dec 2024 03:00:00 +0800"
     },
     {
       "title": "OpenAI",
@@ -37,14 +37,14 @@
       "pubdate": "Thu, 12 Dec 2024 12:00:00 +0800"
     },
     {
-      "title": "AI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
-      "pubdate": "Thu, 12 Dec 2024 11:00:00 +0800"
-    },
-    {
       "title": "iOS 18.2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#iOS%2018.2",
       "pubdate": "Thu, 12 Dec 2024 09:00:00 +0800"
+    },
+    {
+      "title": "AI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
+      "pubdate": "Thu, 12 Dec 2024 11:00:00 +0800"
     },
     {
       "title": "Barcelona",
@@ -52,8 +52,8 @@
       "pubdate": "Thu, 12 Dec 2024 16:00:00 +0800"
     },
     {
-      "title": "Sora ma husband",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sora%20ma%20husband",
+      "title": "Sora Ma husband",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sora%20Ma%20husband",
       "pubdate": "Wed, 11 Dec 2024 13:00:00 +0800"
     },
     {
@@ -77,11 +77,6 @@
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0800"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
-      "pubdate": "Wed, 11 Dec 2024 05:00:00 +0800"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
       "pubdate": "Tue, 10 Dec 2024 10:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "Nvidia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
       "pubdate": "Tue, 10 Dec 2024 10:00:00 +0800"
+    },
+    {
+      "title": "China Taiwan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20Taiwan",
+      "pubdate": "Tue, 10 Dec 2024 08:00:00 +0800"
     }
   ]
 }

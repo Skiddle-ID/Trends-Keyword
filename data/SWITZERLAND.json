@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 11:35:52",
+  "lastUpdate": "12-12-2024 , 13:03:07",
   "data": [
     {
       "title": "Benny Blanco",
@@ -17,6 +17,11 @@
       "pubdate": "Thu, 12 Dec 2024 01:00:00 +0100"
     },
     {
+      "title": "iOS 18.2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iOS%2018.2",
+      "pubdate": "Thu, 12 Dec 2024 13:00:00 +0100"
+    },
+    {
       "title": "Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
       "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
@@ -32,14 +37,9 @@
       "pubdate": "Thu, 12 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "AC Milan – Étoile Rouge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan%20%E2%80%93%20%C3%89toile%20Rouge",
-      "pubdate": "Thu, 12 Dec 2024 07:00:00 +0100"
-    },
-    {
-      "title": "YB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-      "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
+      "title": "Leonteq",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leonteq",
+      "pubdate": "Thu, 12 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Meschack Elia",
@@ -47,14 +47,14 @@
       "pubdate": "Wed, 11 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "WhatsApp Störung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WhatsApp%20St%C3%B6rung",
-      "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
-    },
-    {
       "title": "Dortmund – Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20%E2%80%93%20Barcelona",
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "WhatsApp Störung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WhatsApp%20St%C3%B6rung",
+      "pubdate": "Wed, 11 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Juventus",
@@ -72,14 +72,19 @@
       "pubdate": "Wed, 11 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Instagram Störung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Instagram%20St%C3%B6rung",
-      "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
+      "title": "Whatsapp Störungen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Whatsapp%20St%C3%B6rungen",
+      "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Audi Rückrufaktion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Audi%20R%C3%BCckrufaktion",
       "pubdate": "Wed, 11 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Karin Keller-Sutter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Karin%20Keller-Sutter",
+      "pubdate": "Wed, 11 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Steven Zuber",
@@ -95,11 +100,6 @@
       "title": "28 ans plus tard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#28%20ans%20plus%20tard",
       "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Slipknot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Slipknot",
-      "pubdate": "Wed, 11 Dec 2024 07:00:00 +0100"
     }
   ]
 }
