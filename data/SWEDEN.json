@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-12-2024 , 09:38:56",
+  "lastUpdate": "13-12-2024 , 10:42:56",
   "data": [
+    {
+      "title": "Sala",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sala",
+      "pubdate": "Fri, 13 Dec 2024 08:00:00 +0100"
+    },
     {
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
@@ -12,14 +17,14 @@
       "pubdate": "Fri, 13 Dec 2024 00:00:00 +0100"
     },
     {
+      "title": "Elden Ring: Night Reign",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elden%20Ring:%20Night%20Reign",
+      "pubdate": "Fri, 13 Dec 2024 09:00:00 +0100"
+    },
+    {
       "title": "Malmö",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6",
       "pubdate": "Fri, 13 Dec 2024 02:00:00 +0100"
-    },
-    {
-      "title": "La Palma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La%20Palma",
-      "pubdate": "Fri, 13 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Aaron Taylor Johnson",
@@ -27,14 +32,14 @@
       "pubdate": "Fri, 13 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Tre Kronor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tre%20Kronor",
+      "title": "La Palma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La%20Palma",
       "pubdate": "Fri, 13 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Elden Ring: Night Reign",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elden%20Ring:%20Night%20Reign",
-      "pubdate": "Fri, 13 Dec 2024 09:00:00 +0100"
+      "title": "Tre Kronor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tre%20Kronor",
+      "pubdate": "Fri, 13 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Matilda Djerf",
@@ -42,19 +47,14 @@
       "pubdate": "Thu, 12 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Malmö FF mot Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Galatasaray",
-      "pubdate": "Thu, 12 Dec 2024 10:00:00 +0100"
-    },
-    {
       "title": "Lucia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucia",
       "pubdate": "Thu, 12 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Conference League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Conference%20League",
-      "pubdate": "Thu, 12 Dec 2024 15:00:00 +0100"
+      "title": "Malmö FF mot Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF%20mot%20Galatasaray",
+      "pubdate": "Thu, 12 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Vattenfall",
@@ -77,14 +77,9 @@
       "pubdate": "Thu, 12 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Lucia SVT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucia%20SVT",
-      "pubdate": "Thu, 12 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Johan Rabaeus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Rabaeus",
-      "pubdate": "Thu, 12 Dec 2024 14:00:00 +0100"
+      "title": "Djurgården",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+      "pubdate": "Thu, 12 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Dree Low",
@@ -100,6 +95,11 @@
       "title": "Europa League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
       "pubdate": "Wed, 11 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Hammarby Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20Barcelona",
+      "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
     }
   ]
 }

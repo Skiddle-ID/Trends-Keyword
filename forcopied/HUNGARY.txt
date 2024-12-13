@@ -1,1 +1,1 @@
-Manchester United,Police.hu,Austin Butler,Luca-napi babonák,Ételmérgezés,Witcher 4,Gukesh,Orbán Ráhel,FTC,Epic Games,Benny Blanco,Demjén Ferenc,Game Awards 2024,Babaváró hitel,Névnap,Marics Peti,El,Schengeni övezet Románia,Balázs Péter,Péntek 13
+Police.hu,Manchester United,Witcher 4,Luca-napi babonák,Ételmérgezés,Austin Butler,Bochkor,Orbán Ráhel,Gukesh,FTC,Epic Games,Benny Blanco,Demjén Ferenc,Game Awards 2024,Babaváró hitel,Névnap,Marics Peti,El,Péntek 13,Schengeni övezet Románia

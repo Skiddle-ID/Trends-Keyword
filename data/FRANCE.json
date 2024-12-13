@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2024 , 09:38:52",
+  "lastUpdate": "13-12-2024 , 10:42:52",
   "data": [
     {
       "title": "Vendredi 13",
@@ -37,6 +37,11 @@
       "pubdate": "Thu, 12 Dec 2024 18:00:00 +0100"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chelsea",
+      "pubdate": "Thu, 12 Dec 2024 22:00:00 +0100"
+    },
+    {
       "title": "Matthieu Blazy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Matthieu%20Blazy",
       "pubdate": "Thu, 12 Dec 2024 21:00:00 +0100"
@@ -57,19 +62,19 @@
       "pubdate": "Thu, 12 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Coupe du monde 2030",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupe%20du%20monde%202030",
+      "title": "Lily-Rose Depp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lily-Rose%20Depp",
+      "pubdate": "Thu, 12 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Captagon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Captagon",
       "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Christophe Khider",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christophe%20Khider",
       "pubdate": "Thu, 12 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Captagon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Captagon",
-      "pubdate": "Thu, 12 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Taux Banque centrale européenne",
@@ -92,14 +97,9 @@
       "pubdate": "Wed, 11 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "LOSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
-      "pubdate": "Wed, 11 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Bayrou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayrou",
-      "pubdate": "Wed, 11 Dec 2024 19:00:00 +0100"
+      "title": "François Bayrou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Bayrou",
+      "pubdate": "Wed, 11 Dec 2024 23:00:00 +0100"
     }
   ]
 }
