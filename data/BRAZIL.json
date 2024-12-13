@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-12-2024 , 17:38:49",
+  "lastUpdate": "13-12-2024 , 18:45:18",
   "data": [
     {
       "title": "Sexta-feira (13",
@@ -12,9 +12,29 @@
       "pubdate": "Fri, 13 Dec 2024 09:00:00 -0500"
     },
     {
+      "title": "Ana Castela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ana%20Castela",
+      "pubdate": "Fri, 13 Dec 2024 12:00:00 -0500"
+    },
+    {
+      "title": "GTA 6",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GTA%206",
+      "pubdate": "Fri, 13 Dec 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Catamarã",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Catamar%C3%A3",
+      "pubdate": "Fri, 13 Dec 2024 12:00:00 -0500"
+    },
+    {
       "title": "Paulo Miklos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulo%20Miklos",
       "pubdate": "Fri, 13 Dec 2024 02:00:00 -0500"
+    },
+    {
+      "title": "Empoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Empoli",
+      "pubdate": "Fri, 13 Dec 2024 12:00:00 -0500"
     },
     {
       "title": "Harrison Ford",
@@ -22,9 +42,24 @@
       "pubdate": "Fri, 13 Dec 2024 00:00:00 -0500"
     },
     {
+      "title": "Sandy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sandy",
+      "pubdate": "Fri, 13 Dec 2024 13:00:00 -0500"
+    },
+    {
+      "title": "Enron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enron",
+      "pubdate": "Fri, 13 Dec 2024 13:00:00 -0500"
+    },
+    {
       "title": "Astana x Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Astana%20x%20Chelsea",
       "pubdate": "Thu, 12 Dec 2024 10:00:00 -0500"
+    },
+    {
+      "title": "Plzen x Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Plzen%20x%20Manchester%20United",
+      "pubdate": "Thu, 12 Dec 2024 13:00:00 -0500"
     },
     {
       "title": "Castracao quimica",
@@ -47,24 +82,14 @@
       "pubdate": "Thu, 12 Dec 2024 06:00:00 -0500"
     },
     {
-      "title": "Luiz inacio Lula",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luiz%20inacio%20Lula",
-      "pubdate": "Thu, 12 Dec 2024 05:00:00 -0500"
-    },
-    {
       "title": "Elden Ring",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elden%20Ring",
       "pubdate": "Thu, 12 Dec 2024 21:00:00 -0500"
     },
     {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
-      "pubdate": "Thu, 12 Dec 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Dudu Palmeiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dudu%20Palmeiras",
-      "pubdate": "Thu, 12 Dec 2024 18:00:00 -0500"
+      "title": "Luiz inacio Lula",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luiz%20inacio%20Lula",
+      "pubdate": "Thu, 12 Dec 2024 05:00:00 -0500"
     },
     {
       "title": "The Witcher 4",
@@ -72,33 +97,8 @@
       "pubdate": "Thu, 12 Dec 2024 21:00:00 -0500"
     },
     {
-      "title": "Liga Conferência",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20Confer%C3%AAncia",
-      "pubdate": "Thu, 12 Dec 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Roma x Braga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma%20x%20Braga",
-      "pubdate": "Thu, 12 Dec 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Mega-Sena 2807",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202807",
-      "pubdate": "Thu, 12 Dec 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-      "pubdate": "Thu, 12 Dec 2024 11:00:00 -0500"
-    },
-    {
-      "title": "Kraven",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Kraven",
-      "pubdate": "Thu, 12 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "PeB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PeB",
+      "title": "Dudu Palmeiras",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dudu%20Palmeiras",
       "pubdate": "Thu, 12 Dec 2024 18:00:00 -0500"
     }
   ]
