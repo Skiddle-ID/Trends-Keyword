@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2024 , 11:35:42",
+  "lastUpdate": "14-12-2024 , 12:57:38",
   "data": [
     {
       "title": "Temblor",
@@ -12,11 +12,6 @@
       "pubdate": "Fri, 13 Dec 2024 21:00:00 -0300"
     },
     {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
-      "pubdate": "Fri, 13 Dec 2024 14:00:00 -0300"
-    },
-    {
       "title": "VIERNES 13",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#VIERNES%2013",
       "pubdate": "Fri, 13 Dec 2024 01:00:00 -0300"
@@ -25,6 +20,11 @@
       "title": "Malcolm",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Malcolm",
       "pubdate": "Fri, 13 Dec 2024 19:00:00 -0300"
+    },
+    {
+      "title": "Curico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curico",
+      "pubdate": "Fri, 13 Dec 2024 21:00:00 -0300"
     },
     {
       "title": "Lluvia de estrellas",
@@ -67,11 +67,6 @@
       "pubdate": "Fri, 13 Dec 2024 02:00:00 -0300"
     },
     {
-      "title": "Jose Antonio Neme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jose%20Antonio%20Neme",
-      "pubdate": "Fri, 13 Dec 2024 22:00:00 -0300"
-    },
-    {
       "title": "Udinese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese",
       "pubdate": "Fri, 13 Dec 2024 22:00:00 -0300"
@@ -100,6 +95,11 @@
       "title": "Petrocub - Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Petrocub%20-%20Betis",
       "pubdate": "Thu, 12 Dec 2024 15:00:00 -0300"
+    },
+    {
+      "title": "Ia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ia",
+      "pubdate": "Thu, 12 Dec 2024 00:00:00 -0300"
     }
   ]
 }
