@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2024 , 23:36:06",
+  "lastUpdate": "15-12-2024 , 02:19:27",
   "data": [
     {
       "title": "Arsenal",
@@ -12,9 +12,24 @@
       "pubdate": "Sun, 15 Dec 2024 02:00:00 +1100"
     },
     {
+      "title": "New Jersey drones flying",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Jersey%20drones%20flying",
+      "pubdate": "Sun, 15 Dec 2024 00:00:00 +1100"
+    },
+    {
+      "title": "WWE Saturday Night Main Event",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE%20Saturday%20Night%20Main%20Event",
+      "pubdate": "Sun, 15 Dec 2024 11:00:00 +1100"
+    },
+    {
       "title": "Full moon Cold Moon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Full%20moon%20Cold%20Moon",
       "pubdate": "Sun, 15 Dec 2024 07:00:00 +1100"
+    },
+    {
+      "title": "Isak Andic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Isak%20Andic",
+      "pubdate": "Sun, 15 Dec 2024 10:00:00 +1100"
     },
     {
       "title": "South Korean President impeached",
@@ -32,6 +47,11 @@
       "pubdate": "Sat, 14 Dec 2024 12:00:00 +1100"
     },
     {
+      "title": "Rayo Vallecano vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rayo%20Vallecano%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 14 Dec 2024 09:00:00 +1100"
+    },
+    {
       "title": "New Zealand vs England",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand%20vs%20England",
       "pubdate": "Sat, 14 Dec 2024 10:00:00 +1100"
@@ -45,11 +65,6 @@
       "title": "Sydney FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
       "pubdate": "Sat, 14 Dec 2024 18:00:00 +1100"
-    },
-    {
-      "title": "Real",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real",
-      "pubdate": "Sat, 14 Dec 2024 09:00:00 +1100"
     },
     {
       "title": "Full moon",
@@ -72,19 +87,9 @@
       "pubdate": "Sat, 14 Dec 2024 12:00:00 +1100"
     },
     {
-      "title": "Seven",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Seven",
-      "pubdate": "Sat, 14 Dec 2024 23:00:00 +1100"
-    },
-    {
       "title": "Lord of the Rings",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lord%20of%20the%20Rings",
       "pubdate": "Sat, 14 Dec 2024 00:00:00 +1100"
-    },
-    {
-      "title": "Carry-On",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carry-On",
-      "pubdate": "Fri, 13 Dec 2024 21:00:00 +1100"
     },
     {
       "title": "Copilot",
@@ -95,11 +100,6 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
       "pubdate": "Fri, 13 Dec 2024 10:00:00 +1100"
-    },
-    {
-      "title": "Dom Dolla melbourne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dom%20Dolla%20melbourne",
-      "pubdate": "Fri, 13 Dec 2024 17:00:00 +1100"
     }
   ]
 }
