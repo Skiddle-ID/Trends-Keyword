@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "15-12-2024 , 11:35:56",
+  "lastUpdate": "15-12-2024 , 12:58:30",
   "data": [
     {
       "title": "Kim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kim",
       "pubdate": "Sun, 15 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Kim Wigaard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kim%20Wigaard",
+      "pubdate": "Sat, 14 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Liverpool mot Fulham",
@@ -22,24 +27,14 @@
       "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Kim.wigaard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kim.wigaard",
+      "title": "Ski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ski",
       "pubdate": "Sat, 14 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Swift",
       "pubdate": "Sat, 14 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Ski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ski",
-      "pubdate": "Sat, 14 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Davos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Davos",
-      "pubdate": "Sat, 14 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Blue Ivy",
@@ -100,6 +95,11 @@
       "title": "United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
       "pubdate": "Fri, 13 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Okami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Okami",
+      "pubdate": "Fri, 13 Dec 2024 19:00:00 +0100"
     }
   ]
 }

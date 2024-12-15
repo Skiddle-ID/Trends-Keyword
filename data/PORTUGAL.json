@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 11:35:56",
+  "lastUpdate": "15-12-2024 , 12:58:31",
   "data": [
     {
       "title": "Jesus Navas",
@@ -10,6 +10,11 @@
       "title": "AVS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AVS",
       "pubdate": "Sun, 15 Dec 2024 00:00:00 +0000"
+    },
+    {
+      "title": "Mayotte",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mayotte",
+      "pubdate": "Sun, 15 Dec 2024 08:00:00 +0000"
     },
     {
       "title": "Pachuca",
@@ -62,14 +67,19 @@
       "pubdate": "Sat, 14 Dec 2024 19:00:00 +0000"
     },
     {
+      "title": "Terremoto Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terremoto%20Chile",
+      "pubdate": "Sat, 14 Dec 2024 23:00:00 +0000"
+    },
+    {
       "title": "Farense",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farense",
       "pubdate": "Sat, 14 Dec 2024 16:00:00 +0000"
     },
     {
-      "title": "Terremoto Chile",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terremoto%20Chile",
-      "pubdate": "Sat, 14 Dec 2024 23:00:00 +0000"
+      "title": "Joy Beune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joy%20Beune",
+      "pubdate": "Sat, 14 Dec 2024 12:00:00 +0000"
     },
     {
       "title": "Calema",
@@ -90,16 +100,6 @@
       "title": "Mafra  Benfica B",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafra%20%20Benfica%20B",
       "pubdate": "Sat, 14 Dec 2024 17:00:00 +0000"
-    },
-    {
-      "title": "Braga Netto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20Netto",
-      "pubdate": "Sat, 14 Dec 2024 16:00:00 +0000"
-    },
-    {
-      "title": "Luan Santana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luan%20Santana",
-      "pubdate": "Sat, 14 Dec 2024 13:00:00 +0000"
     }
   ]
 }
