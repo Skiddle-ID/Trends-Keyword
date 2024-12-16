@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "16-12-2024 , 11:35:38",
+  "lastUpdate": "16-12-2024 , 13:03:19",
   "data": [
     {
       "title": "DAZN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#DAZN",
       "pubdate": "Mon, 16 Dec 2024 02:00:00 -0600"
-    },
-    {
-      "title": "Memo Aponte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Memo%20Aponte",
-      "pubdate": "Mon, 16 Dec 2024 01:00:00 -0600"
     },
     {
       "title": "Barcelona - Leganés",
@@ -67,14 +62,14 @@
       "pubdate": "Sun, 15 Dec 2024 13:00:00 -0600"
     },
     {
-      "title": "PSG-Lyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG-Lyon",
-      "pubdate": "Sun, 15 Dec 2024 14:00:00 -0600"
-    },
-    {
       "title": "Bills vs Lions",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20vs%20Lions",
       "pubdate": "Sun, 15 Dec 2024 17:00:00 -0600"
+    },
+    {
+      "title": "PSG-Lyon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG-Lyon",
+      "pubdate": "Sun, 15 Dec 2024 14:00:00 -0600"
     },
     {
       "title": "Milan",
@@ -100,6 +95,11 @@
       "title": "Villarreal - Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Villarreal%20-%20Betis",
       "pubdate": "Sun, 15 Dec 2024 13:00:00 -0600"
+    },
+    {
+      "title": "Bengals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bengals",
+      "pubdate": "Sun, 15 Dec 2024 16:00:00 -0600"
     }
   ]
 }
