@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 07:38:16",
+  "lastUpdate": "16-12-2024 , 08:45:51",
   "data": [
     {
       "title": "Yellowstone finale",
@@ -19,7 +19,7 @@
     {
       "title": "Canucks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
-      "pubdate": "Sun, 15 Dec 2024 00:00:00 -0500"
+      "pubdate": "Sun, 15 Dec 2024 03:00:00 -0500"
     },
     {
       "title": "Sabres vs Maple Leafs",
@@ -30,11 +30,6 @@
       "title": "Barcelona vs Leganes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Leganes",
       "pubdate": "Sun, 15 Dec 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20Utd",
-      "pubdate": "Sun, 15 Dec 2024 14:00:00 -0500"
     },
     {
       "title": "Dua Lipa",
@@ -57,6 +52,11 @@
       "pubdate": "Sun, 15 Dec 2024 01:00:00 -0500"
     },
     {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City",
+      "pubdate": "Sun, 15 Dec 2024 14:00:00 -0500"
+    },
+    {
       "title": "Vancouver Canucks",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vancouver%20Canucks",
       "pubdate": "Sun, 15 Dec 2024 10:00:00 -0500"
@@ -72,19 +72,14 @@
       "pubdate": "Sun, 15 Dec 2024 15:00:00 -0500"
     },
     {
-      "title": "Southern Ontario freezing rain",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Southern%20Ontario%20freezing%20rain",
-      "pubdate": "Sun, 15 Dec 2024 17:00:00 -0500"
-    },
-    {
       "title": "John Horgan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Horgan",
       "pubdate": "Sun, 15 Dec 2024 18:00:00 -0500"
     },
     {
-      "title": "Southampton vs Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Southampton%20vs%20Tottenham",
-      "pubdate": "Sun, 15 Dec 2024 15:00:00 -0500"
+      "title": "Southern Ontario freezing rain",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Southern%20Ontario%20freezing%20rain",
+      "pubdate": "Sun, 15 Dec 2024 17:00:00 -0500"
     },
     {
       "title": "Chiefs vs Browns",
@@ -100,6 +95,11 @@
       "title": "Summer McIntosh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Summer%20McIntosh",
       "pubdate": "Sun, 15 Dec 2024 00:00:00 -0500"
+    },
+    {
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FC%20Barcelona",
+      "pubdate": "Sun, 15 Dec 2024 17:00:00 -0500"
     }
   ]
 }
