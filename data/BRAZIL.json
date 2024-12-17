@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2024 , 05:40:06",
+  "lastUpdate": "17-12-2024 , 06:46:42",
   "data": [
     {
       "title": "Lazio",
@@ -25,6 +25,11 @@
       "title": "Pogba",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pogba",
       "pubdate": "Mon, 16 Dec 2024 20:00:00 -0500"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
+      "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
     },
     {
       "title": "Porto",
@@ -67,14 +72,14 @@
       "pubdate": "Mon, 16 Dec 2024 10:00:00 -0500"
     },
     {
-      "title": "IPVA 2025 SP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPVA%202025%20SP",
-      "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
-    },
-    {
       "title": "Bolasie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolasie",
       "pubdate": "Mon, 16 Dec 2024 19:00:00 -0500"
+    },
+    {
+      "title": "IPVA 2025 SP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPVA%202025%20SP",
+      "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
     },
     {
       "title": "Mayotte",
@@ -95,11 +100,6 @@
       "title": "A chegada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#A%20chegada",
       "pubdate": "Mon, 16 Dec 2024 12:00:00 -0500"
-    },
-    {
-      "title": "Simone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Simone",
-      "pubdate": "Mon, 16 Dec 2024 10:00:00 -0500"
     }
   ]
 }

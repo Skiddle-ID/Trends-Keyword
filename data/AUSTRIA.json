@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2024 , 05:40:06",
+  "lastUpdate": "17-12-2024 , 06:46:42",
   "data": [
     {
       "title": "MicroStrategy Aktie",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "Weihnachtswünsche",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Weihnachtsw%C3%BCnsche",
+      "pubdate": "Mon, 16 Dec 2024 14:00:00 +0100"
+    },
+    {
       "title": "Sturm Wien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Wien",
       "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
@@ -50,11 +55,6 @@
       "title": "Admira Dornbirn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Admira%20Dornbirn",
       "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Besiktas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
-      "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Oscar Pistorius",
@@ -82,24 +82,24 @@
       "pubdate": "Mon, 16 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Angelo Stiller",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Angelo%20Stiller",
-      "pubdate": "Mon, 16 Dec 2024 20:00:00 +0100"
-    },
-    {
       "title": "Mayotte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mayotte",
       "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Barcelona – leganés",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20legan%C3%A9s",
+      "title": "Barcelona – Leganés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20Legan%C3%A9s",
       "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Dortmund – Hoffenheim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20%E2%80%93%20Hoffenheim",
       "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20City",
+      "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
     }
   ]
 }

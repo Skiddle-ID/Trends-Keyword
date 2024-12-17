@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "17-12-2024 , 05:40:09",
+  "lastUpdate": "17-12-2024 , 06:46:45",
   "data": [
+    {
+      "title": "Jill Jacobson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jill%20Jacobson",
+      "pubdate": "Tue, 17 Dec 2024 06:00:00 +0100"
+    },
+    {
+      "title": "Cseh Katalin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cseh%20Katalin",
+      "pubdate": "Tue, 17 Dec 2024 06:00:00 +0100"
+    },
     {
       "title": "Pintér Sándor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20S%C3%A1ndor",
@@ -10,11 +20,6 @@
       "title": "FC Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
       "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Brad Pitt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brad%20Pitt",
-      "pubdate": "Mon, 16 Dec 2024 08:00:00 +0100"
     },
     {
       "title": "Nagy döggomba",
@@ -27,6 +32,11 @@
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "Brad Pitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brad%20Pitt",
+      "pubdate": "Mon, 16 Dec 2024 08:00:00 +0100"
+    },
+    {
       "title": "Varga Mihály",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Mih%C3%A1ly",
       "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
@@ -37,14 +47,14 @@
       "pubdate": "Mon, 16 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Téli napforduló",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20napfordul%C3%B3",
-      "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
-    },
-    {
       "title": "Soltvadkert",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Soltvadkert",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Téli napforduló",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A9li%20napfordul%C3%B3",
+      "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Zalatnay Sarolta",
@@ -52,14 +62,14 @@
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "ACMilan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
-      "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
-    },
-    {
       "title": "Várkonyi Andrea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1rkonyi%20Andrea",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "ACMilan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
+      "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
     },
     {
       "title": "Weöres Szabolcs",
@@ -90,16 +100,6 @@
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
       "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Giorgia Meloni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-      "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Advent 3. vasárnapja",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Advent%203.%20vas%C3%A1rnapja",
-      "pubdate": "Sun, 15 Dec 2024 08:00:00 +0100"
     }
   ]
 }
