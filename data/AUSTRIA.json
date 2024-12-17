@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "16-12-2024 , 23:37:12",
+  "lastUpdate": "17-12-2024 , 02:12:20",
   "data": [
+    {
+      "title": "Kaja Kallas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kaja%20Kallas",
+      "pubdate": "Tue, 17 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "MicroStrategy Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MicroStrategy%20Aktie",
+      "pubdate": "Tue, 17 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Burgstaller",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Burgstaller",
@@ -22,14 +32,14 @@
       "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
     },
     {
-      "title": "Sturm Wien",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Wien",
-      "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
-    },
-    {
       "title": "Lazio – Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lazio%20%E2%80%93%20Inter",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Sturm Wien",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Wien",
+      "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Rosenbauer",
@@ -40,6 +50,11 @@
       "title": "Jill Jacobson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jill%20Jacobson",
       "pubdate": "Mon, 16 Dec 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Admira Dornbirn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Admira%20Dornbirn",
+      "pubdate": "Mon, 16 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Besiktas",
@@ -77,29 +92,14 @@
       "pubdate": "Mon, 16 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Barcelona – Leganés",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20Legan%C3%A9s",
-      "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Mayotte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mayotte",
       "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Dortmund – Hoffenheim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20%E2%80%93%20Hoffenheim",
-      "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
-    },
-    {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20City",
-      "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Darts-WM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Darts-WM",
-      "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
+      "title": "Barcelona – Leganés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20Legan%C3%A9s",
+      "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 23:37:12",
+  "lastUpdate": "17-12-2024 , 02:12:21",
   "data": [
     {
       "title": "Chrystia Freeland",
@@ -27,14 +27,24 @@
       "pubdate": "Mon, 16 Dec 2024 16:00:00 -0500"
     },
     {
+      "title": "Canada news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20news",
+      "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
+    },
+    {
       "title": "Poste Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Poste%20Canada",
       "pubdate": "Mon, 16 Dec 2024 11:00:00 -0500"
     },
     {
-      "title": "Fall Economic Statement 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fall%20Economic%20Statement%202024",
-      "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
+      "title": "Wisconsin school shooting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wisconsin%20school%20shooting",
+      "pubdate": "Mon, 16 Dec 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Globe and Mail",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Globe%20and%20Mail",
+      "pubdate": "Mon, 16 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Bashar Assad",
@@ -42,18 +52,18 @@
       "pubdate": "Mon, 16 Dec 2024 13:00:00 -0500"
     },
     {
-      "title": "Yellowstone finale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowstone%20finale",
-      "pubdate": "Mon, 16 Dec 2024 00:00:00 -0500"
-    },
-    {
       "title": "CTV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV",
       "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
     },
     {
-      "title": "Canada news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20news",
+      "title": "Yellowstone finale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowstone%20finale",
+      "pubdate": "Mon, 16 Dec 2024 00:00:00 -0500"
+    },
+    {
+      "title": "Fall Economic Statement 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fall%20Economic%20Statement%202024",
       "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
     },
     {
@@ -62,9 +72,9 @@
       "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
     },
     {
-      "title": "School shooting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#School%20shooting",
-      "pubdate": "Mon, 16 Dec 2024 17:00:00 -0500"
+      "title": "Fall economic statement",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fall%20economic%20statement",
+      "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
     },
     {
       "title": "Jill Jacobson",
@@ -77,6 +87,11 @@
       "pubdate": "Mon, 16 Dec 2024 16:00:00 -0500"
     },
     {
+      "title": "Seattle Seahawks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seattle%20Seahawks",
+      "pubdate": "Mon, 16 Dec 2024 18:00:00 -0500"
+    },
+    {
       "title": "Merry Christmas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Merry%20Christmas",
       "pubdate": "Mon, 16 Dec 2024 15:00:00 -0500"
@@ -85,21 +100,6 @@
       "title": "Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham",
       "pubdate": "Mon, 16 Dec 2024 14:00:00 -0500"
-    },
-    {
-      "title": "Palantir",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Palantir",
-      "pubdate": "Mon, 16 Dec 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Am",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Am",
-      "pubdate": "Mon, 16 Dec 2024 13:00:00 -0500"
-    },
-    {
-      "title": "David Montgomery",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Montgomery",
-      "pubdate": "Mon, 16 Dec 2024 16:00:00 -0500"
     }
   ]
 }
