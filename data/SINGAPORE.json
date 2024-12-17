@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "17-12-2024 , 11:35:50",
+  "lastUpdate": "17-12-2024 , 13:02:56",
   "data": [
     {
-      "title": "Spontaneous Escapes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spontaneous%20Escapes",
-      "pubdate": "Tue, 17 Dec 2024 14:00:00 +0800"
+      "title": "Sydney Sweeney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sydney%20Sweeney",
+      "pubdate": "Tue, 17 Dec 2024 07:00:00 +0800"
+    },
+    {
+      "title": "Vanuatu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vanuatu",
+      "pubdate": "Tue, 17 Dec 2024 19:00:00 +0800"
     },
     {
       "title": "Akash Deep",
@@ -12,19 +17,24 @@
       "pubdate": "Tue, 17 Dec 2024 18:00:00 +0800"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-      "pubdate": "Mon, 16 Dec 2024 05:00:00 +0800"
-    },
-    {
-      "title": "Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
       "pubdate": "Mon, 16 Dec 2024 05:00:00 +0800"
     },
     {
       "title": "Zakir Hussain",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zakir%20Hussain",
       "pubdate": "Mon, 16 Dec 2024 03:00:00 +0800"
+    },
+    {
+      "title": "Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
+      "pubdate": "Mon, 16 Dec 2024 08:00:00 +0800"
+    },
+    {
+      "title": "Bloomberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bloomberg",
+      "pubdate": "Mon, 16 Dec 2024 19:00:00 +0800"
     },
     {
       "title": "Pep Guardiola",
@@ -90,16 +100,6 @@
       "title": "AI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AI",
       "pubdate": "Thu, 12 Dec 2024 11:00:00 +0800"
-    },
-    {
-      "title": "Norovirus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Norovirus",
-      "pubdate": "Thu, 12 Dec 2024 10:00:00 +0800"
-    },
-    {
-      "title": "Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
-      "pubdate": "Wed, 11 Dec 2024 10:00:00 +0800"
     }
   ]
 }
