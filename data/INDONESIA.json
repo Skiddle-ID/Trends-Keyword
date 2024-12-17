@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-12-2024 , 20:38:05",
+  "lastUpdate": "17-12-2024 , 21:35:35",
   "data": [
+    {
+      "title": "Juventus vs Cagliari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Juventus%20vs%20Cagliari",
+      "pubdate": "Wed, 18 Dec 2024 02:00:00 +0700"
+    },
     {
       "title": "Singapura vs Thailand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Singapura%20vs%20Thailand",
@@ -95,11 +100,6 @@
       "title": "Gempa hari ini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20hari%20ini",
       "pubdate": "Mon, 16 Dec 2024 11:00:00 +0700"
-    },
-    {
-      "title": "NIK KTP Penerima Bansos PKH",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#NIK%20KTP%20Penerima%20Bansos%20PKH",
-      "pubdate": "Mon, 16 Dec 2024 20:00:00 +0700"
     }
   ]
 }
