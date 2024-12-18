@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "18-12-2024 , 17:38:00",
+  "lastUpdate": "18-12-2024 , 18:45:05",
   "data": [
+    {
+      "title": "Carabao Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Carabao%20Cup",
+      "pubdate": "Thu, 19 Dec 2024 07:00:00 +1300"
+    },
     {
       "title": "Capitol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Capitol",
@@ -72,6 +77,11 @@
       "pubdate": "Tue, 17 Dec 2024 09:00:00 +1300"
     },
     {
+      "title": "Stuart Edmondson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stuart%20Edmondson",
+      "pubdate": "Tue, 17 Dec 2024 14:00:00 +1300"
+    },
+    {
       "title": "Tsunami warning nz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tsunami%20warning%20nz",
       "pubdate": "Tue, 17 Dec 2024 18:00:00 +1300"
@@ -90,16 +100,6 @@
       "title": "Man City vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Man%20United",
       "pubdate": "Mon, 16 Dec 2024 07:00:00 +1300"
-    },
-    {
-      "title": "Alcohol poisoning in Fiji",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Alcohol%20poisoning%20in%20Fiji",
-      "pubdate": "Mon, 16 Dec 2024 15:00:00 +1300"
-    },
-    {
-      "title": "Mayotte",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mayotte",
-      "pubdate": "Mon, 16 Dec 2024 10:00:00 +1300"
     }
   ]
 }
