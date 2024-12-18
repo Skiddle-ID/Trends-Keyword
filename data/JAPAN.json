@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2024 , 15:39:05",
+  "lastUpdate": "18-12-2024 , 16:44:51",
   "data": [
     {
       "title": "日産",
@@ -27,14 +27,19 @@
       "pubdate": "Wed, 18 Dec 2024 11:00:00 +0900"
     },
     {
-      "title": "キオクシア",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2",
+      "title": "阿武咲引退",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%98%BF%E6%AD%A6%E5%92%B2%E5%BC%95%E9%80%80",
       "pubdate": "Wed, 18 Dec 2024 22:00:00 +0900"
     },
     {
       "title": "名探偵津田",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%90%8D%E6%8E%A2%E5%81%B5%E6%B4%A5%E7%94%B0",
       "pubdate": "Wed, 18 Dec 2024 21:00:00 +0900"
+    },
+    {
+      "title": "キオクシア",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2",
+      "pubdate": "Wed, 18 Dec 2024 22:00:00 +0900"
     },
     {
       "title": "ばんばんざい",
@@ -45,16 +50,6 @@
       "title": "森山良子",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%A3%AE%E5%B1%B1%E8%89%AF%E5%AD%90",
       "pubdate": "Wed, 18 Dec 2024 14:00:00 +0900"
-    },
-    {
-      "title": "ファイターズガール",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA%E3%82%AC%E3%83%BC%E3%83%AB",
-      "pubdate": "Wed, 18 Dec 2024 07:00:00 +0900"
-    },
-    {
-      "title": "阿武咲",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%98%BF%E6%AD%A6%E5%92%B2",
-      "pubdate": "Wed, 18 Dec 2024 22:00:00 +0900"
     },
     {
       "title": "FOMC",
@@ -72,9 +67,9 @@
       "pubdate": "Tue, 17 Dec 2024 16:00:00 +0900"
     },
     {
-      "title": "甲斐拓也",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%94%B2%E6%96%90%E6%8B%93%E4%B9%9F",
-      "pubdate": "Tue, 17 Dec 2024 02:00:00 +0900"
+      "title": "地震",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9C%B0%E9%9C%87",
+      "pubdate": "Tue, 17 Dec 2024 21:00:00 +0900"
     },
     {
       "title": "国民民主党 打ち切り",
@@ -82,9 +77,9 @@
       "pubdate": "Tue, 17 Dec 2024 22:00:00 +0900"
     },
     {
-      "title": "バヌアツ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%90%E3%83%8C%E3%82%A2%E3%83%84",
-      "pubdate": "Tue, 17 Dec 2024 21:00:00 +0900"
+      "title": "甲斐拓也 巨人",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%94%B2%E6%96%90%E6%8B%93%E4%B9%9F%20%E5%B7%A8%E4%BA%BA",
+      "pubdate": "Tue, 17 Dec 2024 18:00:00 +0900"
     },
     {
       "title": "オモウマい店",
@@ -100,6 +95,11 @@
       "title": "猪苗代湖ボート事故",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8C%AA%E8%8B%97%E4%BB%A3%E6%B9%96%E3%83%9C%E3%83%BC%E3%83%88%E4%BA%8B%E6%95%85",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0900"
+    },
+    {
+      "title": "上沢直之",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%8A%E6%B2%A2%E7%9B%B4%E4%B9%8B",
+      "pubdate": "Mon, 16 Dec 2024 06:00:00 +0900"
     }
   ]
 }

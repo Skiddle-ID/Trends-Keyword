@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2024 , 15:39:06",
+  "lastUpdate": "18-12-2024 , 16:44:53",
   "data": [
     {
       "title": "Juventus",
@@ -12,14 +12,9 @@
       "pubdate": "Wed, 18 Dec 2024 01:00:00 +0100"
     },
     {
-      "title": "Pachuca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Pachuca",
+      "title": "Real Madrid vs Pachuca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Pachuca",
       "pubdate": "Wed, 18 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Marcus Rashford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marcus%20Rashford",
-      "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
     },
     {
       "title": "Nnamdi Kanu",
@@ -32,13 +27,18 @@
       "pubdate": "Wed, 18 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "PENGU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PENGU",
-      "pubdate": "Wed, 18 Dec 2024 02:00:00 +0100"
+      "title": "Marcus Rashford",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marcus%20Rashford",
+      "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
     },
     {
       "title": "Anora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Anora",
+      "pubdate": "Wed, 18 Dec 2024 02:00:00 +0100"
+    },
+    {
+      "title": "PENGU",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PENGU",
       "pubdate": "Wed, 18 Dec 2024 02:00:00 +0100"
     },
     {
@@ -47,14 +47,19 @@
       "pubdate": "Wed, 18 Dec 2024 12:00:00 +0100"
     },
     {
+      "title": "CBN POS withdrawal limit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CBN%20POS%20withdrawal%20limit",
+      "pubdate": "Wed, 18 Dec 2024 15:00:00 +0100"
+    },
+    {
+      "title": "Arnold Schwarzenegger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arnold%20Schwarzenegger",
+      "pubdate": "Wed, 18 Dec 2024 10:00:00 +0100"
+    },
+    {
       "title": "Garnacho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Garnacho",
       "pubdate": "Wed, 18 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "CBN PoS withdrawal limit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CBN%20PoS%20withdrawal%20limit",
-      "pubdate": "Wed, 18 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Doping test",
@@ -95,11 +100,6 @@
       "title": "Bournemouth vs West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bournemouth%20vs%20West%20Ham",
       "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Burna Boy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burna%20Boy",
-      "pubdate": "Mon, 16 Dec 2024 00:00:00 +0100"
     }
   ]
 }
