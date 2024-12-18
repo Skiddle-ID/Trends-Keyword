@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "18-12-2024 , 11:35:42",
+  "lastUpdate": "18-12-2024 , 13:00:15",
   "data": [
     {
-      "title": "David Beran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Beran",
-      "pubdate": "Tue, 17 Dec 2024 12:00:00 +0100"
+      "title": "Václav Havel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Havel",
+      "pubdate": "Wed, 18 Dec 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Pavel Pospíšil",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Posp%C3%AD%C5%A1il",
+      "pubdate": "Wed, 18 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Přání Ježíškovi",
@@ -12,19 +17,24 @@
       "pubdate": "Tue, 17 Dec 2024 21:00:00 +0100"
     },
     {
+      "title": "David Beran",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Beran",
+      "pubdate": "Tue, 17 Dec 2024 12:00:00 +0100"
+    },
+    {
       "title": "Diane Delano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Diane%20Delano",
       "pubdate": "Tue, 17 Dec 2024 12:00:00 +0100"
     },
     {
-      "title": "D4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D4",
-      "pubdate": "Tue, 17 Dec 2024 14:00:00 +0100"
-    },
-    {
       "title": "Film Vlny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Film%20Vlny",
       "pubdate": "Tue, 17 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "D4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D4",
+      "pubdate": "Tue, 17 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Zoo Praha",
@@ -55,11 +65,6 @@
       "title": "Mudryk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mudryk",
       "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Jakub Menšík",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Men%C5%A1%C3%ADk",
-      "pubdate": "Tue, 17 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Jill Jacobson",
@@ -95,11 +100,6 @@
       "title": "Sparta – jablonec",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20%E2%80%93%20jablonec",
       "pubdate": "Sun, 15 Dec 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Teplice – Slavia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Teplice%20%E2%80%93%20Slavia",
-      "pubdate": "Sun, 15 Dec 2024 15:00:00 +0100"
     }
   ]
 }
