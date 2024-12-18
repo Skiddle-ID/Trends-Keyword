@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-12-2024 , 23:36:14",
+  "lastUpdate": "18-12-2024 , 02:08:22",
   "data": [
+    {
+      "title": "Fallon Sherrock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fallon%20Sherrock",
+      "pubdate": "Wed, 18 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "Paul Watson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Watson",
@@ -10,6 +15,16 @@
       "title": "Vanuatu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vanuatu",
       "pubdate": "Tue, 17 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "ZSC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
+      "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Vanuatu Erdbeben",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vanuatu%20Erdbeben",
+      "pubdate": "Tue, 17 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Marisa Paredes",
@@ -22,19 +37,9 @@
       "pubdate": "Tue, 17 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Vanuatu Erdbeben",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vanuatu%20Erdbeben",
-      "pubdate": "Tue, 17 Dec 2024 18:00:00 +0100"
-    },
-    {
       "title": "Reconvilier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Reconvilier",
       "pubdate": "Tue, 17 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "ZSC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
-      "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Juventus",
@@ -77,11 +82,6 @@
       "pubdate": "Tue, 17 Dec 2024 13:00:00 +0100"
     },
     {
-      "title": "Friedrich Merz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Friedrich%20Merz",
-      "pubdate": "Tue, 17 Dec 2024 07:00:00 +0100"
-    },
-    {
       "title": "Mudryk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mudryk",
       "pubdate": "Tue, 17 Dec 2024 17:00:00 +0100"
@@ -92,14 +92,14 @@
       "pubdate": "Tue, 17 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Sergio Perez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Perez",
-      "pubdate": "Tue, 17 Dec 2024 21:00:00 +0100"
+      "title": "Sina Siegenthaler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sina%20Siegenthaler",
+      "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA",
-      "pubdate": "Tue, 17 Dec 2024 12:00:00 +0100"
+      "title": "Friedrich Merz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Friedrich%20Merz",
+      "pubdate": "Tue, 17 Dec 2024 07:00:00 +0100"
     }
   ]
 }

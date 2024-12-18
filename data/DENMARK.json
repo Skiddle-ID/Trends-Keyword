@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-12-2024 , 23:36:07",
+  "lastUpdate": "18-12-2024 , 02:08:16",
   "data": [
+    {
+      "title": "Djerf Avenue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djerf%20Avenue",
+      "pubdate": "Wed, 18 Dec 2024 00:00:00 +0100"
+    },
     {
       "title": "George Michael",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#George%20Michael",
@@ -72,19 +77,9 @@
       "pubdate": "Mon, 16 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "NAION",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NAION",
-      "pubdate": "Mon, 16 Dec 2024 12:00:00 +0100"
-    },
-    {
       "title": "Stefan Madsen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stefan%20Madsen",
       "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
-    },
-    {
-      "title": "Aab",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aab",
-      "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Ozempic",
@@ -100,6 +95,11 @@
       "title": "Sydney Sweeney",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sydney%20Sweeney",
       "pubdate": "Mon, 16 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "ATP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ATP",
+      "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
     }
   ]
 }
