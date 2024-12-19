@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 05:38:54",
+  "lastUpdate": "19-12-2024 , 06:45:20",
   "data": [
     {
       "title": "PSG",
@@ -12,14 +12,19 @@
       "pubdate": "Thu, 19 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "DeeZee",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#DeeZee",
+      "title": "Real Madryt – Pachuca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt%20%E2%80%93%20Pachuca",
       "pubdate": "Wed, 18 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Marcin Romanowski",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Romanowski",
       "pubdate": "Wed, 18 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Arsenal – Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal%20%E2%80%93%20Crystal%20Palace",
+      "pubdate": "Wed, 18 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Maciej Zakościelny",
@@ -55,11 +60,6 @@
       "title": "OHV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#OHV",
       "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Mistrzostwa Świata",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mistrzostwa%20%C5%9Awiata",
-      "pubdate": "Wed, 18 Dec 2024 02:00:00 +0100"
     },
     {
       "title": "Tede",
