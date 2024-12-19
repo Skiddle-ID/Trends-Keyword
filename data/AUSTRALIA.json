@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "19-12-2024 , 07:35:40",
+  "lastUpdate": "19-12-2024 , 08:43:15",
   "data": [
-    {
-      "title": "Southampton vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Southampton%20vs%20Liverpool",
-      "pubdate": "Thu, 19 Dec 2024 07:00:00 +1100"
-    },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
       "pubdate": "Thu, 19 Dec 2024 06:00:00 +1100"
     },
     {
-      "title": "Arsenal vs Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Crystal%20Palace",
-      "pubdate": "Thu, 19 Dec 2024 07:00:00 +1100"
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
+      "pubdate": "Thu, 19 Dec 2024 11:00:00 +1100"
     },
     {
       "title": "Mufasa",
@@ -22,9 +17,14 @@
       "pubdate": "Thu, 19 Dec 2024 00:00:00 +1100"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
-      "pubdate": "Thu, 19 Dec 2024 09:00:00 +1100"
+      "title": "Australian dollar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20dollar",
+      "pubdate": "Thu, 19 Dec 2024 16:00:00 +1100"
+    },
+    {
+      "title": "S&P 500",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#S%26P%20500",
+      "pubdate": "Thu, 19 Dec 2024 15:00:00 +1100"
     },
     {
       "title": "Sergio Perez",
@@ -32,19 +32,14 @@
       "pubdate": "Thu, 19 Dec 2024 06:00:00 +1100"
     },
     {
-      "title": "Australian dollar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australian%20dollar",
-      "pubdate": "Thu, 19 Dec 2024 16:00:00 +1100"
-    },
-    {
       "title": "Karl Stefanovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Karl%20Stefanovic",
       "pubdate": "Thu, 19 Dec 2024 10:00:00 +1100"
     },
     {
-      "title": "Stock markets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stock%20markets",
-      "pubdate": "Thu, 19 Dec 2024 15:00:00 +1100"
+      "title": "Grampians fire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grampians%20fire",
+      "pubdate": "Thu, 19 Dec 2024 10:00:00 +1100"
     },
     {
       "title": "Death of a Unicorn",
@@ -52,14 +47,14 @@
       "pubdate": "Thu, 19 Dec 2024 16:00:00 +1100"
     },
     {
-      "title": "Officer district park",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Officer%20district%20park",
-      "pubdate": "Thu, 19 Dec 2024 12:00:00 +1100"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG",
       "pubdate": "Thu, 19 Dec 2024 15:00:00 +1100"
+    },
+    {
+      "title": "Officer district park",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Officer%20district%20park",
+      "pubdate": "Thu, 19 Dec 2024 12:00:00 +1100"
     },
     {
       "title": "Marcus Rashford",
@@ -77,19 +72,14 @@
       "pubdate": "Wed, 18 Dec 2024 07:00:00 +1100"
     },
     {
-      "title": "HSC results 2024 NSW school rankings",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#HSC%20results%202024%20NSW%20school%20rankings",
-      "pubdate": "Wed, 18 Dec 2024 15:00:00 +1100"
-    },
-    {
       "title": "Ashwin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashwin",
       "pubdate": "Wed, 18 Dec 2024 18:00:00 +1100"
     },
     {
-      "title": "Capitol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Capitol",
-      "pubdate": "Wed, 18 Dec 2024 08:00:00 +1100"
+      "title": "ATO taxpayer alerts",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ATO%20taxpayer%20alerts",
+      "pubdate": "Wed, 18 Dec 2024 16:00:00 +1100"
     },
     {
       "title": "Alan Jones",
@@ -97,8 +87,18 @@
       "pubdate": "Wed, 18 Dec 2024 11:00:00 +1100"
     },
     {
+      "title": "HSC results 2024 NSW school rankings",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#HSC%20results%202024%20NSW%20school%20rankings",
+      "pubdate": "Wed, 18 Dec 2024 15:00:00 +1100"
+    },
+    {
       "title": "Skibidi Toilet Fortnite",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Skibidi%20Toilet%20Fortnite",
+      "pubdate": "Wed, 18 Dec 2024 23:00:00 +1100"
+    },
+    {
+      "title": "Raygun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raygun",
       "pubdate": "Wed, 18 Dec 2024 23:00:00 +1100"
     }
   ]
