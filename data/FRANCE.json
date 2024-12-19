@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 11:35:58",
+  "lastUpdate": "19-12-2024 , 13:00:37",
   "data": [
     {
       "title": "Mazan",
@@ -47,11 +47,6 @@
       "pubdate": "Wed, 18 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Mufasa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mufasa",
-      "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Sarah Bernhardt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sarah%20Bernhardt",
       "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
@@ -67,19 +62,29 @@
       "pubdate": "Wed, 18 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Donald%20Trump",
-      "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
-    },
-    {
       "title": "Claire Tabouret",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claire%20Tabouret",
       "pubdate": "Wed, 18 Dec 2024 18:00:00 +0100"
     },
     {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Donald%20Trump",
+      "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
+    },
+    {
       "title": "Fed",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fed",
       "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Jean Dujardin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean%20Dujardin",
+      "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Arnold Schwarzenegger",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arnold%20Schwarzenegger",
+      "pubdate": "Wed, 18 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Grotte Chauvet",
@@ -95,11 +100,6 @@
       "title": "Olivier Gavalda credit Agricole",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olivier%20Gavalda%20credit%20Agricole",
       "pubdate": "Wed, 18 Dec 2024 06:00:00 +0100"
-    },
-    {
-      "title": "Justin Trudeau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Justin%20Trudeau",
-      "pubdate": "Wed, 18 Dec 2024 09:00:00 +0100"
     }
   ]
 }

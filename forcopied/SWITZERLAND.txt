@@ -1,1 +1,1 @@
-Dominique Pelicot,Liverpool,Donnarumma,Hermes Phettberg,Dow Jones,S&P 500,Real Madrid,Monaco – paris-sg,Giorgio Contini,Sanija Ameti,Heinz Huber Raiffeisen,Arsen,Nicolas Sarkozy,Wetter Schnee,Arnold Schwarzenegger,Fed,Sugus-Häuser Zürich,Matilda Djerf,Mikaela Shiffrin,Tiffany Trump
+Pelicot,Donnarumma,Liverpool,Hermes Phettberg,Dow Jones,S&P 500,Rottweiler,Börse,Real Madrid – Pachuca,Monaco – paris-sg,Wetter Schnee,Sanija Ameti,Heinz Huber Raiffeisen,Nicolas Sarkozy,Arsen,Arnold Schwarzenegger,Fed,Sugus-Häuser Zürich,Matilda Djerf,Contini

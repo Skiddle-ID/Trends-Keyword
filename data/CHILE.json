@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 11:35:56",
+  "lastUpdate": "19-12-2024 , 13:00:35",
   "data": [
     {
       "title": "Tolima  Atlético Nacional",
@@ -32,14 +32,14 @@
       "pubdate": "Wed, 18 Dec 2024 18:00:00 -0300"
     },
     {
-      "title": "JUNJI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#JUNJI",
-      "pubdate": "Wed, 18 Dec 2024 01:00:00 -0300"
-    },
-    {
       "title": "Cathy Barriga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cathy%20Barriga",
       "pubdate": "Wed, 18 Dec 2024 14:00:00 -0300"
+    },
+    {
+      "title": "JUNJI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#JUNJI",
+      "pubdate": "Wed, 18 Dec 2024 01:00:00 -0300"
     },
     {
       "title": "Papa Johns",
@@ -52,24 +52,19 @@
       "pubdate": "Wed, 18 Dec 2024 01:00:00 -0300"
     },
     {
-      "title": "Villarreal  Rayo Vallecano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20%20Rayo%20Vallecano",
-      "pubdate": "Wed, 18 Dec 2024 19:00:00 -0300"
-    },
-    {
       "title": "Checo perez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Checo%20perez",
       "pubdate": "Wed, 18 Dec 2024 16:00:00 -0300"
     },
     {
+      "title": "Villarreal - Rayo Vallecano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Villarreal%20-%20Rayo%20Vallecano",
+      "pubdate": "Wed, 18 Dec 2024 19:00:00 -0300"
+    },
+    {
       "title": "Fanny Cuevas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fanny%20Cuevas",
       "pubdate": "Wed, 18 Dec 2024 00:00:00 -0300"
-    },
-    {
-      "title": "Temblor HOY",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20HOY",
-      "pubdate": "Wed, 18 Dec 2024 04:00:00 -0300"
     },
     {
       "title": "Sismos Chile",
@@ -100,6 +95,11 @@
       "title": "Marisa Paredes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marisa%20Paredes",
       "pubdate": "Tue, 17 Dec 2024 12:00:00 -0300"
+    },
+    {
+      "title": "Claudio Bravo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Bravo",
+      "pubdate": "Tue, 17 Dec 2024 15:00:00 -0300"
     }
   ]
 }
