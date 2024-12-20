@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "19-12-2024 , 23:35:38",
+  "lastUpdate": "20-12-2024 , 01:58:32",
   "data": [
-    {
-      "title": "CFR Cluj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj",
-      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
-    },
     {
       "title": "PSD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSD",
       "pubdate": "Thu, 19 Dec 2024 11:00:00 +0200"
+    },
+    {
+      "title": "Rapid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid",
+      "pubdate": "Thu, 19 Dec 2024 22:00:00 +0200"
     },
     {
       "title": "Gisele Pelicot",
@@ -42,9 +42,9 @@
       "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
     },
     {
-      "title": "Sarkozy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sarkozy",
-      "pubdate": "Thu, 19 Dec 2024 10:00:00 +0200"
+      "title": "AUR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
+      "pubdate": "Thu, 19 Dec 2024 21:00:00 +0200"
     },
     {
       "title": "Liam Lawson",
@@ -52,24 +52,19 @@
       "pubdate": "Thu, 19 Dec 2024 16:00:00 +0200"
     },
     {
-      "title": "AMI Nostalgia de Crăciun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AMI%20Nostalgia%20de%20Cr%C4%83ciun",
-      "pubdate": "Thu, 19 Dec 2024 21:00:00 +0200"
+      "title": "Sarkozy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sarkozy",
+      "pubdate": "Thu, 19 Dec 2024 10:00:00 +0200"
     },
     {
-      "title": "AUR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
+      "title": "AMI Nostalgia de Crăciun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AMI%20Nostalgia%20de%20Cr%C4%83ciun",
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +0200"
     },
     {
       "title": "Bulgaria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bulgaria",
       "pubdate": "Thu, 19 Dec 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Poziții cupa româniei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pozi%C8%9Bii%20cupa%20rom%C3%A2niei",
-      "pubdate": "Thu, 19 Dec 2024 00:00:00 +0200"
     },
     {
       "title": "S&P 500",
@@ -80,6 +75,11 @@
       "title": "Adela Popescu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Adela%20Popescu",
       "pubdate": "Thu, 19 Dec 2024 01:00:00 +0200"
+    },
+    {
+      "title": "19 decembrie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#19%20decembrie",
+      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
     },
     {
       "title": "Sylvester stallone",
