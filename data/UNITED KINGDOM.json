@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2024 , 11:36:00",
+  "lastUpdate": "20-12-2024 , 12:57:14",
   "data": [
     {
       "title": "Wind warning",
@@ -7,14 +7,19 @@
       "pubdate": "Fri, 20 Dec 2024 07:00:00 +0000"
     },
     {
-      "title": "Target",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Target",
-      "pubdate": "Fri, 20 Dec 2024 06:00:00 +0000"
+      "title": "Ivan Juric",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivan%20Juric",
+      "pubdate": "Fri, 20 Dec 2024 11:00:00 +0000"
     },
     {
       "title": "Pharma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pharma",
       "pubdate": "Fri, 20 Dec 2024 09:00:00 +0000"
+    },
+    {
+      "title": "Target",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Target",
+      "pubdate": "Fri, 20 Dec 2024 06:00:00 +0000"
     },
     {
       "title": "Ethan Slater",
@@ -25,6 +30,16 @@
       "title": "Beast Games",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Beast%20Games",
       "pubdate": "Fri, 20 Dec 2024 07:00:00 +0000"
+    },
+    {
+      "title": "Zoe Ball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Zoe%20Ball",
+      "pubdate": "Fri, 20 Dec 2024 12:00:00 +0000"
+    },
+    {
+      "title": "Tottenham vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tottenham%20vs%20Man%20United",
+      "pubdate": "Thu, 19 Dec 2024 18:00:00 +0000"
     },
     {
       "title": "Pelicot",
@@ -47,11 +62,6 @@
       "pubdate": "Thu, 19 Dec 2024 14:00:00 +0000"
     },
     {
-      "title": "Caroline Aherne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Caroline%20Aherne",
-      "pubdate": "Thu, 19 Dec 2024 22:00:00 +0000"
-    },
-    {
       "title": "Peter Mandelson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Peter%20Mandelson",
       "pubdate": "Thu, 19 Dec 2024 23:00:00 +0000"
@@ -72,14 +82,14 @@
       "pubdate": "Thu, 19 Dec 2024 22:00:00 +0000"
     },
     {
-      "title": "Driving tests",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Driving%20tests",
-      "pubdate": "Thu, 19 Dec 2024 09:00:00 +0000"
-    },
-    {
       "title": "Fraser Forster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fraser%20Forster",
       "pubdate": "Thu, 19 Dec 2024 23:00:00 +0000"
+    },
+    {
+      "title": "Driving tests",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Driving%20tests",
+      "pubdate": "Thu, 19 Dec 2024 09:00:00 +0000"
     },
     {
       "title": "Gucci",
@@ -90,16 +100,6 @@
       "title": "Virgin River",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Virgin%20River",
       "pubdate": "Thu, 19 Dec 2024 22:00:00 +0000"
-    },
-    {
-      "title": "Doula",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Doula",
-      "pubdate": "Thu, 19 Dec 2024 23:00:00 +0000"
-    },
-    {
-      "title": "Kieran Tierney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kieran%20Tierney",
-      "pubdate": "Thu, 19 Dec 2024 18:00:00 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2024 , 11:35:58",
+  "lastUpdate": "20-12-2024 , 12:57:12",
   "data": [
     {
       "title": "Superman",
@@ -7,9 +7,9 @@
       "pubdate": "Fri, 20 Dec 2024 00:00:00 +0800"
     },
     {
-      "title": "Micron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
-      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0800"
+      "title": "Spurs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spurs",
+      "pubdate": "Fri, 20 Dec 2024 09:00:00 +0800"
     },
     {
       "title": "NRIC",
@@ -25,6 +25,21 @@
       "title": "Winter solstice",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Winter%20solstice",
       "pubdate": "Fri, 20 Dec 2024 18:00:00 +0800"
+    },
+    {
+      "title": "MH370",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MH370",
+      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0800"
+    },
+    {
+      "title": "Crypto news",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Crypto%20news",
+      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0800"
+    },
+    {
+      "title": "Micron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
+      "pubdate": "Fri, 20 Dec 2024 01:00:00 +0800"
     },
     {
       "title": "Carabao Cup",
@@ -50,11 +65,6 @@
       "title": "Liverpool FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20FC",
       "pubdate": "Thu, 19 Dec 2024 09:00:00 +0800"
-    },
-    {
-      "title": "Spy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spy",
-      "pubdate": "Thu, 19 Dec 2024 21:00:00 +0800"
     },
     {
       "title": "Oatly",
@@ -90,16 +100,6 @@
       "title": "Mudryk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mudryk",
       "pubdate": "Tue, 17 Dec 2024 21:00:00 +0800"
-    },
-    {
-      "title": "Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
-      "pubdate": "Mon, 16 Dec 2024 08:00:00 +0800"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-      "pubdate": "Mon, 16 Dec 2024 05:00:00 +0800"
     }
   ]
 }

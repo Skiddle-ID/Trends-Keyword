@@ -1,10 +1,30 @@
 {
-  "lastUpdate": "20-12-2024 , 11:35:58",
+  "lastUpdate": "20-12-2024 , 12:57:11",
   "data": [
+    {
+      "title": "CFR Cluj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj",
+      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
+    },
     {
       "title": "Incendiu Marie Curie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Marie%20Curie",
       "pubdate": "Fri, 20 Dec 2024 09:00:00 +0200"
+    },
+    {
+      "title": "A7",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#A7",
+      "pubdate": "Fri, 20 Dec 2024 10:00:00 +0200"
+    },
+    {
+      "title": "Superman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Superman",
+      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
+    },
+    {
+      "title": "Aeroport iasi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aeroport%20iasi",
+      "pubdate": "Fri, 20 Dec 2024 08:00:00 +0200"
     },
     {
       "title": "Sala Palatului",
@@ -14,7 +34,7 @@
     {
       "title": "Rapid Bucureşti CFR Cluj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti%20CFR%20Cluj",
-      "pubdate": "Thu, 19 Dec 2024 15:00:00 +0200"
+      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
     },
     {
       "title": "Tottenham - Man utd",
@@ -52,14 +72,24 @@
       "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
     },
     {
-      "title": "Ilie Năstase",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ilie%20N%C4%83stase",
+      "title": "Incendiu Spitalul Colentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Spitalul%20Colentina",
+      "pubdate": "Thu, 19 Dec 2024 14:00:00 +0200"
+    },
+    {
+      "title": "Halep",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep",
       "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
     },
     {
       "title": "Sergio pérez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sergio%20p%C3%A9rez",
       "pubdate": "Thu, 19 Dec 2024 16:00:00 +0200"
+    },
+    {
+      "title": "Squid Game",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Squid%20Game",
+      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
     },
     {
       "title": "Bulgaria",
@@ -70,36 +100,6 @@
       "title": "AUR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
       "pubdate": "Thu, 19 Dec 2024 21:00:00 +0200"
-    },
-    {
-      "title": "Incendiu Spitalul Colentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Spitalul%20Colentina",
-      "pubdate": "Thu, 19 Dec 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Marcus Rashford",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marcus%20Rashford",
-      "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
-    },
-    {
-      "title": "Sarkozy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sarkozy",
-      "pubdate": "Thu, 19 Dec 2024 10:00:00 +0200"
-    },
-    {
-      "title": "S&P 500",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#S%26P%20500",
-      "pubdate": "Thu, 19 Dec 2024 14:00:00 +0200"
-    },
-    {
-      "title": "19 decembrie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#19%20decembrie",
-      "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
-    },
-    {
-      "title": "FCSB - Universitatea Craiova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Universitatea%20Craiova",
-      "pubdate": "Wed, 18 Dec 2024 20:00:00 +0200"
     }
   ]
 }

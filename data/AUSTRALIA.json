@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "20-12-2024 , 11:35:52",
+  "lastUpdate": "20-12-2024 , 12:57:04",
   "data": [
     {
       "title": "Sam Konstas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Konstas",
       "pubdate": "Fri, 20 Dec 2024 15:00:00 +1100"
-    },
-    {
-      "title": "Pharma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pharma",
-      "pubdate": "Fri, 20 Dec 2024 08:00:00 +1100"
     },
     {
       "title": "Bali 9",
@@ -27,9 +22,9 @@
       "pubdate": "Fri, 20 Dec 2024 13:00:00 +1100"
     },
     {
-      "title": "Potato Chips",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Potato%20Chips",
-      "pubdate": "Fri, 20 Dec 2024 15:00:00 +1100"
+      "title": "Adelaide United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20United",
+      "pubdate": "Fri, 20 Dec 2024 20:00:00 +1100"
     },
     {
       "title": "Beast Games",
@@ -37,9 +32,14 @@
       "pubdate": "Fri, 20 Dec 2024 12:00:00 +1100"
     },
     {
-      "title": "The Gurdies",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Gurdies",
-      "pubdate": "Fri, 20 Dec 2024 17:00:00 +1100"
+      "title": "Melbourne Sun",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Sun",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +1100"
+    },
+    {
+      "title": "Potato Chips",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Potato%20Chips",
+      "pubdate": "Fri, 20 Dec 2024 15:00:00 +1100"
     },
     {
       "title": "Dean Jones",
@@ -47,19 +47,14 @@
       "pubdate": "Fri, 20 Dec 2024 19:00:00 +1100"
     },
     {
-      "title": "Virat Kohli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Virat%20Kohli",
-      "pubdate": "Fri, 20 Dec 2024 01:00:00 +1100"
-    },
-    {
       "title": "Fire",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fire",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +1100"
     },
     {
-      "title": "Adelaide United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20United",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +1100"
+      "title": "Virat Kohli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Virat%20Kohli",
+      "pubdate": "Fri, 20 Dec 2024 01:00:00 +1100"
     },
     {
       "title": "Virgin River",
@@ -77,19 +72,14 @@
       "pubdate": "Fri, 20 Dec 2024 15:00:00 +1100"
     },
     {
-      "title": "Merry Christmas and Happy New Year",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20Christmas%20and%20Happy%20New%20Year",
-      "pubdate": "Fri, 20 Dec 2024 13:00:00 +1100"
-    },
-    {
       "title": "Stephen Curry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stephen%20Curry",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +1100"
     },
     {
-      "title": "Melbourne Sun",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Sun",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +1100"
+      "title": "Merry Christmas and Happy New Year",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Merry%20Christmas%20and%20Happy%20New%20Year",
+      "pubdate": "Fri, 20 Dec 2024 13:00:00 +1100"
     },
     {
       "title": "CellOPark",
@@ -97,9 +87,19 @@
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +1100"
     },
     {
+      "title": "Isack Hadjar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Isack%20Hadjar",
+      "pubdate": "Fri, 20 Dec 2024 23:00:00 +1100"
+    },
+    {
       "title": "Chargers vs Broncos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chargers%20vs%20Broncos",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +1100"
+    },
+    {
+      "title": "Bushfires Victoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bushfires%20Victoria",
+      "pubdate": "Thu, 19 Dec 2024 10:00:00 +1100"
     }
   ]
 }
