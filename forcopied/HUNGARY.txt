@@ -1,1 +1,1 @@
-Téli napforduló,Brittany Murphy,Anna,Magdeburg,Személyi igazolvány,Sydney Sweeney,Girona–valladolid,Adrien Brody,Bayern,Lázár János,Isack Hadjar,Fülöp Attila,Marcin Romanowski,Chelsea,Weisz Fanni,Németország,Tyson Fury,Gál Petra,Michael Schumacher,Győrffy Balázs
+Téli napforduló,Argy,Brittany Murphy,Anna,Matteo Salvini,Magdeburg,Személyi igazolvány,Sydney Sweeney,Adrien Brody,Girona–valladolid,Bayern,Lázár János,Isack Hadjar,Weisz Fanni,Fülöp Attila,Marcin Romanowski,Gál Petra,Chelsea,Tyson Fury,Michael Schumacher

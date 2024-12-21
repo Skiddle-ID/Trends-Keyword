@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 11:35:15",
+  "lastUpdate": "21-12-2024 , 12:53:34",
   "data": [
     {
       "title": "The Voice Kids",
@@ -17,14 +17,29 @@
       "pubdate": "Sat, 21 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Chico Forti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chico%20Forti",
+      "pubdate": "Sat, 21 Dec 2024 03:00:00 +0100"
+    },
+    {
       "title": "Yellowstone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Yellowstone",
       "pubdate": "Sat, 21 Dec 2024 07:00:00 +0100"
     },
     {
-      "title": "Chico Forti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chico%20Forti",
-      "pubdate": "Sat, 21 Dec 2024 03:00:00 +0100"
+      "title": "Genoa-Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Genoa-Napoli",
+      "pubdate": "Sat, 21 Dec 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Shutdown",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Shutdown",
+      "pubdate": "Sat, 21 Dec 2024 11:00:00 +0100"
+    },
+    {
+      "title": "Corridoio Vasariano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Corridoio%20Vasariano",
+      "pubdate": "Sat, 21 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Milan",
@@ -35,6 +50,11 @@
       "title": "Attentato Germania",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Attentato%20Germania",
       "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Solstizio d'inverno 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Solstizio%20d'inverno%202024",
+      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Salernitana-Brescia",
@@ -50,11 +70,6 @@
       "title": "Estrazione SuperEnalotto oggi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Estrazione%20SuperEnalotto%20oggi",
       "pubdate": "Fri, 20 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Solstizio d'inverno 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Solstizio%20d'inverno%202024",
-      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Rivalutazione pensioni gennaio 2025",
@@ -85,21 +100,6 @@
       "title": "Luis Hasa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luis%20Hasa",
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Berlino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berlino",
-      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Sentenza Cassazione migranti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sentenza%20Cassazione%20migranti",
-      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Cavese Benevento",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cavese%20Benevento",
-      "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
     }
   ]
 }

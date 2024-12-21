@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "21-12-2024 , 11:35:16",
+  "lastUpdate": "21-12-2024 , 12:53:36",
   "data": [
-    {
-      "title": "Grace Gummer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grace%20Gummer",
-      "pubdate": "Sat, 21 Dec 2024 09:00:00 +0100"
-    },
     {
       "title": "Gaboro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaboro",
@@ -32,6 +27,11 @@
       "pubdate": "Fri, 20 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Årets mørkeste dag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85rets%20m%C3%B8rkeste%20dag",
+      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
+    },
+    {
       "title": "Hassan El Fakiri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hassan%20El%20Fakiri",
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +0100"
@@ -40,11 +40,6 @@
       "title": "Eliteserien 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien%202025",
       "pubdate": "Fri, 20 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Solsnu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Solsnu",
-      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Novo Nordisk",
@@ -64,7 +59,7 @@
     {
       "title": "Omar Elabdellaoui",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Omar%20Elabdellaoui",
-      "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
+      "pubdate": "Fri, 20 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Los Angeles",
@@ -100,6 +95,11 @@
       "title": "Mayotte",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mayotte",
       "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Gisele Pelicot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gisele%20Pelicot",
+      "pubdate": "Thu, 19 Dec 2024 14:00:00 +0100"
     }
   ]
 }

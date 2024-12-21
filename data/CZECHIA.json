@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 11:35:12",
+  "lastUpdate": "21-12-2024 , 12:53:31",
   "data": [
     {
       "title": "AfD",
@@ -7,9 +7,9 @@
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
     },
     {
-      "title": "Slunovrat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunovrat",
-      "pubdate": "Sat, 21 Dec 2024 02:00:00 +0100"
+      "title": "Betlemske svetlo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Betlemske%20svetlo",
+      "pubdate": "Sat, 21 Dec 2024 10:00:00 +0100"
     },
     {
       "title": "Kate Beckinsale",
@@ -27,19 +27,34 @@
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
     },
     {
+      "title": "Zimni slunovrat 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zimni%20slunovrat%202024",
+      "pubdate": "Fri, 20 Dec 2024 19:00:00 +0100"
+    },
+    {
       "title": "Šťastný smolař",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0%C5%A5astn%C3%BD%20smola%C5%99",
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Superman 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Superman%202025",
-      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0100"
+      "title": "Adam Plachetka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adam%20Plachetka",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Usyk vs Fury 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Usyk%20vs%20Fury%202",
+      "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "S čerty nejsou žerty",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20%C4%8Derty%20nejsou%20%C5%BEerty",
       "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Superman 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Superman%202025",
+      "pubdate": "Fri, 20 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Fentanyl",
@@ -85,21 +100,6 @@
       "title": "Superman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Superman",
       "pubdate": "Thu, 19 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Luftwaffe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Luftwaffe",
-      "pubdate": "Thu, 19 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Hell's Kitchen Česko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hell's%20Kitchen%20%C4%8Cesko",
-      "pubdate": "Thu, 19 Dec 2024 05:00:00 +0100"
-    },
-    {
-      "title": "Pretty Woman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pretty%20Woman",
-      "pubdate": "Thu, 19 Dec 2024 13:00:00 +0100"
     }
   ]
 }
