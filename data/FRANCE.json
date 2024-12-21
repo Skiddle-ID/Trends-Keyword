@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 06:40:59",
+  "lastUpdate": "21-12-2024 , 07:35:25",
   "data": [
     {
       "title": "Astrid et Raphaëlle",
@@ -12,13 +12,8 @@
       "pubdate": "Sat, 21 Dec 2024 02:00:00 +0100"
     },
     {
-      "title": "Thomas Dutronc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Dutronc",
-      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Fury Usyk 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fury%20Usyk%202",
+      "title": "Fury - Usyk 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fury%20-%20Usyk%202",
       "pubdate": "Sat, 21 Dec 2024 04:00:00 +0100"
     },
     {
@@ -37,11 +32,6 @@
       "pubdate": "Fri, 20 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Salahdine Parnasse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salahdine%20Parnasse",
-      "pubdate": "Fri, 20 Dec 2024 16:00:00 +0100"
-    },
-    {
       "title": "Isack Hadjar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isack%20Hadjar",
       "pubdate": "Fri, 20 Dec 2024 12:00:00 +0100"
@@ -50,11 +40,6 @@
       "title": "Wembanyama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
       "pubdate": "Fri, 20 Dec 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Solstice d'hiver 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Solstice%20d'hiver%202024",
-      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Novo Nordisk",
@@ -67,23 +52,28 @@
       "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Mathias Lessort",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mathias%20Lessort",
-      "pubdate": "Fri, 20 Dec 2024 01:00:00 +0100"
-    },
-    {
       "title": "Mask Singer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mask%20Singer",
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Thierry Jacob",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Jacob",
-      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
+      "title": "Mathias Lessort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mathias%20Lessort",
+      "pubdate": "Fri, 20 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Santa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Santa",
+      "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Djibouti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djibouti",
+      "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Thierry Jacob",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Jacob",
       "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
     },
     {
@@ -92,14 +82,24 @@
       "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Espaly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Espaly",
-      "pubdate": "Fri, 20 Dec 2024 23:00:00 +0100"
-    },
-    {
       "title": "Scorbut",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Scorbut",
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
+    },
+    {
+      "title": "Kylian Mbappé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kylian%20Mbapp%C3%A9",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Solstice d'hiver",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Solstice%20d'hiver",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Mazan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mazan",
+      "pubdate": "Thu, 19 Dec 2024 10:00:00 +0100"
     }
   ]
 }
