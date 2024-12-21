@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "21-12-2024 , 20:35:15",
+  "lastUpdate": "21-12-2024 , 21:35:35",
   "data": [
+    {
+      "title": "S tebou mě baví svět",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20tebou%20m%C4%9B%20bav%C3%AD%20sv%C4%9Bt",
+      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
+    },
     {
       "title": "AfD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AfD",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
     },
     {
-      "title": "Leverkusen – Freiburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Freiburg",
-      "pubdate": "Sat, 21 Dec 2024 18:00:00 +0100"
+      "title": "Betlemske svetlo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Betlemske%20svetlo",
+      "pubdate": "Sat, 21 Dec 2024 10:00:00 +0100"
+    },
+    {
+      "title": "Prazdniny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prazdniny",
+      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Gaboro",
@@ -17,24 +27,9 @@
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Betlémské světlo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Betl%C3%A9msk%C3%A9%20sv%C4%9Btlo",
-      "pubdate": "Sat, 21 Dec 2024 15:00:00 +0100"
-    },
-    {
       "title": "Ester Ledecká",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
       "pubdate": "Sat, 21 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "TN.cz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#TN.cz",
-      "pubdate": "Sat, 21 Dec 2024 11:00:00 +0100"
-    },
-    {
-      "title": "Kate Beckinsale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%20Beckinsale",
-      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Man City",
@@ -42,14 +37,24 @@
       "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
     },
     {
+      "title": "Daisy Lee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daisy%20Lee",
+      "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Kate Beckinsale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%20Beckinsale",
+      "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "D3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D3",
+      "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
+    },
+    {
       "title": "Zetova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zetova",
       "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Black Milk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Black%20Milk",
-      "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Zimní slunovrat 2024",
@@ -62,14 +67,14 @@
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Girona – Valladolid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Valladolid",
-      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Usyk vs Fury 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Usyk%20vs%20Fury%202",
       "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
+    },
+    {
+      "title": "Girona – Valladolid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Valladolid",
+      "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Šťastný smolař",
@@ -95,11 +100,6 @@
       "title": "Fentanyl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fentanyl",
       "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
-      "pubdate": "Fri, 20 Dec 2024 07:00:00 +0100"
     }
   ]
 }

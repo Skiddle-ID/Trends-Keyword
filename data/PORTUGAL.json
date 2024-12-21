@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "21-12-2024 , 20:35:20",
+  "lastUpdate": "21-12-2024 , 21:35:40",
   "data": [
+    {
+      "title": "Pedro Sobral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Sobral",
+      "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
+    },
     {
       "title": "Aston Villa  City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aston%20Villa%20%20City",
       "pubdate": "Sat, 21 Dec 2024 12:00:00 +0000"
     },
     {
-      "title": "Pedro Sobral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Sobral",
-      "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
+      "title": "Porto FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20FC",
+      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0000"
+    },
+    {
+      "title": "Famalicão  Farense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o%20%20Farense",
+      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0000"
+    },
+    {
+      "title": "Barcelona  Atlético Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Atl%C3%A9tico%20Madrid",
+      "pubdate": "Sat, 21 Dec 2024 20:00:00 +0000"
     },
     {
       "title": "Manchester City",
@@ -17,9 +32,9 @@
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0000"
     },
     {
-      "title": "Famalicão-Farense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Famalic%C3%A3o-Farense",
-      "pubdate": "Sat, 21 Dec 2024 16:00:00 +0000"
+      "title": "Crystal Palace  Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crystal%20Palace%20%20Arsenal",
+      "pubdate": "Sat, 21 Dec 2024 18:00:00 +0000"
     },
     {
       "title": "Vizela  Porto B",
@@ -37,9 +52,14 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
     },
     {
-      "title": "Crystal Palace  Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crystal%20Palace%20%20Arsenal",
+      "title": "Justin Baldoni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Justin%20Baldoni",
       "pubdate": "Sat, 21 Dec 2024 18:00:00 +0000"
+    },
+    {
+      "title": "Chaves  Tondela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chaves%20%20Tondela",
+      "pubdate": "Sat, 21 Dec 2024 17:00:00 +0000"
     },
     {
       "title": "Brentford  Nottingham Forest",
@@ -62,8 +82,13 @@
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
     },
     {
-      "title": "Blake Lively",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Blake%20Lively",
+      "title": "Fabelmans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fabelmans",
+      "pubdate": "Sat, 21 Dec 2024 20:00:00 +0000"
+    },
+    {
+      "title": "Torino  Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torino%20%20Bologna",
       "pubdate": "Sat, 21 Dec 2024 18:00:00 +0000"
     },
     {
@@ -75,31 +100,6 @@
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mbappe",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0000"
-    },
-    {
-      "title": "Torino  Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torino%20%20Bologna",
-      "pubdate": "Sat, 21 Dec 2024 18:00:00 +0000"
-    },
-    {
-      "title": "Magdeburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Magdeburg",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Casa Pia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casa%20Pia",
-      "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
-    },
-    {
-      "title": "Luan Santana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luan%20Santana",
-      "pubdate": "Fri, 20 Dec 2024 15:00:00 +0000"
     }
   ]
 }
