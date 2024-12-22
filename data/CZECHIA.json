@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "22-12-2024 , 11:35:08",
+  "lastUpdate": "22-12-2024 , 12:53:26",
   "data": [
+    {
+      "title": "Václav Klaus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Klaus",
+      "pubdate": "Sun, 22 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Alta Badia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alta%20Badia",
+      "pubdate": "Sun, 22 Dec 2024 13:00:00 +0100"
+    },
     {
       "title": "S tebou mě baví svět",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%20tebou%20m%C4%9B%20bav%C3%AD%20sv%C4%9Bt",
@@ -10,11 +20,6 @@
       "title": "Barcelona – Atlético Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona%20%E2%80%93%20Atl%C3%A9tico%20Madrid",
       "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Leverkusen – Freiburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Freiburg",
-      "pubdate": "Sat, 21 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "West Ham – Brighton",
@@ -37,14 +42,14 @@
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0100"
     },
     {
-      "title": "Prazdniny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prazdniny",
-      "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
-    },
-    {
       "title": "Metropole Zličín",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Metropole%20Zli%C4%8D%C3%ADn",
       "pubdate": "Sat, 21 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Patrik Schick",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20Schick",
+      "pubdate": "Sat, 21 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Pavel Nový",
@@ -62,8 +67,8 @@
       "pubdate": "Sat, 21 Dec 2024 14:00:00 +0100"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City",
+      "title": "Prazdniny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prazdniny",
       "pubdate": "Sat, 21 Dec 2024 19:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Kate Beckinsale",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%20Beckinsale",
       "pubdate": "Sat, 21 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Zetova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zetova",
-      "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
     }
   ]
 }

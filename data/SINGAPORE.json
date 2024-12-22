@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 11:35:14",
+  "lastUpdate": "22-12-2024 , 12:53:32",
   "data": [
     {
       "title": "Justin Baldoni",
@@ -32,8 +32,8 @@
       "pubdate": "Sat, 21 Dec 2024 11:00:00 +0800"
     },
     {
-      "title": "US government shutdown",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20government%20shutdown",
+      "title": "Us government shutdown",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Us%20government%20shutdown",
       "pubdate": "Sat, 21 Dec 2024 01:00:00 +0800"
     },
     {
@@ -59,11 +59,6 @@
     {
       "title": "MaNaDr Clinic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MaNaDr%20Clinic",
-      "pubdate": "Fri, 20 Dec 2024 22:00:00 +0800"
-    },
-    {
-      "title": "Changi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Changi",
       "pubdate": "Fri, 20 Dec 2024 22:00:00 +0800"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Whooping cough",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Whooping%20cough",
       "pubdate": "Wed, 18 Dec 2024 11:00:00 +0800"
+    },
+    {
+      "title": "Mary Jane Veloso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mary%20Jane%20Veloso",
+      "pubdate": "Wed, 18 Dec 2024 16:00:00 +0800"
     }
   ]
 }
