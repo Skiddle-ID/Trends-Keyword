@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2024 , 11:35:46",
+  "lastUpdate": "23-12-2024 , 12:57:38",
   "data": [
     {
       "title": "Budai Ivett Hír TV",
@@ -17,9 +17,14 @@
       "pubdate": "Mon, 23 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "Csobot Adél",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csobot%20Ad%C3%A9l",
-      "pubdate": "Mon, 23 Dec 2024 00:00:00 +0100"
+      "title": "M3 baleset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M3%20baleset",
+      "pubdate": "Mon, 23 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
+      "pubdate": "Mon, 23 Dec 2024 13:00:00 +0100"
     },
     {
       "title": "Tottenham–liverpool",
@@ -62,14 +67,19 @@
       "pubdate": "Sun, 22 Dec 2024 09:00:00 +0100"
     },
     {
+      "title": "Ünnepi nyitvatartás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Cnnepi%20nyitvatart%C3%A1s",
+      "pubdate": "Sun, 22 Dec 2024 19:00:00 +0100"
+    },
+    {
       "title": "Kerkez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kerkez",
       "pubdate": "Sun, 22 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Ünnepi nyitvatartás",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Cnnepi%20nyitvatart%C3%A1s",
-      "pubdate": "Sun, 22 Dec 2024 19:00:00 +0100"
+      "title": "Gary Anderson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gary%20Anderson",
+      "pubdate": "Sun, 22 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Lang Ádám",
@@ -77,9 +87,9 @@
       "pubdate": "Sun, 22 Dec 2024 19:00:00 +0100"
     },
     {
-      "title": "Gary Anderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gary%20Anderson",
-      "pubdate": "Sun, 22 Dec 2024 23:00:00 +0100"
+      "title": "Emberek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Emberek",
+      "pubdate": "Sun, 22 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Nfl",
@@ -90,16 +100,6 @@
       "title": "Robert Fico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20Fico",
       "pubdate": "Sun, 22 Dec 2024 09:00:00 +0100"
-    },
-    {
-      "title": "CIB Bank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CIB%20Bank",
-      "pubdate": "Sun, 22 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Pep Guardiola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pep%20Guardiola",
-      "pubdate": "Sun, 22 Dec 2024 14:00:00 +0100"
     }
   ]
 }

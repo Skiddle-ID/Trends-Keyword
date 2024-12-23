@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2024 , 11:35:42",
+  "lastUpdate": "23-12-2024 , 12:57:33",
   "data": [
     {
       "title": "Eagles",
@@ -27,6 +27,11 @@
       "pubdate": "Sun, 22 Dec 2024 09:00:00 -0800"
     },
     {
+      "title": "Buccaneers vs Cowboys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buccaneers%20vs%20Cowboys",
+      "pubdate": "Sun, 22 Dec 2024 18:00:00 -0800"
+    },
+    {
       "title": "Lions vs Bears",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lions%20vs%20Bears",
       "pubdate": "Sun, 22 Dec 2024 11:00:00 -0800"
@@ -35,11 +40,6 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
       "pubdate": "Sun, 22 Dec 2024 07:00:00 -0800"
-    },
-    {
-      "title": "Buccaneers vs Cowboys",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buccaneers%20vs%20Cowboys",
-      "pubdate": "Sun, 22 Dec 2024 18:00:00 -0800"
     },
     {
       "title": "NFL Playoff Picture",
@@ -62,19 +62,19 @@
       "pubdate": "Sun, 22 Dec 2024 05:00:00 -0800"
     },
     {
-      "title": "Rams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
-      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0800"
-    },
-    {
       "title": "Patriots vs Bills",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patriots%20vs%20Bills",
       "pubdate": "Sun, 22 Dec 2024 14:00:00 -0800"
     },
     {
-      "title": "LAUREL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LAUREL",
-      "pubdate": "Sun, 22 Dec 2024 05:00:00 -0800"
+      "title": "Rams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
+      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0800"
+    },
+    {
+      "title": "Scarlett Johansson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scarlett%20Johansson",
+      "pubdate": "Sun, 22 Dec 2024 01:00:00 -0800"
     },
     {
       "title": "Cardinals",

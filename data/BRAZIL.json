@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "23-12-2024 , 11:35:43",
+  "lastUpdate": "23-12-2024 , 12:57:35",
   "data": [
+    {
+      "title": "Encceja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Encceja",
+      "pubdate": "Mon, 23 Dec 2024 06:00:00 -0500"
+    },
+    {
+      "title": "Rodizio sp",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodizio%20sp",
+      "pubdate": "Mon, 23 Dec 2024 05:00:00 -0500"
+    },
+    {
+      "title": "Felipe Franco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Felipe%20Franco",
+      "pubdate": "Mon, 23 Dec 2024 06:00:00 -0500"
+    },
     {
       "title": "Real Madrid x Sevilla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid%20x%20Sevilla",
@@ -17,14 +32,14 @@
       "pubdate": "Sun, 22 Dec 2024 09:00:00 -0500"
     },
     {
-      "title": "Manchester United x Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Bournemouth",
-      "pubdate": "Sun, 22 Dec 2024 09:00:00 -0500"
-    },
-    {
       "title": "Ponte do Estreito Maranhão",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20do%20Estreito%20Maranh%C3%A3o",
       "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
+    },
+    {
+      "title": "Manchester United x Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Bournemouth",
+      "pubdate": "Sun, 22 Dec 2024 09:00:00 -0500"
     },
     {
       "title": "Juventus",
@@ -57,6 +72,11 @@
       "pubdate": "Sun, 22 Dec 2024 00:00:00 -0500"
     },
     {
+      "title": "Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Betis",
+      "pubdate": "Sun, 22 Dec 2024 16:00:00 -0500"
+    },
+    {
       "title": "Sergio Ramos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sergio%20Ramos",
       "pubdate": "Sun, 22 Dec 2024 10:00:00 -0500"
@@ -79,26 +99,6 @@
     {
       "title": "Nicolas Prattes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nicolas%20Prattes",
-      "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
-    },
-    {
-      "title": "João Fonseca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jo%C3%A3o%20Fonseca",
-      "pubdate": "Sun, 22 Dec 2024 13:00:00 -0500"
-    },
-    {
-      "title": "Copa da França",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20da%20Fran%C3%A7a",
-      "pubdate": "Sun, 22 Dec 2024 16:00:00 -0500"
-    },
-    {
-      "title": "Eliana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eliana",
-      "pubdate": "Sun, 22 Dec 2024 18:00:00 -0500"
-    },
-    {
-      "title": "Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolves",
       "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
     }
   ]
