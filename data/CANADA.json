@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 23:35:12",
+  "lastUpdate": "23-12-2024 , 02:03:07",
   "data": [
     {
       "title": "Tottenham vs Liverpool",
@@ -7,14 +7,19 @@
       "pubdate": "Sun, 22 Dec 2024 12:00:00 -0500"
     },
     {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0500"
+    },
+    {
       "title": "Colin Jost",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colin%20Jost",
       "pubdate": "Sun, 22 Dec 2024 01:00:00 -0500"
     },
     {
-      "title": "Real Madrid vs Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Sevilla",
-      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0500"
+      "title": "Eagles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eagles",
+      "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
     },
     {
       "title": "Man United vs Bournemouth",
@@ -27,14 +32,19 @@
       "pubdate": "Sun, 22 Dec 2024 14:00:00 -0500"
     },
     {
-      "title": "Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eagles",
-      "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
-    },
-    {
       "title": "Martin Short",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Martin%20Short",
       "pubdate": "Sun, 22 Dec 2024 00:00:00 -0500"
+    },
+    {
+      "title": "Vikings vs Seahawks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vikings%20vs%20Seahawks",
+      "pubdate": "Sun, 22 Dec 2024 19:00:00 -0500"
+    },
+    {
+      "title": "Panama Canal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panama%20Canal",
+      "pubdate": "Sun, 22 Dec 2024 12:00:00 -0500"
     },
     {
       "title": "Hozier",
@@ -47,9 +57,9 @@
       "pubdate": "Sun, 22 Dec 2024 07:00:00 -0500"
     },
     {
-      "title": "Everton vs Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Everton%20vs%20Chelsea",
-      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0500"
+      "title": "Patriots vs Bills",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patriots%20vs%20Bills",
+      "pubdate": "Sun, 22 Dec 2024 18:00:00 -0500"
     },
     {
       "title": "Lions vs Bears",
@@ -57,14 +67,14 @@
       "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
     },
     {
+      "title": "Everton vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Everton%20vs%20Chelsea",
+      "pubdate": "Sun, 22 Dec 2024 11:00:00 -0500"
+    },
+    {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
       "pubdate": "Sun, 22 Dec 2024 06:00:00 -0500"
-    },
-    {
-      "title": "Panama Canal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panama%20Canal",
-      "pubdate": "Sun, 22 Dec 2024 12:00:00 -0500"
     },
     {
       "title": "Josh Allen",
@@ -72,14 +82,14 @@
       "pubdate": "Sun, 22 Dec 2024 15:00:00 -0500"
     },
     {
+      "title": "49ers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#49ers",
+      "pubdate": "Sun, 22 Dec 2024 20:00:00 -0500"
+    },
+    {
       "title": "Justin Baldoni",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Justin%20Baldoni",
       "pubdate": "Sat, 21 Dec 2024 10:00:00 -0500"
-    },
-    {
-      "title": "Rickey Henderson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rickey%20Henderson",
-      "pubdate": "Sat, 21 Dec 2024 15:00:00 -0500"
     },
     {
       "title": "NFL",
@@ -87,19 +97,9 @@
       "pubdate": "Sat, 21 Dec 2024 22:00:00 -0500"
     },
     {
-      "title": "Toronto Maple Leafs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
-      "pubdate": "Sat, 21 Dec 2024 07:00:00 -0500"
-    },
-    {
-      "title": "Leafs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
-      "pubdate": "Sat, 21 Dec 2024 01:00:00 -0500"
-    },
-    {
-      "title": "Tank Dell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tank%20Dell",
-      "pubdate": "Sat, 21 Dec 2024 16:00:00 -0500"
+      "title": "Rickey Henderson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rickey%20Henderson",
+      "pubdate": "Sat, 21 Dec 2024 15:00:00 -0500"
     }
   ]
 }
