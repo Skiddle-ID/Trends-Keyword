@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2024 , 23:35:21",
+  "lastUpdate": "24-12-2024 , 01:57:58",
   "data": [
     {
       "title": "Inter vs Como",
@@ -12,11 +12,6 @@
       "pubdate": "Mon, 23 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Inter Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
-      "pubdate": "Mon, 23 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Sporting CP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting%20CP",
       "pubdate": "Mon, 23 Dec 2024 01:00:00 +0100"
@@ -27,6 +22,11 @@
       "pubdate": "Mon, 23 Dec 2024 20:00:00 +0100"
     },
     {
+      "title": "Denzel Washington",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Denzel%20Washington",
+      "pubdate": "Mon, 23 Dec 2024 18:00:00 +0100"
+    },
+    {
       "title": "Jesus Navas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jesus%20Navas",
       "pubdate": "Mon, 23 Dec 2024 08:00:00 +0100"
@@ -35,11 +35,6 @@
       "title": "Panama Canal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Panama%20Canal",
       "pubdate": "Mon, 23 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Denzel Washington",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Denzel%20Washington",
-      "pubdate": "Mon, 23 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Allu Arjun",
@@ -65,11 +60,6 @@
       "title": "Man United vs Bournemouth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Bournemouth",
       "pubdate": "Sun, 22 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Fulham vs Southampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham%20vs%20Southampton",
-      "pubdate": "Sun, 22 Dec 2024 14:00:00 +0100"
     },
     {
       "title": "Liverpool FC",
@@ -100,6 +90,16 @@
       "title": "Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham",
       "pubdate": "Sun, 22 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Wolves",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves",
+      "pubdate": "Sun, 22 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Film",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Film",
+      "pubdate": "Sun, 22 Dec 2024 11:00:00 +0100"
     }
   ]
 }
