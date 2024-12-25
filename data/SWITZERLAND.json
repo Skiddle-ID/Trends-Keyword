@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-12-2024 , 23:35:41",
+  "lastUpdate": "25-12-2024 , 01:56:32",
   "data": [
+    {
+      "title": "Santa Claus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Santa%20Claus",
+      "pubdate": "Wed, 25 Dec 2024 01:00:00 +0100"
+    },
     {
       "title": "Sophie Hediger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophie%20Hediger",
@@ -9,7 +14,7 @@
     {
       "title": "Weihnachten",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weihnachten",
-      "pubdate": "Tue, 24 Dec 2024 01:00:00 +0100"
+      "pubdate": "Tue, 24 Dec 2024 07:00:00 +0100"
     },
     {
       "title": "Stille Nacht",
@@ -22,9 +27,9 @@
       "pubdate": "Tue, 24 Dec 2024 08:00:00 +0100"
     },
     {
-      "title": "Arosa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arosa",
-      "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
+      "title": "Paris Eiffelturm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris%20Eiffelturm",
+      "pubdate": "Tue, 24 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Kevin Allein zu Haus",
@@ -37,11 +42,6 @@
       "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "Paris Eiffelturm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris%20Eiffelturm",
-      "pubdate": "Tue, 24 Dec 2024 15:00:00 +0100"
-    },
-    {
       "title": "Frohe Weihnachten! wünsche",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frohe%20Weihnachten!%20w%C3%BCnsche",
       "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
@@ -50,6 +50,11 @@
       "title": "Noel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Noel",
       "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "American Airlines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#American%20Airlines",
+      "pubdate": "Tue, 24 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Weihnachtslieder",
@@ -62,11 +67,6 @@
       "pubdate": "Tue, 24 Dec 2024 10:00:00 +0100"
     },
     {
-      "title": "American Airlines",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#American%20Airlines",
-      "pubdate": "Tue, 24 Dec 2024 18:00:00 +0100"
-    },
-    {
       "title": "Trump Grönland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trump%20Gr%C3%B6nland",
       "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
@@ -75,6 +75,11 @@
       "title": "Heiligabend",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heiligabend",
       "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Wann ist Weihnachten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wann%20ist%20Weihnachten",
+      "pubdate": "Tue, 24 Dec 2024 01:00:00 +0100"
     },
     {
       "title": "Uli Forte",
@@ -95,11 +100,6 @@
       "title": "Oh Tannenbaum",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oh%20Tannenbaum",
       "pubdate": "Tue, 24 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Stromausfall Flims",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20Flims",
-      "pubdate": "Tue, 24 Dec 2024 15:00:00 +0100"
     }
   ]
 }
