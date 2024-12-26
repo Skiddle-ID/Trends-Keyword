@@ -1,9 +1,29 @@
 {
-  "lastUpdate": "26-12-2024 , 11:35:46",
+  "lastUpdate": "26-12-2024 , 12:57:15",
   "data": [
+    {
+      "title": "NBA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#NBA",
+      "pubdate": "Thu, 26 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Pisa-Sassuolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa-Sassuolo",
+      "pubdate": "Thu, 26 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Manchester City-Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City-Everton",
+      "pubdate": "Thu, 26 Dec 2024 09:00:00 +0100"
+    },
     {
       "title": "Diamanti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Diamanti",
+      "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "NBA Christmas Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#NBA%20Christmas%20Day",
       "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
     },
     {
@@ -12,14 +32,14 @@
       "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Boxing Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Boxing%20Day",
-      "pubdate": "Thu, 26 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Fausto Leali",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fausto%20Leali",
       "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Mufasa: Il re leone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mufasa:%20Il%20re%20leone",
+      "pubdate": "Thu, 26 Dec 2024 01:00:00 +0100"
     },
     {
       "title": "Ricchi e Poveri",
@@ -27,19 +47,14 @@
       "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
     },
     {
-      "title": "Mufasa: Il Re Leone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mufasa:%20Il%20Re%20Leone",
-      "pubdate": "Thu, 26 Dec 2024 01:00:00 +0100"
+      "title": "Tsunami 2004",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tsunami%202004",
+      "pubdate": "Thu, 26 Dec 2024 13:00:00 +0100"
     },
     {
-      "title": "Film al cinema",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Film%20al%20cinema",
-      "pubdate": "Thu, 26 Dec 2024 01:00:00 +0100"
-    },
-    {
-      "title": "NBA Christmas Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#NBA%20Christmas%20Day",
-      "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
+      "title": "Ozempic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ozempic",
+      "pubdate": "Thu, 26 Dec 2024 11:00:00 +0100"
     },
     {
       "title": "Mammut",
@@ -54,7 +69,7 @@
     {
       "title": "Buon Natale",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Buon%20Natale",
-      "pubdate": "Wed, 25 Dec 2024 12:00:00 +0100"
+      "pubdate": "Wed, 25 Dec 2024 00:00:00 +0100"
     },
     {
       "title": "Il Volo",
@@ -65,11 +80,6 @@
       "title": "Santo Stefano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santo%20Stefano",
       "pubdate": "Wed, 25 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Auguri di Buon Natale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Auguri%20di%20Buon%20Natale",
-      "pubdate": "Wed, 25 Dec 2024 18:00:00 +0100"
     },
     {
       "title": "Supermercati aperti a Natale",
@@ -90,16 +100,6 @@
       "title": "Miracolo nella 34a strada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Miracolo%20nella%2034a%20strada",
       "pubdate": "Wed, 25 Dec 2024 10:00:00 +0100"
-    },
-    {
-      "title": "Notting Hill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Notting%20Hill",
-      "pubdate": "Wed, 25 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Alberto Angela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alberto%20Angela",
-      "pubdate": "Wed, 25 Dec 2024 22:00:00 +0100"
     }
   ]
 }

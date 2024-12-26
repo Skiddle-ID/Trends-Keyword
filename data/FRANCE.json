@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "26-12-2024 , 11:35:45",
+  "lastUpdate": "26-12-2024 , 12:57:12",
   "data": [
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NFL",
+      "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Avalanches aux Arcs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanches%20aux%20Arcs",
+      "pubdate": "Thu, 26 Dec 2024 11:00:00 +0100"
+    },
     {
       "title": "Boxing Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boxing%20Day",
@@ -47,19 +57,9 @@
       "pubdate": "Wed, 25 Dec 2024 16:00:00 +0100"
     },
     {
-      "title": "Soprano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soprano",
-      "pubdate": "Wed, 25 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Goa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Goa",
       "pubdate": "Wed, 25 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Tino ROSSI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tino%20ROSSI",
-      "pubdate": "Wed, 25 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Pape François",

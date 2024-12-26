@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2024 , 11:35:49",
+  "lastUpdate": "26-12-2024 , 12:57:18",
   "data": [
     {
       "title": "Pakistan vs South Africa",
@@ -12,9 +12,9 @@
       "pubdate": "Thu, 26 Dec 2024 08:00:00 +0200"
     },
     {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NFL",
-      "pubdate": "Thu, 26 Dec 2024 00:00:00 +0200"
+      "title": "Man City vs Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Everton",
+      "pubdate": "Thu, 26 Dec 2024 14:00:00 +0200"
     },
     {
       "title": "Boxing Day",
@@ -27,6 +27,11 @@
       "pubdate": "Thu, 26 Dec 2024 04:00:00 +0200"
     },
     {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NFL",
+      "pubdate": "Thu, 26 Dec 2024 00:00:00 +0200"
+    },
+    {
       "title": "NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA",
       "pubdate": "Thu, 26 Dec 2024 10:00:00 +0200"
@@ -37,9 +42,9 @@
       "pubdate": "Thu, 26 Dec 2024 04:00:00 +0200"
     },
     {
-      "title": "Sam Konstas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sam%20Konstas",
-      "pubdate": "Thu, 26 Dec 2024 10:00:00 +0200"
+      "title": "AUS vs IND",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AUS%20vs%20IND",
+      "pubdate": "Thu, 26 Dec 2024 09:00:00 +0200"
     },
     {
       "title": "When was Jesus born",
@@ -95,11 +100,6 @@
       "title": "Sundowns",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
       "pubdate": "Tue, 24 Dec 2024 17:00:00 +0200"
-    },
-    {
-      "title": "Christmas messages",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Christmas%20messages",
-      "pubdate": "Tue, 24 Dec 2024 08:00:00 +0200"
     }
   ]
 }
