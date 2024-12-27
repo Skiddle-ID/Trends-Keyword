@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2024 , 03:41:19",
+  "lastUpdate": "27-12-2024 , 04:39:49",
   "data": [
     {
       "title": "Premier League",
@@ -62,11 +62,6 @@
       "pubdate": "Thu, 26 Dec 2024 16:00:00 -0600"
     },
     {
-      "title": "Bears  Seahawks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bears%20%20Seahawks",
-      "pubdate": "Thu, 26 Dec 2024 19:00:00 -0600"
-    },
-    {
       "title": "Bournemouth - Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bournemouth%20-%20Crystal%20Palace",
       "pubdate": "Thu, 26 Dec 2024 11:00:00 -0600"
@@ -100,6 +95,11 @@
       "title": "Se cayó ChatGPT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Se%20cay%C3%B3%20ChatGPT",
       "pubdate": "Thu, 26 Dec 2024 20:00:00 -0600"
+    },
+    {
+      "title": "Dulce cantante",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dulce%20cantante",
+      "pubdate": "Wed, 25 Dec 2024 14:00:00 -0600"
     }
   ]
 }
