@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "28-12-2024 , 11:35:41",
+  "lastUpdate": "28-12-2024 , 12:54:20",
   "data": [
     {
       "title": "Ordonanta trenulet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ordonanta%20trenulet",
       "pubdate": "Sat, 28 Dec 2024 03:00:00 +0200"
-    },
-    {
-      "title": "Stefan banica jr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stefan%20banica%20jr",
-      "pubdate": "Sat, 28 Dec 2024 02:00:00 +0200"
     },
     {
       "title": "Tudorel Toader",
@@ -22,8 +17,13 @@
       "pubdate": "Sat, 28 Dec 2024 10:00:00 +0200"
     },
     {
-      "title": "Sfantul stefan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20stefan",
+      "title": "Stefan banica jr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stefan%20banica%20jr",
+      "pubdate": "Sat, 28 Dec 2024 02:00:00 +0200"
+    },
+    {
+      "title": "Sfantul Stefan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfantul%20Stefan",
       "pubdate": "Fri, 27 Dec 2024 09:00:00 +0200"
     },
     {
@@ -47,6 +47,11 @@
       "pubdate": "Fri, 27 Dec 2024 00:00:00 +0200"
     },
     {
+      "title": "Irinel Columbeanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
+      "pubdate": "Fri, 27 Dec 2024 19:00:00 +0200"
+    },
+    {
       "title": "Callum Turner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Callum%20Turner",
       "pubdate": "Fri, 27 Dec 2024 16:00:00 +0200"
@@ -55,11 +60,6 @@
       "title": "Andreea balan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andreea%20balan",
       "pubdate": "Fri, 27 Dec 2024 16:00:00 +0200"
-    },
-    {
-      "title": "Irinel Columbeanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
-      "pubdate": "Fri, 27 Dec 2024 19:00:00 +0200"
     },
     {
       "title": "Will Smith",
@@ -75,6 +75,11 @@
       "title": "New York",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#New%20York",
       "pubdate": "Fri, 27 Dec 2024 01:00:00 +0200"
+    },
+    {
+      "title": "Yemen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Yemen",
+      "pubdate": "Fri, 27 Dec 2024 15:00:00 +0200"
     },
     {
       "title": "E85",
@@ -95,11 +100,6 @@
       "title": "Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Miami",
       "pubdate": "Fri, 27 Dec 2024 12:00:00 +0200"
-    },
-    {
-      "title": "2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#2024",
-      "pubdate": "Fri, 27 Dec 2024 17:00:00 +0200"
     }
   ]
 }

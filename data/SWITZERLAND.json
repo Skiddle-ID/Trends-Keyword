@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "28-12-2024 , 11:35:42",
+  "lastUpdate": "28-12-2024 , 12:54:21",
   "data": [
+    {
+      "title": "Bormio Abfahrt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bormio%20Abfahrt",
+      "pubdate": "Sat, 28 Dec 2024 13:00:00 +0100"
+    },
     {
       "title": "Semmering",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Semmering",
@@ -15,6 +20,11 @@
       "title": "Simone Thomalla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simone%20Thomalla",
       "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Franz Carl Weber",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franz%20Carl%20Weber",
+      "pubdate": "Sat, 28 Dec 2024 09:00:00 +0100"
     },
     {
       "title": "Dani Olmo",
@@ -32,6 +42,11 @@
       "pubdate": "Fri, 27 Dec 2024 14:00:00 +0100"
     },
     {
+      "title": "Abfahrt Bormio 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abfahrt%20Bormio%202024",
+      "pubdate": "Fri, 27 Dec 2024 19:00:00 +0100"
+    },
+    {
       "title": "Norwegen Busunfall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Norwegen%20Busunfall",
       "pubdate": "Fri, 27 Dec 2024 09:00:00 +0100"
@@ -42,24 +57,19 @@
       "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Sarrazin Sturz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarrazin%20Sturz",
-      "pubdate": "Fri, 27 Dec 2024 19:00:00 +0100"
-    },
-    {
       "title": "Callum Turner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Callum%20Turner",
       "pubdate": "Fri, 27 Dec 2024 10:00:00 +0100"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-      "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Squid Game Staffel 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Squid%20Game%20Staffel%203",
       "pubdate": "Fri, 27 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+      "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Brendan Lemieux",
@@ -72,6 +82,16 @@
       "pubdate": "Fri, 27 Dec 2024 11:00:00 +0100"
     },
     {
+      "title": "Pearl Harbor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pearl%20Harbor",
+      "pubdate": "Fri, 27 Dec 2024 23:00:00 +0100"
+    },
+    {
+      "title": "Arsenal – Ipswich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal%20%E2%80%93%20Ipswich",
+      "pubdate": "Fri, 27 Dec 2024 23:00:00 +0100"
+    },
+    {
       "title": "A contre sens 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#A%20contre%20sens%202",
       "pubdate": "Fri, 27 Dec 2024 13:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "U20 WM Eishockey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U20%20WM%20Eishockey",
       "pubdate": "Fri, 27 Dec 2024 01:00:00 +0100"
-    },
-    {
-      "title": "Kärpät Oulu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#K%C3%A4rp%C3%A4t%20Oulu",
-      "pubdate": "Fri, 27 Dec 2024 16:00:00 +0100"
-    },
-    {
-      "title": "Flims",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flims",
-      "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Bella Block",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bella%20Block",
-      "pubdate": "Fri, 27 Dec 2024 20:00:00 +0100"
-    },
-    {
-      "title": "Renato Carettoni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Renato%20Carettoni",
-      "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
     }
   ]
 }

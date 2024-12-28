@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "28-12-2024 , 11:35:39",
+  "lastUpdate": "28-12-2024 , 12:54:18",
   "data": [
-    {
-      "title": "Will Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Will%20Smith",
-      "pubdate": "Sat, 28 Dec 2024 00:00:00 -0600"
-    },
     {
       "title": "Clippers  Warriors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clippers%20%20Warriors",
@@ -20,6 +15,11 @@
       "title": "Chivas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas",
       "pubdate": "Fri, 27 Dec 2024 17:00:00 -0600"
+    },
+    {
+      "title": "Arsenal - Ipswich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20-%20Ipswich",
+      "pubdate": "Fri, 27 Dec 2024 11:00:00 -0600"
     },
     {
       "title": "Brighton  Brentford",
@@ -42,24 +42,24 @@
       "pubdate": "Fri, 27 Dec 2024 00:00:00 -0600"
     },
     {
-      "title": "Amistosos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Amistosos",
-      "pubdate": "Fri, 27 Dec 2024 23:00:00 -0600"
-    },
-    {
       "title": "INAPAM",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#INAPAM",
       "pubdate": "Fri, 27 Dec 2024 18:00:00 -0600"
     },
     {
-      "title": "Gong Yoo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gong%20Yoo",
-      "pubdate": "Fri, 27 Dec 2024 02:00:00 -0600"
+      "title": "Amistosos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Amistosos",
+      "pubdate": "Fri, 27 Dec 2024 23:00:00 -0600"
     },
     {
       "title": "Grupo Elektra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Grupo%20Elektra",
       "pubdate": "Fri, 27 Dec 2024 19:00:00 -0600"
+    },
+    {
+      "title": "Gong Yoo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gong%20Yoo",
+      "pubdate": "Fri, 27 Dec 2024 02:00:00 -0600"
     },
     {
       "title": "Luis Reyes",
