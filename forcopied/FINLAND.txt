@@ -1,1 +1,1 @@
-Tv 5,Tour de ski 2024,Lady Gaga,Arsenal – Ipswich Town,Alan Rickman,IIHF,Tsunami 2004,Squid Game,Premier League,Hudson Meek,Eagles,Die Hard,Manchester City – Everton,Danny,Spengler Cup,Sandin-Pellikka,Manchester United,Chelsea – Fulham,Hong Kong,Thelma
+Tv 5,Alien,Departed,Tour de ski 2024,Lady Gaga,Liverpool,Arsenal – Ipswich Town,U20,IIHF,Alan Rickman,Tsunami 2004,Squid Game,Hudson Meek,Premier League,Eagle S,Manchester City – Everton,Danny,Spengler Cup,Sandin-Pellikka,NBA
