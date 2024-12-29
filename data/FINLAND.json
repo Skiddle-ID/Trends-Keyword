@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "28-12-2024 , 23:35:22",
+  "lastUpdate": "29-12-2024 , 02:10:25",
   "data": [
+    {
+      "title": "Darts World Championship",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Darts%20World%20Championship",
+      "pubdate": "Sun, 29 Dec 2024 03:00:00 +0200"
+    },
     {
       "title": "Marilyn Monroe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marilyn%20Monroe",
-      "pubdate": "Sat, 28 Dec 2024 22:00:00 +0200"
-    },
-    {
-      "title": "Montreal Canadiens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Montreal%20Canadiens",
       "pubdate": "Sat, 28 Dec 2024 22:00:00 +0200"
     },
     {
@@ -22,6 +22,16 @@
       "pubdate": "Sat, 28 Dec 2024 16:00:00 +0200"
     },
     {
+      "title": "Montreal Canadiens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Montreal%20Canadiens",
+      "pubdate": "Sat, 28 Dec 2024 23:00:00 +0200"
+    },
+    {
+      "title": "Florida Panthers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Florida%20Panthers",
+      "pubdate": "Sat, 28 Dec 2024 22:00:00 +0200"
+    },
+    {
       "title": "Forza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Forza",
       "pubdate": "Sat, 28 Dec 2024 10:00:00 +0200"
@@ -29,11 +39,6 @@
     {
       "title": "Alien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alien",
-      "pubdate": "Sat, 28 Dec 2024 01:00:00 +0200"
-    },
-    {
-      "title": "Departed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Departed",
       "pubdate": "Sat, 28 Dec 2024 01:00:00 +0200"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Manchester City – Everton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Everton",
       "pubdate": "Thu, 26 Dec 2024 15:00:00 +0200"
-    },
-    {
-      "title": "Danny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Danny",
-      "pubdate": "Thu, 26 Dec 2024 23:00:00 +0200"
     }
   ]
 }
