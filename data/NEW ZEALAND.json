@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "29-12-2024 , 05:36:54",
+  "lastUpdate": "29-12-2024 , 06:41:58",
   "data": [
+    {
+      "title": "Jeju Air",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jeju%20Air",
+      "pubdate": "Sun, 29 Dec 2024 18:00:00 +1300"
+    },
+    {
+      "title": "Mangaweka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mangaweka",
+      "pubdate": "Sun, 29 Dec 2024 15:00:00 +1300"
+    },
     {
       "title": "Festival of lights",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Festival%20of%20lights",
@@ -27,11 +37,6 @@
       "pubdate": "Sat, 28 Dec 2024 19:00:00 +1300"
     },
     {
-      "title": "Wellington Phoenix vs Newcastle Jets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Newcastle%20Jets",
-      "pubdate": "Sat, 28 Dec 2024 18:00:00 +1300"
-    },
-    {
       "title": "Hershey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hershey",
       "pubdate": "Sat, 28 Dec 2024 08:00:00 +1300"
@@ -55,6 +60,16 @@
       "title": "Central Coast Mariners vs Auckland FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Central%20Coast%20Mariners%20vs%20Auckland%20FC",
       "pubdate": "Sat, 28 Dec 2024 20:00:00 +1300"
+    },
+    {
+      "title": "Wellington Phoenix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix",
+      "pubdate": "Sat, 28 Dec 2024 18:00:00 +1300"
+    },
+    {
+      "title": "Interstellar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Interstellar",
+      "pubdate": "Sat, 28 Dec 2024 22:00:00 +1300"
     },
     {
       "title": "Dirty dancing",
@@ -85,21 +100,6 @@
       "title": "Liverpool vs Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20Leicester%20City",
       "pubdate": "Fri, 27 Dec 2024 10:00:00 +1300"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
-      "pubdate": "Fri, 27 Dec 2024 04:00:00 +1300"
-    },
-    {
-      "title": "Manmohan Singh",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Manmohan%20Singh",
-      "pubdate": "Fri, 27 Dec 2024 10:00:00 +1300"
-    },
-    {
-      "title": "Nosferatu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nosferatu",
-      "pubdate": "Fri, 27 Dec 2024 11:00:00 +1300"
     }
   ]
 }

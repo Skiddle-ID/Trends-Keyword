@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "29-12-2024 , 05:36:56",
+  "lastUpdate": "29-12-2024 , 06:42:00",
   "data": [
     {
-      "title": "Denzel Washington",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Denzel%20Washington",
-      "pubdate": "Sun, 29 Dec 2024 00:00:00 +0100"
+      "title": "Vierschanzentournee",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vierschanzentournee",
+      "pubdate": "Sun, 29 Dec 2024 02:00:00 +0100"
     },
     {
       "title": "Mer Baltique",
@@ -17,6 +17,11 @@
       "pubdate": "Sun, 29 Dec 2024 04:00:00 +0100"
     },
     {
+      "title": "Alexis Monney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexis%20Monney",
+      "pubdate": "Sat, 28 Dec 2024 13:00:00 +0100"
+    },
+    {
       "title": "Semmering",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Semmering",
       "pubdate": "Sat, 28 Dec 2024 11:00:00 +0100"
@@ -25,11 +30,6 @@
       "title": "Olivia Hussey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Olivia%20Hussey",
       "pubdate": "Sat, 28 Dec 2024 09:00:00 +0100"
-    },
-    {
-      "title": "Lazio – Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lazio%20%E2%80%93%20Atalanta",
-      "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Arolla",
@@ -57,24 +57,19 @@
       "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
     },
     {
-      "title": "Josua Mettler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Josua%20Mettler",
-      "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
-    },
-    {
       "title": "Luke Littler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luke%20Littler",
       "pubdate": "Sat, 28 Dec 2024 23:00:00 +0100"
     },
     {
+      "title": "Kerstin Ott",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kerstin%20Ott",
+      "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
+    },
+    {
       "title": "Dani Olmo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dani%20Olmo",
       "pubdate": "Sat, 28 Dec 2024 08:00:00 +0100"
-    },
-    {
-      "title": "Will Smith",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Will%20Smith",
-      "pubdate": "Sat, 28 Dec 2024 16:00:00 +0100"
     },
     {
       "title": "Wer wohnt wo",
@@ -87,11 +82,6 @@
       "pubdate": "Sat, 28 Dec 2024 23:00:00 +0100"
     },
     {
-      "title": "Squid Game saison 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Squid%20Game%20saison%203",
-      "pubdate": "Sat, 28 Dec 2024 13:00:00 +0100"
-    },
-    {
       "title": "Andrea Ellenberger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Ellenberger",
       "pubdate": "Sat, 28 Dec 2024 14:00:00 +0100"
@@ -100,6 +90,16 @@
       "title": "Benjamin Kololli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benjamin%20Kololli",
       "pubdate": "Sat, 28 Dec 2024 08:00:00 +0100"
+    },
+    {
+      "title": "Cyprien Sarrazin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cyprien%20Sarrazin",
+      "pubdate": "Fri, 27 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Abfahrt Bormio 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abfahrt%20Bormio%202024",
+      "pubdate": "Fri, 27 Dec 2024 20:00:00 +0100"
     }
   ]
 }
