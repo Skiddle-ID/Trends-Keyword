@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 08:38:52",
+  "lastUpdate": "29-12-2024 , 09:35:13",
   "data": [
     {
       "title": "Atlanta",
@@ -10,6 +10,11 @@
       "title": "Lazio vs Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio%20vs%20Atalanta",
       "pubdate": "Sat, 28 Dec 2024 14:00:00 +0100"
+    },
+    {
+      "title": "Nigeria vs Ghana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria%20vs%20Ghana",
+      "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
     },
     {
       "title": "Inter Milan",
@@ -37,11 +42,6 @@
       "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Super Eagles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Eagles",
-      "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Globe Soccer Awards",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Globe%20Soccer%20Awards",
       "pubdate": "Sat, 28 Dec 2024 11:00:00 +0100"
@@ -50,6 +50,11 @@
       "title": "Tiwa Savage",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tiwa%20Savage",
       "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Empoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Empoli",
+      "pubdate": "Sat, 28 Dec 2024 19:00:00 +0100"
     },
     {
       "title": "Arsenal vs Ipswich Town",
@@ -95,11 +100,6 @@
       "title": "Wolves vs Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves%20vs%20Man%20United",
       "pubdate": "Thu, 26 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Squid Game Season 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Squid%20Game%20Season%202",
-      "pubdate": "Thu, 26 Dec 2024 01:00:00 +0100"
     }
   ]
 }

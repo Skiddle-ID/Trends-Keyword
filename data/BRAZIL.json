@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-12-2024 , 08:38:47",
+  "lastUpdate": "29-12-2024 , 09:35:08",
   "data": [
+    {
+      "title": "Coreia do Sul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
+      "pubdate": "Sun, 29 Dec 2024 03:00:00 -0500"
+    },
     {
       "title": "Raul Gil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Raul%20Gil",
@@ -42,6 +47,16 @@
       "pubdate": "Sat, 28 Dec 2024 11:00:00 -0500"
     },
     {
+      "title": "Série a",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A9rie%20a",
+      "pubdate": "Sat, 28 Dec 2024 17:00:00 -0500"
+    },
+    {
+      "title": "Artur Jorge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Artur%20Jorge",
+      "pubdate": "Sat, 28 Dec 2024 12:00:00 -0500"
+    },
+    {
       "title": "Parma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Parma",
       "pubdate": "Sat, 28 Dec 2024 10:00:00 -0500"
@@ -72,6 +87,11 @@
       "pubdate": "Sat, 28 Dec 2024 20:00:00 -0500"
     },
     {
+      "title": "Cuca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuca",
+      "pubdate": "Sat, 28 Dec 2024 20:00:00 -0500"
+    },
+    {
       "title": "Reajuste salário mínimo 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reajuste%20sal%C3%A1rio%20m%C3%ADnimo%202025",
       "pubdate": "Sat, 28 Dec 2024 14:00:00 -0500"
@@ -80,26 +100,6 @@
       "title": "Retrospectiva 2024 globo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Retrospectiva%202024%20globo",
       "pubdate": "Sat, 28 Dec 2024 09:00:00 -0500"
-    },
-    {
-      "title": "Loteria americana Mega Millions",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Loteria%20americana%20Mega%20Millions",
-      "pubdate": "Sat, 28 Dec 2024 21:00:00 -0500"
-    },
-    {
-      "title": "Marcus Buaiz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcus%20Buaiz",
-      "pubdate": "Sat, 28 Dec 2024 05:00:00 -0500"
-    },
-    {
-      "title": "TSE) Unificado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#TSE)%20Unificado",
-      "pubdate": "Sat, 28 Dec 2024 01:00:00 -0500"
-    },
-    {
-      "title": "Arsenio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenio",
-      "pubdate": "Fri, 27 Dec 2024 11:00:00 -0500"
     }
   ]
 }

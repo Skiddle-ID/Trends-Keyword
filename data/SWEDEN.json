@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 08:38:54",
+  "lastUpdate": "29-12-2024 , 09:35:15",
   "data": [
     {
       "title": "Dayle Haddon",
@@ -22,16 +22,6 @@
       "pubdate": "Sat, 28 Dec 2024 09:00:00 +0100"
     },
     {
-      "title": "HD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HD",
-      "pubdate": "Sat, 28 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Sverige Kazakstan JVM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Kazakstan%20JVM",
-      "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
-    },
-    {
       "title": "Jonna Sundling",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonna%20Sundling",
       "pubdate": "Sat, 28 Dec 2024 13:00:00 +0100"
@@ -42,14 +32,14 @@
       "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Postkodmiljonären",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Postkodmiljon%C3%A4ren",
-      "pubdate": "Sat, 28 Dec 2024 09:00:00 +0100"
-    },
-    {
       "title": "Sofia Ståhl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sofia%20St%C3%A5hl",
       "pubdate": "Sat, 28 Dec 2024 21:00:00 +0100"
+    },
+    {
+      "title": "Snö",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sn%C3%B6",
+      "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
     },
     {
       "title": "Paul Bamba",
@@ -87,19 +77,29 @@
       "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
     },
     {
+      "title": "Timothée Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Timoth%C3%A9e%20Chalamet",
+      "pubdate": "Sat, 28 Dec 2024 15:00:00 +0100"
+    },
+    {
       "title": "Jessie Diggins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessie%20Diggins",
       "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Laila Bagge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laila%20Bagge",
-      "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
-    },
-    {
       "title": "Tareq Taylor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tareq%20Taylor",
       "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "Sara Wimmercranz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sara%20Wimmercranz",
+      "pubdate": "Fri, 27 Dec 2024 18:00:00 +0100"
+    },
+    {
+      "title": "Emilia Brangefält",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emilia%20Brangef%C3%A4lt",
+      "pubdate": "Fri, 27 Dec 2024 09:00:00 +0100"
     }
   ]
 }
