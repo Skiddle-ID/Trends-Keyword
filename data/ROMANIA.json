@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 10:37:21",
+  "lastUpdate": "29-12-2024 , 11:35:31",
   "data": [
     {
       "title": "Georgia",
@@ -12,14 +12,19 @@
       "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
     },
     {
+      "title": "Magnus Carlsen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Magnus%20Carlsen",
+      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
+    },
+    {
       "title": "USB-C",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#USB-C",
       "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
     },
     {
-      "title": "Magnus Carlsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Magnus%20Carlsen",
-      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0200"
+      "title": "Seria a",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Seria%20a",
+      "pubdate": "Sun, 29 Dec 2024 00:00:00 +0200"
     },
     {
       "title": "Ordonanta trenulet 2025",
@@ -50,6 +55,11 @@
       "title": "Cagliari,  Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cagliari,%20%20Inter",
       "pubdate": "Sat, 28 Dec 2024 19:00:00 +0200"
+    },
+    {
+      "title": "Tudorel Toader",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tudorel%20Toader",
+      "pubdate": "Sat, 28 Dec 2024 09:00:00 +0200"
     },
     {
       "title": "Jador",
@@ -90,16 +100,6 @@
       "title": "Irinel Columbeanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irinel%20Columbeanu",
       "pubdate": "Fri, 27 Dec 2024 19:00:00 +0200"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liverpool",
-      "pubdate": "Fri, 27 Dec 2024 00:00:00 +0200"
-    },
-    {
-      "title": "Callum Turner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Callum%20Turner",
-      "pubdate": "Fri, 27 Dec 2024 16:00:00 +0200"
     }
   ]
 }
