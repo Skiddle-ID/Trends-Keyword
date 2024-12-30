@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 23:35:23",
+  "lastUpdate": "30-12-2024 , 02:04:58",
   "data": [
     {
       "title": "West Ham vs Liverpool",
@@ -7,14 +7,14 @@
       "pubdate": "Mon, 30 Dec 2024 00:00:00 +0700"
     },
     {
-      "title": "Juventus vs Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Juventus%20vs%20Fiorentina",
-      "pubdate": "Mon, 30 Dec 2024 00:00:00 +0700"
-    },
-    {
       "title": "Milan vs Roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Milan%20vs%20Roma",
       "pubdate": "Mon, 30 Dec 2024 02:00:00 +0700"
+    },
+    {
+      "title": "Juventus vs Fiorentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Juventus%20vs%20Fiorentina",
+      "pubdate": "Mon, 30 Dec 2024 00:00:00 +0700"
     },
     {
       "title": "Sekjen PDIP Hasto Kristiyanto",
@@ -30,6 +30,11 @@
       "title": "Josh Brownhill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Josh%20Brownhill",
       "pubdate": "Mon, 30 Dec 2024 00:00:00 +0700"
+    },
+    {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jimmy%20Carter",
+      "pubdate": "Mon, 30 Dec 2024 08:00:00 +0700"
     },
     {
       "title": "Leicester vs Man City",
@@ -57,14 +62,14 @@
       "pubdate": "Sun, 29 Dec 2024 00:00:00 +0700"
     },
     {
-      "title": "Lazio vs Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio%20vs%20Atalanta",
-      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0700"
-    },
-    {
       "title": "Tottenham vs Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham%20vs%20Wolves",
       "pubdate": "Sun, 29 Dec 2024 22:00:00 +0700"
+    },
+    {
+      "title": "Lazio vs Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio%20vs%20Atalanta",
+      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0700"
     },
     {
       "title": "Jeju Air",
@@ -72,19 +77,14 @@
       "pubdate": "Sun, 29 Dec 2024 11:00:00 +0700"
     },
     {
-      "title": "Barito Putera vs PSIS",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barito%20Putera%20vs%20PSIS",
-      "pubdate": "Sun, 29 Dec 2024 19:00:00 +0700"
-    },
-    {
       "title": "Everton vs Nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Everton%20vs%20Nottingham%20Forest",
       "pubdate": "Sun, 29 Dec 2024 22:00:00 +0700"
     },
     {
-      "title": "ACE Hardware",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ACE%20Hardware",
-      "pubdate": "Sun, 29 Dec 2024 08:00:00 +0700"
+      "title": "Barito Putera vs PSIS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barito%20Putera%20vs%20PSIS",
+      "pubdate": "Sun, 29 Dec 2024 19:00:00 +0700"
     },
     {
       "title": "Netflix Squid Game 2",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 29 Dec 2024 10:00:00 +0700"
     },
     {
+      "title": "ACE Hardware",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ACE%20Hardware",
+      "pubdate": "Sun, 29 Dec 2024 08:00:00 +0700"
+    },
+    {
       "title": "Olivia Hussey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Olivia%20Hussey",
       "pubdate": "Sun, 29 Dec 2024 01:00:00 +0700"
-    },
-    {
-      "title": "Puasa Rajab",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Puasa%20Rajab",
-      "pubdate": "Sun, 29 Dec 2024 22:00:00 +0700"
     }
   ]
 }

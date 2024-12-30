@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "29-12-2024 , 23:35:24",
+  "lastUpdate": "30-12-2024 , 02:04:59",
   "data": [
+    {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jimmy%20Carter",
+      "pubdate": "Mon, 30 Dec 2024 02:00:00 +0300"
+    },
     {
       "title": "Leicester City vs Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City%20vs%20Man%20City",
@@ -37,14 +42,14 @@
       "pubdate": "Sun, 29 Dec 2024 17:00:00 +0300"
     },
     {
-      "title": "Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta",
-      "pubdate": "Sun, 29 Dec 2024 10:00:00 +0300"
-    },
-    {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
       "pubdate": "Sun, 29 Dec 2024 22:00:00 +0300"
+    },
+    {
+      "title": "Atalanta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta",
+      "pubdate": "Sun, 29 Dec 2024 10:00:00 +0300"
     },
     {
       "title": "Napoli",
@@ -85,11 +90,6 @@
       "title": "Arsenal f.c",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20f.c",
       "pubdate": "Sat, 28 Dec 2024 01:00:00 +0300"
-    },
-    {
-      "title": "Dani Olmo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dani%20Olmo",
-      "pubdate": "Sat, 28 Dec 2024 15:00:00 +0300"
     },
     {
       "title": "Arsenal vs Ipswich Town",

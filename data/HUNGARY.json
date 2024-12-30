@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "29-12-2024 , 23:35:22",
+  "lastUpdate": "30-12-2024 , 02:04:57",
   "data": [
+    {
+      "title": "Michael Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Michael%20Schumacher",
+      "pubdate": "Mon, 30 Dec 2024 02:00:00 +0100"
+    },
+    {
+      "title": "Jennifer Love Hewitt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Love%20Hewitt",
+      "pubdate": "Mon, 30 Dec 2024 01:00:00 +0100"
+    },
+    {
+      "title": "Alarcos enekes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alarcos%20enekes",
+      "pubdate": "Mon, 30 Dec 2024 01:00:00 +0100"
+    },
     {
       "title": "West ham–liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#West%20ham%E2%80%93liverpool",
@@ -12,9 +27,14 @@
       "pubdate": "Sun, 29 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Dél koreai repülőgép baleset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9l%20koreai%20rep%C3%BCl%C5%91g%C3%A9p%20baleset",
-      "pubdate": "Sun, 29 Dec 2024 11:00:00 +0100"
+      "title": "Dél-koreai repülőgép baleset",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9l-koreai%20rep%C3%BCl%C5%91g%C3%A9p%20baleset",
+      "pubdate": "Sun, 29 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Jimmy Carter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jimmy%20Carter",
+      "pubdate": "Sun, 29 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Álarcos énekes 2024",
@@ -25,11 +45,6 @@
       "title": "Milan–roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan%E2%80%93roma",
       "pubdate": "Sun, 29 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Jimmy Carter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jimmy%20Carter",
-      "pubdate": "Sun, 29 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Csobot Adél",
@@ -50,6 +65,11 @@
       "title": "Köd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6d",
       "pubdate": "Sun, 29 Dec 2024 13:00:00 +0100"
+    },
+    {
+      "title": "Tom Cruise",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
+      "pubdate": "Sun, 29 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Nostradamus",
@@ -77,29 +97,9 @@
       "pubdate": "Sun, 29 Dec 2024 22:00:00 +0100"
     },
     {
-      "title": "Baleset",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Baleset",
-      "pubdate": "Sun, 29 Dec 2024 21:00:00 +0100"
-    },
-    {
       "title": "Tóth Gabi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
       "pubdate": "Sun, 29 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Batman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Batman",
-      "pubdate": "Sun, 29 Dec 2024 00:00:00 +0100"
-    },
-    {
-      "title": "Man.City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man.City",
-      "pubdate": "Sun, 29 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Ember Márk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ember%20M%C3%A1rk",
-      "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
     }
   ]
 }
