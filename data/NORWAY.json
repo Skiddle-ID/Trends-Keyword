@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2024 , 08:41:23",
+  "lastUpdate": "30-12-2024 , 09:36:45",
   "data": [
     {
       "title": "Telegram",
@@ -47,6 +47,11 @@
       "pubdate": "Sun, 29 Dec 2024 20:00:00 +0100"
     },
     {
+      "title": "Politi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Politi",
+      "pubdate": "Sun, 29 Dec 2024 01:00:00 +0100"
+    },
+    {
       "title": "Magnus Carlsen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
       "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
@@ -90,11 +95,6 @@
       "title": "Olivia Hussey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Olivia%20Hussey",
       "pubdate": "Sat, 28 Dec 2024 13:00:00 +0100"
-    },
-    {
-      "title": "Toblach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toblach",
-      "pubdate": "Sat, 28 Dec 2024 15:00:00 +0100"
     },
     {
       "title": "Jessie Diggins",

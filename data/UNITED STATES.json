@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2024 , 08:41:17",
+  "lastUpdate": "30-12-2024 , 09:36:39",
   "data": [
     {
       "title": "Packers vs Vikings",
@@ -30,11 +30,6 @@
       "title": "Raiders vs Saints",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders%20vs%20Saints",
       "pubdate": "Sun, 29 Dec 2024 11:00:00 -0800"
-    },
-    {
-      "title": "NFL Draft order",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20Draft%20order",
-      "pubdate": "Sun, 29 Dec 2024 12:00:00 -0800"
     },
     {
       "title": "Jets vs Bills",
@@ -100,6 +95,11 @@
       "title": "Malik Nabers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malik%20Nabers",
       "pubdate": "Sun, 29 Dec 2024 14:00:00 -0800"
+    },
+    {
+      "title": "Morgan Wallen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Morgan%20Wallen",
+      "pubdate": "Sun, 29 Dec 2024 18:00:00 -0800"
     }
   ]
 }

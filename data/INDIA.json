@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-12-2024 , 08:41:21",
+  "lastUpdate": "30-12-2024 , 09:36:42",
   "data": [
     {
       "title": "Yashasvi Jaiswal",
@@ -57,11 +57,6 @@
       "pubdate": "Sun, 29 Dec 2024 14:30:00 +0530"
     },
     {
-      "title": "Plane crash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Plane%20crash",
-      "pubdate": "Sun, 29 Dec 2024 19:30:00 +0530"
-    },
-    {
       "title": "Santosh Trophy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Santosh%20Trophy",
       "pubdate": "Sun, 29 Dec 2024 22:30:00 +0530"
@@ -100,6 +95,11 @@
       "title": "Manmohan Singh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manmohan%20Singh",
       "pubdate": "Thu, 26 Dec 2024 22:30:00 +0530"
+    },
+    {
+      "title": "Squid Game Season 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Squid%20Game%20Season%202",
+      "pubdate": "Thu, 26 Dec 2024 01:30:00 +0530"
     }
   ]
 }
