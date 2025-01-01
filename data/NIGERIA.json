@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "31-12-2024 , 23:35:30",
+  "lastUpdate": "01-01-2025 , 02:10:09",
   "data": [
+    {
+      "title": "New Year's Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year's%20Day",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Bible",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bible",
+      "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "New Year prayers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year%20prayers",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
     {
       "title": "New Year's Eve",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year's%20Eve",
@@ -17,19 +32,14 @@
       "pubdate": "Tue, 31 Dec 2024 20:00:00 +0100"
     },
     {
+      "title": "2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#2025",
+      "pubdate": "Tue, 31 Dec 2024 03:00:00 +0100"
+    },
+    {
       "title": "Dani Olmo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dani%20Olmo",
       "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Countries already in 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Countries%20already%20in%202025",
-      "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
-    },
-    {
-      "title": "Isak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Isak",
-      "pubdate": "Tue, 31 Dec 2024 07:00:00 +0100"
     },
     {
       "title": "Warri Refinery",
@@ -37,9 +47,19 @@
       "pubdate": "Tue, 31 Dec 2024 11:00:00 +0100"
     },
     {
+      "title": "Isak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Isak",
+      "pubdate": "Tue, 31 Dec 2024 07:00:00 +0100"
+    },
+    {
       "title": "Man United vs Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Newcastle",
       "pubdate": "Mon, 30 Dec 2024 20:00:00 +0100"
+    },
+    {
+      "title": "Happy New Year 2025 wishes quotes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Happy%20New%20Year%202025%20wishes%20quotes",
+      "pubdate": "Mon, 30 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Ipswich Town vs Chelsea",
@@ -50,11 +70,6 @@
       "title": "Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea",
       "pubdate": "Mon, 30 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Happy New Year 2025 Wishes quotes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Happy%20New%20Year%202025%20Wishes%20quotes",
-      "pubdate": "Mon, 30 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Aston Villa",
@@ -85,21 +100,6 @@
       "title": "Brighton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton",
       "pubdate": "Mon, 30 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Liam Delap",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liam%20Delap",
-      "pubdate": "Mon, 30 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Leicester City vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leicester%20City%20vs%20Man%20City",
-      "pubdate": "Sun, 29 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "West Ham vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Ham%20vs%20Liverpool",
-      "pubdate": "Sun, 29 Dec 2024 15:00:00 +0100"
     }
   ]
 }

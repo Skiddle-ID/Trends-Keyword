@@ -1,10 +1,45 @@
 {
-  "lastUpdate": "31-12-2024 , 23:35:31",
+  "lastUpdate": "01-01-2025 , 02:10:12",
   "data": [
+    {
+      "title": "Jour de l'an",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jour%20de%20l'an",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Shirin David",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shirin%20David",
+      "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Zeit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zeit",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Phil Collins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Phil%20Collins",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Dieter Bohlen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dieter%20Bohlen",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#2024",
+      "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+    },
     {
       "title": "Dinner for One",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dinner%20for%20One",
       "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
+    },
+    {
+      "title": "2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#2025",
+      "pubdate": "Tue, 31 Dec 2024 02:00:00 +0100"
     },
     {
       "title": "Coupe Spengler 2024",
@@ -12,9 +47,14 @@
       "pubdate": "Tue, 31 Dec 2024 11:00:00 +0100"
     },
     {
-      "title": "Swiss Notlandung Graz Flugbegleiter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Notlandung%20Graz%20Flugbegleiter",
-      "pubdate": "Tue, 31 Dec 2024 00:00:00 +0100"
+      "title": "Silvester",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silvester",
+      "pubdate": "Tue, 31 Dec 2024 09:00:00 +0100"
+    },
+    {
+      "title": "Morbus Whipple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morbus%20Whipple",
+      "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
     },
     {
       "title": "Andrea Berg",
@@ -22,9 +62,14 @@
       "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
     },
     {
-      "title": "Morbus Whipple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morbus%20Whipple",
-      "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
+      "title": "Swiss Notlandung Graz Flugbegleiter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Notlandung%20Graz%20Flugbegleiter",
+      "pubdate": "Tue, 31 Dec 2024 00:00:00 +0100"
+    },
+    {
+      "title": "Alphaville",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alphaville",
+      "pubdate": "Tue, 31 Dec 2024 23:00:00 +0100"
     },
     {
       "title": "Florian Silbereisen",
@@ -37,19 +82,9 @@
       "pubdate": "Tue, 31 Dec 2024 17:00:00 +0100"
     },
     {
-      "title": "Frohes neues Jahr! 2025!",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frohes%20neues%20Jahr!%202025!",
-      "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
-    },
-    {
-      "title": "Alphaville",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alphaville",
-      "pubdate": "Tue, 31 Dec 2024 23:00:00 +0100"
-    },
-    {
-      "title": "Bernhard Brink",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernhard%20Brink",
-      "pubdate": "Tue, 31 Dec 2024 22:00:00 +0100"
+      "title": "DJ Ötzi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DJ%20%C3%96tzi",
+      "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
     },
     {
       "title": "Avicii",
@@ -57,49 +92,14 @@
       "pubdate": "Tue, 31 Dec 2024 15:00:00 +0100"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-      "pubdate": "Tue, 31 Dec 2024 10:00:00 +0100"
+      "title": "Bernhard Brink",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernhard%20Brink",
+      "pubdate": "Tue, 31 Dec 2024 22:00:00 +0100"
     },
     {
       "title": "Helene Fischer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Helene%20Fischer",
       "pubdate": "Tue, 31 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Brad Pitt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brad%20Pitt",
-      "pubdate": "Tue, 31 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Feu d'artifice Nouvel An 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Feu%20d'artifice%20Nouvel%20An%202025",
-      "pubdate": "Tue, 31 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Voeux 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Voeux%202025",
-      "pubdate": "Tue, 31 Dec 2024 15:00:00 +0100"
-    },
-    {
-      "title": "Wünsche fürs neue Jahr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#W%C3%BCnsche%20f%C3%BCrs%20neue%20Jahr",
-      "pubdate": "Tue, 31 Dec 2024 19:00:00 +0100"
-    },
-    {
-      "title": "Vanessa Mai",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vanessa%20Mai",
-      "pubdate": "Tue, 31 Dec 2024 22:00:00 +0100"
-    },
-    {
-      "title": "Neujahr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Neujahr",
-      "pubdate": "Tue, 31 Dec 2024 14:00:00 +0100"
-    },
-    {
-      "title": "Luke Littler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luke%20Littler",
-      "pubdate": "Tue, 31 Dec 2024 01:00:00 +0100"
     }
   ]
 }
