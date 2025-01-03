@@ -1,1 +1,1 @@
-NEOS,Skispringen Innsbruck,Switch 2,Die presse,Sebastian Kurz,Doskozil,Regierungsverhandlungen,Jürgen Klopp,Neujahr,Squid Game,Justin Baldoni,Tesla,Ferdi Tayfur,Red Bull Salzburg,ÖAMTC,Jännerrallye 2025,AMS,Post,Tesla-Aktie,ProSieben
+NEOS,Skispringen Innsbruck,Switch 2,Die presse,Doskozil,Regierungsverhandlungen,Jürgen Klopp,Regierung,Loredana,ZiB,Neujahr,Squid Game,Ferdi Tayfur,Justin Baldoni,Tesla,Neues Pfandsystem,Jännerrallye 2025,ÖAMTC,Red Bull Salzburg,AMS

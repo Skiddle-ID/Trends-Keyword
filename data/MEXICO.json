@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 18:42:19",
+  "lastUpdate": "03-01-2025 , 19:35:31",
   "data": [
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid",
+      "pubdate": "Fri, 03 Jan 2025 01:00:00 -0600"
+    },
     {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
@@ -10,11 +15,6 @@
       "title": "Omar Campos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Omar%20Campos",
       "pubdate": "Fri, 03 Jan 2025 02:00:00 -0600"
-    },
-    {
-      "title": "Real Madrid vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20vs",
-      "pubdate": "Fri, 03 Jan 2025 01:00:00 -0600"
     },
     {
       "title": "Timberwolves  Celtics",
@@ -32,14 +32,14 @@
       "pubdate": "Fri, 03 Jan 2025 07:00:00 -0600"
     },
     {
+      "title": "Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Warriors",
+      "pubdate": "Fri, 03 Jan 2025 02:00:00 -0600"
+    },
+    {
       "title": "Inter  Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Inter%20%20Atalanta",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 -0600"
-    },
-    {
-      "title": "Tenencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tenencia",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 -0600"
     },
     {
       "title": "Cristobal Ortega",
@@ -50,11 +50,6 @@
       "title": "Dias festivos 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dias%20festivos%202025",
       "pubdate": "Thu, 02 Jan 2025 09:00:00 -0600"
-    },
-    {
-      "title": "Costco Rosca de Reyes Costco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costco%20Rosca%20de%20Reyes%20Costco",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0600"
     },
     {
       "title": "Jornada laboral de 40 horas",
@@ -77,9 +72,9 @@
       "pubdate": "Thu, 02 Jan 2025 10:00:00 -0600"
     },
     {
-      "title": "Warriors  76ers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Warriors%20%2076ers",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0600"
+      "title": "Pago predial",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pago%20predial",
+      "pubdate": "Thu, 02 Jan 2025 12:00:00 -0600"
     },
     {
       "title": "Chloe Moretz",
@@ -97,9 +92,14 @@
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0600"
     },
     {
-      "title": "Predial merida",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Predial%20merida",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 -0600"
+      "title": "Héctor Herrera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#H%C3%A9ctor%20Herrera",
+      "pubdate": "Thu, 02 Jan 2025 22:00:00 -0600"
+    },
+    {
+      "title": "Diario Oficial de la Federación",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diario%20Oficial%20de%20la%20Federaci%C3%B3n",
+      "pubdate": "Thu, 02 Jan 2025 11:00:00 -0600"
     }
   ]
 }

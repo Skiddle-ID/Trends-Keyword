@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 18:42:16",
+  "lastUpdate": "03-01-2025 , 19:35:27",
   "data": [
+    {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
+    },
     {
       "title": "Nosferatu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nosferatu",
@@ -12,9 +17,24 @@
       "pubdate": "Fri, 03 Jan 2025 05:00:00 +0100"
     },
     {
+      "title": "Mistrovství světa v hokeji U20",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mistrovstv%C3%AD%20sv%C4%9Bta%20v%20hokeji%20U20",
+      "pubdate": "Fri, 03 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Sedmero krkavců",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sedmero%20krkavc%C5%AF",
+      "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
+    },
+    {
       "title": "Mistrovství světa v hokeji",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mistrovstv%C3%AD%20sv%C4%9Bta%20v%20hokeji",
       "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Littler",
+      "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Naďa Válová",
@@ -32,24 +52,19 @@
       "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Littler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Littler",
-      "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Maxa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maxa",
-      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Fio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fio",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
+      "title": "Michael Schumacher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Schumacher",
+      "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Dušan Holý",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Du%C5%A1an%20Hol%C3%BD",
       "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Fio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fio",
+      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Moneta",
@@ -85,21 +100,6 @@
       "title": "Jocelyn Wildenstein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jocelyn%20Wildenstein",
       "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Billa! Leták",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Billa!%20Let%C3%A1k",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Česká pošta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20po%C5%A1ta",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "ČEZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CEZ",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
     }
   ]
 }
