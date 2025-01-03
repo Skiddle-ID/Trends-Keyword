@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "03-01-2025 , 01:57:44",
+  "lastUpdate": "03-01-2025 , 03:00:35",
   "data": [
+    {
+      "title": "Granizo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Granizo",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0000"
+    },
     {
       "title": "Squid Game",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Squid%20Game",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0000"
     },
     {
-      "title": "Prozis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Prozis",
-      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0000"
-    },
-    {
       "title": "Barbara Tinoco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barbara%20Tinoco",
       "pubdate": "Thu, 02 Jan 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Prozis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Prozis",
+      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0000"
     },
     {
       "title": "Cybertruck",
@@ -57,6 +62,11 @@
       "pubdate": "Thu, 02 Jan 2025 23:00:00 +0000"
     },
     {
+      "title": "Sheila Fox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sheila%20Fox",
+      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0000"
+    },
+    {
       "title": "Taça da Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ta%C3%A7a%20da%20Liga",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0000"
@@ -72,13 +82,13 @@
       "pubdate": "Thu, 02 Jan 2025 14:00:00 +0000"
     },
     {
-      "title": "Sheila Fox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sheila%20Fox",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0000"
-    },
-    {
       "title": "Iberdrola",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Iberdrola",
+      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0000"
+    },
+    {
+      "title": "Dopamina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dopamina",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0000"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Dopamina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dopamina",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0000"
-    },
-    {
       "title": "Gyokeres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gyokeres",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 +0000"
-    },
-    {
-      "title": "Gov.pt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gov.pt",
-      "pubdate": "Thu, 02 Jan 2025 10:00:00 +0000"
     }
   ]
 }

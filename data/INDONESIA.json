@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-01-2025 , 01:57:41",
+  "lastUpdate": "03-01-2025 , 03:00:32",
   "data": [
     {
-      "title": "Asnawi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Asnawi",
-      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0700"
+      "title": "Copa Del Rey",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Copa%20Del%20Rey",
+      "pubdate": "Fri, 03 Jan 2025 08:00:00 +0700"
+    },
+    {
+      "title": "Astra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Astra",
+      "pubdate": "Fri, 03 Jan 2025 08:00:00 +0700"
     },
     {
       "title": "Vietnam vs Thailand",
@@ -32,11 +37,6 @@
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0700"
     },
     {
-      "title": "Gold and Glory",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gold%20and%20Glory",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0700"
-    },
-    {
       "title": "BPJS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BPJS",
       "pubdate": "Thu, 02 Jan 2025 09:00:00 +0700"
@@ -52,9 +52,14 @@
       "pubdate": "Thu, 02 Jan 2025 16:00:00 +0700"
     },
     {
-      "title": "Harga Emas Antam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Harga%20Emas%20Antam",
+      "title": "Harga emas Antam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Harga%20emas%20Antam",
       "pubdate": "Thu, 02 Jan 2025 18:00:00 +0700"
+    },
+    {
+      "title": "BBRI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BBRI",
+      "pubdate": "Thu, 02 Jan 2025 16:00:00 +0700"
     },
     {
       "title": "Sakti",
@@ -95,11 +100,6 @@
       "title": "Jam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jam",
       "pubdate": "Wed, 01 Jan 2025 00:00:00 +0700"
-    },
-    {
-      "title": "2029",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#2029",
-      "pubdate": "Wed, 01 Jan 2025 19:00:00 +0700"
     }
   ]
 }

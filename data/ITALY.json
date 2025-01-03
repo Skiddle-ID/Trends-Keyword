@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "03-01-2025 , 01:57:42",
+  "lastUpdate": "03-01-2025 , 03:00:33",
   "data": [
-    {
-      "title": "Licia colo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Licia%20colo",
-      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
-    },
     {
       "title": "Macaulay Culkin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Macaulay%20Culkin",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Licia colo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Licia%20colo",
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
     },
     {
@@ -17,9 +17,29 @@
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
     },
     {
+      "title": "10 giorni con Babbo Natale",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#10%20giorni%20con%20Babbo%20Natale",
+      "pubdate": "Fri, 03 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Goonies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Goonies",
+      "pubdate": "Fri, 03 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Federico Chiesa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Chiesa",
+      "pubdate": "Fri, 03 Jan 2025 02:00:00 +0100"
+    },
+    {
       "title": "Maps",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maps",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Lotto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lotto",
+      "pubdate": "Thu, 02 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Cecilia Sala giornalista",
@@ -45,11 +65,6 @@
       "title": "Ottavio Missoni",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ottavio%20Missoni",
       "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "SuperEnalotto oggi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#SuperEnalotto%20oggi",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Unicredit",
@@ -85,21 +100,6 @@
       "title": "Meteo Roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Roma",
       "pubdate": "Thu, 02 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Lorenzo Musetti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Musetti",
-      "pubdate": "Thu, 02 Jan 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Bper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bper",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Buongiorno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Buongiorno",
-      "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
     }
   ]
 }
