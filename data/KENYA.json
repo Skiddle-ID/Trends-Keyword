@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 07:35:26",
+  "lastUpdate": "03-01-2025 , 08:41:02",
   "data": [
     {
       "title": "India vs Australia",
@@ -17,14 +17,14 @@
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0300"
     },
     {
-      "title": "William Ruto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#William%20Ruto",
-      "pubdate": "Fri, 03 Jan 2025 03:00:00 +0300"
-    },
-    {
       "title": "Inter Milan Vs Atalanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan%20Vs%20Atalanta",
       "pubdate": "Fri, 03 Jan 2025 08:00:00 +0300"
+    },
+    {
+      "title": "Liverpool vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Man%20United",
+      "pubdate": "Fri, 03 Jan 2025 10:00:00 +0300"
     },
     {
       "title": "LiveScore",
@@ -77,19 +77,14 @@
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0300"
     },
     {
-      "title": "Jobs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jobs",
-      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0300"
-    },
-    {
-      "title": "Business Daily",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Business%20Daily",
+      "title": "Gor Mahia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0300"
     },
     {
-      "title": "Apply",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Apply",
-      "pubdate": "Thu, 02 Jan 2025 14:00:00 +0300"
+      "title": "Jobs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jobs",
+      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0300"
     },
     {
       "title": "Dundee United",
@@ -100,6 +95,11 @@
       "title": "Cooperative bank",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cooperative%20bank",
       "pubdate": "Thu, 02 Jan 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Apply",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Apply",
+      "pubdate": "Thu, 02 Jan 2025 14:00:00 +0300"
     }
   ]
 }
