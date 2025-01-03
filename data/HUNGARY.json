@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 11:35:50",
+  "lastUpdate": "03-01-2025 , 12:57:07",
   "data": [
     {
       "title": "Rádió 1",
@@ -37,6 +37,11 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
     },
     {
+      "title": "Ugyfelkapu-plusz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ugyfelkapu-plusz",
+      "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
+    },
+    {
       "title": "Digitális Állampolgárság",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Digit%C3%A1lis%20%C3%81llampolg%C3%A1rs%C3%A1g",
       "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
@@ -72,19 +77,14 @@
       "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Ügyfélkapu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Cgyf%C3%A9lkapu",
-      "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
+      "title": "Ónos eső",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
+      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "NAV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NAV",
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Ónos eső",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91",
-      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Tüzijáték halálos baleset",
