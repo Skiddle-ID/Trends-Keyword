@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-01-2025 , 09:36:11",
+  "lastUpdate": "03-01-2025 , 10:39:20",
   "data": [
+    {
+      "title": "Quadrantids meteor showers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Quadrantids%20meteor%20showers",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 -0800"
+    },
     {
       "title": "Notre Dame Football",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20Football",
@@ -52,6 +57,11 @@
       "pubdate": "Thu, 02 Jan 2025 10:00:00 -0800"
     },
     {
+      "title": "Trail Blazers vs Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trail%20Blazers%20vs%20Lakers",
+      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0800"
+    },
+    {
       "title": "FCC net neutrality rules",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FCC%20net%20neutrality%20rules",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 -0800"
@@ -72,18 +82,13 @@
       "pubdate": "Thu, 02 Jan 2025 01:00:00 -0800"
     },
     {
-      "title": "Super Bowl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Super%20Bowl",
-      "pubdate": "Thu, 02 Jan 2025 04:00:00 -0800"
-    },
-    {
       "title": "Sugar Bowl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sugar%20Bowl%202025",
       "pubdate": "Wed, 01 Jan 2025 05:00:00 -0800"
     },
     {
-      "title": "Cybertruck explosion",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cybertruck%20explosion",
+      "title": "Las Vegas explosion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Las%20Vegas%20explosion",
       "pubdate": "Wed, 01 Jan 2025 13:00:00 -0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Rose Parade 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rose%20Parade%202025",
       "pubdate": "Wed, 01 Jan 2025 00:00:00 -0800"
-    },
-    {
-      "title": "Ole Miss football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ole%20Miss%20football",
-      "pubdate": "Wed, 01 Jan 2025 10:00:00 -0800"
     }
   ]
 }

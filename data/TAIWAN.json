@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "03-01-2025 , 09:36:19",
+  "lastUpdate": "03-01-2025 , 10:39:30",
   "data": [
+    {
+      "title": "許允樂",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%A8%B1%E5%85%81%E6%A8%82",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0800"
+    },
     {
       "title": "廣達",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BB%A3%E9%81%94",
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0800"
-    },
-    {
-      "title": "妙天",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A6%99%E5%A4%A9",
-      "pubdate": "Fri, 03 Jan 2025 09:00:00 +0800"
     },
     {
       "title": "尹錫悅",
@@ -22,24 +22,34 @@
       "pubdate": "Fri, 03 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "TSLA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TSLA",
-      "pubdate": "Fri, 03 Jan 2025 14:00:00 +0800"
-    },
-    {
-      "title": "賴賴&織織",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B3%B4%E8%B3%B4%26%E7%B9%94%E7%B9%94",
-      "pubdate": "Fri, 03 Jan 2025 01:00:00 +0800"
-    },
-    {
       "title": "陳玉珍",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E7%8E%89%E7%8F%8D",
       "pubdate": "Fri, 03 Jan 2025 15:00:00 +0800"
     },
     {
+      "title": "TSLA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TSLA",
+      "pubdate": "Fri, 03 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "妙天禪師",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A6%99%E5%A4%A9%E7%A6%AA%E5%B8%AB",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0800"
+    },
+    {
       "title": "數發部",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%B8%E7%99%BC%E9%83%A8",
       "pubdate": "Fri, 03 Jan 2025 13:00:00 +0800"
+    },
+    {
+      "title": "Jisoo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Jisoo",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0800"
+    },
+    {
+      "title": "蘇清泉",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E6%B8%85%E6%B3%89",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0800"
     },
     {
       "title": "臘八粥",
@@ -90,16 +100,6 @@
       "title": "魷魚遊戲3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AD%B7%E9%AD%9A%E9%81%8A%E6%88%B23",
       "pubdate": "Thu, 02 Jan 2025 00:00:00 +0800"
-    },
-    {
-      "title": "中鋼",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E9%8B%BC",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 +0800"
-    },
-    {
-      "title": "00929 配息",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#00929%20%E9%85%8D%E6%81%AF",
-      "pubdate": "Thu, 02 Jan 2025 16:00:00 +0800"
     }
   ]
 }
