@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:37:12",
+  "lastUpdate": "03-01-2025 , 14:37:39",
   "data": [
     {
       "title": "Canucks",
@@ -22,9 +22,14 @@
       "pubdate": "Fri, 03 Jan 2025 01:00:00 -0500"
     },
     {
-      "title": "HMPV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#HMPV",
-      "pubdate": "Fri, 03 Jan 2025 02:00:00 -0500"
+      "title": "New Orleans attack 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20Orleans%20attack%202025",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 -0500"
+    },
+    {
+      "title": "Jimmy Butler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Butler",
+      "pubdate": "Fri, 03 Jan 2025 04:00:00 -0500"
     },
     {
       "title": "Demko",
@@ -57,14 +62,14 @@
       "pubdate": "Thu, 02 Jan 2025 23:00:00 -0500"
     },
     {
-      "title": "LinkedIn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LinkedIn",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 -0500"
-    },
-    {
       "title": "Tesla stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tesla%20stock",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0500"
+    },
+    {
+      "title": "Human metapneumovirus China",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Human%20metapneumovirus%20China",
+      "pubdate": "Thu, 02 Jan 2025 17:00:00 -0500"
     },
     {
       "title": "Winnipeg Jets",
@@ -92,14 +97,9 @@
       "pubdate": "Thu, 02 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Thea Booysen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Thea%20Booysen",
-      "pubdate": "Thu, 02 Jan 2025 02:00:00 -0500"
-    },
-    {
-      "title": "Mississauga weather",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mississauga%20weather",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0500"
+      "title": "Extreme cold warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Extreme%20cold%20warning",
+      "pubdate": "Thu, 02 Jan 2025 19:00:00 -0500"
     }
   ]
 }

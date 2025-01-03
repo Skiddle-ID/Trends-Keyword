@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:37:19",
+  "lastUpdate": "03-01-2025 , 14:37:46",
   "data": [
     {
       "title": "야탑 화재",
@@ -27,11 +27,6 @@
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0900"
     },
     {
-      "title": "병산서원",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90",
-      "pubdate": "Fri, 03 Jan 2025 09:00:00 +0900"
-    },
-    {
       "title": "JK김동욱",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#JK%EA%B9%80%EB%8F%99%EC%9A%B1",
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0900"
@@ -40,6 +35,11 @@
       "title": "지진",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%80%EC%A7%84",
       "pubdate": "Fri, 03 Jan 2025 19:00:00 +0900"
+    },
+    {
+      "title": "병산서원",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90",
+      "pubdate": "Fri, 03 Jan 2025 09:00:00 +0900"
     },
     {
       "title": "JTBC",

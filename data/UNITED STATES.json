@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:37:10",
+  "lastUpdate": "03-01-2025 , 14:37:38",
   "data": [
     {
       "title": "Quadrantids meteor showers",
@@ -7,9 +7,14 @@
       "pubdate": "Fri, 03 Jan 2025 00:00:00 -0800"
     },
     {
-      "title": "Georgia Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Football",
+      "title": "Notre Dame football",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20football",
       "pubdate": "Thu, 02 Jan 2025 10:00:00 -0800"
+    },
+    {
+      "title": "Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
+      "pubdate": "Thu, 02 Jan 2025 19:00:00 -0800"
     },
     {
       "title": "Wayne Osmond",
@@ -32,6 +37,11 @@
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0800"
     },
     {
+      "title": "Gunner Stockton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gunner%20Stockton",
+      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0800"
+    },
+    {
       "title": "Plane crash California",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Plane%20crash%20California",
       "pubdate": "Thu, 02 Jan 2025 21:00:00 -0800"
@@ -40,11 +50,6 @@
       "title": "Connections hint today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Connections%20hint%20today",
       "pubdate": "Thu, 02 Jan 2025 22:00:00 -0800"
-    },
-    {
-      "title": "Trail Blazers vs Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trail%20Blazers%20vs%20Lakers",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0800"
     },
     {
       "title": "Meghan Markle",
@@ -57,14 +62,14 @@
       "pubdate": "Thu, 02 Jan 2025 20:00:00 -0800"
     },
     {
-      "title": "Victims of New Orleans attack",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victims%20of%20New%20Orleans%20attack",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0800"
-    },
-    {
       "title": "Pro Bowl roster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pro%20Bowl%20roster",
       "pubdate": "Thu, 02 Jan 2025 17:00:00 -0800"
+    },
+    {
+      "title": "Victims of New Orleans attack",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victims%20of%20New%20Orleans%20attack",
+      "pubdate": "Thu, 02 Jan 2025 13:00:00 -0800"
     },
     {
       "title": "Cotton Bowl tickets",
@@ -72,14 +77,19 @@
       "pubdate": "Thu, 02 Jan 2025 09:00:00 -0800"
     },
     {
-      "title": "Notre Dame Football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20Football",
-      "pubdate": "Wed, 01 Jan 2025 05:00:00 -0800"
+      "title": "Notre Dame vs Georgia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Notre%20Dame%20vs%20Georgia",
+      "pubdate": "Wed, 01 Jan 2025 11:00:00 -0800"
     },
     {
       "title": "Matthew Livelsberger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matthew%20Livelsberger",
       "pubdate": "Wed, 01 Jan 2025 13:00:00 -0800"
+    },
+    {
+      "title": "Sugar Bowl 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sugar%20Bowl%202025",
+      "pubdate": "Wed, 01 Jan 2025 05:00:00 -0800"
     },
     {
       "title": "Skattebo",
@@ -90,16 +100,6 @@
       "title": "Rose Parade 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rose%20Parade%202025",
       "pubdate": "Wed, 01 Jan 2025 00:00:00 -0800"
-    },
-    {
-      "title": "Ole Miss football",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ole%20Miss%20football",
-      "pubdate": "Wed, 01 Jan 2025 10:00:00 -0800"
-    },
-    {
-      "title": "Celtics",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-      "pubdate": "Wed, 01 Jan 2025 04:00:00 -0800"
     }
   ]
 }

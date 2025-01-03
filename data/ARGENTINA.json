@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:37:10",
+  "lastUpdate": "03-01-2025 , 14:37:38",
   "data": [
     {
       "title": "Ricardo darin",
@@ -37,6 +37,11 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 -0300"
     },
     {
+      "title": "Galoppo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Galoppo",
+      "pubdate": "Thu, 02 Jan 2025 14:00:00 -0300"
+    },
+    {
       "title": "Nosferatu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nosferatu",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 -0300"
@@ -72,9 +77,9 @@
       "pubdate": "Thu, 02 Jan 2025 11:00:00 -0300"
     },
     {
-      "title": "Primer bebé 2025 Argentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primer%20beb%C3%A9%202025%20Argentina",
-      "pubdate": "Thu, 02 Jan 2025 01:00:00 -0300"
+      "title": "Tini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tini",
+      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0300"
     },
     {
       "title": "Reyes Magos 2025",
@@ -82,9 +87,9 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 -0300"
     },
     {
-      "title": "Tini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tini",
-      "pubdate": "Thu, 02 Jan 2025 23:00:00 -0300"
+      "title": "Primer bebé 2025 Argentina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primer%20beb%C3%A9%202025%20Argentina",
+      "pubdate": "Thu, 02 Jan 2025 01:00:00 -0300"
     },
     {
       "title": "Novak Djokovic",
@@ -92,14 +97,9 @@
       "pubdate": "Thu, 02 Jan 2025 17:00:00 -0300"
     },
     {
-      "title": "IPC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IPC",
+      "title": "Cuando es Reyes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cuando%20es%20Reyes",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 -0300"
-    },
-    {
-      "title": "Tesla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tesla",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 -0300"
     }
   ]
 }

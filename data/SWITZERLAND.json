@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:37:20",
+  "lastUpdate": "03-01-2025 , 14:37:46",
   "data": [
     {
       "title": "Rückruf Gewürz",
@@ -17,19 +17,29 @@
       "pubdate": "Fri, 03 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Dow Jones",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
-      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
-    },
-    {
       "title": "Loredana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loredana",
       "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
     },
     {
+      "title": "Dow Jones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "National League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#National%20League",
+      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+    },
+    {
       "title": "Bernie Constantin Switzerland Reggae",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bernie%20Constantin%20Switzerland%20Reggae",
       "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Tier des Jahres 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tier%20des%20Jahres%202025",
+      "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Inter – Atalanta",
@@ -72,29 +82,19 @@
       "pubdate": "Thu, 02 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Tesla-Aktie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
-      "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "SMI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "CNN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CNN",
-      "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
+      "title": "Tesla-Aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
+      "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Jelmoli Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jelmoli%20Z%C3%BCrich",
-      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Meteosuisse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteosuisse",
-      "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
+      "title": "Thilo Mischke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thilo%20Mischke",
+      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Novak Djokovic",
