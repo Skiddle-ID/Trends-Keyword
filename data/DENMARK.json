@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 05:37:38",
+  "lastUpdate": "03-01-2025 , 06:43:16",
   "data": [
     {
       "title": "Maps",
@@ -47,6 +47,11 @@
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
     },
     {
+      "title": "Canva",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Canva",
+      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Santander",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Santander",
       "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
@@ -60,11 +65,6 @@
       "title": "Economic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Docs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
-      "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Ferdi Tayfur",
@@ -82,14 +82,14 @@
       "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "GM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GM",
-      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
-    },
-    {
       "title": "DAO",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAO",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "GM",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GM",
+      "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Go",

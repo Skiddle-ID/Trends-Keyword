@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 05:37:43",
+  "lastUpdate": "03-01-2025 , 06:43:22",
   "data": [
     {
       "title": "Cecilia Sala",
@@ -42,6 +42,11 @@
       "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
     },
     {
+      "title": "Michael van Gerwen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20van%20Gerwen",
+      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Tesla Aktie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla%20Aktie",
       "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
@@ -62,6 +67,11 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
     },
     {
+      "title": "Jobs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jobs",
+      "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
+    },
+    {
       "title": "Dreikönigskuchen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dreik%C3%B6nigskuchen",
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
@@ -77,6 +87,11 @@
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
     },
     {
+      "title": "Gotthard Stau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard%20Stau",
+      "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
+    },
+    {
       "title": "Konstanz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Konstanz",
       "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
@@ -85,21 +100,6 @@
       "title": "ProSieben",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ProSieben",
       "pubdate": "Thu, 02 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Gotthard Stau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gotthard%20Stau",
-      "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Meghan Markle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meghan%20Markle",
-      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Tommy Robinson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tommy%20Robinson",
-      "pubdate": "Thu, 02 Jan 2025 20:00:00 +0100"
     }
   ]
 }

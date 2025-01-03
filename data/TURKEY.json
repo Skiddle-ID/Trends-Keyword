@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-01-2025 , 05:37:44",
+  "lastUpdate": "03-01-2025 , 06:43:23",
   "data": [
     {
       "title": "Boyabat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Boyabat",
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Ferdi Kadıoğlu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ferdi%20Kad%C4%B1o%C4%9Flu",
+      "pubdate": "Fri, 03 Jan 2025 07:00:00 +0300"
     },
     {
       "title": "Ferdi Tayfur",
@@ -32,14 +37,14 @@
       "pubdate": "Thu, 02 Jan 2025 16:00:00 +0300"
     },
     {
+      "title": "Emekli maaş zammı enflasyon farkı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Emekli%20maa%C5%9F%20zamm%C4%B1%20enflasyon%20fark%C4%B1",
+      "pubdate": "Thu, 02 Jan 2025 13:00:00 +0300"
+    },
+    {
       "title": "Devlet Bahçeli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0300"
-    },
-    {
-      "title": "Necla Nazır",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Necla%20Naz%C4%B1r",
-      "pubdate": "Thu, 02 Jan 2025 21:00:00 +0300"
     },
     {
       "title": "Hell let loose",
@@ -67,11 +72,6 @@
       "pubdate": "Thu, 02 Jan 2025 11:00:00 +0300"
     },
     {
-      "title": "Tesbih namazı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tesbih%20namaz%C4%B1",
-      "pubdate": "Thu, 02 Jan 2025 20:00:00 +0300"
-    },
-    {
       "title": "Berke Özer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Berke%20%C3%96zer",
       "pubdate": "Thu, 02 Jan 2025 20:00:00 +0300"
@@ -80,11 +80,6 @@
       "title": "Mac",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mac",
       "pubdate": "Thu, 02 Jan 2025 16:00:00 +0300"
-    },
-    {
-      "title": "Aralık ayı enflasyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aral%C4%B1k%20ay%C4%B1%20enflasyon",
-      "pubdate": "Thu, 02 Jan 2025 15:00:00 +0300"
     },
     {
       "title": "Rangers",
@@ -100,6 +95,11 @@
       "title": "MTV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MTV",
       "pubdate": "Thu, 02 Jan 2025 17:00:00 +0300"
+    },
+    {
+      "title": "2 Ocak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#2%20Ocak",
+      "pubdate": "Thu, 02 Jan 2025 09:00:00 +0300"
     }
   ]
 }

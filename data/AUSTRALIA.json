@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 05:37:36",
+  "lastUpdate": "03-01-2025 , 06:43:14",
   "data": [
     {
       "title": "India vs Australia",
@@ -12,14 +12,14 @@
       "pubdate": "Fri, 03 Jan 2025 10:00:00 +1100"
     },
     {
-      "title": "Tesla share price",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tesla%20share%20price",
-      "pubdate": "Fri, 03 Jan 2025 03:00:00 +1100"
+      "title": "Shubman Gill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shubman%20Gill",
+      "pubdate": "Fri, 03 Jan 2025 12:00:00 +1100"
     },
     {
-      "title": "Inter Vs Atalanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Vs%20Atalanta",
-      "pubdate": "Fri, 03 Jan 2025 10:00:00 +1100"
+      "title": "Rishabh Pant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rishabh%20Pant",
+      "pubdate": "Fri, 03 Jan 2025 15:00:00 +1100"
     },
     {
       "title": "Buck",
@@ -37,19 +37,14 @@
       "pubdate": "Fri, 03 Jan 2025 10:00:00 +1100"
     },
     {
-      "title": "S&P 500",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#S%26P%20500",
-      "pubdate": "Fri, 03 Jan 2025 12:00:00 +1100"
-    },
-    {
       "title": "Lockerbie: A Search for Truth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lockerbie:%20A%20Search%20for%20Truth",
       "pubdate": "Fri, 03 Jan 2025 13:00:00 +1100"
     },
     {
-      "title": "Garmin inReach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Garmin%20inReach",
-      "pubdate": "Fri, 03 Jan 2025 14:00:00 +1100"
+      "title": "Tesla stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tesla%20stock",
+      "pubdate": "Fri, 03 Jan 2025 15:00:00 +1100"
     },
     {
       "title": "New Orleans",
@@ -92,14 +87,19 @@
       "pubdate": "Thu, 02 Jan 2025 14:00:00 +1100"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
-      "pubdate": "Thu, 02 Jan 2025 21:00:00 +1100"
-    },
-    {
       "title": "Montenegro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Montenegro",
       "pubdate": "Thu, 02 Jan 2025 13:00:00 +1100"
+    },
+    {
+      "title": "Jocelyn Wildenstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jocelyn%20Wildenstein",
+      "pubdate": "Thu, 02 Jan 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
+      "pubdate": "Thu, 02 Jan 2025 22:00:00 +1100"
     }
   ]
 }
