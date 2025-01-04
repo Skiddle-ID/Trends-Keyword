@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "04-01-2025 , 04:38:47",
+  "lastUpdate": "04-01-2025 , 05:36:57",
   "data": [
-    {
-      "title": "LaLiga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LaLiga",
-      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
-    },
     {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AC%20Milan",
+      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "MvG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MvG",
       "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
     },
     {
@@ -57,11 +57,6 @@
       "pubdate": "Fri, 03 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Billie Eilish",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Billie%20Eilish",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Annalena Baerbock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Annalena%20Baerbock",
       "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
@@ -82,14 +77,14 @@
       "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Luke Humphries",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luke%20Humphries",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Loredana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loredana",
       "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Rosita Missoni",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosita%20Missoni",
+      "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Regierung",
@@ -100,6 +95,11 @@
       "title": "ZiB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZiB",
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Besiktas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
+      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     }
   ]
 }

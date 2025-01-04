@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 04:38:52",
+  "lastUpdate": "04-01-2025 , 05:37:02",
   "data": [
     {
       "title": "Willem van Kooten",
@@ -62,11 +62,6 @@
       "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Sneeuw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
-      "pubdate": "Thu, 02 Jan 2025 16:00:00 +0100"
-    },
-    {
       "title": "Bunq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bunq",
       "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Van Gerwen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
       "pubdate": "Tue, 31 Dec 2024 07:00:00 +0100"
+    },
+    {
+      "title": "Oudejaarsconference",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oudejaarsconference",
+      "pubdate": "Mon, 30 Dec 2024 22:00:00 +0100"
     }
   ]
 }
