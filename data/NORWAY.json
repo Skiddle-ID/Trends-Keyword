@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:33",
+  "lastUpdate": "04-01-2025 , 12:55:02",
   "data": [
-    {
-      "title": "The town",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20town",
-      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
-    },
     {
       "title": "Mike Johnson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mike%20Johnson",
@@ -17,8 +12,18 @@
       "pubdate": "Sat, 04 Jan 2025 01:00:00 +0100"
     },
     {
+      "title": "Klæbo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kl%C3%A6bo",
+      "pubdate": "Sat, 04 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Simen Agdestein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Simen%20Agdestein",
+      "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Erlend Mamelund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Erlend%20Mamelund",
       "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
@@ -42,9 +47,9 @@
       "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "Majda Ra'ad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Majda%20Ra'ad",
-      "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
+      "title": "Val di Fiemme",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Val%20di%20Fiemme",
+      "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Wallace and Gromit",
@@ -57,11 +62,6 @@
       "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Val di Fiemme",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Val%20di%20Fiemme",
-      "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
-    },
-    {
       "title": "Elijah Wood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elijah%20Wood",
       "pubdate": "Fri, 03 Jan 2025 19:00:00 +0100"
@@ -70,6 +70,11 @@
       "title": "Ingvild Kjerkol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingvild%20Kjerkol",
       "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Aurora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
+      "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Martine Halvorsen",
@@ -85,11 +90,6 @@
       "title": "Nav",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nav",
       "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "DNB",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNB",
-      "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "BankID",

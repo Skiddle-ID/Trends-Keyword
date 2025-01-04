@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:35",
+  "lastUpdate": "04-01-2025 , 12:55:04",
   "data": [
+    {
+      "title": "Fame",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fame",
+      "pubdate": "Sat, 04 Jan 2025 10:00:00 +0100"
+    },
     {
       "title": "Majda av Jordanien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Majda%20av%20Jordanien",
@@ -42,6 +47,11 @@
       "pubdate": "Fri, 03 Jan 2025 10:00:00 +0100"
     },
     {
+      "title": "Wallace and Gromit",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wallace%20and%20Gromit",
+      "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
       "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
@@ -67,11 +77,6 @@
       "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Elijah Wood",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elijah%20Wood",
-      "pubdate": "Thu, 02 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Ebba Busch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
       "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "IF",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IF",
       "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Dagens industri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dagens%20industri",
-      "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
     }
   ]
 }

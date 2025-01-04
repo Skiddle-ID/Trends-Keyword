@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:26",
+  "lastUpdate": "04-01-2025 , 12:54:54",
   "data": [
+    {
+      "title": "Winter storm warning",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20storm%20warning",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 -0800"
+    },
     {
       "title": "Speaker of the House vote",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Speaker%20of%20the%20House%20vote",
@@ -37,11 +42,6 @@
       "pubdate": "Fri, 03 Jan 2025 15:00:00 -0800"
     },
     {
-      "title": "Matt Gaetz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Gaetz",
-      "pubdate": "Fri, 03 Jan 2025 10:00:00 -0800"
-    },
-    {
       "title": "Zachery Ty Bryan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zachery%20Ty%20Bryan",
       "pubdate": "Fri, 03 Jan 2025 15:00:00 -0800"
@@ -52,18 +52,13 @@
       "pubdate": "Fri, 03 Jan 2025 17:00:00 -0800"
     },
     {
-      "title": "Cavaliers vs Mavericks",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavaliers%20vs%20Mavericks",
-      "pubdate": "Fri, 03 Jan 2025 21:00:00 -0800"
+      "title": "Clarence Thomas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clarence%20Thomas",
+      "pubdate": "Fri, 03 Jan 2025 13:00:00 -0800"
     },
     {
       "title": "Apple Siri lawsuit settlement",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20Siri%20lawsuit%20settlement",
-      "pubdate": "Fri, 03 Jan 2025 16:00:00 -0800"
-    },
-    {
-      "title": "LaLiga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LaLiga",
       "pubdate": "Fri, 03 Jan 2025 16:00:00 -0800"
     },
     {
@@ -72,14 +67,9 @@
       "pubdate": "Fri, 03 Jan 2025 18:00:00 -0800"
     },
     {
-      "title": "Quadrantids meteor showers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Quadrantids%20meteor%20showers",
-      "pubdate": "Fri, 03 Jan 2025 00:00:00 -0800"
-    },
-    {
-      "title": "Illinois basketball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball",
-      "pubdate": "Fri, 03 Jan 2025 07:00:00 -0800"
+      "title": "LaLiga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LaLiga",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 -0800"
     },
     {
       "title": "Fred Kerley",
@@ -100,6 +90,16 @@
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AC%20Milan",
       "pubdate": "Fri, 03 Jan 2025 21:00:00 -0800"
+    },
+    {
+      "title": "Rivian stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rivian%20stock",
+      "pubdate": "Fri, 03 Jan 2025 23:00:00 -0800"
+    },
+    {
+      "title": "Penn State vs Notre Dame",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20vs%20Notre%20Dame",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 -0800"
     }
   ]
 }

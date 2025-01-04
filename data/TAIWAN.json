@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:36",
+  "lastUpdate": "04-01-2025 , 12:55:04",
   "data": [
     {
       "title": "麻疹",
@@ -17,14 +17,14 @@
       "pubdate": "Sat, 04 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "金慧成",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E6%85%A7%E6%88%90",
-      "pubdate": "Sat, 04 Jan 2025 13:00:00 +0800"
+      "title": "彰化賽車節",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BD%B0%E5%8C%96%E8%B3%BD%E8%BB%8A%E7%AF%80",
+      "pubdate": "Sat, 04 Jan 2025 16:00:00 +0800"
     },
     {
-      "title": "西甲",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%A5%BF%E7%94%B2",
-      "pubdate": "Sat, 04 Jan 2025 10:00:00 +0800"
+      "title": "陳喬恩",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E5%96%AC%E6%81%A9",
+      "pubdate": "Sat, 04 Jan 2025 20:00:00 +0800"
     },
     {
       "title": "陳佩琪",
@@ -55,6 +55,11 @@
       "title": "微熱山丘",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%AE%E7%86%B1%E5%B1%B1%E4%B8%98",
       "pubdate": "Fri, 03 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "劉樸",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E6%A8%B8",
+      "pubdate": "Fri, 03 Jan 2025 16:00:00 +0800"
     },
     {
       "title": "廣達",
@@ -95,11 +100,6 @@
       "title": "勇士",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8B%87%E5%A3%AB",
       "pubdate": "Fri, 03 Jan 2025 17:00:00 +0800"
-    },
-    {
-      "title": "湖人",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B9%96%E4%BA%BA",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0800"
     }
   ]
 }

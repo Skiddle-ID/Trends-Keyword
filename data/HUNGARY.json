@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:30",
+  "lastUpdate": "04-01-2025 , 12:54:59",
   "data": [
     {
       "title": "Kardszárnyú delfin",
@@ -15,11 +15,6 @@
       "title": "Révész Sándor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A9v%C3%A9sz%20S%C3%A1ndor",
       "pubdate": "Sat, 04 Jan 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Hold",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hold",
-      "pubdate": "Sat, 04 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Valencia–real Madrid",
@@ -52,24 +47,29 @@
       "pubdate": "Fri, 03 Jan 2025 01:00:00 +0100"
     },
     {
-      "title": "Rádió 1",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1di%C3%B3%201",
-      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
-    },
-    {
       "title": "Miután",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miut%C3%A1n",
       "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Brasch Bence",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brasch%20Bence",
-      "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
+      "title": "Rádió 1",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1di%C3%B3%201",
+      "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Hold",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hold",
+      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "HMPV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#HMPV",
       "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Brasch Bence",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brasch%20Bence",
+      "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "RTL",
@@ -87,11 +87,6 @@
       "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Vénusz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A9nusz",
-      "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Jennifer Lopez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jennifer%20Lopez",
       "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "Tamás Gyula",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tam%C3%A1s%20Gyula",
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Krúbi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kr%C3%BAbi",
+      "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
     }
   ]
 }

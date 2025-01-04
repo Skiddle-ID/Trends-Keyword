@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:30",
+  "lastUpdate": "04-01-2025 , 12:54:59",
   "data": [
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
-      "pubdate": "Sat, 04 Jan 2025 02:30:00 +0530"
-    },
     {
       "title": "Mohammed Siraj",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Siraj",
@@ -27,19 +22,24 @@
       "pubdate": "Sat, 04 Jan 2025 12:30:00 +0530"
     },
     {
+      "title": "Yuzvendra Chahal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yuzvendra%20Chahal",
+      "pubdate": "Sat, 04 Jan 2025 16:30:00 +0530"
+    },
+    {
       "title": "India vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20Australia",
       "pubdate": "Fri, 03 Jan 2025 07:30:00 +0530"
     },
     {
-      "title": "HMPV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HMPV",
-      "pubdate": "Fri, 03 Jan 2025 06:30:00 +0530"
-    },
-    {
       "title": "South Africa vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Africa%20vs%20Pakistan",
       "pubdate": "Fri, 03 Jan 2025 14:30:00 +0530"
+    },
+    {
+      "title": "HMPV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HMPV",
+      "pubdate": "Fri, 03 Jan 2025 06:30:00 +0530"
     },
     {
       "title": "Sam Konstas",
@@ -72,11 +72,6 @@
       "pubdate": "Fri, 03 Jan 2025 10:30:00 +0530"
     },
     {
-      "title": "CUET PG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CUET%20PG",
-      "pubdate": "Fri, 03 Jan 2025 18:30:00 +0530"
-    },
-    {
       "title": "Love Reddy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Love%20Reddy",
       "pubdate": "Fri, 03 Jan 2025 20:30:00 +0530"
@@ -92,14 +87,19 @@
       "pubdate": "Thu, 02 Jan 2025 22:30:00 +0530"
     },
     {
-      "title": "Bajaj Finance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bajaj%20Finance",
-      "pubdate": "Thu, 02 Jan 2025 16:30:00 +0530"
-    },
-    {
       "title": "Bangladesh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bangladesh",
       "pubdate": "Thu, 02 Jan 2025 14:30:00 +0530"
+    },
+    {
+      "title": "Bajaj finance share",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bajaj%20finance%20share",
+      "pubdate": "Thu, 02 Jan 2025 16:30:00 +0530"
+    },
+    {
+      "title": "Hyundai Creta Electric",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20Creta%20Electric",
+      "pubdate": "Thu, 02 Jan 2025 20:30:00 +0530"
     }
   ]
 }

@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "04-01-2025 , 11:35:26",
+  "lastUpdate": "04-01-2025 , 12:54:55",
   "data": [
-    {
-      "title": "Jännerrallye 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J%C3%A4nnerrallye%202025",
-      "pubdate": "Sat, 04 Jan 2025 11:00:00 +0100"
-    },
     {
       "title": "Der STANDARD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20STANDARD",
@@ -17,9 +12,19 @@
       "pubdate": "Sat, 04 Jan 2025 07:00:00 +0100"
     },
     {
+      "title": "LaLiga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LaLiga",
+      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
+    },
+    {
       "title": "China",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#China",
       "pubdate": "Sat, 04 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Kranjska Gora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kranjska%20Gora",
+      "pubdate": "Sat, 04 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Assad",
@@ -27,14 +32,9 @@
       "pubdate": "Sat, 04 Jan 2025 08:00:00 +0100"
     },
     {
-      "title": "Opelka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Opelka",
-      "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Kranjska Gora",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kranjska%20Gora",
-      "pubdate": "Sat, 04 Jan 2025 11:00:00 +0100"
+      "title": "Kac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kac",
+      "pubdate": "Sat, 04 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "ICE Hockey",
@@ -52,6 +52,11 @@
       "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Jännerrallye 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J%C3%A4nnerrallye%202025",
+      "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
+    },
+    {
       "title": "Skispringen heute",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Skispringen%20heute",
       "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
@@ -62,14 +67,14 @@
       "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Sebastian Kurz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Kurz",
-      "pubdate": "Fri, 03 Jan 2025 15:00:00 +0100"
-    },
-    {
       "title": "Annalena Baerbock Syrien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Annalena%20Baerbock%20Syrien",
       "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Sebastian Kurz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Kurz",
+      "pubdate": "Fri, 03 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Levi Strauss",
@@ -90,11 +95,6 @@
       "title": "Presse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Presse",
       "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Janine Flock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Janine%20Flock",
-      "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Doskozil",
