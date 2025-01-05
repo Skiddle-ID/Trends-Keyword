@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2025 , 03:42:19",
+  "lastUpdate": "05-01-2025 , 04:38:35",
   "data": [
     {
       "title": "Jeff Baena",
@@ -17,6 +17,11 @@
       "pubdate": "Sat, 04 Jan 2025 12:00:00 -0500"
     },
     {
+      "title": "Canadiens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
+      "pubdate": "Sat, 04 Jan 2025 12:00:00 -0500"
+    },
+    {
       "title": "Browns vs Ravens",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Browns%20vs%20Ravens",
       "pubdate": "Sat, 04 Jan 2025 18:00:00 -0500"
@@ -25,11 +30,6 @@
       "title": "Jimmy Carter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Carter",
       "pubdate": "Sat, 04 Jan 2025 17:00:00 -0500"
-    },
-    {
-      "title": "Canadiens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
-      "pubdate": "Sat, 04 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Man City vs West Ham",
@@ -42,6 +42,16 @@
       "pubdate": "Sat, 04 Jan 2025 11:00:00 -0500"
     },
     {
+      "title": "Bengals vs Steelers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bengals%20vs%20Steelers",
+      "pubdate": "Sat, 04 Jan 2025 20:00:00 -0500"
+    },
+    {
+      "title": "Michael J. Fox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20J.%20Fox",
+      "pubdate": "Sat, 04 Jan 2025 17:00:00 -0500"
+    },
+    {
       "title": "Crystal Palace vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Crystal%20Palace%20vs%20Chelsea",
       "pubdate": "Sat, 04 Jan 2025 12:00:00 -0500"
@@ -52,9 +62,9 @@
       "pubdate": "Sat, 04 Jan 2025 16:00:00 -0500"
     },
     {
-      "title": "Michael J. Fox",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20J.%20Fox",
-      "pubdate": "Sat, 04 Jan 2025 17:00:00 -0500"
+      "title": "Tottenham vs Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Newcastle",
+      "pubdate": "Sat, 04 Jan 2025 09:00:00 -0500"
     },
     {
       "title": "Winter storm warning",
@@ -72,11 +82,6 @@
       "pubdate": "Sat, 04 Jan 2025 00:00:00 -0500"
     },
     {
-      "title": "TOTTENHAM VS NEWCASTLE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TOTTENHAM%20VS%20NEWCASTLE",
-      "pubdate": "Sat, 04 Jan 2025 09:00:00 -0500"
-    },
-    {
       "title": "Solo Leveling season 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solo%20Leveling%20season%202",
       "pubdate": "Sat, 04 Jan 2025 07:00:00 -0500"
@@ -87,14 +92,9 @@
       "pubdate": "Sat, 04 Jan 2025 12:00:00 -0500"
     },
     {
-      "title": "Victor Wembanyama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Victor%20Wembanyama",
-      "pubdate": "Sat, 04 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Derrick Henry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Derrick%20Henry",
-      "pubdate": "Sat, 04 Jan 2025 20:00:00 -0500"
+      "title": "Matthew Knies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matthew%20Knies",
+      "pubdate": "Sat, 04 Jan 2025 22:00:00 -0500"
     },
     {
       "title": "Derrick Rose",
