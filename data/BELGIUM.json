@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "05-01-2025 , 23:35:21",
+  "lastUpdate": "06-01-2025 , 02:07:06",
   "data": [
+    {
+      "title": "Grève enseignement belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gr%C3%A8ve%20enseignement%20belgique",
+      "pubdate": "Mon, 06 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Ne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ne",
+      "pubdate": "Mon, 06 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Paris-sg – Monaco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris-sg%20%E2%80%93%20Monaco",
@@ -27,9 +37,19 @@
       "pubdate": "Sun, 05 Jan 2025 13:00:00 +0100"
     },
     {
+      "title": "The Vivienne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Vivienne",
+      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Liesbeth Homans",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liesbeth%20Homans",
       "pubdate": "Sun, 05 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Roma – Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma%20%E2%80%93%20Lazio",
+      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Driekoningen",
@@ -47,14 +67,19 @@
       "pubdate": "Sun, 05 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "The Vivienne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Vivienne",
+      "title": "VTM Bestemming X",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM%20Bestemming%20X",
       "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Stuttgart Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stuttgart%20Ajax",
+      "title": "Stuttgart  Ajax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stuttgart%20%20Ajax",
       "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "The Fabelmans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Fabelmans",
+      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Michel Fugain",
@@ -62,19 +87,9 @@
       "pubdate": "Sun, 05 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Roma – Lazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roma%20%E2%80%93%20Lazio",
-      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Lucinda Brand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lucinda%20Brand",
       "pubdate": "Sun, 05 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "The Fabelmans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Fabelmans",
-      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Jada Lynch",
@@ -85,21 +100,6 @@
       "title": "Extrema Outdoor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Extrema%20Outdoor",
       "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Spanje",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Spanje",
-      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Dendermonde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dendermonde",
-      "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Drie koningen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Drie%20koningen",
-      "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
     }
   ]
 }

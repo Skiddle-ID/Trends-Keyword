@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2025 , 23:35:26",
+  "lastUpdate": "06-01-2025 , 02:07:11",
   "data": [
     {
       "title": "Fulham vs Ipswich Town",
@@ -7,14 +7,9 @@
       "pubdate": "Sun, 05 Jan 2025 13:00:00 +0300"
     },
     {
-      "title": "Epl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl",
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League",
       "pubdate": "Sun, 05 Jan 2025 00:00:00 +0300"
-    },
-    {
-      "title": "Where to watch Liverpool FC vs Manchester United FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Where%20to%20watch%20Liverpool%20FC%20vs%20Manchester%20United%20FC",
-      "pubdate": "Sun, 05 Jan 2025 21:00:00 +0300"
     },
     {
       "title": "George Soros",
@@ -100,6 +95,11 @@
       "title": "HMPV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#HMPV",
       "pubdate": "Sat, 04 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Chelsea FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+      "pubdate": "Sat, 04 Jan 2025 19:00:00 +0300"
     }
   ]
 }

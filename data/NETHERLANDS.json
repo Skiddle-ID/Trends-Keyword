@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "05-01-2025 , 23:35:27",
+  "lastUpdate": "06-01-2025 , 02:07:12",
   "data": [
     {
-      "title": "Stuttgart Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stuttgart%20Ajax",
+      "title": "Stuttgart  Ajax",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stuttgart%20%20Ajax",
       "pubdate": "Sun, 05 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
       "pubdate": "Sun, 05 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Sneeuw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
-      "pubdate": "Sun, 05 Jan 2025 07:00:00 +0100"
     },
     {
       "title": "Schiphol",
@@ -100,6 +95,11 @@
       "title": "Michael van Gerwen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Gerwen",
       "pubdate": "Tue, 31 Dec 2024 03:00:00 +0100"
+    },
+    {
+      "title": "Van Gerwen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
+      "pubdate": "Tue, 31 Dec 2024 07:00:00 +0100"
     }
   ]
 }
