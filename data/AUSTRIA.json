@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "06-01-2025 , 11:35:45",
+  "lastUpdate": "06-01-2025 , 12:58:35",
   "data": [
     {
       "title": "6. JÄNNER Feiertag",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#6.%20J%C3%84NNER%20Feiertag",
       "pubdate": "Mon, 06 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "NFL-Playoffs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL-Playoffs",
+      "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "CES 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CES%202025",
+      "pubdate": "Mon, 06 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Axel Stein",
@@ -22,14 +32,19 @@
       "pubdate": "Mon, 06 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Liverpool – ManUnited",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20%E2%80%93%20ManUnited",
-      "pubdate": "Sun, 05 Jan 2025 00:00:00 +0100"
+      "title": "Christoph Knasmüllner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christoph%20Knasm%C3%BCllner",
+      "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Alexander Pröll",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Pr%C3%B6ll",
       "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Liverpool – ManUnited",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool%20%E2%80%93%20ManUnited",
+      "pubdate": "Sun, 05 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Stefanie Davis",
@@ -62,24 +77,9 @@
       "pubdate": "Sun, 05 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-      "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "PSG – Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG%20%E2%80%93%20Monaco",
-      "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Zib",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zib",
-      "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Wendy Holdener",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wendy%20Holdener",
-      "pubdate": "Sun, 05 Jan 2025 14:00:00 +0100"
+      "title": "HMPV virus China",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HMPV%20virus%20China",
+      "pubdate": "Sun, 05 Jan 2025 01:00:00 +0100"
     },
     {
       "title": "The Vivienne",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
     },
     {
+      "title": "Wendy Holdener",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wendy%20Holdener",
+      "pubdate": "Sun, 05 Jan 2025 14:00:00 +0100"
+    },
+    {
       "title": "Glöcklerlauf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gl%C3%B6cklerlauf",
       "pubdate": "Sun, 05 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Der Palast",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20Palast",
-      "pubdate": "Sun, 05 Jan 2025 03:00:00 +0100"
     }
   ]
 }
