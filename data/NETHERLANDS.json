@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 23:35:26",
+  "lastUpdate": "07-01-2025 , 01:59:55",
   "data": [
     {
       "title": "Emma Heesters",
@@ -7,14 +7,19 @@
       "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Stefano Keizers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stefano%20Keizers",
-      "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
+      "title": "Zendaya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zendaya",
+      "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Trudeau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trudeau",
       "pubdate": "Mon, 06 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Stefano Keizers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stefano%20Keizers",
+      "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Winter Vol Liefde",
@@ -32,16 +37,6 @@
       "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Nationaal Archief",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
-      "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Zendaya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zendaya",
-      "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
-    },
-    {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AC%20Milan",
       "pubdate": "Mon, 06 Jan 2025 23:00:00 +0100"
@@ -57,9 +52,9 @@
       "pubdate": "Mon, 06 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "Files",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Files",
-      "pubdate": "Mon, 06 Jan 2025 17:00:00 +0100"
+      "title": "Big Brother",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Big%20Brother",
+      "pubdate": "Mon, 06 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Vacatures",
@@ -72,16 +67,6 @@
       "pubdate": "Mon, 06 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Big Brother",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Big%20Brother",
-      "pubdate": "Mon, 06 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "CES 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CES%202025",
-      "pubdate": "Mon, 06 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Jaike belfor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jaike%20belfor",
       "pubdate": "Mon, 06 Jan 2025 23:00:00 +0100"
@@ -92,14 +77,29 @@
       "pubdate": "Sun, 05 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Golden Globes 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Golden%20Globes%202025",
-      "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
+      "title": "FC Twente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+      "pubdate": "Sun, 05 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Schiphol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
-      "pubdate": "Sun, 05 Jan 2025 20:00:00 +0100"
+      "title": "Wie is de Mol",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wie%20is%20de%20Mol",
+      "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Willem van Kooten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20van%20Kooten",
+      "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Amersfoort",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
+      "pubdate": "Fri, 03 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Van Gerwen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
+      "pubdate": "Thu, 02 Jan 2025 07:00:00 +0100"
     }
   ]
 }

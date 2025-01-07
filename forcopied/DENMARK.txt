@@ -1,1 +1,1 @@
-Maps,Office 365,LinkedIn,The Substance,Outlook,Docs,Slope,TikTok,Economic,Messenger,Chat,Zendaya,Real Madrid,Nikki Glaser,Snake,Justin Trudeau,Word,Timothée Chalamet,Mail,Classroom
+ChatGPT,Maps,Office 365,LinkedIn,The Substance,Outlook,Docs,Canva,Slope,Zendaya,TikTok,CVR,Messenger,Chat,Justin Trudeau,Nikki Glaser,Real Madrid,Snake,Word,Timothée Chalamet

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 23:35:22",
+  "lastUpdate": "07-01-2025 , 01:59:50",
   "data": [
     {
       "title": "CBC News",
@@ -7,9 +7,9 @@
       "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "CBC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CBC",
-      "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
+      "title": "Zendaya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
+      "pubdate": "Mon, 06 Jan 2025 00:00:00 -0500"
     },
     {
       "title": "Justin Trudeau demission",
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 06 Jan 2025 09:00:00 -0500"
     },
     {
-      "title": "Zendaya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
-      "pubdate": "Mon, 06 Jan 2025 00:00:00 -0500"
+      "title": "LinkedIn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LinkedIn",
+      "pubdate": "Mon, 06 Jan 2025 20:00:00 -0500"
     },
     {
       "title": "Nikki Glaser Golden Globes",
@@ -42,9 +42,9 @@
       "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
     },
     {
-      "title": "Epic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic",
-      "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+      "pubdate": "Mon, 06 Jan 2025 14:00:00 -0500"
     },
     {
       "title": "CTV",
@@ -52,9 +52,14 @@
       "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
-      "pubdate": "Mon, 06 Jan 2025 14:00:00 -0500"
+      "title": "Global News",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Global%20News",
+      "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
+    },
+    {
+      "title": "Classroom",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Classroom",
+      "pubdate": "Mon, 06 Jan 2025 09:00:00 -0500"
     },
     {
       "title": "Adrien Brody",
@@ -67,6 +72,11 @@
       "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
     },
     {
+      "title": "National Post",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#National%20Post",
+      "pubdate": "Mon, 06 Jan 2025 17:00:00 -0500"
+    },
+    {
       "title": "Drive",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drive",
       "pubdate": "Mon, 06 Jan 2025 14:00:00 -0500"
@@ -77,19 +87,9 @@
       "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "TVA Nouvelle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TVA%20Nouvelle",
-      "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
-    },
-    {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AC%20Milan",
       "pubdate": "Mon, 06 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Canvas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canvas",
-      "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
     },
     {
       "title": "Pierre Trudeau",
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
     },
     {
-      "title": "CES 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CES%202025",
-      "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
+      "title": "Canvas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canvas",
+      "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
     }
   ]
 }
