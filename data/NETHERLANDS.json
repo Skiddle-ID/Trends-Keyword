@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 11:35:51",
+  "lastUpdate": "07-01-2025 , 12:58:30",
   "data": [
     {
       "title": "Tibet",
@@ -22,8 +22,13 @@
       "pubdate": "Tue, 07 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Winter Vol Liefde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Winter%20Vol%20Liefde",
+      "title": "Kensington",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kensington",
+      "pubdate": "Tue, 07 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Winter vol liefde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Winter%20vol%20liefde",
       "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
     },
     {
@@ -52,19 +57,9 @@
       "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Elon%20Musk",
-      "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Jaike belfor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jaike%20belfor",
       "pubdate": "Mon, 06 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Microsoft 365",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Microsoft%20365",
-      "pubdate": "Mon, 06 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Vacatures",
@@ -100,6 +95,11 @@
       "title": "Michael van Gerwen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Gerwen",
       "pubdate": "Thu, 02 Jan 2025 03:00:00 +0100"
+    },
+    {
+      "title": "Luke Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luke%20Littler",
+      "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
     }
   ]
 }

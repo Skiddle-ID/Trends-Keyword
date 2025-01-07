@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 11:35:50",
+  "lastUpdate": "07-01-2025 , 12:58:29",
   "data": [
     {
       "title": "ヒトメタニューモウイルス感染症",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 07 Jan 2025 00:00:00 +0900"
     },
     {
+      "title": "衛藤美彩",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A1%9B%E8%97%A4%E7%BE%8E%E5%BD%A9",
+      "pubdate": "Tue, 07 Jan 2025 10:00:00 +0900"
+    },
+    {
       "title": "春の七草",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%98%A5%E3%81%AE%E4%B8%83%E8%8D%89",
       "pubdate": "Tue, 07 Jan 2025 03:00:00 +0900"
-    },
-    {
-      "title": "ジェラードン 海野",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%89%E3%83%B3%20%E6%B5%B7%E9%87%8E",
-      "pubdate": "Tue, 07 Jan 2025 01:00:00 +0900"
     },
     {
       "title": "御堂筋線",
@@ -37,19 +37,14 @@
       "pubdate": "Tue, 07 Jan 2025 01:00:00 +0900"
     },
     {
-      "title": "退職代行",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%80%80%E8%81%B7%E4%BB%A3%E8%A1%8C",
-      "pubdate": "Tue, 07 Jan 2025 06:00:00 +0900"
-    },
-    {
       "title": "NVIDIA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NVIDIA",
       "pubdate": "Tue, 07 Jan 2025 15:00:00 +0900"
     },
     {
-      "title": "魔法使いの約束",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%E3%81%AE%E7%B4%84%E6%9D%9F",
-      "pubdate": "Tue, 07 Jan 2025 09:00:00 +0900"
+      "title": "退職代行",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%80%80%E8%81%B7%E4%BB%A3%E8%A1%8C",
+      "pubdate": "Tue, 07 Jan 2025 06:00:00 +0900"
     },
     {
       "title": "吉沢亮",
@@ -64,11 +59,6 @@
     {
       "title": "DeepL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#DeepL",
-      "pubdate": "Mon, 06 Jan 2025 16:00:00 +0900"
-    },
-    {
-      "title": "地図",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9C%B0%E5%9B%B3",
       "pubdate": "Mon, 06 Jan 2025 16:00:00 +0900"
     },
     {
@@ -92,6 +82,11 @@
       "pubdate": "Mon, 06 Jan 2025 14:00:00 +0900"
     },
     {
+      "title": "弾道ミサイル",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%BC%BE%E9%81%93%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%AB",
+      "pubdate": "Mon, 06 Jan 2025 17:00:00 +0900"
+    },
+    {
       "title": "神田明神",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%A5%9E%E7%94%B0%E6%98%8E%E7%A5%9E",
       "pubdate": "Mon, 06 Jan 2025 15:00:00 +0900"
@@ -100,6 +95,11 @@
       "title": "新年の挨拶",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%96%B0%E5%B9%B4%E3%81%AE%E6%8C%A8%E6%8B%B6",
       "pubdate": "Mon, 06 Jan 2025 11:00:00 +0900"
+    },
+    {
+      "title": "箱根",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9",
+      "pubdate": "Mon, 06 Jan 2025 21:00:00 +0900"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Nvidia stock,Alm. Brand,Calculator,Bring,Kathy Bates,ChatGPT,Maps,Golden Globes,Office 365,LinkedIn,The Substance,Outlook,Docs,Canva,Zendaya,Slope,TikTok,Justin Trudeau,Economic,CVR
+Nvidia stock,Alm. Brand,Calculator,Adam Brody,Bring,Kathy Bates,News,ChatGPT,Maps,LinkedIn,The Substance,Outlook,NVIDIA,Office 365,Zendaya,Docs,Canva,Slope,Justin Trudeau,TikTok

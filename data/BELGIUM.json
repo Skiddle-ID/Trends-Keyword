@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "07-01-2025 , 11:35:45",
+  "lastUpdate": "07-01-2025 , 12:58:25",
   "data": [
+    {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nvidia",
+      "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Reverso",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Reverso",
@@ -10,16 +15,6 @@
       "title": "BYD",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BYD",
       "pubdate": "Tue, 07 Jan 2025 02:00:00 +0100"
-    },
-    {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nvidia",
-      "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "David Goffin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
-      "pubdate": "Tue, 07 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Tibet",
@@ -47,8 +42,8 @@
       "pubdate": "Tue, 07 Jan 2025 08:00:00 +0100"
     },
     {
-      "title": "Inter Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Milan",
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AC%20Milan",
       "pubdate": "Mon, 06 Jan 2025 20:00:00 +0100"
     },
     {
@@ -60,11 +55,6 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
       "pubdate": "Mon, 06 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "LinkedIn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LinkedIn",
-      "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Justin Trudeau",
@@ -82,14 +72,19 @@
       "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "Zendaya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zendaya",
+      "pubdate": "Mon, 06 Jan 2025 18:00:00 +0100"
+    },
+    {
       "title": "Big Brother",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Big%20Brother",
       "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Zendaya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zendaya",
-      "pubdate": "Mon, 06 Jan 2025 18:00:00 +0100"
+      "title": "Teams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Teams",
+      "pubdate": "Mon, 06 Jan 2025 10:00:00 +0100"
     },
     {
       "title": "Timothée Chalamet",
@@ -100,6 +95,11 @@
       "title": "Dirk Van Tilt overleden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dirk%20Van%20Tilt%20overleden",
       "pubdate": "Mon, 06 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Benoit Allemane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benoit%20Allemane",
+      "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
     }
   ]
 }

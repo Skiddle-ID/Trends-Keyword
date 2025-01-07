@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "07-01-2025 , 11:35:45",
+  "lastUpdate": "07-01-2025 , 12:58:25",
   "data": [
-    {
-      "title": "NVIDIA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NVIDIA",
-      "pubdate": "Tue, 07 Jan 2025 14:00:00 +1100"
-    },
     {
       "title": "Sutton Foster",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sutton%20Foster",
       "pubdate": "Tue, 07 Jan 2025 17:00:00 +1100"
     },
     {
-      "title": "Ariana Grande",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ariana%20Grande",
-      "pubdate": "Tue, 07 Jan 2025 02:00:00 +1100"
+      "title": "NVIDIA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NVIDIA",
+      "pubdate": "Tue, 07 Jan 2025 14:00:00 +1100"
     },
     {
       "title": "Nepal earthquake today",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nepal%20earthquake%20today",
       "pubdate": "Tue, 07 Jan 2025 16:00:00 +1100"
+    },
+    {
+      "title": "Ariana Grande",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ariana%20Grande",
+      "pubdate": "Tue, 07 Jan 2025 02:00:00 +1100"
     },
     {
       "title": "Caulfield Racecourse fire",
@@ -35,6 +35,16 @@
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
       "pubdate": "Tue, 07 Jan 2025 10:00:00 +1100"
+    },
+    {
+      "title": "Rottnest Island",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rottnest%20Island",
+      "pubdate": "Tue, 07 Jan 2025 23:00:00 +1100"
+    },
+    {
+      "title": "Scorchers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scorchers",
+      "pubdate": "Tue, 07 Jan 2025 20:00:00 +1100"
     },
     {
       "title": "Brisbane Heat",
@@ -57,16 +67,6 @@
       "pubdate": "Tue, 07 Jan 2025 12:00:00 +1100"
     },
     {
-      "title": "Nottingham Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nottingham%20Forest",
-      "pubdate": "Tue, 07 Jan 2025 12:00:00 +1100"
-    },
-    {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FA%20Cup",
-      "pubdate": "Tue, 07 Jan 2025 01:00:00 +1100"
-    },
-    {
       "title": "Nvidia stock",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia%20stock",
       "pubdate": "Tue, 07 Jan 2025 17:00:00 +1100"
@@ -77,9 +77,9 @@
       "pubdate": "Tue, 07 Jan 2025 15:00:00 +1100"
     },
     {
-      "title": "WWE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE",
-      "pubdate": "Tue, 07 Jan 2025 16:00:00 +1100"
+      "title": "Nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nottingham%20Forest",
+      "pubdate": "Tue, 07 Jan 2025 12:00:00 +1100"
     },
     {
       "title": "Greenland",
@@ -87,19 +87,19 @@
       "pubdate": "Tue, 07 Jan 2025 17:00:00 +1100"
     },
     {
-      "title": "Ostapenko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ostapenko",
-      "pubdate": "Tue, 07 Jan 2025 18:00:00 +1100"
-    },
-    {
-      "title": "The bear",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20bear",
-      "pubdate": "Tue, 07 Jan 2025 00:00:00 +1100"
+      "title": "WWE",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WWE",
+      "pubdate": "Tue, 07 Jan 2025 16:00:00 +1100"
     },
     {
       "title": "Adelaide United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20United",
       "pubdate": "Tue, 07 Jan 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Golden Globes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Golden%20Globes",
+      "pubdate": "Mon, 06 Jan 2025 01:00:00 +1100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 11:35:47",
+  "lastUpdate": "07-01-2025 , 12:58:27",
   "data": [
     {
       "title": "NVIDIA",
@@ -17,9 +17,24 @@
       "pubdate": "Tue, 07 Jan 2025 09:00:00 +0200"
     },
     {
+      "title": "Nvidia stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+      "pubdate": "Tue, 07 Jan 2025 11:00:00 +0200"
+    },
+    {
       "title": "Teams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teams",
       "pubdate": "Tue, 07 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Word",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Word",
+      "pubdate": "Tue, 07 Jan 2025 13:00:00 +0200"
+    },
+    {
+      "title": "OnePlus 13",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#OnePlus%2013",
+      "pubdate": "Tue, 07 Jan 2025 13:00:00 +0200"
     },
     {
       "title": "Wolverhampton – Nottingham Forest",
@@ -35,11 +50,6 @@
       "title": "Golden Globes 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Golden%20Globes%202025",
       "pubdate": "Mon, 06 Jan 2025 03:00:00 +0200"
-    },
-    {
-      "title": "Golden Globes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Golden%20Globes",
-      "pubdate": "Mon, 06 Jan 2025 12:00:00 +0200"
     },
     {
       "title": "The Substance",
@@ -72,11 +82,6 @@
       "pubdate": "Mon, 06 Jan 2025 01:00:00 +0200"
     },
     {
-      "title": "Ozempic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ozempic",
-      "pubdate": "Mon, 06 Jan 2025 16:00:00 +0200"
-    },
-    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
       "pubdate": "Mon, 06 Jan 2025 21:00:00 +0200"
@@ -87,14 +92,9 @@
       "pubdate": "Mon, 06 Jan 2025 23:00:00 +0200"
     },
     {
-      "title": "Norma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Norma",
+      "title": "NORMA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NORMA",
       "pubdate": "Mon, 06 Jan 2025 22:00:00 +0200"
-    },
-    {
-      "title": "Sean Connery",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sean%20Connery",
-      "pubdate": "Mon, 06 Jan 2025 00:00:00 +0200"
     },
     {
       "title": "Jumanji",
