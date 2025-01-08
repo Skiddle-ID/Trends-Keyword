@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 23:35:27",
+  "lastUpdate": "08-01-2025 , 01:58:06",
   "data": [
     {
       "title": "Greenland",
@@ -7,18 +7,23 @@
       "pubdate": "Wed, 08 Jan 2025 02:00:00 +0800"
     },
     {
-      "title": "Zendaya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zendaya",
-      "pubdate": "Tue, 07 Jan 2025 02:00:00 +0800"
-    },
-    {
       "title": "Arsenal vs Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Newcastle",
       "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
     },
     {
+      "title": "Zendaya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zendaya",
+      "pubdate": "Tue, 07 Jan 2025 02:00:00 +0800"
+    },
+    {
       "title": "Tibet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tibet",
+      "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
+    },
+    {
+      "title": "EFL Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#EFL%20Cup",
       "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
     },
     {
@@ -27,9 +32,9 @@
       "pubdate": "Tue, 07 Jan 2025 14:00:00 +0800"
     },
     {
-      "title": "EFL Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#EFL%20Cup",
-      "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
+      "title": "George Leong",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#George%20Leong",
+      "pubdate": "Tue, 07 Jan 2025 22:00:00 +0800"
     },
     {
       "title": "Real Madrid",
@@ -45,6 +50,11 @@
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AC%20Milan",
       "pubdate": "Tue, 07 Jan 2025 10:00:00 +0800"
+    },
+    {
+      "title": "CES",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CES",
+      "pubdate": "Tue, 07 Jan 2025 08:00:00 +0800"
     },
     {
       "title": "Tencent",
@@ -90,16 +100,6 @@
       "title": "Justin Trudeau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Justin%20Trudeau",
       "pubdate": "Mon, 06 Jan 2025 16:00:00 +0800"
-    },
-    {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
-      "pubdate": "Mon, 06 Jan 2025 23:00:00 +0800"
-    },
-    {
-      "title": "Fock Siew Wah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fock%20Siew%20Wah",
-      "pubdate": "Mon, 06 Jan 2025 23:00:00 +0800"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 23:35:25",
+  "lastUpdate": "08-01-2025 , 01:58:05",
   "data": [
     {
       "title": "Snøfreser",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Arsenal mot Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Newcastle",
-      "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Farmen kjendis 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen%20kjendis%202025",
       "pubdate": "Tue, 07 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+      "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Jean-Marie Le Pen",
@@ -27,23 +27,18 @@
       "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Tibet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tibet",
-      "pubdate": "Tue, 07 Jan 2025 10:00:00 +0100"
-    },
-    {
       "title": "Ida Fladen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ida%20Fladen",
       "pubdate": "Tue, 07 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Norge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge",
-      "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
+      "title": "Tibet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tibet",
+      "pubdate": "Tue, 07 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "Nottingham Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nottingham%20Forest",
+      "title": "Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge",
       "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
     },
     {
@@ -52,19 +47,24 @@
       "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nottingham%20Forest",
+      "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
+    },
+    {
       "title": "USA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#USA",
       "pubdate": "Tue, 07 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Sandra Lyng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandra%20Lyng",
-      "pubdate": "Tue, 07 Jan 2025 09:00:00 +0100"
-    },
-    {
       "title": "Charlie Hebdo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Charlie%20Hebdo",
       "pubdate": "Tue, 07 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Sandra Lyng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandra%20Lyng",
+      "pubdate": "Tue, 07 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Ruter forsinkelser",
@@ -77,6 +77,11 @@
       "pubdate": "Tue, 07 Jan 2025 09:00:00 +0100"
     },
     {
+      "title": "The Last of Us",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Last%20of%20Us",
+      "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
+    },
+    {
       "title": "Kath Phipps",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kath%20Phipps",
       "pubdate": "Tue, 07 Jan 2025 08:00:00 +0100"
@@ -85,11 +90,6 @@
       "title": "Sarpsborg Arbeiderblad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%20Arbeiderblad",
       "pubdate": "Tue, 07 Jan 2025 07:00:00 +0100"
-    },
-    {
-      "title": "The Last of Us",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Last%20of%20Us",
-      "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Måke snø",
