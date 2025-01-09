@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 11:35:52",
+  "lastUpdate": "09-01-2025 , 12:58:19",
   "data": [
     {
       "title": "Tottenham vs Liverpool",
@@ -7,14 +7,24 @@
       "pubdate": "Thu, 09 Jan 2025 04:00:00 +0800"
     },
     {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool",
+      "pubdate": "Thu, 09 Jan 2025 05:00:00 +0800"
+    },
+    {
       "title": "Athletic Club vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Athletic%20Club%20vs%20Barcelona",
       "pubdate": "Thu, 09 Jan 2025 03:00:00 +0800"
     },
     {
-      "title": "La Fire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Fire",
+      "title": "La fire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20fire",
       "pubdate": "Thu, 09 Jan 2025 08:00:00 +0800"
+    },
+    {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+      "pubdate": "Thu, 09 Jan 2025 05:00:00 +0800"
     },
     {
       "title": "Barcelona",
@@ -25,21 +35,6 @@
       "title": "Supercopa de España",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Supercopa%20de%20Espa%C3%B1a",
       "pubdate": "Thu, 09 Jan 2025 03:00:00 +0800"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-      "pubdate": "Thu, 09 Jan 2025 06:00:00 +0800"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-      "pubdate": "Thu, 09 Jan 2025 05:00:00 +0800"
-    },
-    {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-      "pubdate": "Thu, 09 Jan 2025 07:00:00 +0800"
     },
     {
       "title": "Antonín kinský",
@@ -100,6 +95,11 @@
       "title": "Zendaya",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zendaya",
       "pubdate": "Tue, 07 Jan 2025 08:00:00 +0800"
+    },
+    {
+      "title": "RTX 5070",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RTX%205070",
+      "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
     }
   ]
 }
