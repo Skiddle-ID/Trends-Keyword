@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 23:35:25",
+  "lastUpdate": "09-01-2025 , 02:28:38",
   "data": [
     {
       "title": "Tottenham vs Liverpool",
@@ -42,6 +42,11 @@
       "pubdate": "Wed, 08 Jan 2025 07:00:00 +0800"
     },
     {
+      "title": "Discord",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Discord",
+      "pubdate": "Wed, 08 Jan 2025 19:00:00 +0800"
+    },
+    {
       "title": "New Zealand vs Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20Sri%20Lanka",
       "pubdate": "Wed, 08 Jan 2025 10:00:00 +0800"
@@ -62,14 +67,14 @@
       "pubdate": "Wed, 08 Jan 2025 22:00:00 +0800"
     },
     {
-      "title": "Jaecoo J7 PHEV malaysia details",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jaecoo%20J7%20PHEV%20malaysia%20details",
-      "pubdate": "Wed, 08 Jan 2025 11:00:00 +0800"
-    },
-    {
       "title": "Wang Xing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wang%20Xing",
       "pubdate": "Wed, 08 Jan 2025 17:00:00 +0800"
+    },
+    {
+      "title": "Jaecoo J7 PHEV malaysia details",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jaecoo%20J7%20PHEV%20malaysia%20details",
+      "pubdate": "Wed, 08 Jan 2025 11:00:00 +0800"
     },
     {
       "title": "Wolves vs nottm Forest",
@@ -95,11 +100,6 @@
       "title": "RTX 5070",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#RTX%205070",
       "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
-    },
-    {
-      "title": "Copa del Rey",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Copa%20del%20Rey",
-      "pubdate": "Tue, 07 Jan 2025 11:00:00 +0800"
     }
   ]
 }

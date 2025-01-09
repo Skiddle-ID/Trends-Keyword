@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "08-01-2025 , 23:35:20",
+  "lastUpdate": "09-01-2025 , 02:28:33",
   "data": [
-    {
-      "title": "Tottenham vs Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Liverpool",
-      "pubdate": "Wed, 08 Jan 2025 15:00:00 -0500"
-    },
     {
       "title": "Leafs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
@@ -15,6 +10,11 @@
       "title": "Athletic Club vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Athletic%20Club%20vs%20Barcelona",
       "pubdate": "Wed, 08 Jan 2025 14:00:00 -0500"
+    },
+    {
+      "title": "Frank and Oak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Frank%20and%20Oak",
+      "pubdate": "Wed, 08 Jan 2025 16:00:00 -0500"
     },
     {
       "title": "Ontario colleges faculty strike",
@@ -32,19 +32,19 @@
       "pubdate": "Wed, 08 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Brian Matusz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brian%20Matusz",
-      "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
-    },
-    {
       "title": "Steve Guttenberg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steve%20Guttenberg",
       "pubdate": "Wed, 08 Jan 2025 06:00:00 -0500"
     },
     {
-      "title": "The Rookie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Rookie",
+      "title": "Brian Matusz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brian%20Matusz",
       "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
+    },
+    {
+      "title": "James Woods",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Woods",
+      "pubdate": "Wed, 08 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Lincoln",
@@ -52,14 +52,14 @@
       "pubdate": "Wed, 08 Jan 2025 10:00:00 -0500"
     },
     {
+      "title": "The Rookie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Rookie",
+      "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
+    },
+    {
       "title": "Elvis Presley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elvis%20Presley",
       "pubdate": "Wed, 08 Jan 2025 11:00:00 -0500"
-    },
-    {
-      "title": "James Woods",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Woods",
-      "pubdate": "Wed, 08 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Supercopa de España",
@@ -72,8 +72,18 @@
       "pubdate": "Wed, 08 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Boston Bruins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
+      "title": "Jessica Alba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jessica%20Alba",
+      "pubdate": "Wed, 08 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "Cher",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cher",
+      "pubdate": "Wed, 08 Jan 2025 15:00:00 -0500"
+    },
+    {
+      "title": "BostonBruins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BostonBruins",
       "pubdate": "Wed, 08 Jan 2025 15:00:00 -0500"
     },
     {
@@ -82,24 +92,14 @@
       "pubdate": "Wed, 08 Jan 2025 04:00:00 -0500"
     },
     {
-      "title": "Cher",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cher",
-      "pubdate": "Wed, 08 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Iran",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Iran",
-      "pubdate": "Wed, 08 Jan 2025 02:00:00 -0500"
+      "title": "Santa Monica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Santa%20Monica",
+      "pubdate": "Wed, 08 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Severance Season 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severance%20Season%202",
       "pubdate": "Wed, 08 Jan 2025 03:00:00 -0500"
-    },
-    {
-      "title": "High-potential",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#High-potential",
-      "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
     }
   ]
 }

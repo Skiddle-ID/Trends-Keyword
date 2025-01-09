@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-01-2025 , 23:35:21",
+  "lastUpdate": "09-01-2025 , 02:28:34",
   "data": [
+    {
+      "title": "Barcelona vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs",
+      "pubdate": "Wed, 08 Jan 2025 15:00:00 -0300"
+    },
     {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
@@ -17,9 +22,19 @@
       "pubdate": "Wed, 08 Jan 2025 18:00:00 -0300"
     },
     {
+      "title": "California",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#California",
+      "pubdate": "Wed, 08 Jan 2025 19:00:00 -0300"
+    },
+    {
       "title": "David Bowie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#David%20Bowie",
       "pubdate": "Wed, 08 Jan 2025 09:00:00 -0300"
+    },
+    {
+      "title": "Camiseta Colo Colo 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Camiseta%20Colo%20Colo%202025",
+      "pubdate": "Wed, 08 Jan 2025 21:00:00 -0300"
     },
     {
       "title": "Elvis Presley",
@@ -35,11 +50,6 @@
       "title": "Río atmosférico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#R%C3%ADo%20atmosf%C3%A9rico",
       "pubdate": "Wed, 08 Jan 2025 18:00:00 -0300"
-    },
-    {
-      "title": "California",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#California",
-      "pubdate": "Wed, 08 Jan 2025 19:00:00 -0300"
     },
     {
       "title": "Nishesh Basavareddy",
@@ -77,6 +87,11 @@
       "pubdate": "Tue, 07 Jan 2025 14:00:00 -0300"
     },
     {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nvidia",
+      "pubdate": "Tue, 07 Jan 2025 10:00:00 -0300"
+    },
+    {
       "title": "Pablo Muñoz Hoffman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pablo%20Mu%C3%B1oz%20Hoffman",
       "pubdate": "Tue, 07 Jan 2025 02:00:00 -0300"
@@ -85,21 +100,6 @@
       "title": "Miss Universo Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Miss%20Universo%20Argentina",
       "pubdate": "Tue, 07 Jan 2025 17:00:00 -0300"
-    },
-    {
-      "title": "Nvidia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nvidia",
-      "pubdate": "Tue, 07 Jan 2025 10:00:00 -0300"
-    },
-    {
-      "title": "Temblor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
-      "pubdate": "Tue, 07 Jan 2025 10:00:00 -0300"
-    },
-    {
-      "title": "Barcelona vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs",
-      "pubdate": "Mon, 06 Jan 2025 20:00:00 -0300"
     }
   ]
 }

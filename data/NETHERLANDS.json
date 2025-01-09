@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "08-01-2025 , 23:35:25",
+  "lastUpdate": "09-01-2025 , 02:28:38",
   "data": [
+    {
+      "title": "Jan-Dirk Paarlberg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan-Dirk%20Paarlberg",
+      "pubdate": "Thu, 09 Jan 2025 01:00:00 +0100"
+    },
     {
       "title": "Tygo Gernandt",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tygo%20Gernandt",
@@ -15,11 +20,6 @@
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
       "pubdate": "Wed, 08 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Nationaal Archief",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
-      "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Sneeuw",
@@ -42,9 +42,19 @@
       "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "Edwin Rutten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Edwin%20Rutten",
+      "pubdate": "Wed, 08 Jan 2025 23:00:00 +0100"
+    },
+    {
       "title": "Pickleball",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pickleball",
       "pubdate": "Wed, 08 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Crypto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Crypto",
+      "pubdate": "Tue, 07 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "OnePlus 13",
@@ -90,16 +100,6 @@
       "title": "Van Gerwen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
       "pubdate": "Thu, 02 Jan 2025 07:00:00 +0100"
-    },
-    {
-      "title": "Michael van Gerwen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Gerwen",
-      "pubdate": "Thu, 02 Jan 2025 03:00:00 +0100"
-    },
-    {
-      "title": "Luke Littler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luke%20Littler",
-      "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 23:35:27",
+  "lastUpdate": "09-01-2025 , 02:28:40",
   "data": [
     {
       "title": "Tottenham vs Liverpool",
@@ -17,9 +17,19 @@
       "pubdate": "Thu, 09 Jan 2025 03:00:00 +0800"
     },
     {
-      "title": "La Fire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#La%20Fire",
+      "title": "Supercopa de España",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Supercopa%20de%20Espa%C3%B1a",
+      "pubdate": "Thu, 09 Jan 2025 08:00:00 +0800"
+    },
+    {
+      "title": "La fire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#La%20fire",
       "pubdate": "Wed, 08 Jan 2025 19:00:00 +0800"
+    },
+    {
+      "title": "Carabao Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
+      "pubdate": "Wed, 08 Jan 2025 12:00:00 +0800"
     },
     {
       "title": "Greenland",
@@ -30,11 +40,6 @@
       "title": "COE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
       "pubdate": "Wed, 08 Jan 2025 16:00:00 +0800"
-    },
-    {
-      "title": "Admiralty Secondary School",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Admiralty%20Secondary%20School",
-      "pubdate": "Wed, 08 Jan 2025 18:00:00 +0800"
     },
     {
       "title": "FA Cup",
@@ -50,11 +55,6 @@
       "title": "Gulf of Mexico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gulf%20of%20Mexico",
       "pubdate": "Wed, 08 Jan 2025 15:00:00 +0800"
-    },
-    {
-      "title": "Micron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
-      "pubdate": "Wed, 08 Jan 2025 21:00:00 +0800"
     },
     {
       "title": "OnePlus 13",
