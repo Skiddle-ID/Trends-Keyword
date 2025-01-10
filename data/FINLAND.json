@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "10-01-2025 , 11:35:59",
+  "lastUpdate": "10-01-2025 , 12:58:01",
   "data": [
+    {
+      "title": "American Primeval",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#American%20Primeval",
+      "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+    },
     {
       "title": "Jimmy Carter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jimmy%20Carter",
@@ -22,6 +27,11 @@
       "pubdate": "Thu, 09 Jan 2025 22:00:00 +0200"
     },
     {
+      "title": "Andrew Tate",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andrew%20Tate",
+      "pubdate": "Thu, 09 Jan 2025 19:00:00 +0200"
+    },
+    {
       "title": "Babygirl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Babygirl",
       "pubdate": "Thu, 09 Jan 2025 23:00:00 +0200"
@@ -30,11 +40,6 @@
       "title": "FA Cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FA%20Cup",
       "pubdate": "Thu, 09 Jan 2025 23:00:00 +0200"
-    },
-    {
-      "title": "UMK 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UMK%202025",
-      "pubdate": "Wed, 08 Jan 2025 18:00:00 +0200"
     },
     {
       "title": "Los Angeles",
@@ -57,9 +62,9 @@
       "pubdate": "Wed, 08 Jan 2025 22:00:00 +0200"
     },
     {
-      "title": "Discord not opening",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discord%20not%20opening",
-      "pubdate": "Wed, 08 Jan 2025 17:00:00 +0200"
+      "title": "Goldilocks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Goldilocks",
+      "pubdate": "Wed, 08 Jan 2025 21:00:00 +0200"
     },
     {
       "title": "Trump",
@@ -95,11 +100,6 @@
       "title": "Office 365",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Office%20365",
       "pubdate": "Tue, 07 Jan 2025 11:00:00 +0200"
-    },
-    {
-      "title": "Jean-Marie Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jean-Marie%20Le%20Pen",
-      "pubdate": "Tue, 07 Jan 2025 15:00:00 +0200"
     }
   ]
 }

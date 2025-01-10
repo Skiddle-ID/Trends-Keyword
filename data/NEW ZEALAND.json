@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "10-01-2025 , 11:36:02",
+  "lastUpdate": "10-01-2025 , 12:58:05",
   "data": [
+    {
+      "title": "Anita Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anita%20Bryant",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +1300"
+    },
+    {
+      "title": "Mel Gibson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mel%20Gibson",
+      "pubdate": "Sat, 11 Jan 2025 01:00:00 +1300"
+    },
     {
       "title": "Hollywood sign",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hollywood%20sign",
@@ -22,14 +32,14 @@
       "pubdate": "Fri, 10 Jan 2025 15:00:00 +1300"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-      "pubdate": "Fri, 10 Jan 2025 10:00:00 +1300"
-    },
-    {
       "title": "Jimmy Carter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jimmy%20Carter",
       "pubdate": "Fri, 10 Jan 2025 13:00:00 +1300"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
+      "pubdate": "Fri, 10 Jan 2025 10:00:00 +1300"
     },
     {
       "title": "American Primeval",
@@ -42,6 +52,16 @@
       "pubdate": "Fri, 10 Jan 2025 15:00:00 +1300"
     },
     {
+      "title": "Rye",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rye",
+      "pubdate": "Fri, 10 Jan 2025 17:00:00 +1300"
+    },
+    {
+      "title": "Richard Hammond",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Richard%20Hammond",
+      "pubdate": "Fri, 10 Jan 2025 20:00:00 +1300"
+    },
+    {
       "title": "Gael Monfils",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gael%20Monfils",
       "pubdate": "Fri, 10 Jan 2025 19:00:00 +1300"
@@ -50,11 +70,6 @@
       "title": "Mortgage rates",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortgage%20rates",
       "pubdate": "Fri, 10 Jan 2025 19:00:00 +1300"
-    },
-    {
-      "title": "Richard Hammond",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Richard%20Hammond",
-      "pubdate": "Fri, 10 Jan 2025 20:00:00 +1300"
     },
     {
       "title": "Tesla",
@@ -85,21 +100,6 @@
       "title": "Boxing",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Boxing",
       "pubdate": "Thu, 09 Jan 2025 00:00:00 +1300"
-    },
-    {
-      "title": "La times",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20times",
-      "pubdate": "Thu, 09 Jan 2025 19:00:00 +1300"
-    },
-    {
-      "title": "Super Smash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Super%20Smash",
-      "pubdate": "Thu, 09 Jan 2025 20:00:00 +1300"
-    },
-    {
-      "title": "Rottnest Island seaplane crash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rottnest%20Island%20seaplane%20crash",
-      "pubdate": "Thu, 09 Jan 2025 02:00:00 +1300"
     }
   ]
 }
