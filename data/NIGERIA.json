@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "09-01-2025 , 23:35:25",
+  "lastUpdate": "10-01-2025 , 02:05:27",
   "data": [
+    {
+      "title": "First Bank",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#First%20Bank",
+      "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Rangers fc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers%20fc",
+      "pubdate": "Fri, 10 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid vs Mallorca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Mallorca",
+      "pubdate": "Thu, 09 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Everton vs Peterborough",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs%20Peterborough",
@@ -27,14 +42,14 @@
       "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers",
-      "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "Film",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Film",
       "pubdate": "Thu, 09 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Omar Marmoush",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omar%20Marmoush",
+      "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Saudi Pro League",
@@ -42,9 +57,9 @@
       "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Omar Marmoush",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omar%20Marmoush",
-      "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
+      "title": "Vitor Reis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vitor%20Reis",
+      "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "LFC",
@@ -57,11 +72,6 @@
       "pubdate": "Wed, 08 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Real Madrid vs Mallorca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Mallorca",
-      "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Athletic Club vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Athletic%20Club%20vs%20Barcelona",
       "pubdate": "Wed, 08 Jan 2025 20:00:00 +0100"
@@ -72,13 +82,13 @@
       "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Los Angeles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Los%20Angeles",
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
       "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
+      "title": "Los Angeles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Los%20Angeles",
       "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     },
     {
@@ -87,19 +97,9 @@
       "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Celtic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
-      "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Kobbie Mainoo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kobbie%20Mainoo",
-      "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "John Mahama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#John%20Mahama",
-      "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
+      "title": "Supercopa de España",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Supercopa%20de%20Espa%C3%B1a",
+      "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
     }
   ]
 }
