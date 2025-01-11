@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "10-01-2025 , 23:35:23",
+  "lastUpdate": "11-01-2025 , 01:57:53",
   "data": [
     {
-      "title": "Dortmund  Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20%20Leverkusen",
+      "title": "Dortmund - Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dortmund%20-%20Leverkusen",
       "pubdate": "Fri, 10 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Aston Villa  West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20%20West%20Ham",
+      "pubdate": "Fri, 10 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Lazio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio",
+      "pubdate": "Fri, 10 Jan 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Rayo Vallecano  Celta de Vigo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20%20Celta%20de%20Vigo",
+      "pubdate": "Fri, 10 Jan 2025 19:00:00 -0300"
     },
     {
       "title": "La Niña",
@@ -27,11 +42,6 @@
       "pubdate": "Fri, 10 Jan 2025 12:00:00 -0300"
     },
     {
-      "title": "Lazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio",
-      "pubdate": "Fri, 10 Jan 2025 19:00:00 -0300"
-    },
-    {
       "title": "Ben Affleck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben%20Affleck",
       "pubdate": "Fri, 10 Jan 2025 00:00:00 -0300"
@@ -47,19 +57,19 @@
       "pubdate": "Fri, 10 Jan 2025 17:00:00 -0300"
     },
     {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
-      "pubdate": "Fri, 10 Jan 2025 19:00:00 -0300"
-    },
-    {
-      "title": "Venezuela hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela%20hoy",
-      "pubdate": "Thu, 09 Jan 2025 18:00:00 -0300"
+      "title": "Myriam hernandez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Myriam%20hernandez",
+      "pubdate": "Fri, 10 Jan 2025 22:00:00 -0300"
     },
     {
       "title": "Venezuela",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela",
       "pubdate": "Thu, 09 Jan 2025 05:00:00 -0300"
+    },
+    {
+      "title": "Venezuela hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezuela%20hoy",
+      "pubdate": "Thu, 09 Jan 2025 18:00:00 -0300"
     },
     {
       "title": "Metro de Santiago",
@@ -90,16 +100,6 @@
       "title": "Wanda Nara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanda%20Nara",
       "pubdate": "Thu, 09 Jan 2025 16:00:00 -0300"
-    },
-    {
-      "title": "Al Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-      "pubdate": "Thu, 09 Jan 2025 15:00:00 -0300"
-    },
-    {
-      "title": "Eduard Bello",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduard%20Bello",
-      "pubdate": "Thu, 09 Jan 2025 22:00:00 -0300"
     }
   ]
 }

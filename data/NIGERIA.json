@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "10-01-2025 , 23:35:27",
+  "lastUpdate": "11-01-2025 , 01:57:59",
   "data": [
+    {
+      "title": "Uma Ukpai",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Uma%20Ukpai",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Aston Villa vs West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20West%20Ham",
-      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FA%20Cup",
       "pubdate": "Fri, 10 Jan 2025 09:00:00 +0100"
     },
     {
@@ -37,14 +37,14 @@
       "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Finland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Finland",
-      "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
-    },
-    {
       "title": "Abdukodir Khusanov",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Abdukodir%20Khusanov",
       "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Finland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Finland",
+      "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
     },
     {
       "title": "Moses Bliss",
@@ -52,24 +52,19 @@
       "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Ham",
-      "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Black Panther",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Black%20Panther",
-      "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Everton vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs",
       "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Trump",
       "pubdate": "Fri, 10 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Everton vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs",
+      "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Everton vs Peterborough",
@@ -100,6 +95,11 @@
       "title": "California fire",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#California%20fire",
       "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Fulham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham",
+      "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
     }
   ]
 }
