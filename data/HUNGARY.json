@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "11-01-2025 , 11:35:41",
+  "lastUpdate": "11-01-2025 , 12:54:36",
   "data": [
+    {
+      "title": "Liverpool–Accrington",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93Accrington",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Év Autója",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89v%20Aut%C3%B3ja",
       "pubdate": "Sat, 11 Jan 2025 02:00:00 +0100"
     },
     {
+      "title": "Molnár Gusztáv",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Guszt%C3%A1v",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Fekete Dávid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20D%C3%A1vid",
       "pubdate": "Sat, 11 Jan 2025 06:00:00 +0100"
-    },
-    {
-      "title": "Strasser Tibor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Strasser%20Tibor",
-      "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Magyar Péter bejelentés",
@@ -27,14 +32,14 @@
       "pubdate": "Fri, 10 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Benedek Miklós",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedek%20Mikl%C3%B3s",
-      "pubdate": "Fri, 10 Jan 2025 04:00:00 +0100"
-    },
-    {
       "title": "Osvárt Andrea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Osv%C3%A1rt%20Andrea",
       "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Benedek Miklós",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benedek%20Mikl%C3%B3s",
+      "pubdate": "Fri, 10 Jan 2025 04:00:00 +0100"
     },
     {
       "title": "Nyugdíj",
@@ -47,19 +52,9 @@
       "pubdate": "Fri, 10 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Meta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meta",
-      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Alice Weidel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alice%20Weidel",
       "pubdate": "Fri, 10 Jan 2025 06:00:00 +0100"
-    },
-    {
-      "title": "Bag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bag",
-      "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "M1 baleset",
@@ -67,14 +62,14 @@
       "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
     },
     {
+      "title": "Bag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bag",
+      "pubdate": "Fri, 10 Jan 2025 14:00:00 +0100"
+    },
+    {
       "title": "Robert Fico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20Fico",
       "pubdate": "Fri, 10 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Mel Gibson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mel%20Gibson",
-      "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Radar",
@@ -100,6 +95,11 @@
       "title": "Real madrid–mallorca",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20madrid%E2%80%93mallorca",
       "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Los Angeles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Los%20Angeles",
+      "pubdate": "Thu, 09 Jan 2025 15:00:00 +0100"
     }
   ]
 }

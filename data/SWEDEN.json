@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-01-2025 , 11:35:47",
+  "lastUpdate": "11-01-2025 , 12:54:40",
   "data": [
+    {
+      "title": "Ski Classics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ski%20Classics",
+      "pubdate": "Sat, 11 Jan 2025 12:00:00 +0100"
+    },
     {
       "title": "Aston Villa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
@@ -14,6 +19,11 @@
     {
       "title": "Magnus Uggla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Magnus%20Uggla",
+      "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Frida Gustavsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Frida%20Gustavsson",
       "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
     },
     {
@@ -62,19 +72,14 @@
       "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
-      "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Alice Weidel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Weidel",
-      "pubdate": "Fri, 10 Jan 2025 02:00:00 +0100"
-    },
-    {
       "title": "Mel Gibson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mel%20Gibson",
       "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Everton",
+      "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Olivia Schough",
@@ -95,11 +100,6 @@
       "title": "David Ritschard",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Ritschard",
       "pubdate": "Thu, 09 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "American Primeval",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#American%20Primeval",
-      "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
     }
   ]
 }
