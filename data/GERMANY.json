@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "11-01-2025 , 23:35:28",
+  "lastUpdate": "12-01-2025 , 02:11:14",
   "data": [
     {
-      "title": "Bayern München",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20M%C3%BCnchen",
-      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+      "title": "AfD parteitag Riesa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD%20parteitag%20Riesa",
+      "pubdate": "Sat, 11 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "St. Pauli",
@@ -12,9 +12,9 @@
       "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "AfD-Parteitag Riesa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Parteitag%20Riesa",
-      "pubdate": "Sat, 11 Jan 2025 11:00:00 +0100"
+      "title": "Handball",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Los Angeles Waldbrände",
@@ -30,11 +30,6 @@
       "title": "Maul- und Klauenseuche Brandenburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maul-%20und%20Klauenseuche%20Brandenburg",
       "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Öltanker Rügen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96ltanker%20R%C3%BCgen",
-      "pubdate": "Fri, 10 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Schnee",
@@ -100,6 +95,11 @@
       "title": "Petition Böllerverbot",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Petition%20B%C3%B6llerverbot",
       "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Luke Littler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Littler",
+      "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
     }
   ]
 }

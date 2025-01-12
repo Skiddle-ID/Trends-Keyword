@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 23:35:34",
+  "lastUpdate": "12-01-2025 , 02:11:21",
   "data": [
     {
       "title": "111",
@@ -37,6 +37,11 @@
       "pubdate": "Sat, 11 Jan 2025 17:00:00 +0800"
     },
     {
+      "title": "魚夫",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AD%9A%E5%A4%AB",
+      "pubdate": "Sat, 11 Jan 2025 21:00:00 +0800"
+    },
+    {
       "title": "全聯魷魚遊戲",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%A8%E8%81%AF%E9%AD%B7%E9%AD%9A%E9%81%8A%E6%88%B2",
       "pubdate": "Sat, 11 Jan 2025 15:00:00 +0800"
@@ -72,19 +77,14 @@
       "pubdate": "Fri, 10 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "合歡山",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%88%E6%AD%A1%E5%B1%B1",
-      "pubdate": "Fri, 10 Jan 2025 08:00:00 +0800"
-    },
-    {
-      "title": "星巴克買一送一",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B2%B7%E4%B8%80%E9%80%81%E4%B8%80",
-      "pubdate": "Fri, 10 Jan 2025 15:00:00 +0800"
-    },
-    {
       "title": "非農就業數據",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9D%9E%E8%BE%B2%E5%B0%B1%E6%A5%AD%E6%95%B8%E6%93%9A",
       "pubdate": "Fri, 10 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "合歡山",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%88%E6%AD%A1%E5%B1%B1",
+      "pubdate": "Fri, 10 Jan 2025 08:00:00 +0800"
     },
     {
       "title": "卡特",
