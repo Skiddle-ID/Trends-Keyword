@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 11:35:16",
+  "lastUpdate": "12-01-2025 , 12:54:21",
   "data": [
     {
       "title": "India Women vs Ireland Women",
@@ -22,6 +22,11 @@
       "pubdate": "Sun, 12 Jan 2025 06:30:00 +0530"
     },
     {
+      "title": "BCCI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BCCI",
+      "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
+    },
+    {
       "title": "Australian Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australian%20Open",
       "pubdate": "Sun, 12 Jan 2025 11:30:00 +0530"
@@ -37,29 +42,34 @@
       "pubdate": "Sun, 12 Jan 2025 10:30:00 +0530"
     },
     {
-      "title": "DMart Q3 Results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#DMart%20Q3%20Results",
-      "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
-    },
-    {
-      "title": "Real Madrid vs FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20FC%20Barcelona",
-      "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
-    },
-    {
       "title": "Anand Mahindra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anand%20Mahindra",
       "pubdate": "Sun, 12 Jan 2025 12:30:00 +0530"
     },
     {
+      "title": "DMart Q3 Results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#DMart%20Q3%20Results",
+      "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
+    },
+    {
+      "title": "Vinod Kambli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vinod%20Kambli",
+      "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
+    },
+    {
+      "title": "Yograj Singh",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Yograj%20Singh",
+      "pubdate": "Sun, 12 Jan 2025 17:30:00 +0530"
+    },
+    {
+      "title": "Sookshmadarshini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sookshmadarshini",
+      "pubdate": "Sat, 11 Jan 2025 15:30:00 +0530"
+    },
+    {
       "title": "Los Angeles news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Los%20Angeles%20news",
       "pubdate": "Sat, 11 Jan 2025 01:30:00 +0530"
-    },
-    {
-      "title": "Dasun Shanaka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dasun%20Shanaka",
-      "pubdate": "Sat, 11 Jan 2025 07:30:00 +0530"
     },
     {
       "title": "Game Changer",
@@ -77,19 +87,9 @@
       "pubdate": "Fri, 10 Jan 2025 02:30:00 +0530"
     },
     {
-      "title": "NTA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NTA",
-      "pubdate": "Fri, 10 Jan 2025 20:30:00 +0530"
-    },
-    {
       "title": "Black warrant",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Black%20warrant",
       "pubdate": "Fri, 10 Jan 2025 19:30:00 +0530"
-    },
-    {
-      "title": "IND-W vs IRE-W",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND-W%20vs%20IRE-W",
-      "pubdate": "Fri, 10 Jan 2025 14:30:00 +0530"
     },
     {
       "title": "Jemimah Rodrigues",
@@ -97,9 +97,9 @@
       "pubdate": "Fri, 10 Jan 2025 22:30:00 +0530"
     },
     {
-      "title": "Toyota Innova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Toyota%20Innova",
-      "pubdate": "Fri, 10 Jan 2025 23:30:00 +0530"
+      "title": "IND-W vs IRE-W",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND-W%20vs%20IRE-W",
+      "pubdate": "Fri, 10 Jan 2025 14:30:00 +0530"
     }
   ]
 }
