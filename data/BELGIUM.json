@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2025 , 11:36:10",
+  "lastUpdate": "13-01-2025 , 12:59:55",
   "data": [
     {
       "title": "TEC",
@@ -12,14 +12,14 @@
       "pubdate": "Mon, 13 Jan 2025 02:00:00 +0100"
     },
     {
+      "title": "David Goffin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
+      "pubdate": "Mon, 13 Jan 2025 11:00:00 +0100"
+    },
+    {
       "title": "Radio 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Radio%201",
       "pubdate": "Mon, 13 Jan 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Staking",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Staking",
-      "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
     },
     {
       "title": "Bluesky",
@@ -32,14 +32,19 @@
       "pubdate": "Mon, 13 Jan 2025 01:00:00 +0100"
     },
     {
+      "title": "Sven Vanthourenhout",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sven%20Vanthourenhout",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0100"
+    },
+    {
       "title": "Pleine Lune",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pleine%20Lune",
       "pubdate": "Mon, 13 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "Psg  Saint-Étienne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Psg%20%20Saint-%C3%89tienne",
-      "pubdate": "Mon, 13 Jan 2025 10:00:00 +0100"
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
+      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Real Madrid",
@@ -77,6 +82,11 @@
       "pubdate": "Sun, 12 Jan 2025 19:00:00 +0100"
     },
     {
+      "title": "Thibau Nys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thibau%20Nys",
+      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+    },
+    {
       "title": "Tine Embrechts",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tine%20Embrechts",
       "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Australian Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Australian%20Open",
       "pubdate": "Sun, 12 Jan 2025 09:00:00 +0100"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC",
-      "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
-    },
-    {
-      "title": "Sparta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sparta",
-      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
     }
   ]
 }
