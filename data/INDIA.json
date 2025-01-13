@@ -1,25 +1,15 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:38",
+  "lastUpdate": "13-01-2025 , 02:07:56",
   "data": [
     {
-      "title": "Barca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barca",
-      "pubdate": "Mon, 13 Jan 2025 02:30:00 +0530"
-    },
-    {
-      "title": "Lohri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lohri",
+      "title": "Lohri 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lohri%202025",
       "pubdate": "Mon, 13 Jan 2025 01:30:00 +0530"
     },
     {
       "title": "Real Madrid vs Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Barcelona",
       "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
-    },
-    {
-      "title": "Arsenal vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal%20vs%20Man%20United",
-      "pubdate": "Sun, 12 Jan 2025 20:30:00 +0530"
     },
     {
       "title": "FA Cup",
@@ -37,6 +27,11 @@
       "pubdate": "Sun, 12 Jan 2025 22:30:00 +0530"
     },
     {
+      "title": "Barcelona vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Real%20Madrid",
+      "pubdate": "Sun, 12 Jan 2025 21:30:00 +0530"
+    },
+    {
       "title": "Madha Gaja Raja",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Madha%20Gaja%20Raja",
       "pubdate": "Sun, 12 Jan 2025 10:30:00 +0530"
@@ -45,11 +40,6 @@
       "title": "Australian Open",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australian%20Open",
       "pubdate": "Sun, 12 Jan 2025 11:30:00 +0530"
-    },
-    {
-      "title": "Ajith Kumar racing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith%20Kumar%20racing",
-      "pubdate": "Sun, 12 Jan 2025 18:30:00 +0530"
     },
     {
       "title": "Anand Mahindra",
@@ -62,9 +52,9 @@
       "pubdate": "Sun, 12 Jan 2025 00:30:00 +0530"
     },
     {
-      "title": "Mohammed Shami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Shami",
-      "pubdate": "Sun, 12 Jan 2025 10:30:00 +0530"
+      "title": "Ajith Kumar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith%20Kumar",
+      "pubdate": "Sun, 12 Jan 2025 22:30:00 +0530"
     },
     {
       "title": "DMart Q3 Results",
@@ -72,19 +62,19 @@
       "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
     },
     {
-      "title": "Game Changer box office collection day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20box%20office%20collection%20day",
+      "title": "Ajith Kumar Racing",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith%20Kumar%20Racing",
+      "pubdate": "Sun, 12 Jan 2025 18:30:00 +0530"
+    },
+    {
+      "title": "Game Changer Box Office collection Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20Box%20Office%20collection%20Day",
       "pubdate": "Sat, 11 Jan 2025 22:30:00 +0530"
     },
     {
       "title": "Los Angeles news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Los%20Angeles%20news",
       "pubdate": "Sat, 11 Jan 2025 01:30:00 +0530"
-    },
-    {
-      "title": "Tiku Talsania",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tiku%20Talsania",
-      "pubdate": "Sat, 11 Jan 2025 16:30:00 +0530"
     },
     {
       "title": "Bengaluru",
@@ -100,6 +90,16 @@
       "title": "Game Changer Box Office Collection",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20Box%20Office%20Collection",
       "pubdate": "Fri, 10 Jan 2025 23:30:00 +0530"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FA%20Cup",
+      "pubdate": "Fri, 10 Jan 2025 02:30:00 +0530"
+    },
+    {
+      "title": "Jemimah Rodrigues",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jemimah%20Rodrigues",
+      "pubdate": "Fri, 10 Jan 2025 22:30:00 +0530"
     }
   ]
 }

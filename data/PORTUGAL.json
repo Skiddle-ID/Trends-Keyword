@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:41",
+  "lastUpdate": "13-01-2025 , 02:08:00",
   "data": [
+    {
+      "title": "Combustíveis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Combust%C3%ADveis",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
+    },
     {
       "title": "Nacional  Porto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nacional%20%20Porto",
@@ -17,9 +22,9 @@
       "pubdate": "Sun, 12 Jan 2025 14:00:00 +0000"
     },
     {
-      "title": "FC Porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FC%20Porto",
-      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0000"
+      "title": "Real Madrid vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20vs%20Barcelona",
+      "pubdate": "Sun, 12 Jan 2025 16:00:00 +0000"
     },
     {
       "title": "Princesa Leonor",
@@ -27,9 +32,9 @@
       "pubdate": "Sun, 12 Jan 2025 02:00:00 +0000"
     },
     {
-      "title": "Desporto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Desporto",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0000"
+      "title": "Gil Vicente-Moreirense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente-Moreirense",
+      "pubdate": "Sun, 12 Jan 2025 19:00:00 +0000"
     },
     {
       "title": "Flamengo  Boavista",
@@ -37,9 +42,9 @@
       "pubdate": "Sun, 12 Jan 2025 19:00:00 +0000"
     },
     {
-      "title": "Gil Vicente-Moreirense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente-Moreirense",
-      "pubdate": "Sun, 12 Jan 2025 19:00:00 +0000"
+      "title": "Sporting hoje",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20hoje",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0000"
     },
     {
       "title": "Gato",
@@ -47,14 +52,19 @@
       "pubdate": "Sun, 12 Jan 2025 16:00:00 +0000"
     },
     {
+      "title": "Casa Pia  Rio Ave",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casa%20Pia%20%20Rio%20Ave",
+      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0000"
+    },
+    {
       "title": "Sport Lisboa e Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
       "pubdate": "Sun, 12 Jan 2025 19:00:00 +0000"
     },
     {
-      "title": "Casa Pia  Rio Ave",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Casa%20Pia%20%20Rio%20Ave",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0000"
+      "title": "PSG  Saint-Étienne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSG%20%20Saint-%C3%89tienne",
+      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0000"
     },
     {
       "title": "Porto B  Portimonense",
@@ -62,9 +72,14 @@
       "pubdate": "Sun, 12 Jan 2025 13:00:00 +0000"
     },
     {
-      "title": "Martim Moniz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Martim%20Moniz",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0000"
+      "title": "Barcelona FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20FC",
+      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0000"
+    },
+    {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AC%20Milan",
+      "pubdate": "Sun, 12 Jan 2025 16:00:00 +0000"
     },
     {
       "title": "Ciclone",
@@ -77,29 +92,14 @@
       "pubdate": "Sun, 12 Jan 2025 15:00:00 +0000"
     },
     {
+      "title": "Rafael Maravilha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20Maravilha",
+      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0000"
+    },
+    {
       "title": "Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
       "pubdate": "Sun, 12 Jan 2025 09:00:00 +0000"
-    },
-    {
-      "title": "Futebol clube do porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20clube%20do%20porto",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0000"
-    },
-    {
-      "title": "Atlético Madrid  Osasuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Osasuna",
-      "pubdate": "Sun, 12 Jan 2025 16:00:00 +0000"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
-      "pubdate": "Sun, 12 Jan 2025 02:00:00 +0000"
-    },
-    {
-      "title": "Australian Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Australian%20Open",
-      "pubdate": "Sun, 12 Jan 2025 15:00:00 +0000"
     }
   ]
 }

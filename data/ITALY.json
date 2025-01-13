@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:38",
+  "lastUpdate": "13-01-2025 , 02:07:57",
   "data": [
+    {
+      "title": "Paolo Cognetti",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paolo%20Cognetti",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Virtus Bologna  Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Virtus%20Bologna%20%20Napoli",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Real Madrid-Barcellona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid-Barcellona",
@@ -22,6 +32,11 @@
       "pubdate": "Sun, 12 Jan 2025 16:00:00 +0100"
     },
     {
+      "title": "Mina Settembre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mina%20Settembre",
+      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "Salernitana  Sassuolo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana%20%20Sassuolo",
       "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
@@ -32,8 +47,8 @@
       "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Brescia - Sampdoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia%20-%20Sampdoria",
+      "title": "Brescia-Sampdoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brescia-Sampdoria",
       "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
     },
     {
@@ -42,19 +57,14 @@
       "pubdate": "Sun, 12 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Patty Pravo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Patty%20Pravo",
-      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Mina Settembre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mina%20Settembre",
-      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Attacco hacker Intesa Sanpaolo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Attacco%20hacker%20Intesa%20Sanpaolo",
       "pubdate": "Sun, 12 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Patty Pravo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Patty%20Pravo",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Ornella Vanoni",
@@ -62,19 +72,9 @@
       "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Ramy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ramy",
-      "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
-    },
-    {
       "title": "Garnacho",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Garnacho",
       "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Palermo  Modena",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20%20Modena",
-      "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Kings League",
@@ -82,14 +82,14 @@
       "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Vlahovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vlahovic",
-      "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
+      "title": "Ramy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ramy",
+      "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Naike Rivelli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Naike%20Rivelli",
-      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+      "title": "Palermo  Modena",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20%20Modena",
+      "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Alberto Costa",
@@ -97,8 +97,8 @@
       "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Walker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Walker",
+      "title": "Vlahovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vlahovic",
       "pubdate": "Sun, 12 Jan 2025 01:00:00 +0100"
     }
   ]

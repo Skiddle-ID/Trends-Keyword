@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:39",
+  "lastUpdate": "13-01-2025 , 02:07:58",
   "data": [
     {
       "title": "Temblor hoy",
@@ -12,9 +12,14 @@
       "pubdate": "Sun, 12 Jan 2025 03:00:00 -0600"
     },
     {
-      "title": "Bills - Broncos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20-%20Broncos",
+      "title": "Bills  Broncos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bills%20%20Broncos",
       "pubdate": "Sun, 12 Jan 2025 12:00:00 -0600"
+    },
+    {
+      "title": "Eagles  Packers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eagles%20%20Packers",
+      "pubdate": "Sun, 12 Jan 2025 16:00:00 -0600"
     },
     {
       "title": "Atlético Madrid  Osasuna",
@@ -32,14 +37,19 @@
       "pubdate": "Sun, 12 Jan 2025 09:00:00 -0600"
     },
     {
-      "title": "Bolonia  Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bolonia%20%20Roma",
-      "pubdate": "Sun, 12 Jan 2025 13:00:00 -0600"
-    },
-    {
       "title": "PSG - Saint-Étienne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG%20-%20Saint-%C3%89tienne",
       "pubdate": "Sun, 12 Jan 2025 15:00:00 -0600"
+    },
+    {
+      "title": "Enrique Peña Nieto en Egipto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Enrique%20Pe%C3%B1a%20Nieto%20en%20Egipto",
+      "pubdate": "Sun, 12 Jan 2025 14:00:00 -0600"
+    },
+    {
+      "title": "Bolonia  Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bolonia%20%20Roma",
+      "pubdate": "Sun, 12 Jan 2025 13:00:00 -0600"
     },
     {
       "title": "Wojciech Szczęsny",
@@ -47,28 +57,13 @@
       "pubdate": "Sun, 12 Jan 2025 15:00:00 -0600"
     },
     {
-      "title": "Eagles  Packers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eagles%20%20Packers",
-      "pubdate": "Sun, 12 Jan 2025 16:00:00 -0600"
-    },
-    {
-      "title": "Monterrey vs Puebla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monterrey%20vs%20Puebla",
-      "pubdate": "Sun, 12 Jan 2025 01:00:00 -0600"
-    },
-    {
-      "title": "Peña Nieto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pe%C3%B1a%20Nieto",
-      "pubdate": "Sun, 12 Jan 2025 14:00:00 -0600"
-    },
-    {
       "title": "Venezia  Inter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Venezia%20%20Inter",
       "pubdate": "Sun, 12 Jan 2025 10:00:00 -0600"
     },
     {
-      "title": "Noticias de hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Noticias%20de%20hoy",
+      "title": "Noticias de Hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Noticias%20de%20Hoy",
       "pubdate": "Sun, 12 Jan 2025 10:00:00 -0600"
     },
     {
@@ -77,9 +72,9 @@
       "pubdate": "Sun, 12 Jan 2025 15:00:00 -0600"
     },
     {
-      "title": "Terremoto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Terremoto",
-      "pubdate": "Sun, 12 Jan 2025 03:00:00 -0600"
+      "title": "Nevado de Toluca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nevado%20de%20Toluca",
+      "pubdate": "Sun, 12 Jan 2025 16:00:00 -0600"
     },
     {
       "title": "Luna llena enero 2025",
@@ -95,6 +90,11 @@
       "title": "Kylian Mbappé",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Kylian%20Mbapp%C3%A9",
       "pubdate": "Sun, 12 Jan 2025 14:00:00 -0600"
+    },
+    {
+      "title": "Derrick Henry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Derrick%20Henry",
+      "pubdate": "Sun, 12 Jan 2025 18:00:00 -0600"
     },
     {
       "title": "Zayn Malik",

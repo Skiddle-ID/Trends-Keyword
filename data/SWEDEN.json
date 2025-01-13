@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:43",
+  "lastUpdate": "13-01-2025 , 02:08:01",
   "data": [
     {
       "title": "Real Madrid",
@@ -17,14 +17,14 @@
       "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
-      "pubdate": "Sun, 12 Jan 2025 03:00:00 +0100"
-    },
-    {
       "title": "Rory Sykes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rory%20Sykes",
       "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
+      "pubdate": "Sun, 12 Jan 2025 03:00:00 +0100"
     },
     {
       "title": "Henrik Landerholm",
@@ -37,19 +37,29 @@
       "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Andreas Almgren",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Almgren",
-      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Folk och försvar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Folk%20och%20f%C3%B6rsvar",
       "pubdate": "Sun, 12 Jan 2025 19:00:00 +0100"
     },
     {
+      "title": "Andreas Almgren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Almgren",
+      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Harvey Weinstein",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harvey%20Weinstein",
+      "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Simon Olsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20Olsson",
       "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
+      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Sport",
@@ -62,19 +72,9 @@
       "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "handbolls-VM",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#handbolls-VM",
-      "pubdate": "Sun, 12 Jan 2025 09:00:00 +0100"
-    },
-    {
       "title": "Janne Schaffer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Janne%20Schaffer",
       "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Sigge Eklund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sigge%20Eklund",
-      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "FA-cup",
@@ -82,14 +82,14 @@
       "pubdate": "Sat, 11 Jan 2025 15:00:00 +0100"
     },
     {
+      "title": "Sigge Eklund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sigge%20Eklund",
+      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
+    },
+    {
       "title": "Ida Dahl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ida%20Dahl",
       "pubdate": "Sat, 11 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-      "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Sutton Foster",
@@ -97,9 +97,9 @@
       "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "IBK Lund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IBK%20Lund",
-      "pubdate": "Sat, 11 Jan 2025 17:00:00 +0100"
+      "title": "Ski Classics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ski%20Classics",
+      "pubdate": "Sat, 11 Jan 2025 12:00:00 +0100"
     }
   ]
 }

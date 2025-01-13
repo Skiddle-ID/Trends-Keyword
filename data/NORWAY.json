@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:40",
+  "lastUpdate": "13-01-2025 , 02:07:59",
   "data": [
     {
       "title": "Jordskjelv Norge",
@@ -7,9 +7,9 @@
       "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
+      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Tøyenbadet",
@@ -22,9 +22,9 @@
       "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Smp",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Smp",
-      "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
+      "title": "Casper Ruud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+      "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
     },
     {
       "title": "Gen Z",
@@ -47,11 +47,6 @@
       "pubdate": "Sun, 12 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Casper Ruud",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
-      "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
-    },
-    {
       "title": "NFL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NFL",
       "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
@@ -60,11 +55,6 @@
       "title": "Søm kirke",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#S%C3%B8m%20kirke",
       "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Patagonia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patagonia",
-      "pubdate": "Sun, 12 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Kyle Walker",
@@ -99,6 +89,16 @@
     {
       "title": "Sander Eitrem",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Eitrem",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Grotto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grotto",
+      "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
       "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
     }
   ]

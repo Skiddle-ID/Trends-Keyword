@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:35",
+  "lastUpdate": "13-01-2025 , 02:07:54",
   "data": [
     {
       "title": "Real Madrid  Barcelona",
@@ -22,8 +22,8 @@
       "pubdate": "Sun, 12 Jan 2025 07:00:00 +0100"
     },
     {
-      "title": "Barca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barca",
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
       "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
     },
     {
@@ -35,11 +35,6 @@
       "title": "Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
       "pubdate": "Sun, 12 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "BYD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
-      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Bitcoin",
@@ -62,14 +57,14 @@
       "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FA%20Cup",
-      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Liverpool  Accrington",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Accrington",
       "pubdate": "Sat, 11 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FA%20Cup",
+      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Man City  Salford City",
@@ -100,6 +95,11 @@
       "title": "Rio Ngumoha",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rio%20Ngumoha",
       "pubdate": "Sat, 11 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Gen Z",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gen%20Z",
+      "pubdate": "Sat, 11 Jan 2025 00:00:00 +0100"
     }
   ]
 }

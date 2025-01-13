@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "12-01-2025 , 23:35:44",
+  "lastUpdate": "13-01-2025 , 02:08:02",
   "data": [
     {
       "title": "Newcastle",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
       "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Man city vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20city%20vs",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Napoli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Napoli",
+      "pubdate": "Mon, 13 Jan 2025 08:00:00 +0700"
+    },
+    {
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
+      "pubdate": "Mon, 13 Jan 2025 06:00:00 +0700"
     },
     {
       "title": "Real Madrid đấu với Barcelona",
@@ -19,11 +34,6 @@
     {
       "title": "Mu vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mu%20vs",
-      "pubdate": "Sun, 12 Jan 2025 22:00:00 +0700"
-    },
-    {
-      "title": "Real vs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20vs",
       "pubdate": "Sun, 12 Jan 2025 22:00:00 +0700"
     },
     {
@@ -47,14 +57,14 @@
       "pubdate": "Sun, 12 Jan 2025 07:00:00 +0700"
     },
     {
-      "title": "Ro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ro",
-      "pubdate": "Sun, 12 Jan 2025 02:00:00 +0700"
-    },
-    {
       "title": "Park Ji Sung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Park%20Ji%20Sung",
       "pubdate": "Sun, 12 Jan 2025 01:00:00 +0700"
+    },
+    {
+      "title": "Chelsea vs Morecambe",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20vs%20Morecambe",
+      "pubdate": "Sun, 12 Jan 2025 00:00:00 +0700"
     },
     {
       "title": "Ac milan vs",
@@ -72,6 +82,11 @@
       "pubdate": "Sun, 12 Jan 2025 00:00:00 +0700"
     },
     {
+      "title": "Horizon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Horizon",
+      "pubdate": "Sun, 12 Jan 2025 14:00:00 +0700"
+    },
+    {
       "title": "Arsenal đấu với Man Utd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
       "pubdate": "Sat, 11 Jan 2025 20:00:00 +0700"
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 11 Jan 2025 19:00:00 +0700"
     },
     {
-      "title": "Chelsea đấu với Morecambe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Morecambe",
-      "pubdate": "Sat, 11 Jan 2025 22:00:00 +0700"
-    },
-    {
       "title": "Aston Villa đấu với West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20West%20Ham",
       "pubdate": "Sat, 11 Jan 2025 03:00:00 +0700"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
-      "pubdate": "Sat, 11 Jan 2025 20:00:00 +0700"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
-      "pubdate": "Sat, 11 Jan 2025 23:00:00 +0700"
     }
   ]
 }
