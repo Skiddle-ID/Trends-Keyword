@@ -1,1 +1,1 @@
-GPT,Lasse Hallström,Passage,Di,Loa Falkman,Office 365,Guldbaggegalan,Sportbladet,Teams,Shima Niavarani,Liz Cambage,Dagens industri,Spel,BYD,Alla hjärtans dag,Filipstad,Christina Schollin,Ur,Radio,Tyson Fury
+AI,Fredrik Wikingsson,GPT,Lasse Hallström,Passage,Filip Hammar,Di,Office 365,Sportbladet,Teams,Shima Niavarani,Loa Falkman,Guldbaggegalan,Liz Cambage,Spel,Jordbävning Japan,BYD,Filipstad,Alla hjärtans dag,Christina Schollin

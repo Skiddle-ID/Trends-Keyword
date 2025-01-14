@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "13-01-2025 , 23:35:44",
+  "lastUpdate": "14-01-2025 , 01:53:19",
   "data": [
+    {
+      "title": "Neil Gaiman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Neil%20Gaiman",
+      "pubdate": "Tue, 14 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Simon kjær",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simon%20kj%C3%A6r",
+      "pubdate": "Mon, 13 Jan 2025 07:00:00 +0100"
+    },
     {
       "title": "La Liga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
@@ -32,6 +42,11 @@
       "pubdate": "Mon, 13 Jan 2025 18:00:00 +0100"
     },
     {
+      "title": "TikTok ban",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok%20ban",
+      "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Brooke Shields",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brooke%20Shields",
       "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
@@ -42,19 +57,14 @@
       "pubdate": "Mon, 13 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "TikTok ban",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#TikTok%20ban",
-      "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
-    },
-    {
       "title": "Real Madrid  Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Barcelona",
-      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
+      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+      "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Sport Live",
@@ -90,16 +100,6 @@
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
       "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
-    },
-    {
-      "title": "BYD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
-      "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
-      "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
     }
   ]
 }

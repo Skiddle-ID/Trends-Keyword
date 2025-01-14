@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "13-01-2025 , 23:35:48",
+  "lastUpdate": "14-01-2025 , 01:53:23",
   "data": [
+    {
+      "title": "Frio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frio",
+      "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Pichardo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pichardo",
+      "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
+    },
     {
       "title": "Liga nos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20nos",
       "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Sismo japao tsunami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo%20japao%20tsunami",
-      "pubdate": "Mon, 13 Jan 2025 16:00:00 +0000"
-    },
-    {
-      "title": "Acidente ciclista Arruda dos Vinhos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20ciclista%20Arruda%20dos%20Vinhos",
-      "pubdate": "Mon, 13 Jan 2025 01:00:00 +0000"
+      "title": "Fadista Fernanda Maria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fadista%20Fernanda%20Maria",
+      "pubdate": "Mon, 13 Jan 2025 17:00:00 +0000"
     },
     {
       "title": "Ponte 25 de Abril",
@@ -22,9 +27,19 @@
       "pubdate": "Mon, 13 Jan 2025 14:00:00 +0000"
     },
     {
-      "title": "Daniel Sousa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Daniel%20Sousa",
-      "pubdate": "Mon, 13 Jan 2025 21:00:00 +0000"
+      "title": "Acidente ciclista Arruda dos Vinhos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20ciclista%20Arruda%20dos%20Vinhos",
+      "pubdate": "Mon, 13 Jan 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Renato Sanches",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Renato%20Sanches",
+      "pubdate": "Mon, 13 Jan 2025 23:00:00 +0000"
+    },
+    {
+      "title": "Alberto Costa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Costa",
+      "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
     },
     {
       "title": "Combustíveis",
@@ -37,9 +52,9 @@
       "pubdate": "Mon, 13 Jan 2025 09:00:00 +0000"
     },
     {
-      "title": "Alberto Costa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Costa",
-      "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
+      "title": "Oliviero Toscani",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliviero%20Toscani",
+      "pubdate": "Mon, 13 Jan 2025 13:00:00 +0000"
     },
     {
       "title": "Marca",
@@ -47,14 +62,9 @@
       "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Oliviero Toscani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliviero%20Toscani",
-      "pubdate": "Mon, 13 Jan 2025 13:00:00 +0000"
-    },
-    {
-      "title": "Joana Sobral",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Sobral",
-      "pubdate": "Mon, 13 Jan 2025 08:00:00 +0000"
+      "title": "Catarina Esparteiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Esparteiro",
+      "pubdate": "Mon, 13 Jan 2025 23:00:00 +0000"
     },
     {
       "title": "Luís Estiveira",
@@ -62,9 +72,9 @@
       "pubdate": "Mon, 13 Jan 2025 16:00:00 +0000"
     },
     {
-      "title": "Fadista Fernanda Maria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fadista%20Fernanda%20Maria",
-      "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
+      "title": "Joana Sobral",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joana%20Sobral",
+      "pubdate": "Mon, 13 Jan 2025 08:00:00 +0000"
     },
     {
       "title": "Nuno Borges",
@@ -77,29 +87,19 @@
       "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
     },
     {
+      "title": "Neil Gaiman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neil%20Gaiman",
+      "pubdate": "Mon, 13 Jan 2025 22:00:00 +0000"
+    },
+    {
       "title": "Got Talent Portugal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Got%20Talent%20Portugal",
       "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Pedro Malheiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Malheiro",
-      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
-    },
-    {
       "title": "Andres garcia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andres%20garcia",
       "pubdate": "Mon, 13 Jan 2025 19:00:00 +0000"
-    },
-    {
-      "title": "Open Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Open%20Australia",
-      "pubdate": "Mon, 13 Jan 2025 10:00:00 +0000"
-    },
-    {
-      "title": "Tirsense",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tirsense",
-      "pubdate": "Mon, 13 Jan 2025 08:00:00 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2025 , 23:35:45",
+  "lastUpdate": "14-01-2025 , 01:53:20",
   "data": [
     {
       "title": "宋慧喬",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 13 Jan 2025 04:00:00 +0800"
     },
     {
+      "title": "阿仙奴",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%98%BF%E4%BB%99%E5%A5%B4",
+      "pubdate": "Mon, 13 Jan 2025 03:00:00 +0800"
+    },
+    {
       "title": "泰國旅遊警示",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%B3%B0%E5%9C%8B%E6%97%85%E9%81%8A%E8%AD%A6%E7%A4%BA",
       "pubdate": "Mon, 13 Jan 2025 10:00:00 +0800"
@@ -42,14 +47,19 @@
       "pubdate": "Mon, 13 Jan 2025 12:00:00 +0800"
     },
     {
+      "title": "劉青雲",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%89%E9%9D%92%E9%9B%B2",
+      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0800"
+    },
+    {
       "title": "地震",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%9C%B0%E9%9C%87",
       "pubdate": "Mon, 13 Jan 2025 22:00:00 +0800"
     },
     {
-      "title": "劉青雲",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8A%89%E9%9D%92%E9%9B%B2",
-      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0800"
+      "title": "SHEIN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#SHEIN",
+      "pubdate": "Mon, 13 Jan 2025 21:00:00 +0800"
     },
     {
       "title": "蕭正楠",
@@ -65,11 +75,6 @@
       "title": "共創明Teen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%B1%E5%89%B5%E6%98%8ETeen",
       "pubdate": "Mon, 13 Jan 2025 10:00:00 +0800"
-    },
-    {
-      "title": "足總盃",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B6%B3%E7%B8%BD%E7%9B%83",
-      "pubdate": "Sun, 12 Jan 2025 09:00:00 +0800"
     },
     {
       "title": "山火",
@@ -95,11 +100,6 @@
       "title": "五堅情",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%BA%94%E5%A0%85%E6%83%85",
       "pubdate": "Sun, 12 Jan 2025 00:00:00 +0800"
-    },
-    {
-      "title": "吳若希",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%90%B3%E8%8B%A5%E5%B8%8C",
-      "pubdate": "Sun, 12 Jan 2025 22:00:00 +0800"
     }
   ]
 }
