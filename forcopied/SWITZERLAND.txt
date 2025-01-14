@@ -1,1 +1,1 @@
-Vendee Globe,Wawrinka,Brad Pitt,Capybara,Uwe Krupp,Neil Gaiman,Laurence Arné,Tyson Fury,PFAS,Nawaf Salam,Vollmond,Toscani,Pegasus Band,Novak Djokovic,Erdbeben Japan,Jannik Sinner,Bencic,Nick Kyrgios,WEF,Carlos Alcaraz
+Vendee Globe,Wawrinka,Brad Pitt,Capybara,Neil Gaiman,PFAS,Tyson Fury,Laurence Arné,Andrea Caroni,Nawaf Salam,Vollmond,Toscani,Pegasus Band,Novak Djokovic,Erdbeben Japan,Jannik Sinner,Bencic,Nick Kyrgios,WEF,Carlos Alcaraz

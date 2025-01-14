@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "14-01-2025 , 11:35:31",
+  "lastUpdate": "14-01-2025 , 12:55:48",
   "data": [
     {
       "title": "Frio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frio",
-      "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
-    },
-    {
-      "title": "Alexandra Leitão",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alexandra%20Leit%C3%A3o",
       "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
     },
     {
@@ -22,14 +17,24 @@
       "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Liga nos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20nos",
-      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
+      "title": "Rosa Bela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosa%20Bela",
+      "pubdate": "Tue, 14 Jan 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Dia da Defesa Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Defesa%20Nacional",
+      "pubdate": "Tue, 14 Jan 2025 09:00:00 +0000"
     },
     {
       "title": "Sismo japao tsunami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo%20japao%20tsunami",
       "pubdate": "Mon, 13 Jan 2025 16:00:00 +0000"
+    },
+    {
+      "title": "Liga nos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20nos",
+      "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
     },
     {
       "title": "Fadista Fernanda Maria",
@@ -52,14 +57,19 @@
       "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
     },
     {
+      "title": "Neil Gaiman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neil%20Gaiman",
+      "pubdate": "Mon, 13 Jan 2025 22:00:00 +0000"
+    },
+    {
       "title": "Combustíveis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Combust%C3%ADveis",
       "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Neil Gaiman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neil%20Gaiman",
-      "pubdate": "Mon, 13 Jan 2025 22:00:00 +0000"
+      "title": "Ilha Terceira",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ilha%20Terceira",
+      "pubdate": "Mon, 13 Jan 2025 09:00:00 +0000"
     },
     {
       "title": "Oliviero Toscani",
@@ -72,34 +82,24 @@
       "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Andres garcia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andres%20garcia",
-      "pubdate": "Mon, 13 Jan 2025 19:00:00 +0000"
-    },
-    {
       "title": "Open Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Open%20Australia",
       "pubdate": "Mon, 13 Jan 2025 10:00:00 +0000"
     },
     {
-      "title": "Got Talent Portugal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Got%20Talent%20Portugal",
-      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
-    },
-    {
-      "title": "Pedro Malheiro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Malheiro",
+      "title": "Luis Figo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Figo",
       "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Amkor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amkor",
-      "pubdate": "Mon, 13 Jan 2025 18:00:00 +0000"
+      "title": "Andres garcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Andres%20garcia",
+      "pubdate": "Mon, 13 Jan 2025 19:00:00 +0000"
     },
     {
-      "title": "Livraria Lello",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Livraria%20Lello",
-      "pubdate": "Mon, 13 Jan 2025 17:00:00 +0000"
+      "title": "Got Talent Portugal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Got%20Talent%20Portugal",
+      "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
     }
   ]
 }

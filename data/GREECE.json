@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "14-01-2025 , 11:35:27",
+  "lastUpdate": "14-01-2025 , 12:55:44",
   "data": [
+    {
+      "title": "Η μαρια που εγινε καλλασ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%97%20%CE%BC%CE%B1%CF%81%CE%B9%CE%B1%20%CF%80%CE%BF%CF%85%20%CE%B5%CE%B3%CE%B9%CE%BD%CE%B5%20%CE%BA%CE%B1%CE%BB%CE%BB%CE%B1%CF%83",
+      "pubdate": "Tue, 14 Jan 2025 14:00:00 +0200"
+    },
     {
       "title": "Παντογραφοσ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B1%CE%BD%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%BF%CF%83",
       "pubdate": "Tue, 14 Jan 2025 07:00:00 +0200"
+    },
+    {
+      "title": "Πορτοσαλτε",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%BF%CF%81%CF%84%CE%BF%CF%83%CE%B1%CE%BB%CF%84%CE%B5",
+      "pubdate": "Tue, 14 Jan 2025 13:00:00 +0200"
     },
     {
       "title": "Αλλαζω θερμοσιφωνα 2025",
@@ -15,11 +25,6 @@
       "title": "Alpha Bank",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Alpha%20Bank",
       "pubdate": "Mon, 13 Jan 2025 13:00:00 +0200"
-    },
-    {
-      "title": "Aek",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Aek",
-      "pubdate": "Mon, 13 Jan 2025 17:00:00 +0200"
     },
     {
       "title": "Λουκα κατσελη",
@@ -42,11 +47,6 @@
       "pubdate": "Mon, 13 Jan 2025 16:00:00 +0200"
     },
     {
-      "title": "ΔΕΗ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%94%CE%95%CE%97",
-      "pubdate": "Mon, 13 Jan 2025 14:00:00 +0200"
-    },
-    {
       "title": "Efka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Efka",
       "pubdate": "Mon, 13 Jan 2025 14:00:00 +0200"
@@ -60,11 +60,6 @@
       "title": "Γοογλε",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%BF%CE%BF%CE%B3%CE%BB%CE%B5",
       "pubdate": "Mon, 13 Jan 2025 15:00:00 +0200"
-    },
-    {
-      "title": "Vodafone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Vodafone",
-      "pubdate": "Mon, 13 Jan 2025 16:00:00 +0200"
     },
     {
       "title": "Κτηματολογιο",
@@ -82,9 +77,9 @@
       "pubdate": "Mon, 13 Jan 2025 18:00:00 +0200"
     },
     {
-      "title": "Στέφανος Τζίμας",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82%20%CE%A4%CE%B6%CE%AF%CE%BC%CE%B1%CF%82",
-      "pubdate": "Mon, 13 Jan 2025 13:00:00 +0200"
+      "title": "Ερυθρεσ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%95%CF%81%CF%85%CE%B8%CF%81%CE%B5%CF%83",
+      "pubdate": "Mon, 13 Jan 2025 19:00:00 +0200"
     },
     {
       "title": "Λιτσα πατερα",
@@ -100,6 +95,11 @@
       "title": "myData",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#myData",
       "pubdate": "Mon, 13 Jan 2025 11:00:00 +0200"
+    },
+    {
+      "title": "ΤΖΟΚΕΡ 12/1/25",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%96%CE%9F%CE%9A%CE%95%CE%A1%2012/1/25",
+      "pubdate": "Mon, 13 Jan 2025 10:00:00 +0200"
     }
   ]
 }
