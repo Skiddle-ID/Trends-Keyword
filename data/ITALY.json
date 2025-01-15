@@ -1,9 +1,29 @@
 {
-  "lastUpdate": "14-01-2025 , 23:35:24",
+  "lastUpdate": "15-01-2025 , 01:54:54",
   "data": [
+    {
+      "title": "Fantacalcio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fantacalcio",
+      "pubdate": "Wed, 15 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Operazione U.N.C.L.E",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Operazione%20U.N.C.L.E",
+      "pubdate": "Wed, 15 Jan 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City",
+      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Kolo Muani Juve",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kolo%20Muani%20Juve",
+      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Premier%20League",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
     },
     {
@@ -12,14 +32,14 @@
       "pubdate": "Tue, 14 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Daniil Medvedev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
-      "pubdate": "Tue, 14 Jan 2025 08:00:00 +0100"
-    },
-    {
       "title": "Morto Furio Colombo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Morto%20Furio%20Colombo",
       "pubdate": "Tue, 14 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Daniil Medvedev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
+      "pubdate": "Tue, 14 Jan 2025 08:00:00 +0100"
     },
     {
       "title": "DAZN",
@@ -27,34 +47,14 @@
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Dalyce Curry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dalyce%20Curry",
-      "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Jasmine Paolini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jasmine%20Paolini",
-      "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Kvara",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kvara",
-      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Nottingham Forest Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nottingham%20Forest%20Liverpool",
-      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Franco Piperno Potere Operaio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Franco%20Piperno%20Potere%20Operaio",
-      "pubdate": "Tue, 14 Jan 2025 03:00:00 +0100"
-    },
-    {
       "title": "Blackout - Vite sospese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blackout%20-%20Vite%20sospese",
       "pubdate": "Tue, 14 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Dalyce Curry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dalyce%20Curry",
+      "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
     },
     {
       "title": "Fausto Cogliati",
@@ -62,9 +62,9 @@
       "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Eliminazione Grande Fratello",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eliminazione%20Grande%20Fratello",
-      "pubdate": "Tue, 14 Jan 2025 09:00:00 +0100"
+      "title": "Kvara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kvara",
+      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Okafor",
@@ -72,8 +72,18 @@
       "pubdate": "Tue, 14 Jan 2025 13:00:00 +0100"
     },
     {
+      "title": "Eliminazione Grande Fratello",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eliminazione%20Grande%20Fratello",
+      "pubdate": "Tue, 14 Jan 2025 09:00:00 +0100"
+    },
+    {
       "title": "Foglie del destino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Foglie%20del%20destino",
+      "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Inter Bologna",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20Bologna",
       "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Sonego",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sonego",
       "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Olimpia Milano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Olimpia%20Milano",
-      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Inter Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter%20Bologna",
-      "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
     }
   ]
 }

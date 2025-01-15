@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "14-01-2025 , 23:35:20",
+  "lastUpdate": "15-01-2025 , 01:54:50",
   "data": [
+    {
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
+    },
     {
       "title": "Hepatitis A",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hepatitis%20A",
       "pubdate": "Tue, 14 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Brentford  Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brentford%20%20Manchester%20City",
-      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Vendee Globe",
@@ -22,14 +27,14 @@
       "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Babygirl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Babygirl",
-      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Atalanta – Juventus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atalanta%20%E2%80%93%20Juventus",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Babygirl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Babygirl",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Marseille – Lille",
@@ -52,11 +57,6 @@
       "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "Chelsea – Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Bournemouth",
-      "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "AZ  Ajax",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AZ%20%20Ajax",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
@@ -72,24 +72,9 @@
       "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Holstein Kiel – Dortmund",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Holstein%20Kiel%20%E2%80%93%20Dortmund",
-      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Mobutu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mobutu",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Bankzitters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bankzitters",
-      "pubdate": "Tue, 14 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Bad Bunny",
@@ -97,9 +82,24 @@
       "pubdate": "Tue, 14 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "Bankzitters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bankzitters",
+      "pubdate": "Tue, 14 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "RedNote",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RedNote",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
+    },
+    {
       "title": "Eurosong 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eurosong%202025",
       "pubdate": "Tue, 14 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "DJI Flip",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#DJI%20Flip",
+      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
     }
   ]
 }

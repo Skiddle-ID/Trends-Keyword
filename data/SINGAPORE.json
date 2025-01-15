@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2025 , 23:35:26",
+  "lastUpdate": "15-01-2025 , 01:54:56",
   "data": [
     {
       "title": "Nottm Forest vs Liverpool",
@@ -7,9 +7,9 @@
       "pubdate": "Wed, 15 Jan 2025 04:00:00 +0800"
     },
     {
-      "title": "Chelsea vs Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea%20vs%20Bournemouth",
-      "pubdate": "Wed, 15 Jan 2025 04:00:00 +0800"
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Premier%20League",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0800"
     },
     {
       "title": "Brentford vs Man City",
@@ -17,9 +17,29 @@
       "pubdate": "Wed, 15 Jan 2025 05:00:00 +0800"
     },
     {
+      "title": "Chelsea vs Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea%20vs%20Bournemouth",
+      "pubdate": "Wed, 15 Jan 2025 04:00:00 +0800"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
+      "pubdate": "Wed, 15 Jan 2025 06:00:00 +0800"
+    },
+    {
       "title": "West Ham vs Fulham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham%20vs%20Fulham",
       "pubdate": "Wed, 15 Jan 2025 06:00:00 +0800"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bundesliga",
+      "pubdate": "Wed, 15 Jan 2025 07:00:00 +0800"
+    },
+    {
+      "title": "Liverpool f.c.",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20f.c.",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0800"
     },
     {
       "title": "Xiaohongshu",
@@ -37,29 +57,14 @@
       "pubdate": "Tue, 14 Jan 2025 01:00:00 +0800"
     },
     {
-      "title": "Mandai Boardwalk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mandai%20Boardwalk",
-      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0800"
-    },
-    {
       "title": "Zubimendi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zubimendi",
       "pubdate": "Tue, 14 Jan 2025 22:00:00 +0800"
     },
     {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
-      "pubdate": "Tue, 14 Jan 2025 15:00:00 +0800"
-    },
-    {
       "title": "Ocbc new notes 2025 SINGAPORE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ocbc%20new%20notes%202025%20SINGAPORE",
       "pubdate": "Tue, 14 Jan 2025 19:00:00 +0800"
-    },
-    {
-      "title": "Nick Kyrgios",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nick%20Kyrgios",
-      "pubdate": "Tue, 14 Jan 2025 00:00:00 +0800"
     },
     {
       "title": "Emma Raducanu",
@@ -95,11 +100,6 @@
       "title": "Lion City Sailors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
       "pubdate": "Mon, 13 Jan 2025 23:00:00 +0800"
-    },
-    {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
-      "pubdate": "Mon, 13 Jan 2025 20:00:00 +0800"
     }
   ]
 }

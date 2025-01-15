@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "14-01-2025 , 23:35:26",
+  "lastUpdate": "15-01-2025 , 01:54:57",
   "data": [
     {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
       "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Zubimendi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zubimendi",
+      "pubdate": "Wed, 15 Jan 2025 02:00:00 +0200"
     },
     {
       "title": "Nottm Forest vs Liverpool",
@@ -14,12 +19,22 @@
     {
       "title": "Brentford vs Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20Man%20City",
-      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
+      "pubdate": "Tue, 14 Jan 2025 17:00:00 +0200"
+    },
+    {
+      "title": "News24",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News24",
+      "pubdate": "Tue, 14 Jan 2025 08:00:00 +0200"
     },
     {
       "title": "Chelsea vs Bournemouth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Bournemouth",
       "pubdate": "Tue, 14 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
+      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
     },
     {
       "title": "West Ham vs Fulham",
@@ -52,6 +67,11 @@
       "pubdate": "Tue, 14 Jan 2025 13:00:00 +0200"
     },
     {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bundesliga",
+      "pubdate": "Tue, 14 Jan 2025 22:00:00 +0200"
+    },
+    {
       "title": "Its",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Its",
       "pubdate": "Tue, 14 Jan 2025 10:00:00 +0200"
@@ -60,11 +80,6 @@
       "title": "Cut",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cut",
       "pubdate": "Tue, 14 Jan 2025 09:00:00 +0200"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bundesliga",
-      "pubdate": "Tue, 14 Jan 2025 22:00:00 +0200"
     },
     {
       "title": "Percy Tau",
@@ -77,29 +92,14 @@
       "pubdate": "Tue, 14 Jan 2025 08:00:00 +0200"
     },
     {
-      "title": "UL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UL",
-      "pubdate": "Tue, 14 Jan 2025 14:00:00 +0200"
-    },
-    {
-      "title": "Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fiorentina",
-      "pubdate": "Tue, 14 Jan 2025 03:00:00 +0200"
-    },
-    {
-      "title": "Pep Guardiola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pep%20Guardiola",
-      "pubdate": "Tue, 14 Jan 2025 17:00:00 +0200"
-    },
-    {
       "title": "Chelsea FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
       "pubdate": "Tue, 14 Jan 2025 23:00:00 +0200"
     },
     {
-      "title": "Neil Gaiman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Neil%20Gaiman",
-      "pubdate": "Tue, 14 Jan 2025 15:00:00 +0200"
+      "title": "Bayer Leverkusen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayer%20Leverkusen",
+      "pubdate": "Tue, 14 Jan 2025 22:00:00 +0200"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2025 , 23:35:21",
+  "lastUpdate": "15-01-2025 , 01:54:50",
   "data": [
     {
       "title": "Premier League",
@@ -22,9 +22,14 @@
       "pubdate": "Tue, 14 Jan 2025 13:00:00 -0300"
     },
     {
-      "title": "Como  Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Como%20%20Milan",
-      "pubdate": "Tue, 14 Jan 2025 15:00:00 -0300"
+      "title": "Falcon",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Falcon",
+      "pubdate": "Tue, 14 Jan 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Catolica vs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Catolica%20vs",
+      "pubdate": "Tue, 14 Jan 2025 21:00:00 -0300"
     },
     {
       "title": "Dalyce Curry",
@@ -32,9 +37,19 @@
       "pubdate": "Tue, 14 Jan 2025 15:00:00 -0300"
     },
     {
-      "title": "Falcon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Falcon",
-      "pubdate": "Tue, 14 Jan 2025 19:00:00 -0300"
+      "title": "Como  Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Como%20%20Milan",
+      "pubdate": "Tue, 14 Jan 2025 15:00:00 -0300"
+    },
+    {
+      "title": "Coquimbo Unido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 -0300"
+    },
+    {
+      "title": "Atalanta - Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atalanta%20-%20Juventus",
+      "pubdate": "Tue, 14 Jan 2025 18:00:00 -0300"
     },
     {
       "title": "Fanny Cuevas",
@@ -47,19 +62,14 @@
       "pubdate": "Tue, 14 Jan 2025 10:00:00 -0300"
     },
     {
-      "title": "Atalanta - Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atalanta%20-%20Juventus",
-      "pubdate": "Tue, 14 Jan 2025 18:00:00 -0300"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bundesliga",
-      "pubdate": "Tue, 14 Jan 2025 17:00:00 -0300"
-    },
-    {
       "title": "Cometa G3 Atlas Chile",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cometa%20G3%20Atlas%20Chile",
       "pubdate": "Tue, 14 Jan 2025 00:00:00 -0300"
+    },
+    {
+      "title": "West Ham - Fulham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham%20-%20Fulham",
+      "pubdate": "Tue, 14 Jan 2025 19:00:00 -0300"
     },
     {
       "title": "Neil Gaiman",
@@ -72,14 +82,14 @@
       "pubdate": "Tue, 14 Jan 2025 13:00:00 -0300"
     },
     {
-      "title": "Taylor Fritz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Taylor%20Fritz",
-      "pubdate": "Tue, 14 Jan 2025 14:00:00 -0300"
+      "title": "Leverkusen - Mainz 05",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leverkusen%20-%20Mainz%2005",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 -0300"
     },
     {
-      "title": "West Ham - Fulham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#West%20Ham%20-%20Fulham",
-      "pubdate": "Tue, 14 Jan 2025 19:00:00 -0300"
+      "title": "Iliana de la Garza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iliana%20de%20la%20Garza",
+      "pubdate": "Tue, 14 Jan 2025 20:00:00 -0300"
     },
     {
       "title": "Chelsea vs",
@@ -90,16 +100,6 @@
       "title": "Garin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garin",
       "pubdate": "Mon, 13 Jan 2025 08:00:00 -0300"
-    },
-    {
-      "title": "Peñarol  colo-colo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pe%C3%B1arol%20%20colo-colo",
-      "pubdate": "Mon, 13 Jan 2025 15:00:00 -0300"
-    },
-    {
-      "title": "Josie Totah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Josie%20Totah",
-      "pubdate": "Mon, 13 Jan 2025 19:00:00 -0300"
     }
   ]
 }
