@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "16-01-2025 , 11:35:35",
+  "lastUpdate": "16-01-2025 , 12:56:35",
   "data": [
     {
-      "title": "Salmonella",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Salmonella",
+      "title": "Al Shabab",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Shabab",
+      "pubdate": "Thu, 16 Jan 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Salmonella nedir",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Salmonella%20nedir",
       "pubdate": "Thu, 16 Jan 2025 10:00:00 +0300"
+    },
+    {
+      "title": "İspanya Kral Kupası",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0spanya%20Kral%20Kupas%C4%B1",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0300"
     },
     {
       "title": "Burak Yılmaz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Burak%20Y%C4%B1lmaz",
       "pubdate": "Thu, 16 Jan 2025 02:00:00 +0300"
-    },
-    {
-      "title": "Alperen Şengün",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alperen%20%C5%9Eeng%C3%BCn",
-      "pubdate": "Thu, 16 Jan 2025 10:00:00 +0300"
     },
     {
       "title": "Enis Bardhi",
@@ -25,6 +30,11 @@
       "title": "Melike Şahin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Melike%20%C5%9Eahin",
       "pubdate": "Thu, 16 Jan 2025 11:00:00 +0300"
+    },
+    {
+      "title": "Kral Kaybederse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kral%20Kaybederse",
+      "pubdate": "Thu, 16 Jan 2025 15:00:00 +0300"
     },
     {
       "title": "Arsenal, Tottenham",
@@ -47,18 +57,8 @@
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0300"
     },
     {
-      "title": "Al Shabab",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Shabab",
-      "pubdate": "Wed, 15 Jan 2025 19:00:00 +0300"
-    },
-    {
       "title": "EuroLeague",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EuroLeague",
-      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0300"
-    },
-    {
-      "title": "Diego Carlos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Diego%20Carlos",
       "pubdate": "Wed, 15 Jan 2025 00:00:00 +0300"
     },
     {
@@ -92,14 +92,14 @@
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0300"
     },
     {
-      "title": "Ayşe Barım olayı ne",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ay%C5%9Fe%20Bar%C4%B1m%20olay%C4%B1%20ne",
-      "pubdate": "Wed, 15 Jan 2025 18:00:00 +0300"
-    },
-    {
       "title": "Aliye Berger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aliye%20Berger",
       "pubdate": "Wed, 15 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Ayşe Barım olayı ne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ay%C5%9Fe%20Bar%C4%B1m%20olay%C4%B1%20ne",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 +0300"
     }
   ]
 }

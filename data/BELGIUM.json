@@ -1,14 +1,9 @@
 {
-  "lastUpdate": "16-01-2025 , 11:35:26",
+  "lastUpdate": "16-01-2025 , 12:56:26",
   "data": [
     {
       "title": "KRC Genk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Jeroen Krabbé",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeroen%20Krabb%C3%A9",
       "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
     },
     {
@@ -30,6 +25,11 @@
       "title": "Patricia Lyfoung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patricia%20Lyfoung",
       "pubdate": "Thu, 16 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jannik%20Sinner",
+      "pubdate": "Thu, 16 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Bob Dylan",
@@ -62,11 +62,6 @@
       "pubdate": "Wed, 15 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-      "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Bayern – Hoffenheim",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20Hoffenheim",
       "pubdate": "Wed, 15 Jan 2025 07:00:00 +0100"
@@ -75,6 +70,11 @@
       "title": "Martijn krabbe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Martijn%20krabbe",
       "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+      "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "BMI",

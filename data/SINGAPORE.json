@@ -1,20 +1,15 @@
 {
-  "lastUpdate": "16-01-2025 , 11:35:33",
+  "lastUpdate": "16-01-2025 , 12:56:34",
   "data": [
-    {
-      "title": "Ceasefire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ceasefire",
-      "pubdate": "Thu, 16 Jan 2025 09:00:00 +0800"
-    },
     {
       "title": "Saif Ali Khan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Saif%20Ali%20Khan",
       "pubdate": "Thu, 16 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "Newcastle vs Wolves",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle%20vs%20Wolves",
-      "pubdate": "Thu, 16 Jan 2025 06:00:00 +0800"
+      "title": "Ceasefire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ceasefire",
+      "pubdate": "Thu, 16 Jan 2025 09:00:00 +0800"
     },
     {
       "title": "Pam Bondi",
@@ -27,9 +22,14 @@
       "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
     },
     {
-      "title": "Steven Cheung Hong Kong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Steven%20Cheung%20Hong%20Kong",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0800"
+      "title": "T-bill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T-bill",
+      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
+    },
+    {
+      "title": "Mars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mars",
+      "pubdate": "Thu, 16 Jan 2025 17:00:00 +0800"
     },
     {
       "title": "Severance",
@@ -37,24 +37,14 @@
       "pubdate": "Thu, 16 Jan 2025 00:00:00 +0800"
     },
     {
-      "title": "T-bill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T-bill",
-      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
-    },
-    {
-      "title": "Switch 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Switch%202",
-      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
-    },
-    {
       "title": "Hindenburg Research",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hindenburg%20Research",
       "pubdate": "Thu, 16 Jan 2025 17:00:00 +0800"
     },
     {
-      "title": "Emma Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emma%20Raducanu",
-      "pubdate": "Thu, 16 Jan 2025 17:00:00 +0800"
+      "title": "Switch 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Switch%202",
+      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
     },
     {
       "title": "Arsenal vs Tottenham",
@@ -72,19 +62,9 @@
       "pubdate": "Wed, 15 Jan 2025 18:00:00 +0800"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-      "pubdate": "Wed, 15 Jan 2025 06:00:00 +0800"
-    },
-    {
       "title": "CPI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI",
       "pubdate": "Wed, 15 Jan 2025 22:00:00 +0800"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bundesliga",
-      "pubdate": "Wed, 15 Jan 2025 07:00:00 +0800"
     },
     {
       "title": "Yoon Suk Yeol",
@@ -92,14 +72,34 @@
       "pubdate": "Wed, 15 Jan 2025 14:00:00 +0800"
     },
     {
-      "title": "India Open 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20Open%202025",
-      "pubdate": "Wed, 15 Jan 2025 18:00:00 +0800"
-    },
-    {
       "title": "Meta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta",
       "pubdate": "Wed, 15 Jan 2025 21:00:00 +0800"
+    },
+    {
+      "title": "Liverpoolfc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpoolfc",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0800"
+    },
+    {
+      "title": "Xiaohongshu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xiaohongshu",
+      "pubdate": "Tue, 14 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "Neil Gaiman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Neil%20Gaiman",
+      "pubdate": "Tue, 14 Jan 2025 10:00:00 +0800"
+    },
+    {
+      "title": "One Bernam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#One%20Bernam",
+      "pubdate": "Tue, 14 Jan 2025 01:00:00 +0800"
+    },
+    {
+      "title": "Emma Raducanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emma%20Raducanu",
+      "pubdate": "Tue, 14 Jan 2025 17:00:00 +0800"
     }
   ]
 }

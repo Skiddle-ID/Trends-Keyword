@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 11:35:26",
+  "lastUpdate": "16-01-2025 , 12:56:26",
   "data": [
     {
       "title": "Oilers",
@@ -12,6 +12,11 @@
       "pubdate": "Thu, 16 Jan 2025 00:00:00 -0500"
     },
     {
+      "title": "Drake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drake",
+      "pubdate": "Thu, 16 Jan 2025 06:00:00 -0500"
+    },
+    {
       "title": "Linda Nolan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Linda%20Nolan",
       "pubdate": "Thu, 16 Jan 2025 00:00:00 -0500"
@@ -22,13 +27,13 @@
       "pubdate": "Thu, 16 Jan 2025 00:00:00 -0500"
     },
     {
-      "title": "Minnesota Wild",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Minnesota%20Wild",
+      "title": "Sutherland Hotel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sutherland%20Hotel",
       "pubdate": "Thu, 16 Jan 2025 00:00:00 -0500"
     },
     {
-      "title": "Sutherland Hotel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sutherland%20Hotel",
+      "title": "Minnesota Wild",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Minnesota%20Wild",
       "pubdate": "Thu, 16 Jan 2025 00:00:00 -0500"
     },
     {
@@ -42,19 +47,19 @@
       "pubdate": "Wed, 15 Jan 2025 07:00:00 -0500"
     },
     {
+      "title": "Saif Ali Khan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saif%20Ali%20Khan",
+      "pubdate": "Wed, 15 Jan 2025 23:00:00 -0500"
+    },
+    {
       "title": "Pam Bondi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pam%20Bondi",
       "pubdate": "Wed, 15 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "Canada is not for sale' hat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20is%20not%20for%20sale'%20hat",
+      "title": "CANADA IS NOT FOR SALE' hat",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CANADA%20IS%20NOT%20FOR%20SALE'%20hat",
       "pubdate": "Wed, 15 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Saif Ali Khan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saif%20Ali%20Khan",
-      "pubdate": "Wed, 15 Jan 2025 23:00:00 -0500"
     },
     {
       "title": "Lane Hutson",
@@ -95,11 +100,6 @@
       "title": "Celtics vs Raptors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics%20vs%20Raptors",
       "pubdate": "Wed, 15 Jan 2025 22:00:00 -0500"
-    },
-    {
-      "title": "Canadien de montreal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadien%20de%20montreal",
-      "pubdate": "Wed, 15 Jan 2025 06:00:00 -0500"
     }
   ]
 }
