@@ -1,14 +1,44 @@
 {
-  "lastUpdate": "15-01-2025 , 23:36:13",
+  "lastUpdate": "16-01-2025 , 01:54:12",
   "data": [
+    {
+      "title": "KRC Genk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Jeroen Krabbé",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeroen%20Krabb%C3%A9",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Danira Boukhriss",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Danira%20Boukhriss",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Club Brugge  Genk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge%20%20Genk",
       "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Club Brugge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Club%20Brugge",
+      "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
+    },
+    {
       "title": "Barcelone – Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Betis",
+      "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Bundesliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bundesliga",
+      "pubdate": "Wed, 15 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
       "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
     },
     {
@@ -17,19 +47,14 @@
       "pubdate": "Wed, 15 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-      "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
+      "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Novartis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novartis",
       "pubdate": "Wed, 15 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Bayern – Hoffenheim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20Hoffenheim",
-      "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "BMI",
@@ -42,29 +67,24 @@
       "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Arsenal – Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal%20%E2%80%93%20Tottenham",
-      "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Wesley Sonck",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wesley%20Sonck",
       "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Bundesliga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bundesliga",
-      "pubdate": "Wed, 15 Jan 2025 07:00:00 +0100"
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Ile de la tentation 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ile%20de%20la%20tentation%202025",
       "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Rudi Garcia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rudi%20Garcia",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Gaza",
@@ -80,26 +100,6 @@
       "title": "Brigitte Macron",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
       "pubdate": "Wed, 15 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Wout van Aert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
-      "pubdate": "Wed, 15 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Pilates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pilates",
-      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Coupe du Roi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20du%20Roi",
-      "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Hengelhoef",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hengelhoef",
-      "pubdate": "Wed, 15 Jan 2025 20:00:00 +0100"
     }
   ]
 }

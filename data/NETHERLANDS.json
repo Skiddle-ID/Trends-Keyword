@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 23:36:19",
+  "lastUpdate": "16-01-2025 , 01:54:19",
   "data": [
     {
       "title": "Martijn krabbe",
@@ -32,9 +32,9 @@
       "pubdate": "Wed, 15 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Bar Laat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bar%20Laat",
-      "pubdate": "Wed, 15 Jan 2025 15:00:00 +0100"
+      "title": "Gaza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
+      "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "KNVB",
@@ -52,19 +52,9 @@
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Gaza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
-      "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
       "pubdate": "Tue, 14 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Ajax",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-      "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "DigiD storing",
@@ -72,24 +62,9 @@
       "pubdate": "Tue, 14 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "AZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
-      "pubdate": "Tue, 14 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Excelsior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-      "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "Blauwe bessen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blauwe%20bessen",
       "pubdate": "Tue, 14 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Weski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weski",
-      "pubdate": "Tue, 14 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Hepatitis A",
@@ -100,6 +75,31 @@
       "title": "MKZ uitbraak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ%20uitbraak",
       "pubdate": "Mon, 13 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "FC Groningen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+      "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "NAC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+      "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "MKZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ",
+      "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
+    },
+    {
+      "title": "Utrecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
+      "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+      "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
     }
   ]
 }

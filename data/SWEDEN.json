@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "15-01-2025 , 23:36:21",
+  "lastUpdate": "16-01-2025 , 01:54:21",
   "data": [
+    {
+      "title": "Ebba Busch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+      "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
+    },
     {
       "title": "Panten höjs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Panten%20h%C3%B6js",
@@ -22,18 +32,8 @@
       "pubdate": "Wed, 15 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Arsenal Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal%20Tottenham",
-      "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Kajsa Bergqvist",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kajsa%20Bergqvist",
-      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Namnsdag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Namnsdag",
       "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
     },
     {
@@ -82,6 +82,11 @@
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Svennis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svennis",
+      "pubdate": "Tue, 14 Jan 2025 15:00:00 +0100"
+    },
+    {
       "title": "Pawel Cibicki",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pawel%20Cibicki",
       "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "David Boati",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Boati",
       "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Mattias Hävelid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mattias%20H%C3%A4velid",
-      "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
     }
   ]
 }

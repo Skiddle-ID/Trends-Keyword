@@ -1,30 +1,10 @@
 {
-  "lastUpdate": "15-01-2025 , 23:36:13",
+  "lastUpdate": "16-01-2025 , 01:54:13",
   "data": [
     {
-      "title": "Barcelona x Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Betis",
-      "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Sao Paulo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
+      "title": "Cruzeiro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
       "pubdate": "Wed, 15 Jan 2025 00:00:00 -0500"
-    },
-    {
-      "title": "Resultado TSE Unificado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20TSE%20Unificado",
-      "pubdate": "Wed, 15 Jan 2025 08:00:00 -0500"
-    },
-    {
-      "title": "Inter de Milão",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
-      "pubdate": "Wed, 15 Jan 2025 11:00:00 -0500"
-    },
-    {
-      "title": "Campeonato Paulista",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Paulista",
-      "pubdate": "Wed, 15 Jan 2025 12:00:00 -0500"
     },
     {
       "title": "Palmeiras x Portuguesa",
@@ -32,9 +12,54 @@
       "pubdate": "Wed, 15 Jan 2025 11:00:00 -0500"
     },
     {
+      "title": "Barcelona x Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Betis",
+      "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
+    },
+    {
+      "title": "Volta Redonda x Fluminense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volta%20Redonda%20x%20Fluminense",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 -0500"
+    },
+    {
+      "title": "Boca Juniors x Juventude",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors%20x%20Juventude",
+      "pubdate": "Wed, 15 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Resultado TSE Unificado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20TSE%20Unificado",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 -0500"
+    },
+    {
+      "title": "Corinthians Copinha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20Copinha",
+      "pubdate": "Wed, 15 Jan 2025 19:00:00 -0500"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "Novorizontino x Ponte Preta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino%20x%20Ponte%20Preta",
+      "pubdate": "Wed, 15 Jan 2025 17:00:00 -0500"
+    },
+    {
       "title": "Paulista",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulista",
       "pubdate": "Wed, 15 Jan 2025 12:00:00 -0500"
+    },
+    {
+      "title": "Inter de Milão",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
+      "pubdate": "Wed, 15 Jan 2025 11:00:00 -0500"
+    },
+    {
+      "title": "Guarani x Botafogo-SP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20Botafogo-SP",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 -0500"
     },
     {
       "title": "Newcastle",
@@ -42,64 +67,39 @@
       "pubdate": "Wed, 15 Jan 2025 17:00:00 -0500"
     },
     {
-      "title": "Paulistao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulistao",
-      "pubdate": "Wed, 15 Jan 2025 13:00:00 -0500"
-    },
-    {
       "title": "Matriculas 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Matriculas%202025",
       "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Carioca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carioca",
-      "pubdate": "Wed, 15 Jan 2025 09:00:00 -0500"
+      "title": "Coritiba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
+      "pubdate": "Wed, 15 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Nautico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+      "pubdate": "Wed, 15 Jan 2025 19:00:00 -0500"
+    },
+    {
+      "title": "Coritiba x São Joseense",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20S%C3%A3o%20Joseense",
+      "pubdate": "Wed, 15 Jan 2025 19:00:00 -0500"
+    },
+    {
+      "title": "Velo Clube x Noroeste",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velo%20Clube%20x%20Noroeste",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 -0500"
     },
     {
       "title": "Delegado morto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Delegado%20morto",
       "pubdate": "Wed, 15 Jan 2025 08:00:00 -0500"
-    },
-    {
-      "title": "Copa do Nordeste",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Nordeste",
-      "pubdate": "Wed, 15 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Corrida das Blogueiras",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corrida%20das%20Blogueiras",
-      "pubdate": "Wed, 15 Jan 2025 00:00:00 -0500"
-    },
-    {
-      "title": "Lyon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
-      "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "XRP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#XRP",
-      "pubdate": "Wed, 15 Jan 2025 08:00:00 -0500"
-    },
-    {
-      "title": "Enem USP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enem%20USP",
-      "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Impeachment",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Impeachment",
-      "pubdate": "Wed, 15 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "BAFTA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BAFTA",
-      "pubdate": "Wed, 15 Jan 2025 14:00:00 -0500"
-    },
-    {
-      "title": "Abono salarial PIS/Pasep",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Abono%20salarial%20PIS/Pasep",
-      "pubdate": "Wed, 15 Jan 2025 14:00:00 -0500"
     }
   ]
 }

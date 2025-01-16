@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "15-01-2025 , 23:36:15",
+  "lastUpdate": "16-01-2025 , 01:54:15",
   "data": [
+    {
+      "title": "Face Off",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Face%20Off",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0200"
+    },
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
@@ -22,14 +27,14 @@
       "pubdate": "Wed, 15 Jan 2025 09:00:00 +0200"
     },
     {
-      "title": "Bonnie Blue",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bonnie%20Blue",
-      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0200"
-    },
-    {
       "title": "Arsenal – Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Tottenham",
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0200"
+    },
+    {
+      "title": "Bonnie Blue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bonnie%20Blue",
+      "pubdate": "Wed, 15 Jan 2025 08:00:00 +0200"
     },
     {
       "title": "ASEAN",
@@ -95,11 +100,6 @@
       "title": "Hermes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hermes",
       "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
-    },
-    {
-      "title": "TikTok ban",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TikTok%20ban",
-      "pubdate": "Tue, 14 Jan 2025 02:00:00 +0200"
     }
   ]
 }
