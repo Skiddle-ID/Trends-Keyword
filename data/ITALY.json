@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 23:35:03",
+  "lastUpdate": "17-01-2025 , 01:53:49",
   "data": [
     {
       "title": "Sinner oggi",
@@ -32,6 +32,11 @@
       "pubdate": "Thu, 16 Jan 2025 15:00:00 +0100"
     },
     {
+      "title": "Cambiaso",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cambiaso",
+      "pubdate": "Thu, 16 Jan 2025 18:00:00 +0100"
+    },
+    {
       "title": "Jasmine Paolini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jasmine%20Paolini",
       "pubdate": "Thu, 16 Jan 2025 13:00:00 +0100"
@@ -47,19 +52,14 @@
       "pubdate": "Thu, 16 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Lorenzo Musetti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Musetti",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Raz Degan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raz%20Degan",
-      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Manchester United-Southampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United-Southampton",
+      "title": "Manchester United  Southampton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20United%20%20Southampton",
       "pubdate": "Thu, 16 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Lorenzo Sonego",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Sonego",
+      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Harry Potter",
@@ -67,14 +67,19 @@
       "pubdate": "Thu, 16 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Cecilia Sala Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cecilia%20Sala%20Elon%20Musk",
-      "pubdate": "Thu, 16 Jan 2025 14:00:00 +0100"
+      "title": "Raz Degan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raz%20Degan",
+      "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Franco Pepe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Franco%20Pepe",
       "pubdate": "Thu, 16 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Cecilia Sala Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cecilia%20Sala%20Elon%20Musk",
+      "pubdate": "Thu, 16 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "David Linch",
@@ -95,11 +100,6 @@
       "title": "Luigi Di Maio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luigi%20Di%20Maio",
       "pubdate": "Thu, 16 Jan 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Dove Cameron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dove%20Cameron",
-      "pubdate": "Thu, 16 Jan 2025 09:00:00 +0100"
     }
   ]
 }

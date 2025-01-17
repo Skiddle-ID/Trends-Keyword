@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 23:35:05",
+  "lastUpdate": "17-01-2025 , 01:53:50",
   "data": [
     {
       "title": "Quick Boys  Heerenveen",
@@ -7,18 +7,18 @@
       "pubdate": "Thu, 16 Jan 2025 08:00:00 +0100"
     },
     {
-      "title": "Nintendo Switch 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nintendo%20Switch%202",
-      "pubdate": "Thu, 16 Jan 2025 15:00:00 +0100"
-    },
-    {
       "title": "David Lynch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#David%20Lynch",
       "pubdate": "Thu, 16 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "De Graafschap  Heracles",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap%20%20Heracles",
+      "title": "Nintendo Switch 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nintendo%20Switch%202",
+      "pubdate": "Thu, 16 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "De Graafschap-Heracles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap-Heracles",
       "pubdate": "Thu, 16 Jan 2025 19:00:00 +0100"
     },
     {
@@ -30,11 +30,6 @@
       "title": "Nationaal Archief",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
       "pubdate": "Thu, 16 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "SC Heerenveen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SC%20Heerenveen",
-      "pubdate": "Thu, 16 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Amy Pieters",
@@ -67,14 +62,14 @@
       "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Schiphol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
-      "pubdate": "Wed, 15 Jan 2025 17:00:00 +0100"
-    },
-    {
       "title": "KNVB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
       "pubdate": "Wed, 15 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Mist",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mist",
+      "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Ajax",
@@ -100,6 +95,11 @@
       "title": "MKZ uitbraak",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ%20uitbraak",
       "pubdate": "Mon, 13 Jan 2025 17:00:00 +0100"
+    },
+    {
+      "title": "FC Groningen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+      "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
     }
   ]
 }

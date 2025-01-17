@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "16-01-2025 , 23:35:01",
+  "lastUpdate": "17-01-2025 , 01:53:46",
   "data": [
+    {
+      "title": "Legionella",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Legionella",
+      "pubdate": "Fri, 17 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "David Lynch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Lynch",
@@ -67,14 +72,9 @@
       "pubdate": "Thu, 16 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Filip Kaňkovský",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Filip%20Ka%C5%88kovsk%C3%BD",
-      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Olga Menzelová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olga%20Menzelov%C3%A1",
-      "pubdate": "Thu, 16 Jan 2025 21:00:00 +0100"
+      "title": "Slovensko",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensko",
+      "pubdate": "Thu, 16 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Emma Drobná",
@@ -87,19 +87,19 @@
       "pubdate": "Thu, 16 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "New Glenn",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#New%20Glenn",
+      "pubdate": "Thu, 16 Jan 2025 20:00:00 +0100"
+    },
+    {
       "title": "Vítězslav Hornig",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%ADt%C4%9Bzslav%20Hornig",
       "pubdate": "Thu, 16 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Jiří Vondra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Vondra",
+      "title": "Jirka Vondra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jirka%20Vondra",
       "pubdate": "Wed, 15 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Arsenal – Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal%20%E2%80%93%20Tottenham",
-      "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
     }
   ]
 }

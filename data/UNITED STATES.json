@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 23:34:59",
+  "lastUpdate": "17-01-2025 , 01:53:43",
   "data": [
     {
       "title": "David Lynch",
@@ -17,14 +17,24 @@
       "pubdate": "Thu, 16 Jan 2025 09:00:00 -0800"
     },
     {
-      "title": "Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
+      "title": "David Lynch movies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Lynch%20movies",
+      "pubdate": "Thu, 16 Jan 2025 12:00:00 -0800"
+    },
+    {
+      "title": "Man United vs Southampton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Southampton",
       "pubdate": "Thu, 16 Jan 2025 13:00:00 -0800"
     },
     {
-      "title": "Ashley Moody",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashley%20Moody",
-      "pubdate": "Thu, 16 Jan 2025 08:00:00 -0800"
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
+      "pubdate": "Thu, 16 Jan 2025 07:00:00 -0800"
+    },
+    {
+      "title": "Aaliyah Barbie doll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaliyah%20Barbie%20doll",
+      "pubdate": "Thu, 16 Jan 2025 09:00:00 -0800"
     },
     {
       "title": "Celtics",
@@ -35,11 +45,6 @@
       "title": "Warriors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
       "pubdate": "Thu, 16 Jan 2025 05:00:00 -0800"
-    },
-    {
-      "title": "Aaliyah Barbie doll",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaliyah%20Barbie%20doll",
-      "pubdate": "Thu, 16 Jan 2025 09:00:00 -0800"
     },
     {
       "title": "Learner Tien",
@@ -57,6 +62,11 @@
       "pubdate": "Thu, 16 Jan 2025 02:00:00 -0800"
     },
     {
+      "title": "XO, Kitty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#XO,%20Kitty",
+      "pubdate": "Thu, 16 Jan 2025 14:00:00 -0800"
+    },
+    {
       "title": "Mike Turner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Turner",
       "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
@@ -67,24 +77,9 @@
       "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
     },
     {
-      "title": "Wendy Williams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wendy%20Williams",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
-    },
-    {
-      "title": "Clippers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clippers",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
-    },
-    {
       "title": "Scott Bessent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scott%20Bessent",
       "pubdate": "Thu, 16 Jan 2025 12:00:00 -0800"
-    },
-    {
-      "title": "Paul Danan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20Danan",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
     },
     {
       "title": "Colton Moore",
@@ -92,14 +87,19 @@
       "pubdate": "Thu, 16 Jan 2025 14:00:00 -0800"
     },
     {
-      "title": "Jack Hoffman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jack%20Hoffman",
-      "pubdate": "Thu, 16 Jan 2025 07:00:00 -0800"
+      "title": "Paul Danan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20Danan",
+      "pubdate": "Thu, 16 Jan 2025 11:00:00 -0800"
     },
     {
-      "title": "Houston Rodeo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20Rodeo",
-      "pubdate": "Thu, 16 Jan 2025 14:00:00 -0800"
+      "title": "Boston Celtics",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20Celtics",
+      "pubdate": "Thu, 16 Jan 2025 05:00:00 -0800"
+    },
+    {
+      "title": "Colin Hurley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colin%20Hurley",
+      "pubdate": "Thu, 16 Jan 2025 16:00:00 -0800"
     }
   ]
 }
