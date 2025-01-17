@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-01-2025 , 11:35:49",
+  "lastUpdate": "17-01-2025 , 12:55:21",
   "data": [
     {
       "title": "David Lynch",
@@ -27,6 +27,16 @@
       "pubdate": "Fri, 17 Jan 2025 13:00:00 +0300"
     },
     {
+      "title": "CMC Motors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CMC%20Motors",
+      "pubdate": "Fri, 17 Jan 2025 15:00:00 +0300"
+    },
+    {
+      "title": "Anne Waiguru",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Anne%20Waiguru",
+      "pubdate": "Fri, 17 Jan 2025 14:00:00 +0300"
+    },
+    {
       "title": "Man United vs Southampton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Southampton",
       "pubdate": "Thu, 16 Jan 2025 15:00:00 +0300"
@@ -34,7 +44,7 @@
     {
       "title": "Real Madrid vs Celta Vigo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Celta%20Vigo",
-      "pubdate": "Thu, 16 Jan 2025 19:00:00 +0300"
+      "pubdate": "Thu, 16 Jan 2025 06:00:00 +0300"
     },
     {
       "title": "Ipswich Town vs Brighton",
@@ -52,14 +62,14 @@
       "pubdate": "Thu, 16 Jan 2025 15:00:00 +0300"
     },
     {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20Munich",
-      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0300"
-    },
-    {
       "title": "LaLiga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LaLiga",
       "pubdate": "Thu, 16 Jan 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bayern%20Munich",
+      "pubdate": "Thu, 16 Jan 2025 00:00:00 +0300"
     },
     {
       "title": "Atletico Madrid",
@@ -82,11 +92,6 @@
       "pubdate": "Thu, 16 Jan 2025 20:00:00 +0300"
     },
     {
-      "title": "Khvicha Kvaratskhelia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Khvicha%20Kvaratskhelia",
-      "pubdate": "Thu, 16 Jan 2025 01:00:00 +0300"
-    },
-    {
       "title": "Arsenal vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Tottenham",
       "pubdate": "Wed, 15 Jan 2025 00:00:00 +0300"
@@ -95,11 +100,6 @@
       "title": "Newcastle vs Wolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Newcastle%20vs%20Wolves",
       "pubdate": "Wed, 15 Jan 2025 16:00:00 +0300"
-    },
-    {
-      "title": "Barcelona vs Real Betis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20vs%20Real%20Betis",
-      "pubdate": "Wed, 15 Jan 2025 23:00:00 +0300"
     }
   ]
 }
