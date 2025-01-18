@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 11:35:07",
+  "lastUpdate": "18-01-2025 , 12:51:54",
   "data": [
     {
       "title": "Lille – Nice",
@@ -52,6 +52,11 @@
       "pubdate": "Fri, 17 Jan 2025 08:00:00 +0100"
     },
     {
+      "title": "Koen Wauters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koen%20Wauters",
+      "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "SpaceX",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SpaceX",
       "pubdate": "Fri, 17 Jan 2025 01:00:00 +0100"
@@ -60,6 +65,11 @@
       "title": "Haaland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Haaland",
       "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Bankzitters",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bankzitters",
+      "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Velofollies 2025",
@@ -82,24 +92,14 @@
       "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
     },
     {
+      "title": "AA Gent",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+      "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Elodie frege",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elodie%20frege",
       "pubdate": "Fri, 17 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Amad Diallo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amad%20Diallo",
-      "pubdate": "Fri, 17 Jan 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Real",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real",
-      "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Skov Olsen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Skov%20Olsen",
-      "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
     }
   ]
 }

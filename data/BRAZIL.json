@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "18-01-2025 , 11:35:07",
+  "lastUpdate": "18-01-2025 , 12:51:54",
   "data": [
+    {
+      "title": "Newcastle x Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle%20x%20Bournemouth",
+      "pubdate": "Sat, 18 Jan 2025 05:00:00 -0500"
+    },
+    {
+      "title": "Sisu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sisu",
+      "pubdate": "Fri, 17 Jan 2025 00:00:00 -0500"
+    },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madrid",
@@ -32,14 +42,14 @@
       "pubdate": "Fri, 17 Jan 2025 16:00:00 -0500"
     },
     {
-      "title": "Roma x Genoa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma%20x%20Genoa",
-      "pubdate": "Fri, 17 Jan 2025 13:00:00 -0500"
-    },
-    {
       "title": "UFC 311",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20311",
       "pubdate": "Fri, 17 Jan 2025 14:00:00 -0500"
+    },
+    {
+      "title": "Roma x Genoa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma%20x%20Genoa",
+      "pubdate": "Fri, 17 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Benfica x Famalicão",
@@ -87,19 +97,9 @@
       "pubdate": "Fri, 17 Jan 2025 17:00:00 -0500"
     },
     {
-      "title": "Real Madri",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20Madri",
-      "pubdate": "Fri, 17 Jan 2025 12:00:00 -0500"
-    },
-    {
-      "title": "Jogo do Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Real%20Madrid",
-      "pubdate": "Fri, 17 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Real",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real",
-      "pubdate": "Fri, 17 Jan 2025 16:00:00 -0500"
+      "title": "Zuri",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zuri",
+      "pubdate": "Fri, 17 Jan 2025 23:00:00 -0500"
     }
   ]
 }

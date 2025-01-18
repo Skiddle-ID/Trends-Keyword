@@ -1,19 +1,29 @@
 {
-  "lastUpdate": "18-01-2025 , 11:35:14",
+  "lastUpdate": "18-01-2025 , 12:52:01",
   "data": [
+    {
+      "title": "Cortina d'Ampezzo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cortina%20d'Ampezzo",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
+      "pubdate": "Sat, 18 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Omar Marmoush",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Omar%20Marmoush",
       "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Start Lauberhorn 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Start%20Lauberhorn%202025",
-      "pubdate": "Sat, 18 Jan 2025 11:00:00 +0100"
-    },
-    {
       "title": "Klemens Haselsteiner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klemens%20Haselsteiner",
+      "pubdate": "Sat, 18 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Didier Guillaume",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Didier%20Guillaume",
       "pubdate": "Sat, 18 Jan 2025 10:00:00 +0100"
     },
     {
@@ -25,6 +35,11 @@
       "title": "Stephane Bern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stephane%20Bern",
       "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Gaël Monfils",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ga%C3%ABl%20Monfils",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Handball",
@@ -85,21 +100,6 @@
       "title": "Carlos Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Carlos%20Alcaraz",
       "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Pegasus Band",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pegasus%20Band",
-      "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-      "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Elodie frege",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elodie%20frege",
-      "pubdate": "Fri, 17 Jan 2025 23:00:00 +0100"
     }
   ]
 }
