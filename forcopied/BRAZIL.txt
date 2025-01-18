@@ -1,1 +1,1 @@
-Sisu,André Feldman,IBFC Correios,Al Nassr,UFC,Roma x Genoa,VALE3,Enem-USP,Benfica,Jogo do Real Madrid,Junior Santos,Real,IFIX,Starship,UFPR,Novak Djokovic,Haaland,Espanyol,Real Madrid Club de Fútbol,CBF
+IBFC Correios,André Feldman,UFC,Al Nassr,Eintracht x Borussia,Roma x Genoa,Benfica x Famalicão,VALE3,Univ de Chile x River Plate,Vasco Copinha,Espanyol,Junior Santos,Feriado 20 de janeiro,Jogo do Real Madrid,Real,IFIX,Gremio Copinha,UFPR,Starship,Novak Djokovic

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-01-2025 , 23:35:42",
+  "lastUpdate": "18-01-2025 , 01:51:06",
   "data": [
     {
       "title": "Veronika Čermák Macková",
@@ -15,6 +15,11 @@
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
       "pubdate": "Fri, 17 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Rallye Dakar 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rallye%20Dakar%202025",
+      "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "SpaceX",
@@ -42,6 +47,16 @@
       "pubdate": "Fri, 17 Jan 2025 20:00:00 +0100"
     },
     {
+      "title": "Tomáš Macháč",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Mach%C3%A1%C4%8D",
+      "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Tomáš Vartecký",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Varteck%C3%BD",
+      "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
+    },
+    {
       "title": "Mitas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mitas",
       "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
@@ -57,19 +72,9 @@
       "pubdate": "Fri, 17 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "Tomáš Vartecký",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Varteck%C3%BD",
-      "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Festival chutí",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20chut%C3%AD",
       "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Rallye Dakar 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rallye%20Dakar%202025",
-      "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Path of Exile 2",
@@ -95,11 +100,6 @@
       "title": "Jan Palach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Palach",
       "pubdate": "Thu, 16 Jan 2025 07:00:00 +0100"
-    },
-    {
-      "title": "HC Vítkovice",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20V%C3%ADtkovice",
-      "pubdate": "Thu, 16 Jan 2025 11:00:00 +0100"
     }
   ]
 }
