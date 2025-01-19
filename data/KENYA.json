@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:17",
+  "lastUpdate": "19-01-2025 , 02:05:18",
   "data": [
     {
       "title": "PL",
@@ -37,19 +37,14 @@
       "pubdate": "Sat, 18 Jan 2025 06:00:00 +0300"
     },
     {
-      "title": "Leicester City vs Fulham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City%20vs%20Fulham",
-      "pubdate": "Sat, 18 Jan 2025 17:00:00 +0300"
-    },
-    {
       "title": "Juventus vs Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Milan",
       "pubdate": "Sat, 18 Jan 2025 11:00:00 +0300"
     },
     {
-      "title": "Atalanta vs Napoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta%20vs%20Napoli",
-      "pubdate": "Sat, 18 Jan 2025 10:00:00 +0300"
+      "title": "Leicester City vs Fulham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City%20vs%20Fulham",
+      "pubdate": "Sat, 18 Jan 2025 18:00:00 +0300"
     },
     {
       "title": "Everton vs Tottenham",
@@ -67,14 +62,14 @@
       "pubdate": "Sat, 18 Jan 2025 21:00:00 +0300"
     },
     {
-      "title": "TikTok banned",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#TikTok%20banned",
-      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0300"
-    },
-    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
       "pubdate": "Sat, 18 Jan 2025 21:00:00 +0300"
+    },
+    {
+      "title": "TikTok banned",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#TikTok%20banned",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0300"
     },
     {
       "title": "Denis Law",
@@ -100,6 +95,11 @@
       "title": "Trump coin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trump%20coin",
       "pubdate": "Sat, 18 Jan 2025 22:00:00 +0300"
+    },
+    {
+      "title": "Pep Guardiola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pep%20Guardiola",
+      "pubdate": "Sat, 18 Jan 2025 18:00:00 +0300"
     }
   ]
 }

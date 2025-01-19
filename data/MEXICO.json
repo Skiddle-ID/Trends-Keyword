@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:18",
+  "lastUpdate": "19-01-2025 , 02:05:18",
   "data": [
     {
       "title": "Getafe  Barcelona",
@@ -7,13 +7,18 @@
       "pubdate": "Sat, 18 Jan 2025 12:00:00 -0600"
     },
     {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier%20League",
-      "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
+      "title": "Juárez  Cruz Azul",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ju%C3%A1rez%20%20Cruz%20Azul",
+      "pubdate": "Sat, 18 Jan 2025 13:00:00 -0600"
     },
     {
-      "title": "Leicester City  Fulham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leicester%20City%20%20Fulham",
+      "title": "Chiefs  Texans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chiefs%20%20Texans",
+      "pubdate": "Sat, 18 Jan 2025 13:00:00 -0600"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Premier%20League",
       "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
     },
     {
@@ -22,9 +27,9 @@
       "pubdate": "Sat, 18 Jan 2025 12:00:00 -0600"
     },
     {
-      "title": "La liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20liga",
-      "pubdate": "Sat, 18 Jan 2025 14:00:00 -0600"
+      "title": "Leicester City  Fulham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leicester%20City%20%20Fulham",
+      "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
     },
     {
       "title": "Arsenal  Aston Villa",
@@ -37,11 +42,6 @@
       "pubdate": "Sat, 18 Jan 2025 10:00:00 -0600"
     },
     {
-      "title": "Chiefs  Texans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chiefs%20%20Texans",
-      "pubdate": "Sat, 18 Jan 2025 13:00:00 -0600"
-    },
-    {
       "title": "Juventus  Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juventus%20%20Milan",
       "pubdate": "Sat, 18 Jan 2025 11:00:00 -0600"
@@ -52,24 +52,24 @@
       "pubdate": "Sat, 18 Jan 2025 07:00:00 -0600"
     },
     {
-      "title": "Bayern  Wolfsburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern%20%20Wolfsburg",
-      "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
-    },
-    {
       "title": "Atalanta  Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atalanta%20%20Napoli",
       "pubdate": "Sat, 18 Jan 2025 14:00:00 -0600"
     },
     {
-      "title": "Pepe Mujica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pepe%20Mujica",
-      "pubdate": "Sat, 18 Jan 2025 00:00:00 -0600"
+      "title": "Bayern  Wolfsburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern%20%20Wolfsburg",
+      "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
     },
     {
       "title": "West Ham  Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#West%20Ham%20%20Crystal%20Palace",
       "pubdate": "Sat, 18 Jan 2025 09:00:00 -0600"
+    },
+    {
+      "title": "Pepe Mujica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pepe%20Mujica",
+      "pubdate": "Sat, 18 Jan 2025 00:00:00 -0600"
     },
     {
       "title": "Estados Unidos  Venezuela",
@@ -82,14 +82,14 @@
       "pubdate": "Sat, 18 Jan 2025 12:00:00 -0600"
     },
     {
-      "title": "Loteria Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Loteria%20Nacional",
-      "pubdate": "Sat, 18 Jan 2025 10:00:00 -0600"
-    },
-    {
       "title": "Leverkusen  Mönchengladbach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leverkusen%20%20M%C3%B6nchengladbach",
       "pubdate": "Sat, 18 Jan 2025 13:00:00 -0600"
+    },
+    {
+      "title": "Loteria Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Loteria%20Nacional",
+      "pubdate": "Sat, 18 Jan 2025 10:00:00 -0600"
     },
     {
       "title": "Lens - PSG",

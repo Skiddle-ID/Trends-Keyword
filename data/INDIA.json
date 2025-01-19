@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:16",
+  "lastUpdate": "19-01-2025 , 02:05:17",
   "data": [
     {
       "title": "Barca",
@@ -32,9 +32,9 @@
       "pubdate": "Sat, 18 Jan 2025 20:30:00 +0530"
     },
     {
-      "title": "Karnataka vs Vidarbha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Karnataka%20vs%20Vidarbha",
-      "pubdate": "Sat, 18 Jan 2025 18:30:00 +0530"
+      "title": "BCCI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BCCI",
+      "pubdate": "Sat, 18 Jan 2025 15:30:00 +0530"
     },
     {
       "title": "Darshan Raval",
@@ -50,6 +50,11 @@
       "title": "Trump coin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Trump%20coin",
       "pubdate": "Sat, 18 Jan 2025 21:30:00 +0530"
+    },
+    {
+      "title": "JEE Mains admit card",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JEE%20Mains%20admit%20card",
+      "pubdate": "Sat, 18 Jan 2025 18:30:00 +0530"
     },
     {
       "title": "Sanjay Roy",
@@ -77,19 +82,9 @@
       "pubdate": "Fri, 17 Jan 2025 21:30:00 +0530"
     },
     {
-      "title": "PAK vs WI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PAK%20vs%20WI",
-      "pubdate": "Fri, 17 Jan 2025 09:30:00 +0530"
-    },
-    {
       "title": "Rinku Singh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rinku%20Singh",
       "pubdate": "Fri, 17 Jan 2025 18:30:00 +0530"
-    },
-    {
-      "title": "Jio coin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jio%20coin",
-      "pubdate": "Fri, 17 Jan 2025 23:30:00 +0530"
     },
     {
       "title": "Auto Expo 2025",
@@ -100,6 +95,11 @@
       "title": "Azaad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Azaad",
       "pubdate": "Fri, 17 Jan 2025 12:30:00 +0530"
+    },
+    {
+      "title": "Emergency",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Emergency",
+      "pubdate": "Fri, 17 Jan 2025 15:30:00 +0530"
     }
   ]
 }

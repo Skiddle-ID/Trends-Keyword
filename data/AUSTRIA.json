@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:12",
+  "lastUpdate": "19-01-2025 , 02:05:13",
   "data": [
+    {
+      "title": "Chemnitz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chemnitz",
+      "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Leicester – FC Fulham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leicester%20%E2%80%93%20FC%20Fulham",
+      "pubdate": "Sun, 19 Jan 2025 01:00:00 +0100"
+    },
     {
       "title": "Vincent Kriechmayr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vincent%20Kriechmayr",
       "pubdate": "Sat, 18 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Trump Coin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump%20Coin",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Premier League",
@@ -17,9 +32,9 @@
       "pubdate": "Sat, 18 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Trump Coin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Trump%20Coin",
-      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
+      "title": "Getafe – Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Getafe%20%E2%80%93%20Barcelona",
+      "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Schönborn",
@@ -27,24 +42,24 @@
       "pubdate": "Sat, 18 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Getafe – Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Getafe%20%E2%80%93%20Barcelona",
-      "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Leverkusen – Mönchengladbach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20M%C3%B6nchengladbach",
       "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Jannik Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jannik%20Sinner",
-      "pubdate": "Sat, 18 Jan 2025 14:00:00 +0100"
-    },
-    {
       "title": "Skilift-Unfall Spanien",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Skilift-Unfall%20Spanien",
       "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Herbert Kickl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herbert%20Kickl",
+      "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jannik%20Sinner",
+      "pubdate": "Sat, 18 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Bochum – RB Leipzig",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Arsenal – Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20%E2%80%93%20Aston%20Villa",
-      "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
-    },
-    {
       "title": "Juventus – Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus%20%E2%80%93%20Milan",
       "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Cortina d'Ampezzo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cortina%20d'Ampezzo",
-      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "DJ Ötzi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DJ%20%C3%96tzi",
-      "pubdate": "Sat, 18 Jan 2025 22:00:00 +0100"
     }
   ]
 }

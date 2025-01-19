@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:13",
+  "lastUpdate": "19-01-2025 , 02:05:15",
   "data": [
     {
       "title": "Getafe  Barcelona",
@@ -27,24 +27,24 @@
       "pubdate": "Sat, 18 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Newcastle,  Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Newcastle,%20%20Bournemouth",
+      "title": "Newcastle  Bournemouth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Newcastle%20%20Bournemouth",
       "pubdate": "Sat, 18 Jan 2025 07:00:00 -0500"
     },
     {
-      "title": "West Ham - Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#West%20Ham%20-%20Crystal%20Palace",
+      "title": "West Ham  Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#West%20Ham%20%20Crystal%20Palace",
       "pubdate": "Sat, 18 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Girona  Sevilla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Girona%20%20Sevilla",
-      "pubdate": "Sat, 18 Jan 2025 08:00:00 -0500"
+      "title": "Laliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Laliga",
+      "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
     },
     {
-      "title": "Juventus - Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus%20-%20Milan",
-      "pubdate": "Sat, 18 Jan 2025 12:00:00 -0500"
+      "title": "Junior",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Junior",
+      "pubdate": "Sat, 18 Jan 2025 17:00:00 -0500"
     },
     {
       "title": "Pepe Mujica",
@@ -52,14 +52,29 @@
       "pubdate": "Sat, 18 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Bayern  Wolfsburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bayern%20%20Wolfsburg",
-      "pubdate": "Sat, 18 Jan 2025 10:00:00 -0500"
+      "title": "Juventus  Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus%20%20Milan",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 -0500"
     },
     {
       "title": "Atalanta  Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atalanta%20%20Napoli",
       "pubdate": "Sat, 18 Jan 2025 15:00:00 -0500"
+    },
+    {
+      "title": "Girona  Sevilla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Girona%20%20Sevilla",
+      "pubdate": "Sat, 18 Jan 2025 08:00:00 -0500"
+    },
+    {
+      "title": "Deportivo Cali",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportivo%20Cali",
+      "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Bayern  Wolfsburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bayern%20%20Wolfsburg",
+      "pubdate": "Sat, 18 Jan 2025 10:00:00 -0500"
     },
     {
       "title": "Lens - PSG",
@@ -72,9 +87,9 @@
       "pubdate": "Sat, 18 Jan 2025 13:00:00 -0500"
     },
     {
-      "title": "Junior",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Junior",
-      "pubdate": "Sat, 18 Jan 2025 17:00:00 -0500"
+      "title": "Leverkusen  Mönchengladbach",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Leverkusen%20%20M%C3%B6nchengladbach",
+      "pubdate": "Sat, 18 Jan 2025 14:00:00 -0500"
     },
     {
       "title": "Leicester City  Fulham",
@@ -82,24 +97,9 @@
       "pubdate": "Sat, 18 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "Leverkusen  Mönchengladbach",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Leverkusen%20%20M%C3%B6nchengladbach",
-      "pubdate": "Sat, 18 Jan 2025 14:00:00 -0500"
-    },
-    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#UFC",
       "pubdate": "Sat, 18 Jan 2025 09:00:00 -0500"
-    },
-    {
-      "title": "Deportivo Cali",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Deportivo%20Cali",
-      "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Bolonia  Monza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bolonia%20%20Monza",
-      "pubdate": "Sat, 18 Jan 2025 11:00:00 -0500"
     }
   ]
 }

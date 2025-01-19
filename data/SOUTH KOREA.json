@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "18-01-2025 , 23:35:20",
+  "lastUpdate": "19-01-2025 , 02:05:21",
   "data": [
+    {
+      "title": "프리미어리그",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EA%B7%B8",
+      "pubdate": "Sun, 19 Jan 2025 09:00:00 +0900"
+    },
     {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#PSG",
       "pubdate": "Sun, 19 Jan 2025 02:00:00 +0900"
     },
     {
-      "title": "솔라나",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%94%EB%9D%BC%EB%82%98",
-      "pubdate": "Sun, 19 Jan 2025 02:00:00 +0900"
-    },
-    {
       "title": "윤석열 구속영장",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4%20%EA%B5%AC%EC%86%8D%EC%98%81%EC%9E%A5",
       "pubdate": "Sat, 18 Jan 2025 16:00:00 +0900"
+    },
+    {
+      "title": "트럼프 밈코인",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8A%B8%EB%9F%BC%ED%94%84%20%EB%B0%88%EC%BD%94%EC%9D%B8",
+      "pubdate": "Sat, 18 Jan 2025 18:00:00 +0900"
     },
     {
       "title": "로또1155",
@@ -39,12 +44,17 @@
     {
       "title": "차은경 부장판사",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%9D%80%EA%B2%BD%20%EB%B6%80%EC%9E%A5%ED%8C%90%EC%82%AC",
-      "pubdate": "Fri, 17 Jan 2025 20:00:00 +0900"
+      "pubdate": "Fri, 17 Jan 2025 21:00:00 +0900"
     },
     {
       "title": "데이비드 린치",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8D%B0%EC%9D%B4%EB%B9%84%EB%93%9C%20%EB%A6%B0%EC%B9%98",
       "pubdate": "Fri, 17 Jan 2025 09:00:00 +0900"
+    },
+    {
+      "title": "차은경 판사",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%9D%80%EA%B2%BD%20%ED%8C%90%EC%82%AC",
+      "pubdate": "Fri, 17 Jan 2025 10:00:00 +0900"
     },
     {
       "title": "맨유",
@@ -62,6 +72,11 @@
       "pubdate": "Fri, 17 Jan 2025 01:00:00 +0900"
     },
     {
+      "title": "김성훈",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%84%B1%ED%9B%88",
+      "pubdate": "Fri, 17 Jan 2025 21:00:00 +0900"
+    },
+    {
       "title": "프로미스나인",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4%EB%82%98%EC%9D%B8",
       "pubdate": "Fri, 17 Jan 2025 15:00:00 +0900"
@@ -77,11 +92,6 @@
       "pubdate": "Fri, 17 Jan 2025 08:00:00 +0900"
     },
     {
-      "title": "김성훈 경호차장",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%84%B1%ED%9B%88%20%EA%B2%BD%ED%98%B8%EC%B0%A8%EC%9E%A5",
-      "pubdate": "Fri, 17 Jan 2025 21:00:00 +0900"
-    },
-    {
       "title": "스위치2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%8A%A4%EC%9C%84%EC%B9%982",
       "pubdate": "Thu, 16 Jan 2025 23:00:00 +0900"
@@ -90,16 +100,6 @@
       "title": "체포적부심",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B2%B4%ED%8F%AC%EC%A0%81%EB%B6%80%EC%8B%AC",
       "pubdate": "Thu, 16 Jan 2025 11:00:00 +0900"
-    },
-    {
-      "title": "토트넘 아스날",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%8A%B8%EB%84%98%20%EC%95%84%EC%8A%A4%EB%82%A0",
-      "pubdate": "Thu, 16 Jan 2025 05:00:00 +0900"
-    },
-    {
-      "title": "장원영",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%EC%9B%90%EC%98%81",
-      "pubdate": "Thu, 16 Jan 2025 21:00:00 +0900"
     }
   ]
 }
