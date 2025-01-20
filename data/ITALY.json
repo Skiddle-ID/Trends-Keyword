@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "20-01-2025 , 11:35:43",
+  "lastUpdate": "20-01-2025 , 12:57:30",
   "data": [
+    {
+      "title": "Che tempo che fa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Che%20tempo%20che%20fa",
+      "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
+    },
     {
       "title": "Monfils",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monfils",
       "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "De Minaur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Minaur",
+      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Tomori",
@@ -27,6 +37,26 @@
       "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
     },
     {
+      "title": "Neymar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neymar",
+      "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Como-Udinese",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Como-Udinese",
+      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Pohjanpalo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pohjanpalo",
+      "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Esposito",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Esposito",
+      "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Fiorentina - Torino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina%20-%20Torino",
       "pubdate": "Sun, 19 Jan 2025 12:00:00 +0100"
@@ -44,7 +74,7 @@
     {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Novak%20Djokovic",
-      "pubdate": "Sun, 19 Jan 2025 11:00:00 +0100"
+      "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Parma-Venezia",
@@ -52,14 +82,14 @@
       "pubdate": "Sun, 19 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Real Madrid-Las Palmas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid-Las%20Palmas",
-      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-    },
-    {
       "title": "Blue Monday",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Blue%20Monday",
       "pubdate": "Sun, 19 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid-Las Palmas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid-Las%20Palmas",
+      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Champions League",
@@ -70,36 +100,6 @@
       "title": "Sassuolo  Südtirol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo%20%20S%C3%BCdtirol",
       "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Carrarese - Spezia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carrarese%20-%20Spezia",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Palermo  Juve Stabia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20%20Juve%20Stabia",
-      "pubdate": "Sun, 19 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Lloyd Kelly",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lloyd%20Kelly",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Roma-Juventus Women",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma-Juventus%20Women",
-      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Catanzaro-Pisa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro-Pisa",
-      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Cecilia Sala Fabio Fazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cecilia%20Sala%20Fabio%20Fazio",
-      "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
     }
   ]
 }

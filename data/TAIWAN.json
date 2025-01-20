@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 11:35:47",
+  "lastUpdate": "20-01-2025 , 12:57:34",
   "data": [
     {
       "title": "換新鈔",
@@ -7,19 +7,24 @@
       "pubdate": "Mon, 20 Jan 2025 07:00:00 +0800"
     },
     {
-      "title": "川普",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%9D%E6%99%AE",
+      "title": "TikTok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#TikTok",
       "pubdate": "Mon, 20 Jan 2025 00:00:00 +0800"
     },
     {
-      "title": "力積電",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%9B%E7%A9%8D%E9%9B%BB",
-      "pubdate": "Mon, 20 Jan 2025 10:00:00 +0800"
+      "title": "數B",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%B8B",
+      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0800"
     },
     {
       "title": "立法院",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%AB%8B%E6%B3%95%E9%99%A2",
       "pubdate": "Mon, 20 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "力積電",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%9B%E7%A9%8D%E9%9B%BB",
+      "pubdate": "Mon, 20 Jan 2025 10:00:00 +0800"
     },
     {
       "title": "大寒",
@@ -72,9 +77,9 @@
       "pubdate": "Mon, 20 Jan 2025 15:00:00 +0800"
     },
     {
-      "title": "數發部",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%B8%E7%99%BC%E9%83%A8",
-      "pubdate": "Mon, 20 Jan 2025 18:00:00 +0800"
+      "title": "新年快樂",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%B9%B4%E5%BF%AB%E6%A8%82",
+      "pubdate": "Mon, 20 Jan 2025 19:00:00 +0800"
     },
     {
       "title": "52赫茲鯨魚",
@@ -82,9 +87,9 @@
       "pubdate": "Sun, 19 Jan 2025 15:00:00 +0800"
     },
     {
-      "title": "學測英文",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%B8%E6%B8%AC%E8%8B%B1%E6%96%87",
-      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0800"
+      "title": "川普",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%9D%E6%99%AE",
+      "pubdate": "Sun, 19 Jan 2025 23:00:00 +0800"
     },
     {
       "title": "楊千霈",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 19 Jan 2025 12:00:00 +0800"
     },
     {
-      "title": "川普上任時間",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B7%9D%E6%99%AE%E4%B8%8A%E4%BB%BB%E6%99%82%E9%96%93",
-      "pubdate": "Sun, 19 Jan 2025 23:00:00 +0800"
-    },
-    {
-      "title": "數B",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%B8B",
-      "pubdate": "Sun, 19 Jan 2025 22:00:00 +0800"
+      "title": "學測英文",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%B8%E6%B8%AC%E8%8B%B1%E6%96%87",
+      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0800"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 11:35:44",
+  "lastUpdate": "20-01-2025 , 12:57:31",
   "data": [
     {
       "title": "Sinner",
@@ -25,6 +25,11 @@
       "title": "Ipswich  Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ipswich%20%20Manchester%20City",
       "pubdate": "Sun, 19 Jan 2025 10:00:00 -0600"
+    },
+    {
+      "title": "Tarjeta roja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tarjeta%20roja",
+      "pubdate": "Sun, 19 Jan 2025 00:00:00 -0600"
     },
     {
       "title": "Celta de Vigo  Athletic",
@@ -62,6 +67,11 @@
       "pubdate": "Sun, 19 Jan 2025 09:00:00 -0600"
     },
     {
+      "title": "Trump coin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Trump%20coin",
+      "pubdate": "Sun, 19 Jan 2025 00:00:00 -0600"
+    },
+    {
       "title": "Osasuna  Rayo Vallecano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Osasuna%20%20Rayo%20Vallecano",
       "pubdate": "Sun, 19 Jan 2025 13:00:00 -0600"
@@ -70,11 +80,6 @@
       "title": "Eclipse lunar 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Eclipse%20lunar%202025",
       "pubdate": "Sun, 19 Jan 2025 13:00:00 -0600"
-    },
-    {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Trump",
-      "pubdate": "Sun, 19 Jan 2025 17:00:00 -0600"
     },
     {
       "title": "Carlos Alcaraz",
@@ -87,19 +92,14 @@
       "pubdate": "Sun, 19 Jan 2025 21:00:00 -0600"
     },
     {
-      "title": "Binance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Binance",
-      "pubdate": "Sun, 19 Jan 2025 13:00:00 -0600"
-    },
-    {
       "title": "Novak Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Novak%20Djokovic",
       "pubdate": "Sun, 19 Jan 2025 12:00:00 -0600"
     },
     {
-      "title": "Real Madrid Club de Fútbol",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20Club%20de%20F%C3%BAtbol",
-      "pubdate": "Sun, 19 Jan 2025 10:00:00 -0600"
+      "title": "Leones Negros  Dorados",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leones%20Negros%20%20Dorados",
+      "pubdate": "Sun, 19 Jan 2025 14:00:00 -0600"
     }
   ]
 }
