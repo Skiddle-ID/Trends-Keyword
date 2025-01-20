@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-01-2025 , 23:35:37",
+  "lastUpdate": "20-01-2025 , 01:56:44",
   "data": [
+    {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20City",
+      "pubdate": "Mon, 20 Jan 2025 01:00:00 +0200"
+    },
     {
       "title": "Accident seful politiei campulung Muscel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20seful%20politiei%20campulung%20Muscel",
@@ -32,11 +37,6 @@
       "pubdate": "Sun, 19 Jan 2025 00:00:00 +0200"
     },
     {
-      "title": "Ipswich - Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ipswich%20-%20Man%20City",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0200"
-    },
-    {
       "title": "Parma - Venezia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma%20-%20Venezia",
       "pubdate": "Sun, 19 Jan 2025 16:00:00 +0200"
@@ -57,11 +57,6 @@
       "pubdate": "Sun, 19 Jan 2025 00:00:00 +0200"
     },
     {
-      "title": "Dinamo București",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti",
-      "pubdate": "Sun, 19 Jan 2025 22:00:00 +0200"
-    },
-    {
       "title": "Nottm forest , Southampton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nottm%20forest%20,%20Southampton",
       "pubdate": "Sun, 19 Jan 2025 17:00:00 +0200"
@@ -75,6 +70,11 @@
       "title": "Cagliari - Lecce",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cagliari%20-%20Lecce",
       "pubdate": "Sun, 19 Jan 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Aris  PAOK",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aris%20%20PAOK",
+      "pubdate": "Sun, 19 Jan 2025 20:00:00 +0200"
     },
     {
       "title": "Criptomoneda $TRUMP",
@@ -97,9 +97,9 @@
       "pubdate": "Sun, 19 Jan 2025 18:00:00 +0200"
     },
     {
-      "title": "Natalie Viscuso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Natalie%20Viscuso",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0200"
+      "title": "Ministerul Educației",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ministerul%20Educa%C8%9Biei",
+      "pubdate": "Sun, 19 Jan 2025 14:00:00 +0200"
     }
   ]
 }

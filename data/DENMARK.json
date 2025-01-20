@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "19-01-2025 , 23:35:32",
+  "lastUpdate": "20-01-2025 , 01:56:39",
   "data": [
-    {
-      "title": "Man utd  Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20utd%20%20Brighton",
-      "pubdate": "Sun, 19 Jan 2025 15:00:00 +0100"
-    },
     {
       "title": "Doula",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Doula",
@@ -17,14 +12,14 @@
       "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
-      "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
-    },
-    {
       "title": "Ipswich  Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ipswich%20%20Man%20City",
       "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+      "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Romi Gonen",
@@ -67,9 +62,9 @@
       "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "Wayne Bridge",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayne%20Bridge",
-      "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
+      "title": "Tataloo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tataloo",
+      "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "Clint Eastwood",
@@ -77,9 +72,9 @@
       "pubdate": "Sun, 19 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Tataloo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tataloo",
-      "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+      "title": "Wayne Bridge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wayne%20Bridge",
+      "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Caitlin Clark",
@@ -94,12 +89,17 @@
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
-      "pubdate": "Sat, 18 Jan 2025 16:00:00 +0100"
+      "pubdate": "Sat, 18 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Trump coin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20coin",
       "pubdate": "Sat, 18 Jan 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Holger Rune",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
+      "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
     }
   ]
 }

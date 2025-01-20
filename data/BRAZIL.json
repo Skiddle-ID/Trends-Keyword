@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2025 , 23:35:31",
+  "lastUpdate": "20-01-2025 , 01:56:38",
   "data": [
     {
       "title": "Real Madrid x Las Palmas",
@@ -7,14 +7,44 @@
       "pubdate": "Sun, 19 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC",
-      "pubdate": "Sun, 19 Jan 2025 16:00:00 -0500"
+      "title": "Flamengo x Nova Iguaçu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Nova%20Igua%C3%A7u",
+      "pubdate": "Sun, 19 Jan 2025 19:00:00 -0500"
+    },
+    {
+      "title": "Boavista x Vasco da Gama",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boavista%20x%20Vasco%20da%20Gama",
+      "pubdate": "Sun, 19 Jan 2025 17:00:00 -0500"
     },
     {
       "title": "Neymar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Neymar",
       "pubdate": "Sun, 19 Jan 2025 17:00:00 -0500"
+    },
+    {
+      "title": "Ipswich Town X City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ipswich%20Town%20X%20City",
+      "pubdate": "Sun, 19 Jan 2025 11:00:00 -0500"
+    },
+    {
+      "title": "Quantos quilômetros de vasos sanguíneos tem o corpo humano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quantos%20quil%C3%B4metros%20de%20vasos%20sangu%C3%ADneos%20tem%20o%20corpo%20humano",
+      "pubdate": "Sun, 19 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "Aymorés x Atlético-MG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aymor%C3%A9s%20x%20Atl%C3%A9tico-MG",
+      "pubdate": "Sun, 19 Jan 2025 09:00:00 -0500"
+    },
+    {
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC",
+      "pubdate": "Sun, 19 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Ponte Preta x Santos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20Santos",
+      "pubdate": "Sun, 19 Jan 2025 18:00:00 -0500"
     },
     {
       "title": "Manchester United x Brighton",
@@ -27,18 +57,13 @@
       "pubdate": "Sun, 19 Jan 2025 09:00:00 -0500"
     },
     {
-      "title": "Boavista x Vasco da Gama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boavista%20x%20Vasco%20da%20Gama",
-      "pubdate": "Sun, 19 Jan 2025 17:00:00 -0500"
-    },
-    {
       "title": "Mirassol x Água Santa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol%20x%20%C3%81gua%20Santa",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Criciúma x Concórdia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Conc%C3%B3rdia",
+      "title": "Santa Cruz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
     },
     {
@@ -47,34 +72,24 @@
       "pubdate": "Sun, 19 Jan 2025 08:00:00 -0500"
     },
     {
-      "title": "Santa Cruz x Afogados",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz%20x%20Afogados",
-      "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
-    },
-    {
       "title": "Inter x Empoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20x%20Empoli",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Jurassic world",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jurassic%20world",
-      "pubdate": "Sun, 19 Jan 2025 13:00:00 -0500"
-    },
-    {
-      "title": "Bragantino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
+      "title": "Criciúma x Concórdia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Conc%C3%B3rdia",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
     },
     {
-      "title": "Lyanco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyanco",
-      "pubdate": "Sun, 19 Jan 2025 08:00:00 -0500"
+      "title": "Donald Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Donald%20Trump",
+      "pubdate": "Sun, 19 Jan 2025 01:00:00 -0500"
     },
     {
-      "title": "Vila Nova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova",
-      "pubdate": "Sun, 19 Jan 2025 16:00:00 -0500"
+      "title": "Vitoria",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+      "pubdate": "Sun, 19 Jan 2025 19:00:00 -0500"
     },
     {
       "title": "Porto",
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 19 Jan 2025 17:00:00 -0500"
     },
     {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novak%20Djokovic",
-      "pubdate": "Sun, 19 Jan 2025 10:00:00 -0500"
-    },
-    {
-      "title": "Morre leo Batista",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Morre%20leo%20Batista",
+      "title": "Bragantino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
       "pubdate": "Sun, 19 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Lazio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
-      "pubdate": "Sun, 19 Jan 2025 14:00:00 -0500"
-    },
-    {
-      "title": "Chapecoense x Marcílio Dias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense%20x%20Marc%C3%ADlio%20Dias",
-      "pubdate": "Sun, 19 Jan 2025 17:00:00 -0500"
     }
   ]
 }

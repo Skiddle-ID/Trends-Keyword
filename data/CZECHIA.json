@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "19-01-2025 , 23:35:32",
+  "lastUpdate": "20-01-2025 , 01:56:39",
   "data": [
-    {
-      "title": "TikTok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#TikTok",
-      "pubdate": "Sun, 19 Jan 2025 03:00:00 +0100"
-    },
     {
       "title": "Eliška Wagnerová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eli%C5%A1ka%20Wagnerov%C3%A1",
@@ -37,14 +32,14 @@
       "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Jana Bernášková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Bern%C3%A1%C5%A1kov%C3%A1",
-      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0100"
-    },
-    {
       "title": "Forrest Gump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forrest%20Gump",
       "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Jana Bernášková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Bern%C3%A1%C5%A1kov%C3%A1",
+      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Nikdo",
@@ -67,6 +62,11 @@
       "pubdate": "Sun, 19 Jan 2025 20:00:00 +0100"
     },
     {
+      "title": "Táta na plný úvazek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#T%C3%A1ta%20na%20pln%C3%BD%20%C3%BAvazek",
+      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
+    },
+    {
       "title": "Požár MNÍŠEK POD BRDY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20MN%C3%8D%C5%A0EK%20POD%20BRDY",
       "pubdate": "Sun, 19 Jan 2025 09:00:00 +0100"
@@ -82,14 +82,14 @@
       "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Celta Vigo – Bilbao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celta%20Vigo%20%E2%80%93%20Bilbao",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
-    },
-    {
       "title": "Klára Cibulková",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
       "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Celta Vigo – Bilbao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celta%20Vigo%20%E2%80%93%20Bilbao",
+      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Vítězslav Hornig",
