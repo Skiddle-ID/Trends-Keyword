@@ -1,1 +1,1 @@
-Who,Állampapír,John Sykes,Panama,Lovrencsics Gergő,HírTV,Keanu Reeves,Opel,Ónos eső riasztás,Év legszomorúbb napja,Elon Musk,Férfi kézilabda vb 2025,Rákosrendező,Kézilabda vb 2025,J-d-vance,Erste Bank,Joe Biden,Barack Obama,Barron Trump,Bajnokok Ligája
+Donald Trump,Állampapír,John Sykes,Panama,Lovrencsics Gergő,HírTV,Keanu Reeves,Opel,Kézilabda-vb,Időjárás ónos eső,Év legszomorúbb napja,Elon Musk,Joe Biden,Rákosrendező,Kézilabda vb 2025,Erste Bank,Barack Obama,Barron Trump,Bajnokok Ligája,Jeff Bezos
