@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "20-01-2025 , 23:35:40",
+  "lastUpdate": "21-01-2025 , 01:54:34",
   "data": [
     {
-      "title": "Kézilabda-vb",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda-vb",
-      "pubdate": "Mon, 20 Jan 2025 02:00:00 +0100"
+      "title": "Állampapír",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81llampap%C3%ADr",
+      "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "HírTV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADrTV",
+      "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Férfi kézilabda vb 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A9rfi%20k%C3%A9zilabda%20vb%202025",
+      "pubdate": "Mon, 20 Jan 2025 07:00:00 +0100"
     },
     {
       "title": "Blue Monday",
@@ -27,14 +37,14 @@
       "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Pintér Sándor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20S%C3%A1ndor",
-      "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
-    },
-    {
       "title": "Ónos eső Riasztás",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91%20Riaszt%C3%A1s",
       "pubdate": "Mon, 20 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Pintér Sándor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pint%C3%A9r%20S%C3%A1ndor",
+      "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Erste Bank",
@@ -47,11 +57,6 @@
       "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Barack Obama",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barack%20Obama",
-      "pubdate": "Mon, 20 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Energetikai otthonfelújítási program",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Energetikai%20otthonfel%C3%BAj%C3%ADt%C3%A1si%20program",
       "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
@@ -62,14 +67,14 @@
       "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
     },
     {
+      "title": "Barron Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barron%20Trump",
+      "pubdate": "Mon, 20 Jan 2025 19:00:00 +0100"
+    },
+    {
       "title": "Village People",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Village%20People",
       "pubdate": "Mon, 20 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
-      "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Chelsea",
@@ -77,9 +82,9 @@
       "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "BTC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BTC",
-      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+      "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Como–Udinese",
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 20 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "BTC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BTC",
+      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
+    },
+    {
       "title": "BL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL",
       "pubdate": "Mon, 20 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Washington",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Washington",
-      "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Demján Sándor Program",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demj%C3%A1n%20S%C3%A1ndor%20Program",
-      "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 23:35:39",
+  "lastUpdate": "21-01-2025 , 01:54:32",
   "data": [
     {
       "title": "Chelsea – Wolverhampton",
@@ -42,6 +42,11 @@
       "pubdate": "Mon, 20 Jan 2025 10:00:00 +0200"
     },
     {
+      "title": "JD Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JD%20Vance",
+      "pubdate": "Mon, 20 Jan 2025 20:00:00 +0200"
+    },
+    {
       "title": "Panama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Panama",
       "pubdate": "Mon, 20 Jan 2025 21:00:00 +0200"
@@ -52,19 +57,14 @@
       "pubdate": "Mon, 20 Jan 2025 13:00:00 +0200"
     },
     {
-      "title": "Pelicans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
-      "pubdate": "Mon, 20 Jan 2025 18:00:00 +0200"
-    },
-    {
-      "title": "MobilePay",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MobilePay",
-      "pubdate": "Mon, 20 Jan 2025 14:00:00 +0200"
-    },
-    {
       "title": "Ivanka Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ivanka%20Trump",
       "pubdate": "Mon, 20 Jan 2025 21:00:00 +0200"
+    },
+    {
+      "title": "Pelicans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
+      "pubdate": "Mon, 20 Jan 2025 18:00:00 +0200"
     },
     {
       "title": "Queens Of The Stone Age",
@@ -72,13 +72,18 @@
       "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
     },
     {
+      "title": "MobilePay",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MobilePay",
+      "pubdate": "Mon, 20 Jan 2025 14:00:00 +0200"
+    },
+    {
       "title": "Binance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Binance",
       "pubdate": "Mon, 20 Jan 2025 00:00:00 +0200"
     },
     {
-      "title": "Washington Post",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Washington%20Post",
+      "title": "Washingtonpost",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Washingtonpost",
       "pubdate": "Mon, 20 Jan 2025 11:00:00 +0200"
     },
     {
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 20 Jan 2025 12:00:00 +0200"
     },
     {
-      "title": "Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
-      "pubdate": "Mon, 20 Jan 2025 09:00:00 +0200"
-    },
-    {
       "title": "Mount McKinley",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mount%20McKinley",
       "pubdate": "Mon, 20 Jan 2025 23:00:00 +0200"
     },
     {
-      "title": "Captagon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Captagon",
-      "pubdate": "Mon, 20 Jan 2025 08:00:00 +0200"
+      "title": "Singapore",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Singapore",
+      "pubdate": "Mon, 20 Jan 2025 09:00:00 +0200"
     }
   ]
 }

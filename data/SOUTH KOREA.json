@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 23:35:44",
+  "lastUpdate": "21-01-2025 , 01:54:38",
   "data": [
     {
       "title": "연말정산",
@@ -47,11 +47,6 @@
       "pubdate": "Mon, 20 Jan 2025 21:00:00 +0900"
     },
     {
-      "title": "CIA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#CIA",
-      "pubdate": "Mon, 20 Jan 2025 17:00:00 +0900"
-    },
-    {
       "title": "멜라니아",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A9%9C%EB%9D%BC%EB%8B%88%EC%95%84",
       "pubdate": "Mon, 20 Jan 2025 22:00:00 +0900"
@@ -60,11 +55,6 @@
       "title": "JTBC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#JTBC",
       "pubdate": "Mon, 20 Jan 2025 17:00:00 +0900"
-    },
-    {
-      "title": "최다니엘",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EB%8B%A4%EB%8B%88%EC%97%98",
-      "pubdate": "Mon, 20 Jan 2025 00:00:00 +0900"
     },
     {
       "title": "마카체프",
@@ -87,6 +77,11 @@
       "pubdate": "Sun, 19 Jan 2025 22:00:00 +0900"
     },
     {
+      "title": "마비노기",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%88%EB%B9%84%EB%85%B8%EA%B8%B0",
+      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0900"
+    },
+    {
       "title": "트럼프 밈코인",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%8A%B8%EB%9F%BC%ED%94%84%20%EB%B0%88%EC%BD%94%EC%9D%B8",
       "pubdate": "Sun, 19 Jan 2025 02:00:00 +0900"
@@ -100,6 +95,11 @@
       "title": "TikTok",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TikTok",
       "pubdate": "Sun, 19 Jan 2025 21:00:00 +0900"
+    },
+    {
+      "title": "각주",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B0%81%EC%A3%BC",
+      "pubdate": "Sun, 19 Jan 2025 16:00:00 +0900"
     }
   ]
 }

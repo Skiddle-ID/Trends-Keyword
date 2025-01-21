@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 23:35:37",
+  "lastUpdate": "21-01-2025 , 01:54:30",
   "data": [
     {
       "title": "Chelsea  Wolves",
@@ -17,24 +17,24 @@
       "pubdate": "Mon, 20 Jan 2025 14:00:00 -0300"
     },
     {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elon%20Musk",
-      "pubdate": "Mon, 20 Jan 2025 12:00:00 -0300"
-    },
-    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Champions%20League",
       "pubdate": "Mon, 20 Jan 2025 12:00:00 -0300"
     },
     {
-      "title": "Saladillo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Saladillo",
+      "title": "Elon Musk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elon%20Musk",
       "pubdate": "Mon, 20 Jan 2025 12:00:00 -0300"
     },
     {
       "title": "IPS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#IPS",
       "pubdate": "Mon, 20 Jan 2025 11:00:00 -0300"
+    },
+    {
+      "title": "Saladillo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Saladillo",
+      "pubdate": "Mon, 20 Jan 2025 12:00:00 -0300"
     },
     {
       "title": "Sinner",
@@ -47,9 +47,19 @@
       "pubdate": "Mon, 20 Jan 2025 11:00:00 -0300"
     },
     {
+      "title": "Golfo de México",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Golfo%20de%20M%C3%A9xico",
+      "pubdate": "Mon, 20 Jan 2025 19:00:00 -0300"
+    },
+    {
       "title": "Accidente Altas Cumbres",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Accidente%20Altas%20Cumbres",
       "pubdate": "Mon, 20 Jan 2025 08:00:00 -0300"
+    },
+    {
+      "title": "Como  Udinese",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Como%20%20Udinese",
+      "pubdate": "Mon, 20 Jan 2025 19:00:00 -0300"
     },
     {
       "title": "Biden",
@@ -57,8 +67,23 @@
       "pubdate": "Mon, 20 Jan 2025 16:00:00 -0300"
     },
     {
-      "title": "Como  Udinese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Como%20%20Udinese",
+      "title": "Blue Monday",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Blue%20Monday",
+      "pubdate": "Mon, 20 Jan 2025 18:00:00 -0300"
+    },
+    {
+      "title": "River mexico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20mexico",
+      "pubdate": "Mon, 20 Jan 2025 19:00:00 -0300"
+    },
+    {
+      "title": "JD Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#JD%20Vance",
+      "pubdate": "Mon, 20 Jan 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Jeff Bezos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jeff%20Bezos",
       "pubdate": "Mon, 20 Jan 2025 19:00:00 -0300"
     },
     {
@@ -67,39 +92,14 @@
       "pubdate": "Mon, 20 Jan 2025 01:00:00 -0300"
     },
     {
-      "title": "Blue Monday",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Blue%20Monday",
-      "pubdate": "Mon, 20 Jan 2025 18:00:00 -0300"
-    },
-    {
-      "title": "JD Vance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#JD%20Vance",
-      "pubdate": "Mon, 20 Jan 2025 17:00:00 -0300"
-    },
-    {
-      "title": "Golfo de México",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Golfo%20de%20M%C3%A9xico",
-      "pubdate": "Mon, 20 Jan 2025 19:00:00 -0300"
-    },
-    {
       "title": "Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20Miami",
       "pubdate": "Sun, 19 Jan 2025 00:00:00 -0300"
     },
     {
-      "title": "Ipswich  Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ipswich%20%20Manchester%20City",
-      "pubdate": "Sun, 19 Jan 2025 13:00:00 -0300"
-    },
-    {
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Trump",
-      "pubdate": "Sun, 19 Jan 2025 13:00:00 -0300"
-    },
-    {
-      "title": "Inter  Empoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20%20Empoli",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 -0300"
+      "pubdate": "Sun, 19 Jan 2025 14:00:00 -0300"
     }
   ]
 }

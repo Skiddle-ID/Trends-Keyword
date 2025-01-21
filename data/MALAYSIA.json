@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 23:35:42",
+  "lastUpdate": "21-01-2025 , 01:54:35",
   "data": [
     {
       "title": "Chelsea vs Wolves",
@@ -22,6 +22,11 @@
       "pubdate": "Mon, 20 Jan 2025 00:00:00 +0800"
     },
     {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City",
+      "pubdate": "Mon, 20 Jan 2025 13:00:00 +0800"
+    },
+    {
       "title": "Islam Makhachev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Islam%20Makhachev",
       "pubdate": "Mon, 20 Jan 2025 00:00:00 +0800"
@@ -35,16 +40,6 @@
       "title": "Melania coin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Melania%20coin",
       "pubdate": "Mon, 20 Jan 2025 12:00:00 +0800"
-    },
-    {
-      "title": "Paradigm Mall",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paradigm%20Mall",
-      "pubdate": "Mon, 20 Jan 2025 18:00:00 +0800"
-    },
-    {
-      "title": "Australia Women vs England Women",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australia%20Women%20vs%20England%20Women",
-      "pubdate": "Mon, 20 Jan 2025 19:00:00 +0800"
     },
     {
       "title": "Man United vs Brighton",
@@ -82,16 +77,6 @@
       "pubdate": "Sun, 19 Jan 2025 05:00:00 +0800"
     },
     {
-      "title": "Tanjung Embang",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tanjung%20Embang",
-      "pubdate": "Sun, 19 Jan 2025 18:00:00 +0800"
-    },
-    {
-      "title": "Inter miami vs club américa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20miami%20vs%20club%20am%C3%A9rica",
-      "pubdate": "Sun, 19 Jan 2025 12:00:00 +0800"
-    },
-    {
       "title": "Goh Sze Fei-Nur Izzuddin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Goh%20Sze%20Fei-Nur%20Izzuddin",
       "pubdate": "Sun, 19 Jan 2025 14:00:00 +0800"
@@ -100,6 +85,21 @@
       "title": "Bigg Boss Tamil Season 8",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bigg%20Boss%20Tamil%20Season%208",
       "pubdate": "Sun, 19 Jan 2025 07:00:00 +0800"
+    },
+    {
+      "title": "LaLiga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LaLiga",
+      "pubdate": "Sun, 19 Jan 2025 11:00:00 +0800"
+    },
+    {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+      "pubdate": "Sun, 19 Jan 2025 23:00:00 +0800"
+    },
+    {
+      "title": "Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
+      "pubdate": "Sun, 19 Jan 2025 08:00:00 +0800"
     }
   ]
 }
