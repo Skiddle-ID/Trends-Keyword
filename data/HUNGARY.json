@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "22-01-2025 , 11:35:46",
+  "lastUpdate": "22-01-2025 , 12:57:16",
   "data": [
-    {
-      "title": "Magyarország-Franciaország kézilabda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g-Franciaorsz%C3%A1g%20k%C3%A9zilabda",
-      "pubdate": "Wed, 22 Jan 2025 00:00:00 +0100"
-    },
     {
       "title": "Hobo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
       "pubdate": "Wed, 22 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "Magyarország-Franciaország kézilabda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g-Franciaorsz%C3%A1g%20k%C3%A9zilabda",
+      "pubdate": "Wed, 22 Jan 2025 00:00:00 +0100"
     },
     {
       "title": "Pilis",
@@ -17,14 +17,24 @@
       "pubdate": "Wed, 22 Jan 2025 02:00:00 +0100"
     },
     {
+      "title": "Csézy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%A9zy",
+      "pubdate": "Wed, 22 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Tóth Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20P%C3%A9ter",
+      "pubdate": "Wed, 22 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Radnai Márk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radnai%20M%C3%A1rk",
+      "pubdate": "Wed, 22 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Benfica–barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benfica%E2%80%93barcelona",
       "pubdate": "Tue, 21 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
-      "pubdate": "Tue, 21 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Elon Musk",
@@ -52,8 +62,8 @@
       "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "M4 Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4%20Sport",
+      "title": "M4sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport",
       "pubdate": "Tue, 21 Jan 2025 23:00:00 +0100"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Panama",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Panama",
       "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Usa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Usa",
-      "pubdate": "Tue, 21 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Országos Mentőszolgálat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orsz%C3%A1gos%20Ment%C5%91szolg%C3%A1lat",
-      "pubdate": "Tue, 21 Jan 2025 20:00:00 +0100"
     }
   ]
 }

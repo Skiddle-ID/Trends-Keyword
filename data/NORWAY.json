@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "22-01-2025 , 11:35:49",
+  "lastUpdate": "22-01-2025 , 12:57:19",
   "data": [
+    {
+      "title": "Porsche macan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Porsche%20macan",
+      "pubdate": "Wed, 22 Jan 2025 12:00:00 +0100"
+    },
     {
       "title": "HGT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HGT",
@@ -12,14 +17,9 @@
       "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Kai Simon Fredriksen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kai%20Simon%20Fredriksen",
-      "pubdate": "Tue, 21 Jan 2025 17:00:00 +0100"
-    },
-    {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-      "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
+      "pubdate": "Tue, 21 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "John Sykes",
@@ -32,14 +32,19 @@
       "pubdate": "Tue, 21 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Ingrid Alexandra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ingrid%20Alexandra",
-      "pubdate": "Tue, 21 Jan 2025 08:00:00 +0100"
+      "title": "Ibelin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ibelin",
+      "pubdate": "Tue, 21 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Lauren Sanchez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lauren%20Sanchez",
       "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Benfica",
+      "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Preikestolen",
@@ -87,19 +92,14 @@
       "pubdate": "Tue, 21 Jan 2025 19:00:00 +0100"
     },
     {
-      "title": "Vasstrand",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vasstrand",
-      "pubdate": "Tue, 21 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Donald Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
-      "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
-    },
-    {
       "title": "Elon Musk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elon%20Musk",
       "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "WHO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#WHO",
+      "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
     }
   ]
 }
