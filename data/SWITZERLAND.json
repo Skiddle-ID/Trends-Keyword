@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "21-01-2025 , 23:35:46",
+  "lastUpdate": "22-01-2025 , 01:57:12",
   "data": [
     {
       "title": "Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
       "pubdate": "Tue, 21 Jan 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Melania Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Melania%20Trump",
-      "pubdate": "Tue, 21 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Benfica – Barcelona",
@@ -22,6 +17,16 @@
       "pubdate": "Tue, 21 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Melania Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Melania%20Trump",
+      "pubdate": "Tue, 21 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "SRF Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20Sport",
+      "pubdate": "Tue, 21 Jan 2025 17:00:00 +0100"
+    },
+    {
       "title": "Kronplatz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kronplatz",
       "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
@@ -30,11 +35,6 @@
       "title": "Bertrand Blier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bertrand%20Blier",
       "pubdate": "Tue, 21 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Alexander Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexander%20Zverev",
-      "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Sanija Ameti",
@@ -52,19 +52,24 @@
       "pubdate": "Tue, 21 Jan 2025 12:00:00 +0100"
     },
     {
+      "title": "Djokovic Alcaraz Live",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic%20Alcaraz%20Live",
+      "pubdate": "Tue, 21 Jan 2025 13:00:00 +0100"
+    },
+    {
       "title": "Sabalenka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sabalenka",
       "pubdate": "Tue, 21 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-      "pubdate": "Tue, 21 Jan 2025 17:00:00 +0100"
+      "title": "Alexander Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexander%20Zverev",
+      "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Djokovic Alcaraz Live",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic%20Alcaraz%20Live",
-      "pubdate": "Tue, 21 Jan 2025 13:00:00 +0100"
+      "title": "Ligue des champions",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
+      "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Atlético Madrid – Leverkusen",
@@ -72,14 +77,9 @@
       "pubdate": "Tue, 21 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Vanessa Kasper",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vanessa%20Kasper",
-      "pubdate": "Tue, 21 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Monaco – Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Aston%20Villa",
-      "pubdate": "Tue, 21 Jan 2025 19:00:00 +0100"
+      "title": "WHO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WHO",
+      "pubdate": "Tue, 21 Jan 2025 09:00:00 +0100"
     },
     {
       "title": "Liverpool – LOSC",
@@ -87,9 +87,9 @@
       "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "John Sykes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#John%20Sykes",
-      "pubdate": "Tue, 21 Jan 2025 09:00:00 +0100"
+      "title": "Monaco – Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Aston%20Villa",
+      "pubdate": "Tue, 21 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Champions Hockey League",
@@ -97,9 +97,9 @@
       "pubdate": "Tue, 21 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "Onyx Storm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Onyx%20Storm",
-      "pubdate": "Tue, 21 Jan 2025 11:00:00 +0100"
+      "title": "John Sykes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#John%20Sykes",
+      "pubdate": "Tue, 21 Jan 2025 09:00:00 +0100"
     }
   ]
 }
