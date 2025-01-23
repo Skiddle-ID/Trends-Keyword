@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 11:35:50",
+  "lastUpdate": "23-01-2025 , 12:56:47",
   "data": [
     {
       "title": "Nicky Larson",
@@ -12,14 +12,14 @@
       "pubdate": "Wed, 22 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
-      "pubdate": "Wed, 22 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Samsung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Samsung",
       "pubdate": "Wed, 22 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
+      "pubdate": "Wed, 22 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Lokeren-Temse",
@@ -37,8 +37,8 @@
       "pubdate": "Wed, 22 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "Tempête Eowyn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Temp%C3%AAte%20Eowyn",
+      "title": "Tempête Eowyn Belgique",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Temp%C3%AAte%20Eowyn%20Belgique",
       "pubdate": "Wed, 22 Jan 2025 10:00:00 +0100"
     },
     {
@@ -62,14 +62,19 @@
       "pubdate": "Wed, 22 Jan 2025 14:00:00 +0100"
     },
     {
-      "title": "Alignement des planetes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alignement%20des%20planetes",
-      "pubdate": "Wed, 22 Jan 2025 08:00:00 +0100"
+      "title": "Real",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real",
+      "pubdate": "Wed, 22 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Bayern Munich",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20Munich",
       "pubdate": "Wed, 22 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Alignement des planetes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alignement%20des%20planetes",
+      "pubdate": "Wed, 22 Jan 2025 08:00:00 +0100"
     },
     {
       "title": "Saint-Luc",
@@ -87,19 +92,14 @@
       "pubdate": "Wed, 22 Jan 2025 23:00:00 +0100"
     },
     {
+      "title": "Melanie Machiels",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Melanie%20Machiels",
+      "pubdate": "Wed, 22 Jan 2025 16:00:00 +0100"
+    },
+    {
       "title": "Mariann Budde",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mariann%20Budde",
       "pubdate": "Wed, 22 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Rode Ster  PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rode%20Ster%20%20PSV",
-      "pubdate": "Wed, 22 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Nine Inch Nails",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nine%20Inch%20Nails",
-      "pubdate": "Wed, 22 Jan 2025 23:00:00 +0100"
     }
   ]
 }
