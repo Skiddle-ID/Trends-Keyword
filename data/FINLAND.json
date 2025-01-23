@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "22-01-2025 , 23:35:47",
+  "lastUpdate": "23-01-2025 , 01:55:00",
   "data": [
+    {
+      "title": "Serena Williams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serena%20Williams",
+      "pubdate": "Thu, 23 Jan 2025 01:00:00 +0200"
+    },
     {
       "title": "Stargate",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stargate",
@@ -25,11 +30,6 @@
       "title": "Samsung",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Samsung",
       "pubdate": "Wed, 22 Jan 2025 21:00:00 +0200"
-    },
-    {
-      "title": "PSG – Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Manchester%20City",
-      "pubdate": "Wed, 22 Jan 2025 06:00:00 +0200"
     },
     {
       "title": "DEI",
@@ -57,6 +57,11 @@
       "pubdate": "Wed, 22 Jan 2025 01:00:00 +0200"
     },
     {
+      "title": "Mariann Edgar Budde",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariann%20Edgar%20Budde",
+      "pubdate": "Wed, 22 Jan 2025 23:00:00 +0200"
+    },
+    {
       "title": "Atlético Madrid – Leverkusen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Leverkusen",
       "pubdate": "Wed, 22 Jan 2025 10:00:00 +0200"
@@ -65,11 +70,6 @@
       "title": "Meta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meta",
       "pubdate": "Wed, 22 Jan 2025 09:00:00 +0200"
-    },
-    {
-      "title": "Mariann Edgar Budde",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariann%20Edgar%20Budde",
-      "pubdate": "Wed, 22 Jan 2025 23:00:00 +0200"
     },
     {
       "title": "Champions League",
