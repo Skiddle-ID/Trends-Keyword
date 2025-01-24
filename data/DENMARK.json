@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "24-01-2025 , 11:35:41",
+  "lastUpdate": "24-01-2025 , 12:55:45",
   "data": [
+    {
+      "title": "Novo aktie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20aktie",
+      "pubdate": "Fri, 24 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "The Substance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Substance",
       "pubdate": "Fri, 24 Jan 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Wicked",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wicked",
+      "pubdate": "Fri, 24 Jan 2025 11:00:00 +0100"
     },
     {
       "title": "Djokovic",
@@ -22,6 +32,11 @@
       "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Tesla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
+      "pubdate": "Thu, 23 Jan 2025 11:00:00 +0100"
+    },
+    {
       "title": "Chat",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chat",
       "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
@@ -37,11 +52,6 @@
       "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Tesla Model Y",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%20Y",
-      "pubdate": "Thu, 23 Jan 2025 11:00:00 +0100"
-    },
-    {
       "title": "Gemini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gemini",
       "pubdate": "Thu, 23 Jan 2025 15:00:00 +0100"
@@ -50,6 +60,16 @@
       "title": "US Presidents in order",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Presidents%20in%20order",
       "pubdate": "Thu, 23 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "OpenAI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OpenAI",
+      "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Bruce Willis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
+      "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Feyenoord  Bayern",
@@ -67,11 +87,6 @@
       "pubdate": "Thu, 23 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Bruce Willis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
-      "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Axel Rudakubana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Axel%20Rudakubana",
       "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
@@ -85,21 +100,6 @@
       "title": "A Complete Unknown",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#A%20Complete%20Unknown",
       "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Influenza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Influenza",
-      "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "ChatGPT Down",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ChatGPT%20Down",
-      "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "The Girl with the Needle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Girl%20with%20the%20Needle",
-      "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
     }
   ]
 }

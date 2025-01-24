@@ -1,6 +1,31 @@
 {
-  "lastUpdate": "24-01-2025 , 11:35:41",
+  "lastUpdate": "24-01-2025 , 12:55:45",
   "data": [
+    {
+      "title": "Slovensko Fico",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovensko%20Fico",
+      "pubdate": "Fri, 24 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Dominik Hašek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominik%20Ha%C5%A1ek",
+      "pubdate": "Fri, 24 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "OpenAI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OpenAI",
+      "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Jindřich Kadrnka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Kadrnka",
+      "pubdate": "Fri, 24 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Assassin's Creed Shadows",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Assassin's%20Creed%20Shadows",
+      "pubdate": "Fri, 24 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Plzeň – Anderlecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Anderlecht",
@@ -32,14 +57,19 @@
       "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
     },
     {
+      "title": "Slavia Praha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+      "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "Priske",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Priske",
       "pubdate": "Thu, 23 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Slavia Praha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
-      "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
+      "title": "Václav Klaus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Klaus",
+      "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Bob Dylan",
@@ -70,36 +100,6 @@
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PSG",
       "pubdate": "Thu, 23 Jan 2025 07:00:00 +0100"
-    },
-    {
-      "title": "JAG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#JAG",
-      "pubdate": "Thu, 23 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Ján Jackuliak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#J%C3%A1n%20Jackuliak",
-      "pubdate": "Thu, 23 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Havlíček",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Havl%C3%AD%C4%8Dek",
-      "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Samsung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Samsung",
-      "pubdate": "Wed, 22 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Diana Mórová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Diana%20M%C3%B3rov%C3%A1",
-      "pubdate": "Wed, 22 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Výstraha Ledovka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDstraha%20Ledovka",
-      "pubdate": "Wed, 22 Jan 2025 20:00:00 +0100"
     }
   ]
 }
