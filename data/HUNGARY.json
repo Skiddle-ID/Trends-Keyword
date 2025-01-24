@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-01-2025 , 23:35:25",
+  "lastUpdate": "24-01-2025 , 01:55:08",
   "data": [
+    {
+      "title": "Josh Brolin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Josh%20Brolin",
+      "pubdate": "Fri, 24 Jan 2025 00:00:00 +0100"
+    },
     {
       "title": "Bombariadó",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bombariad%C3%B3",
@@ -32,11 +37,6 @@
       "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
-      "pubdate": "Thu, 23 Jan 2025 01:00:00 +0100"
-    },
-    {
       "title": "Az–roma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%E2%80%93roma",
       "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
@@ -45,11 +45,6 @@
       "title": "Habony Árpád",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Habony%20%C3%81rp%C3%A1d",
       "pubdate": "Thu, 23 Jan 2025 08:00:00 +0100"
-    },
-    {
-      "title": "El",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
-      "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Alanyi adómentesség 2025",
@@ -65,6 +60,11 @@
       "title": "Bayern München",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
       "pubdate": "Thu, 23 Jan 2025 04:00:00 +0100"
+    },
+    {
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
+      "pubdate": "Thu, 23 Jan 2025 01:00:00 +0100"
     },
     {
       "title": "M1 Híradó",
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 23 Jan 2025 06:00:00 +0100"
     },
     {
-      "title": "Helena Elver",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Helena%20Elver",
-      "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
+      "title": "ACMilan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ACMilan",
+      "pubdate": "Thu, 23 Jan 2025 08:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 23:35:27",
+  "lastUpdate": "24-01-2025 , 01:55:10",
   "data": [
     {
       "title": "Bayern Munich",
@@ -27,6 +27,11 @@
       "pubdate": "Thu, 23 Jan 2025 02:00:00 +0300"
     },
     {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City",
+      "pubdate": "Thu, 23 Jan 2025 06:00:00 +0300"
+    },
+    {
       "title": "Night Agent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Night%20Agent",
       "pubdate": "Thu, 23 Jan 2025 18:00:00 +0300"
@@ -40,11 +45,6 @@
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
       "pubdate": "Thu, 23 Jan 2025 00:00:00 +0300"
-    },
-    {
-      "title": "Omar Marmoush",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Omar%20Marmoush",
-      "pubdate": "Thu, 23 Jan 2025 22:00:00 +0300"
     },
     {
       "title": "Roma",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 22 Jan 2025 10:00:00 +0300"
     },
     {
-      "title": "Barcelona FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
-      "pubdate": "Wed, 22 Jan 2025 01:00:00 +0300"
+      "title": "Sparta praha vs Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sparta%20praha%20vs%20Inter",
+      "pubdate": "Wed, 22 Jan 2025 23:00:00 +0300"
     }
   ]
 }

@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "23-01-2025 , 23:35:26",
+  "lastUpdate": "24-01-2025 , 01:55:09",
   "data": [
-    {
-      "title": "Man United vs Rangers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20United%20vs%20Rangers",
-      "pubdate": "Fri, 24 Jan 2025 01:30:00 +0530"
-    },
     {
       "title": "Earthquake",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Earthquake",
@@ -25,6 +20,11 @@
       "title": "Ranji Trophy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ranji%20Trophy",
       "pubdate": "Thu, 23 Jan 2025 14:30:00 +0530"
+    },
+    {
+      "title": "Netaji",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Netaji",
+      "pubdate": "Thu, 23 Jan 2025 08:30:00 +0530"
     },
     {
       "title": "Rohit Sharma",
@@ -47,9 +47,14 @@
       "pubdate": "Thu, 23 Jan 2025 11:30:00 +0530"
     },
     {
-      "title": "Subhash Chandra Bose Jayanti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Subhash%20Chandra%20Bose%20Jayanti",
-      "pubdate": "Thu, 23 Jan 2025 09:30:00 +0530"
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+      "pubdate": "Thu, 23 Jan 2025 08:30:00 +0530"
+    },
+    {
+      "title": "ChatGPT Down",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ChatGPT%20Down",
+      "pubdate": "Thu, 23 Jan 2025 23:30:00 +0530"
     },
     {
       "title": "Dominic and the Ladies' Purse",
@@ -57,19 +62,9 @@
       "pubdate": "Thu, 23 Jan 2025 13:30:00 +0530"
     },
     {
-      "title": "ChatGPT down",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ChatGPT%20down",
-      "pubdate": "Thu, 23 Jan 2025 23:30:00 +0530"
-    },
-    {
       "title": "Shardul Thakur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shardul%20Thakur",
       "pubdate": "Thu, 23 Jan 2025 14:30:00 +0530"
-    },
-    {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
-      "pubdate": "Thu, 23 Jan 2025 13:30:00 +0530"
     },
     {
       "title": "Aryna Sabalenka",
@@ -87,19 +82,24 @@
       "pubdate": "Thu, 23 Jan 2025 13:30:00 +0530"
     },
     {
-      "title": "अभिषेक शर्मा",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B7%E0%A5%87%E0%A4%95%20%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE",
-      "pubdate": "Thu, 23 Jan 2025 06:30:00 +0530"
+      "title": "IN vs ENG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IN%20vs%20ENG",
+      "pubdate": "Thu, 23 Jan 2025 07:30:00 +0530"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PSG",
-      "pubdate": "Thu, 23 Jan 2025 08:30:00 +0530"
+      "title": "Samsung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Samsung",
+      "pubdate": "Wed, 22 Jan 2025 13:30:00 +0530"
     },
     {
-      "title": "Jalgaon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jalgaon",
-      "pubdate": "Thu, 23 Jan 2025 10:30:00 +0530"
+      "title": "Cricket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+      "pubdate": "Wed, 22 Jan 2025 19:30:00 +0530"
+    },
+    {
+      "title": "Sports",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
+      "pubdate": "Wed, 22 Jan 2025 21:30:00 +0530"
     }
   ]
 }

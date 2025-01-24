@@ -1,1 +1,1 @@
-Ajax,Europa League,AZ,Man City,Storm,Riga Ajax,Esther Jansma,Mart Hoogkamer,Sabalenka,Emilia perez,Pinkpop,Juultje Tieleman,Jumping Amsterdam,Feyenoord,Samsung S25,Greenpeace,Feyenoord  Bayern,Champions League,Golden Earring,Trump
+Ajax,Europa League,AZ,Storm,Esther Jansma,Emilia perez,Pinkpop,Juultje Tieleman,Ajax riga,Feyenoord,Samsung,Greenpeace,Feyenoord  Bayern,Champions League,Golden Earring,Trump,Carice van Houten,Ivanka Trump,Sparta,Djokovic
