@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2025 , 04:39:17",
+  "lastUpdate": "25-01-2025 , 05:36:05",
   "data": [
     {
       "title": "Mikko Rantanen",
@@ -47,6 +47,11 @@
       "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
     },
     {
+      "title": "Pete Hegseth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Hegseth",
+      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+    },
+    {
       "title": "Flight Risk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flight%20Risk",
       "pubdate": "Fri, 24 Jan 2025 13:00:00 -0500"
@@ -57,14 +62,9 @@
       "pubdate": "Fri, 24 Jan 2025 12:00:00 -0500"
     },
     {
-      "title": "Star Trek: Section 31",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Star%20Trek:%20Section%2031",
+      "title": "Section 31",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Section%2031",
       "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Pete Hegseth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Hegseth",
-      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
     },
     {
       "title": "Lakers",
@@ -87,14 +87,14 @@
       "pubdate": "Fri, 24 Jan 2025 18:00:00 -0500"
     },
     {
-      "title": "Necas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Necas",
-      "pubdate": "Fri, 24 Jan 2025 22:00:00 -0500"
-    },
-    {
       "title": "Gary Bettman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gary%20Bettman",
       "pubdate": "Fri, 24 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "Suits: LA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Suits:%20LA",
+      "pubdate": "Fri, 24 Jan 2025 23:00:00 -0500"
     },
     {
       "title": "Liam Coen",
