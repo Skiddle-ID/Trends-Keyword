@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "25-01-2025 , 11:35:19",
+  "lastUpdate": "25-01-2025 , 12:52:06",
   "data": [
+    {
+      "title": "Miriam Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miriam%20Bryant",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Madison Keys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Madison%20Keys",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Bob hund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bob%20hund",
@@ -62,6 +72,11 @@
       "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
     },
     {
+      "title": "Pension",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pension",
+      "pubdate": "Fri, 24 Jan 2025 14:00:00 +0100"
+    },
+    {
       "title": "Djokovic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djokovic",
       "pubdate": "Fri, 24 Jan 2025 09:00:00 +0100"
@@ -77,29 +92,14 @@
       "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
     },
     {
-      "title": "Peter Gerhardsson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Gerhardsson",
-      "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
-    },
-    {
       "title": "Maja Nilsson Lindelöf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20Nilsson%20Lindel%C3%B6f",
       "pubdate": "Fri, 24 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Disney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Disney",
-      "pubdate": "Fri, 24 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Ericsson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ericsson",
-      "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "TSW",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TSW",
-      "pubdate": "Fri, 24 Jan 2025 21:00:00 +0100"
+      "title": "Peter Gerhardsson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Peter%20Gerhardsson",
+      "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
     }
   ]
 }
