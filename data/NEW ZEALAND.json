@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-01-2025 , 23:35:37",
+  "lastUpdate": "25-01-2025 , 01:50:19",
   "data": [
+    {
+      "title": "Ben Shelton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ben%20Shelton",
+      "pubdate": "Sat, 25 Jan 2025 09:00:00 +1300"
+    },
     {
       "title": "Weather warnings Storm Eowyn",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20warnings%20Storm%20Eowyn",
@@ -12,14 +17,19 @@
       "pubdate": "Sat, 25 Jan 2025 10:00:00 +1300"
     },
     {
+      "title": "Wellington Phoenix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +1300"
+    },
+    {
+      "title": "Anora",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anora",
+      "pubdate": "Sat, 25 Jan 2025 00:00:00 +1300"
+    },
+    {
       "title": "High Potential",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#High%20Potential",
       "pubdate": "Sat, 25 Jan 2025 01:00:00 +1300"
-    },
-    {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
-      "pubdate": "Fri, 24 Jan 2025 19:00:00 +1300"
     },
     {
       "title": "Oscar nominations 2025",
@@ -27,14 +37,19 @@
       "pubdate": "Fri, 24 Jan 2025 08:00:00 +1300"
     },
     {
-      "title": "Sabalenka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sabalenka",
-      "pubdate": "Fri, 24 Jan 2025 00:00:00 +1300"
+      "title": "Novak Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
+      "pubdate": "Fri, 24 Jan 2025 19:00:00 +1300"
     },
     {
       "title": "Benson Boone",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Benson%20Boone",
-      "pubdate": "Fri, 24 Jan 2025 12:00:00 +1300"
+      "pubdate": "Fri, 24 Jan 2025 11:00:00 +1300"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sabalenka",
+      "pubdate": "Fri, 24 Jan 2025 00:00:00 +1300"
     },
     {
       "title": "Hoffenheim vs Tottenham",
@@ -47,19 +62,9 @@
       "pubdate": "Fri, 24 Jan 2025 10:00:00 +1300"
     },
     {
-      "title": "The Brutalist",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Brutalist",
-      "pubdate": "Fri, 24 Jan 2025 12:00:00 +1300"
-    },
-    {
       "title": "Axel Rudakubana",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Axel%20Rudakubana",
       "pubdate": "Fri, 24 Jan 2025 12:00:00 +1300"
-    },
-    {
-      "title": "Missing swimmer Christchurch",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Missing%20swimmer%20Christchurch",
-      "pubdate": "Fri, 24 Jan 2025 11:00:00 +1300"
     },
     {
       "title": "A Complete Unknown",
@@ -72,9 +77,9 @@
       "pubdate": "Fri, 24 Jan 2025 22:00:00 +1300"
     },
     {
-      "title": "Ben Shelton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ben%20Shelton",
-      "pubdate": "Thu, 23 Jan 2025 13:00:00 +1300"
+      "title": "Muse",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Muse",
+      "pubdate": "Fri, 24 Jan 2025 18:00:00 +1300"
     },
     {
       "title": "Samsung",
@@ -95,11 +100,6 @@
       "title": "PSG vs Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSG%20vs%20Man%20City",
       "pubdate": "Thu, 23 Jan 2025 10:00:00 +1300"
-    },
-    {
-      "title": "Pagan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pagan",
-      "pubdate": "Thu, 23 Jan 2025 08:00:00 +1300"
     }
   ]
 }

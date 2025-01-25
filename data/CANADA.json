@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "24-01-2025 , 23:35:32",
+  "lastUpdate": "25-01-2025 , 01:50:14",
   "data": [
+    {
+      "title": "CRA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CRA",
+      "pubdate": "Fri, 24 Jan 2025 17:00:00 -0500"
+    },
     {
       "title": "Morgan Wallen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Morgan%20Wallen",
@@ -12,24 +17,24 @@
       "pubdate": "Fri, 24 Jan 2025 01:00:00 -0500"
     },
     {
-      "title": "Jannik Sinner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jannik%20Sinner",
-      "pubdate": "Fri, 24 Jan 2025 11:00:00 -0500"
-    },
-    {
       "title": "FEMA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FEMA",
       "pubdate": "Fri, 24 Jan 2025 13:00:00 -0500"
     },
     {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
-      "pubdate": "Fri, 24 Jan 2025 12:00:00 -0500"
+      "title": "Jannik Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jannik%20Sinner",
+      "pubdate": "Fri, 24 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "Jennifer Aniston",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
-      "pubdate": "Fri, 24 Jan 2025 03:00:00 -0500"
+      "title": "The substance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20substance",
+      "pubdate": "Fri, 24 Jan 2025 06:00:00 -0500"
+    },
+    {
+      "title": "Monique Chabot",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Monique%20Chabot",
+      "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
     },
     {
       "title": "Piriformis syndrome",
@@ -47,34 +52,14 @@
       "pubdate": "Fri, 24 Jan 2025 12:00:00 -0500"
     },
     {
-      "title": "Pete Hegseth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Hegseth",
-      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+      "title": "Epicure",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epicure",
+      "pubdate": "Fri, 24 Jan 2025 20:00:00 -0500"
     },
     {
-      "title": "Rhode",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rhode",
-      "pubdate": "Fri, 24 Jan 2025 14:00:00 -0500"
-    },
-    {
-      "title": "Monique Chabot",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Monique%20Chabot",
-      "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Liam Coen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liam%20Coen",
-      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Tina Turner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tina%20Turner",
-      "pubdate": "Fri, 24 Jan 2025 03:00:00 -0500"
-    },
-    {
-      "title": "Doom: The Dark Ages",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Doom:%20The%20Dark%20Ages",
-      "pubdate": "Fri, 24 Jan 2025 11:00:00 -0500"
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
+      "pubdate": "Fri, 24 Jan 2025 12:00:00 -0500"
     },
     {
       "title": "Star Trek: Section 31",
@@ -82,24 +67,39 @@
       "pubdate": "Fri, 24 Jan 2025 16:00:00 -0500"
     },
     {
+      "title": "Jennifer Aniston",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
+      "pubdate": "Fri, 24 Jan 2025 03:00:00 -0500"
+    },
+    {
+      "title": "Pete Hegseth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Hegseth",
+      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+    },
+    {
+      "title": "Tate McRae",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tate%20McRae",
+      "pubdate": "Fri, 24 Jan 2025 18:00:00 -0500"
+    },
+    {
+      "title": "Tony DeAngelo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tony%20DeAngelo",
+      "pubdate": "Fri, 24 Jan 2025 20:00:00 -0500"
+    },
+    {
+      "title": "Liam Coen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liam%20Coen",
+      "pubdate": "Fri, 24 Jan 2025 15:00:00 -0500"
+    },
+    {
       "title": "Tesla Model Y",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tesla%20Model%20Y",
       "pubdate": "Fri, 24 Jan 2025 14:00:00 -0500"
     },
     {
-      "title": "Toronto Maple Leafs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
-      "pubdate": "Thu, 23 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Pierre Poilievre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Poilievre",
-      "pubdate": "Thu, 23 Jan 2025 08:00:00 -0500"
-    },
-    {
-      "title": "Ontario election",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ontario%20election",
-      "pubdate": "Thu, 23 Jan 2025 11:00:00 -0500"
+      "title": "Tina Turner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tina%20Turner",
+      "pubdate": "Fri, 24 Jan 2025 03:00:00 -0500"
     }
   ]
 }
