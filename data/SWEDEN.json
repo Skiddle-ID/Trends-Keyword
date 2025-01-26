@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2025 , 23:35:15",
+  "lastUpdate": "26-01-2025 , 01:57:55",
   "data": [
     {
       "title": "Tomas Brolin",
@@ -17,9 +17,14 @@
       "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
     },
     {
-      "title": "Usman Nurmagomedov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Usman%20Nurmagomedov",
-      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0100"
+      "title": "AFD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFD",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Miriam Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miriam%20Bryant",
+      "pubdate": "Sat, 25 Jan 2025 12:00:00 +0100"
     },
     {
       "title": "Jonna Sundling",
@@ -27,14 +32,14 @@
       "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "AFD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AFD",
-      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
-    },
-    {
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
       "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Usman Nurmagomedov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Usman%20Nurmagomedov",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "Gais",
@@ -50,11 +55,6 @@
       "title": "Let's dance",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Let's%20dance",
       "pubdate": "Fri, 24 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Sverige Brasilien handboll",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Brasilien%20handboll",
-      "pubdate": "Fri, 24 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Gunde Svan",
@@ -92,14 +92,14 @@
       "pubdate": "Fri, 24 Jan 2025 22:00:00 +0100"
     },
     {
-      "title": "David Lagercrantz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Lagercrantz",
-      "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
-    },
-    {
       "title": "Pension",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pension",
       "pubdate": "Fri, 24 Jan 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Djokovic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djokovic",
+      "pubdate": "Fri, 24 Jan 2025 09:00:00 +0100"
     }
   ]
 }

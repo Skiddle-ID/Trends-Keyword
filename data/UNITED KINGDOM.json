@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "25-01-2025 , 23:35:16",
+  "lastUpdate": "26-01-2025 , 01:57:57",
   "data": [
+    {
+      "title": "WHSmith",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#WHSmith",
+      "pubdate": "Sun, 26 Jan 2025 00:00:00 +0000"
+    },
     {
       "title": "Man City vs Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20Chelsea",
@@ -12,14 +17,14 @@
       "pubdate": "Sat, 25 Jan 2025 15:00:00 +0000"
     },
     {
-      "title": "Snow/ice warning",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Snow/ice%20warning",
-      "pubdate": "Sat, 25 Jan 2025 05:00:00 +0000"
-    },
-    {
       "title": "Wolves vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wolves%20vs%20Arsenal",
       "pubdate": "Sat, 25 Jan 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea",
+      "pubdate": "Sat, 25 Jan 2025 19:00:00 +0000"
     },
     {
       "title": "Sabalenka",
@@ -32,6 +37,11 @@
       "pubdate": "Sat, 25 Jan 2025 14:00:00 +0000"
     },
     {
+      "title": "Valladolid vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Valladolid%20vs%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0000"
+    },
+    {
       "title": "Burns Night",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Burns%20Night",
       "pubdate": "Sat, 25 Jan 2025 18:00:00 +0000"
@@ -42,21 +52,6 @@
       "pubdate": "Sat, 25 Jan 2025 20:00:00 +0000"
     },
     {
-      "title": "Khusanov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Khusanov",
-      "pubdate": "Sat, 25 Jan 2025 18:00:00 +0000"
-    },
-    {
-      "title": "Bournemouth vs nottm Forest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bournemouth%20vs%20nottm%20Forest",
-      "pubdate": "Sat, 25 Jan 2025 15:00:00 +0000"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Real%20Madrid",
-      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0000"
-    },
-    {
       "title": "Omar Marmoush",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Omar%20Marmoush",
       "pubdate": "Sat, 25 Jan 2025 19:00:00 +0000"
@@ -65,6 +60,11 @@
       "title": "Claudia Winkleman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Claudia%20Winkleman",
       "pubdate": "Sat, 25 Jan 2025 01:00:00 +0000"
+    },
+    {
+      "title": "Sunderland vs Plymouth Argyle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sunderland%20vs%20Plymouth%20Argyle",
+      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0000"
     },
     {
       "title": "Everton",
@@ -87,18 +87,18 @@
       "pubdate": "Sat, 25 Jan 2025 00:00:00 +0000"
     },
     {
-      "title": "Tycoon",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tycoon",
+      "title": "Will Ferrell",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Will%20Ferrell",
       "pubdate": "Sat, 25 Jan 2025 12:00:00 +0000"
     },
     {
-      "title": "Sunderland vs Plymouth Argyle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sunderland%20vs%20Plymouth%20Argyle",
-      "pubdate": "Sat, 25 Jan 2025 17:00:00 +0000"
+      "title": "Paul McCartney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Paul%20McCartney",
+      "pubdate": "Sat, 25 Jan 2025 23:00:00 +0000"
     },
     {
-      "title": "Will Ferrell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Will%20Ferrell",
+      "title": "Nkunku",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nkunku",
       "pubdate": "Sat, 25 Jan 2025 12:00:00 +0000"
     }
   ]

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "25-01-2025 , 23:35:09",
+  "lastUpdate": "26-01-2025 , 01:57:48",
   "data": [
+    {
+      "title": "Omar Marmoush",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Omar%20Marmoush",
+      "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
+    },
     {
       "title": "Man City  Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Chelsea",
@@ -17,14 +22,19 @@
       "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
     },
     {
+      "title": "Valladolid  Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valladolid%20%20Real%20Madrid",
+      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+    },
+    {
       "title": "Pete Hegseth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pete%20Hegseth",
       "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Valladolid  Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valladolid%20%20Real%20Madrid",
-      "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
+      "title": "Khusanov",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Khusanov",
+      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "FEMA",
@@ -40,11 +50,6 @@
       "title": "Simone Biles",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simone%20Biles",
       "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Khusanov",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Khusanov",
-      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Southampton  Newcastle",
@@ -95,11 +100,6 @@
       "title": "Super Bowl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Super%20Bowl%202025",
       "pubdate": "Fri, 24 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "The substance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20substance",
-      "pubdate": "Fri, 24 Jan 2025 01:00:00 +0100"
     }
   ]
 }
