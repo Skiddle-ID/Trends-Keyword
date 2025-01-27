@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-01-2025 , 23:35:36",
+  "lastUpdate": "27-01-2025 , 01:56:51",
   "data": [
     {
       "title": "Commanders vs Eagles",
@@ -12,9 +12,9 @@
       "pubdate": "Sun, 26 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Barcelona vs Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona%20vs%20Valencia",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 -0500"
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
     },
     {
       "title": "Fulham vs Man United",
@@ -27,14 +27,24 @@
       "pubdate": "Sun, 26 Jan 2025 02:00:00 -0500"
     },
     {
+      "title": "Chandra Arya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandra%20Arya",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
+    },
+    {
+      "title": "Patrick Mahomes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patrick%20Mahomes",
+      "pubdate": "Sun, 26 Jan 2025 20:00:00 -0500"
+    },
+    {
       "title": "Quinn Hughes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Quinn%20Hughes",
       "pubdate": "Sun, 26 Jan 2025 00:00:00 -0500"
     },
     {
-      "title": "Chandra Arya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandra%20Arya",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
+      "title": "Columbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Columbia",
+      "pubdate": "Sun, 26 Jan 2025 18:00:00 -0500"
     },
     {
       "title": "Tottenham vs Leicester City",
@@ -42,13 +52,8 @@
       "pubdate": "Sun, 26 Jan 2025 11:00:00 -0500"
     },
     {
-      "title": "Saquon Barkley",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saquon%20Barkley",
-      "pubdate": "Sun, 26 Jan 2025 16:00:00 -0500"
-    },
-    {
-      "title": "Barca",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barca",
+      "title": "Colombia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colombia",
       "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
     },
     {
@@ -62,19 +67,14 @@
       "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
     },
     {
+      "title": "Hailee Steinfeld",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hailee%20Steinfeld",
+      "pubdate": "Sun, 26 Jan 2025 19:00:00 -0500"
+    },
+    {
       "title": "PWHL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PWHL",
       "pubdate": "Sun, 26 Jan 2025 00:00:00 -0500"
-    },
-    {
-      "title": "Aston Villa vs West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aston%20Villa%20vs%20West%20Ham",
-      "pubdate": "Sun, 26 Jan 2025 13:00:00 -0500"
-    },
-    {
-      "title": "AfD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AfD",
-      "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
     },
     {
       "title": "FC Barcelona",
@@ -82,9 +82,9 @@
       "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
     },
     {
-      "title": "When is The Super Bowl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#When%20is%20The%20Super%20Bowl",
-      "pubdate": "Sun, 26 Jan 2025 16:00:00 -0500"
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AfD",
+      "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
     },
     {
       "title": "Republic Day India",
@@ -92,14 +92,14 @@
       "pubdate": "Sun, 26 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Colombia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colombia",
-      "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
-    },
-    {
       "title": "Al Nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Al%20Nassr",
       "pubdate": "Sun, 26 Jan 2025 16:00:00 -0500"
+    },
+    {
+      "title": "Jakub dobes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jakub%20dobes",
+      "pubdate": "Sun, 26 Jan 2025 13:00:00 -0500"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "26-01-2025 , 23:35:38",
+  "lastUpdate": "27-01-2025 , 01:56:55",
   "data": [
+    {
+      "title": "Barcelona vs Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Valencia",
+      "pubdate": "Mon, 27 Jan 2025 01:30:00 +0530"
+    },
     {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
@@ -25,11 +30,6 @@
       "title": "Indonesia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indonesia",
       "pubdate": "Sun, 26 Jan 2025 11:30:00 +0530"
-    },
-    {
-      "title": "Sophie devine",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sophie%20devine",
-      "pubdate": "Sun, 26 Jan 2025 18:30:00 +0530"
     },
     {
       "title": "26 जनवरी गणतंत्र दिवस",
@@ -67,29 +67,24 @@
       "pubdate": "Sat, 25 Jan 2025 20:30:00 +0530"
     },
     {
+      "title": "Republic Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Republic%20Day",
+      "pubdate": "Sat, 25 Jan 2025 21:30:00 +0530"
+    },
+    {
+      "title": "26 January",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#26%20January",
+      "pubdate": "Sat, 25 Jan 2025 13:30:00 +0530"
+    },
+    {
       "title": "Cricket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
       "pubdate": "Sat, 25 Jan 2025 22:30:00 +0530"
     },
     {
-      "title": "ICC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC",
-      "pubdate": "Sat, 25 Jan 2025 21:30:00 +0530"
-    },
-    {
       "title": "Brydon Carse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Brydon%20Carse",
       "pubdate": "Sat, 25 Jan 2025 19:30:00 +0530"
-    },
-    {
-      "title": "26 January",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#26%20January",
-      "pubdate": "Sat, 25 Jan 2025 18:30:00 +0530"
-    },
-    {
-      "title": "26 January 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#26%20January%202025",
-      "pubdate": "Sat, 25 Jan 2025 13:30:00 +0530"
     },
     {
       "title": "Padma Awards 2025",
@@ -100,6 +95,11 @@
       "title": "Arshdeep Singh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arshdeep%20Singh",
       "pubdate": "Sat, 25 Jan 2025 20:30:00 +0530"
+    },
+    {
+      "title": "Sabalenka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sabalenka",
+      "pubdate": "Sat, 25 Jan 2025 19:30:00 +0530"
     }
   ]
 }

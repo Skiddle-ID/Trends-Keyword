@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "26-01-2025 , 23:35:36",
+  "lastUpdate": "27-01-2025 , 01:56:52",
   "data": [
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Megan Fox",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Megan%20Fox",
+      "pubdate": "Mon, 27 Jan 2025 02:00:00 +0100"
+    },
     {
       "title": "Tottenham – Leicester",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Leicester",
       "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Aston Villa – West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aston%20Villa%20%E2%80%93%20West%20Ham",
+      "pubdate": "Sun, 26 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Sinner",
@@ -85,21 +100,6 @@
       "title": "Jiří Lábus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20L%C3%A1bus",
       "pubdate": "Sat, 25 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Centralia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Centralia",
-      "pubdate": "Sat, 25 Jan 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Protesty Slovensko",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Protesty%20Slovensko",
-      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Sáblíková",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#S%C3%A1bl%C3%ADkov%C3%A1",
-      "pubdate": "Sat, 25 Jan 2025 20:00:00 +0100"
     }
   ]
 }

@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "26-01-2025 , 23:35:43",
+  "lastUpdate": "27-01-2025 , 01:56:59",
   "data": [
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tottenham",
+      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Suicide Squad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Suicide%20Squad",
+      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Dorothée Olliéric",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Doroth%C3%A9e%20Olli%C3%A9ric",
+      "pubdate": "Mon, 27 Jan 2025 01:00:00 +0100"
+    },
     {
       "title": "Star Academy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy",
       "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
-    },
-    {
-      "title": "St.Gallen – Lausanne-Sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20Lausanne-Sport",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Luzern – Zürich",
@@ -22,14 +32,14 @@
       "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
     },
     {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
-    },
-    {
       "title": "Barcelone – Valence",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelone%20%E2%80%93%20Valence",
       "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "AC Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AC%20Milan",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Büne Huber",
@@ -42,9 +52,14 @@
       "pubdate": "Sun, 26 Jan 2025 23:00:00 +0100"
     },
     {
-      "title": "Lenny Rubin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lenny%20Rubin",
-      "pubdate": "Sun, 26 Jan 2025 19:00:00 +0100"
+      "title": "Charles bietry",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20bietry",
+      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0100"
+    },
+    {
+      "title": "St.Gallen – Lausanne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen%20%E2%80%93%20Lausanne",
+      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "Sophia Thomalla",
@@ -57,18 +72,13 @@
       "pubdate": "Sun, 26 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Charles bietry",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20bietry",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0100"
+      "title": "Fulham – Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fulham%20%E2%80%93%20Manchester%20United",
+      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     },
     {
       "title": "FC Sion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Fulham – Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fulham%20%E2%80%93%20Manchester%20United",
       "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     },
     {
@@ -82,24 +92,14 @@
       "pubdate": "Sun, 26 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Sporting",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Angelina Jolie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Angelina%20Jolie",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+      "title": "Tatort Saarbrücken",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tatort%20Saarbr%C3%BCcken",
+      "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Dany Brillant",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dany%20Brillant",
       "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Ali Abunimah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ali%20Abunimah",
-      "pubdate": "Sun, 26 Jan 2025 11:00:00 +0100"
     }
   ]
 }
