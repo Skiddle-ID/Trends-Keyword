@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "27-01-2025 , 11:35:59",
+  "lastUpdate": "27-01-2025 , 12:57:00",
   "data": [
+    {
+      "title": "Nvidia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nvidia",
+      "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Nainggolan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nainggolan",
+      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0100"
+    },
     {
       "title": "Giovanni Allevi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giovanni%20Allevi",
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Eleonora Giorgi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eleonora%20Giorgi",
+      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "La vita è bella",
@@ -17,13 +32,13 @@
       "pubdate": "Mon, 27 Jan 2025 08:00:00 +0100"
     },
     {
-      "title": "Churchill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Churchill",
-      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+      "title": "Giorgia Meloni Bin Salman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgia%20Meloni%20Bin%20Salman",
+      "pubdate": "Mon, 27 Jan 2025 12:00:00 +0100"
     },
     {
-      "title": "Endometriosi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Endometriosi",
+      "title": "Churchill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Churchill",
       "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
     },
     {
@@ -32,9 +47,19 @@
       "pubdate": "Mon, 27 Jan 2025 08:00:00 +0100"
     },
     {
+      "title": "Endometriosi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Endometriosi",
+      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
+    },
+    {
       "title": "Colombia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Colombia",
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Lucca",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lucca",
+      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Coez",
@@ -67,39 +92,14 @@
       "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Barcellona  Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcellona%20%20Valencia",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Conceicao-Calabria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Conceicao-Calabria",
+      "title": "Classifica ATP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20ATP",
       "pubdate": "Sun, 26 Jan 2025 16:00:00 +0100"
     },
     {
-      "title": "Gianni Morandi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gianni%20Morandi",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Daniele Scardina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina",
-      "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Pisa  Salernitana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pisa%20%20Salernitana",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Claudio Baglioni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Claudio%20Baglioni",
-      "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Giorni della merla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorni%20della%20merla",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+      "title": "Barcellona  Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Barcellona%20%20Valencia",
+      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
     }
   ]
 }

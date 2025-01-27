@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2025 , 11:36:02",
+  "lastUpdate": "27-01-2025 , 12:57:02",
   "data": [
     {
       "title": "DeepSeek",
@@ -22,6 +22,11 @@
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
     },
     {
+      "title": "Dorinel Munteanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dorinel%20Munteanu",
+      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0200"
+    },
+    {
       "title": "Steaua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua",
       "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
@@ -32,8 +37,8 @@
       "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
     },
     {
-      "title": "Barcelona  Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20%20Valencia",
+      "title": "Barcelona - Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Valencia",
       "pubdate": "Sun, 26 Jan 2025 22:00:00 +0200"
     },
     {
@@ -75,11 +80,6 @@
       "title": "Zverev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zverev",
       "pubdate": "Sun, 26 Jan 2025 12:00:00 +0200"
-    },
-    {
-      "title": "Fulham - Man utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fulham%20-%20Man%20utd",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0200"
     },
     {
       "title": "Rayo  Girona",

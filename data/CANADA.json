@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "27-01-2025 , 11:35:55",
+  "lastUpdate": "27-01-2025 , 12:56:56",
   "data": [
+    {
+      "title": "Jets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
+      "pubdate": "Mon, 27 Jan 2025 06:00:00 -0500"
+    },
     {
       "title": "Pattullo Bridge",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pattullo%20Bridge",
@@ -14,6 +19,11 @@
     {
       "title": "Super Bowl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Super%20Bowl%202025",
+      "pubdate": "Sun, 26 Jan 2025 22:00:00 -0500"
+    },
+    {
+      "title": "Commanders vs Eagles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Commanders%20vs%20Eagles",
       "pubdate": "Sun, 26 Jan 2025 12:00:00 -0500"
     },
     {
@@ -32,24 +42,24 @@
       "pubdate": "Sun, 26 Jan 2025 10:00:00 -0500"
     },
     {
-      "title": "Chandra Arya",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandra%20Arya",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
-    },
-    {
       "title": "Colombia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colombia",
       "pubdate": "Sun, 26 Jan 2025 17:00:00 -0500"
     },
     {
-      "title": "Fulham vs Man United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fulham%20vs%20Man%20United",
-      "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
+      "title": "Liberal leadership race",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liberal%20leadership%20race",
+      "pubdate": "Sun, 26 Jan 2025 20:00:00 -0500"
     },
     {
       "title": "Timothee Chalamet",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timothee%20Chalamet",
       "pubdate": "Sun, 26 Jan 2025 02:00:00 -0500"
+    },
+    {
+      "title": "Chandra Arya",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chandra%20Arya",
+      "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
     },
     {
       "title": "Columbia",
@@ -72,11 +82,6 @@
       "pubdate": "Sun, 26 Jan 2025 00:00:00 -0500"
     },
     {
-      "title": "Superbowl 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Superbowl%202025",
-      "pubdate": "Sun, 26 Jan 2025 22:00:00 -0500"
-    },
-    {
       "title": "Elias Pettersson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elias%20Pettersson",
       "pubdate": "Sun, 26 Jan 2025 01:00:00 -0500"
@@ -95,11 +100,6 @@
       "title": "Psg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Psg",
       "pubdate": "Sun, 26 Jan 2025 11:00:00 -0500"
-    },
-    {
-      "title": "PWHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PWHL",
-      "pubdate": "Sun, 26 Jan 2025 00:00:00 -0500"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "27-01-2025 , 11:35:55",
+  "lastUpdate": "27-01-2025 , 12:56:56",
   "data": [
+    {
+      "title": "DeepSeek",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#DeepSeek",
+      "pubdate": "Mon, 27 Jan 2025 06:00:00 -0500"
+    },
     {
       "title": "Bolsa de colostomia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsa%20de%20colostomia",
@@ -22,6 +27,11 @@
       "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
     },
     {
+      "title": "Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 -0500"
+    },
+    {
       "title": "Fulham x Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham%20x%20Manchester%20United",
       "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
@@ -30,6 +40,11 @@
       "title": "Zverev",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zverev",
       "pubdate": "Sun, 26 Jan 2025 08:00:00 -0500"
+    },
+    {
+      "title": "Super Bowl 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Super%20Bowl%202025",
+      "pubdate": "Sun, 26 Jan 2025 19:00:00 -0500"
     },
     {
       "title": "Chiefs x Bills",
@@ -45,11 +60,6 @@
       "title": "Mirassol x Portuguesa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol%20x%20Portuguesa",
       "pubdate": "Sun, 26 Jan 2025 14:00:00 -0500"
-    },
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
-      "pubdate": "Sun, 26 Jan 2025 13:00:00 -0500"
     },
     {
       "title": "Botafogo-SP x São Bernardo",
@@ -72,33 +82,23 @@
       "pubdate": "Sun, 26 Jan 2025 20:00:00 -0500"
     },
     {
+      "title": "Atlético-go x vila nova",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-go%20x%20vila%20nova",
+      "pubdate": "Sun, 26 Jan 2025 16:00:00 -0500"
+    },
+    {
       "title": "Ceara",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
       "pubdate": "Sun, 26 Jan 2025 18:00:00 -0500"
     },
     {
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
+      "pubdate": "Sun, 26 Jan 2025 09:00:00 -0500"
+    },
+    {
       "title": "Criciúma x Barra",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Barra",
-      "pubdate": "Sun, 26 Jan 2025 18:00:00 -0500"
-    },
-    {
-      "title": "Porto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-      "pubdate": "Sun, 26 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Lauana Prado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lauana%20Prado",
-      "pubdate": "Sun, 26 Jan 2025 18:00:00 -0500"
-    },
-    {
-      "title": "Ana castela",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ana%20castela",
-      "pubdate": "Sun, 26 Jan 2025 23:00:00 -0500"
-    },
-    {
-      "title": "Guarani",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
       "pubdate": "Sun, 26 Jan 2025 18:00:00 -0500"
     }
   ]
