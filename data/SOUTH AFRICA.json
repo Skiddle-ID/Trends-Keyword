@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2025 , 23:35:26",
+  "lastUpdate": "28-01-2025 , 01:54:28",
   "data": [
     {
       "title": "Nvidia share price",
@@ -17,24 +17,9 @@
       "pubdate": "Mon, 27 Jan 2025 07:00:00 +0200"
     },
     {
-      "title": "Thabo Cele",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thabo%20Cele",
-      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0200"
-    },
-    {
       "title": "Janusz Waluś",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Janusz%20Walu%C5%9B",
       "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
-    },
-    {
-      "title": "Man Utd",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20Utd",
-      "pubdate": "Mon, 27 Jan 2025 19:00:00 +0200"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
-      "pubdate": "Mon, 27 Jan 2025 01:00:00 +0200"
     },
     {
       "title": "Burnley vs Leeds United",
@@ -42,9 +27,24 @@
       "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
     },
     {
-      "title": "Afcon 2025 draw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Afcon%202025%20draw",
+      "title": "Man Utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20Utd",
+      "pubdate": "Mon, 27 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Sekhukhune United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sekhukhune%20United",
+      "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
+    },
+    {
+      "title": "AFCON 2025 draw",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AFCON%202025%20draw",
       "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+    },
+    {
+      "title": "FC Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FC%20Barcelona",
+      "pubdate": "Mon, 27 Jan 2025 01:00:00 +0200"
     },
     {
       "title": "Chiefs vs Bills",
@@ -57,11 +57,6 @@
       "pubdate": "Mon, 27 Jan 2025 19:00:00 +0200"
     },
     {
-      "title": "Cape Town City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town%20City",
-      "pubdate": "Mon, 27 Jan 2025 21:00:00 +0200"
-    },
-    {
       "title": "Chinese New Year 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chinese%20New%20Year%202025",
       "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
@@ -70,6 +65,16 @@
       "title": "Tashreeq Morris",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tashreeq%20Morris",
       "pubdate": "Mon, 27 Jan 2025 19:00:00 +0200"
+    },
+    {
+      "title": "Al Ahly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
+      "pubdate": "Mon, 27 Jan 2025 01:00:00 +0200"
+    },
+    {
+      "title": "Al-Hilal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Hilal",
+      "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
     },
     {
       "title": "Kaizer Chiefs vs Free Agents",
@@ -94,11 +99,6 @@
     {
       "title": "Tottenham vs Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham%20vs%20Leicester%20City",
-      "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
-    },
-    {
-      "title": "Aston Villa vs West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa%20vs%20West%20Ham",
       "pubdate": "Sun, 26 Jan 2025 16:00:00 +0200"
     }
   ]

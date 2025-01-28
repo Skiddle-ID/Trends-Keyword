@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2025 , 23:35:26",
+  "lastUpdate": "28-01-2025 , 01:54:28",
   "data": [
     {
       "title": "Rashford",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 28 Jan 2025 00:00:00 +0800"
     },
     {
-      "title": "Jeju Air crash",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jeju%20Air%20crash",
-      "pubdate": "Mon, 27 Jan 2025 17:00:00 +0800"
-    },
-    {
       "title": "Li Shengwu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Li%20Shengwu",
       "pubdate": "Mon, 27 Jan 2025 19:00:00 +0800"
+    },
+    {
+      "title": "Jeju Air crash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jeju%20Air%20crash",
+      "pubdate": "Mon, 27 Jan 2025 17:00:00 +0800"
     },
     {
       "title": "Colombia",
@@ -22,9 +22,9 @@
       "pubdate": "Mon, 27 Jan 2025 11:00:00 +0800"
     },
     {
-      "title": "Happy Chinese New Year",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20Chinese%20New%20Year",
-      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0800"
+      "title": "Lunar New Year",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lunar%20New%20Year",
+      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0800"
     },
     {
       "title": "Emma Raducanu",
@@ -32,19 +32,14 @@
       "pubdate": "Mon, 27 Jan 2025 18:00:00 +0800"
     },
     {
-      "title": "Lunar New Year",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lunar%20New%20Year",
-      "pubdate": "Mon, 27 Jan 2025 13:00:00 +0800"
+      "title": "QQQ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#QQQ",
+      "pubdate": "Mon, 27 Jan 2025 22:00:00 +0800"
     },
     {
       "title": "Super Bowl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Super%20Bowl%202025",
       "pubdate": "Mon, 27 Jan 2025 18:00:00 +0800"
-    },
-    {
-      "title": "Australia Day",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australia%20Day",
-      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0800"
     },
     {
       "title": "Columbia",
@@ -100,6 +95,11 @@
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jannik%20Sinner",
       "pubdate": "Fri, 24 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zverev",
+      "pubdate": "Fri, 24 Jan 2025 21:00:00 +0800"
     }
   ]
 }
