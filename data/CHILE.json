@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "28-01-2025 , 11:35:52",
+  "lastUpdate": "28-01-2025 , 12:56:12",
   "data": [
     {
       "title": "TVN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN",
       "pubdate": "Tue, 28 Jan 2025 00:00:00 -0300"
+    },
+    {
+      "title": "Reforma de pensiones",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Reforma%20de%20pensiones",
+      "pubdate": "Tue, 28 Jan 2025 09:00:00 -0300"
     },
     {
       "title": "Chile Sub 20",
@@ -47,6 +52,11 @@
       "pubdate": "Mon, 27 Jan 2025 07:00:00 -0300"
     },
     {
+      "title": "Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
+      "pubdate": "Mon, 27 Jan 2025 22:00:00 -0300"
+    },
+    {
       "title": "Selena gomez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Selena%20gomez",
       "pubdate": "Mon, 27 Jan 2025 17:00:00 -0300"
@@ -77,6 +87,11 @@
       "pubdate": "Mon, 27 Jan 2025 02:00:00 -0300"
     },
     {
+      "title": "Vicente Sabatini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vicente%20Sabatini",
+      "pubdate": "Mon, 27 Jan 2025 19:00:00 -0300"
+    },
+    {
       "title": "Permiso de circulacion 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Permiso%20de%20circulacion%202025",
       "pubdate": "Mon, 27 Jan 2025 11:00:00 -0300"
@@ -85,21 +100,6 @@
       "title": "Lucas Di Yorio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lucas%20Di%20Yorio",
       "pubdate": "Mon, 27 Jan 2025 13:00:00 -0300"
-    },
-    {
-      "title": "Bruno Barticciotto",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bruno%20Barticciotto",
-      "pubdate": "Mon, 27 Jan 2025 19:00:00 -0300"
-    },
-    {
-      "title": "Huachipato",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
-      "pubdate": "Mon, 27 Jan 2025 13:00:00 -0300"
-    },
-    {
-      "title": "Barcelona  Valencia CF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Valencia%20CF",
-      "pubdate": "Sun, 26 Jan 2025 17:00:00 -0300"
     }
   ]
 }

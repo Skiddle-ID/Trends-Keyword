@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "28-01-2025 , 11:35:58",
+  "lastUpdate": "28-01-2025 , 12:56:17",
   "data": [
+    {
+      "title": "Neymar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neymar",
+      "pubdate": "Tue, 28 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "Coca-Cola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coca-Cola",
+      "pubdate": "Tue, 28 Jan 2025 12:00:00 +0200"
+    },
     {
       "title": "Selena Gomez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Selena%20Gomez",
@@ -27,8 +37,13 @@
       "pubdate": "Tue, 28 Jan 2025 11:00:00 +0200"
     },
     {
-      "title": "CFR Cluj  Farul Constanța",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Farul%20Constan%C8%9Ba",
+      "title": "Papa Francisc",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Papa%20Francisc",
+      "pubdate": "Tue, 28 Jan 2025 14:00:00 +0200"
+    },
+    {
+      "title": "CFR Cluj - Farul Constanța",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20-%20Farul%20Constan%C8%9Ba",
       "pubdate": "Mon, 27 Jan 2025 11:00:00 +0200"
     },
     {
@@ -57,6 +72,11 @@
       "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
     },
     {
+      "title": "Leonard Doroftei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leonard%20Doroftei",
+      "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+    },
+    {
       "title": "Comisia de la Veneția",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Comisia%20de%20la%20Vene%C8%9Bia",
       "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
@@ -65,11 +85,6 @@
       "title": "Manchester United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manchester%20United",
       "pubdate": "Mon, 27 Jan 2025 09:00:00 +0200"
-    },
-    {
-      "title": "Leonard Doroftei",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leonard%20Doroftei",
-      "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
     },
     {
       "title": "Congo",
@@ -85,21 +100,6 @@
       "title": "Horoscop 27 ianuarie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2027%20ianuarie",
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
-    },
-    {
-      "title": "Auschwitz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Auschwitz",
-      "pubdate": "Mon, 27 Jan 2025 16:00:00 +0200"
-    },
-    {
-      "title": "Mozart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mozart",
-      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0200"
-    },
-    {
-      "title": "Daniel David",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniel%20David",
-      "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
     }
   ]
 }

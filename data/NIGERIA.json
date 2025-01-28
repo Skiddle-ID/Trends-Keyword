@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 11:35:57",
+  "lastUpdate": "28-01-2025 , 12:56:16",
   "data": [
     {
       "title": "Chinese New Year 2025",
@@ -12,14 +12,14 @@
       "pubdate": "Tue, 28 Jan 2025 08:00:00 +0100"
     },
     {
-      "title": "Celta Vigo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celta%20Vigo",
-      "pubdate": "Tue, 28 Jan 2025 07:00:00 +0100"
-    },
-    {
       "title": "Akor Adams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Akor%20Adams",
       "pubdate": "Tue, 28 Jan 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Celta Vigo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celta%20Vigo",
+      "pubdate": "Tue, 28 Jan 2025 07:00:00 +0100"
     },
     {
       "title": "Civil Service recruitment",
@@ -27,19 +27,9 @@
       "pubdate": "Tue, 28 Jan 2025 11:00:00 +0100"
     },
     {
-      "title": "DeepSeek AI App",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#DeepSeek%20AI%20App",
-      "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
-      "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Federal Civil Service Commission recruitment",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Federal%20Civil%20Service%20Commission%20recruitment",
-      "pubdate": "Mon, 27 Jan 2025 14:00:00 +0100"
+      "title": "Selena Gomez",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Selena%20Gomez",
+      "pubdate": "Tue, 28 Jan 2025 13:00:00 +0100"
     },
     {
       "title": "Man Utd",
@@ -47,9 +37,14 @@
       "pubdate": "Mon, 27 Jan 2025 17:00:00 +0100"
     },
     {
-      "title": "Man U",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20U",
-      "pubdate": "Mon, 27 Jan 2025 17:00:00 +0100"
+      "title": "DeepSeek AI App",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#DeepSeek%20AI%20App",
+      "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Federal Civil Service Commission recruitment",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Federal%20Civil%20Service%20Commission%20recruitment",
+      "pubdate": "Mon, 27 Jan 2025 14:00:00 +0100"
     },
     {
       "title": "Manchester United",
@@ -62,14 +57,14 @@
       "pubdate": "Mon, 27 Jan 2025 00:00:00 +0100"
     },
     {
-      "title": "Afe Babalola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Afe%20Babalola",
-      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
-    },
-    {
       "title": "Burnley vs Leeds United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley%20vs%20Leeds%20United",
       "pubdate": "Mon, 27 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Afe Babalola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Afe%20Babalola",
+      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
     },
     {
       "title": "AFCON 2025 draw",
@@ -92,14 +87,19 @@
       "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
     },
     {
-      "title": "Man Utd fixtures",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd%20fixtures",
-      "pubdate": "Mon, 27 Jan 2025 07:00:00 +0100"
-    },
-    {
       "title": "Cristiano Ronaldo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cristiano%20Ronaldo",
       "pubdate": "Mon, 27 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "Fulham vs Man United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham%20vs%20Man%20United",
+      "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Barcelona vs Valencia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Valencia",
+      "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
     }
   ]
 }

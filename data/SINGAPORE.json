@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 11:35:58",
+  "lastUpdate": "28-01-2025 , 12:56:18",
   "data": [
     {
       "title": "Leon Perera",
@@ -12,19 +12,24 @@
       "pubdate": "Tue, 28 Jan 2025 11:00:00 +0800"
     },
     {
-      "title": "VOO",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#VOO",
-      "pubdate": "Tue, 28 Jan 2025 07:00:00 +0800"
-    },
-    {
       "title": "Selena Gomez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Selena%20Gomez",
       "pubdate": "Tue, 28 Jan 2025 15:00:00 +0800"
     },
     {
+      "title": "VOO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#VOO",
+      "pubdate": "Tue, 28 Jan 2025 07:00:00 +0800"
+    },
+    {
       "title": "Meta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta",
       "pubdate": "Tue, 28 Jan 2025 14:00:00 +0800"
+    },
+    {
+      "title": "Nvidia stocks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20stocks",
+      "pubdate": "Tue, 28 Jan 2025 19:00:00 +0800"
     },
     {
       "title": "Rashford",
@@ -52,6 +57,11 @@
       "pubdate": "Mon, 27 Jan 2025 11:00:00 +0800"
     },
     {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
+      "pubdate": "Mon, 27 Jan 2025 10:00:00 +0800"
+    },
+    {
       "title": "Emma Raducanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emma%20Raducanu",
       "pubdate": "Mon, 27 Jan 2025 18:00:00 +0800"
@@ -77,11 +87,6 @@
       "pubdate": "Sun, 26 Jan 2025 04:00:00 +0800"
     },
     {
-      "title": "Zhao Lusi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zhao%20Lusi",
-      "pubdate": "Sun, 26 Jan 2025 21:00:00 +0800"
-    },
-    {
       "title": "Cricket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
       "pubdate": "Sun, 26 Jan 2025 11:00:00 +0800"
@@ -95,11 +100,6 @@
       "title": "Pete Hegseth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pete%20Hegseth",
       "pubdate": "Sat, 25 Jan 2025 15:00:00 +0800"
-    },
-    {
-      "title": "Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
-      "pubdate": "Fri, 24 Jan 2025 14:00:00 +0800"
     }
   ]
 }

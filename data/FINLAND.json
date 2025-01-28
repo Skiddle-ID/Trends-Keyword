@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 11:35:53",
+  "lastUpdate": "28-01-2025 , 12:56:13",
   "data": [
     {
       "title": "Fifth Element",
@@ -17,6 +17,11 @@
       "pubdate": "Mon, 27 Jan 2025 17:00:00 +0200"
     },
     {
+      "title": "Nasdaq",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
+      "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
+    },
+    {
       "title": "Vezhen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vezhen",
       "pubdate": "Mon, 27 Jan 2025 08:00:00 +0200"
@@ -30,6 +35,11 @@
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
       "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
+    },
+    {
+      "title": "Microsoft stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
+      "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
     },
     {
       "title": "Valmet",
@@ -90,16 +100,6 @@
       "title": "Tottenham – Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
       "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-    },
-    {
-      "title": "AfD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
-      "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-    },
-    {
-      "title": "Eva Longoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
     }
   ]
 }
