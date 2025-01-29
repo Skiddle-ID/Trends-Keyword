@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 23:35:13",
+  "lastUpdate": "29-01-2025 , 01:54:16",
   "data": [
     {
       "title": "Prijimacky na necisto",
@@ -30,6 +30,11 @@
       "title": "Neymar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Neymar",
       "pubdate": "Tue, 28 Jan 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Brigáda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brig%C3%A1da",
+      "pubdate": "Tue, 28 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "iOS 18.3",
@@ -90,11 +95,6 @@
       "title": "Dan z nemovitosti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dan%20z%20nemovitosti",
       "pubdate": "Mon, 27 Jan 2025 21:00:00 +0100"
-    },
-    {
-      "title": "NASDAQ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NASDAQ",
-      "pubdate": "Mon, 27 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Holocaust",

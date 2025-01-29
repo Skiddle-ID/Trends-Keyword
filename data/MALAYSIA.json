@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "28-01-2025 , 23:35:17",
+  "lastUpdate": "29-01-2025 , 01:54:20",
   "data": [
+    {
+      "title": "Cny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cny",
+      "pubdate": "Wed, 29 Jan 2025 09:00:00 +0800"
+    },
     {
       "title": "England vs India",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20India",
@@ -27,8 +32,8 @@
       "pubdate": "Tue, 28 Jan 2025 04:00:00 +0800"
     },
     {
-      "title": "Chinese New Year 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chinese%20New%20Year%202025",
+      "title": "Happy Chinese New Year",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Happy%20Chinese%20New%20Year",
       "pubdate": "Mon, 27 Jan 2025 12:00:00 +0800"
     },
     {
@@ -50,6 +55,11 @@
       "title": "Aston Villa vs West Ham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aston%20Villa%20vs%20West%20Ham",
       "pubdate": "Mon, 27 Jan 2025 00:00:00 +0800"
+    },
+    {
+      "title": "Along Cham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Along%20Cham",
+      "pubdate": "Mon, 27 Jan 2025 15:00:00 +0800"
     },
     {
       "title": "Al Nassr",
@@ -90,16 +100,6 @@
       "title": "Omar Marmoush",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Omar%20Marmoush",
       "pubdate": "Sun, 26 Jan 2025 05:00:00 +0800"
-    },
-    {
-      "title": "Alexander Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alexander%20Zverev",
-      "pubdate": "Sun, 26 Jan 2025 20:00:00 +0800"
-    },
-    {
-      "title": "JDT",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#JDT",
-      "pubdate": "Sun, 26 Jan 2025 09:00:00 +0800"
     }
   ]
 }

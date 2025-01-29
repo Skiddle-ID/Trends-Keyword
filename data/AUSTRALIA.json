@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 23:35:12",
+  "lastUpdate": "29-01-2025 , 01:54:14",
   "data": [
     {
       "title": "IND vs ENG",
@@ -7,9 +7,34 @@
       "pubdate": "Wed, 29 Jan 2025 07:00:00 +1100"
     },
     {
+      "title": "Tim MAFS",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20MAFS",
+      "pubdate": "Wed, 29 Jan 2025 08:00:00 +1100"
+    },
+    {
+      "title": "Doomsday Clock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Doomsday%20Clock",
+      "pubdate": "Wed, 29 Jan 2025 11:00:00 +1100"
+    },
+    {
+      "title": "Caroline Kennedy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Caroline%20Kennedy",
+      "pubdate": "Wed, 29 Jan 2025 11:00:00 +1100"
+    },
+    {
+      "title": "Tequila",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tequila",
+      "pubdate": "Wed, 29 Jan 2025 10:00:00 +1100"
+    },
+    {
+      "title": "Sam Konstas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Konstas",
+      "pubdate": "Wed, 29 Jan 2025 12:00:00 +1100"
+    },
+    {
       "title": "Chinese New Year 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chinese%20New%20Year%202025",
-      "pubdate": "Tue, 28 Jan 2025 15:00:00 +1100"
+      "pubdate": "Tue, 28 Jan 2025 13:00:00 +1100"
     },
     {
       "title": "Sam Abdulrahim",
@@ -27,19 +52,9 @@
       "pubdate": "Tue, 28 Jan 2025 23:00:00 +1100"
     },
     {
-      "title": "Lunar new Year 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lunar%20new%20Year%202025",
-      "pubdate": "Tue, 28 Jan 2025 13:00:00 +1100"
-    },
-    {
       "title": "Big Bash",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Big%20Bash",
       "pubdate": "Tue, 28 Jan 2025 00:00:00 +1100"
-    },
-    {
-      "title": "Chinese New Year",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chinese%20New%20Year",
-      "pubdate": "Tue, 28 Jan 2025 15:00:00 +1100"
     },
     {
       "title": "Selena Gomez",
@@ -50,6 +65,11 @@
       "title": "Nasdaq",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nasdaq",
       "pubdate": "Tue, 28 Jan 2025 05:00:00 +1100"
+    },
+    {
+      "title": "Aus vs Sri Lanka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aus%20vs%20Sri%20Lanka",
+      "pubdate": "Tue, 28 Jan 2025 17:00:00 +1100"
     },
     {
       "title": "NVDA",
@@ -67,6 +87,11 @@
       "pubdate": "Tue, 28 Jan 2025 11:00:00 +1100"
     },
     {
+      "title": "Chinese zodiac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chinese%20zodiac",
+      "pubdate": "Tue, 28 Jan 2025 20:00:00 +1100"
+    },
+    {
       "title": "When is Chinese New Year!",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#When%20is%20Chinese%20New%20Year!",
       "pubdate": "Tue, 28 Jan 2025 19:00:00 +1100"
@@ -75,31 +100,6 @@
       "title": "Neymar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neymar",
       "pubdate": "Tue, 28 Jan 2025 14:00:00 +1100"
-    },
-    {
-      "title": "Chinese zodiac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chinese%20zodiac",
-      "pubdate": "Tue, 28 Jan 2025 20:00:00 +1100"
-    },
-    {
-      "title": "Oz Lotto draw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oz%20Lotto%20draw",
-      "pubdate": "Tue, 28 Jan 2025 23:00:00 +1100"
-    },
-    {
-      "title": "LaMelo Ball",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LaMelo%20Ball",
-      "pubdate": "Tue, 28 Jan 2025 14:00:00 +1100"
-    },
-    {
-      "title": "Cryptocurrency",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cryptocurrency",
-      "pubdate": "Tue, 28 Jan 2025 06:00:00 +1100"
-    },
-    {
-      "title": "ADHD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ADHD",
-      "pubdate": "Tue, 28 Jan 2025 13:00:00 +1100"
     }
   ]
 }
