@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2025 , 23:35:19",
+  "lastUpdate": "30-01-2025 , 01:53:05",
   "data": [
     {
       "title": "UEFA Şampiyonlar Ligi",
@@ -7,8 +7,13 @@
       "pubdate": "Thu, 30 Jan 2025 00:00:00 +0300"
     },
     {
-      "title": "Bayern Münih Slovan Bratislava",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20Slovan%20Bratislava",
+      "title": "Bayern Münih - Slovan Bratislava",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20-%20Slovan%20Bratislava",
+      "pubdate": "Thu, 30 Jan 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Borussia Dortmund  şahtar Donetsk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borussia%20Dortmund%20%20%C5%9Fahtar%20Donetsk",
       "pubdate": "Thu, 30 Jan 2025 00:00:00 +0300"
     },
     {
@@ -17,18 +22,18 @@
       "pubdate": "Thu, 30 Jan 2025 00:00:00 +0300"
     },
     {
-      "title": "Şaban ayı ne zaman başlıyor",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eaban%20ay%C4%B1%20ne%20zaman%20ba%C5%9Fl%C4%B1yor",
-      "pubdate": "Thu, 30 Jan 2025 00:00:00 +0300"
-    },
-    {
       "title": "Bennu Yıldırımlar Nuri Bilge Ceylan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bennu%20Y%C4%B1ld%C4%B1r%C4%B1mlar%20Nuri%20Bilge%20Ceylan",
       "pubdate": "Thu, 30 Jan 2025 01:00:00 +0300"
     },
     {
-      "title": "Juventus  Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus%20%20Benfica",
+      "title": "Zaniolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zaniolo",
+      "pubdate": "Thu, 30 Jan 2025 02:00:00 +0300"
+    },
+    {
+      "title": "Juventus, Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Juventus,%20Benfica",
       "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
     },
     {
@@ -42,13 +47,18 @@
       "pubdate": "Wed, 29 Jan 2025 16:00:00 +0300"
     },
     {
+      "title": "Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City",
+      "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
+    },
+    {
       "title": "Pegasus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Pegasus",
       "pubdate": "Wed, 29 Jan 2025 18:00:00 +0300"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20City",
+      "title": "PSV  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSV%20%20Liverpool",
       "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
     },
     {
@@ -57,14 +67,9 @@
       "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
     },
     {
-      "title": "FED FAİZ KARARI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#FED%20FA%C4%B0Z%20KARARI",
+      "title": "Fed faiz kararı",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fed%20faiz%20karar%C4%B1",
       "pubdate": "Wed, 29 Jan 2025 14:00:00 +0300"
-    },
-    {
-      "title": "PSV  Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSV%20%20Liverpool",
-      "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
     },
     {
       "title": "Ajax",
@@ -77,8 +82,8 @@
       "pubdate": "Wed, 29 Jan 2025 13:00:00 +0300"
     },
     {
-      "title": "Inter-Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter-Monaco",
+      "title": "İnter, Monaco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0nter,%20Monaco",
       "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
     },
     {
@@ -95,11 +100,6 @@
       "title": "MSB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MSB",
       "pubdate": "Wed, 29 Jan 2025 15:00:00 +0300"
-    },
-    {
-      "title": "Siirt Belediye Başkanı",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Siirt%20Belediye%20Ba%C5%9Fkan%C4%B1",
-      "pubdate": "Wed, 29 Jan 2025 10:00:00 +0300"
     }
   ]
 }

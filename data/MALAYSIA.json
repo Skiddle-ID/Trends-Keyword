@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "29-01-2025 , 23:35:15",
+  "lastUpdate": "30-01-2025 , 01:53:01",
   "data": [
     {
       "title": "PSV vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSV%20vs%20Liverpool",
+      "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
+    },
+    {
+      "title": "Brest vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brest%20vs%20Real%20Madrid",
       "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
     },
     {
@@ -17,11 +22,6 @@
       "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
     },
     {
-      "title": "Brest vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brest%20vs%20Real%20Madrid",
-      "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
-    },
-    {
       "title": "Girona vs Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Girona%20vs%20Arsenal",
       "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
@@ -32,19 +32,34 @@
       "pubdate": "Thu, 30 Jan 2025 05:00:00 +0800"
     },
     {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+      "pubdate": "Thu, 30 Jan 2025 09:00:00 +0800"
+    },
+    {
+      "title": "Bayern vs Slovan Bratislava",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bayern%20vs%20Slovan%20Bratislava",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 +0800"
+    },
+    {
+      "title": "Dinamo Zagreb vs Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Dinamo%20Zagreb%20vs%20Milan",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 +0800"
+    },
+    {
       "title": "Australia vs Sri Lanka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australia%20vs%20Sri%20Lanka",
       "pubdate": "Wed, 29 Jan 2025 13:00:00 +0800"
     },
     {
+      "title": "CNY",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
+      "pubdate": "Wed, 29 Jan 2025 09:00:00 +0800"
+    },
+    {
       "title": "Patrick Dorgu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Patrick%20Dorgu",
       "pubdate": "Wed, 29 Jan 2025 11:00:00 +0800"
-    },
-    {
-      "title": "Bintulu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bintulu",
-      "pubdate": "Wed, 29 Jan 2025 13:00:00 +0800"
     },
     {
       "title": "Air Busan plane catches fire",
@@ -85,21 +100,6 @@
       "title": "Happy Chinese New Year 2025 wishes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Happy%20Chinese%20New%20Year%202025%20wishes",
       "pubdate": "Tue, 28 Jan 2025 00:00:00 +0800"
-    },
-    {
-      "title": "CNY",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
-      "pubdate": "Tue, 28 Jan 2025 22:00:00 +0800"
-    },
-    {
-      "title": "Neymar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Neymar",
-      "pubdate": "Tue, 28 Jan 2025 09:00:00 +0800"
-    },
-    {
-      "title": "NVDA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#NVDA",
-      "pubdate": "Tue, 28 Jan 2025 04:00:00 +0800"
     }
   ]
 }
