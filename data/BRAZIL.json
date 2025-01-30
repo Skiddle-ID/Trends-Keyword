@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 11:35:35",
+  "lastUpdate": "30-01-2025 , 12:55:48",
   "data": [
     {
       "title": "Warriors x Thunder",
@@ -7,9 +7,34 @@
       "pubdate": "Thu, 30 Jan 2025 01:00:00 -0500"
     },
     {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+      "pubdate": "Thu, 30 Jan 2025 06:00:00 -0500"
+    },
+    {
+      "title": "American Airlines",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#American%20Airlines",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 -0500"
+    },
+    {
       "title": "RTX 5080",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RTX%205080",
       "pubdate": "Thu, 30 Jan 2025 00:00:00 -0500"
+    },
+    {
+      "title": "Esporte Clube Bahia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Volta Redonda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volta%20Redonda",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Portuguesa x São Paulo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portuguesa%20x%20S%C3%A3o%20Paulo",
+      "pubdate": "Wed, 29 Jan 2025 06:00:00 -0500"
     },
     {
       "title": "Barcelona x Atalanta",
@@ -37,11 +62,6 @@
       "pubdate": "Wed, 29 Jan 2025 16:00:00 -0500"
     },
     {
-      "title": "PSV x Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV%20x%20Liverpool",
-      "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
-    },
-    {
       "title": "Monsoon FC x Grêmio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monsoon%20FC%20x%20Gr%C3%AAmio",
       "pubdate": "Wed, 29 Jan 2025 12:00:00 -0500"
@@ -57,14 +77,19 @@
       "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
     },
     {
+      "title": "Selic",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
+      "pubdate": "Wed, 29 Jan 2025 14:00:00 -0500"
+    },
+    {
       "title": "Jequié x Bahia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jequi%C3%A9%20x%20Bahia",
       "pubdate": "Wed, 29 Jan 2025 18:00:00 -0500"
     },
     {
-      "title": "Selic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
-      "pubdate": "Wed, 29 Jan 2025 14:00:00 -0500"
+      "title": "PSV x Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV%20x%20Liverpool",
+      "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
     },
     {
       "title": "Fabio de Melo",
@@ -75,31 +100,6 @@
       "title": "Girona x Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona%20x%20Arsenal",
       "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Volta Redonda x Portuguesa-RJ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Volta%20Redonda%20x%20Portuguesa-RJ",
-      "pubdate": "Wed, 29 Jan 2025 19:00:00 -0500"
-    },
-    {
-      "title": "Juventus x Benfica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus%20x%20Benfica",
-      "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Bayern x Slovan Bratislava",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Slovan%20Bratislava",
-      "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Campeonato Baiano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Baiano",
-      "pubdate": "Wed, 29 Jan 2025 19:00:00 -0500"
-    },
-    {
-      "title": "Botafogo-SP x Água Santa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20%C3%81gua%20Santa",
-      "pubdate": "Wed, 29 Jan 2025 20:00:00 -0500"
     }
   ]
 }
