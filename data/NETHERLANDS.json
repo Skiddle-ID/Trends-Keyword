@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "30-01-2025 , 23:35:08",
+  "lastUpdate": "31-01-2025 , 01:55:10",
   "data": [
     {
       "title": "Ajax Galatasaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Galatasaray",
       "pubdate": "Thu, 30 Jan 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Ajax!  galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax!%20%20galatasaray",
-      "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Twente  beşiktaş",
@@ -22,24 +17,19 @@
       "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Salwan Momika",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salwan%20Momika",
-      "pubdate": "Thu, 30 Jan 2025 12:00:00 +0100"
-    },
-    {
       "title": "Henderson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henderson",
       "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Ziyech",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziyech",
-      "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
-    },
-    {
       "title": "Washington",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Washington",
       "pubdate": "Thu, 30 Jan 2025 15:00:00 +0100"
+    },
+    {
+      "title": "Ziyech",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziyech",
+      "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
     },
     {
       "title": "Brand Medemblik",
@@ -50,11 +40,6 @@
       "title": "PSV",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
       "pubdate": "Wed, 29 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Dieuwertje Blok",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dieuwertje%20Blok",
-      "pubdate": "Wed, 29 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Btw-verhoging",
@@ -100,6 +85,21 @@
       "title": "AZ",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
       "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Drents Museum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Drents%20Museum",
+      "pubdate": "Sat, 25 Jan 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Glennis Grace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Glennis%20Grace",
+      "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Sinner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinner",
+      "pubdate": "Fri, 24 Jan 2025 14:00:00 +0100"
     }
   ]
 }
