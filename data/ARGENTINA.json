@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2025 , 11:35:45",
+  "lastUpdate": "31-01-2025 , 12:55:38",
   "data": [
     {
       "title": "Colo-Colo  Deportes Limache",
@@ -12,9 +12,14 @@
       "pubdate": "Fri, 31 Jan 2025 02:00:00 -0300"
     },
     {
+      "title": "Homero Pettinato",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Homero%20Pettinato",
+      "pubdate": "Fri, 31 Jan 2025 04:00:00 -0300"
+    },
+    {
       "title": "Racing  Belgrano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20%20Belgrano",
-      "pubdate": "Thu, 30 Jan 2025 19:00:00 -0300"
+      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0300"
     },
     {
       "title": "Central Córdoba  Atlético Tucumán",
@@ -47,19 +52,9 @@
       "pubdate": "Thu, 30 Jan 2025 16:00:00 -0300"
     },
     {
-      "title": "Tottenham  Elfsborg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham%20%20Elfsborg",
-      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0300"
-    },
-    {
       "title": "Al Raed  al-nassr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Raed%20%20al-nassr",
       "pubdate": "Thu, 30 Jan 2025 15:00:00 -0300"
-    },
-    {
-      "title": "Racing hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20hoy",
-      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0300"
     },
     {
       "title": "Chiara Ferragni",
@@ -100,6 +95,11 @@
       "title": "Athletic  Viktoria plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Athletic%20%20Viktoria%20plze%C5%88",
       "pubdate": "Thu, 30 Jan 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Aruba",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aruba",
+      "pubdate": "Thu, 30 Jan 2025 20:00:00 -0300"
     }
   ]
 }

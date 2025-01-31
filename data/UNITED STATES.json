@@ -1,9 +1,14 @@
 {
-  "lastUpdate": "31-01-2025 , 11:35:45",
+  "lastUpdate": "31-01-2025 , 12:55:37",
   "data": [
     {
       "title": "The Weeknd",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Weeknd",
+      "pubdate": "Fri, 31 Jan 2025 00:00:00 -0800"
+    },
+    {
+      "title": "Rockets vs Grizzlies",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets%20vs%20Grizzlies",
       "pubdate": "Fri, 31 Jan 2025 00:00:00 -0800"
     },
     {
@@ -22,6 +27,11 @@
       "pubdate": "Thu, 30 Jan 2025 12:00:00 -0800"
     },
     {
+      "title": "FireAid concert",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FireAid%20concert",
+      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0800"
+    },
+    {
       "title": "Marianne Faithfull",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marianne%20Faithfull",
       "pubdate": "Thu, 30 Jan 2025 12:00:00 -0800"
@@ -32,24 +42,14 @@
       "pubdate": "Thu, 30 Jan 2025 13:00:00 -0800"
     },
     {
-      "title": "FireAid concert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FireAid%20concert",
-      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0800"
-    },
-    {
-      "title": "5090",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#5090",
-      "pubdate": "Thu, 30 Jan 2025 07:00:00 -0800"
-    },
-    {
       "title": "Parish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Parish",
       "pubdate": "Thu, 30 Jan 2025 07:00:00 -0800"
     },
     {
-      "title": "Rockets",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets",
-      "pubdate": "Thu, 30 Jan 2025 21:00:00 -0800"
+      "title": "RTX 5090",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#RTX%205090",
+      "pubdate": "Thu, 30 Jan 2025 07:00:00 -0800"
     },
     {
       "title": "Terry Rozier",
@@ -60,6 +60,11 @@
       "title": "Pete Buttigieg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pete%20Buttigieg",
       "pubdate": "Thu, 30 Jan 2025 11:00:00 -0800"
+    },
+    {
+      "title": "Rockets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets",
+      "pubdate": "Thu, 30 Jan 2025 21:00:00 -0800"
     },
     {
       "title": "Hello Kitty Island Adventure",
@@ -82,24 +87,19 @@
       "pubdate": "Thu, 30 Jan 2025 13:00:00 -0800"
     },
     {
-      "title": "Pebble Beach Pro-Am",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pebble%20Beach%20Pro-Am",
-      "pubdate": "Thu, 30 Jan 2025 14:00:00 -0800"
-    },
-    {
-      "title": "WHEEL OF FORTUNE",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WHEEL%20OF%20FORTUNE",
-      "pubdate": "Thu, 30 Jan 2025 17:00:00 -0800"
-    },
-    {
-      "title": "The Recruit",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Recruit",
-      "pubdate": "Thu, 30 Jan 2025 18:00:00 -0800"
-    },
-    {
       "title": "Dick Button",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dick%20Button",
       "pubdate": "Thu, 30 Jan 2025 20:00:00 -0800"
+    },
+    {
+      "title": "Microsoft stock",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20stock",
+      "pubdate": "Thu, 30 Jan 2025 13:00:00 -0800"
+    },
+    {
+      "title": "Pebble Beach Pro-Am",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pebble%20Beach%20Pro-Am",
+      "pubdate": "Thu, 30 Jan 2025 14:00:00 -0800"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2025 , 11:35:52",
+  "lastUpdate": "31-01-2025 , 12:55:44",
   "data": [
     {
       "title": "Wizards vs Lakers",
@@ -42,6 +42,11 @@
       "pubdate": "Fri, 31 Jan 2025 14:00:00 +0800"
     },
     {
+      "title": "NBA All-Star 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20All-Star%202025",
+      "pubdate": "Fri, 31 Jan 2025 16:00:00 +0800"
+    },
+    {
       "title": "Jalen Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jalen%20Williams",
       "pubdate": "Fri, 31 Jan 2025 09:00:00 +0800"
@@ -50,11 +55,6 @@
       "title": "Zaccharie Risacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zaccharie%20Risacher",
       "pubdate": "Fri, 31 Jan 2025 13:00:00 +0800"
-    },
-    {
-      "title": "NBA All-Star 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#NBA%20All-Star%202025",
-      "pubdate": "Fri, 31 Jan 2025 16:00:00 +0800"
     },
     {
       "title": "DEI",
@@ -82,11 +82,6 @@
       "pubdate": "Thu, 30 Jan 2025 20:00:00 +0800"
     },
     {
-      "title": "Spurs vs Clippers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spurs%20vs%20Clippers",
-      "pubdate": "Thu, 30 Jan 2025 11:00:00 +0800"
-    },
-    {
       "title": "Suns vs Timberwolves",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Suns%20vs%20Timberwolves",
       "pubdate": "Thu, 30 Jan 2025 12:00:00 +0800"
@@ -100,6 +95,11 @@
       "title": "Minimum wage hike",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Minimum%20wage%20hike",
       "pubdate": "Thu, 30 Jan 2025 22:00:00 +0800"
+    },
+    {
+      "title": "Bruno Mars",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bruno%20Mars",
+      "pubdate": "Thu, 30 Jan 2025 10:00:00 +0800"
     }
   ]
 }
