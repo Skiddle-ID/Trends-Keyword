@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "31-01-2025 , 23:35:45",
+  "lastUpdate": "01-02-2025 , 02:01:26",
   "data": [
+    {
+      "title": "Lens FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lens%20FC",
+      "pubdate": "Sat, 01 Feb 2025 01:00:00 +0200"
+    },
     {
       "title": "Loadshedding",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Loadshedding",
       "pubdate": "Fri, 31 Jan 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Richards Bay vs Magesi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richards%20Bay%20vs%20Magesi",
+      "pubdate": "Fri, 31 Jan 2025 19:00:00 +0200"
     },
     {
       "title": "India vs England",
@@ -22,19 +32,9 @@
       "pubdate": "Fri, 31 Jan 2025 15:00:00 +0200"
     },
     {
-      "title": "Sjava Inkanyezi' EP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sjava%20Inkanyezi'%20EP",
-      "pubdate": "Fri, 31 Jan 2025 10:00:00 +0200"
-    },
-    {
       "title": "Marianne Faithfull",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marianne%20Faithfull",
       "pubdate": "Fri, 31 Jan 2025 08:00:00 +0200"
-    },
-    {
-      "title": "Real Sociedad",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
-      "pubdate": "Fri, 31 Jan 2025 00:00:00 +0200"
     },
     {
       "title": "Katlego Ranaka",
@@ -42,8 +42,23 @@
       "pubdate": "Fri, 31 Jan 2025 11:00:00 +0200"
     },
     {
+      "title": "Real Sociedad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
+      "pubdate": "Fri, 31 Jan 2025 00:00:00 +0200"
+    },
+    {
       "title": "UPS",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UPS",
+      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0200"
+    },
+    {
+      "title": "Chiefs vs Pirates",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs%20vs%20Pirates",
+      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0200"
+    },
+    {
+      "title": "Sjava",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sjava",
       "pubdate": "Fri, 31 Jan 2025 23:00:00 +0200"
     },
     {
@@ -84,21 +99,6 @@
     {
       "title": "Rwanda",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rwanda",
-      "pubdate": "Thu, 30 Jan 2025 09:00:00 +0200"
-    },
-    {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tottenham",
-      "pubdate": "Thu, 30 Jan 2025 14:00:00 +0200"
-    },
-    {
-      "title": "Barcelona FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
-      "pubdate": "Thu, 30 Jan 2025 06:00:00 +0200"
-    },
-    {
-      "title": "Paul Kagame",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Paul%20Kagame",
       "pubdate": "Thu, 30 Jan 2025 09:00:00 +0200"
     }
   ]

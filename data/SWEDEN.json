@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "31-01-2025 , 23:35:45",
+  "lastUpdate": "01-02-2025 , 02:01:27",
   "data": [
+    {
+      "title": "Björn Borg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Borg",
+      "pubdate": "Sat, 01 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Loket",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loket",
@@ -12,14 +17,14 @@
       "pubdate": "Fri, 31 Jan 2025 21:00:00 +0100"
     },
     {
-      "title": "Tottenham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
-      "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
-    },
-    {
       "title": "Simon Superti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20Superti",
       "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+      "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
     },
     {
       "title": "Gais",
@@ -37,14 +42,14 @@
       "pubdate": "Fri, 31 Jan 2025 06:00:00 +0100"
     },
     {
-      "title": "Davis Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Davis%20Cup",
-      "pubdate": "Fri, 31 Jan 2025 19:00:00 +0100"
-    },
-    {
       "title": "Thåström",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Th%C3%A5str%C3%B6m",
       "pubdate": "Fri, 31 Jan 2025 07:00:00 +0100"
+    },
+    {
+      "title": "Miriam Bryant",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miriam%20Bryant",
+      "pubdate": "Fri, 31 Jan 2025 16:00:00 +0100"
     },
     {
       "title": "Silvana Imam",
@@ -52,9 +57,9 @@
       "pubdate": "Fri, 31 Jan 2025 09:00:00 +0100"
     },
     {
-      "title": "Miriam Bryant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Miriam%20Bryant",
-      "pubdate": "Fri, 31 Jan 2025 16:00:00 +0100"
+      "title": "Davis Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Davis%20Cup",
+      "pubdate": "Fri, 31 Jan 2025 19:00:00 +0100"
     },
     {
       "title": "Mello",
@@ -82,8 +87,8 @@
       "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
     },
     {
-      "title": "Salwan Najem",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Salwan%20Najem",
+      "title": "Koranbrännaren",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koranbr%C3%A4nnaren",
       "pubdate": "Thu, 30 Jan 2025 05:00:00 +0100"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Marianne Faithfull",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marianne%20Faithfull",
       "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-      "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
     }
   ]
 }
