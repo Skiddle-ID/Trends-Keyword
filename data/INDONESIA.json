@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "01-02-2025 , 11:35:36",
+  "lastUpdate": "01-02-2025 , 12:51:50",
   "data": [
+    {
+      "title": "USD to IDR",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#USD%20to%20IDR",
+      "pubdate": "Sat, 01 Feb 2025 18:00:00 +0700"
+    },
     {
       "title": "Info GTK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Info%20GTK",
       "pubdate": "Sat, 01 Feb 2025 11:00:00 +0700"
+    },
+    {
+      "title": "Persib Bandung vs PSM Makassar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20Bandung%20vs%20PSM%20Makassar",
+      "pubdate": "Sat, 01 Feb 2025 17:00:00 +0700"
     },
     {
       "title": "Madura United vs Persis",
@@ -22,6 +32,11 @@
       "pubdate": "Sat, 01 Feb 2025 09:00:00 +0700"
     },
     {
+      "title": "Indonesia Vs Argentina Futsal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Indonesia%20Vs%20Argentina%20Futsal",
+      "pubdate": "Sat, 01 Feb 2025 19:00:00 +0700"
+    },
+    {
       "title": "Parma",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Parma",
       "pubdate": "Sat, 01 Feb 2025 02:00:00 +0700"
@@ -37,6 +52,16 @@
       "pubdate": "Sat, 01 Feb 2025 03:00:00 +0700"
     },
     {
+      "title": "Al Hilal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Hilal",
+      "pubdate": "Sat, 01 Feb 2025 00:00:00 +0700"
+    },
+    {
+      "title": "BMKG Hari Ini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BMKG%20Hari%20Ini",
+      "pubdate": "Sat, 01 Feb 2025 08:00:00 +0700"
+    },
+    {
       "title": "Leganes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leganes",
       "pubdate": "Sat, 01 Feb 2025 05:00:00 +0700"
@@ -50,11 +75,6 @@
       "title": "Kurniawan Dwi Yulianto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kurniawan%20Dwi%20Yulianto",
       "pubdate": "Sat, 01 Feb 2025 00:00:00 +0700"
-    },
-    {
-      "title": "Persib vs PSM Makassar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persib%20vs%20PSM%20Makassar",
-      "pubdate": "Sat, 01 Feb 2025 17:00:00 +0700"
     },
     {
       "title": "Registrasi akun SNPMB",
@@ -80,26 +100,6 @@
       "title": "Tottenham vs Elfsborg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham%20vs%20Elfsborg",
       "pubdate": "Fri, 31 Jan 2025 03:00:00 +0700"
-    },
-    {
-      "title": "Madrid vs City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madrid%20vs%20City",
-      "pubdate": "Fri, 31 Jan 2025 21:00:00 +0700"
-    },
-    {
-      "title": "PERSEBAYA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PERSEBAYA",
-      "pubdate": "Fri, 31 Jan 2025 20:00:00 +0700"
-    },
-    {
-      "title": "BMKG gempa hari ini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BMKG%20gempa%20hari%20ini",
-      "pubdate": "Fri, 31 Jan 2025 20:00:00 +0700"
-    },
-    {
-      "title": "Al Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Nassr",
-      "pubdate": "Fri, 31 Jan 2025 01:00:00 +0700"
     }
   ]
 }

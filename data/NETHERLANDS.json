@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "01-02-2025 , 11:35:38",
+  "lastUpdate": "01-02-2025 , 12:51:52",
   "data": [
     {
       "title": "Frank Heinen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frank%20Heinen",
       "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
-    },
-    {
-      "title": "NAC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-      "pubdate": "Fri, 31 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "FC Twente",
@@ -22,6 +17,11 @@
       "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
     },
     {
+      "title": "NAC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+      "pubdate": "Fri, 31 Jan 2025 17:00:00 +0100"
+    },
+    {
       "title": "Wilfred Genee",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilfred%20Genee",
       "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
@@ -29,12 +29,7 @@
     {
       "title": "Gimenez",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gimenez",
-      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Fenerbahce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
-      "pubdate": "Fri, 31 Jan 2025 13:00:00 +0100"
+      "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
     },
     {
       "title": "Beatrix",
@@ -100,6 +95,11 @@
       "title": "DeepSeek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#DeepSeek",
       "pubdate": "Mon, 27 Jan 2025 09:00:00 +0100"
+    },
+    {
+      "title": "ASML",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+      "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
     }
   ]
 }

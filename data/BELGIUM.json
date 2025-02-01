@@ -1,20 +1,30 @@
 {
-  "lastUpdate": "01-02-2025 , 11:35:32",
+  "lastUpdate": "01-02-2025 , 12:51:47",
   "data": [
+    {
+      "title": "Els van Doesburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Els%20van%20Doesburg",
+      "pubdate": "Sat, 01 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "La Libre Belgique",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Libre%20Belgique",
       "pubdate": "Sat, 01 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "WK Veldrijden",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20Veldrijden",
-      "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
+      "title": "Lily Collins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lily%20Collins",
+      "pubdate": "Sat, 01 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Mike Thibault",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Thibault",
       "pubdate": "Sat, 01 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Elise Mertens",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elise%20Mertens",
+      "pubdate": "Sat, 01 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Bart De Wever",
@@ -24,7 +34,7 @@
     {
       "title": "Anderlecht",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-      "pubdate": "Fri, 31 Jan 2025 16:00:00 +0100"
+      "pubdate": "Fri, 31 Jan 2025 17:00:00 +0100"
     },
     {
       "title": "Charlotte de Witte Amelie Lens",
@@ -37,6 +47,11 @@
       "pubdate": "Fri, 31 Jan 2025 12:00:00 +0100"
     },
     {
+      "title": "Regeerakkoord De Wever",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Regeerakkoord%20De%20Wever",
+      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0100"
+    },
+    {
       "title": "Meerwaardebelasting",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meerwaardebelasting",
       "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
@@ -45,11 +60,6 @@
       "title": "KV Mechelen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
       "pubdate": "Fri, 31 Jan 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Regeerakkoord De Wever",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Regeerakkoord%20De%20Wever",
-      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0100"
     },
     {
       "title": "UFC",
@@ -90,16 +100,6 @@
       "title": "Jelle Van Dael",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jelle%20Van%20Dael",
       "pubdate": "Fri, 31 Jan 2025 12:00:00 +0100"
-    },
-    {
-      "title": "UEFA Europa League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Europa%20League",
-      "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Brigitte Macron",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
-      "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
     }
   ]
 }
