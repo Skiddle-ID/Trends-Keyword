@@ -1,6 +1,36 @@
 {
-  "lastUpdate": "01-02-2025 , 23:35:40",
+  "lastUpdate": "02-02-2025 , 01:59:02",
   "data": [
+    {
+      "title": "Florent Pagny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Florent%20Pagny",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Mia Julia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mia%20Julia",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Servette",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Bologna  Como",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna%20%20Como",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Vianney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vianney",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nottingham%20Forest",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UFC",
@@ -12,13 +42,18 @@
       "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Lukas Britschgi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukas%20Britschgi",
+      "title": "SRF bi de Lüt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20bi%20de%20L%C3%BCt",
       "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Espanyol – Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Espanyol%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Lukas Britschgi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukas%20Britschgi",
       "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
     },
     {
@@ -30,6 +65,11 @@
       "title": "Bayern – Holstein",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bayern%20%E2%80%93%20Holstein",
       "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Philadelphia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Philadelphia",
+      "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
     },
     {
       "title": "Lily Collins",
@@ -47,26 +87,6 @@
       "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Bournemouth – Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bournemouth%20%E2%80%93%20Liverpool",
-      "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Lichtmess-Schwinget Gais",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lichtmess-Schwinget%20Gais",
-      "pubdate": "Sat, 01 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Philadelphia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Philadelphia",
-      "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Servette – Grasshoppers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20Grasshoppers",
-      "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "Zaz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zaz",
       "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
@@ -80,26 +100,6 @@
       "title": "Lausanne – Young Boys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lausanne%20%E2%80%93%20Young%20Boys",
       "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Polizeieinsatz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Polizeieinsatz",
-      "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Jean-Marie Le Pen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean-Marie%20Le%20Pen",
-      "pubdate": "Sat, 01 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Stadt Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadt%20Z%C3%BCrich",
-      "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Veysonnaz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Veysonnaz",
-      "pubdate": "Sat, 01 Feb 2025 14:00:00 +0100"
     }
   ]
 }

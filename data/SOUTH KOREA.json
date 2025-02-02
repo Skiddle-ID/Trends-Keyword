@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "01-02-2025 , 23:35:40",
+  "lastUpdate": "02-02-2025 , 01:59:02",
   "data": [
     {
       "title": "QPR",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#QPR",
       "pubdate": "Sun, 02 Feb 2025 01:00:00 +0900"
+    },
+    {
+      "title": "김신혜",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%8B%A0%ED%98%9C",
+      "pubdate": "Sun, 02 Feb 2025 02:00:00 +0900"
     },
     {
       "title": "PSG",
@@ -17,19 +22,14 @@
       "pubdate": "Sun, 02 Feb 2025 01:00:00 +0900"
     },
     {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFC",
-      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0900"
-    },
-    {
       "title": "로또1157회당첨번호",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901157%ED%9A%8C%EB%8B%B9%EC%B2%A8%EB%B2%88%ED%98%B8",
       "pubdate": "Sat, 01 Feb 2025 23:00:00 +0900"
     },
     {
-      "title": "MBC 기상캐스터",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#MBC%20%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0",
-      "pubdate": "Sat, 01 Feb 2025 09:00:00 +0900"
+      "title": "UFC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFC",
+      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0900"
     },
     {
       "title": "필라델피아",
@@ -50,6 +50,11 @@
       "title": "중국 AI",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A4%91%EA%B5%AD%20AI",
       "pubdate": "Sat, 01 Feb 2025 03:00:00 +0900"
+    },
+    {
+      "title": "김가영",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EA%B0%80%EC%98%81",
+      "pubdate": "Fri, 31 Jan 2025 23:00:00 +0900"
     },
     {
       "title": "전한길",
@@ -95,11 +100,6 @@
       "title": "김하성",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%ED%95%98%EC%84%B1",
       "pubdate": "Thu, 30 Jan 2025 11:00:00 +0900"
-    },
-    {
-      "title": "마은혁",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%88%EC%9D%80%ED%98%81",
-      "pubdate": "Thu, 30 Jan 2025 13:00:00 +0900"
     }
   ]
 }
