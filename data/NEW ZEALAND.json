@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2025 , 11:36:24",
+  "lastUpdate": "02-02-2025 , 12:51:15",
   "data": [
     {
       "title": "Luka Doncic",
@@ -47,19 +47,24 @@
       "pubdate": "Sun, 02 Feb 2025 22:00:00 +1300"
     },
     {
+      "title": "Grammys 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Grammys%202025",
+      "pubdate": "Sun, 02 Feb 2025 22:00:00 +1300"
+    },
+    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
+      "pubdate": "Sat, 01 Feb 2025 14:00:00 +1300"
+    },
+    {
+      "title": "Auckland FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
       "pubdate": "Sat, 01 Feb 2025 14:00:00 +1300"
     },
     {
       "title": "Six Nations",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Six%20Nations",
       "pubdate": "Sat, 01 Feb 2025 09:00:00 +1300"
-    },
-    {
-      "title": "Auckland FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
-      "pubdate": "Sat, 01 Feb 2025 14:00:00 +1300"
     },
     {
       "title": "India vs England",
@@ -82,6 +87,11 @@
       "pubdate": "Sat, 01 Feb 2025 21:00:00 +1300"
     },
     {
+      "title": "Women's Super Smash",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Women's%20Super%20Smash",
+      "pubdate": "Sat, 01 Feb 2025 18:00:00 +1300"
+    },
+    {
       "title": "France vs Wales",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#France%20vs%20Wales",
       "pubdate": "Sat, 01 Feb 2025 13:00:00 +1300"
@@ -90,16 +100,6 @@
       "title": "Rickets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rickets",
       "pubdate": "Sat, 01 Feb 2025 16:00:00 +1300"
-    },
-    {
-      "title": "Marianne Faithfull",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marianne%20Faithfull",
-      "pubdate": "Fri, 31 Jan 2025 09:00:00 +1300"
-    },
-    {
-      "title": "Bryce Mitchell",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bryce%20Mitchell",
-      "pubdate": "Fri, 31 Jan 2025 13:00:00 +1300"
     }
   ]
 }

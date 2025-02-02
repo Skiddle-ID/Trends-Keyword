@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2025 , 11:36:25",
+  "lastUpdate": "02-02-2025 , 12:51:17",
   "data": [
     {
       "title": "Arsenal vs Man City",
@@ -12,24 +12,24 @@
       "pubdate": "Sun, 02 Feb 2025 11:00:00 +0200"
     },
     {
+      "title": "Brentford vs Tottenham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford%20vs%20Tottenham",
+      "pubdate": "Sun, 02 Feb 2025 14:00:00 +0200"
+    },
+    {
       "title": "Bournemouth vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bournemouth%20vs%20Liverpool",
       "pubdate": "Sat, 01 Feb 2025 17:00:00 +0200"
     },
     {
-      "title": "Nottm Forest vs Brighton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nottm%20Forest%20vs%20Brighton",
-      "pubdate": "Sat, 01 Feb 2025 14:00:00 +0200"
+      "title": "PSL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0200"
     },
     {
       "title": "Espanyol vs Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Espanyol%20vs%20Real%20Madrid",
       "pubdate": "Sat, 01 Feb 2025 22:00:00 +0200"
-    },
-    {
-      "title": "PSL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
-      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0200"
     },
     {
       "title": "UFC",
@@ -52,14 +52,19 @@
       "pubdate": "Sat, 01 Feb 2025 18:00:00 +0200"
     },
     {
-      "title": "Everton vs Leicester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20vs%20Leicester%20City",
+      "title": "Nottingham Forest",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nottingham%20Forest",
+      "pubdate": "Sat, 01 Feb 2025 15:00:00 +0200"
+    },
+    {
+      "title": "Bayern vs Holstein Kiel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20Holstein%20Kiel",
       "pubdate": "Sat, 01 Feb 2025 17:00:00 +0200"
     },
     {
-      "title": "Betway Premiership",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Betway%20Premiership",
-      "pubdate": "Sat, 01 Feb 2025 18:00:00 +0200"
+      "title": "Aston Villa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
+      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0200"
     },
     {
       "title": "Royal Rumble 2025",
@@ -67,19 +72,9 @@
       "pubdate": "Sat, 01 Feb 2025 14:00:00 +0200"
     },
     {
-      "title": "Ipswich Town vs Southampton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ipswich%20Town%20vs%20Southampton",
-      "pubdate": "Sat, 01 Feb 2025 18:00:00 +0200"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
       "pubdate": "Sat, 01 Feb 2025 19:00:00 +0200"
-    },
-    {
-      "title": "Aston Villa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
-      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0200"
     },
     {
       "title": "SABC Sport",
@@ -89,6 +84,11 @@
     {
       "title": "Sports",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sports",
+      "pubdate": "Sat, 01 Feb 2025 18:00:00 +0200"
+    },
+    {
+      "title": "Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
       "pubdate": "Sat, 01 Feb 2025 18:00:00 +0200"
     },
     {
