@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "02-02-2025 , 23:35:36",
+  "lastUpdate": "03-02-2025 , 01:56:16",
   "data": [
+    {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benfica",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Tems",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tems",
+      "pubdate": "Mon, 03 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Sporting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Barcelona vs Alavés",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Alav%C3%A9s",
@@ -37,6 +52,11 @@
       "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "Sporting San Miguelito vs Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting%20San%20Miguelito%20vs%20Inter%20Miami",
+      "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "Luka Doncic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luka%20Doncic",
       "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
@@ -47,9 +67,9 @@
       "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Sporting San Miguelito vs Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting%20San%20Miguelito%20vs%20Inter%20Miami",
-      "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
+      "title": "PSV",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSV",
+      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Ajax",
@@ -67,11 +87,6 @@
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Atalanta fc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta%20fc",
-      "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
-    },
-    {
       "title": "Fenerbahçe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fenerbah%C3%A7e",
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
@@ -82,24 +97,9 @@
       "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Lille",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lille",
-      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Chelsea vs West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20West%20Ham",
-      "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Atlanta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atlanta",
-      "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Arsenal vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Man%20City",
-      "pubdate": "Sat, 01 Feb 2025 11:00:00 +0100"
+      "title": "Lewis-Skelly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lewis-Skelly",
+      "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
     }
   ]
 }

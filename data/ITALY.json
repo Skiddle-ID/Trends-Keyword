@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "02-02-2025 , 23:35:35",
+  "lastUpdate": "03-02-2025 , 01:56:15",
   "data": [
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Galatasaray",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Scabbia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scabbia",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Fiorentina-Genoa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Genoa",
@@ -17,8 +27,8 @@
       "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Bari Calcio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari%20Calcio",
+      "title": "Bari calcio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bari%20calcio",
       "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
     },
     {
@@ -37,14 +47,19 @@
       "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
     },
     {
+      "title": "Salernitana-Cremonese",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana-Cremonese",
+      "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
+    },
+    {
       "title": "Nicola Di Bari",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nicola%20Di%20Bari",
       "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "Salernitana-Cremonese",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana-Cremonese",
-      "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
+      "title": "Terremoto Siena",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20Siena",
+      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Lucia Bosè",
@@ -57,19 +72,24 @@
       "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Coppa Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Italia",
+      "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Luca Calvani",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luca%20Calvani",
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
     },
     {
+      "title": "Grammy 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Grammy%202025",
+      "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
+    },
+    {
       "title": "Manuela Arcuri",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Arcuri",
       "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Coppa Italia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Italia",
-      "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Manchester United  Crystal Palace",
@@ -80,26 +100,6 @@
       "title": "Carrarese-Brescia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carrarese-Brescia",
       "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Allerta temporale",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allerta%20temporale",
-      "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Federica Nargi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federica%20Nargi",
-      "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Albano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Albano",
-      "pubdate": "Sun, 02 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Eva Henger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eva%20Henger",
-      "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
     }
   ]
 }

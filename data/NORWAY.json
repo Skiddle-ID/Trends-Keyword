@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "02-02-2025 , 23:35:36",
+  "lastUpdate": "03-02-2025 , 01:56:16",
   "data": [
+    {
+      "title": "Bianca Censori",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bianca%20Censori",
+      "pubdate": "Mon, 03 Feb 2025 02:00:00 +0100"
+    },
     {
       "title": "Arsenal mot Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Man%20City",
@@ -25,6 +30,11 @@
       "title": "Canada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Canada",
       "pubdate": "Sun, 02 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "USAID",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#USAID",
+      "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Meme coin",
@@ -90,16 +100,6 @@
       "title": "Anna Anka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anna%20Anka",
       "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Bournemouth",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bournemouth",
-      "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Lasse Nordås",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lasse%20Nord%C3%A5s",
-      "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
     }
   ]
 }
