@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "03-02-2025 , 11:35:38",
+  "lastUpdate": "03-02-2025 , 12:56:23",
   "data": [
     {
       "title": "Lady Gaga",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lady%20Gaga",
       "pubdate": "Mon, 03 Feb 2025 00:00:00 -0500"
+    },
+    {
+      "title": "CMSP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CMSP",
+      "pubdate": "Mon, 03 Feb 2025 07:00:00 -0500"
     },
     {
       "title": "Guarani x Palmeiras",
@@ -52,6 +57,11 @@
       "pubdate": "Sun, 02 Feb 2025 19:00:00 -0500"
     },
     {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
+      "pubdate": "Sun, 02 Feb 2025 13:00:00 -0500"
+    },
+    {
       "title": "Manchester United x Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Crystal%20Palace",
       "pubdate": "Sun, 02 Feb 2025 09:00:00 -0500"
@@ -87,19 +97,9 @@
       "pubdate": "Sun, 02 Feb 2025 16:00:00 -0500"
     },
     {
-      "title": "Billie Eilish",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Billie%20Eilish",
-      "pubdate": "Sun, 02 Feb 2025 22:00:00 -0500"
-    },
-    {
       "title": "Atletico de Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
       "pubdate": "Sun, 02 Feb 2025 12:00:00 -0500"
-    },
-    {
-      "title": "Newton Cardoso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newton%20Cardoso",
-      "pubdate": "Sun, 02 Feb 2025 09:00:00 -0500"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 11:35:37",
+  "lastUpdate": "03-02-2025 , 12:56:22",
   "data": [
     {
       "title": "Chappell Roan",
@@ -10,11 +10,6 @@
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bitcoin",
       "pubdate": "Mon, 03 Feb 2025 01:00:00 -0300"
-    },
-    {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Taylor%20Swift",
-      "pubdate": "Mon, 03 Feb 2025 03:00:00 -0300"
     },
     {
       "title": "Lady Gaga",
@@ -42,8 +37,8 @@
       "pubdate": "Sun, 02 Feb 2025 13:00:00 -0300"
     },
     {
-      "title": "Barcelona  Alavés",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona%20%20Alav%C3%A9s",
+      "title": "Barcelona - Alavés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona%20-%20Alav%C3%A9s",
       "pubdate": "Sun, 02 Feb 2025 10:00:00 -0300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Juventus - Empoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus%20-%20Empoli",
       "pubdate": "Sun, 02 Feb 2025 11:00:00 -0300"
+    },
+    {
+      "title": "Florencio Varela",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Florencio%20Varela",
+      "pubdate": "Sun, 02 Feb 2025 22:00:00 -0300"
     }
   ]
 }

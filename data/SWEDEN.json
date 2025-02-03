@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "03-02-2025 , 11:35:47",
+  "lastUpdate": "03-02-2025 , 12:56:31",
   "data": [
     {
-      "title": "Bianca Censori Grammy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bianca%20Censori%20Grammy",
+      "title": "Kanye West",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanye%20West",
       "pubdate": "Mon, 03 Feb 2025 04:00:00 +0100"
     },
     {
@@ -15,6 +15,11 @@
       "title": "Fotboll",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fotboll",
       "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "AC/DC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AC/DC",
+      "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Arsenal mot Man City",
@@ -42,14 +47,14 @@
       "pubdate": "Sun, 02 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Dotter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dotter",
-      "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
-    },
-    {
       "title": "Retinol",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Retinol",
       "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Dotter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dotter",
+      "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Gunde Svan",
@@ -77,6 +82,11 @@
       "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
     },
     {
+      "title": "Ringhals",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ringhals",
+      "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Johan Esplund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johan%20Esplund",
       "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Maja Ivarsson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maja%20Ivarsson",
       "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "UFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
-      "pubdate": "Sat, 01 Feb 2025 03:00:00 +0100"
-    },
-    {
-      "title": "Jesper Björkman",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jesper%20Bj%C3%B6rkman",
-      "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
     }
   ]
 }

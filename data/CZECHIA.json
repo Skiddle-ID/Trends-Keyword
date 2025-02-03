@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "03-02-2025 , 11:35:39",
+  "lastUpdate": "03-02-2025 , 12:56:24",
   "data": [
+    {
+      "title": "Jarni prazdniny",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarni%20prazdniny",
+      "pubdate": "Mon, 03 Feb 2025 08:00:00 +0100"
+    },
     {
       "title": "USAID",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#USAID",
@@ -17,14 +22,14 @@
       "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Slovácko – Sparta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Sparta",
-      "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
-    },
-    {
       "title": "Grammy 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Grammy%202025",
       "pubdate": "Sun, 02 Feb 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Slovácko – Sparta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Sparta",
+      "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Slavia",
@@ -57,14 +62,14 @@
       "pubdate": "Sun, 02 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "SK Slavia Praha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
-      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
-    },
-    {
       "title": "Igor Orozovič",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Igor%20Orozovi%C4%8D",
       "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "SK Slavia Praha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SK%20Slavia%20Praha",
+      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Arsenal",
@@ -92,14 +97,9 @@
       "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Marek Němec",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20N%C4%9Bmec",
-      "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Liberec – Baník",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Ban%C3%ADk",
-      "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
+      "title": "Švancara",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0vancara",
+      "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
     }
   ]
 }
