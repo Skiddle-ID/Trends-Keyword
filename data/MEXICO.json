@@ -1,20 +1,25 @@
 {
-  "lastUpdate": "03-02-2025 , 15:36:50",
+  "lastUpdate": "03-02-2025 , 16:41:56",
   "data": [
-    {
-      "title": "Red Telcel falla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Red%20Telcel%20falla",
-      "pubdate": "Mon, 03 Feb 2025 00:00:00 -0600"
-    },
     {
       "title": "Dollar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dollar",
       "pubdate": "Mon, 03 Feb 2025 01:00:00 -0600"
     },
     {
+      "title": "Red Telcel falla",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Red%20Telcel%20falla",
+      "pubdate": "Mon, 03 Feb 2025 00:00:00 -0600"
+    },
+    {
       "title": "El angel de Aurora",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20angel%20de%20Aurora",
       "pubdate": "Mon, 03 Feb 2025 00:00:00 -0600"
+    },
+    {
+      "title": "USAID",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#USAID",
+      "pubdate": "Mon, 03 Feb 2025 09:00:00 -0600"
     },
     {
       "title": "Atl San Luis  Pumas",
@@ -32,9 +37,14 @@
       "pubdate": "Sun, 02 Feb 2025 07:00:00 -0600"
     },
     {
-      "title": "Arsenal - Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20-%20Manchester%20City",
+      "title": "Arsenal  Manchester City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20%20Manchester%20City",
       "pubdate": "Sun, 02 Feb 2025 10:00:00 -0600"
+    },
+    {
+      "title": "Dolar hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dolar%20hoy",
+      "pubdate": "Sun, 02 Feb 2025 17:00:00 -0600"
     },
     {
       "title": "Kanye West",
@@ -42,9 +52,9 @@
       "pubdate": "Sun, 02 Feb 2025 19:00:00 -0600"
     },
     {
-      "title": "Precio del dolar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Precio%20del%20dolar",
-      "pubdate": "Sun, 02 Feb 2025 17:00:00 -0600"
+      "title": "Milan  Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Milan%20%20Inter",
+      "pubdate": "Sun, 02 Feb 2025 00:00:00 -0600"
     },
     {
       "title": "Sporting San Miguelito  Inter Miami",
@@ -90,16 +100,6 @@
       "title": "Napoli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli",
       "pubdate": "Sun, 02 Feb 2025 14:00:00 -0600"
-    },
-    {
-      "title": "Juventus - Empoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juventus%20-%20Empoli",
-      "pubdate": "Sun, 02 Feb 2025 08:00:00 -0600"
-    },
-    {
-      "title": "Coca-cola",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Coca-cola",
-      "pubdate": "Sun, 02 Feb 2025 00:00:00 -0600"
     }
   ]
 }

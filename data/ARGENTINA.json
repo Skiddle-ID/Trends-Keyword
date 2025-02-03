@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 15:36:43",
+  "lastUpdate": "03-02-2025 , 16:41:49",
   "data": [
     {
       "title": "Racing",
@@ -22,11 +22,6 @@
       "pubdate": "Mon, 03 Feb 2025 01:00:00 -0300"
     },
     {
-      "title": "Beyonce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Beyonce",
-      "pubdate": "Mon, 03 Feb 2025 03:00:00 -0300"
-    },
-    {
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Taylor%20Swift",
       "pubdate": "Mon, 03 Feb 2025 03:00:00 -0300"
@@ -42,6 +37,11 @@
       "pubdate": "Mon, 03 Feb 2025 03:00:00 -0300"
     },
     {
+      "title": "Araña",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ara%C3%B1a",
+      "pubdate": "Mon, 03 Feb 2025 12:00:00 -0300"
+    },
+    {
       "title": "Peso mexicano a dolar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Peso%20mexicano%20a%20dolar",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 -0300"
@@ -50,6 +50,11 @@
       "title": "San Blas",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Blas",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 -0300"
+    },
+    {
+      "title": "Dia del Abogado",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Abogado",
+      "pubdate": "Mon, 03 Feb 2025 12:00:00 -0300"
     },
     {
       "title": "San Lorenzo  River Plate",
@@ -82,24 +87,19 @@
       "pubdate": "Sun, 02 Feb 2025 22:00:00 -0300"
     },
     {
-      "title": "Sporting San Miguelito  Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sporting%20San%20Miguelito%20%20Inter%20Miami",
-      "pubdate": "Sun, 02 Feb 2025 19:00:00 -0300"
-    },
-    {
       "title": "Newell's",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
       "pubdate": "Sun, 02 Feb 2025 16:00:00 -0300"
     },
     {
+      "title": "Sporting San Miguelito  Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sporting%20San%20Miguelito%20%20Inter%20Miami",
+      "pubdate": "Sun, 02 Feb 2025 19:00:00 -0300"
+    },
+    {
       "title": "Kanye West",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kanye%20West",
       "pubdate": "Sun, 02 Feb 2025 22:00:00 -0300"
-    },
-    {
-      "title": "Grammys 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Grammys%202025",
-      "pubdate": "Sun, 02 Feb 2025 13:00:00 -0300"
     }
   ]
 }

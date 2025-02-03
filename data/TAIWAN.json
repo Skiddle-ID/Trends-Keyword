@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 15:36:54",
+  "lastUpdate": "03-02-2025 , 16:42:00",
   "data": [
     {
       "title": "Yahoo",
@@ -22,14 +22,14 @@
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
     },
     {
-      "title": "2330",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2330",
-      "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
-    },
-    {
       "title": "肯爺",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%82%AF%E7%88%BA",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0800"
+    },
+    {
+      "title": "2330",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2330",
+      "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
     },
     {
       "title": "初五迎財神",
@@ -47,14 +47,14 @@
       "pubdate": "Mon, 03 Feb 2025 12:00:00 +0800"
     },
     {
-      "title": "葛萊美",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%91%9B%E8%90%8A%E7%BE%8E",
-      "pubdate": "Mon, 03 Feb 2025 13:00:00 +0800"
-    },
-    {
       "title": "經典賽資格賽名單",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B6%93%E5%85%B8%E8%B3%BD%E8%B3%87%E6%A0%BC%E8%B3%BD%E5%90%8D%E5%96%AE",
       "pubdate": "Mon, 03 Feb 2025 03:00:00 +0800"
+    },
+    {
+      "title": "鴻海股價",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E6%B5%B7%E8%82%A1%E5%83%B9",
+      "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
     },
     {
       "title": "LINE",
@@ -62,9 +62,14 @@
       "pubdate": "Mon, 03 Feb 2025 18:00:00 +0800"
     },
     {
-      "title": "鴻海股價",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E6%B5%B7%E8%82%A1%E5%83%B9",
+      "title": "台積電股票",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E7%A5%A8",
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
+    },
+    {
+      "title": "葛萊美",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%91%9B%E8%90%8A%E7%BE%8E",
+      "pubdate": "Mon, 03 Feb 2025 13:00:00 +0800"
     },
     {
       "title": "比特幣",
@@ -77,8 +82,8 @@
       "pubdate": "Mon, 03 Feb 2025 02:00:00 +0800"
     },
     {
-      "title": "國際書展",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E9%9A%9B%E6%9B%B8%E5%B1%95",
+      "title": "台北國際書展",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9B%B8%E5%B1%95",
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
     },
     {
@@ -87,19 +92,14 @@
       "pubdate": "Mon, 03 Feb 2025 09:00:00 +0800"
     },
     {
-      "title": "匯率",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8C%AF%E7%8E%87",
+      "title": "兆豐銀行",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%86%E8%B1%90%E9%8A%80%E8%A1%8C",
       "pubdate": "Mon, 03 Feb 2025 12:00:00 +0800"
     },
     {
       "title": "元宵節",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%83%E5%AE%B5%E7%AF%80",
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
-    },
-    {
-      "title": "富邦產險",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AF%8C%E9%82%A6%E7%94%A2%E9%9A%AA",
-      "pubdate": "Mon, 03 Feb 2025 15:00:00 +0800"
     }
   ]
 }

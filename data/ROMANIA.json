@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 15:36:52",
+  "lastUpdate": "03-02-2025 , 16:41:58",
   "data": [
     {
       "title": "Greva Metrou",
@@ -7,19 +7,14 @@
       "pubdate": "Mon, 03 Feb 2025 02:00:00 +0200"
     },
     {
-      "title": "Vacanta elevilor februarie 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vacanta%20elevilor%20februarie%202025",
-      "pubdate": "Mon, 03 Feb 2025 03:00:00 +0200"
-    },
-    {
-      "title": "Cagliari",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cagliari",
-      "pubdate": "Mon, 03 Feb 2025 11:00:00 +0200"
-    },
-    {
       "title": "Nordis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nordis",
       "pubdate": "Mon, 03 Feb 2025 12:00:00 +0200"
+    },
+    {
+      "title": "Real Betis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Betis",
+      "pubdate": "Mon, 03 Feb 2025 01:00:00 +0200"
     },
     {
       "title": "USAID",
@@ -35,11 +30,6 @@
       "title": "Alexandru Stoian",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandru%20Stoian",
       "pubdate": "Mon, 03 Feb 2025 01:00:00 +0200"
-    },
-    {
-      "title": "Prognoza meteo bucuresti",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Prognoza%20meteo%20bucuresti",
-      "pubdate": "Mon, 03 Feb 2025 16:00:00 +0200"
     },
     {
       "title": "FCSB - CFR Cluj",
@@ -82,6 +72,11 @@
       "pubdate": "Sun, 02 Feb 2025 16:00:00 +0200"
     },
     {
+      "title": "Florinel Coman",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florinel%20Coman",
+      "pubdate": "Sun, 02 Feb 2025 21:00:00 +0200"
+    },
+    {
       "title": "Luka Doncic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luka%20Doncic",
       "pubdate": "Sun, 02 Feb 2025 11:00:00 +0200"
@@ -95,6 +90,11 @@
       "title": "Fiorentina  Genoa",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fiorentina%20%20Genoa",
       "pubdate": "Sun, 02 Feb 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Santorini",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Santorini",
+      "pubdate": "Sun, 02 Feb 2025 18:00:00 +0200"
     },
     {
       "title": "Ministerul Educației",
