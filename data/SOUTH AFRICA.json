@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 23:35:33",
+  "lastUpdate": "04-02-2025 , 01:55:22",
   "data": [
     {
       "title": "Sunderland",
@@ -10,6 +10,11 @@
       "title": "Lazio",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lazio",
       "pubdate": "Tue, 04 Feb 2025 00:00:00 +0200"
+    },
+    {
+      "title": "Taylor Swift",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Taylor%20Swift",
+      "pubdate": "Tue, 04 Feb 2025 02:00:00 +0200"
     },
     {
       "title": "Bianca Censori Grammys",
@@ -47,6 +52,11 @@
       "pubdate": "Mon, 03 Feb 2025 23:00:00 +0200"
     },
     {
+      "title": "Chelsea FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
+      "pubdate": "Mon, 03 Feb 2025 23:00:00 +0200"
+    },
+    {
       "title": "Galatasaray",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Galatasaray",
       "pubdate": "Mon, 03 Feb 2025 19:00:00 +0200"
@@ -57,13 +67,8 @@
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0200"
     },
     {
-      "title": "Chelsea FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
-      "pubdate": "Mon, 03 Feb 2025 23:00:00 +0200"
-    },
-    {
-      "title": "Severe Weather",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Severe%20Weather",
+      "title": "Severe weather",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Severe%20weather",
       "pubdate": "Mon, 03 Feb 2025 19:00:00 +0200"
     },
     {
@@ -82,24 +87,19 @@
       "pubdate": "Mon, 03 Feb 2025 20:00:00 +0200"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
+      "title": "Chris Brown",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chris%20Brown",
+      "pubdate": "Mon, 03 Feb 2025 11:00:00 +0200"
+    },
+    {
+      "title": "Fa Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fa%20Cup",
       "pubdate": "Mon, 03 Feb 2025 10:00:00 +0200"
     },
     {
       "title": "Legal aid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Legal%20aid",
       "pubdate": "Mon, 03 Feb 2025 20:00:00 +0200"
-    },
-    {
-      "title": "Doechii",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Doechii",
-      "pubdate": "Mon, 03 Feb 2025 23:00:00 +0200"
-    },
-    {
-      "title": "SONA 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SONA%202025",
-      "pubdate": "Mon, 03 Feb 2025 22:00:00 +0200"
     }
   ]
 }
