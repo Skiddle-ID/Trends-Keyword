@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 11:35:51",
+  "lastUpdate": "04-02-2025 , 12:56:58",
   "data": [
     {
       "title": "Cristiano Ronaldo",
@@ -7,18 +7,13 @@
       "pubdate": "Tue, 04 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
-      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0100"
-    },
-    {
       "title": "Mrtvé moře",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mrtv%C3%A9%20mo%C5%99e",
       "pubdate": "Tue, 04 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Hodonin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hodonin",
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
       "pubdate": "Tue, 04 Feb 2025 00:00:00 +0100"
     },
     {
@@ -40,11 +35,6 @@
       "title": "Olomouc – Plzeň",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc%20%E2%80%93%20Plze%C5%88",
       "pubdate": "Mon, 03 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Chelsea – West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea%20%E2%80%93%20West%20Ham",
-      "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "AC/DC",
@@ -77,18 +67,23 @@
       "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "Hodonin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hodonin",
+      "pubdate": "Mon, 03 Feb 2025 19:00:00 +0100"
+    },
+    {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Billie%20Eilish",
       "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Radovan Krejčíř",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radovan%20Krej%C4%8D%C3%AD%C5%99",
+      "title": "Petra Kvitová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Kvitov%C3%A1",
       "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Petra Kvitová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Kvitov%C3%A1",
+      "title": "Radovan Krejčíř",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radovan%20Krej%C4%8D%C3%AD%C5%99",
       "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Taylor Swift",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Taylor%20Swift",
       "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Indian",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Indian",
+      "pubdate": "Mon, 03 Feb 2025 20:00:00 +0100"
     }
   ]
 }

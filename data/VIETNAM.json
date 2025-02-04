@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 11:35:59",
+  "lastUpdate": "04-02-2025 , 12:57:06",
   "data": [
     {
       "title": "Al-Nassr đấu với Al Wasl",
@@ -12,14 +12,29 @@
       "pubdate": "Tue, 04 Feb 2025 09:00:00 +0700"
     },
     {
-      "title": "Kiem tra phat nguoi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kiem%20tra%20phat%20nguoi",
-      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0700"
+      "title": "Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ronaldo",
+      "pubdate": "Tue, 04 Feb 2025 17:00:00 +0700"
+    },
+    {
+      "title": "Thời tiết Đà Nẵng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%9Di%20ti%E1%BA%BFt%20%C4%90%C3%A0%20N%E1%BA%B5ng",
+      "pubdate": "Tue, 04 Feb 2025 09:00:00 +0700"
     },
     {
       "title": "Giá heo hơi hôm nay",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20heo%20h%C6%A1i%20h%C3%B4m%20nay",
       "pubdate": "Tue, 04 Feb 2025 14:00:00 +0700"
+    },
+    {
+      "title": "Kendrick Lamar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Kendrick%20Lamar",
+      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0700"
+    },
+    {
+      "title": "Sông Tô Lịch",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#S%C3%B4ng%20T%C3%B4%20L%E1%BB%8Bch",
+      "pubdate": "Tue, 04 Feb 2025 19:00:00 +0700"
     },
     {
       "title": "Từ Hy Viên",
@@ -39,7 +54,12 @@
     {
       "title": "DeepSeek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#DeepSeek",
-      "pubdate": "Mon, 03 Feb 2025 11:00:00 +0700"
+      "pubdate": "Mon, 03 Feb 2025 15:00:00 +0700"
+    },
+    {
+      "title": "Zalo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Zalo",
+      "pubdate": "Mon, 03 Feb 2025 16:00:00 +0700"
     },
     {
       "title": "Real Betis",
@@ -57,11 +77,6 @@
       "pubdate": "Mon, 03 Feb 2025 00:00:00 +0700"
     },
     {
-      "title": "USD to VND",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#USD%20to%20VND",
-      "pubdate": "Mon, 03 Feb 2025 12:00:00 +0700"
-    },
-    {
       "title": "Grammy 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Grammy%202025",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0700"
@@ -77,28 +92,13 @@
       "pubdate": "Mon, 03 Feb 2025 08:00:00 +0700"
     },
     {
-      "title": "Bitcoin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
-      "pubdate": "Mon, 03 Feb 2025 11:00:00 +0700"
-    },
-    {
-      "title": "Vietcombank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vietcombank",
-      "pubdate": "Mon, 03 Feb 2025 14:00:00 +0700"
-    },
-    {
-      "title": "LinkedIn",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#LinkedIn",
+      "title": "Tỷ giá USD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%B7%20gi%C3%A1%20USD",
       "pubdate": "Mon, 03 Feb 2025 12:00:00 +0700"
     },
     {
-      "title": "USAID",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#USAID",
-      "pubdate": "Mon, 03 Feb 2025 13:00:00 +0700"
-    },
-    {
-      "title": "Chúc mừng năm mới",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%BAc%20m%E1%BB%ABng%20n%C4%83m%20m%E1%BB%9Bi",
+      "title": "Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0700"
     }
   ]

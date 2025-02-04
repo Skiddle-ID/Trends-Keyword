@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 11:35:53",
+  "lastUpdate": "04-02-2025 , 12:57:00",
   "data": [
     {
       "title": "Kern András",
@@ -52,6 +52,16 @@
       "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
     },
     {
+      "title": "Pantera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pantera",
+      "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Gróf Dávid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gr%C3%B3f%20D%C3%A1vid",
+      "pubdate": "Mon, 03 Feb 2025 12:00:00 +0100"
+    },
+    {
       "title": "Alice Weidel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alice%20Weidel",
       "pubdate": "Mon, 03 Feb 2025 15:00:00 +0100"
@@ -62,9 +72,9 @@
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "Gróf Dávid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gr%C3%B3f%20D%C3%A1vid",
-      "pubdate": "Mon, 03 Feb 2025 12:00:00 +0100"
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
+      "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "USAID",
@@ -72,19 +82,9 @@
       "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
-      "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Influenza",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Influenza",
       "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Pantera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pantera",
-      "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "MOME",
@@ -97,9 +97,9 @@
       "pubdate": "Mon, 03 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "FeHoVa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FeHoVa",
-      "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
+      "title": "Miután",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Miut%C3%A1n",
+      "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
     }
   ]
 }

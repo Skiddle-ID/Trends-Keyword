@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 11:35:57",
+  "lastUpdate": "04-02-2025 , 12:57:04",
   "data": [
     {
       "title": "Chelsea vs West Ham",
@@ -32,6 +32,16 @@
       "pubdate": "Tue, 04 Feb 2025 08:00:00 +0800"
     },
     {
+      "title": "Joao Felix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joao%20Felix",
+      "pubdate": "Tue, 04 Feb 2025 12:00:00 +0800"
+    },
+    {
+      "title": "China tariffs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20tariffs",
+      "pubdate": "Tue, 04 Feb 2025 17:00:00 +0800"
+    },
+    {
       "title": "Billie Eilish",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Billie%20Eilish",
       "pubdate": "Tue, 04 Feb 2025 08:00:00 +0800"
@@ -47,13 +57,8 @@
       "pubdate": "Tue, 04 Feb 2025 12:00:00 +0800"
     },
     {
-      "title": "China tariffs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20tariffs",
-      "pubdate": "Tue, 04 Feb 2025 17:00:00 +0800"
-    },
-    {
-      "title": "Pneumonia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pneumonia",
+      "title": "Barbie Hsu death",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barbie%20Hsu%20death",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0800"
     },
     {
@@ -95,11 +100,6 @@
       "title": "Bitcoin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
       "pubdate": "Mon, 03 Feb 2025 11:00:00 +0800"
-    },
-    {
-      "title": "Crypto news",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Crypto%20news",
-      "pubdate": "Mon, 03 Feb 2025 10:00:00 +0800"
     }
   ]
 }
