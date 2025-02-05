@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 23:35:28",
+  "lastUpdate": "05-02-2025 , 01:56:21",
   "data": [
     {
       "title": "PLTR",
@@ -7,14 +7,14 @@
       "pubdate": "Tue, 04 Feb 2025 08:00:00 +0800"
     },
     {
-      "title": "孫生",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E7%94%9F",
-      "pubdate": "Tue, 04 Feb 2025 18:00:00 +0800"
-    },
-    {
       "title": "黃少岑",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E5%B0%91%E5%B2%91",
       "pubdate": "Tue, 04 Feb 2025 17:00:00 +0800"
+    },
+    {
+      "title": "孫生",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E7%94%9F",
+      "pubdate": "Tue, 04 Feb 2025 18:00:00 +0800"
     },
     {
       "title": "六合彩",
@@ -22,14 +22,14 @@
       "pubdate": "Tue, 04 Feb 2025 23:00:00 +0800"
     },
     {
-      "title": "芬太尼",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8A%AC%E5%A4%AA%E5%B0%BC",
-      "pubdate": "Tue, 04 Feb 2025 21:00:00 +0800"
-    },
-    {
       "title": "聯合新聞網",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%81%AF%E5%90%88%E6%96%B0%E8%81%9E%E7%B6%B2",
       "pubdate": "Tue, 04 Feb 2025 01:00:00 +0800"
+    },
+    {
+      "title": "張穎穎",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E7%A9%8E%E7%A9%8E",
+      "pubdate": "Tue, 04 Feb 2025 23:00:00 +0800"
     },
     {
       "title": "梁祐誠",
@@ -45,6 +45,11 @@
       "title": "Land Cruiser 250",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Land%20Cruiser%20250",
       "pubdate": "Tue, 04 Feb 2025 18:00:00 +0800"
+    },
+    {
+      "title": "抗凝血劑美白",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%8A%97%E5%87%9D%E8%A1%80%E5%8A%91%E7%BE%8E%E7%99%BD",
+      "pubdate": "Tue, 04 Feb 2025 19:00:00 +0800"
     },
     {
       "title": "飛天小女警",
@@ -72,16 +77,6 @@
       "pubdate": "Tue, 04 Feb 2025 02:00:00 +0800"
     },
     {
-      "title": "初七",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%88%9D%E4%B8%83",
-      "pubdate": "Tue, 04 Feb 2025 12:00:00 +0800"
-    },
-    {
-      "title": "敗血症是什麼",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%95%97%E8%A1%80%E7%97%87%E6%98%AF%E4%BB%80%E9%BA%BC",
-      "pubdate": "Tue, 04 Feb 2025 13:00:00 +0800"
-    },
-    {
       "title": "Zoom",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Zoom",
       "pubdate": "Tue, 04 Feb 2025 13:00:00 +0800"
@@ -97,9 +92,14 @@
       "pubdate": "Tue, 04 Feb 2025 23:00:00 +0800"
     },
     {
-      "title": "Lady Gaga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Lady%20Gaga",
-      "pubdate": "Tue, 04 Feb 2025 08:00:00 +0800"
+      "title": "Sabrina Carpenter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Sabrina%20Carpenter",
+      "pubdate": "Tue, 04 Feb 2025 07:00:00 +0800"
+    },
+    {
+      "title": "新冠疫苗",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97",
+      "pubdate": "Tue, 04 Feb 2025 11:00:00 +0800"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "04-02-2025 , 23:35:27",
+  "lastUpdate": "05-02-2025 , 01:56:20",
   "data": [
+    {
+      "title": "Ronaldo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ronaldo",
+      "pubdate": "Wed, 05 Feb 2025 08:00:00 +0800"
+    },
     {
       "title": "Palantir",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Palantir",
@@ -17,29 +22,9 @@
       "pubdate": "Tue, 04 Feb 2025 07:00:00 +0800"
     },
     {
-      "title": "Sepsis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sepsis",
-      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0800"
-    },
-    {
-      "title": "Dr Khoo Chong Kiat",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dr%20Khoo%20Chong%20Kiat",
-      "pubdate": "Tue, 04 Feb 2025 22:00:00 +0800"
-    },
-    {
       "title": "Singapore Changi Airport news",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Changi%20Airport%20news",
       "pubdate": "Tue, 04 Feb 2025 08:00:00 +0800"
-    },
-    {
-      "title": "Montenegro",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Montenegro",
-      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0800"
-    },
-    {
-      "title": "Carabao Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
-      "pubdate": "Tue, 04 Feb 2025 11:00:00 +0800"
     },
     {
       "title": "Fantastic Four",
@@ -47,14 +32,19 @@
       "pubdate": "Tue, 04 Feb 2025 23:00:00 +0800"
     },
     {
-      "title": "Joao Felix",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joao%20Felix",
-      "pubdate": "Tue, 04 Feb 2025 12:00:00 +0800"
+      "title": "Montenegro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Montenegro",
+      "pubdate": "Tue, 04 Feb 2025 00:00:00 +0800"
     },
     {
       "title": "Santorini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Santorini",
       "pubdate": "Tue, 04 Feb 2025 23:00:00 +0800"
+    },
+    {
+      "title": "Joao Felix",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joao%20Felix",
+      "pubdate": "Tue, 04 Feb 2025 12:00:00 +0800"
     },
     {
       "title": "Aurora",
@@ -100,6 +90,16 @@
       "title": "Trump tariffs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20tariffs",
       "pubdate": "Mon, 03 Feb 2025 20:00:00 +0800"
+    },
+    {
+      "title": "Lim Tze Peng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lim%20Tze%20Peng",
+      "pubdate": "Mon, 03 Feb 2025 22:00:00 +0800"
+    },
+    {
+      "title": "Bitcoin",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
+      "pubdate": "Mon, 03 Feb 2025 11:00:00 +0800"
     }
   ]
 }
