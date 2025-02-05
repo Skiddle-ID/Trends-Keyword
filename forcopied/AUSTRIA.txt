@@ -1,1 +1,1 @@
-Aga Khan,Pam Bondi,Donald Trump Jr,Alphabet-Aktie,Simona Halep,Hot Tub App,Heidi Klum,Trump Gaza,Santorini,Spar,DFB-Pokal,Schweden,Rewe Kartellstrafe,Koalitionsverhandlungen FPÖ ÖVP,Palantir Aktie,Golden Bachelor Finale,Ronaldo,Michael Hayböck,Alaba,Daniel Hartwich
+Aga Khan,Trump Gaza,Pam Bondi,Donald Trump Jr,Alphabet-Aktie,Simona Halep,Heidi Klum,Mirjam Puchner,Santorini,Spar,DFB-Pokal,Koalitionsverhandlungen FPÖ ÖVP,Schweden,Rewe Kartellstrafe,Palantir Aktie,Ronaldo,Golden Bachelor Finale,Michael Hayböck,Alaba,Daniel Hartwich

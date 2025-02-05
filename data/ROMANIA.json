@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "05-02-2025 , 11:35:58",
+  "lastUpdate": "05-02-2025 , 12:57:32",
   "data": [
     {
       "title": "Ziua Cititului impreuna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20Cititului%20impreuna",
       "pubdate": "Wed, 05 Feb 2025 07:00:00 +0200"
+    },
+    {
+      "title": "Paine",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Paine",
+      "pubdate": "Wed, 05 Feb 2025 14:00:00 +0200"
     },
     {
       "title": "CCR",
@@ -52,6 +57,11 @@
       "pubdate": "Tue, 04 Feb 2025 12:00:00 +0200"
     },
     {
+      "title": "Dinamo București",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti",
+      "pubdate": "Tue, 04 Feb 2025 23:00:00 +0200"
+    },
+    {
       "title": "Elvir Koljic",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elvir%20Koljic",
       "pubdate": "Tue, 04 Feb 2025 22:00:00 +0200"
@@ -62,24 +72,19 @@
       "pubdate": "Tue, 04 Feb 2025 00:00:00 +0200"
     },
     {
-      "title": "Andrei gheorghita",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrei%20gheorghita",
-      "pubdate": "Tue, 04 Feb 2025 11:00:00 +0200"
-    },
-    {
       "title": "Mihai Răzvan Ungureanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mihai%20R%C4%83zvan%20Ungureanu",
       "pubdate": "Tue, 04 Feb 2025 10:00:00 +0200"
     },
     {
-      "title": "Al-hilal  Persepolis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-hilal%20%20Persepolis",
-      "pubdate": "Tue, 04 Feb 2025 22:00:00 +0200"
-    },
-    {
       "title": "Ana Bogdan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
       "pubdate": "Tue, 04 Feb 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Al-hilal  Persepolis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-hilal%20%20Persepolis",
+      "pubdate": "Tue, 04 Feb 2025 22:00:00 +0200"
     },
     {
       "title": "Chelsea",
@@ -95,11 +100,6 @@
       "title": "Fentanil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fentanil",
       "pubdate": "Tue, 04 Feb 2025 23:00:00 +0200"
-    },
-    {
-      "title": "Joao Felix",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joao%20Felix",
-      "pubdate": "Tue, 04 Feb 2025 12:00:00 +0200"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Ex,AF,Roslagsbanan,Gaza,Copa del Rey,Dn.se,Örebro,SVT Nyheter,SVT,Dn,New York Times,Sweden,Svt örebro,Nyheter idag,Sveriges Radio,Nino Zugelj,Pressträff,Sam Kerr,Svt.se,Trollhättan
+AF,Gaza,Copa del Rey,Örebro,Aftonbladet,Expressen,SVT,SVT Nyheter,DN,Nyheter,Na,New York Times,SR,Sweden,Nyheter idag,Svt örebro,TT,Nino Zugelj,Pressträff,Sam Kerr
