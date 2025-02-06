@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "06-02-2025 , 11:35:45",
+  "lastUpdate": "06-02-2025 , 12:57:28",
   "data": [
+    {
+      "title": "Doosan Škoda Power",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Doosan%20%C5%A0koda%20Power",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0100"
+    },
     {
       "title": "Ozzy Osbourne",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20Osbourne",
@@ -9,7 +14,7 @@
     {
       "title": "Survivor 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Survivor%202025",
-      "pubdate": "Wed, 05 Feb 2025 13:00:00 +0100"
+      "pubdate": "Wed, 05 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Newcastle – Arsenal",
@@ -47,9 +52,9 @@
       "pubdate": "Wed, 05 Feb 2025 20:00:00 +0100"
     },
     {
-      "title": "Justin bieber",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Justin%20bieber",
-      "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
+      "title": "Dominika Hašková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika%20Ha%C5%A1kov%C3%A1",
+      "pubdate": "Wed, 05 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "West Side Story",
@@ -57,14 +62,19 @@
       "pubdate": "Wed, 05 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Forbes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
-      "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
+      "title": "Jurassic World Rebirth",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jurassic%20World%20Rebirth",
+      "pubdate": "Wed, 05 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Copa del Rey",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Copa%20del%20Rey",
       "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Forbes",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forbes",
+      "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "Trump Gaza",
@@ -90,16 +100,6 @@
       "title": "Helena Vondráčková",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Helena%20Vondr%C3%A1%C4%8Dkov%C3%A1",
       "pubdate": "Tue, 04 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Petr Muk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Muk",
-      "pubdate": "Tue, 04 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Bohemian Rhapsody",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemian%20Rhapsody",
-      "pubdate": "Tue, 04 Feb 2025 21:00:00 +0100"
     }
   ]
 }

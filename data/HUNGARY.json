@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2025 , 11:35:47",
+  "lastUpdate": "06-02-2025 , 12:57:31",
   "data": [
     {
       "title": "Széles Flóra",
@@ -7,14 +7,9 @@
       "pubdate": "Thu, 06 Feb 2025 07:00:00 +0100"
     },
     {
-      "title": "Gázolaj",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj",
-      "pubdate": "Thu, 06 Feb 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Lara Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lara%20Trump",
-      "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
+      "title": "Simicska Lajos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Simicska%20Lajos",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Minimal Phone",
@@ -22,14 +17,29 @@
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "OTP Bank Liga",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank%20Liga",
-      "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
+      "title": "Gázolaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj",
+      "pubdate": "Thu, 06 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Kormányinfó",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Jimmy Butler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jimmy%20Butler",
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Lara Trump",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lara%20Trump",
+      "pubdate": "Thu, 06 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "OTP Bank Liga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP%20Bank%20Liga",
+      "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Nyugdíjasoknak",
@@ -45,6 +55,11 @@
       "title": "FTC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
       "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Julio Romao",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julio%20Romao",
+      "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Hosszú Katinka",
@@ -72,24 +87,9 @@
       "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Jurassic World: Újjászületés előzetes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jurassic%20World:%20%C3%9Ajj%C3%A1sz%C3%BClet%C3%A9s%20el%C5%91zetes",
-      "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
-    },
-    {
       "title": "Nutria",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nutria",
       "pubdate": "Wed, 05 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Julio Romao",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julio%20Romao",
-      "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Dacia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dacia",
-      "pubdate": "Wed, 05 Feb 2025 14:00:00 +0100"
     },
     {
       "title": "Japán nő halála",
@@ -97,9 +97,9 @@
       "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Otthonfelújítás nyugdíjasoknak",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Otthonfel%C3%BAj%C3%ADt%C3%A1s%20nyugd%C3%ADjasoknak",
-      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
+      "title": "Dacia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dacia",
+      "pubdate": "Wed, 05 Feb 2025 14:00:00 +0100"
     }
   ]
 }

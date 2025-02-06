@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2025 , 11:35:46",
+  "lastUpdate": "06-02-2025 , 12:57:29",
   "data": [
     {
       "title": "Pam Bondi",
@@ -52,6 +52,11 @@
       "pubdate": "Wed, 05 Feb 2025 10:00:00 +0200"
     },
     {
+      "title": "Kouvola",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kouvola",
+      "pubdate": "Wed, 05 Feb 2025 16:00:00 +0200"
+    },
+    {
       "title": "Örebro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#%C3%96rebro",
       "pubdate": "Tue, 04 Feb 2025 16:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Sabrina Carpenter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sabrina%20Carpenter",
       "pubdate": "Tue, 04 Feb 2025 01:00:00 +0200"
-    },
-    {
-      "title": "Kendrick Lamar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kendrick%20Lamar",
-      "pubdate": "Tue, 04 Feb 2025 02:00:00 +0200"
     }
   ]
 }

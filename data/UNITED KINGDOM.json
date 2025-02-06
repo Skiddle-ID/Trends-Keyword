@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2025 , 11:35:52",
+  "lastUpdate": "06-02-2025 , 12:57:38",
   "data": [
     {
       "title": "FA Cup",
@@ -12,9 +12,29 @@
       "pubdate": "Thu, 06 Feb 2025 03:00:00 +0000"
     },
     {
+      "title": "Jimmy Butler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jimmy%20Butler",
+      "pubdate": "Thu, 06 Feb 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Grenfell Tower",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Grenfell%20Tower",
+      "pubdate": "Thu, 06 Feb 2025 11:00:00 +0000"
+    },
+    {
       "title": "Lottie Moss",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lottie%20Moss",
       "pubdate": "Thu, 06 Feb 2025 00:00:00 +0000"
+    },
+    {
+      "title": "IND vs ENG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#IND%20vs%20ENG",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0000"
+    },
+    {
+      "title": "Sri Lanka vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sri%20Lanka%20vs%20Australia",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0000"
     },
     {
       "title": "Black Sabbath",
@@ -22,14 +42,14 @@
       "pubdate": "Wed, 05 Feb 2025 15:00:00 +0000"
     },
     {
-      "title": "Leeds United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
-      "pubdate": "Wed, 05 Feb 2025 20:00:00 +0000"
-    },
-    {
       "title": "Leganes vs Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leganes%20vs%20Real%20Madrid",
       "pubdate": "Wed, 05 Feb 2025 20:00:00 +0000"
+    },
+    {
+      "title": "Motherland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Motherland",
+      "pubdate": "Wed, 05 Feb 2025 14:00:00 +0000"
     },
     {
       "title": "Aga Khan",
@@ -37,9 +57,9 @@
       "pubdate": "Wed, 05 Feb 2025 00:00:00 +0000"
     },
     {
-      "title": "Amandaland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Amandaland",
-      "pubdate": "Wed, 05 Feb 2025 14:00:00 +0000"
+      "title": "Coventry vs Leeds United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Coventry%20vs%20Leeds%20United",
+      "pubdate": "Wed, 05 Feb 2025 20:00:00 +0000"
     },
     {
       "title": "Kay Burley",
@@ -57,19 +77,14 @@
       "pubdate": "Wed, 05 Feb 2025 11:00:00 +0000"
     },
     {
-      "title": "Milan vs Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Milan%20vs%20Roma",
-      "pubdate": "Wed, 05 Feb 2025 22:00:00 +0000"
+      "title": "Naga Munchetty",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Naga%20Munchetty",
+      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0000"
     },
     {
-      "title": "Money transfer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Money%20transfer",
-      "pubdate": "Wed, 05 Feb 2025 09:00:00 +0000"
-    },
-    {
-      "title": "MoneyGram",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#MoneyGram",
-      "pubdate": "Wed, 05 Feb 2025 09:00:00 +0000"
+      "title": "Tesco Clubcard Prices",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tesco%20Clubcard%20Prices",
+      "pubdate": "Wed, 05 Feb 2025 20:00:00 +0000"
     },
     {
       "title": "Chagos Islands",
@@ -85,21 +100,6 @@
       "title": "Justin Bieber",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Justin%20Bieber",
       "pubdate": "Wed, 05 Feb 2025 22:00:00 +0000"
-    },
-    {
-      "title": "Kinda Pregnant",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kinda%20Pregnant",
-      "pubdate": "Wed, 05 Feb 2025 22:00:00 +0000"
-    },
-    {
-      "title": "Riviera",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Riviera",
-      "pubdate": "Wed, 05 Feb 2025 18:00:00 +0000"
-    },
-    {
-      "title": "Valdo Calocane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Valdo%20Calocane",
-      "pubdate": "Wed, 05 Feb 2025 19:00:00 +0000"
     }
   ]
 }
