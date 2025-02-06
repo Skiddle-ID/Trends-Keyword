@@ -1,20 +1,10 @@
 {
-  "lastUpdate": "05-02-2025 , 23:35:24",
+  "lastUpdate": "06-02-2025 , 01:56:56",
   "data": [
-    {
-      "title": "Leganes vs Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leganes%20vs%20Real%20Madrid",
-      "pubdate": "Thu, 06 Feb 2025 06:00:00 +0800"
-    },
     {
       "title": "Sara Duterte impeachment",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sara%20Duterte%20impeachment",
       "pubdate": "Thu, 06 Feb 2025 00:00:00 +0800"
-    },
-    {
-      "title": "Ang Yong Guan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ang%20Yong%20Guan",
-      "pubdate": "Thu, 06 Feb 2025 02:00:00 +0800"
     },
     {
       "title": "Temu",
@@ -32,9 +22,19 @@
       "pubdate": "Wed, 05 Feb 2025 13:00:00 +0800"
     },
     {
+      "title": "Leganes vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leganes%20vs%20Real%20Madrid",
+      "pubdate": "Wed, 05 Feb 2025 19:00:00 +0800"
+    },
+    {
       "title": "COE",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
       "pubdate": "Wed, 05 Feb 2025 16:00:00 +0800"
+    },
+    {
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
+      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0800"
     },
     {
       "title": "Sweden shooting",
@@ -50,11 +50,6 @@
       "title": "Jurassic World Rebirth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jurassic%20World%20Rebirth",
       "pubdate": "Wed, 05 Feb 2025 23:00:00 +0800"
-    },
-    {
-      "title": "Google stock",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Google%20stock",
-      "pubdate": "Wed, 05 Feb 2025 12:00:00 +0800"
     },
     {
       "title": "Aga Khan",
@@ -100,6 +95,11 @@
       "title": "Bianca Censori Grammys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bianca%20Censori%20Grammys",
       "pubdate": "Mon, 03 Feb 2025 09:00:00 +0800"
+    },
+    {
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+      "pubdate": "Mon, 03 Feb 2025 03:00:00 +0800"
     }
   ]
 }

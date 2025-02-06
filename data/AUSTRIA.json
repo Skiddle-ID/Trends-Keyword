@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "05-02-2025 , 23:35:17",
+  "lastUpdate": "06-02-2025 , 01:56:47",
   "data": [
+    {
+      "title": "Goldpreis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldpreis",
+      "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Leganés – Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Legan%C3%A9s%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Wed, 05 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Leverkusen – Köln",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20K%C3%B6ln",
       "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Gazastreifen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gazastreifen",
-      "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Haferflocken Schimmelpilze",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Haferflocken%20Schimmelpilze",
       "pubdate": "Wed, 05 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Gazastreifen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gazastreifen",
+      "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Aga Khan",
@@ -72,19 +72,14 @@
       "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "Cindy Berger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cindy%20Berger",
-      "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
+      "title": "Brüssel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Br%C3%BCssel",
+      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Donald Trump Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donald%20Trump%20Jr",
       "pubdate": "Wed, 05 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Brüssel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Br%C3%BCssel",
-      "pubdate": "Wed, 05 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Umfahrung Mattighofen",
@@ -95,6 +90,11 @@
       "title": "Jurassic World Rebirth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jurassic%20World%20Rebirth",
       "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Coppa Italia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Coppa%20Italia",
+      "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "MotoGP",
