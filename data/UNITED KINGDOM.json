@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:49",
+  "lastUpdate": "07-02-2025 , 12:56:19",
   "data": [
     {
       "title": "Barcelona",
@@ -12,9 +12,19 @@
       "pubdate": "Fri, 07 Feb 2025 00:00:00 +0000"
     },
     {
+      "title": "Netflix prices",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Netflix%20prices",
+      "pubdate": "Fri, 07 Feb 2025 12:00:00 +0000"
+    },
+    {
       "title": "Metal Gear Solid Delta: Snake Eater",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Metal%20Gear%20Solid%20Delta:%20Snake%20Eater",
       "pubdate": "Fri, 07 Feb 2025 07:00:00 +0000"
+    },
+    {
+      "title": "Liverpool FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20FC",
+      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
     },
     {
       "title": "Gino D'Acampo",
@@ -27,14 +37,14 @@
       "pubdate": "Thu, 06 Feb 2025 13:00:00 +0000"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20FC",
-      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
-    },
-    {
       "title": "Apple Cider Vinegar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Apple%20Cider%20Vinegar",
       "pubdate": "Thu, 06 Feb 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Fran Healy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Fran%20Healy",
+      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0000"
     },
     {
       "title": "Irv Gotti",
@@ -50,11 +60,6 @@
       "title": "Premier League Darts",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League%20Darts",
       "pubdate": "Thu, 06 Feb 2025 20:00:00 +0000"
-    },
-    {
-      "title": "LFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#LFC",
-      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
     },
     {
       "title": "Invincible season 3",
@@ -77,8 +82,8 @@
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +0000"
     },
     {
-      "title": "Kevin Danso",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kevin%20Danso",
+      "title": "Weather snow forecast",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Weather%20snow%20forecast",
       "pubdate": "Thu, 06 Feb 2025 21:00:00 +0000"
     },
     {
@@ -90,11 +95,6 @@
       "title": "Mark Hughes",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mark%20Hughes",
       "pubdate": "Thu, 06 Feb 2025 18:00:00 +0000"
-    },
-    {
-      "title": "Santos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Santos",
-      "pubdate": "Thu, 06 Feb 2025 16:00:00 +0000"
     },
     {
       "title": "Sri Lanka vs Australia",

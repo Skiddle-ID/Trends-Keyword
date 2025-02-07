@@ -1,20 +1,20 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:39",
+  "lastUpdate": "07-02-2025 , 12:56:11",
   "data": [
     {
       "title": "NRL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL",
-      "pubdate": "Fri, 07 Feb 2025 21:00:00 +1100"
-    },
-    {
-      "title": "Aneurysm",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aneurysm",
-      "pubdate": "Fri, 07 Feb 2025 14:00:00 +1100"
+      "pubdate": "Fri, 07 Feb 2025 18:00:00 +1100"
     },
     {
       "title": "Liverpool FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20FC",
       "pubdate": "Fri, 07 Feb 2025 09:00:00 +1100"
+    },
+    {
+      "title": "Aneurysm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aneurysm",
+      "pubdate": "Fri, 07 Feb 2025 14:00:00 +1100"
     },
     {
       "title": "Powerball winner",
@@ -27,19 +27,9 @@
       "pubdate": "Fri, 07 Feb 2025 11:00:00 +1100"
     },
     {
-      "title": "NRL pre-season",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20pre-season",
-      "pubdate": "Fri, 07 Feb 2025 18:00:00 +1100"
-    },
-    {
       "title": "Hans Zimmer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hans%20Zimmer",
       "pubdate": "Fri, 07 Feb 2025 13:00:00 +1100"
-    },
-    {
-      "title": "Santorini earthquake 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Santorini%20earthquake%202025",
-      "pubdate": "Fri, 07 Feb 2025 12:00:00 +1100"
     },
     {
       "title": "NBA Melbourne",
@@ -47,14 +37,14 @@
       "pubdate": "Fri, 07 Feb 2025 14:00:00 +1100"
     },
     {
+      "title": "Santorini earthquake 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Santorini%20earthquake%202025",
+      "pubdate": "Fri, 07 Feb 2025 12:00:00 +1100"
+    },
+    {
       "title": "Kayo Sports",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kayo%20Sports",
       "pubdate": "Fri, 07 Feb 2025 18:00:00 +1100"
-    },
-    {
-      "title": "BeIN Sports",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BeIN%20Sports",
-      "pubdate": "Fri, 07 Feb 2025 03:00:00 +1100"
     },
     {
       "title": "Record Store Day 2025 list",
@@ -62,9 +52,9 @@
       "pubdate": "Fri, 07 Feb 2025 15:00:00 +1100"
     },
     {
-      "title": "LFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LFC",
-      "pubdate": "Fri, 07 Feb 2025 09:00:00 +1100"
+      "title": "BeIN Sports",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BeIN%20Sports",
+      "pubdate": "Fri, 07 Feb 2025 03:00:00 +1100"
     },
     {
       "title": "The order",
@@ -75,6 +65,16 @@
       "title": "NFL MVP",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NFL%20MVP",
       "pubdate": "Fri, 07 Feb 2025 17:00:00 +1100"
+    },
+    {
+      "title": "Measles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Measles",
+      "pubdate": "Fri, 07 Feb 2025 23:00:00 +1100"
+    },
+    {
+      "title": "Robbie Williams",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robbie%20Williams",
+      "pubdate": "Fri, 07 Feb 2025 22:00:00 +1100"
     },
     {
       "title": "Sweet Magnolias",
@@ -92,14 +92,14 @@
       "pubdate": "Thu, 06 Feb 2025 21:00:00 +1100"
     },
     {
-      "title": "Jimmy Butler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Butler",
-      "pubdate": "Thu, 06 Feb 2025 12:00:00 +1100"
-    },
-    {
       "title": "Sri Lanka vs Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sri%20Lanka%20vs%20Australia",
       "pubdate": "Thu, 06 Feb 2025 18:00:00 +1100"
+    },
+    {
+      "title": "Jimmy Butler",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Butler",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +1100"
     }
   ]
 }

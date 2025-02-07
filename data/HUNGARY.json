@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:42",
+  "lastUpdate": "07-02-2025 , 12:56:14",
   "data": [
     {
       "title": "Barcelona",
@@ -17,11 +17,6 @@
       "pubdate": "Fri, 07 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "Rogán Antal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rog%C3%A1n%20Antal",
-      "pubdate": "Fri, 07 Feb 2025 09:00:00 +0100"
-    },
-    {
       "title": "Hajdú Péter",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hajd%C3%BA%20P%C3%A9ter",
       "pubdate": "Fri, 07 Feb 2025 10:00:00 +0100"
@@ -35,11 +30,6 @@
       "title": "Liverpool–Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93Tottenham",
       "pubdate": "Thu, 06 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Fiorentina–inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina%E2%80%93inter",
-      "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Simicska Lajos",
@@ -100,6 +90,16 @@
       "title": "Balaton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balaton",
       "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Jurassic world újjászületés",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jurassic%20world%20%C3%BAjj%C3%A1sz%C3%BClet%C3%A9s",
+      "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Gázolaj",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1zolaj",
+      "pubdate": "Thu, 06 Feb 2025 01:00:00 +0100"
     }
   ]
 }

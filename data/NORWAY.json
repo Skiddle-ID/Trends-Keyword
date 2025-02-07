@@ -1,15 +1,30 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:45",
+  "lastUpdate": "07-02-2025 , 12:56:17",
   "data": [
+    {
+      "title": "AC/DC Norge",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AC/DC%20Norge",
+      "pubdate": "Fri, 07 Feb 2025 10:00:00 +0100"
+    },
     {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
       "pubdate": "Fri, 07 Feb 2025 03:00:00 +0100"
     },
     {
+      "title": "Angelina Jordan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angelina%20Jordan",
+      "pubdate": "Fri, 07 Feb 2025 12:00:00 +0100"
+    },
+    {
       "title": "Finanspolitikkutvalget",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Finanspolitikkutvalget",
       "pubdate": "Fri, 07 Feb 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Disney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Disney",
+      "pubdate": "Fri, 07 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Egg tilbakekalles",
@@ -25,6 +40,11 @@
       "title": "Dag Solstad",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Solstad",
       "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Valencia mot Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valencia%20mot%20Barcelona",
+      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Liverpool FC",
@@ -47,6 +67,11 @@
       "pubdate": "Thu, 06 Feb 2025 17:00:00 +0100"
     },
     {
+      "title": "Åre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85re",
+      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "Christine Taylor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Christine%20Taylor",
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +0100"
@@ -57,13 +82,8 @@
       "pubdate": "Thu, 06 Feb 2025 04:00:00 +0100"
     },
     {
-      "title": "Åre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85re",
-      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Xpeng",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng",
+      "title": "Xpeng X9",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng%20X9",
       "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
     },
     {
@@ -77,29 +97,9 @@
       "pubdate": "Thu, 06 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "ICC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ICC",
-      "pubdate": "Thu, 06 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "Flatland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Flatland",
       "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Gratulerer med dagen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gratulerer%20med%20dagen",
-      "pubdate": "Thu, 06 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Samisk SPRÅK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Samisk%20SPR%C3%85K",
-      "pubdate": "Thu, 06 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Rickard Andersson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rickard%20Andersson",
-      "pubdate": "Wed, 05 Feb 2025 01:00:00 +0100"
     }
   ]
 }

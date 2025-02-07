@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:43",
+  "lastUpdate": "07-02-2025 , 12:56:15",
   "data": [
     {
       "title": "Paddy Cullen",
@@ -7,9 +7,19 @@
       "pubdate": "Fri, 07 Feb 2025 08:00:00 +0000"
     },
     {
+      "title": "Lidl Ireland Pretzel recall",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lidl%20Ireland%20Pretzel%20recall",
+      "pubdate": "Fri, 07 Feb 2025 03:00:00 +0000"
+    },
+    {
       "title": "Michael Schumacher",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Michael%20Schumacher",
       "pubdate": "Fri, 07 Feb 2025 00:00:00 +0000"
+    },
+    {
+      "title": "Frank Lampard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Frank%20Lampard",
+      "pubdate": "Fri, 07 Feb 2025 08:00:00 +0000"
     },
     {
       "title": "Liverpool FC",
@@ -27,9 +37,9 @@
       "pubdate": "Thu, 06 Feb 2025 21:00:00 +0000"
     },
     {
-      "title": "What roads are speed limits changing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#What%20roads%20are%20speed%20limits%20changing",
-      "pubdate": "Thu, 06 Feb 2025 13:00:00 +0000"
+      "title": "Love/Hate return",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Love/Hate%20return",
+      "pubdate": "Thu, 06 Feb 2025 21:00:00 +0000"
     },
     {
       "title": "Michael O'Sullivan jockey",
@@ -37,14 +47,14 @@
       "pubdate": "Thu, 06 Feb 2025 19:00:00 +0000"
     },
     {
-      "title": "Love/Hate",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Love/Hate",
-      "pubdate": "Thu, 06 Feb 2025 21:00:00 +0000"
-    },
-    {
       "title": "Mpox Ireland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mpox%20Ireland",
       "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
+    },
+    {
+      "title": "Ireland (v Scotland",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20(v%20Scotland",
+      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0000"
     },
     {
       "title": "England vs India",
@@ -52,14 +62,9 @@
       "pubdate": "Thu, 06 Feb 2025 10:00:00 +0000"
     },
     {
-      "title": "Ireland v Scotland",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20Scotland",
-      "pubdate": "Thu, 06 Feb 2025 12:00:00 +0000"
-    },
-    {
-      "title": "IND vs ENG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#IND%20vs%20ENG",
-      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0000"
+      "title": "Gino D'Acampo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gino%20D'Acampo",
+      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0000"
     },
     {
       "title": "Davy Fitzgerald",
@@ -67,19 +72,14 @@
       "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
     },
     {
+      "title": "IND vs ENG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#IND%20vs%20ENG",
+      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0000"
+    },
+    {
       "title": "Invincible season 3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Invincible%20season%203",
       "pubdate": "Thu, 06 Feb 2025 15:00:00 +0000"
-    },
-    {
-      "title": "Gino D'Acampo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gino%20D'Acampo",
-      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0000"
-    },
-    {
-      "title": "PGA Tour",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PGA%20Tour",
-      "pubdate": "Thu, 06 Feb 2025 16:00:00 +0000"
     },
     {
       "title": "Premier League Darts",
@@ -87,19 +87,19 @@
       "pubdate": "Thu, 06 Feb 2025 20:00:00 +0000"
     },
     {
+      "title": "PGA Tour",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PGA%20Tour",
+      "pubdate": "Thu, 06 Feb 2025 16:00:00 +0000"
+    },
+    {
+      "title": "Roads speed limits",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Roads%20speed%20limits",
+      "pubdate": "Thu, 06 Feb 2025 13:00:00 +0000"
+    },
+    {
       "title": "Mark Williams NBA",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mark%20Williams%20NBA",
       "pubdate": "Thu, 06 Feb 2025 17:00:00 +0000"
-    },
-    {
-      "title": "Jimmy Butler",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jimmy%20Butler",
-      "pubdate": "Thu, 06 Feb 2025 10:00:00 +0000"
-    },
-    {
-      "title": "Fiorentina vs Inter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fiorentina%20vs%20Inter",
-      "pubdate": "Thu, 06 Feb 2025 22:00:00 +0000"
     }
   ]
 }

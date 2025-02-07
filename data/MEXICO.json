@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 11:35:44",
+  "lastUpdate": "07-02-2025 , 12:56:16",
   "data": [
     {
       "title": "Frente Frío 26",
@@ -52,19 +52,14 @@
       "pubdate": "Thu, 06 Feb 2025 05:00:00 -0600"
     },
     {
-      "title": "Lakers - Warriors",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers%20-%20Warriors",
+      "title": "Lakers  Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers%20%20Warriors",
       "pubdate": "Thu, 06 Feb 2025 22:00:00 -0600"
     },
     {
       "title": "Adan Manzano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Adan%20Manzano",
       "pubdate": "Thu, 06 Feb 2025 17:00:00 -0600"
-    },
-    {
-      "title": "Marcelo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marcelo",
-      "pubdate": "Thu, 06 Feb 2025 12:00:00 -0600"
     },
     {
       "title": "Bucaramanga  Atlético Nacional",
@@ -100,6 +95,11 @@
       "title": "Mark Williams",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mark%20Williams",
       "pubdate": "Thu, 06 Feb 2025 07:00:00 -0600"
+    },
+    {
+      "title": "Santiago López",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santiago%20L%C3%B3pez",
+      "pubdate": "Thu, 06 Feb 2025 23:00:00 -0600"
     }
   ]
 }
