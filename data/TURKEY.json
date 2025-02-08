@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 23:35:40",
+  "lastUpdate": "08-02-2025 , 01:53:21",
   "data": [
     {
       "title": "Hamdi Alkan",
@@ -7,9 +7,19 @@
       "pubdate": "Sat, 08 Feb 2025 00:00:00 +0300"
     },
     {
+      "title": "Porto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Porto",
+      "pubdate": "Sat, 08 Feb 2025 02:00:00 +0300"
+    },
+    {
       "title": "Danla biliç",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Danla%20bili%C3%A7",
       "pubdate": "Sat, 08 Feb 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Zaniolo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zaniolo",
+      "pubdate": "Sat, 08 Feb 2025 02:00:00 +0300"
     },
     {
       "title": "LeBron James",
@@ -22,6 +32,16 @@
       "pubdate": "Sat, 08 Feb 2025 01:00:00 +0300"
     },
     {
+      "title": "Arka Sokaklar, 700 bölüm",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arka%20Sokaklar,%20700%20b%C3%B6l%C3%BCm",
+      "pubdate": "Sat, 08 Feb 2025 04:00:00 +0300"
+    },
+    {
+      "title": "Mutluyuz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mutluyuz",
+      "pubdate": "Sat, 08 Feb 2025 03:00:00 +0300"
+    },
+    {
       "title": "Samsunspor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor",
       "pubdate": "Fri, 07 Feb 2025 20:00:00 +0300"
@@ -32,14 +52,14 @@
       "pubdate": "Fri, 07 Feb 2025 23:00:00 +0300"
     },
     {
-      "title": "EuroLeague",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EuroLeague",
-      "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
-    },
-    {
       "title": "Manchester United - Leicester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manchester%20United%20-%20Leicester%20City",
       "pubdate": "Fri, 07 Feb 2025 23:00:00 +0300"
+    },
+    {
+      "title": "EuroLeague",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EuroLeague",
+      "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
     },
     {
       "title": "Bir Zamanlar İstanbul",
@@ -47,14 +67,19 @@
       "pubdate": "Fri, 07 Feb 2025 21:00:00 +0300"
     },
     {
-      "title": "Bayern Münih Werder Bremen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20Werder%20Bremen",
-      "pubdate": "Fri, 07 Feb 2025 22:00:00 +0300"
-    },
-    {
       "title": "PSG Monaco",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG%20Monaco",
       "pubdate": "Fri, 07 Feb 2025 23:00:00 +0300"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Barcelona",
+      "pubdate": "Fri, 07 Feb 2025 11:00:00 +0300"
+    },
+    {
+      "title": "Bayern Münih Werder Bremen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern%20M%C3%BCnih%20Werder%20Bremen",
+      "pubdate": "Fri, 07 Feb 2025 22:00:00 +0300"
     },
     {
       "title": "Eren Elmalı",
@@ -72,34 +97,9 @@
       "pubdate": "Fri, 07 Feb 2025 22:00:00 +0300"
     },
     {
-      "title": "Alpaslan Çakar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alpaslan%20%C3%87akar",
-      "pubdate": "Fri, 07 Feb 2025 00:00:00 +0300"
-    },
-    {
       "title": "Galatasaray, UEFA listesi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray,%20UEFA%20listesi",
       "pubdate": "Fri, 07 Feb 2025 09:00:00 +0300"
-    },
-    {
-      "title": "Gençlerbirliği",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gen%C3%A7lerbirli%C4%9Fi",
-      "pubdate": "Fri, 07 Feb 2025 21:00:00 +0300"
-    },
-    {
-      "title": "Przemysław Frankowski",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Przemys%C5%82aw%20Frankowski",
-      "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
-    },
-    {
-      "title": "Al Shabab",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Shabab",
-      "pubdate": "Fri, 07 Feb 2025 02:00:00 +0300"
-    },
-    {
-      "title": "Errick McCollum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Errick%20McCollum",
-      "pubdate": "Fri, 07 Feb 2025 10:00:00 +0300"
     }
   ]
 }

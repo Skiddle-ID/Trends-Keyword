@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 23:35:38",
+  "lastUpdate": "08-02-2025 , 01:53:18",
   "data": [
     {
       "title": "Man United vs Leicester City",
@@ -14,6 +14,11 @@
     {
       "title": "Bayern vs Werder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20vs%20Werder",
+      "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "PSG vs Monaco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG%20vs%20Monaco",
       "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
     },
     {
@@ -32,19 +37,14 @@
       "pubdate": "Fri, 07 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Inter Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
-      "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
-    },
-    {
       "title": "Paws",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Paws",
       "pubdate": "Fri, 07 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG",
-      "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
+      "title": "Inter Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
+      "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Montoya",
@@ -52,9 +52,9 @@
       "pubdate": "Fri, 07 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Proposed new states in Nigeria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Proposed%20new%20states%20in%20Nigeria",
-      "pubdate": "Fri, 07 Feb 2025 13:00:00 +0100"
+      "title": "Liverpool match",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20match",
+      "pubdate": "Fri, 07 Feb 2025 01:00:00 +0100"
     },
     {
       "title": "Thiago Messi",
@@ -77,8 +77,8 @@
       "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "LFC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LFC",
+      "title": "Inter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter",
       "pubdate": "Fri, 07 Feb 2025 07:00:00 +0100"
     },
     {
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
     },
     {
-      "title": "Liverpool FC",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
-      "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
+      "title": "Arsenal vs Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal%20vs%20Man%20City",
+      "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
     }
   ]
 }

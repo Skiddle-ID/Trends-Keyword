@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "07-02-2025 , 23:35:33",
+  "lastUpdate": "08-02-2025 , 01:53:13",
   "data": [
+    {
+      "title": "Simona Lewandowska",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simona%20Lewandowska",
+      "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
+    },
     {
       "title": "Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
@@ -17,14 +22,14 @@
       "pubdate": "Fri, 07 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "Letadlo do Egypta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letadlo%20do%20Egypta",
-      "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FA%20Cup",
+      "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Dara Rolins",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dara%20Rolins",
-      "pubdate": "Fri, 07 Feb 2025 15:00:00 +0100"
+      "title": "Veronika",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Veronika",
+      "pubdate": "Fri, 07 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Máme rádi Česko",
@@ -32,9 +37,9 @@
       "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Martin Půta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20P%C5%AFta",
-      "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+      "title": "Dara Rolins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dara%20Rolins",
+      "pubdate": "Fri, 07 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Adam Mišík",
@@ -42,9 +47,9 @@
       "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Lewandowska",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lewandowska",
-      "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
+      "title": "Martin Půta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20P%C5%AFta",
+      "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "TurkStream",
@@ -95,11 +100,6 @@
       "title": "Ester Ledecká",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
       "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Lamborghini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lamborghini",
-      "pubdate": "Thu, 06 Feb 2025 10:00:00 +0100"
     }
   ]
 }
