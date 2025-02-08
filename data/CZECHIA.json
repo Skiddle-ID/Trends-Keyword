@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 11:35:04",
+  "lastUpdate": "08-02-2025 , 12:52:33",
   "data": [
     {
       "title": "Brutalista",
@@ -7,14 +7,19 @@
       "pubdate": "Sat, 08 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "PlayStation Network",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PlayStation%20Network",
+      "pubdate": "Sat, 08 Feb 2025 10:00:00 +0100"
+    },
+    {
       "title": "Kristýna Leichtová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krist%C3%BDna%20Leichtov%C3%A1",
       "pubdate": "Sat, 08 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Kanye West",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kanye%20West",
-      "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+      "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Simona Lewandowska",
@@ -22,19 +27,19 @@
       "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
-      "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
-    },
-    {
       "title": "Michal David",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20David",
       "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FA%20Cup",
+      "title": "Kanye West",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kanye%20West",
       "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+      "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Máme rádi Česko",
@@ -47,14 +52,14 @@
       "pubdate": "Fri, 07 Feb 2025 11:00:00 +0100"
     },
     {
+      "title": "Jitka Zelenková",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jitka%20Zelenkov%C3%A1",
+      "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Dara Rolins",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dara%20Rolins",
       "pubdate": "Fri, 07 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "ASFiNAG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ASFiNAG",
-      "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Adam Mišík",
@@ -77,14 +82,14 @@
       "pubdate": "Thu, 06 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Ministerstvo vnitra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ministerstvo%20vnitra",
-      "pubdate": "Thu, 06 Feb 2025 18:00:00 +0100"
-    },
-    {
       "title": "Doosan Škoda Power",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Doosan%20%C5%A0koda%20Power",
       "pubdate": "Thu, 06 Feb 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Ester Ledecká",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
+      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
     },
     {
       "title": "Ozzy Osbourne",
@@ -95,11 +100,6 @@
       "title": "Mirage 2000",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mirage%202000",
       "pubdate": "Thu, 06 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Ester Ledecká",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ester%20Ledeck%C3%A1",
-      "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
     }
   ]
 }
