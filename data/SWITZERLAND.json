@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 23:35:03",
+  "lastUpdate": "09-02-2025 , 02:05:01",
   "data": [
     {
       "title": "PlayStation Network Status",
@@ -7,14 +7,9 @@
       "pubdate": "Sat, 08 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "PlayStation Network",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PlayStation%20Network",
+      "title": "Playstation Network",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Playstation%20Network",
       "pubdate": "Sat, 08 Feb 2025 06:00:00 +0100"
-    },
-    {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA%20Cup",
-      "pubdate": "Sat, 08 Feb 2025 08:00:00 +0100"
     },
     {
       "title": "Real Madrid – Atlético Madrid",
@@ -22,9 +17,19 @@
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Dortmund – VfB Stuttgart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20%E2%80%93%20VfB%20Stuttgart",
-      "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
+      "title": "Leyton Orient – Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leyton%20Orient%20%E2%80%93%20Man%20City",
+      "pubdate": "Sat, 08 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Young Boys – FC Sion",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Boys%20%E2%80%93%20FC%20Sion",
+      "pubdate": "Sat, 08 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FA%20Cup",
+      "pubdate": "Sat, 08 Feb 2025 08:00:00 +0100"
     },
     {
       "title": "Rolex Carl F. Bucherer",
@@ -32,14 +37,24 @@
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Lara Gut",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Gut",
+      "title": "Dortmund – VfB Stuttgart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20%E2%80%93%20VfB%20Stuttgart",
       "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Mylene Farmer",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mylene%20Farmer",
+      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Nelson Monfort",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nelson%20Monfort",
       "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Brighton – Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brighton%20%E2%80%93%20Chelsea",
+      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "ZDF",
@@ -62,11 +77,6 @@
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Mylene Farmer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mylene%20Farmer",
-      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Victoria Abril",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Victoria%20Abril",
       "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
@@ -77,29 +87,19 @@
       "pubdate": "Sat, 08 Feb 2025 23:00:00 +0100"
     },
     {
+      "title": "France Angleterre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20Angleterre",
+      "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan",
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Wolfsburg – Leverkusen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wolfsburg%20%E2%80%93%20Leverkusen",
-      "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Demi Moore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Demi%20Moore",
-      "pubdate": "Sat, 08 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Sony",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sony",
-      "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Brighton – Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brighton%20%E2%80%93%20Chelsea",
-      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
+      "title": "Lara Gut",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Gut",
+      "pubdate": "Sat, 08 Feb 2025 16:00:00 +0100"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 23:35:03",
+  "lastUpdate": "09-02-2025 , 02:05:01",
   "data": [
     {
       "title": "蔡英文",
@@ -15,6 +15,11 @@
       "title": "演唱會",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%94%E5%94%B1%E6%9C%83",
       "pubdate": "Sun, 09 Feb 2025 01:00:00 +0800"
+    },
+    {
+      "title": "丟丟妹",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%9F%E4%B8%9F%E5%A6%B9",
+      "pubdate": "Sun, 09 Feb 2025 09:00:00 +0800"
     },
     {
       "title": "地震",
@@ -47,6 +52,11 @@
       "pubdate": "Sat, 08 Feb 2025 01:00:00 +0800"
     },
     {
+      "title": "PlayStation Network",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PlayStation%20Network",
+      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0800"
+    },
+    {
       "title": "2NE1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2NE1",
       "pubdate": "Sat, 08 Feb 2025 19:00:00 +0800"
@@ -77,11 +87,6 @@
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0800"
     },
     {
-      "title": "PlayStation",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PlayStation",
-      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0800"
-    },
-    {
       "title": "高虹安",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E8%99%B9%E5%AE%89",
       "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
@@ -94,11 +99,6 @@
     {
       "title": "平溪天燈節",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B9%B3%E6%BA%AA%E5%A4%A9%E7%87%88%E7%AF%80",
-      "pubdate": "Sat, 08 Feb 2025 14:00:00 +0800"
-    },
-    {
-      "title": "國際書展 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E9%9A%9B%E6%9B%B8%E5%B1%95%202025",
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0800"
     }
   ]

@@ -1,10 +1,25 @@
 {
-  "lastUpdate": "08-02-2025 , 23:35:01",
+  "lastUpdate": "09-02-2025 , 02:04:59",
   "data": [
     {
-      "title": "PlayStation Network",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PlayStation%20Network",
-      "pubdate": "Sat, 08 Feb 2025 04:00:00 +0100"
+      "title": "Super Bowl 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Super%20Bowl%202025",
+      "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Super Bowl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Super%20Bowl",
+      "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Leyton Orient",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leyton%20Orient",
+      "pubdate": "Sat, 08 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Jonas Benyoub",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Benyoub",
+      "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Manchester United",
@@ -12,24 +27,19 @@
       "pubdate": "Sat, 08 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Manchester City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
-    },
-    {
       "title": "Morskogen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morskogen",
       "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
     },
     {
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Trånn Ciekals",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tr%C3%A5nn%20Ciekals",
       "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Lake Placid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lake%20Placid",
-      "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "FA-cupen",
@@ -42,14 +52,14 @@
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
-      "pubdate": "Sat, 08 Feb 2025 02:00:00 +0100"
-    },
-    {
       "title": "Philip Low",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Philip%20Low",
       "pubdate": "Sat, 08 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
+      "pubdate": "Sat, 08 Feb 2025 02:00:00 +0100"
     },
     {
       "title": "Atletico Madrid",
@@ -72,6 +82,11 @@
       "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
     },
     {
+      "title": "Egg tilbakekalles liste",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egg%20tilbakekalles%20liste",
+      "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+    },
+    {
       "title": "FA-cup",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FA-cup",
       "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
@@ -85,21 +100,6 @@
       "title": "Angelina Jordan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Angelina%20Jordan",
       "pubdate": "Fri, 07 Feb 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Tobias Becs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tobias%20Becs",
-      "pubdate": "Fri, 07 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Santorini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Santorini",
-      "pubdate": "Fri, 07 Feb 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Doula",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Doula",
-      "pubdate": "Fri, 07 Feb 2025 19:00:00 +0100"
     }
   ]
 }
