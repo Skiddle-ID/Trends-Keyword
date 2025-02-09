@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "09-02-2025 , 11:35:55",
+  "lastUpdate": "09-02-2025 , 12:52:09",
   "data": [
-    {
-      "title": "Brighton vs Chelsea",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Chelsea",
-      "pubdate": "Sun, 09 Feb 2025 04:00:00 +0800"
-    },
     {
       "title": "Setia City Mall",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Setia%20City%20Mall",
       "pubdate": "Sun, 09 Feb 2025 00:00:00 +0800"
+    },
+    {
+      "title": "Brighton vs Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Chelsea",
+      "pubdate": "Sun, 09 Feb 2025 04:00:00 +0800"
     },
     {
       "title": "Real Madrid vs atlético Madrid",
@@ -17,19 +17,14 @@
       "pubdate": "Sun, 09 Feb 2025 00:00:00 +0800"
     },
     {
-      "title": "Birmingham vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Birmingham%20vs%20Newcastle",
-      "pubdate": "Sun, 09 Feb 2025 02:00:00 +0800"
+      "title": "England vs India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20India",
+      "pubdate": "Sun, 09 Feb 2025 16:00:00 +0800"
     },
     {
       "title": "Olimpia vs Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Olimpia%20vs%20Inter%20Miami",
       "pubdate": "Sun, 09 Feb 2025 10:00:00 +0800"
-    },
-    {
-      "title": "England vs India",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20India",
-      "pubdate": "Sun, 09 Feb 2025 16:00:00 +0800"
     },
     {
       "title": "UFC 312",
@@ -40,11 +35,6 @@
       "title": "Super Bowl 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Super%20Bowl%202025",
       "pubdate": "Sun, 09 Feb 2025 14:00:00 +0800"
-    },
-    {
-      "title": "Lakers vs Pacers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lakers%20vs%20Pacers",
-      "pubdate": "Sun, 09 Feb 2025 09:00:00 +0800"
     },
     {
       "title": "AC Milan",
@@ -92,14 +82,24 @@
       "pubdate": "Sat, 08 Feb 2025 17:00:00 +0800"
     },
     {
-      "title": "Delhi Election results",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Delhi%20Election%20results",
+      "title": "Delhi election results",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Delhi%20election%20results",
       "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
     },
     {
-      "title": "FA Cup games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup%20games",
-      "pubdate": "Sat, 08 Feb 2025 12:00:00 +0800"
+      "title": "Vidaamuyarchi Box Office Collection Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vidaamuyarchi%20Box%20Office%20Collection%20Day",
+      "pubdate": "Sat, 08 Feb 2025 18:00:00 +0800"
+    },
+    {
+      "title": "Ong Beng Seng",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ong%20Beng%20Seng",
+      "pubdate": "Sat, 08 Feb 2025 11:00:00 +0800"
+    },
+    {
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
+      "pubdate": "Sat, 08 Feb 2025 07:00:00 +0800"
     }
   ]
 }

@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "09-02-2025 , 11:35:55",
+  "lastUpdate": "09-02-2025 , 12:52:09",
   "data": [
     {
       "title": "Olimpia vs Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Olimpia%20vs%20Inter%20Miami",
       "pubdate": "Sun, 09 Feb 2025 07:00:00 +0300"
+    },
+    {
+      "title": "Venezia vs Roma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Venezia%20vs%20Roma",
+      "pubdate": "Sun, 09 Feb 2025 13:00:00 +0300"
     },
     {
       "title": "Lakers vs Pacers",
@@ -30,6 +35,11 @@
       "title": "Aston Villa vs Tottenham",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aston%20Villa%20vs%20Tottenham",
       "pubdate": "Sun, 09 Feb 2025 13:00:00 +0300"
+    },
+    {
+      "title": "Sam Nujoma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sam%20Nujoma",
+      "pubdate": "Sun, 09 Feb 2025 14:00:00 +0300"
     },
     {
       "title": "Brighton vs Chelsea",
@@ -67,24 +77,19 @@
       "pubdate": "Sat, 08 Feb 2025 19:00:00 +0300"
     },
     {
-      "title": "Super Bowl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Super%20Bowl",
-      "pubdate": "Sat, 08 Feb 2025 22:00:00 +0300"
-    },
-    {
       "title": "AC Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
+      "pubdate": "Sat, 08 Feb 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Super Bowl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Super%20Bowl",
       "pubdate": "Sat, 08 Feb 2025 22:00:00 +0300"
     },
     {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
       "pubdate": "Sat, 08 Feb 2025 02:00:00 +0300"
-    },
-    {
-      "title": "FA Cup games",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FA%20Cup%20games",
-      "pubdate": "Sat, 08 Feb 2025 11:00:00 +0300"
     },
     {
       "title": "Leeds United",
@@ -95,11 +100,6 @@
       "title": "Manu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manu",
       "pubdate": "Sat, 08 Feb 2025 02:00:00 +0300"
-    },
-    {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
-      "pubdate": "Sat, 08 Feb 2025 01:00:00 +0300"
     }
   ]
 }

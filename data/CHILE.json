@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "09-02-2025 , 11:35:52",
+  "lastUpdate": "09-02-2025 , 12:52:05",
   "data": [
     {
       "title": "El tiempo Santiago",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20tiempo%20Santiago",
       "pubdate": "Sun, 09 Feb 2025 05:00:00 -0300"
-    },
-    {
-      "title": "Aleksandre Topuria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aleksandre%20Topuria",
-      "pubdate": "Sun, 09 Feb 2025 00:00:00 -0300"
     },
     {
       "title": "Gala del Pueblo",
@@ -32,6 +27,11 @@
       "pubdate": "Sat, 08 Feb 2025 15:00:00 -0300"
     },
     {
+      "title": "Chile",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
+      "pubdate": "Sat, 08 Feb 2025 12:00:00 -0300"
+    },
+    {
       "title": "River Plate  Independiente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20Independiente",
       "pubdate": "Sat, 08 Feb 2025 14:00:00 -0300"
@@ -47,14 +47,14 @@
       "pubdate": "Sat, 08 Feb 2025 22:00:00 -0300"
     },
     {
-      "title": "Toque de queda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toque%20de%20queda",
-      "pubdate": "Sat, 08 Feb 2025 12:00:00 -0300"
-    },
-    {
       "title": "Celta de Vigo  Betis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celta%20de%20Vigo%20%20Betis",
       "pubdate": "Sat, 08 Feb 2025 11:00:00 -0300"
+    },
+    {
+      "title": "Nicolás Guerra",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Guerra",
+      "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
     },
     {
       "title": "Super Bowl",
@@ -67,14 +67,14 @@
       "pubdate": "Sat, 08 Feb 2025 17:00:00 -0300"
     },
     {
-      "title": "Cobresal . Coquimbo Unido",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20.%20Coquimbo%20Unido",
+      "title": "Cobresal  Coquimbo Unido",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20%20Coquimbo%20Unido",
       "pubdate": "Sat, 08 Feb 2025 18:00:00 -0300"
     },
     {
-      "title": "Nicolás Guerra",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Guerra",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
+      "title": "FA Cup",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#FA%20Cup",
+      "pubdate": "Sat, 08 Feb 2025 13:00:00 -0300"
     },
     {
       "title": "Ariel Uribe",
@@ -87,6 +87,11 @@
       "pubdate": "Sat, 08 Feb 2025 07:00:00 -0300"
     },
     {
+      "title": "UFC 312",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC%20312",
+      "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
+    },
+    {
       "title": "Olimpia  Inter Miami",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Olimpia%20%20Inter%20Miami",
       "pubdate": "Sat, 08 Feb 2025 23:00:00 -0300"
@@ -94,11 +99,6 @@
     {
       "title": "Amistosos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amistosos",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
-    },
-    {
-      "title": "UFC 312",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC%20312",
       "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
     }
   ]
