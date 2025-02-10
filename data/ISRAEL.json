@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "09-02-2025 , 23:35:25",
+  "lastUpdate": "10-02-2025 , 01:58:07",
   "data": [
+    {
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#NFL",
+      "pubdate": "Mon, 10 Feb 2025 02:00:00 +0200"
+    },
     {
       "title": "אהבה חדשה",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%94%D7%91%D7%94%20%D7%97%D7%93%D7%A9%D7%94",
@@ -27,14 +32,19 @@
       "pubdate": "Sun, 09 Feb 2025 16:00:00 +0200"
     },
     {
+      "title": "אליה כהן",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%D7%94%20%D7%9B%D7%94%D7%9F",
+      "pubdate": "Sun, 09 Feb 2025 22:00:00 +0200"
+    },
+    {
       "title": "ציר נצרים",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A6%D7%99%D7%A8%20%D7%A0%D7%A6%D7%A8%D7%99%D7%9D",
       "pubdate": "Sun, 09 Feb 2025 01:00:00 +0200"
     },
     {
-      "title": "אליה כהן",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9C%D7%99%D7%94%20%D7%9B%D7%94%D7%9F",
-      "pubdate": "Sun, 09 Feb 2025 22:00:00 +0200"
+      "title": "פול ווליום מיוזיק",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%95%D7%9C%20%D7%95%D7%95%D7%9C%D7%99%D7%95%D7%9D%20%D7%9E%D7%99%D7%95%D7%96%D7%99%D7%A7",
+      "pubdate": "Sun, 09 Feb 2025 13:00:00 +0200"
     },
     {
       "title": "ליברפול",
@@ -57,6 +67,11 @@
       "pubdate": "Sun, 09 Feb 2025 19:00:00 +0200"
     },
     {
+      "title": "חטופים ששוחררו",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%97%D7%98%D7%95%D7%A4%D7%99%D7%9D%20%D7%A9%D7%A9%D7%95%D7%97%D7%A8%D7%A8%D7%95",
+      "pubdate": "Sun, 09 Feb 2025 18:00:00 +0200"
+    },
+    {
       "title": "PlayStation Network",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#PlayStation%20Network",
       "pubdate": "Sat, 08 Feb 2025 14:00:00 +0200"
@@ -72,14 +87,9 @@
       "pubdate": "Sat, 08 Feb 2025 21:00:00 +0200"
     },
     {
-      "title": "FA Cup",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#FA%20Cup",
-      "pubdate": "Sat, 08 Feb 2025 18:00:00 +0200"
-    },
-    {
-      "title": "ביתר",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%99%D7%AA%D7%A8",
-      "pubdate": "Sat, 08 Feb 2025 21:00:00 +0200"
+      "title": "החטופים",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%97%D7%98%D7%95%D7%A4%D7%99%D7%9D",
+      "pubdate": "Sat, 08 Feb 2025 19:00:00 +0200"
     },
     {
       "title": "אלי שרעבי",
@@ -90,16 +100,6 @@
       "title": "ברצלונה",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A8%D7%A6%D7%9C%D7%95%D7%A0%D7%94",
       "pubdate": "Fri, 07 Feb 2025 07:00:00 +0200"
-    },
-    {
-      "title": "דוד ביטן",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%93%D7%95%D7%93%20%D7%91%D7%99%D7%98%D7%9F",
-      "pubdate": "Fri, 07 Feb 2025 19:00:00 +0200"
-    },
-    {
-      "title": "ליברפול",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9C%D7%99%D7%91%D7%A8%D7%A4%D7%95%D7%9C",
-      "pubdate": "Fri, 07 Feb 2025 08:00:00 +0200"
     }
   ]
 }

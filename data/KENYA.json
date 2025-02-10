@@ -1,10 +1,20 @@
 {
-  "lastUpdate": "09-02-2025 , 23:35:26",
+  "lastUpdate": "10-02-2025 , 01:58:07",
   "data": [
+    {
+      "title": "Tubi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tubi",
+      "pubdate": "Mon, 10 Feb 2025 03:00:00 +0300"
+    },
     {
       "title": "Gachagua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gachagua",
       "pubdate": "Mon, 10 Feb 2025 01:00:00 +0300"
+    },
+    {
+      "title": "Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
+      "pubdate": "Mon, 10 Feb 2025 02:00:00 +0300"
     },
     {
       "title": "Aston Villa vs Tottenham",
@@ -42,14 +52,14 @@
       "pubdate": "Sun, 09 Feb 2025 16:00:00 +0300"
     },
     {
-      "title": "Roma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Roma",
-      "pubdate": "Sun, 09 Feb 2025 17:00:00 +0300"
-    },
-    {
       "title": "Rangers vs Queen's Park",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rangers%20vs%20Queen's%20Park",
       "pubdate": "Sun, 09 Feb 2025 20:00:00 +0300"
+    },
+    {
+      "title": "Kachumbari",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kachumbari",
+      "pubdate": "Sun, 09 Feb 2025 23:00:00 +0300"
     },
     {
       "title": "UFC 312",
@@ -62,9 +72,9 @@
       "pubdate": "Sun, 09 Feb 2025 14:00:00 +0300"
     },
     {
-      "title": "Kachumbari",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kachumbari",
-      "pubdate": "Sun, 09 Feb 2025 23:00:00 +0300"
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
+      "pubdate": "Sun, 09 Feb 2025 22:00:00 +0300"
     },
     {
       "title": "Leverkusen",
@@ -75,16 +85,6 @@
       "title": "Luxembourg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luxembourg",
       "pubdate": "Sun, 09 Feb 2025 22:00:00 +0300"
-    },
-    {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
-      "pubdate": "Sun, 09 Feb 2025 22:00:00 +0300"
-    },
-    {
-      "title": "Bologna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bologna",
-      "pubdate": "Sun, 09 Feb 2025 23:00:00 +0300"
     },
     {
       "title": "Brighton vs Chelsea",
