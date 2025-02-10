@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 11:36:08",
+  "lastUpdate": "10-02-2025 , 12:57:33",
   "data": [
     {
       "title": "SDC",
@@ -7,19 +7,29 @@
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Tubi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tubi",
+      "title": "New Orleans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20Orleans",
       "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "New Orleans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20Orleans",
+      "title": "Saquon Barkley",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Saquon%20Barkley",
+      "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Tubi",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tubi",
       "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
     },
     {
       "title": "DAZN",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAZN",
       "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Proton Mail",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Proton%20Mail",
+      "pubdate": "Mon, 10 Feb 2025 08:00:00 +0100"
     },
     {
       "title": "Superbowl",
@@ -32,9 +42,14 @@
       "pubdate": "Sun, 09 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "Patrick Mahomes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Patrick%20Mahomes",
-      "pubdate": "Sun, 09 Feb 2025 22:00:00 +0100"
+      "title": "NFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
+      "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Plymouth  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Plymouth%20%20Liverpool",
+      "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Travis Kelce",
@@ -45,11 +60,6 @@
       "title": "Sevilla  Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sevilla%20%20Barcelona",
       "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "NFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
-      "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "Aston Villa  Tottenham",
@@ -77,6 +87,11 @@
       "pubdate": "Sun, 09 Feb 2025 22:00:00 +0100"
     },
     {
+      "title": "Latitude",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Latitude",
+      "pubdate": "Sun, 09 Feb 2025 11:00:00 +0100"
+    },
+    {
       "title": "Vera",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vera",
       "pubdate": "Sun, 09 Feb 2025 11:00:00 +0100"
@@ -85,21 +100,6 @@
       "title": "Zion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zion",
       "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "2024 YR4",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#2024%20YR4",
-      "pubdate": "Sun, 09 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Rasmus højgaard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jgaard",
-      "pubdate": "Sun, 09 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "PlayStation Network status",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PlayStation%20Network%20status",
-      "pubdate": "Sat, 08 Feb 2025 07:00:00 +0100"
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "10-02-2025 , 11:36:06",
+  "lastUpdate": "10-02-2025 , 12:57:31",
   "data": [
+    {
+      "title": "Super Bowl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Super%20Bowl",
+      "pubdate": "Mon, 10 Feb 2025 08:00:00 -0300"
+    },
+    {
+      "title": "El bolson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20bolson",
+      "pubdate": "Mon, 10 Feb 2025 09:00:00 -0300"
+    },
     {
       "title": "Papucho Gran Hermano",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Papucho%20Gran%20Hermano",
@@ -25,6 +35,11 @@
       "title": "Sevilla - Barcelona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20-%20Barcelona",
       "pubdate": "Sun, 09 Feb 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Superbowl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Superbowl",
+      "pubdate": "Sun, 09 Feb 2025 12:00:00 -0300"
     },
     {
       "title": "Gimnasia  Godoy Cruz",
@@ -67,14 +82,14 @@
       "pubdate": "Sun, 09 Feb 2025 12:00:00 -0300"
     },
     {
-      "title": "Clima Rosario",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima%20Rosario",
-      "pubdate": "Sun, 09 Feb 2025 04:00:00 -0300"
-    },
-    {
       "title": "UFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UFC",
       "pubdate": "Sun, 09 Feb 2025 17:00:00 -0300"
+    },
+    {
+      "title": "Almirante Brown  Deportivo Morón",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almirante%20Brown%20%20Deportivo%20Mor%C3%B3n",
+      "pubdate": "Sun, 09 Feb 2025 20:00:00 -0300"
     },
     {
       "title": "Carlos Alcaraz",
@@ -84,21 +99,6 @@
     {
       "title": "Santos",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Santos",
-      "pubdate": "Sun, 09 Feb 2025 22:00:00 -0300"
-    },
-    {
-      "title": "Almirante Brown  Deportivo Morón",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Almirante%20Brown%20%20Deportivo%20Mor%C3%B3n",
-      "pubdate": "Sun, 09 Feb 2025 20:00:00 -0300"
-    },
-    {
-      "title": "Kendrick Lamar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kendrick%20Lamar",
-      "pubdate": "Sun, 09 Feb 2025 21:00:00 -0300"
-    },
-    {
-      "title": "Travis Kelce",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Travis%20Kelce",
       "pubdate": "Sun, 09 Feb 2025 22:00:00 -0300"
     }
   ]
