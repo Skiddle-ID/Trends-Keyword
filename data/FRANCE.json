@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 11:35:52",
+  "lastUpdate": "11-02-2025 , 12:57:37",
   "data": [
     {
       "title": "Maroc",
@@ -17,19 +17,14 @@
       "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "Diana Ross",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diana%20Ross",
-      "pubdate": "Tue, 11 Feb 2025 08:00:00 +0100"
-    },
-    {
       "title": "Orly",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orly",
       "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "Kendrick Lamar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kendrick%20Lamar",
-      "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+      "title": "Diana Ross",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diana%20Ross",
+      "pubdate": "Tue, 11 Feb 2025 08:00:00 +0100"
     },
     {
       "title": "Ligue des champions",
@@ -52,24 +47,19 @@
       "pubdate": "Mon, 10 Feb 2025 06:00:00 +0100"
     },
     {
-      "title": "Inter – Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20%E2%80%93%20Fiorentina",
-      "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
-    },
-    {
       "title": "Arthur Mensch",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Mensch",
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "Clara Morgane",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Morgane",
+      "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Pleine Lune",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pleine%20Lune",
       "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Champions%20League",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Demain nous appartient",
@@ -82,13 +72,18 @@
       "pubdate": "Mon, 10 Feb 2025 23:00:00 +0100"
     },
     {
+      "title": "Cyril Lignac",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Lignac",
+      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Europe 1",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europe%201",
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Cyril Lignac",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyril%20Lignac",
+      "title": "Inter Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20Milan",
       "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
@@ -100,6 +95,11 @@
       "title": "François Bayrou",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Bayrou",
       "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Miika Elomo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Miika%20Elomo",
+      "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     }
   ]
 }

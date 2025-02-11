@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 11:35:50",
+  "lastUpdate": "11-02-2025 , 12:57:35",
   "data": [
     {
       "title": "Tremblement de terre Maroc",
@@ -12,16 +12,6 @@
       "pubdate": "Tue, 11 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Maroc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc",
-      "pubdate": "Tue, 11 Feb 2025 06:00:00 +0100"
-    },
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lakers",
-      "pubdate": "Tue, 11 Feb 2025 09:00:00 +0100"
-    },
-    {
       "title": "Neige Belgique",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Neige%20Belgique",
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
@@ -32,9 +22,24 @@
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
     },
     {
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lakers",
+      "pubdate": "Tue, 11 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Tremblement de terre",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tremblement%20de%20terre",
+      "pubdate": "Tue, 11 Feb 2025 02:00:00 +0100"
+    },
+    {
       "title": "Sam Altman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sam%20Altman",
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
+    },
+    {
+      "title": "Xavier Niel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xavier%20Niel",
+      "pubdate": "Tue, 11 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Yeezy",
@@ -75,11 +80,6 @@
       "title": "Eva Mouton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20Mouton",
       "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "FC Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
-      "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Grève bpost",

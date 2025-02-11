@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-02-2025 , 11:35:56",
+  "lastUpdate": "11-02-2025 , 12:57:40",
   "data": [
+    {
+      "title": "Lantern Festival",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lantern%20Festival",
+      "pubdate": "Wed, 12 Feb 2025 01:00:00 +1300"
+    },
     {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
@@ -10,6 +15,11 @@
       "title": "Yeezy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yeezy",
       "pubdate": "Tue, 11 Feb 2025 09:00:00 +1300"
+    },
+    {
+      "title": "Black Caps",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
+      "pubdate": "Tue, 11 Feb 2025 08:00:00 +1300"
     },
     {
       "title": "Bolster",
@@ -37,11 +47,6 @@
       "pubdate": "Tue, 11 Feb 2025 16:00:00 +1300"
     },
     {
-      "title": "Blackcaps",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blackcaps",
-      "pubdate": "Tue, 11 Feb 2025 10:00:00 +1300"
-    },
-    {
       "title": "Invercargill",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Invercargill",
       "pubdate": "Tue, 11 Feb 2025 20:00:00 +1300"
@@ -67,8 +72,8 @@
       "pubdate": "Mon, 10 Feb 2025 07:00:00 +1300"
     },
     {
-      "title": "Eagles vs Chiefs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eagles%20vs%20Chiefs",
+      "title": "Chiefs vs Eagles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20vs%20Eagles",
       "pubdate": "Mon, 10 Feb 2025 13:00:00 +1300"
     },
     {
@@ -77,9 +82,9 @@
       "pubdate": "Mon, 10 Feb 2025 12:00:00 +1300"
     },
     {
-      "title": "Taylor Swift Super Bowl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taylor%20Swift%20Super%20Bowl",
-      "pubdate": "Mon, 10 Feb 2025 18:00:00 +1300"
+      "title": "Serena Williams Drake",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Serena%20Williams%20Drake",
+      "pubdate": "Mon, 10 Feb 2025 19:00:00 +1300"
     },
     {
       "title": "Aston Villa vs Tottenham",
@@ -95,11 +100,6 @@
       "title": "Toni Huata",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Toni%20Huata",
       "pubdate": "Mon, 10 Feb 2025 14:00:00 +1300"
-    },
-    {
-      "title": "Ep",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ep",
-      "pubdate": "Mon, 10 Feb 2025 11:00:00 +1300"
     }
   ]
 }
