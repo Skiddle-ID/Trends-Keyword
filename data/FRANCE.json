@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "10-02-2025 , 23:35:50",
+  "lastUpdate": "11-02-2025 , 01:56:25",
   "data": [
+    {
+      "title": "N'oubliez pas les paroles",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#N'oubliez%20pas%20les%20paroles",
+      "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Orly",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orly",
+      "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Kendrick Lamar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kendrick%20Lamar",
@@ -17,24 +27,9 @@
       "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Taylor Swift",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taylor%20Swift",
-      "pubdate": "Mon, 10 Feb 2025 06:00:00 +0100"
-    },
-    {
       "title": "Pleine lune",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pleine%20lune",
       "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "FC Barcelone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Barcelone",
-      "pubdate": "Mon, 10 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Le Mans 66",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Mans%2066",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Xavier Niel",
@@ -42,8 +37,13 @@
       "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
     },
     {
-      "title": "Clara Morgane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Morgane",
+      "title": "FC Barcelone",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%20Barcelone",
+      "pubdate": "Mon, 10 Feb 2025 16:00:00 +0100"
+    },
+    {
+      "title": "Caen – USL Dunkerque",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Caen%20%E2%80%93%20USL%20Dunkerque",
       "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
     },
     {
@@ -62,8 +62,8 @@
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Les tuches 2",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20tuches%202",
+      "title": "Inter Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20Milan",
       "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
@@ -72,14 +72,14 @@
       "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "Inter Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20Milan",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
+      "title": "Diable noir des abysses",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diable%20noir%20des%20abysses",
+      "pubdate": "Mon, 10 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Lucas Pouille",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lucas%20Pouille",
-      "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
+      "title": "François Bayrou",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Bayrou",
+      "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Miika Elomo",
@@ -87,9 +87,9 @@
       "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "François Bayrou",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fran%C3%A7ois%20Bayrou",
-      "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
+      "title": "Taylor Swift Super Bowl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Taylor%20Swift%20Super%20Bowl",
+      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Endométriose",

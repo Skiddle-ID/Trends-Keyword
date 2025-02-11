@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "10-02-2025 , 23:35:53",
+  "lastUpdate": "11-02-2025 , 01:56:28",
   "data": [
+    {
+      "title": "Gasprijs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gasprijs",
+      "pubdate": "Tue, 11 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Sigrid Koetse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sigrid%20Koetse",
       "pubdate": "Mon, 10 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Andre van Duin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andre%20van%20Duin",
-      "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Kendrick Lamar",
@@ -17,9 +17,9 @@
       "pubdate": "Mon, 10 Feb 2025 03:00:00 +0100"
     },
     {
-      "title": "Eurostar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eurostar",
-      "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
+      "title": "Ron Brandsteder overleden",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ron%20Brandsteder%20overleden",
+      "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Priske",
@@ -32,6 +32,11 @@
       "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Eurostar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eurostar",
+      "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
+    },
+    {
       "title": "Vitesse",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
       "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
@@ -42,9 +47,14 @@
       "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Patty Brard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Patty%20Brard",
-      "pubdate": "Mon, 10 Feb 2025 14:00:00 +0100"
+      "title": "Taylor Swift",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
+      "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
+    },
+    {
+      "title": "SZA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SZA",
+      "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Cambuur",
@@ -67,19 +77,14 @@
       "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
     },
     {
-      "title": "Super Bowl",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Super%20Bowl",
-      "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
-    },
-    {
       "title": "NAC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
       "pubdate": "Sun, 09 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "Fortuna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna",
-      "pubdate": "Sun, 09 Feb 2025 23:00:00 +0100"
+      "title": "Utrecht FC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20FC",
+      "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "NAC Breda",
@@ -95,11 +100,6 @@
       "title": "Quick Boys",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quick%20Boys",
       "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Utrecht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
-      "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
     }
   ]
 }
