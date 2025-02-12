@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:10",
+  "lastUpdate": "12-02-2025 , 01:56:31",
   "data": [
     {
       "title": "Bumrah",
@@ -17,24 +17,19 @@
       "pubdate": "Tue, 11 Feb 2025 01:30:00 +0530"
     },
     {
-      "title": "From",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#From",
-      "pubdate": "Tue, 11 Feb 2025 15:30:00 +0530"
-    },
-    {
       "title": "Ravidas Jayanti",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ravidas%20Jayanti",
       "pubdate": "Tue, 11 Feb 2025 17:30:00 +0530"
     },
     {
+      "title": "From",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#From",
+      "pubdate": "Tue, 11 Feb 2025 15:30:00 +0530"
+    },
+    {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Lakers",
       "pubdate": "Tue, 11 Feb 2025 16:30:00 +0530"
-    },
-    {
-      "title": "Serena Williams",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Serena%20Williams",
-      "pubdate": "Tue, 11 Feb 2025 07:30:00 +0530"
     },
     {
       "title": "JEE Mains Result 2025",
@@ -67,14 +62,14 @@
       "pubdate": "Mon, 10 Feb 2025 15:30:00 +0530"
     },
     {
-      "title": "Thaipusam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Thaipusam",
-      "pubdate": "Mon, 10 Feb 2025 23:30:00 +0530"
-    },
-    {
       "title": "Box office collection Sanam Teri Kasam",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Box%20office%20collection%20Sanam%20Teri%20Kasam",
       "pubdate": "Mon, 10 Feb 2025 17:30:00 +0530"
+    },
+    {
+      "title": "Thaipusam 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Thaipusam%202025",
+      "pubdate": "Mon, 10 Feb 2025 15:30:00 +0530"
     },
     {
       "title": "Virat Kohli",
@@ -100,6 +95,11 @@
       "title": "India Got Latent",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20Got%20Latent",
       "pubdate": "Sun, 09 Feb 2025 19:30:00 +0530"
+    },
+    {
+      "title": "Delhi Election Result",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Election%20Result",
+      "pubdate": "Sat, 08 Feb 2025 08:30:00 +0530"
     }
   ]
 }

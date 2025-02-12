@@ -1,14 +1,24 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:15",
+  "lastUpdate": "12-02-2025 , 01:56:35",
   "data": [
+    {
+      "title": "Alex Len",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alex%20Len",
+      "pubdate": "Wed, 12 Feb 2025 08:00:00 +0800"
+    },
     {
       "title": "Denis Law",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Denis%20Law",
       "pubdate": "Wed, 12 Feb 2025 03:00:00 +0800"
     },
     {
-      "title": "Champions League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
+      "pubdate": "Wed, 12 Feb 2025 09:00:00 +0800"
+    },
+    {
+      "title": "Man City vs Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Real%20Madrid",
       "pubdate": "Tue, 11 Feb 2025 08:00:00 +0800"
     },
     {
@@ -25,11 +35,6 @@
       "title": "Wave to earth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wave%20to%20earth",
       "pubdate": "Tue, 11 Feb 2025 14:00:00 +0800"
-    },
-    {
-      "title": "Thaipusam Singapore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thaipusam%20Singapore",
-      "pubdate": "Tue, 11 Feb 2025 09:00:00 +0800"
     },
     {
       "title": "Paragon REIT",
@@ -57,9 +62,9 @@
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0800"
     },
     {
-      "title": "Kendrick Lamar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kendrick%20Lamar",
-      "pubdate": "Mon, 10 Feb 2025 10:00:00 +0800"
+      "title": "Thaipusam 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thaipusam%202025",
+      "pubdate": "Mon, 10 Feb 2025 19:00:00 +0800"
     },
     {
       "title": "BTO",
@@ -77,9 +82,14 @@
       "pubdate": "Mon, 10 Feb 2025 15:00:00 +0800"
     },
     {
-      "title": "Meta layoffs",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta%20layoffs",
-      "pubdate": "Mon, 10 Feb 2025 16:00:00 +0800"
+      "title": "Super Bowl halftime show",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Super%20Bowl%20halftime%20show",
+      "pubdate": "Mon, 10 Feb 2025 12:00:00 +0800"
+    },
+    {
+      "title": "Meta",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Meta",
+      "pubdate": "Mon, 10 Feb 2025 18:00:00 +0800"
     },
     {
       "title": "Super Bowl 2025",
@@ -90,16 +100,6 @@
       "title": "Lion City Sailors",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
       "pubdate": "Sun, 09 Feb 2025 22:00:00 +0800"
-    },
-    {
-      "title": "PlayStation Network outage",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PlayStation%20Network%20outage",
-      "pubdate": "Sat, 08 Feb 2025 17:00:00 +0800"
-    },
-    {
-      "title": "UFC 312",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC%20312",
-      "pubdate": "Sat, 08 Feb 2025 15:00:00 +0800"
     }
   ]
 }

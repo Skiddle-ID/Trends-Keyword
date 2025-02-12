@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:09",
+  "lastUpdate": "12-02-2025 , 01:56:30",
   "data": [
-    {
-      "title": "Kevin Kühnert",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kevin%20K%C3%BChnert",
-      "pubdate": "Tue, 11 Feb 2025 11:00:00 +0100"
-    },
     {
       "title": "ICE Unfall Hamburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ICE%20Unfall%20Hamburg",
@@ -17,14 +12,14 @@
       "pubdate": "Tue, 11 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Ölheizung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96lheizung",
-      "pubdate": "Tue, 11 Feb 2025 11:00:00 +0100"
-    },
-    {
       "title": "Max Uthoff",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Max%20Uthoff",
       "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Ölheizung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96lheizung",
+      "pubdate": "Tue, 11 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Champions League",
@@ -40,6 +35,11 @@
       "title": "Donald Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
       "pubdate": "Mon, 10 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Dorothee Bär",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dorothee%20B%C3%A4r",
+      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Berlinale",
@@ -82,8 +82,8 @@
       "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Santorini",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
+      "title": "Santorini Erdbeben",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini%20Erdbeben",
       "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
     },
     {

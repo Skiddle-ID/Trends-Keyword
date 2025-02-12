@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:12",
+  "lastUpdate": "12-02-2025 , 01:56:33",
   "data": [
     {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
+      "title": "Manchester City - Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20City%20-%20Real%20Madrid",
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Kabinet verbod vochtige doekjes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kabinet%20verbod%20vochtige%20doekjes",
-      "pubdate": "Tue, 11 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Gasprijs",
@@ -17,9 +12,9 @@
       "pubdate": "Tue, 11 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Bosschaart",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bosschaart",
-      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
+      "title": "Internetstoring",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Internetstoring",
+      "pubdate": "Tue, 11 Feb 2025 14:00:00 +0100"
     },
     {
       "title": "Excelsior",
@@ -37,14 +32,14 @@
       "pubdate": "Mon, 10 Feb 2025 03:00:00 +0100"
     },
     {
+      "title": "Pascal Bosschaart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pascal%20Bosschaart",
+      "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
+    },
+    {
       "title": "Ron Brandsteder overleden",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ron%20Brandsteder%20overleden",
       "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Priske",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Priske",
-      "pubdate": "Mon, 10 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Vitesse",
@@ -52,14 +47,9 @@
       "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Drake",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Drake",
-      "pubdate": "Mon, 10 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Natte sneeuw",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Natte%20sneeuw",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
+      "title": "Django Wagner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Django%20Wagner",
+      "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
     },
     {
       "title": "Utrecht",
@@ -100,6 +90,16 @@
       "title": "Fcgroningen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fcgroningen",
       "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Quick Boys",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quick%20Boys",
+      "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Utrecht",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
+      "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
     }
   ]
 }

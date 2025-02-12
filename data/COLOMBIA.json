@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:08",
+  "lastUpdate": "12-02-2025 , 01:56:29",
   "data": [
+    {
+      "title": "Llaneros  Millonarios",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Llaneros%20%20Millonarios",
+      "pubdate": "Tue, 11 Feb 2025 19:00:00 -0500"
+    },
     {
       "title": "Stade Brestois - PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Stade%20Brestois%20-%20PSG",
@@ -12,9 +17,24 @@
       "pubdate": "Tue, 11 Feb 2025 14:00:00 -0500"
     },
     {
-      "title": "Sporting Lisboa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sporting%20Lisboa",
-      "pubdate": "Tue, 11 Feb 2025 16:00:00 -0500"
+      "title": "Sporting Lisboa  Dortmund",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sporting%20Lisboa%20%20Dortmund",
+      "pubdate": "Tue, 11 Feb 2025 15:00:00 -0500"
+    },
+    {
+      "title": "Boca Juniors  Independiente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Boca%20Juniors%20%20Independiente",
+      "pubdate": "Tue, 11 Feb 2025 19:00:00 -0500"
+    },
+    {
+      "title": "UEFA Champions League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#UEFA%20Champions%20League",
+      "pubdate": "Tue, 11 Feb 2025 09:00:00 -0500"
+    },
+    {
+      "title": "ESPN",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#ESPN",
+      "pubdate": "Tue, 11 Feb 2025 20:00:00 -0500"
     },
     {
       "title": "Virgen de Lourdes",
@@ -27,8 +47,13 @@
       "pubdate": "Tue, 11 Feb 2025 08:00:00 -0500"
     },
     {
-      "title": "Manchester City - Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20City%20-%20Real%20Madrid",
+      "title": "Venezolanos deportados",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Venezolanos%20deportados",
+      "pubdate": "Tue, 11 Feb 2025 20:00:00 -0500"
+    },
+    {
+      "title": "Manchester City  Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20City%20%20Real%20Madrid",
       "pubdate": "Mon, 10 Feb 2025 21:00:00 -0500"
     },
     {
@@ -52,13 +77,13 @@
       "pubdate": "Mon, 10 Feb 2025 08:00:00 -0500"
     },
     {
-      "title": "Nacional",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nacional",
-      "pubdate": "Mon, 10 Feb 2025 18:00:00 -0500"
+      "title": "Sudamericano Sub 20",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sudamericano%20Sub%2020",
+      "pubdate": "Mon, 10 Feb 2025 17:00:00 -0500"
     },
     {
-      "title": "Sudamericano Sub-20",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sudamericano%20Sub-20",
+      "title": "Nacional",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nacional",
       "pubdate": "Mon, 10 Feb 2025 18:00:00 -0500"
     },
     {
@@ -75,31 +100,6 @@
       "title": "Barcelona vs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barcelona%20vs",
       "pubdate": "Mon, 10 Feb 2025 10:00:00 -0500"
-    },
-    {
-      "title": "Inter - Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Inter%20-%20Fiorentina",
-      "pubdate": "Mon, 10 Feb 2025 15:00:00 -0500"
-    },
-    {
-      "title": "Nuevo rico, nuevo pobre",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nuevo%20rico,%20nuevo%20pobre",
-      "pubdate": "Mon, 10 Feb 2025 18:00:00 -0500"
-    },
-    {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lakers",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 -0500"
-    },
-    {
-      "title": "Colombia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia",
-      "pubdate": "Mon, 10 Feb 2025 19:00:00 -0500"
-    },
-    {
-      "title": "Juicio Álvaro Uribe Vélez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juicio%20%C3%81lvaro%20Uribe%20V%C3%A9lez",
-      "pubdate": "Mon, 10 Feb 2025 16:00:00 -0500"
     }
   ]
 }

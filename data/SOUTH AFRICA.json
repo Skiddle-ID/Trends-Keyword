@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:15",
+  "lastUpdate": "12-02-2025 , 01:56:35",
   "data": [
     {
       "title": "TS Galaxy vs Mamelodi Sundowns",
@@ -52,6 +52,11 @@
       "pubdate": "Tue, 11 Feb 2025 18:00:00 +0200"
     },
     {
+      "title": "UEFA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
+      "pubdate": "Tue, 11 Feb 2025 21:00:00 +0200"
+    },
+    {
       "title": "Yeezy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Yeezy",
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0200"
@@ -62,14 +67,14 @@
       "pubdate": "Tue, 11 Feb 2025 18:00:00 +0200"
     },
     {
-      "title": "UEFA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
-      "pubdate": "Tue, 11 Feb 2025 21:00:00 +0200"
-    },
-    {
       "title": "Norwich City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Norwich%20City",
       "pubdate": "Tue, 11 Feb 2025 23:00:00 +0200"
+    },
+    {
+      "title": "SASSA gold cards",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SASSA%20gold%20cards",
+      "pubdate": "Tue, 11 Feb 2025 20:00:00 +0200"
     },
     {
       "title": "Man City vs Real Madrid",
@@ -95,11 +100,6 @@
       "title": "Doncaster vs Crystal Palace",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Doncaster%20vs%20Crystal%20Palace",
       "pubdate": "Mon, 10 Feb 2025 22:00:00 +0200"
-    },
-    {
-      "title": "Ndlozi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ndlozi",
-      "pubdate": "Mon, 10 Feb 2025 11:00:00 +0200"
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "11-02-2025 , 23:36:12",
+  "lastUpdate": "12-02-2025 , 01:56:33",
   "data": [
+    {
+      "title": "Norwich City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Norwich%20City",
+      "pubdate": "Wed, 12 Feb 2025 04:00:00 +0300"
+    },
     {
       "title": "Brest vs PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brest%20vs%20PSG",
@@ -27,9 +32,14 @@
       "pubdate": "Tue, 11 Feb 2025 08:00:00 +0300"
     },
     {
-      "title": "Smriti Vidyarthi",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Smriti%20Vidyarthi",
-      "pubdate": "Tue, 11 Feb 2025 10:00:00 +0300"
+      "title": "Inter Milan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
+      "pubdate": "Tue, 11 Feb 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Bucks vs Warriors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bucks%20vs%20Warriors",
+      "pubdate": "Tue, 11 Feb 2025 09:00:00 +0300"
     },
     {
       "title": "UEFA",
@@ -37,14 +47,14 @@
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0300"
     },
     {
-      "title": "Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crystal%20Palace",
-      "pubdate": "Tue, 11 Feb 2025 00:00:00 +0300"
-    },
-    {
       "title": "Satoshi Nakamoto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Satoshi%20Nakamoto",
       "pubdate": "Tue, 11 Feb 2025 19:00:00 +0300"
+    },
+    {
+      "title": "Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crystal%20Palace",
+      "pubdate": "Tue, 11 Feb 2025 00:00:00 +0300"
     },
     {
       "title": "Sakaja",
@@ -67,19 +77,14 @@
       "pubdate": "Mon, 10 Feb 2025 17:00:00 +0300"
     },
     {
-      "title": "Doncaster vs Crystal Palace",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Doncaster%20vs%20Crystal%20Palace",
-      "pubdate": "Mon, 10 Feb 2025 23:00:00 +0300"
-    },
-    {
       "title": "UEFA Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UEFA%20Champions%20League",
       "pubdate": "Mon, 10 Feb 2025 22:00:00 +0300"
     },
     {
-      "title": "Inter vs Fiorentina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20vs%20Fiorentina",
-      "pubdate": "Mon, 10 Feb 2025 19:00:00 +0300"
+      "title": "Doncaster vs Crystal Palace",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Doncaster%20vs%20Crystal%20Palace",
+      "pubdate": "Mon, 10 Feb 2025 23:00:00 +0300"
     },
     {
       "title": "UCL",
@@ -95,11 +100,6 @@
       "title": "Kendrick Lamar",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kendrick%20Lamar",
       "pubdate": "Mon, 10 Feb 2025 09:00:00 +0300"
-    },
-    {
-      "title": "Gachagua",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gachagua",
-      "pubdate": "Mon, 10 Feb 2025 01:00:00 +0300"
     }
   ]
 }
