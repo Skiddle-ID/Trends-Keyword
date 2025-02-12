@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 11:36:08",
+  "lastUpdate": "12-02-2025 , 12:57:36",
   "data": [
     {
       "title": "Bridget Jones",
@@ -22,6 +22,16 @@
       "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "Apple iPhone SE 4",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20iPhone%20SE%204",
+      "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Europa League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
+      "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
+    },
+    {
       "title": "Champions League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League",
       "pubdate": "Tue, 11 Feb 2025 07:00:00 +0100"
@@ -30,6 +40,11 @@
       "title": "Man City – Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20%E2%80%93%20Real%20Madrid",
       "pubdate": "Tue, 11 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "SRF Sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20Sport",
+      "pubdate": "Tue, 11 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "Wendy Holdener",
@@ -42,13 +57,13 @@
       "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
+      "title": "Benjamin Mendy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benjamin%20Mendy",
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Benjamin Mendy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benjamin%20Mendy",
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
     },
     {
@@ -77,11 +92,6 @@
       "pubdate": "Tue, 11 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Louise",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louise",
-      "pubdate": "Tue, 11 Feb 2025 17:00:00 +0100"
-    },
-    {
       "title": "Lakers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lakers",
       "pubdate": "Tue, 11 Feb 2025 08:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "CL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CL",
       "pubdate": "Tue, 11 Feb 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Zoo Zürich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zoo%20Z%C3%BCrich",
-      "pubdate": "Tue, 11 Feb 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Pleine Lune",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pleine%20Lune",
-      "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
     }
   ]
 }

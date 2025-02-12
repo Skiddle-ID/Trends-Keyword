@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 11:36:09",
+  "lastUpdate": "12-02-2025 , 12:57:37",
   "data": [
     {
       "title": "Berat Kandili ne zaman",
@@ -12,8 +12,28 @@
       "pubdate": "Wed, 12 Feb 2025 00:00:00 +0300"
     },
     {
+      "title": "Kocaelispor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor",
+      "pubdate": "Wed, 12 Feb 2025 14:00:00 +0300"
+    },
+    {
       "title": "UEFA Avrupa Ligi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UEFA%20Avrupa%20Ligi",
+      "pubdate": "Wed, 12 Feb 2025 11:00:00 +0300"
+    },
+    {
+      "title": "Eylem Tok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eylem%20Tok",
+      "pubdate": "Wed, 12 Feb 2025 00:00:00 +0300"
+    },
+    {
+      "title": "Benfica",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Benfica",
+      "pubdate": "Wed, 12 Feb 2025 13:00:00 +0300"
+    },
+    {
+      "title": "AZ Alkmaar - Galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AZ%20Alkmaar%20-%20Galatasaray",
       "pubdate": "Wed, 12 Feb 2025 01:00:00 +0300"
     },
     {
@@ -80,26 +100,6 @@
       "title": "Manisa FK - Kocaelispor",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Manisa%20FK%20-%20Kocaelispor",
       "pubdate": "Tue, 11 Feb 2025 20:00:00 +0300"
-    },
-    {
-      "title": "Fenerbahçe , Bahçeşehir Koleji",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20,%20Bah%C3%A7e%C5%9Fehir%20Koleji",
-      "pubdate": "Tue, 11 Feb 2025 21:00:00 +0300"
-    },
-    {
-      "title": "Mbappe",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mbappe",
-      "pubdate": "Tue, 11 Feb 2025 19:00:00 +0300"
-    },
-    {
-      "title": "OpenAI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#OpenAI",
-      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0300"
-    },
-    {
-      "title": "Altınordu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alt%C4%B1nordu",
-      "pubdate": "Tue, 11 Feb 2025 23:00:00 +0300"
     }
   ]
 }

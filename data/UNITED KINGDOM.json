@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 11:36:09",
+  "lastUpdate": "12-02-2025 , 12:57:37",
   "data": [
     {
       "title": "Lantern Festival",
@@ -17,6 +17,16 @@
       "pubdate": "Wed, 12 Feb 2025 08:00:00 +0000"
     },
     {
+      "title": "IND vs ENG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#IND%20vs%20ENG",
+      "pubdate": "Wed, 12 Feb 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Sri Lanka vs Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sri%20Lanka%20vs%20Australia",
+      "pubdate": "Wed, 12 Feb 2025 11:00:00 +0000"
+    },
+    {
       "title": "Sporting vs Dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sporting%20vs%20Dortmund",
       "pubdate": "Wed, 12 Feb 2025 06:00:00 +0000"
@@ -25,11 +35,6 @@
       "title": "Mbappe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mbappe",
       "pubdate": "Wed, 12 Feb 2025 03:00:00 +0000"
-    },
-    {
-      "title": "Raul Asencio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Raul%20Asencio",
-      "pubdate": "Wed, 12 Feb 2025 08:00:00 +0000"
     },
     {
       "title": "Norwich City",
@@ -67,19 +72,24 @@
       "pubdate": "Tue, 11 Feb 2025 17:00:00 +0000"
     },
     {
-      "title": "Lakers",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lakers",
-      "pubdate": "Tue, 11 Feb 2025 05:00:00 +0000"
-    },
-    {
       "title": "PSG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#PSG",
       "pubdate": "Tue, 11 Feb 2025 19:00:00 +0000"
     },
     {
+      "title": "Lakers",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lakers",
+      "pubdate": "Tue, 11 Feb 2025 05:00:00 +0000"
+    },
+    {
       "title": "Denis Law",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Denis%20Law",
       "pubdate": "Tue, 11 Feb 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Visa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Visa",
+      "pubdate": "Tue, 11 Feb 2025 21:00:00 +0000"
     },
     {
       "title": "Devonte Aransibia",
@@ -90,16 +100,6 @@
       "title": "Sam Altman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sam%20Altman",
       "pubdate": "Tue, 11 Feb 2025 14:00:00 +0000"
-    },
-    {
-      "title": "Armie Hammer",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Armie%20Hammer",
-      "pubdate": "Tue, 11 Feb 2025 14:00:00 +0000"
-    },
-    {
-      "title": "Birmingham vs Cambridge United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Birmingham%20vs%20Cambridge%20United",
-      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0000"
     }
   ]
 }

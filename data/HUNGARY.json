@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 11:36:03",
+  "lastUpdate": "12-02-2025 , 12:57:31",
   "data": [
     {
       "title": "13. havi nyugdíj",
@@ -27,6 +27,11 @@
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
     },
     {
+      "title": "Partizán Magyar Péter",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Partiz%C3%A1n%20Magyar%20P%C3%A9ter",
+      "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
+    },
+    {
       "title": "Deák Dániel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#De%C3%A1k%20D%C3%A1niel",
       "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
@@ -37,19 +42,9 @@
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Partizán Magyar Péter",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Partiz%C3%A1n%20Magyar%20P%C3%A9ter",
-      "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Exeter–nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Exeter%E2%80%93nottingham%20Forest",
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "MOME",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
-      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Alice Weidel",
@@ -57,24 +52,24 @@
       "pubdate": "Tue, 11 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "MOME",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
+      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "iPhone SE 4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iPhone%20SE%204",
       "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "Havas Henrik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Havas%20Henrik",
-      "pubdate": "Tue, 11 Feb 2025 10:00:00 +0100"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+      "pubdate": "Tue, 11 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Mötley Crüe",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%B6tley%20Cr%C3%BCe",
       "pubdate": "Tue, 11 Feb 2025 12:00:00 +0100"
-    },
-    {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
-      "pubdate": "Tue, 11 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Milák Kristóf",
@@ -92,14 +87,19 @@
       "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Man%20City",
-      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Facebook Messenger",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Facebook%20Messenger",
       "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Mexikói-öböl",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mexik%C3%B3i-%C3%B6b%C3%B6l",
+      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Turai Kastély",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Turai%20Kast%C3%A9ly",
+      "pubdate": "Tue, 11 Feb 2025 21:00:00 +0100"
     }
   ]
 }
