@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 04:40:10",
+  "lastUpdate": "12-02-2025 , 05:37:36",
   "data": [
     {
       "title": "Australia",
@@ -37,11 +37,6 @@
       "pubdate": "Tue, 11 Feb 2025 20:00:00 +0000"
     },
     {
-      "title": "Sismo Marrocos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo%20Marrocos",
-      "pubdate": "Tue, 11 Feb 2025 03:00:00 +0000"
-    },
-    {
       "title": "Exeter City  Nottingham Forest",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Exeter%20City%20%20Nottingham%20Forest",
       "pubdate": "Tue, 11 Feb 2025 21:00:00 +0000"
@@ -75,6 +70,11 @@
       "title": "Noxus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Noxus",
       "pubdate": "Tue, 11 Feb 2025 15:00:00 +0000"
+    },
+    {
+      "title": "Jorge Jesus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jorge%20Jesus",
+      "pubdate": "Tue, 11 Feb 2025 00:00:00 +0000"
     },
     {
       "title": "Pedro Passos Coelho",

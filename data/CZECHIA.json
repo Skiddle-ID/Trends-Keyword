@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 04:40:04",
+  "lastUpdate": "12-02-2025 , 05:37:31",
   "data": [
     {
       "title": "Kamil Střihavka",
@@ -30,11 +30,6 @@
       "title": "Ledovka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ledovka",
       "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Cynthia Rhodes",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cynthia%20Rhodes",
-      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Jana Nagyová",
@@ -100,6 +95,11 @@
       "title": "Úplněk",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Apln%C4%9Bk",
       "pubdate": "Mon, 10 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Tom Robbins",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Robbins",
+      "pubdate": "Mon, 10 Feb 2025 13:00:00 +0100"
     }
   ]
 }
