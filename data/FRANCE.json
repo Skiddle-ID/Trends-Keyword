@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2025 , 11:35:48",
+  "lastUpdate": "13-02-2025 , 12:57:49",
   "data": [
     {
       "title": "Bridget Jones",
@@ -12,9 +12,19 @@
       "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
     },
     {
+      "title": "Chèque énergie",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ch%C3%A8que%20%C3%A9nergie",
+      "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
+    },
+    {
       "title": "Stade Jean-Bouin",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stade%20Jean-Bouin",
       "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Munich",
+      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Monaco – Benfica",
@@ -32,14 +42,19 @@
       "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Captain America: Brave New World",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Captain%20America:%20Brave%20New%20World",
+      "title": "Captain America : Brave New World",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Captain%20America%20:%20Brave%20New%20World",
       "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Bruno Retailleau",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruno%20Retailleau",
       "pubdate": "Wed, 12 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Bayern Munich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
+      "pubdate": "Wed, 12 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "Biathlon",
@@ -60,11 +75,6 @@
       "title": "Ginette Moulin Galeries Lafayette",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ginette%20Moulin%20Galeries%20Lafayette",
       "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
-    },
-    {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern",
-      "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "State of Play",
@@ -90,16 +100,6 @@
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Feyenoord",
       "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Kanye",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kanye",
-      "pubdate": "Wed, 12 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Manchester City – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City%20%E2%80%93%20Real%20Madrid",
-      "pubdate": "Tue, 11 Feb 2025 20:00:00 +0100"
     }
   ]
 }
