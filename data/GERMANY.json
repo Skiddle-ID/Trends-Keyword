@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "12-02-2025 , 23:35:15",
+  "lastUpdate": "13-02-2025 , 01:57:16",
   "data": [
     {
-      "title": "Celtic – Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Celtic%20%E2%80%93%20Bayern",
-      "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
+      "title": "Bayern München",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20M%C3%BCnchen",
+      "pubdate": "Wed, 12 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Olaf Scholz",
@@ -15,11 +15,6 @@
       "title": "Schlechte Luftqualität",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlechte%20Luftqualit%C3%A4t",
       "pubdate": "Wed, 12 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Inflation USA",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Inflation%20USA",
-      "pubdate": "Wed, 12 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Österreich",
@@ -35,6 +30,16 @@
       "title": "ICE-Unfall Hamburg",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ICE-Unfall%20Hamburg",
       "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "UEFA champions league",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20champions%20league",
+      "pubdate": "Tue, 11 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Bundestag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
+      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Donald Trump",
@@ -95,11 +100,6 @@
       "title": "Santorini",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
       "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Merz CDU",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz%20CDU",
-      "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
     }
   ]
 }

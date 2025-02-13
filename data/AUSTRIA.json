@@ -1,6 +1,26 @@
 {
-  "lastUpdate": "12-02-2025 , 23:35:13",
+  "lastUpdate": "13-02-2025 , 01:57:14",
   "data": [
+    {
+      "title": "Alexander Zverev",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Zverev",
+      "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "State of Play",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#State%20of%20Play",
+      "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "FALTER",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FALTER",
+      "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Julia Scheib",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julia%20Scheib",
+      "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Everton – Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Everton%20%E2%80%93%20Liverpool",
@@ -22,11 +42,6 @@
       "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Franjo von Allmen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franjo%20von%20Allmen",
-      "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
-    },
-    {
       "title": "Feyenoord – Milan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Feyenoord%20%E2%80%93%20Milan",
       "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
@@ -37,24 +52,14 @@
       "pubdate": "Wed, 12 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "DAZN",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
-      "pubdate": "Wed, 12 Feb 2025 03:00:00 +0100"
-    },
-    {
-      "title": "Neuwahlen Österreich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neuwahlen%20%C3%96sterreich",
-      "pubdate": "Wed, 12 Feb 2025 17:00:00 +0100"
-    },
-    {
       "title": "Monaco – Benfica",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Monaco%20%E2%80%93%20Benfica",
       "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Alfons Schuhbeck",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alfons%20Schuhbeck",
-      "pubdate": "Wed, 12 Feb 2025 07:00:00 +0100"
+      "title": "Schneemond",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schneemond",
+      "pubdate": "Wed, 12 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Alexander Pröll",
@@ -62,19 +67,19 @@
       "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Bernhard Hoëcker",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bernhard%20Ho%C3%ABcker",
-      "pubdate": "Wed, 12 Feb 2025 12:00:00 +0100"
-    },
-    {
-      "title": "Süddeutsche Zeitung",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%C3%BCddeutsche%20Zeitung",
-      "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
+      "title": "Alfons Schuhbeck",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alfons%20Schuhbeck",
+      "pubdate": "Wed, 12 Feb 2025 07:00:00 +0100"
     },
     {
       "title": "Aktenzeichen XY",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aktenzeichen%20XY",
       "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Bernhard Hoëcker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bernhard%20Ho%C3%ABcker",
+      "pubdate": "Wed, 12 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "OTS",
@@ -95,11 +100,6 @@
       "title": "Lenzerheide",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lenzerheide",
       "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Verena Altenberger",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verena%20Altenberger",
-      "pubdate": "Wed, 12 Feb 2025 12:00:00 +0100"
     }
   ]
 }

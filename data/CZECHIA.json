@@ -1,15 +1,20 @@
 {
-  "lastUpdate": "12-02-2025 , 23:35:14",
+  "lastUpdate": "13-02-2025 , 01:57:15",
   "data": [
     {
-      "title": "ČT sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
-      "pubdate": "Wed, 12 Feb 2025 15:00:00 +0100"
+      "title": "State of Play",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#State%20of%20Play",
+      "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
     },
     {
       "title": "Celtic – Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celtic%20%E2%80%93%20Bayern",
       "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Wed, 12 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Lenzerheide",
@@ -22,14 +27,29 @@
       "pubdate": "Wed, 12 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Výjimečný stav",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDjime%C4%8Dn%C3%BD%20stav",
+      "pubdate": "Wed, 12 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "Captain America",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Captain%20America",
       "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
     },
     {
+      "title": "Tereza Bebarová",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Bebarov%C3%A1",
+      "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "Viktor Kuna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Viktor%20Kuna",
       "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
+      "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Jiří Pospíšil",
@@ -40,11 +60,6 @@
       "title": "Powerbeats Pro 2",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Powerbeats%20Pro%202",
       "pubdate": "Wed, 12 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
-      "pubdate": "Wed, 12 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Kamil Střihavka",
@@ -67,14 +82,14 @@
       "pubdate": "Wed, 12 Feb 2025 23:00:00 +0100"
     },
     {
+      "title": "Extraliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+      "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
+    },
+    {
       "title": "Věra Martinová",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Martinov%C3%A1",
       "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Butchers brno",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Butchers%20brno",
-      "pubdate": "Tue, 11 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Martin Erat",
@@ -85,21 +100,6 @@
       "title": "Dada patrasova",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dada%20patrasova",
       "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Ledovka",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ledovka",
-      "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "OpenAI",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OpenAI",
-      "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Demi Moore",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Demi%20Moore",
-      "pubdate": "Tue, 11 Feb 2025 01:00:00 +0100"
     }
   ]
 }
