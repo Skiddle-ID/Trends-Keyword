@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "14-02-2025 , 11:35:44",
+  "lastUpdate": "14-02-2025 , 12:56:26",
   "data": [
+    {
+      "title": "Alla hjärtans dag",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alla%20hj%C3%A4rtans%20dag",
+      "pubdate": "Fri, 14 Feb 2025 08:00:00 +0100"
+    },
     {
       "title": "SHL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SHL",
@@ -17,9 +22,19 @@
       "pubdate": "Fri, 14 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "AIK fotboll",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20fotboll",
+      "pubdate": "Fri, 14 Feb 2025 13:00:00 +0100"
+    },
+    {
       "title": "Robert F Kennedy Jr",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robert%20F%20Kennedy%20Jr",
       "pubdate": "Fri, 14 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Melodifestivalen 2025 deltävling 3",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Melodifestivalen%202025%20delt%C3%A4vling%203",
+      "pubdate": "Fri, 14 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Pete Davidson",
@@ -27,9 +42,9 @@
       "pubdate": "Fri, 14 Feb 2025 02:00:00 +0100"
     },
     {
-      "title": "Alla hjärtans dag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alla%20hj%C3%A4rtans%20dag",
-      "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
+      "title": "Färjestad",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%A4rjestad",
+      "pubdate": "Fri, 14 Feb 2025 08:00:00 +0100"
     },
     {
       "title": "Four Nations",
@@ -42,14 +57,9 @@
       "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "4-nations",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#4-nations",
+      "title": "4 Nations",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#4%20Nations",
       "pubdate": "Thu, 13 Feb 2025 08:00:00 +0100"
-    },
-    {
-      "title": "Simon Åström",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20%C3%85str%C3%B6m",
-      "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
     },
     {
       "title": "Glad alla hjärtans dag",
@@ -65,6 +75,11 @@
       "title": "Sverige Kanada",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Kanada",
       "pubdate": "Thu, 13 Feb 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Fredrik Reinfeldt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Reinfeldt",
+      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Carina Ståhl Herrstedt",
@@ -85,21 +100,6 @@
       "title": "UNT",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UNT",
       "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Robert Hannah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robert%20Hannah",
-      "pubdate": "Thu, 13 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "HV71",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HV71",
-      "pubdate": "Thu, 13 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "V75",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V75",
-      "pubdate": "Thu, 13 Feb 2025 18:00:00 +0100"
     }
   ]
 }
