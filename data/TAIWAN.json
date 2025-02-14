@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "13-02-2025 , 23:35:36",
+  "lastUpdate": "14-02-2025 , 01:56:47",
   "data": [
+    {
+      "title": "Intel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Intel",
+      "pubdate": "Fri, 14 Feb 2025 02:00:00 +0800"
+    },
     {
       "title": "對等關稅",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8D%E7%AD%89%E9%97%9C%E7%A8%85",
@@ -27,14 +32,14 @@
       "pubdate": "Thu, 13 Feb 2025 12:00:00 +0800"
     },
     {
-      "title": "獨行俠 對 勇士",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8D%A8%E8%A1%8C%E4%BF%A0%20%E5%B0%8D%20%E5%8B%87%E5%A3%AB",
-      "pubdate": "Thu, 13 Feb 2025 12:00:00 +0800"
-    },
-    {
       "title": "李喬",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%96%AC",
       "pubdate": "Thu, 13 Feb 2025 11:00:00 +0800"
+    },
+    {
+      "title": "2/14情人節",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2/14%E6%83%85%E4%BA%BA%E7%AF%80",
+      "pubdate": "Thu, 13 Feb 2025 23:00:00 +0800"
     },
     {
       "title": "中鋼",
@@ -47,24 +52,9 @@
       "pubdate": "Thu, 13 Feb 2025 11:00:00 +0800"
     },
     {
-      "title": "無雙深淵",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%84%A1%E9%9B%99%E6%B7%B1%E6%B7%B5",
-      "pubdate": "Thu, 13 Feb 2025 14:00:00 +0800"
-    },
-    {
       "title": "荿蒔敘",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8D%BF%E8%92%94%E6%95%98",
       "pubdate": "Thu, 13 Feb 2025 09:00:00 +0800"
-    },
-    {
-      "title": "英超",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8B%B1%E8%B6%85",
-      "pubdate": "Thu, 13 Feb 2025 10:00:00 +0800"
-    },
-    {
-      "title": "曾陶鎔",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9B%BE%E9%99%B6%E9%8E%94",
-      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0800"
     },
     {
       "title": "徐翔聖",
@@ -77,14 +67,19 @@
       "pubdate": "Thu, 13 Feb 2025 17:00:00 +0800"
     },
     {
+      "title": "曾陶鎔",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9B%BE%E9%99%B6%E9%8E%94",
+      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0800"
+    },
+    {
       "title": "普發一萬",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%99%AE%E7%99%BC%E4%B8%80%E8%90%AC",
       "pubdate": "Thu, 13 Feb 2025 16:00:00 +0800"
     },
     {
-      "title": "即時新聞",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E",
-      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0800"
+      "title": "PPI",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PPI",
+      "pubdate": "Thu, 13 Feb 2025 22:00:00 +0800"
     },
     {
       "title": "台泥",
@@ -92,9 +87,14 @@
       "pubdate": "Thu, 13 Feb 2025 14:00:00 +0800"
     },
     {
-      "title": "S媽",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#S%E5%AA%BD",
-      "pubdate": "Thu, 13 Feb 2025 20:00:00 +0800"
+      "title": "即時新聞",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E",
+      "pubdate": "Thu, 13 Feb 2025 13:00:00 +0800"
+    },
+    {
+      "title": "友達",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%8B%E9%81%94",
+      "pubdate": "Thu, 13 Feb 2025 22:00:00 +0800"
     },
     {
       "title": "東超",

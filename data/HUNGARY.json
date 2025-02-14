@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2025 , 23:35:31",
+  "lastUpdate": "14-02-2025 , 01:56:43",
   "data": [
     {
       "title": "FTC",
@@ -17,18 +17,13 @@
       "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "München",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%BCnchen",
-      "pubdate": "Thu, 13 Feb 2025 14:00:00 +0100"
+      "title": "Az–galatasaray",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%E2%80%93galatasaray",
+      "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "M4sport",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4sport",
-      "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Az–galatasaray",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%E2%80%93galatasaray",
       "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
     },
     {
@@ -37,9 +32,9 @@
       "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Hobo",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
-      "pubdate": "Thu, 13 Feb 2025 17:00:00 +0100"
+      "title": "München gázolás",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M%C3%BCnchen%20g%C3%A1zol%C3%A1s",
+      "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "Avowed",
@@ -47,14 +42,19 @@
       "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "Bridget Jones: Bolondulásig",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bridget%20Jones:%20Bolondul%C3%A1sig",
-      "pubdate": "Thu, 13 Feb 2025 06:00:00 +0100"
+      "title": "Hobo",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
+      "pubdate": "Thu, 13 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Midtjylland–real SOCIEDAD",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Midtjylland%E2%80%93real%20SOCIEDAD",
-      "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
+      "title": "Pannonhalma",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pannonhalma",
+      "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Az amerikai Egyesült Államok védelmi minisztere",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20amerikai%20Egyes%C3%BClt%20%C3%81llamok%20v%C3%A9delmi%20minisztere",
+      "pubdate": "Thu, 13 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Porto–roma",
@@ -62,19 +62,19 @@
       "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
     },
     {
+      "title": "Midtjylland–real SOCIEDAD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Midtjylland%E2%80%93real%20SOCIEDAD",
+      "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "Bridget Jones: Bolondulásig",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bridget%20Jones:%20Bolondul%C3%A1sig",
+      "pubdate": "Thu, 13 Feb 2025 06:00:00 +0100"
+    },
+    {
       "title": "M4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
       "pubdate": "Thu, 13 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "El",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
-      "pubdate": "Thu, 13 Feb 2025 20:00:00 +0100"
-    },
-    {
-      "title": "Pannonhalma",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pannonhalma",
-      "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "A szolgálólány meséje",
@@ -97,9 +97,9 @@
       "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Széchenyi István",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A9chenyi%20Istv%C3%A1n",
-      "pubdate": "Thu, 13 Feb 2025 10:00:00 +0100"
+      "title": "Magyar Péter Nagy Attila Tibor",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20P%C3%A9ter%20Nagy%20Attila%20Tibor",
+      "pubdate": "Thu, 13 Feb 2025 23:00:00 +0100"
     }
   ]
 }
