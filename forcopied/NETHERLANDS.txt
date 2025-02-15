@@ -1,1 +1,1 @@
-PSV  Utrecht,Arsenal,Vance,FC Emmen,Valentijnsdag,Cambuur,NK afstanden,Schaatsen,Chelsea,Sparta,Ajax,Feyenoord,Bosschaart,Rick Brandsteder,PSV Juventus,Kendrick Lamar,Utrecht,Cambuur,PEC Zwolle,FC Emmen
+PSV,NAC  Feyenoord,FC Emmen,Valentijnsdag,Cambuur,J.D. Vance,Go Ahead Eagles,Schaatsen,NK afstanden,Ajax,Feyenoord,Bosschaart,Rick Brandsteder,PSV Juventus,Kendrick Lamar,Utrecht,Cambuur,PEC Zwolle,FC Emmen,FC Utrecht

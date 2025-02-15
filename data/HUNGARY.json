@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2025 , 19:35:16",
+  "lastUpdate": "15-02-2025 , 20:35:02",
   "data": [
     {
       "title": "Csombor Teréz",
@@ -7,14 +7,24 @@
       "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Diósgyőr–Nyíregyháza",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Di%C3%B3sgy%C5%91r%E2%80%93Ny%C3%ADregyh%C3%A1za",
+      "title": "Diósgyőr–nyíregyháza",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Di%C3%B3sgy%C5%91r%E2%80%93ny%C3%ADregyh%C3%A1za",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Tisza Párt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisza%20P%C3%A1rt",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Fekete pont",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20pont",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
+    },
+    {
+      "title": "Crystal palace–everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Crystal%20palace%E2%80%93everton",
+      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Fulham–nottingham Forest",
@@ -27,24 +37,14 @@
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-      "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
-    },
-    {
       "title": "Bochum–dortmund",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bochum%E2%80%93dortmund",
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "DVTK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Tisza Párt kongresszus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisza%20P%C3%A1rt%20kongresszus",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
+      "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "J.D. Vance",
@@ -65,6 +65,11 @@
       "title": "Ruszin-Szendi Romulusz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ruszin-Szendi%20Romulusz",
       "pubdate": "Fri, 14 Feb 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Brighton–chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93chelsea",
+      "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Csernobili atomerőmű",
@@ -90,11 +95,6 @@
       "title": "Kocsonyafesztivál",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kocsonyafesztiv%C3%A1l",
       "pubdate": "Fri, 14 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Benzin ára",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benzin%20%C3%A1ra",
-      "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "The gorge",

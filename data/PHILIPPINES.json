@@ -1,19 +1,9 @@
 {
-  "lastUpdate": "15-02-2025 , 19:35:19",
+  "lastUpdate": "15-02-2025 , 20:35:05",
   "data": [
-    {
-      "title": "Miss Universe Philippines 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Miss%20Universe%20Philippines%202025",
-      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0800"
-    },
     {
       "title": "The Corrs",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#The%20Corrs",
-      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0800"
-    },
-    {
-      "title": "Euphoria",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Euphoria",
       "pubdate": "Sun, 16 Feb 2025 00:00:00 +0800"
     },
     {
@@ -37,9 +27,19 @@
       "pubdate": "Sat, 15 Feb 2025 09:00:00 +0800"
     },
     {
+      "title": "Fuel prices",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Fuel%20prices",
+      "pubdate": "Sat, 15 Feb 2025 01:00:00 +0800"
+    },
+    {
       "title": "Jack the Ripper",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jack%20the%20Ripper",
       "pubdate": "Sat, 15 Feb 2025 10:00:00 +0800"
+    },
+    {
+      "title": "Sydney Sweeney",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sydney%20Sweeney",
+      "pubdate": "Sat, 15 Feb 2025 11:00:00 +0800"
     },
     {
       "title": "Mother's Day",
@@ -57,14 +57,14 @@
       "pubdate": "Sat, 15 Feb 2025 09:00:00 +0800"
     },
     {
-      "title": "Sydney Sweeney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sydney%20Sweeney",
-      "pubdate": "Sat, 15 Feb 2025 11:00:00 +0800"
-    },
-    {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Premier%20League",
       "pubdate": "Sat, 15 Feb 2025 23:00:00 +0800"
+    },
+    {
+      "title": "China, Australia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#China,%20Australia",
+      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0800"
     },
     {
       "title": "Curling sport",
@@ -75,11 +75,6 @@
       "title": "Apple iPhone 17",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Apple%20iPhone%2017",
       "pubdate": "Sat, 15 Feb 2025 03:00:00 +0800"
-    },
-    {
-      "title": "China, Australia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#China,%20Australia",
-      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0800"
     },
     {
       "title": "Happy Valentine's Day!",
@@ -100,6 +95,11 @@
       "title": "Happy Valentine's",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Happy%20Valentine's",
       "pubdate": "Fri, 14 Feb 2025 20:00:00 +0800"
+    },
+    {
+      "title": "Gilas vs Qatar 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Gilas%20vs%20Qatar%202025",
+      "pubdate": "Fri, 14 Feb 2025 23:00:00 +0800"
     }
   ]
 }
