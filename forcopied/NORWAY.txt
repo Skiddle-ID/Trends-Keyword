@@ -1,1 +1,1 @@
-Svalbard,Nato,Tone Damli MGP,Kyle Alessandro,Hanne Krogh,LLL,Arsenal,Crystal Palace mot Everton,Johannes Thingnes Bø,Helitrans,West Ham mot Brentford,Ashley St. Clair,Marmoush,Belarus,Ole Einar Bjørndalen,Kia ev3,Tarjei Bø,Linnea Løtvedt,Mathea Bjørndalen,V75
+Svalbard,Nato,Kyle Alessandro,Hanne Krogh,MGP,Tone Damli,Ashley St. Clair,Nataleen,Arsenal,Johannes Thingnes Bø,Crystal Palace mot Everton,Helitrans,West Ham mot Brentford,Ole Einar Bjørndalen,Marmoush,Belarus,Kia ev3,Tarjei Bø,Linnea Løtvedt,Mathea Bjørndalen

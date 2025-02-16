@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2025 , 11:35:31",
+  "lastUpdate": "16-02-2025 , 12:54:37",
   "data": [
     {
       "title": "Leverkusen – Bayern",
@@ -7,14 +7,14 @@
       "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
-      "title": "Gerhart Baum",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhart%20Baum",
-      "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
-    },
-    {
       "title": "Villach",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Villach",
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Gerhart Baum",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gerhart%20Baum",
+      "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "St. Pauli",
@@ -27,9 +27,14 @@
       "pubdate": "Fri, 14 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Vance",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vance",
+      "pubdate": "Fri, 14 Feb 2025 13:00:00 +0100"
+    },
+    {
       "title": "ESC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC",
-      "pubdate": "Fri, 14 Feb 2025 21:00:00 +0100"
+      "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "München",
@@ -95,11 +100,6 @@
       "title": "DFB-Pokal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
       "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Santorini Erdbeben",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini%20Erdbeben",
-      "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
     }
   ]
 }

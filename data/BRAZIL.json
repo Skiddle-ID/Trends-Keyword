@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2025 , 11:35:29",
+  "lastUpdate": "16-02-2025 , 12:54:34",
   "data": [
     {
       "title": "Portuguesa x Corinthians",
@@ -42,14 +42,9 @@
       "pubdate": "Sat, 15 Feb 2025 19:00:00 -0500"
     },
     {
-      "title": "Ponte Preta x Botafogo-SP",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20Botafogo-SP",
+      "title": "Ponte Preta x Botafogo SP",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20Botafogo%20SP",
       "pubdate": "Sat, 15 Feb 2025 14:00:00 -0500"
-    },
-    {
-      "title": "Leverkusen x Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leverkusen%20x%20Bayern",
-      "pubdate": "Sat, 15 Feb 2025 12:00:00 -0500"
     },
     {
       "title": "Bragantino x Noroeste",
@@ -57,14 +52,19 @@
       "pubdate": "Sat, 15 Feb 2025 18:00:00 -0500"
     },
     {
-      "title": "Bahia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
-      "pubdate": "Sat, 15 Feb 2025 14:00:00 -0500"
-    },
-    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 -0500"
+    },
+    {
+      "title": "Bahia",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
+      "pubdate": "Sat, 15 Feb 2025 15:00:00 -0500"
     },
     {
       "title": "Atletico de Madrid",
@@ -97,8 +97,8 @@
       "pubdate": "Sat, 15 Feb 2025 13:00:00 -0500"
     },
     {
-      "title": "Criciúma x Marcílio Dias",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Marc%C3%ADlio%20Dias",
+      "title": "Avião caiu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avi%C3%A3o%20caiu",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 -0500"
     }
   ]

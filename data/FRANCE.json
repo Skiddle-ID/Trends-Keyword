@@ -1,11 +1,6 @@
 {
-  "lastUpdate": "16-02-2025 , 11:35:31",
+  "lastUpdate": "16-02-2025 , 12:54:36",
   "data": [
-    {
-      "title": "Michèle Laroque",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mich%C3%A8le%20Laroque",
-      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
-    },
     {
       "title": "Avalanches Savoie",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanches%20Savoie",
@@ -17,9 +12,24 @@
       "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
     },
     {
+      "title": "Jamel Debbouze",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jamel%20Debbouze",
+      "pubdate": "Sun, 16 Feb 2025 02:00:00 +0100"
+    },
+    {
+      "title": "Anne Roumanoff",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Roumanoff",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+    },
+    {
       "title": "Atletico",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Atletico",
       "pubdate": "Sun, 16 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Sylvie Testud",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sylvie%20Testud",
+      "pubdate": "Sun, 16 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Osasuna – Real Madrid",
@@ -77,11 +87,6 @@
       "pubdate": "Sat, 15 Feb 2025 14:00:00 +0100"
     },
     {
-      "title": "Timothée Chalamet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Timoth%C3%A9e%20Chalamet",
-      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
-    },
-    {
       "title": "All-Star Game 2025",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#All-Star%20Game%202025",
       "pubdate": "Sat, 15 Feb 2025 02:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "TFC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TFC",
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Bayern Munich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     }
   ]
 }
