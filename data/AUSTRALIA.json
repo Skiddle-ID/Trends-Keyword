@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:38",
+  "lastUpdate": "16-02-2025 , 02:08:25",
   "data": [
     {
       "title": "Premier League",
@@ -12,9 +12,9 @@
       "pubdate": "Sun, 16 Feb 2025 03:00:00 +1100"
     },
     {
-      "title": "Western Force",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Western%20Force",
-      "pubdate": "Sun, 16 Feb 2025 00:00:00 +1100"
+      "title": "Kylie Minogue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kylie%20Minogue",
+      "pubdate": "Sun, 16 Feb 2025 08:00:00 +1100"
     },
     {
       "title": "Crystal Palace vs Everton",
@@ -22,19 +22,29 @@
       "pubdate": "Sun, 16 Feb 2025 09:00:00 +1100"
     },
     {
+      "title": "Western Force",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Western%20Force",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +1100"
+    },
+    {
+      "title": "AFL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL",
+      "pubdate": "Sat, 15 Feb 2025 21:00:00 +1100"
+    },
+    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 23:00:00 +1100"
     },
     {
-      "title": "NRL All Stars 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20All%20Stars%202025",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +1100"
-    },
-    {
       "title": "Jannik Sinner",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
       "pubdate": "Sat, 15 Feb 2025 22:00:00 +1100"
+    },
+    {
+      "title": "NRL All Stars 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20All%20Stars%202025",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +1100"
     },
     {
       "title": "Ashley St. Clair",
@@ -67,11 +77,6 @@
       "pubdate": "Sat, 15 Feb 2025 09:00:00 +1100"
     },
     {
-      "title": "Jy Simpkin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jy%20Simpkin",
-      "pubdate": "Sat, 15 Feb 2025 23:00:00 +1100"
-    },
-    {
       "title": "AEW Grand Slam Australia",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AEW%20Grand%20Slam%20Australia",
       "pubdate": "Sat, 15 Feb 2025 22:00:00 +1100"
@@ -95,11 +100,6 @@
       "title": "Valentine's Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Valentine's%20Day",
       "pubdate": "Fri, 14 Feb 2025 01:00:00 +1100"
-    },
-    {
-      "title": "AFL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL",
-      "pubdate": "Fri, 14 Feb 2025 23:00:00 +1100"
     }
   ]
 }

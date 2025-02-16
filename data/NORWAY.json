@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:45",
+  "lastUpdate": "16-02-2025 , 02:08:32",
   "data": [
     {
       "title": "Hanne Krogh",
@@ -12,19 +12,14 @@
       "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
-      "title": "Wig Wam",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wig%20Wam",
-      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
-    },
-    {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Helitrans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helitrans",
-      "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
+      "title": "Crystal Palace mot Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Crystal%20Palace%20mot%20Everton",
+      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Johannes Thingnes Bø",
@@ -32,9 +27,9 @@
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Atlético Madrid mot Celta",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Atl%C3%A9tico%20Madrid%20mot%20Celta",
-      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
+      "title": "Helitrans",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helitrans",
+      "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
     },
     {
       "title": "Marmoush",
@@ -57,6 +52,11 @@
       "pubdate": "Sat, 15 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "Linnea Løtvedt",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linnea%20L%C3%B8tvedt",
+      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
+    },
+    {
       "title": "V75",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V75",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
@@ -65,11 +65,6 @@
       "title": "Trysil Skimaraton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trysil%20Skimaraton",
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Linnea Løtvedt",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linnea%20L%C3%B8tvedt",
-      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     },
     {
       "title": "Francesca Albanese",
@@ -100,6 +95,11 @@
       "title": "Valentines",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valentines",
       "pubdate": "Fri, 14 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Harald og Sonja",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harald%20og%20Sonja",
+      "pubdate": "Fri, 14 Feb 2025 19:00:00 +0100"
     }
   ]
 }

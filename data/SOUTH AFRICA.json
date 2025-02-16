@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:46",
+  "lastUpdate": "16-02-2025 , 02:08:33",
   "data": [
+    {
+      "title": "Muhsin Hendricks",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Muhsin%20Hendricks",
+      "pubdate": "Sun, 16 Feb 2025 02:00:00 +0200"
+    },
     {
       "title": "Kaizer Chiefs vs Chippa United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaizer%20Chiefs%20vs%20Chippa%20United",
@@ -10,11 +15,6 @@
       "title": "Orlando Pirates vs Baroka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates%20vs%20Baroka",
       "pubdate": "Sat, 15 Feb 2025 15:00:00 +0200"
-    },
-    {
-      "title": "Man City vs Newcastle",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Newcastle",
-      "pubdate": "Sat, 15 Feb 2025 12:00:00 +0200"
     },
     {
       "title": "Leicester City vs Arsenal",
@@ -27,6 +27,16 @@
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
     },
     {
+      "title": "Man City vs Newcastle",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City%20vs%20Newcastle",
+      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0200"
+    },
+    {
+      "title": "Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League",
+      "pubdate": "Sat, 15 Feb 2025 12:00:00 +0200"
+    },
+    {
       "title": "Epl",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Epl",
       "pubdate": "Sat, 15 Feb 2025 11:00:00 +0200"
@@ -37,14 +47,14 @@
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
     },
     {
-      "title": "Crystal Palace vs Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace%20vs%20Everton",
-      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0200"
-    },
-    {
       "title": "Leverkusen vs Bayern",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leverkusen%20vs%20Bayern",
       "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Crystal Palace vs Everton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Crystal%20Palace%20vs%20Everton",
+      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0200"
     },
     {
       "title": "Fulham vs nottm Forest",
@@ -62,6 +72,11 @@
       "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
     },
     {
+      "title": "Orlando City vs Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20City%20vs%20Inter%20Miami",
+      "pubdate": "Sat, 15 Feb 2025 05:00:00 +0200"
+    },
+    {
       "title": "Chelsea FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
       "pubdate": "Sat, 15 Feb 2025 00:00:00 +0200"
@@ -77,29 +92,14 @@
       "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
     },
     {
+      "title": "English Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#English%20Premier%20League",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
+    },
+    {
       "title": "Bridget Jones",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bridget%20Jones",
       "pubdate": "Sat, 15 Feb 2025 02:00:00 +0200"
-    },
-    {
-      "title": "Chidimma Adetshina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chidimma%20Adetshina",
-      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0200"
-    },
-    {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
-      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
-    },
-    {
-      "title": "Girona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Girona",
-      "pubdate": "Sat, 15 Feb 2025 02:00:00 +0200"
-    },
-    {
-      "title": "Napoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli",
-      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0200"
     }
   ]
 }

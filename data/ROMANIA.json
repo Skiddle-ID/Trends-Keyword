@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:46",
+  "lastUpdate": "16-02-2025 , 02:08:33",
   "data": [
     {
       "title": "Santa Clara  Benfica",
@@ -7,14 +7,14 @@
       "pubdate": "Sun, 16 Feb 2025 00:00:00 +0200"
     },
     {
-      "title": "Osasuna - Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Osasuna%20-%20Real%20Madrid",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
-    },
-    {
       "title": "Dinamo București  Farul Constanța",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20Bucure%C8%99ti%20%20Farul%20Constan%C8%9Ba",
       "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Osasuna  Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Osasuna%20%20Real%20Madrid",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
     },
     {
       "title": "Petrolul",
@@ -24,7 +24,7 @@
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
+      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
     },
     {
       "title": "Atalanta  Cagliari",
@@ -32,14 +32,9 @@
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0200"
     },
     {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
+      "title": "Bayer Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayer%20Bayern",
       "pubdate": "Sat, 15 Feb 2025 20:00:00 +0200"
-    },
-    {
-      "title": "Oana Matache",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oana%20Matache",
-      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0200"
     },
     {
       "title": "Manchester city–newcastle",
@@ -52,9 +47,9 @@
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0200"
     },
     {
-      "title": "Villarreal,  Valencia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Villarreal,%20%20Valencia",
-      "pubdate": "Sat, 15 Feb 2025 22:00:00 +0200"
+      "title": "Arsenal",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0200"
     },
     {
       "title": "Alexandra Ungureanu",
@@ -65,6 +60,11 @@
       "title": "Centrala nucleara cernobil",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Centrala%20nucleara%20cernobil",
       "pubdate": "Sat, 15 Feb 2025 09:00:00 +0200"
+    },
+    {
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bayern",
+      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0200"
     },
     {
       "title": "Sinner",

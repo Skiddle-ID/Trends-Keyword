@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:42",
+  "lastUpdate": "16-02-2025 , 02:08:29",
   "data": [
-    {
-      "title": "Ashley St. Clair",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ashley%20St.%20Clair",
-      "pubdate": "Sun, 16 Feb 2025 00:30:00 +0530"
-    },
     {
       "title": "New Delhi Railway Station",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20Delhi%20Railway%20Station",
       "pubdate": "Sun, 16 Feb 2025 03:30:00 +0530"
+    },
+    {
+      "title": "Fire",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Fire",
+      "pubdate": "Sun, 16 Feb 2025 06:30:00 +0530"
     },
     {
       "title": "Man City vs Newcastle",
@@ -22,44 +22,19 @@
       "pubdate": "Sat, 15 Feb 2025 18:30:00 +0530"
     },
     {
-      "title": "Chhaava film box office collection",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhaava%20film%20box%20office%20collection",
-      "pubdate": "Sat, 15 Feb 2025 01:30:00 +0530"
-    },
-    {
       "title": "Real Madrid",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
       "pubdate": "Sat, 15 Feb 2025 23:30:00 +0530"
     },
     {
-      "title": "Kerala Blasters",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kerala%20Blasters",
-      "pubdate": "Sat, 15 Feb 2025 20:30:00 +0530"
-    },
-    {
-      "title": "Prateik Babbar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prateik%20Babbar",
-      "pubdate": "Sat, 15 Feb 2025 09:30:00 +0530"
-    },
-    {
-      "title": "ISPL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ISPL",
-      "pubdate": "Sat, 15 Feb 2025 22:30:00 +0530"
+      "title": "Chhaava film box office collection",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhaava%20film%20box%20office%20collection",
+      "pubdate": "Sat, 15 Feb 2025 01:30:00 +0530"
     },
     {
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 20:30:00 +0530"
-    },
-    {
-      "title": "MS Dhoni",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#MS%20Dhoni",
-      "pubdate": "Sat, 15 Feb 2025 22:30:00 +0530"
-    },
-    {
-      "title": "New India Cooperative Bank",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#New%20India%20Cooperative%20Bank",
-      "pubdate": "Sat, 15 Feb 2025 08:30:00 +0530"
     },
     {
       "title": "Pakistan vs New Zealand",
@@ -77,6 +52,11 @@
       "pubdate": "Fri, 14 Feb 2025 00:30:00 +0530"
     },
     {
+      "title": "JioHotstar",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#JioHotstar",
+      "pubdate": "Fri, 14 Feb 2025 08:30:00 +0530"
+    },
+    {
       "title": "IPL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL",
       "pubdate": "Fri, 14 Feb 2025 20:30:00 +0530"
@@ -87,19 +67,39 @@
       "pubdate": "Fri, 14 Feb 2025 12:30:00 +0530"
     },
     {
-      "title": "Elon Musk",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Elon%20Musk",
-      "pubdate": "Fri, 14 Feb 2025 12:30:00 +0530"
-    },
-    {
       "title": "CCL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#CCL",
       "pubdate": "Fri, 14 Feb 2025 19:30:00 +0530"
     },
     {
-      "title": "Shreyanka Patil",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreyanka%20Patil",
+      "title": "Modi Trump meeting",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Modi%20Trump%20meeting",
+      "pubdate": "Fri, 14 Feb 2025 01:30:00 +0530"
+    },
+    {
+      "title": "Reciprocal tariffs",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Reciprocal%20tariffs",
       "pubdate": "Fri, 14 Feb 2025 16:30:00 +0530"
+    },
+    {
+      "title": "Women's Premier League",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Women's%20Premier%20League",
+      "pubdate": "Thu, 13 Feb 2025 15:30:00 +0530"
+    },
+    {
+      "title": "Captain America",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Captain%20America",
+      "pubdate": "Thu, 13 Feb 2025 16:30:00 +0530"
+    },
+    {
+      "title": "Manipur",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manipur",
+      "pubdate": "Thu, 13 Feb 2025 22:30:00 +0530"
+    },
+    {
+      "title": "ONGC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ONGC",
+      "pubdate": "Thu, 13 Feb 2025 23:30:00 +0530"
     }
   ]
 }

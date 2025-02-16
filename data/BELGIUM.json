@@ -1,14 +1,19 @@
 {
-  "lastUpdate": "15-02-2025 , 23:35:39",
+  "lastUpdate": "16-02-2025 , 02:08:26",
   "data": [
+    {
+      "title": "Missbelgium",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Missbelgium",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Pinto da Costa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pinto%20da%20Costa",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Premier League",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
-      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Osasuna – Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Osasuna%20%E2%80%93%20Real%20Madrid",
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
     },
     {
@@ -17,9 +22,19 @@
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
     },
     {
+      "title": "Osasuna – Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Osasuna%20%E2%80%93%20Real%20Madrid",
+      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
+    },
+    {
       "title": "Antwerp",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
       "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
+    },
+    {
+      "title": "Miss Belgique 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miss%20Belgique%202025",
+      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Thermomix TM7",
@@ -30,11 +45,6 @@
       "title": "Leicester – Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leicester%20%E2%80%93%20Arsenal",
       "pubdate": "Sat, 15 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Atletico Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
-      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Jannik Sinner",
@@ -52,18 +62,8 @@
       "pubdate": "Sat, 15 Feb 2025 10:00:00 +0100"
     },
     {
-      "title": "OHL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
-      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Timothée Chalamet",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
-      "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Bayern",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
+      "title": "Clemenceau",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clemenceau",
       "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     },
     {
@@ -72,34 +72,34 @@
       "pubdate": "Sat, 15 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "OH louvain – Dender",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OH%20louvain%20%E2%80%93%20Dender",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
+      "title": "Timothée Chalamet",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Timoth%C3%A9e%20Chalamet",
+      "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Mayane",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mayane",
-      "pubdate": "Sat, 15 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Clemenceau",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clemenceau",
-      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "PSV  Utrecht",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV%20%20Utrecht",
+      "title": "OHL",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
       "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Aliocha Schneider",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aliocha%20Schneider",
-      "pubdate": "Sat, 15 Feb 2025 01:00:00 +0100"
+      "title": "Bayern",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
+      "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "Miss belgie",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miss%20belgie",
-      "pubdate": "Sat, 15 Feb 2025 22:00:00 +0100"
+      "title": "Atletico Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
+      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Lazio – Naples",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lazio%20%E2%80%93%20Naples",
+      "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
+    },
+    {
+      "title": "OH louvain – Dender",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OH%20louvain%20%E2%80%93%20Dender",
+      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
     }
   ]
 }
