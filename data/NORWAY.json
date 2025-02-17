@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "16-02-2025 , 23:36:03",
+  "lastUpdate": "17-02-2025 , 02:05:03",
   "data": [
+    {
+      "title": "Richard Sandrak",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Richard%20Sandrak",
+      "pubdate": "Mon, 17 Feb 2025 02:00:00 +0100"
+    },
     {
       "title": "Tottenham mot Man United",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham%20mot%20Man%20United",
@@ -17,11 +22,6 @@
       "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Biohack",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Biohack",
-      "pubdate": "Sun, 16 Feb 2025 15:00:00 +0100"
-    },
-    {
       "title": "Danby Choi",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Danby%20Choi",
       "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
@@ -32,14 +32,19 @@
       "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
     },
     {
-      "title": "Svalbard",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Svalbard",
-      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
+      "title": "Biohacking",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Biohacking",
+      "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Silje Opseth",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Opseth",
       "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Svalbard",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Svalbard",
+      "pubdate": "Sun, 16 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Nato",
@@ -52,6 +57,11 @@
       "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
     },
     {
+      "title": "Lucas Braathen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lucas%20Braathen",
+      "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+    },
+    {
       "title": "Kyle Alessandro",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Alessandro",
       "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
@@ -59,12 +69,17 @@
     {
       "title": "Hanne Krogh",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hanne%20Krogh",
-      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
+      "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Tone Damli",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tone%20Damli",
       "pubdate": "Sat, 15 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Teddy Swims",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Teddy%20Swims",
+      "pubdate": "Sat, 15 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Ashley St. Clair",
@@ -85,21 +100,6 @@
       "title": "Arsenal",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
       "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Crystal Palace mot Everton",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Crystal%20Palace%20mot%20Everton",
-      "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Helitrans",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Helitrans",
-      "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Belarus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Belarus",
-      "pubdate": "Sat, 15 Feb 2025 14:00:00 +0100"
     }
   ]
 }
