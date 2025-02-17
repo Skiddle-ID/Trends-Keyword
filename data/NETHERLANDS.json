@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-02-2025 , 22:37:10",
+  "lastUpdate": "17-02-2025 , 23:35:37",
   "data": [
     {
       "title": "Ongeluk A2",
@@ -10,6 +10,11 @@
       "title": "Joop van den Ende",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joop%20van%20den%20Ende",
       "pubdate": "Mon, 17 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "File",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#File",
+      "pubdate": "Mon, 17 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Vitesse",
@@ -25,11 +30,6 @@
       "title": "Lieke marsman",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20marsman",
       "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
-    },
-    {
-      "title": "Davy Klaassen",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davy%20Klaassen",
-      "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Graafschap",
@@ -77,14 +77,14 @@
       "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
     },
     {
-      "title": "PSV",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
-    },
-    {
       "title": "Rick Brandsteder",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rick%20Brandsteder",
       "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
+    },
+    {
+      "title": "PSV Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Juventus",
+      "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
     },
     {
       "title": "Kendrick Lamar",
