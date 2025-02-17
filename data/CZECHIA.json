@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "17-02-2025 , 11:35:51",
+  "lastUpdate": "17-02-2025 , 12:58:49",
   "data": [
     {
       "title": "Miloš Balák",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milo%C5%A1%20Bal%C3%A1k",
       "pubdate": "Mon, 17 Feb 2025 11:00:00 +0100"
-    },
-    {
-      "title": "HC Olomouc",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Olomouc",
-      "pubdate": "Mon, 17 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Slavia",
@@ -27,6 +22,11 @@
       "pubdate": "Sun, 16 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "Kim Sae-ron",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kim%20Sae-ron",
+      "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "Christoph Heusgen",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Christoph%20Heusgen",
       "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
@@ -40,6 +40,21 @@
       "title": "Zizians",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zizians",
       "pubdate": "Sun, 16 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Extraliga",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+      "pubdate": "Sun, 16 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20United",
+      "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Slavia Praha",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+      "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Eva Burešová",
@@ -64,21 +79,6 @@
     {
       "title": "Daniel Krejčík",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniel%20Krej%C4%8D%C3%ADk",
-      "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Premier League",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
-      "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Slovácko – Dukla",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Dukla",
-      "pubdate": "Sat, 15 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Kuklova",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kuklova",
       "pubdate": "Sat, 15 Feb 2025 21:00:00 +0100"
     },
     {
