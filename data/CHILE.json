@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "17-02-2025 , 23:35:33",
+  "lastUpdate": "18-02-2025 , 01:56:41",
   "data": [
     {
-      "title": "Barcelona  Rayo Vallecano",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Rayo%20Vallecano",
+      "title": "Barcelona - Rayo Vallecano",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20-%20Rayo%20Vallecano",
       "pubdate": "Mon, 17 Feb 2025 17:00:00 -0300"
     },
     {
@@ -20,6 +20,16 @@
       "title": "Nicolás Jarry",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Jarry",
       "pubdate": "Mon, 17 Feb 2025 12:00:00 -0300"
+    },
+    {
+      "title": "Platense  Independiente",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Platense%20%20Independiente",
+      "pubdate": "Mon, 17 Feb 2025 20:00:00 -0300"
+    },
+    {
+      "title": "Denisse Campos",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Denisse%20Campos",
+      "pubdate": "Mon, 17 Feb 2025 02:00:00 -0300"
     },
     {
       "title": "Tatiana Merino",
@@ -42,9 +52,14 @@
       "pubdate": "Mon, 17 Feb 2025 15:00:00 -0300"
     },
     {
-      "title": "Daniella Campos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniella%20Campos",
-      "pubdate": "Mon, 17 Feb 2025 02:00:00 -0300"
+      "title": "Rio Open",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rio%20Open",
+      "pubdate": "Mon, 17 Feb 2025 16:00:00 -0300"
+    },
+    {
+      "title": "Union Española",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
+      "pubdate": "Mon, 17 Feb 2025 19:00:00 -0300"
     },
     {
       "title": "Santos vs",
@@ -57,24 +72,19 @@
       "pubdate": "Mon, 17 Feb 2025 14:00:00 -0300"
     },
     {
-      "title": "Tonka Tomicic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tonka%20Tomicic",
-      "pubdate": "Mon, 17 Feb 2025 10:00:00 -0300"
-    },
-    {
-      "title": "Huracán  Unión",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hurac%C3%A1n%20%20Uni%C3%B3n",
-      "pubdate": "Mon, 17 Feb 2025 02:00:00 -0300"
-    },
-    {
-      "title": "Rio Open",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rio%20Open",
-      "pubdate": "Mon, 17 Feb 2025 16:00:00 -0300"
+      "title": "UC",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UC",
+      "pubdate": "Mon, 17 Feb 2025 20:00:00 -0300"
     },
     {
       "title": "Adam Pearson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Adam%20Pearson",
       "pubdate": "Mon, 17 Feb 2025 03:00:00 -0300"
+    },
+    {
+      "title": "El fenomeno Canal 13",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20fenomeno%20Canal%2013",
+      "pubdate": "Mon, 17 Feb 2025 21:00:00 -0300"
     },
     {
       "title": "Angy Morad Miss Mundo",
@@ -87,19 +97,9 @@
       "pubdate": "Mon, 17 Feb 2025 12:00:00 -0300"
     },
     {
-      "title": "Union Española",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
-      "pubdate": "Mon, 17 Feb 2025 19:00:00 -0300"
-    },
-    {
-      "title": "Brasil Sub-20  Chile Sub-20",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20Sub-20%20%20Chile%20Sub-20",
+      "title": "Brasil Sub-20  Chile sub-20",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brasil%20Sub-20%20%20Chile%20sub-20",
       "pubdate": "Sun, 16 Feb 2025 17:00:00 -0300"
-    },
-    {
-      "title": "Udinese  Empoli",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20%20Empoli",
-      "pubdate": "Sun, 16 Feb 2025 11:00:00 -0300"
     }
   ]
 }

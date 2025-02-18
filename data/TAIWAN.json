@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "17-02-2025 , 23:35:40",
+  "lastUpdate": "18-02-2025 , 01:56:48",
   "data": [
+    {
+      "title": "黃少岑",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E5%B0%91%E5%B2%91",
+      "pubdate": "Tue, 18 Feb 2025 08:00:00 +0800"
+    },
     {
       "title": "藥華藥",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%97%A5%E8%8F%AF%E8%97%A5",
@@ -15,11 +20,6 @@
       "title": "柯文哲",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9F%AF%E6%96%87%E5%93%B2",
       "pubdate": "Mon, 17 Feb 2025 13:00:00 +0800"
-    },
-    {
-      "title": "孫生",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%AB%E7%94%9F",
-      "pubdate": "Mon, 17 Feb 2025 09:00:00 +0800"
     },
     {
       "title": "美股休市",
@@ -67,14 +67,9 @@
       "pubdate": "Mon, 17 Feb 2025 13:00:00 +0800"
     },
     {
-      "title": "文化大學",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%B8",
-      "pubdate": "Mon, 17 Feb 2025 10:00:00 +0800"
-    },
-    {
-      "title": "銘傳大學",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8A%98%E5%82%B3%E5%A4%A7%E5%AD%B8",
-      "pubdate": "Mon, 17 Feb 2025 10:00:00 +0800"
+      "title": "黃仁勳",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E4%BB%81%E5%8B%B3",
+      "pubdate": "Mon, 17 Feb 2025 20:00:00 +0800"
     },
     {
       "title": "麟洋路",
@@ -82,19 +77,24 @@
       "pubdate": "Mon, 17 Feb 2025 21:00:00 +0800"
     },
     {
+      "title": "銘傳大學",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8A%98%E5%82%B3%E5%A4%A7%E5%AD%B8",
+      "pubdate": "Mon, 17 Feb 2025 10:00:00 +0800"
+    },
+    {
       "title": "明星賽",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%98%8E%E6%98%9F%E8%B3%BD",
       "pubdate": "Mon, 17 Feb 2025 14:00:00 +0800"
     },
     {
-      "title": "吳音寧",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%B3%E9%9F%B3%E5%AF%A7",
-      "pubdate": "Mon, 17 Feb 2025 09:00:00 +0800"
-    },
-    {
       "title": "九龍城寨之圍城",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8%E4%B9%8B%E5%9C%8D%E5%9F%8E",
       "pubdate": "Mon, 17 Feb 2025 00:00:00 +0800"
+    },
+    {
+      "title": "龍發堂",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BE%8D%E7%99%BC%E5%A0%82",
+      "pubdate": "Mon, 17 Feb 2025 22:00:00 +0800"
     },
     {
       "title": "倉木麻衣",
