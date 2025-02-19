@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "18-02-2025 , 23:35:36",
+  "lastUpdate": "19-02-2025 , 01:58:05",
   "data": [
+    {
+      "title": "프로미스나인",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4%EB%82%98%EC%9D%B8",
+      "pubdate": "Wed, 19 Feb 2025 06:00:00 +0900"
+    },
+    {
+      "title": "봉준호",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B4%89%EC%A4%80%ED%98%B8",
+      "pubdate": "Wed, 19 Feb 2025 09:00:00 +0900"
+    },
     {
       "title": "솔라나",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%94%EB%9D%BC%EB%82%98",
@@ -10,11 +20,6 @@
       "title": "그놈은 흑염룡",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B7%B8%EB%86%88%EC%9D%80%20%ED%9D%91%EC%97%BC%EB%A3%A1",
       "pubdate": "Tue, 18 Feb 2025 00:00:00 +0900"
-    },
-    {
-      "title": "우수",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B0%EC%88%98",
-      "pubdate": "Tue, 18 Feb 2025 08:00:00 +0900"
     },
     {
       "title": "김현태",
@@ -32,19 +37,9 @@
       "pubdate": "Tue, 18 Feb 2025 10:00:00 +0900"
     },
     {
-      "title": "유아인",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%95%84%EC%9D%B8",
-      "pubdate": "Tue, 18 Feb 2025 19:00:00 +0900"
-    },
-    {
       "title": "돗돔",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8F%97%EB%8F%94",
       "pubdate": "Tue, 18 Feb 2025 23:00:00 +0900"
-    },
-    {
-      "title": "전북대",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EB%B6%81%EB%8C%80",
-      "pubdate": "Tue, 18 Feb 2025 11:00:00 +0900"
     },
     {
       "title": "티웨이항공",
@@ -62,14 +57,14 @@
       "pubdate": "Mon, 17 Feb 2025 10:00:00 +0900"
     },
     {
-      "title": "맨유",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
-      "pubdate": "Mon, 17 Feb 2025 01:00:00 +0900"
-    },
-    {
       "title": "그록3",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B7%B8%EB%A1%9D3",
       "pubdate": "Mon, 17 Feb 2025 23:00:00 +0900"
+    },
+    {
+      "title": "맨유",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
+      "pubdate": "Mon, 17 Feb 2025 01:00:00 +0900"
     },
     {
       "title": "김신영",
@@ -92,14 +87,19 @@
       "pubdate": "Mon, 17 Feb 2025 19:00:00 +0900"
     },
     {
-      "title": "에어로케이",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%EC%96%B4%EB%A1%9C%EC%BC%80%EC%9D%B4",
-      "pubdate": "Mon, 17 Feb 2025 13:00:00 +0900"
+      "title": "차주영",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%A3%BC%EC%98%81",
+      "pubdate": "Mon, 17 Feb 2025 17:00:00 +0900"
     },
     {
       "title": "EV4",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#EV4",
       "pubdate": "Mon, 17 Feb 2025 20:00:00 +0900"
+    },
+    {
+      "title": "윤석열 딥페이크",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%94%A5%ED%8E%98%EC%9D%B4%ED%81%AC",
+      "pubdate": "Mon, 17 Feb 2025 12:00:00 +0900"
     }
   ]
 }
