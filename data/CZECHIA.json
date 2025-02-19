@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "19-02-2025 , 17:37:27",
+  "lastUpdate": "19-02-2025 , 18:42:52",
   "data": [
+    {
+      "title": "iPhone 16e",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#iPhone%2016e",
+      "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
+    },
     {
       "title": "Trump",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
@@ -20,6 +25,11 @@
       "title": "Patrik svátek",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20sv%C3%A1tek",
       "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
+    },
+    {
+      "title": "Falcon 9",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Falcon%209",
+      "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Linda Nosková",
@@ -42,11 +52,6 @@
       "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Suzuki Across",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Suzuki%20Across",
-      "pubdate": "Tue, 18 Feb 2025 15:00:00 +0100"
-    },
-    {
       "title": "Vlny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vlny",
       "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
@@ -57,24 +62,24 @@
       "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
     },
     {
-      "title": "Adéla Šípová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ad%C3%A9la%20%C5%A0%C3%ADpov%C3%A1",
-      "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
-    },
-    {
       "title": "Buffon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Buffon",
       "pubdate": "Tue, 18 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "ČT sport",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
-      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
+      "title": "Jan Suk",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Suk",
+      "pubdate": "Tue, 18 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "ESG",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ESG",
       "pubdate": "Tue, 18 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "ČT sport",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
+      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
     },
     {
       "title": "JD Vance",
@@ -87,19 +92,14 @@
       "pubdate": "Tue, 18 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Kateřina Marie Fialová",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%C5%99ina%20Marie%20Fialov%C3%A1",
-      "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
+      "title": "Marco Rubio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marco%20Rubio",
+      "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
     },
     {
-      "title": "Zemřel Miloš Balák",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zem%C5%99el%20Milo%C5%A1%20Bal%C3%A1k",
-      "pubdate": "Mon, 17 Feb 2025 11:00:00 +0100"
-    },
-    {
-      "title": "Post Malone Praha",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Post%20Malone%20Praha",
-      "pubdate": "Mon, 17 Feb 2025 15:00:00 +0100"
+      "title": "Suzuki",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Suzuki",
+      "pubdate": "Tue, 18 Feb 2025 15:00:00 +0100"
     }
   ]
 }
