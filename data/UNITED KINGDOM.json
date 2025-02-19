@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "19-02-2025 , 11:35:53",
+  "lastUpdate": "19-02-2025 , 12:56:50",
   "data": [
     {
-      "title": "Asap Rocky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Asap%20Rocky",
+      "title": "ASAP Rocky",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ASAP%20Rocky",
       "pubdate": "Wed, 19 Feb 2025 03:00:00 +0000"
+    },
+    {
+      "title": "PAK vs NZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#PAK%20vs%20NZ",
+      "pubdate": "Wed, 19 Feb 2025 10:00:00 +0000"
     },
     {
       "title": "MOBO Awards 2025",
@@ -12,9 +17,19 @@
       "pubdate": "Wed, 19 Feb 2025 01:00:00 +0000"
     },
     {
-      "title": "ICC Champions Trophy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ICC%20Champions%20Trophy",
-      "pubdate": "Wed, 19 Feb 2025 10:00:00 +0000"
+      "title": "Champions Trophy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20Trophy",
+      "pubdate": "Wed, 19 Feb 2025 11:00:00 +0000"
+    },
+    {
+      "title": "Guy Pearce",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Guy%20Pearce",
+      "pubdate": "Wed, 19 Feb 2025 09:00:00 +0000"
+    },
+    {
+      "title": "Rick Butler The Jam",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rick%20Butler%20The%20Jam",
+      "pubdate": "Wed, 19 Feb 2025 09:00:00 +0000"
     },
     {
       "title": "As Ever",
@@ -32,9 +47,19 @@
       "pubdate": "Tue, 18 Feb 2025 20:00:00 +0000"
     },
     {
+      "title": "Bonnie Blue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bonnie%20Blue",
+      "pubdate": "Tue, 18 Feb 2025 23:00:00 +0000"
+    },
+    {
       "title": "British couple detained in Iran",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#British%20couple%20detained%20in%20Iran",
       "pubdate": "Tue, 18 Feb 2025 16:00:00 +0000"
+    },
+    {
+      "title": "NASA asteroid hitting Earth 2024",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NASA%20asteroid%20hitting%20Earth%202024",
+      "pubdate": "Tue, 18 Feb 2025 22:00:00 +0000"
     },
     {
       "title": "AC Milan",
@@ -62,19 +87,9 @@
       "pubdate": "Tue, 18 Feb 2025 15:00:00 +0000"
     },
     {
-      "title": "NASA asteroid hitting Earth 2024",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NASA%20asteroid%20hitting%20Earth%202024",
-      "pubdate": "Tue, 18 Feb 2025 22:00:00 +0000"
-    },
-    {
       "title": "Emma Raducanu",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emma%20Raducanu",
       "pubdate": "Tue, 18 Feb 2025 20:00:00 +0000"
-    },
-    {
-      "title": "Wordle hint",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wordle%20hint",
-      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0000"
     },
     {
       "title": "Air fryers",
@@ -82,24 +97,9 @@
       "pubdate": "Tue, 18 Feb 2025 22:00:00 +0000"
     },
     {
-      "title": "Everton new stadium",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Everton%20new%20stadium",
-      "pubdate": "Tue, 18 Feb 2025 11:00:00 +0000"
-    },
-    {
-      "title": "Benfica vs Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Benfica%20vs%20Monaco",
-      "pubdate": "Tue, 18 Feb 2025 23:00:00 +0000"
-    },
-    {
-      "title": "Doctor Who",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Doctor%20Who",
-      "pubdate": "Tue, 18 Feb 2025 17:00:00 +0000"
-    },
-    {
-      "title": "Novak Djokovic",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Novak%20Djokovic",
-      "pubdate": "Tue, 18 Feb 2025 20:00:00 +0000"
+      "title": "Wordle hint",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wordle%20hint",
+      "pubdate": "Tue, 18 Feb 2025 16:00:00 +0000"
     }
   ]
 }
