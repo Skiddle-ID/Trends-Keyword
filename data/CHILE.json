@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "20-02-2025 , 05:37:58",
+  "lastUpdate": "20-02-2025 , 06:43:18",
   "data": [
+    {
+      "title": "Lakers  Hornets",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lakers%20%20Hornets",
+      "pubdate": "Thu, 20 Feb 2025 02:00:00 -0300"
+    },
     {
       "title": "Real Madrid - Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20-%20Manchester%20City",
@@ -12,18 +17,18 @@
       "pubdate": "Wed, 19 Feb 2025 16:00:00 -0300"
     },
     {
-      "title": "PSV - Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSV%20-%20Juventus",
-      "pubdate": "Wed, 19 Feb 2025 18:00:00 -0300"
-    },
-    {
       "title": "PSG  Stade Brestois",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG%20%20Stade%20Brestois",
       "pubdate": "Wed, 19 Feb 2025 18:00:00 -0300"
     },
     {
-      "title": "Sporting KC  Inter Miami",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20KC%20%20Inter%20Miami",
+      "title": "PSV - Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSV%20-%20Juventus",
+      "pubdate": "Wed, 19 Feb 2025 18:00:00 -0300"
+    },
+    {
+      "title": "Sporting kc  Inter Miami",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sporting%20kc%20%20Inter%20Miami",
       "pubdate": "Wed, 19 Feb 2025 22:00:00 -0300"
     },
     {
@@ -45,6 +50,11 @@
       "title": "Corfo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corfo",
       "pubdate": "Wed, 19 Feb 2025 09:00:00 -0300"
+    },
+    {
+      "title": "Papa Francisco",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Papa%20Francisco",
+      "pubdate": "Wed, 19 Feb 2025 16:00:00 -0300"
     },
     {
       "title": "Zampedri",
@@ -72,6 +82,11 @@
       "pubdate": "Wed, 19 Feb 2025 23:00:00 -0300"
     },
     {
+      "title": "Milo J",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milo%20J",
+      "pubdate": "Wed, 19 Feb 2025 21:00:00 -0300"
+    },
+    {
       "title": "Haaland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Haaland",
       "pubdate": "Wed, 19 Feb 2025 19:00:00 -0300"
@@ -85,21 +100,6 @@
       "title": "ASAP Rocky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ASAP%20Rocky",
       "pubdate": "Wed, 19 Feb 2025 16:00:00 -0300"
-    },
-    {
-      "title": "Alexander Zverev",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alexander%20Zverev",
-      "pubdate": "Wed, 19 Feb 2025 00:00:00 -0300"
-    },
-    {
-      "title": "The Strongest",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#The%20Strongest",
-      "pubdate": "Wed, 19 Feb 2025 00:00:00 -0300"
-    },
-    {
-      "title": "Francisco Comesaña",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francisco%20Comesa%C3%B1a",
-      "pubdate": "Wed, 19 Feb 2025 21:00:00 -0300"
     }
   ]
 }
