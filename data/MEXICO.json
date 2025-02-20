@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 11:35:54",
+  "lastUpdate": "20-02-2025 , 12:58:33",
   "data": [
     {
       "title": "TUDN",
@@ -10,6 +10,11 @@
       "title": "Carlos Alcaraz",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Alcaraz",
       "pubdate": "Thu, 20 Feb 2025 00:00:00 -0600"
+    },
+    {
+      "title": "Culiacan",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Culiacan",
+      "pubdate": "Thu, 20 Feb 2025 03:00:00 -0600"
     },
     {
       "title": "Real Madrid  Manchester City",
@@ -32,8 +37,8 @@
       "pubdate": "Wed, 19 Feb 2025 14:00:00 -0600"
     },
     {
-      "title": "Aston Villa  Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Liverpool",
+      "title": "Aston Villa,  Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa,%20%20Liverpool",
       "pubdate": "Wed, 19 Feb 2025 13:00:00 -0600"
     },
     {
@@ -62,14 +67,9 @@
       "pubdate": "Wed, 19 Feb 2025 08:00:00 -0600"
     },
     {
-      "title": "Sismo Temblor hoy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sismo%20Temblor%20hoy",
+      "title": "Sismo temblor hoy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sismo%20temblor%20hoy",
       "pubdate": "Wed, 19 Feb 2025 13:00:00 -0600"
-    },
-    {
-      "title": "Resultados Liga MX",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Resultados%20Liga%20MX",
-      "pubdate": "Wed, 19 Feb 2025 11:00:00 -0600"
     },
     {
       "title": "Pago Pensión Bienestar adultos mayores",
@@ -80,6 +80,11 @@
       "title": "Lakers  Hornets",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers%20%20Hornets",
       "pubdate": "Wed, 19 Feb 2025 22:00:00 -0600"
+    },
+    {
+      "title": "Boca Juniors",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Boca%20Juniors",
+      "pubdate": "Wed, 19 Feb 2025 00:00:00 -0600"
     },
     {
       "title": "UV",
@@ -95,11 +100,6 @@
       "title": "Bloqueos hoy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bloqueos%20hoy",
       "pubdate": "Wed, 19 Feb 2025 17:00:00 -0600"
-    },
-    {
-      "title": "ASAP Rocky",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#ASAP%20Rocky",
-      "pubdate": "Wed, 19 Feb 2025 07:00:00 -0600"
     }
   ]
 }

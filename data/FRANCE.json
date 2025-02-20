@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "20-02-2025 , 11:35:51",
+  "lastUpdate": "20-02-2025 , 12:58:30",
   "data": [
     {
-      "title": "Apple",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apple",
-      "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
+      "title": "Juventus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juventus",
+      "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Roland Garros",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roland%20Garros",
+      "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Donald Trump",
@@ -17,9 +22,9 @@
       "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Roland Garros",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roland%20Garros",
-      "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+      "title": "PSG",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG",
+      "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
     },
     {
       "title": "Real Madrid – Manchester City",
@@ -27,14 +32,9 @@
       "pubdate": "Wed, 19 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "PSG",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG",
-      "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Jean Sarrus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean%20Sarrus",
-      "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
+      "title": "Real Madrid",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid",
+      "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
     },
     {
       "title": "iPhone 16e",
@@ -42,14 +42,19 @@
       "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
     },
     {
+      "title": "Jean Sarrus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean%20Sarrus",
+      "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "C8",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#C8",
       "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
     },
     {
-      "title": "Juventus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Juventus",
-      "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
+      "title": "Aston Villa – Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aston%20Villa%20%E2%80%93%20Liverpool",
+      "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
     },
     {
       "title": "Catherine Deneuve",
@@ -77,6 +82,11 @@
       "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
     },
     {
+      "title": "Marine Tondelier",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Tondelier",
+      "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
+    },
+    {
       "title": "Rihanna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rihanna",
       "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "Joel Le Scouarnec",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joel%20Le%20Scouarnec",
       "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "L'Attachement",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#L'Attachement",
-      "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
-    },
-    {
-      "title": "Benfica – Monaco",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benfica%20%E2%80%93%20Monaco",
-      "pubdate": "Tue, 18 Feb 2025 20:00:00 +0100"
     }
   ]
 }
