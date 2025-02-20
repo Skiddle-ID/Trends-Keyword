@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2025 , 23:35:30",
+  "lastUpdate": "20-02-2025 , 01:58:18",
   "data": [
     {
       "title": "Aston Villa vs Liverpool",
@@ -7,19 +7,14 @@
       "pubdate": "Thu, 20 Feb 2025 03:00:00 +0800"
     },
     {
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple",
+      "pubdate": "Thu, 20 Feb 2025 01:00:00 +0800"
+    },
+    {
       "title": "Real Madrid vs Man City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid%20vs%20Man%20City",
       "pubdate": "Thu, 20 Feb 2025 06:00:00 +0800"
-    },
-    {
-      "title": "iPhone 16e",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#iPhone%2016e",
-      "pubdate": "Thu, 20 Feb 2025 01:00:00 +0800"
-    },
-    {
-      "title": "Emma Raducanu",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emma%20Raducanu",
-      "pubdate": "Thu, 20 Feb 2025 01:00:00 +0800"
     },
     {
       "title": "Rekha Gupta",
@@ -27,8 +22,13 @@
       "pubdate": "Thu, 20 Feb 2025 02:00:00 +0800"
     },
     {
-      "title": "Champions Trophy",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20Trophy",
+      "title": "Emma Raducanu",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Emma%20Raducanu",
+      "pubdate": "Thu, 20 Feb 2025 01:00:00 +0800"
+    },
+    {
+      "title": "ICC Champions Trophy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ICC%20Champions%20Trophy",
       "pubdate": "Wed, 19 Feb 2025 18:00:00 +0800"
     },
     {
@@ -47,14 +47,14 @@
       "pubdate": "Wed, 19 Feb 2025 15:00:00 +0800"
     },
     {
+      "title": "Champions Trophy",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20Trophy",
+      "pubdate": "Wed, 19 Feb 2025 18:00:00 +0800"
+    },
+    {
       "title": "Pope Francis",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
       "pubdate": "Wed, 19 Feb 2025 19:00:00 +0800"
-    },
-    {
-      "title": "Kranji fire",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kranji%20fire",
-      "pubdate": "Wed, 19 Feb 2025 14:00:00 +0800"
     },
     {
       "title": "ASAP Rocky",
@@ -65,11 +65,6 @@
       "title": "Prata Wala",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prata%20Wala",
       "pubdate": "Wed, 19 Feb 2025 00:00:00 +0800"
-    },
-    {
-      "title": "AC Milan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AC%20Milan",
-      "pubdate": "Wed, 19 Feb 2025 09:00:00 +0800"
     },
     {
       "title": "Lentor Central Residences",
@@ -100,6 +95,11 @@
       "title": "Delta plane crash Toronto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Delta%20plane%20crash%20Toronto",
       "pubdate": "Tue, 18 Feb 2025 09:00:00 +0800"
+    },
+    {
+      "title": "Grok",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Grok",
+      "pubdate": "Tue, 18 Feb 2025 13:00:00 +0800"
     }
   ]
 }
