@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-02-2025 , 11:35:30",
+  "lastUpdate": "21-02-2025 , 12:57:27",
   "data": [
+    {
+      "title": "Champions League Auslosung",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League%20Auslosung",
+      "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+    },
     {
       "title": "Papst",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst",
@@ -12,14 +17,14 @@
       "pubdate": "Thu, 20 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "Heidenheim",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim",
-      "pubdate": "Thu, 20 Feb 2025 20:00:00 +0100"
-    },
-    {
       "title": "Streik",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Streik",
       "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
+    },
+    {
+      "title": "Mercedes-Benz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mercedes-Benz",
+      "pubdate": "Thu, 20 Feb 2025 12:00:00 +0100"
     },
     {
       "title": "Streik Freitag",
@@ -27,8 +32,13 @@
       "pubdate": "Thu, 20 Feb 2025 06:00:00 +0100"
     },
     {
-      "title": "Apple iPhone 16e",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20iPhone%2016e",
+      "title": "James Bond",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#James%20Bond",
+      "pubdate": "Thu, 20 Feb 2025 21:00:00 +0100"
+    },
+    {
+      "title": "Apple",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
       "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Sicherheitskonferenz München",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sicherheitskonferenz%20M%C3%BCnchen",
       "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
-    },
-    {
-      "title": "Trump putin",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20putin",
-      "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Bundestag",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
-      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
     }
   ]
 }
