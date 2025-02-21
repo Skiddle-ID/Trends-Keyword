@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "20-02-2025 , 23:35:28",
+  "lastUpdate": "21-02-2025 , 01:58:21",
   "data": [
+    {
+      "title": "Kash Patel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kash%20Patel",
+      "pubdate": "Fri, 21 Feb 2025 02:00:00 +0200"
+    },
+    {
+      "title": "James Norton",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#James%20Norton",
+      "pubdate": "Fri, 21 Feb 2025 00:00:00 +0200"
+    },
+    {
+      "title": "John Wayne",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#John%20Wayne",
+      "pubdate": "Thu, 20 Feb 2025 23:00:00 +0200"
+    },
     {
       "title": "Zero Day",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zero%20Day",
@@ -47,11 +62,6 @@
       "pubdate": "Wed, 19 Feb 2025 17:00:00 +0200"
     },
     {
-      "title": "Trump",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
-      "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
-    },
-    {
       "title": "Fox News",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fox%20News",
       "pubdate": "Wed, 19 Feb 2025 15:00:00 +0200"
@@ -67,8 +77,8 @@
       "pubdate": "Wed, 19 Feb 2025 16:00:00 +0200"
     },
     {
-      "title": "New York Times",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20Times",
+      "title": "New York times",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#New%20York%20times",
       "pubdate": "Wed, 19 Feb 2025 19:00:00 +0200"
     },
     {
@@ -90,16 +100,6 @@
       "title": "NHL",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL",
       "pubdate": "Tue, 18 Feb 2025 13:00:00 +0200"
-    },
-    {
-      "title": "Grok 3",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Grok%203",
-      "pubdate": "Tue, 18 Feb 2025 10:00:00 +0200"
-    },
-    {
-      "title": "Marco Rubio",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marco%20Rubio",
-      "pubdate": "Tue, 18 Feb 2025 21:00:00 +0200"
     }
   ]
 }
