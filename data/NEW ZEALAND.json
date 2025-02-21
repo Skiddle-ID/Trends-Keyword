@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "21-02-2025 , 03:40:50",
+  "lastUpdate": "21-02-2025 , 04:45:06",
   "data": [
+    {
+      "title": "Electric Avenue",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Electric%20Avenue",
+      "pubdate": "Fri, 21 Feb 2025 16:00:00 +1300"
+    },
     {
       "title": "Joseph Parker",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joseph%20Parker",
@@ -20,6 +25,11 @@
       "title": "Ryan Fox",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ryan%20Fox",
       "pubdate": "Fri, 21 Feb 2025 13:00:00 +1300"
+    },
+    {
+      "title": "Zero Day",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zero%20Day",
+      "pubdate": "Fri, 21 Feb 2025 16:00:00 +1300"
     },
     {
       "title": "Reacher Season 3",
@@ -42,11 +52,6 @@
       "pubdate": "Thu, 20 Feb 2025 22:00:00 +1300"
     },
     {
-      "title": "Real Madrid vs Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid%20vs%20Man%20City",
-      "pubdate": "Thu, 20 Feb 2025 10:00:00 +1300"
-    },
-    {
       "title": "Black Caps",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Caps",
       "pubdate": "Thu, 20 Feb 2025 07:00:00 +1300"
@@ -64,6 +69,11 @@
     {
       "title": "LaVar Ball",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LaVar%20Ball",
+      "pubdate": "Thu, 20 Feb 2025 13:00:00 +1300"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
       "pubdate": "Thu, 20 Feb 2025 13:00:00 +1300"
     },
     {
@@ -90,16 +100,6 @@
       "title": "Avowed",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Avowed",
       "pubdate": "Thu, 20 Feb 2025 07:00:00 +1300"
-    },
-    {
-      "title": "NZ Cricket",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Cricket",
-      "pubdate": "Thu, 20 Feb 2025 11:00:00 +1300"
-    },
-    {
-      "title": "OCR",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#OCR",
-      "pubdate": "Wed, 19 Feb 2025 12:00:00 +1300"
     }
   ]
 }

@@ -1,15 +1,10 @@
 {
-  "lastUpdate": "21-02-2025 , 03:40:50",
+  "lastUpdate": "21-02-2025 , 04:45:07",
   "data": [
     {
       "title": "Bodø/Glimt mot Twente",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20Twente",
       "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "Real Madrid",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
-      "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Shamrock Rovers",
@@ -20,11 +15,6 @@
       "title": "Manchester City",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
       "pubdate": "Thu, 20 Feb 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Ragnhild Femsteinevik",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ragnhild%20Femsteinevik",
-      "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
     },
     {
       "title": "Zero Day",
@@ -57,6 +47,11 @@
       "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
     },
     {
+      "title": "Femsteinevik",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Femsteinevik",
+      "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "Kash Patel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kash%20Patel",
       "pubdate": "Thu, 20 Feb 2025 22:00:00 +0100"
@@ -75,6 +70,11 @@
       "title": "Haaland",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Haaland",
       "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
+    },
+    {
+      "title": "City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
+      "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
     },
     {
       "title": "Bodø",
