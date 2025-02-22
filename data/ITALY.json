@@ -1,6 +1,21 @@
 {
-  "lastUpdate": "21-02-2025 , 23:35:28",
+  "lastUpdate": "22-02-2025 , 01:54:35",
   "data": [
+    {
+      "title": "Occhiuto",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Occhiuto",
+      "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Antonella Clerici",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonella%20Clerici",
+      "pubdate": "Sat, 22 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Gigi D'Alessio",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20D'Alessio",
+      "pubdate": "Sat, 22 Feb 2025 01:00:00 +0100"
+    },
     {
       "title": "Lecce-Udinese",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lecce-Udinese",
@@ -37,6 +52,11 @@
       "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
     },
     {
+      "title": "Nuovo virus Cina",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovo%20virus%20Cina",
+      "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
+    },
+    {
       "title": "Tesla",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tesla",
       "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
@@ -52,19 +72,14 @@
       "pubdate": "Fri, 21 Feb 2025 01:00:00 +0100"
     },
     {
-      "title": "Ignazio La Russa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ignazio%20La%20Russa",
-      "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Nuovo coronavirus dalla Cina",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovo%20coronavirus%20dalla%20Cina",
-      "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Staffordshire bull terrier",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Staffordshire%20bull%20terrier",
       "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "Ignazio La Russa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ignazio%20La%20Russa",
+      "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
     },
     {
       "title": "Il mio nome è vendetta",
@@ -77,16 +92,6 @@
       "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Iago Garcia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Iago%20Garcia",
-      "pubdate": "Fri, 21 Feb 2025 01:00:00 +0100"
-    },
-    {
-      "title": "Protoclone",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Protoclone",
-      "pubdate": "Fri, 21 Feb 2025 09:00:00 +0100"
-    },
-    {
       "title": "Trump Putin Ucraina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Trump%20Putin%20Ucraina",
       "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
@@ -95,11 +100,6 @@
       "title": "Berlino",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berlino",
       "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Lorenzo Pataro Poesia",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lorenzo%20Pataro%20Poesia",
-      "pubdate": "Fri, 21 Feb 2025 11:00:00 +0100"
     }
   ]
 }
