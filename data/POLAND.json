@@ -1,15 +1,25 @@
 {
-  "lastUpdate": "22-02-2025 , 11:35:25",
+  "lastUpdate": "22-02-2025 , 12:52:54",
   "data": [
+    {
+      "title": "Daniel Olbrychski",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Daniel%20Olbrychski",
+      "pubdate": "Sat, 22 Feb 2025 11:00:00 +0100"
+    },
+    {
+      "title": "Ruch Chorzów",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ruch%20Chorz%C3%B3w",
+      "pubdate": "Sat, 22 Feb 2025 13:00:00 +0100"
+    },
+    {
+      "title": "Michalina Wisłocka",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michalina%20Wis%C5%82ocka",
+      "pubdate": "Sat, 22 Feb 2025 10:00:00 +0100"
+    },
     {
       "title": "Dunkierka",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dunkierka",
       "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
-    },
-    {
-      "title": "Al-Nassr",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Al-Nassr",
-      "pubdate": "Sat, 22 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Robert Karaś",
@@ -17,9 +27,9 @@
       "pubdate": "Sat, 22 Feb 2025 11:00:00 +0100"
     },
     {
-      "title": "Henry Cavill",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
-      "pubdate": "Sat, 22 Feb 2025 01:00:00 +0100"
+      "title": "Al-Nassr",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Al-Nassr",
+      "pubdate": "Sat, 22 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Agnieszka Włodarczyk",
@@ -27,9 +37,24 @@
       "pubdate": "Sat, 22 Feb 2025 11:00:00 +0100"
     },
     {
+      "title": "Clara Tauson",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Clara%20Tauson",
+      "pubdate": "Sat, 22 Feb 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Henry Cavill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
+      "pubdate": "Sat, 22 Feb 2025 01:00:00 +0100"
+    },
+    {
       "title": "Delta Force",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Delta%20Force",
       "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
+    },
+    {
+      "title": "Duda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Duda",
+      "pubdate": "Sat, 22 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Raków Częstochowa – Górnik Zabrze",
@@ -75,31 +100,6 @@
       "title": "Polonia – Górnik Łęczna",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polonia%20%E2%80%93%20G%C3%B3rnik%20%C5%81%C4%99czna",
       "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Madonna",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Madonna",
-      "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Podatek katastralny",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Podatek%20katastralny",
-      "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "Stal – Kotwica",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20%E2%80%93%20Kotwica",
-      "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Marcin Korcz",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20Korcz",
-      "pubdate": "Fri, 21 Feb 2025 10:00:00 +0100"
-    },
-    {
-      "title": "Clara Tauson",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Clara%20Tauson",
-      "pubdate": "Fri, 21 Feb 2025 23:00:00 +0100"
     }
   ]
 }

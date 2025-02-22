@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "22-02-2025 , 11:35:19",
+  "lastUpdate": "22-02-2025 , 12:52:48",
   "data": [
     {
       "title": "Bonnie Blue",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bonnie%20Blue",
       "pubdate": "Sat, 22 Feb 2025 08:00:00 +0100"
+    },
+    {
+      "title": "Everton  Man utd",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Everton%20%20Man%20utd",
+      "pubdate": "Sat, 22 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Hunter Schafer",
@@ -25,11 +30,6 @@
       "title": "Leicester  Brentford",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leicester%20%20Brentford",
       "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
-    },
-    {
-      "title": "Dean Lewis",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dean%20Lewis",
-      "pubdate": "Fri, 21 Feb 2025 10:00:00 +0100"
     },
     {
       "title": "UEFA",
@@ -82,11 +82,6 @@
       "pubdate": "Fri, 21 Feb 2025 23:00:00 +0100"
     },
     {
-      "title": "New York post",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20post",
-      "pubdate": "Fri, 21 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Steve Bannon",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Steve%20Bannon",
       "pubdate": "Fri, 21 Feb 2025 18:00:00 +0100"
@@ -100,6 +95,11 @@
       "title": "OB",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OB",
       "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
+    },
+    {
+      "title": "MAX HBO",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MAX%20HBO",
+      "pubdate": "Fri, 21 Feb 2025 16:00:00 +0100"
     }
   ]
 }
