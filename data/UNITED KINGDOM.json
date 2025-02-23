@@ -1,10 +1,15 @@
 {
-  "lastUpdate": "23-02-2025 , 11:36:13",
+  "lastUpdate": "23-02-2025 , 12:54:21",
   "data": [
     {
       "title": "Pakistan vs India",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pakistan%20vs%20India",
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +0000"
+    },
+    {
+      "title": "German elections",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#German%20elections",
+      "pubdate": "Sun, 23 Feb 2025 11:00:00 +0000"
     },
     {
       "title": "Everton vs Man United",
@@ -57,19 +62,19 @@
       "pubdate": "Sat, 22 Feb 2025 15:00:00 +0000"
     },
     {
-      "title": "Las Palmas vs Barcelona",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Las%20Palmas%20vs%20Barcelona",
-      "pubdate": "Sat, 22 Feb 2025 21:00:00 +0000"
-    },
-    {
-      "title": "P&O Cruises norovirus",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#P%26O%20Cruises%20norovirus",
+      "title": "P&O cruises norovirus",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#P%26O%20cruises%20norovirus",
       "pubdate": "Sat, 22 Feb 2025 11:00:00 +0000"
     },
     {
       "title": "Rangers",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rangers",
       "pubdate": "Sat, 22 Feb 2025 17:00:00 +0000"
+    },
+    {
+      "title": "Rugby",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rugby",
+      "pubdate": "Sat, 22 Feb 2025 11:00:00 +0000"
     },
     {
       "title": "Joseph Parker",
@@ -95,11 +100,6 @@
       "title": "Shakur Stevenson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Shakur%20Stevenson",
       "pubdate": "Sat, 22 Feb 2025 22:00:00 +0000"
-    },
-    {
-      "title": "Perrie Edwards",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Perrie%20Edwards",
-      "pubdate": "Sat, 22 Feb 2025 20:00:00 +0000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 11:36:03",
+  "lastUpdate": "23-02-2025 , 12:54:12",
   "data": [
     {
       "title": "Lakers",
@@ -22,11 +22,6 @@
       "pubdate": "Sun, 23 Feb 2025 00:00:00 -0300"
     },
     {
-      "title": "Enzo Pérez",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Enzo%20P%C3%A9rez",
-      "pubdate": "Sun, 23 Feb 2025 00:00:00 -0300"
-    },
-    {
       "title": "Atlanta",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atlanta",
       "pubdate": "Sun, 23 Feb 2025 02:00:00 -0300"
@@ -39,7 +34,7 @@
     {
       "title": "Independiente  Instituto",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20%20Instituto",
-      "pubdate": "Sat, 22 Feb 2025 17:00:00 -0300"
+      "pubdate": "Sat, 22 Feb 2025 18:00:00 -0300"
     },
     {
       "title": "Inter Miami  NYC FC",
@@ -67,8 +62,8 @@
       "pubdate": "Sat, 22 Feb 2025 19:00:00 -0300"
     },
     {
-      "title": "Everton - Manchester United",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20-%20Manchester%20United",
+      "title": "Everton Manchester United",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20Manchester%20United",
       "pubdate": "Sat, 22 Feb 2025 10:00:00 -0300"
     },
     {
@@ -77,8 +72,8 @@
       "pubdate": "Sat, 22 Feb 2025 00:00:00 -0300"
     },
     {
-      "title": "Inter-Genoa",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter-Genoa",
+      "title": "Inter  Genoa",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter%20%20Genoa",
       "pubdate": "Sat, 22 Feb 2025 18:00:00 -0300"
     },
     {
@@ -100,6 +95,11 @@
       "title": "Chile  Argentina",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile%20%20Argentina",
       "pubdate": "Sat, 22 Feb 2025 19:00:00 -0300"
+    },
+    {
+      "title": "Bivol vs Beterbiev 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bivol%20vs%20Beterbiev%202",
+      "pubdate": "Sat, 22 Feb 2025 21:00:00 -0300"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 11:36:04",
+  "lastUpdate": "23-02-2025 , 12:54:12",
   "data": [
     {
       "title": "Nadine Beiler",
@@ -7,9 +7,9 @@
       "pubdate": "Sun, 23 Feb 2025 07:00:00 +0100"
     },
     {
-      "title": "Rainhard Fendrich",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rainhard%20Fendrich",
-      "pubdate": "Sun, 23 Feb 2025 08:00:00 +0100"
+      "title": "Silvia Schneider",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvia%20Schneider",
+      "pubdate": "Sun, 23 Feb 2025 10:00:00 +0100"
     },
     {
       "title": "NHL",
@@ -22,6 +22,11 @@
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
     },
     {
+      "title": "Olaf Scholz",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olaf%20Scholz",
+      "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
+    },
+    {
       "title": "Einsiedeln",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Einsiedeln",
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
@@ -32,14 +37,14 @@
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
     },
     {
-      "title": "Mulhouse",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mulhouse",
-      "pubdate": "Sun, 23 Feb 2025 01:00:00 +0100"
+      "title": "Chelsea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
+      "pubdate": "Sun, 23 Feb 2025 00:00:00 +0100"
     },
     {
-      "title": "Austria – rb Salzburg",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20%E2%80%93%20rb%20Salzburg",
-      "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+      "title": "Frankreich",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frankreich",
+      "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
     },
     {
       "title": "Deutschland Wahlen",
@@ -47,13 +52,18 @@
       "pubdate": "Sat, 22 Feb 2025 07:00:00 +0100"
     },
     {
+      "title": "Austria – rb Salzburg",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20%E2%80%93%20rb%20Salzburg",
+      "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+    },
+    {
       "title": "Vatikan Papst Franziskus",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vatikan%20Papst%20Franziskus",
       "pubdate": "Sat, 22 Feb 2025 08:00:00 +0100"
     },
     {
-      "title": "ÖVP, SPÖ Neos Koalition",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96VP,%20SP%C3%96%20Neos%20Koalition",
+      "title": "ÖVP, SPÖ NEOS Koalition",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96VP,%20SP%C3%96%20NEOS%20Koalition",
       "pubdate": "Sat, 22 Feb 2025 08:00:00 +0100"
     },
     {
@@ -67,19 +77,14 @@
       "pubdate": "Sat, 22 Feb 2025 21:00:00 +0100"
     },
     {
-      "title": "Crans-Montana",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Crans-Montana",
+      "title": "Crans Montana",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Crans%20Montana",
       "pubdate": "Sat, 22 Feb 2025 09:00:00 +0100"
     },
     {
       "title": "Agit Kabayel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Agit%20Kabayel",
       "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
-    },
-    {
-      "title": "GAK",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
-      "pubdate": "Sat, 22 Feb 2025 19:00:00 +0100"
     },
     {
       "title": "Schallenberg",
@@ -95,11 +100,6 @@
       "title": "Rottweiler",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rottweiler",
       "pubdate": "Sat, 22 Feb 2025 15:00:00 +0100"
-    },
-    {
-      "title": "Tal Shoham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tal%20Shoham",
-      "pubdate": "Sat, 22 Feb 2025 12:00:00 +0100"
     }
   ]
 }

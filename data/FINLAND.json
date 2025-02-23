@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 11:36:06",
+  "lastUpdate": "23-02-2025 , 12:54:14",
   "data": [
     {
       "title": "Las Palmas – Barcelona",
@@ -7,9 +7,19 @@
       "pubdate": "Sun, 23 Feb 2025 00:00:00 +0200"
     },
     {
+      "title": "Figaro",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Figaro",
+      "pubdate": "Sun, 23 Feb 2025 00:00:00 +0200"
+    },
+    {
       "title": "Hugo",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugo",
       "pubdate": "Sat, 22 Feb 2025 20:00:00 +0200"
+    },
+    {
+      "title": "Tempera",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tempera",
+      "pubdate": "Sat, 22 Feb 2025 09:00:00 +0200"
     },
     {
       "title": "Patagonia",
@@ -32,19 +42,24 @@
       "pubdate": "Sat, 22 Feb 2025 11:00:00 +0200"
     },
     {
-      "title": "Arsenal – West Ham",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20West%20Ham",
-      "pubdate": "Sat, 22 Feb 2025 19:00:00 +0200"
-    },
-    {
       "title": "Hunter Schafer",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hunter%20Schafer",
       "pubdate": "Sat, 22 Feb 2025 18:00:00 +0200"
     },
     {
+      "title": "Arsenal – West Ham",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20West%20Ham",
+      "pubdate": "Sat, 22 Feb 2025 19:00:00 +0200"
+    },
+    {
       "title": "Aston Villa – Chelsea",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aston%20Villa%20%E2%80%93%20Chelsea",
       "pubdate": "Sat, 22 Feb 2025 22:00:00 +0200"
+    },
+    {
+      "title": "James Bond",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#James%20Bond",
+      "pubdate": "Sat, 22 Feb 2025 17:00:00 +0200"
     },
     {
       "title": "Leicester City – Brentford",
@@ -67,11 +82,6 @@
       "pubdate": "Fri, 21 Feb 2025 15:00:00 +0200"
     },
     {
-      "title": "Bond",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bond",
-      "pubdate": "Fri, 21 Feb 2025 18:00:00 +0200"
-    },
-    {
       "title": "Kash Patel",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kash%20Patel",
       "pubdate": "Fri, 21 Feb 2025 02:00:00 +0200"
@@ -82,11 +92,6 @@
       "pubdate": "Fri, 21 Feb 2025 09:00:00 +0200"
     },
     {
-      "title": "Sidney Crosby",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sidney%20Crosby",
-      "pubdate": "Fri, 21 Feb 2025 17:00:00 +0200"
-    },
-    {
       "title": "Theo James",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Theo%20James",
       "pubdate": "Fri, 21 Feb 2025 04:00:00 +0200"
@@ -95,11 +100,6 @@
       "title": "Benton",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Benton",
       "pubdate": "Fri, 21 Feb 2025 23:00:00 +0200"
-    },
-    {
-      "title": "Severance",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Severance",
-      "pubdate": "Fri, 21 Feb 2025 17:00:00 +0200"
     }
   ]
 }
