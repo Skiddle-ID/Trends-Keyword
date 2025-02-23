@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 09:37:02",
+  "lastUpdate": "23-02-2025 , 10:38:16",
   "data": [
     {
       "title": "Jamal Ben Saddik",
@@ -22,14 +22,9 @@
       "pubdate": "Sat, 22 Feb 2025 22:00:00 +0100"
     },
     {
-      "title": "Glory",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Glory",
-      "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-    },
-    {
-      "title": "Spoorloos",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spoorloos",
-      "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
+      "title": "AfD",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AfD",
+      "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
     },
     {
       "title": "FC Twente",
@@ -100,6 +95,11 @@
       "title": "Feyenoord",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
       "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
+    },
+    {
+      "title": "Bosschaart",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bosschaart",
+      "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
     }
   ]
 }
