@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2025 , 23:35:37",
+  "lastUpdate": "23-02-2025 , 02:08:42",
   "data": [
     {
       "title": "Six Nations",
@@ -7,9 +7,14 @@
       "pubdate": "Sun, 23 Feb 2025 07:00:00 +1300"
     },
     {
-      "title": "Boxing",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Boxing",
+      "title": "Bivol vs Beterbiev 2",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bivol%20vs%20Beterbiev%202",
       "pubdate": "Sun, 23 Feb 2025 10:00:00 +1300"
+    },
+    {
+      "title": "Pope Francis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pope%20Francis",
+      "pubdate": "Sun, 23 Feb 2025 12:00:00 +1300"
     },
     {
       "title": "Everton vs Man United",
@@ -32,9 +37,24 @@
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +1300"
     },
     {
+      "title": "Las Palmas vs Barcelona",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Las%20Palmas%20vs%20Barcelona",
+      "pubdate": "Sun, 23 Feb 2025 12:00:00 +1300"
+    },
+    {
+      "title": "Chinese warships Tasman Sea",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chinese%20warships%20Tasman%20Sea",
+      "pubdate": "Sun, 23 Feb 2025 14:00:00 +1300"
+    },
+    {
       "title": "Auckland FC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
       "pubdate": "Sat, 22 Feb 2025 17:00:00 +1300"
+    },
+    {
+      "title": "Joseph Parker",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joseph%20Parker",
+      "pubdate": "Sat, 22 Feb 2025 21:00:00 +1300"
     },
     {
       "title": "Highlanders vs Blues",
@@ -50,11 +70,6 @@
       "title": "Hurricanes vs Fijian Drua",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hurricanes%20vs%20Fijian%20Drua",
       "pubdate": "Sat, 22 Feb 2025 17:00:00 +1300"
-    },
-    {
-      "title": "Connor Garden-Bachop",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Connor%20Garden-Bachop",
-      "pubdate": "Sat, 22 Feb 2025 20:00:00 +1300"
     },
     {
       "title": "Severance",
@@ -85,21 +100,6 @@
       "title": "Sky",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sky",
       "pubdate": "Sat, 22 Feb 2025 19:00:00 +1300"
-    },
-    {
-      "title": "Vancouver Sevens",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vancouver%20Sevens",
-      "pubdate": "Sat, 22 Feb 2025 20:00:00 +1300"
-    },
-    {
-      "title": "Masterton church fires",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masterton%20church%20fires",
-      "pubdate": "Sat, 22 Feb 2025 21:00:00 +1300"
-    },
-    {
-      "title": "Chiefs vs Crusaders",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20vs%20Crusaders",
-      "pubdate": "Fri, 21 Feb 2025 15:00:00 +1300"
     }
   ]
 }
