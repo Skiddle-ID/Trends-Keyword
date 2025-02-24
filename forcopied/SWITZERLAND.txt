@@ -1,1 +1,1 @@
-Sporting,EHC Olten,Joël Le Scouarnec,Bild.de,Welt,Lars Klingbeil,Baerbock,USAID,Die Linke,Sestriere,YB,Alice Weidel,SSW,Vatikan Papst Franziskus,ARD,Man City – Liverpool,ZDF,Real Madrid,Luzern – FC Sion,Bayern – Eintracht Frankfurt
+Sporting,EHC Olten,Joël Le Scouarnec,Bild.de,USAID,Lars Klingbeil,Baerbock,Grossbrand Leukerbad,Jesus Guerrero,SPD,Sestriere,YB,SSW,Alice Weidel,Vatikan Papst Franziskus,Man City – Liverpool,ARD,Grüne,Real Madrid,Luzern – FC Sion

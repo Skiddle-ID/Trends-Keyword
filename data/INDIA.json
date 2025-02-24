@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 11:35:51",
+  "lastUpdate": "24-02-2025 , 12:59:18",
   "data": [
     {
       "title": "Real Madrid",
@@ -7,14 +7,14 @@
       "pubdate": "Mon, 24 Feb 2025 06:30:00 +0530"
     },
     {
-      "title": "Man City",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
-      "pubdate": "Mon, 24 Feb 2025 02:30:00 +0530"
-    },
-    {
       "title": "PM Kisan 19th installment date",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PM%20Kisan%2019th%20installment%20date",
       "pubdate": "Mon, 24 Feb 2025 10:30:00 +0530"
+    },
+    {
+      "title": "Man City",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+      "pubdate": "Mon, 24 Feb 2025 02:30:00 +0530"
     },
     {
       "title": "Mahashivratri",
@@ -22,24 +22,29 @@
       "pubdate": "Mon, 24 Feb 2025 12:30:00 +0530"
     },
     {
+      "title": "Prajakta Koli",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prajakta%20Koli",
+      "pubdate": "Mon, 24 Feb 2025 13:30:00 +0530"
+    },
+    {
       "title": "Mohun Bagan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohun%20Bagan",
       "pubdate": "Mon, 24 Feb 2025 08:30:00 +0530"
     },
     {
+      "title": "Cricket",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+      "pubdate": "Sun, 23 Feb 2025 13:30:00 +0530"
+    },
+    {
       "title": "ICC Champions Trophy",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC%20Champions%20Trophy",
-      "pubdate": "Sun, 23 Feb 2025 13:30:00 +0530"
+      "pubdate": "Sun, 23 Feb 2025 15:30:00 +0530"
     },
     {
       "title": "Bangladesh vs New Zealand",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bangladesh%20vs%20New%20Zealand",
       "pubdate": "Sun, 23 Feb 2025 17:30:00 +0530"
-    },
-    {
-      "title": "Abrar Ahmed",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Abrar%20Ahmed",
-      "pubdate": "Sun, 23 Feb 2025 14:30:00 +0530"
     },
     {
       "title": "Sports",
@@ -52,14 +57,9 @@
       "pubdate": "Sun, 23 Feb 2025 13:30:00 +0530"
     },
     {
-      "title": "Mohammad Rizwan",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammad%20Rizwan",
-      "pubdate": "Sun, 23 Feb 2025 08:30:00 +0530"
-    },
-    {
-      "title": "Kuldeep Yadav",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kuldeep%20Yadav",
-      "pubdate": "Sun, 23 Feb 2025 15:30:00 +0530"
+      "title": "Shubman Gill",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shubman%20Gill",
+      "pubdate": "Sun, 23 Feb 2025 17:30:00 +0530"
     },
     {
       "title": "Pope Francis",
@@ -70,11 +70,6 @@
       "title": "German elections",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#German%20elections",
       "pubdate": "Sun, 23 Feb 2025 21:30:00 +0530"
-    },
-    {
-      "title": "Jasprit Bumrah",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jasprit%20Bumrah",
-      "pubdate": "Sun, 23 Feb 2025 17:30:00 +0530"
     },
     {
       "title": "Mahesh Babu",
@@ -94,12 +89,17 @@
     {
       "title": "IND vs PAK",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20PAK",
-      "pubdate": "Sat, 22 Feb 2025 16:30:00 +0530"
+      "pubdate": "Sat, 22 Feb 2025 18:30:00 +0530"
     },
     {
       "title": "Pakistan vs India",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pakistan%20vs%20India",
       "pubdate": "Sat, 22 Feb 2025 16:30:00 +0530"
+    },
+    {
+      "title": "Pak vs IND",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pak%20vs%20IND",
+      "pubdate": "Sat, 22 Feb 2025 15:30:00 +0530"
     }
   ]
 }

@@ -1,1 +1,1 @@
-Faschingsdienstag,KTM,Bob Dylan,Bayern – Eintracht Frankfurt,Sturm Graz – Blau-Weiß Linz,Sestriere,SSW,Real Madrid – Girona,Nadine Beiler,Man City – Liverpool,Die Linke,ARD,ZDF,Alice Weidel,Papst Franziskus,CDU,Sahra Wagenknecht,LASK,Silvia Schneider,Grüne
+KTM,Faschingsdienstag,Bob Dylan,Deutschlandwahl,Bayern – Eintracht Frankfurt,Sturm Graz – Blau-Weiß Linz,SSW,Sestriere,Die Linke,Nadine Beiler,Papst Franziskus,Man City – Liverpool,ZDF,ARD,Alice Weidel,Grüne,Sahra Wagenknecht,LASK,Silvia Schneider,Olaf Scholz
