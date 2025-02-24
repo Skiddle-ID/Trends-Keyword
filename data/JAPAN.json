@@ -1,6 +1,11 @@
 {
-  "lastUpdate": "23-02-2025 , 23:35:34",
+  "lastUpdate": "24-02-2025 , 02:05:33",
   "data": [
+    {
+      "title": "地震",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9C%B0%E9%9C%87",
+      "pubdate": "Mon, 24 Feb 2025 05:00:00 +0900"
+    },
     {
       "title": "住宅ローン金利",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%BD%8F%E5%AE%85%E3%83%AD%E3%83%BC%E3%83%B3%E9%87%91%E5%88%A9",
@@ -15,6 +20,11 @@
       "title": "天皇陛下誕生日一般参賀",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A9%E7%9A%87%E9%99%9B%E4%B8%8B%E8%AA%95%E7%94%9F%E6%97%A5%E4%B8%80%E8%88%AC%E5%8F%82%E8%B3%80",
       "pubdate": "Sun, 23 Feb 2025 09:00:00 +0900"
+    },
+    {
+      "title": "姫路城マラソン",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A7%AB%E8%B7%AF%E5%9F%8E%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3",
+      "pubdate": "Sun, 23 Feb 2025 11:00:00 +0900"
     },
     {
       "title": "U20アジアカップ",
@@ -35,6 +45,11 @@
       "title": "佐々木朗希 結婚相手",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%BD%90%E3%80%85%E6%9C%A8%E6%9C%97%E5%B8%8C%20%E7%B5%90%E5%A9%9A%E7%9B%B8%E6%89%8B",
       "pubdate": "Sat, 22 Feb 2025 08:00:00 +0900"
+    },
+    {
+      "title": "大阪マラソン",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E9%98%AA%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3",
+      "pubdate": "Sat, 22 Feb 2025 16:00:00 +0900"
     },
     {
       "title": "サウジカップ",
@@ -85,21 +100,6 @@
       "title": "都立高校入試",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%83%BD%E7%AB%8B%E9%AB%98%E6%A0%A1%E5%85%A5%E8%A9%A6",
       "pubdate": "Fri, 21 Feb 2025 21:00:00 +0900"
-    },
-    {
-      "title": "Ado",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Ado",
-      "pubdate": "Fri, 21 Feb 2025 17:00:00 +0900"
-    },
-    {
-      "title": "地震速報",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1",
-      "pubdate": "Thu, 20 Feb 2025 23:00:00 +0900"
-    },
-    {
-      "title": "肺高血圧症",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%82%BA%E9%AB%98%E8%A1%80%E5%9C%A7%E7%97%87",
-      "pubdate": "Thu, 20 Feb 2025 01:00:00 +0900"
     }
   ]
 }

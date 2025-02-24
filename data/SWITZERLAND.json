@@ -1,6 +1,16 @@
 {
-  "lastUpdate": "23-02-2025 , 23:35:37",
+  "lastUpdate": "24-02-2025 , 02:05:36",
   "data": [
+    {
+      "title": "EHC Olten",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Olten",
+      "pubdate": "Mon, 24 Feb 2025 01:00:00 +0100"
+    },
+    {
+      "title": "Queen",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Queen",
+      "pubdate": "Mon, 24 Feb 2025 00:00:00 +0100"
+    },
     {
       "title": "Real Madrid – Girona",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20%E2%80%93%20Girona",
@@ -22,13 +32,18 @@
       "pubdate": "Sun, 23 Feb 2025 12:00:00 +0100"
     },
     {
-      "title": "Alice Weidel",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20Weidel",
-      "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
+      "title": "Christian Lindner",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20Lindner",
+      "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
     },
     {
-      "title": "Die Linke",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Die%20Linke",
+      "title": "Alice Weidel",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20Weidel",
+      "pubdate": "Sun, 23 Feb 2025 23:00:00 +0100"
+    },
+    {
+      "title": "Man City – Liverpool",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20%E2%80%93%20Liverpool",
       "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
     },
     {
@@ -37,24 +52,14 @@
       "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
     },
     {
-      "title": "Man City – Liverpool",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20%E2%80%93%20Liverpool",
-      "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
-    },
-    {
-      "title": "ZDF",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZDF",
-      "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "Christian Lindner",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christian%20Lindner",
-      "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
-    },
-    {
       "title": "Luzern – FC Sion",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luzern%20%E2%80%93%20FC%20Sion",
       "pubdate": "Sun, 23 Feb 2025 14:00:00 +0100"
+    },
+    {
+      "title": "Die Linke",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Die%20Linke",
+      "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
     },
     {
       "title": "Grüne",
@@ -77,6 +82,11 @@
       "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
     },
     {
+      "title": "SSW Partei",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SSW%20Partei",
+      "pubdate": "Sun, 23 Feb 2025 21:00:00 +0100"
+    },
+    {
       "title": "Servette – Winterthur",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20%E2%80%93%20Winterthur",
       "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
@@ -90,16 +100,6 @@
       "title": "ZSC",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC",
       "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
-    },
-    {
-      "title": "Arsenal",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
-      "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
-    },
-    {
-      "title": "SPIEGEL",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SPIEGEL",
-      "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
     }
   ]
 }
