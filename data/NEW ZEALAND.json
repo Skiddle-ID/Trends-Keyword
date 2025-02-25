@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 23:35:21",
+  "lastUpdate": "25-02-2025 , 02:04:48",
   "data": [
     {
       "title": "Roberta Flack",
@@ -10,11 +10,6 @@
       "title": "Jenny",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jenny",
       "pubdate": "Tue, 25 Feb 2025 09:00:00 +1300"
-    },
-    {
-      "title": "Mortar",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortar",
-      "pubdate": "Tue, 25 Feb 2025 10:00:00 +1300"
     },
     {
       "title": "Kevin Braswell",
@@ -52,19 +47,9 @@
       "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
     },
     {
-      "title": "ASB mortgage rates",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ASB%20mortgage%20rates",
-      "pubdate": "Mon, 24 Feb 2025 14:00:00 +1300"
-    },
-    {
       "title": "Dai Henwood",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dai%20Henwood",
       "pubdate": "Mon, 24 Feb 2025 23:00:00 +1300"
-    },
-    {
-      "title": "SAG Awards 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SAG%20Awards%202025",
-      "pubdate": "Mon, 24 Feb 2025 21:00:00 +1300"
     },
     {
       "title": "Real Madrid",
@@ -77,19 +62,24 @@
       "pubdate": "Mon, 24 Feb 2025 17:00:00 +1300"
     },
     {
+      "title": "SAG Awards 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#SAG%20Awards%202025",
+      "pubdate": "Mon, 24 Feb 2025 21:00:00 +1300"
+    },
+    {
       "title": "Norovirus outbreak P&O cruise ship",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Norovirus%20outbreak%20P%26O%20cruise%20ship",
       "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
     },
     {
+      "title": "Mortgage rates NZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mortgage%20rates%20NZ",
+      "pubdate": "Mon, 24 Feb 2025 20:00:00 +1300"
+    },
+    {
       "title": "Scarf",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scarf",
       "pubdate": "Mon, 24 Feb 2025 18:00:00 +1300"
-    },
-    {
-      "title": "Six Nations 2025",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Six%20Nations%202025",
-      "pubdate": "Mon, 24 Feb 2025 01:00:00 +1300"
     },
     {
       "title": "Die Linke",
@@ -100,6 +90,16 @@
       "title": "India vs Pakistan",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Pakistan",
       "pubdate": "Sun, 23 Feb 2025 21:00:00 +1300"
+    },
+    {
+      "title": "Pakistan vs India",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakistan%20vs%20India",
+      "pubdate": "Sun, 23 Feb 2025 22:00:00 +1300"
+    },
+    {
+      "title": "Pope Francis",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pope%20Francis",
+      "pubdate": "Sun, 23 Feb 2025 12:00:00 +1300"
     }
   ]
 }

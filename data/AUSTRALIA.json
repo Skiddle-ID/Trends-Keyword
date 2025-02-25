@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 23:35:14",
+  "lastUpdate": "25-02-2025 , 02:04:42",
   "data": [
     {
       "title": "Roberta Flack",
@@ -7,14 +7,24 @@
       "pubdate": "Tue, 25 Feb 2025 07:00:00 +1100"
     },
     {
+      "title": "Hudson Young",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hudson%20Young",
+      "pubdate": "Tue, 25 Feb 2025 10:00:00 +1100"
+    },
+    {
+      "title": "Oscars 2025",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oscars%202025",
+      "pubdate": "Tue, 25 Feb 2025 11:00:00 +1100"
+    },
+    {
+      "title": "Tarryn Thomas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tarryn%20Thomas",
+      "pubdate": "Tue, 25 Feb 2025 09:00:00 +1100"
+    },
+    {
       "title": "Man City vs Liverpool",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Liverpool",
       "pubdate": "Mon, 24 Feb 2025 04:00:00 +1100"
-    },
-    {
-      "title": "Matildas",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
-      "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
     },
     {
       "title": "SAG Awards 2025",
@@ -27,9 +37,14 @@
       "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
     },
     {
-      "title": "Billie Eilish Sydney",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billie%20Eilish%20Sydney",
-      "pubdate": "Mon, 24 Feb 2025 16:00:00 +1100"
+      "title": "Matildas",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas",
+      "pubdate": "Mon, 24 Feb 2025 10:00:00 +1100"
+    },
+    {
+      "title": "Matildas vs USA",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matildas%20vs%20USA",
+      "pubdate": "Mon, 24 Feb 2025 11:00:00 +1100"
     },
     {
       "title": "Real Madrid",
@@ -42,9 +57,19 @@
       "pubdate": "Mon, 24 Feb 2025 22:00:00 +1100"
     },
     {
+      "title": "BAN vs NZ",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BAN%20vs%20NZ",
+      "pubdate": "Mon, 24 Feb 2025 23:00:00 +1100"
+    },
+    {
       "title": "Bruce Lehrmann",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Lehrmann",
       "pubdate": "Mon, 24 Feb 2025 14:00:00 +1100"
+    },
+    {
+      "title": "Dan Bongino",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dan%20Bongino",
+      "pubdate": "Mon, 24 Feb 2025 16:00:00 +1100"
     },
     {
       "title": "Virat Kohli",
@@ -52,9 +77,9 @@
       "pubdate": "Mon, 24 Feb 2025 05:00:00 +1100"
     },
     {
-      "title": "Dan Bongino",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dan%20Bongino",
-      "pubdate": "Mon, 24 Feb 2025 16:00:00 +1100"
+      "title": "Jane Fonda",
+      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jane%20Fonda",
+      "pubdate": "Mon, 24 Feb 2025 19:00:00 +1100"
     },
     {
       "title": "Scarf",
@@ -67,39 +92,14 @@
       "pubdate": "Mon, 24 Feb 2025 13:00:00 +1100"
     },
     {
-      "title": "Jane Fonda",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jane%20Fonda",
-      "pubdate": "Mon, 24 Feb 2025 19:00:00 +1100"
-    },
-    {
-      "title": "Ban vs NZ",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ban%20vs%20NZ",
-      "pubdate": "Mon, 24 Feb 2025 23:00:00 +1100"
-    },
-    {
       "title": "Qantas sale",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Qantas%20sale",
       "pubdate": "Mon, 24 Feb 2025 16:00:00 +1100"
     },
     {
-      "title": "Taran Armstrong",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taran%20Armstrong",
-      "pubdate": "Mon, 24 Feb 2025 14:00:00 +1100"
-    },
-    {
       "title": "Pamela Anderson",
       "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pamela%20Anderson",
       "pubdate": "Mon, 24 Feb 2025 22:00:00 +1100"
-    },
-    {
-      "title": "GTA 6",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GTA%206",
-      "pubdate": "Mon, 24 Feb 2025 18:00:00 +1100"
-    },
-    {
-      "title": "Cook Islands",
-      "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cook%20Islands",
-      "pubdate": "Mon, 24 Feb 2025 08:00:00 +1100"
     }
   ]
 }
