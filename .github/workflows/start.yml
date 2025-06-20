@@ -1,6 +1,3 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
 name: Google Trending Data Scraper
 
 on:
@@ -10,17 +7,16 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron:  '30 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   cron:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
         node-version: [14.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
     defaults:
       run:
         shell: bash
@@ -28,14 +24,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
+
     - run: rm -rf ./data
     - run: mkdir data
     - run: npm install --if-present
     - run: npm start
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "skiddle-bot"
@@ -44,3 +43,53 @@ jobs:
         timestamp=$(date '+%F %H:%M:%S %Z')
         git commit -m "Update Data ${timestamp}" || exit 0
         git push
+
+    - name: Notify via Discord (Success)
+      if: success()
+      run: |
+        TIME=$(date +"%Y-%m-%d %H:%M:%S")
+        curl -H "Content-Type: application/json" \
+        -X POST -d "$(jq -n --arg repo "${{ github.repository }}" \
+                           --arg branch "${{ github.ref_name }}" \
+                           --arg workflow "${{ github.workflow }}" \
+                           --arg time "$TIME" \
+                           '{
+          "embeds": [{
+            "title": "✅ Google Trends Scrape Successful",
+            "description": "Trending data was scraped and committed successfully.",
+            "color": 3426654,
+            "fields": [
+              {"name": "Repository", "value": $repo, "inline": true},
+              {"name": "Branch", "value": $branch, "inline": true},
+              {"name": "Workflow", "value": $workflow, "inline": true},
+              {"name": "Time", "value": $time}
+            ],
+            "footer": {"text": "Skiddle Bot | GitHub Actions"}
+          }]
+        }')" ${{ secrets.DISCORD_WEBHOOK }}
+      shell: bash
+
+    - name: Notify via Discord (Failure)
+      if: failure()
+      run: |
+        TIME=$(date +"%Y-%m-%d %H:%M:%S")
+        curl -H "Content-Type: application/json" \
+        -X POST -d "$(jq -n --arg repo "${{ github.repository }}" \
+                           --arg branch "${{ github.ref_name }}" \
+                           --arg workflow "${{ github.workflow }}" \
+                           --arg time "$TIME" \
+                           '{
+          "embeds": [{
+            "title": "❌ Google Trends Scrape Failed",
+            "description": "An error occurred while scraping trending data.",
+            "color": 15158332,
+            "fields": [
+              {"name": "Repository", "value": $repo, "inline": true},
+              {"name": "Branch", "value": $branch, "inline": true},
+              {"name": "Workflow", "value": $workflow, "inline": true},
+              {"name": "Time", "value": $time}
+            ],
+            "footer": {"text": "Skiddle Bot | GitHub Actions"}
+          }]
+        }')" ${{ secrets.DISCORD_WEBHOOK }}
+      shell: bash
